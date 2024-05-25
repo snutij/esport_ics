@@ -1,8 +1,88 @@
 # frozen_string_literal: true
 
-require_relative "esport_ics/version"
+require "json"
+require "net/http"
+require "icalendar"
 
 module EsportIcs
   class Error < StandardError; end
-  # Your code goes here...
+
+  # handle the generation of ics files for all League of Legends leagues
+  module LeagueOfLegends
+    LFL_LEAGUE_ID = "74452834262590"
+    LEC_LEAGUE_ID = "97530759608318"
+    EMEA_MASTER_LEAGUE_ID = "51200282806521"
+    LCS_LEAGUE_ID = "34247741770488"
+    LPL_LEAGUE_ID = "31698836969528"
+    LCK_LEAGUE_ID = "97692597116075"
+    LFL_DIV2_LEAGUE_ID = "72652091833775"
+    MSI_LEAGUE_ID = "69220076243247"
+    WORLDS_LEAGUE_ID = "50606172015690"
+
+    def self.generate_ics
+      @data = JSON.parse(File.read(File.expand_path("mock.json", __dir__))).fetch("data")
+      events = @data
+
+      return unless events.any?
+
+      matches = events.map do |event|
+        Match.new(
+          id: event.fetch("id"),
+          name: event.fetch("name"),
+          startTime: DateTime.strptime(Time.parse(event.fetch("scheduledAt")).to_s, "%Y-%m-%d %H:%M:%S"),
+          endTime: DateTime.strptime((Time.parse(event.fetch("scheduledAt")) + (60 * 60)).to_s, "%Y-%m-%d %H:%M:%S"),
+          teams: event.fetch("teams").map do |team|
+            Team.new(
+              id: team.fetch("id"),
+              name: team.fetch("name"),
+              code: team.fetch("code")
+            )
+          end,
+          league: League.new(
+            id: event.fetch("league").fetch("id"),
+            name: event.fetch("league").fetch("name"),
+            code: event.fetch("league").fetch("code")
+          )
+        )
+      end
+
+      cals = matches.map(&:league).uniq.map do |league|
+        cal = Icalendar::Calendar.new
+        cal.append_custom_property("name", league.name)
+        cal.append_custom_property("description", "#{league.name} games schedule")
+        cal.append_custom_property("code", league.code)
+        cal.append_custom_property("id", league.id.to_s)
+        cal
+      end
+
+      all_league_cal = Icalendar::Calendar.new
+      all_league_cal.append_custom_property("name", "All Leagues")
+      all_league_cal.append_custom_property("description", "All Leagues games schedule")
+      all_league_cal.append_custom_property("id", "all")
+      all_league_cal.append_custom_property("code", "all")
+
+      matches.each do |game|
+        event = Icalendar::Event.new
+        event.dtstart = Icalendar::Values::DateTime.new(game.startTime, "tzid" => "UTC")
+        event.dtend = Icalendar::Values::DateTime.new(game.endTime, "tzid" => "UTC")
+        event.summary = game.name
+        event.description = "[#{game.league.name}] - #{game.teams.map(&:name).join(' vs ')}"
+        event.ip_class = "PUBLIC"
+        all_league_cal.add_event(event)
+        cals.find { |c| c.custom_property("id").first == game.league.id.to_s }.add_event(event)
+      end
+
+      cals << all_league_cal
+
+      cals.each(&:publish)
+
+      cals.each do |cal|
+        File.write("ics/league_of_legends/#{cal.custom_property('code').first}.ics", cal.to_ical)
+      end
+    end
+
+    Match = Struct.new(:id, :name, :startTime, :endTime, :teams, :league, keyword_init: true)
+    Team = Struct.new(:id, :name, :code, keyword_init: true)
+    League = Struct.new(:id, :name, :code, keyword_init: true)
+  end
 end
