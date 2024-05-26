@@ -37,8 +37,37 @@ module EsportIcs
 
     class << self
       def generate_calendars
-        uri = URI("https://api.teamswap.io/api/v2/lol/leagues/schedule")
+        events = fetch_league_schedule
+        return if events.none?
+
+        matches = events.map { |event| match_for(event) }
+
+        calendars = matches.map(&:league).uniq.map { |league| icalendar_for(league) }.push(
+          icalendar_for(League.new(id: "all", name: "All Leagues", code: "all")),
+        )
+
+        matches.each do |match|
+          event = icalendar_event_for(match)
+          calendars.find { |c| c.custom_property("id").first == "all" }.add_event(event)
+          calendars.find { |c| c.custom_property("id").first == match.league.id.to_s }.add_event(event)
+        end
+
+        calendars
+      end
+
+      def write_ics(calendars)
+        calendars.each do |cal|
+          File.open("ics/league_of_legends/#{cal.custom_property("code").first}.ics", "w+") do |f|
+            f.write(cal.to_ical)
+          end
+        end
+      end
+
+      private
+
+      def fetch_league_schedule
         events = []
+        uri = URI("https://api.teamswap.io/api/v2/lol/leagues/schedule")
         page = 0
         max = 100
         loop do
@@ -56,68 +85,48 @@ module EsportIcs
           page += 1
         end
 
-        return if events.none?
-
-        matches = events.map do |event|
-          Match.new(
-            id: event.fetch("id"),
-            name: event.fetch("name"),
-            startTime: Time.strptime(Time.parse(event.fetch("scheduledAt")).to_s, "%Y-%m-%d %H:%M:%S"),
-            endTime: Time.strptime((Time.parse(event.fetch("scheduledAt")) + (60 * 60)).to_s, "%Y-%m-%d %H:%M:%S"),
-            teams: event.fetch("teams").map do |team|
-              Team.new(
-                id: team.fetch("id"),
-                name: team.fetch("name"),
-                code: team.fetch("code"),
-              )
-            end,
-            league: League.new(
-              id: event.fetch("league").fetch("id"),
-              name: event.fetch("league").fetch("name"),
-              code: event.fetch("league").fetch("code"),
-            ),
-          )
-        end
-
-        calendars = matches.map(&:league).uniq.map do |league|
-          cal = Icalendar::Calendar.new
-          cal.append_custom_property("name", league.name)
-          cal.append_custom_property("description", "#{league.name} games schedule")
-          cal.append_custom_property("code", league.code)
-          cal.append_custom_property("id", league.id.to_s)
-          cal
-        end
-
-        all_league_cal = Icalendar::Calendar.new
-        all_league_cal.append_custom_property("name", "All Leagues")
-        all_league_cal.append_custom_property("description", "All Leagues games schedule")
-        all_league_cal.append_custom_property("id", "all")
-        all_league_cal.append_custom_property("code", "all")
-
-        matches.each do |game|
-          event = Icalendar::Event.new
-          event.dtstart = Icalendar::Values::DateTime.new(game.startTime, "tzid" => "UTC")
-          event.dtend = Icalendar::Values::DateTime.new(game.endTime, "tzid" => "UTC")
-          event.summary = game.name
-          event.description = "[#{game.league.name}] - #{game.teams.map(&:name).join(" vs ")}"
-          event.ip_class = "PUBLIC"
-          all_league_cal.add_event(event)
-          calendars.find { |c| c.custom_property("id").first == game.league.id.to_s }.add_event(event)
-        end
-
-        calendars << all_league_cal
-
-        calendars.each(&:publish)
-
-        calendars
+        events
       end
 
-      def write_ics(calendars)
-        calendars.each do |cal|
-          File.open("ics/league_of_legends/#{cal.custom_property("code").first}.ics", "w+") do |f|
-            f.write(cal.to_ical)
-          end
-        end
+      def match_for(event)
+        Match.new(
+          id: event.fetch("id"),
+          name: event.fetch("name"),
+          startTime: Time.strptime(Time.parse(event.fetch("scheduledAt")).to_s, "%Y-%m-%d %H:%M:%S"),
+          endTime: Time.strptime((Time.parse(event.fetch("scheduledAt")) + (60 * 60)).to_s, "%Y-%m-%d %H:%M:%S"),
+          teams: event.fetch("teams").map do |team|
+            Team.new(
+              id: team.fetch("id"),
+              name: team.fetch("name"),
+              code: team.fetch("code"),
+            )
+          end,
+          league: League.new(
+            id: event.fetch("league").fetch("id"),
+            name: event.fetch("league").fetch("name"),
+            code: event.fetch("league").fetch("code"),
+          ),
+        )
+      end
+
+      def icalendar_for(league)
+        cal = Icalendar::Calendar.new
+        cal.append_custom_property("name", league.name)
+        cal.append_custom_property("description", "#{league.name} games schedule")
+        cal.append_custom_property("code", league.code)
+        cal.append_custom_property("id", league.id.to_s)
+        cal.publish
+        cal
+      end
+
+      def icalendar_event_for(match)
+        event = Icalendar::Event.new
+        event.dtstart = Icalendar::Values::DateTime.new(match.startTime, "tzid" => "UTC")
+        event.dtend = Icalendar::Values::DateTime.new(match.endTime, "tzid" => "UTC")
+        event.summary = match.name
+        event.description = "[#{match.league.name}] - #{match.teams.map(&:name).join(" vs ")}"
+        event.ip_class = "PUBLIC"
+        event
       end
     end
   end
