@@ -114,7 +114,9 @@ module EsportIcs
 
       def write_ics(calendars)
         calendars.each do |cal|
-          File.write("ics/league_of_legends/#{cal.custom_property("code").first}.ics", cal.to_ical)
+          File.open("ics/league_of_legends/#{cal.custom_property("code").first}.ics", "w+") do |f|
+            f.write(cal.to_ical)
+          end
         end
       end
     end
