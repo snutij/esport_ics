@@ -55,6 +55,10 @@ GEM
     rubocop-performance (1.21.0)
       rubocop (>= 1.48.1, < 2.0)
       rubocop-ast (>= 1.31.1, < 2.0)
+    rubocop-rake (0.6.0)
+      rubocop (~> 1.0)
+    rubocop-shopify (2.15.1)
+      rubocop (~> 1.51)
     ruby-progressbar (1.13.0)
     stringio (3.1.0)
     strscan (3.1.0)
@@ -73,6 +77,8 @@ DEPENDENCIES
   rubocop (~> 1.21)
   rubocop-minitest (~> 0.35.0)
   rubocop-performance (~> 1.21)
+  rubocop-rake (~> 0.6.0)
+  rubocop-shopify (~> 2.15)
 
 BUNDLED WITH
    2.4.19

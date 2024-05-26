@@ -10,8 +10,8 @@ gem "minitest", "~> 5.0"
 gem "rake", "~> 13.0"
 gem "rubocop", "~> 1.21"
 
-group :development do
-  gem "debug", "~> 1.9"
-  gem "rubocop-minitest", "~> 0.35.0"
-  gem "rubocop-performance", "~> 1.21"
-end
+gem "debug", "~> 1.9", group: :development
+gem "rubocop-minitest", "~> 0.35.0", group: :development
+gem "rubocop-performance", "~> 1.21", group: :development
+gem "rubocop-rake", "~> 0.6.0", group: :development
+gem "rubocop-shopify", "~> 2.15", group: :development
