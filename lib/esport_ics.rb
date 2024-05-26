@@ -9,6 +9,8 @@ module EsportIcs
 
   # handle the generation of ics files for all League of Legends leagues
   module LeagueOfLegends
+    require_relative "esport_ics/league_of_legends/dto"
+
     LFL_LEAGUE_ID = "74452834262590"
     LEC_LEAGUE_ID = "97530759608318"
     EMEA_MASTERS_LEAGUE_ID = "51200282806521"
@@ -30,10 +32,6 @@ module EsportIcs
       MSI_LEAGUE_ID,
       WORLDS_LEAGUE_ID,
     ].freeze
-
-    Match = Struct.new(:id, :name, :startTime, :endTime, :teams, :league, keyword_init: true)
-    Team = Struct.new(:id, :name, :code, keyword_init: true)
-    League = Struct.new(:id, :name, :code, keyword_init: true)
 
     class << self
       def generate_calendars
