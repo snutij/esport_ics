@@ -11,7 +11,7 @@ class EsportIcsTest < Minitest::Test
     Net::HTTP.stub(:get_response, FakeHTTPResponse.new(200, JSON.parse(
       File.read(LEAGUE_OF_LEGENDS_FIXTURES_PATH).to_json,
     ))) do
-      calendars = EsportIcs::LeagueOfLegends.generate_calendars
+      calendars = EsportIcs::LeagueOfLegends::Generator.generate_calendars
       calendars.each do |calendar|
         expected = File.read(File.join(
           EXPECTATIONS_PATH,
