@@ -1,35 +1,14 @@
 # frozen_string_literal: true
 
 require_relative "dto"
+require_relative "fetcher"
 
 module EsportIcs
   module LeagueOfLegends
     module Generator
-      LFL_LEAGUE_ID = "74452834262590"
-      LEC_LEAGUE_ID = "97530759608318"
-      EMEA_MASTERS_LEAGUE_ID = "51200282806521"
-      LCS_LEAGUE_ID = "34247741770488"
-      LPL_LEAGUE_ID = "31698836969528"
-      LCK_LEAGUE_ID = "97692597116075"
-      LFL_DIV2_LEAGUE_ID = "72652091833775"
-      MSI_LEAGUE_ID = "69220076243247"
-      WORLDS_LEAGUE_ID = "50606172015690"
-
-      ALL_LEAGUES = [
-        LFL_LEAGUE_ID,
-        LEC_LEAGUE_ID,
-        EMEA_MASTERS_LEAGUE_ID,
-        LCS_LEAGUE_ID,
-        LPL_LEAGUE_ID,
-        LCK_LEAGUE_ID,
-        LFL_DIV2_LEAGUE_ID,
-        MSI_LEAGUE_ID,
-        WORLDS_LEAGUE_ID,
-      ].freeze
-
       class << self
         def generate_calendars
-          events = fetch_league_schedule
+          events = Fetcher.new.fetch!
           return if events.none?
 
           matches = events.map { |event| match_for(event) }
