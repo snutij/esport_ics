@@ -7,7 +7,7 @@ module EsportIcs
     class Fetcher
       BASE_URL = "https://api.teamswap.io/api/v2/lol/leagues/schedule"
       MAX_EVENTS = 100
-      MAX_PAGINATION = 10
+      MAX_PAGINATION = 30
 
       def initialize
         @uri = URI(BASE_URL)
