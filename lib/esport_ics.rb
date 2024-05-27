@@ -3,6 +3,7 @@
 require "json"
 require "net/http"
 require "icalendar"
+require "time"
 
 module EsportIcs
   class Error < StandardError; end

@@ -5,7 +5,6 @@ require "esport_ics"
 
 require "minitest/autorun"
 require "debug"
-require "time"
 
 class FakeHTTPResponse
   attr_reader :code, :body
