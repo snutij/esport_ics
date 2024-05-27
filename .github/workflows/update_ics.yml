@@ -1,0 +1,35 @@
+name: Update ICS Calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs at midnight every day
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Run rake task to generate ICS
+        run: bundle exec rake esport_ics:league_of_legends:generate
+
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add ics/league_of_legends/
+          git commit -m 'Update ICS file'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
