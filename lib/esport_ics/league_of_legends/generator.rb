@@ -35,7 +35,7 @@ module EsportIcs
           matches = events.map { |event| match_for(event) }
 
           calendars = matches.map(&:league).uniq.map { |league| icalendar_for(league) }.push(
-            icalendar_for(League.new(id: "all", name: "All Leagues", code: "all")),
+            icalendar_for(Dto::League.new(id: "all", name: "All Leagues", code: "all")),
           )
 
           matches.each do |match|
@@ -57,43 +57,20 @@ module EsportIcs
 
         private
 
-        def fetch_league_schedule
-          events = []
-          uri = URI("https://api.teamswap.io/api/v2/lol/leagues/schedule")
-          page = 0
-          max = 100
-          loop do
-            params = { page: page, league: ALL_LEAGUES }
-            uri.query = URI.encode_www_form(params)
-            response = Net::HTTP.get_response(uri)
-
-            break unless response.code == 200
-
-            body = JSON.parse(response.body)
-            events.concat(body.fetch("data", []))
-
-            break if body.empty? || events.length >= max || page >= 10
-
-            page += 1
-          end
-
-          events
-        end
-
         def match_for(event)
-          Match.new(
+          Dto::Match.new(
             id: event.fetch("id"),
             name: event.fetch("name"),
             startTime: Time.strptime(Time.parse(event.fetch("scheduledAt")).to_s, "%Y-%m-%d %H:%M:%S"),
             endTime: Time.strptime((Time.parse(event.fetch("scheduledAt")) + (60 * 60)).to_s, "%Y-%m-%d %H:%M:%S"),
             teams: event.fetch("teams").map do |team|
-              Team.new(
+              Dto::Team.new(
                 id: team.fetch("id"),
                 name: team.fetch("name"),
                 code: team.fetch("code"),
               )
             end,
-            league: League.new(
+            league: Dto::League.new(
               id: event.fetch("league").fetch("id"),
               name: event.fetch("league").fetch("name"),
               code: event.fetch("league").fetch("code"),
