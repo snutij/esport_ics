@@ -13,4 +13,16 @@ require "rubocop/rake_task"
 
 RuboCop::RakeTask.new
 
+namespace :esport_ics do
+  namespace :league_of_legends do
+    desc "Generate League of Legends ics files"
+    task :generate do
+      require "esport_ics"
+
+      calendars = EsportIcs::LeagueOfLegends::Generator.generate_calendars
+      EsportIcs::LeagueOfLegends::Generator.write_ics(calendars)
+    end
+  end
+end
+
 task default: [:test, :rubocop]
