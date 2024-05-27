@@ -44,11 +44,15 @@ module EsportIcs
       end
 
       def league(event)
+        league = event.fetch("league")
+        id = league.fetch("id")
+        name = league.fetch("name")
+        code = league.fetch("code") || name
         {
           league: Dto::League.new(
-            id: event.fetch("league").fetch("id"),
-            name: event.fetch("league").fetch("name"),
-            code: event.fetch("league").fetch("code"),
+            id: id,
+            name: name,
+            code: code,
           ),
         }
       end
