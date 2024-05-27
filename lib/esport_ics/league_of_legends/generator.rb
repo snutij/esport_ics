@@ -2,6 +2,7 @@
 
 require_relative "dto"
 require_relative "fetcher"
+require_relative "mapper"
 
 module EsportIcs
   module LeagueOfLegends
@@ -11,7 +12,7 @@ module EsportIcs
           events = Fetcher.new.fetch!
           return if events.none?
 
-          matches = events.map { |event| match_for(event) }
+          matches = Mapper.new(events).to_matches!
 
           calendars = matches.map(&:league).uniq.map { |league| icalendar_for(league) }.push(
             icalendar_for(Dto::League.new(id: "all", name: "All Leagues", code: "all")),
@@ -35,27 +36,6 @@ module EsportIcs
         end
 
         private
-
-        def match_for(event)
-          Dto::Match.new(
-            id: event.fetch("id"),
-            name: event.fetch("name"),
-            startTime: Time.strptime(Time.parse(event.fetch("scheduledAt")).to_s, "%Y-%m-%d %H:%M:%S"),
-            endTime: Time.strptime((Time.parse(event.fetch("scheduledAt")) + (60 * 60)).to_s, "%Y-%m-%d %H:%M:%S"),
-            teams: event.fetch("teams").map do |team|
-              Dto::Team.new(
-                id: team.fetch("id"),
-                name: team.fetch("name"),
-                code: team.fetch("code"),
-              )
-            end,
-            league: Dto::League.new(
-              id: event.fetch("league").fetch("id"),
-              name: event.fetch("league").fetch("name"),
-              code: event.fetch("league").fetch("code"),
-            ),
-          )
-        end
 
         def icalendar_for(league)
           cal = Icalendar::Calendar.new
