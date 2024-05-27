@@ -8,7 +8,7 @@ class EsportIcsTest < Minitest::Test
   LEAGUE_OF_LEGENDS_FIXTURES_PATH = File.join(FIXTURES_PATH, "league_of_legends", "mock.json")
 
   def test_generate_league_of_legends_ics
-    Net::HTTP.stub(:get_response, FakeHTTPResponse.new(200, JSON.parse(
+    Net::HTTP.stub(:get_response, FakeHTTPResponse.new("200", JSON.parse(
       File.read(LEAGUE_OF_LEGENDS_FIXTURES_PATH).to_json,
     ))) do
       calendars = EsportIcs::LeagueOfLegends::Generator.generate_calendars
