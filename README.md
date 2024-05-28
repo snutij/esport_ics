@@ -1,14 +1,14 @@
 # EsportIcs
 
-This repository automates the generation and updating of an ICS file for a calendar of League of Legends events. Using a GitHub Actions workflow, the calendar is refreshed daily and can be easily subscribed to in Google Calendar, Apple Calendar, and Outlook.
+This repository automates the generation and update of ICS files for League of Legends events. Calendars are refreshed daily and can be subscribed to in Google Calendar, Apple Calendar and Outlook.
 
 ## Subscribing to the ICS Calendar
 
-To subscribe to the ICS calendar, follow these steps:
+To subscribe to an ICS calendar, follow these steps:
 
 1. **Get the URL of the ICS file:**
 
-   Find in `ics/league_of_legengs` folder the ICS file that you want to subscribe, than click on `raw` button, and pick the URL, e.g:
+   Find in the `ics/league_of_legengs` folder the ICS file that you want to subscribe to, then click on the `raw` button, and pick the URL, e.g.:
 
    ```
    https://raw.githubusercontent.com/snutij/esport_ics/main/ics/league_of_legends/LEC.ics
