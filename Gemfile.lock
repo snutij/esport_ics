@@ -10,6 +10,7 @@ GEM
     debug (1.9.2)
       irb (~> 1.10)
       reline (>= 0.3.8)
+    dotenv (3.1.2)
     icalendar (2.10.1)
       ice_cube (~> 0.16)
     ice_cube (0.16.4)
@@ -70,6 +71,7 @@ PLATFORMS
 
 DEPENDENCIES
   debug (~> 1.9)
+  dotenv (~> 3.1)
   esport_ics!
   icalendar (~> 2.10)
   minitest (~> 5.0)

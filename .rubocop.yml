@@ -10,3 +10,6 @@ require:
   - rubocop-performance
   - rubocop-minitest
   - rubocop-rake
+
+Bundler/OrderedGems:
+  Enabled: true
