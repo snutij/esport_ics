@@ -6,7 +6,7 @@ module EsportIcs
   module LeagueOfLegends
     module Generator
       class << self
-        def generate_calendars
+        def create!
           leagues = Fetcher.fetch_leagues!
           return if leagues.none?
 
