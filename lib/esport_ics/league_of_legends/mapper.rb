@@ -1,60 +1,30 @@
 # frozen_string_literal: true
 
+require_relative "dto"
+
 module EsportIcs
   module LeagueOfLegends
-    class Mapper
-      def initialize(events)
-        @events = events
-        @matches = []
-      end
+    module Mapper
+      ONE_HOUR_IN_SECONDS = 3600
+      SLUG_PREFIX = "league-of-legends-"
 
-      def to_matches!
-        @events.map do |event|
-          @matches << Dto::Match.new(
-            id: event.fetch("id"),
-            name: event.fetch("name"),
-            **schedule(event),
-            **teams(event),
-            **league(event),
+      class << self
+        def to_leagues!(api_league)
+          Dto::League.new(
+            id: api_league.fetch("id"),
+            name: api_league.fetch("name"),
+            slug: api_league.fetch("slug").delete_prefix(SLUG_PREFIX),
           )
         end
 
-        @matches
-      end
-
-      private
-
-      def schedule(event)
-        {
-          startTime: Time.strptime(Time.parse(event.fetch("scheduledAt")).to_s, "%Y-%m-%d %H:%M:%S"),
-          endTime: Time.strptime((Time.parse(event.fetch("scheduledAt")) + (60 * 60)).to_s, "%Y-%m-%d %H:%M:%S"),
-        }
-      end
-
-      def teams(event)
-        {
-          teams: event.fetch("teams", []).map do |team|
-            Dto::Team.new(
-              id: team.fetch("id"),
-              name: team.fetch("name"),
-              code: team.fetch("code"),
-            )
-          end,
-        }
-      end
-
-      def league(event)
-        league = event.fetch("league")
-        id = league.fetch("id")
-        name = league.fetch("name")
-        code = league.fetch("code") || name
-        {
-          league: Dto::League.new(
-            id: id,
-            name: name,
-            code: code,
-          ),
-        }
+        def to_matches!(api_match)
+          Dto::Match.new(
+            name: api_match.fetch("name"),
+            startTime: Time.parse(api_match.fetch("scheduled_at")),
+            endTime:  Time.parse(api_match.fetch("scheduled_at")) + ONE_HOUR_IN_SECONDS,
+            league_name: api_match.dig("league", "name"),
+          )
+        end
       end
     end
   end

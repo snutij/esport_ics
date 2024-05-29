@@ -1,60 +1,61 @@
 # frozen_string_literal: true
 
-require_relative "dto"
 require_relative "fetcher"
-require_relative "mapper"
 
 module EsportIcs
   module LeagueOfLegends
     module Generator
       class << self
         def generate_calendars
-          events = Fetcher.new.fetch!
-          return if events.none?
+          leagues = Fetcher.fetch_leagues!
+          return if leagues.none?
 
-          matches = Mapper.new(events).to_matches!
+          leagues.each do |league|
+            matches = Fetcher.fetch_matches!(league.id)
+            next if matches.none?
 
-          calendars = matches.map(&:league).uniq.map { |league| icalendar_for(league) }.push(
-            icalendar_for(Dto::League.new(id: "all", name: "All Leagues", code: "all")),
-          )
+            calendar = calendar_for(league)
 
-          matches.each do |match|
-            event = icalendar_event_for(match)
-            calendars.find { |c| c.custom_property("id").first == "all" }.add_event(event)
-            calendars.find { |c| c.custom_property("id").first == match.league.id.to_s }.add_event(event)
-          end
-
-          calendars
-        end
-
-        def write_ics(calendars)
-          calendars.each do |cal|
-            File.open("ics/league_of_legends/#{cal.custom_property("code").first}.ics", "w+") do |f|
-              f.write(cal.to_ical)
+            matches.each do |match|
+              event = calendar_event_for(match)
+              calendar.add_event(event)
             end
+
+            write_ics(calendar)
           end
         end
 
         private
 
-        def icalendar_for(league)
+        def calendar_for(league)
           cal = Icalendar::Calendar.new
           cal.append_custom_property("name", league.name)
-          cal.append_custom_property("description", "#{league.name} games schedule")
-          cal.append_custom_property("code", league.code)
-          cal.append_custom_property("id", league.id.to_s)
+          cal.append_custom_property("slug", league.slug)
           cal.publish
           cal
         end
 
-        def icalendar_event_for(match)
+        def calendar_event_for(match)
           event = Icalendar::Event.new
+          event.summary = match.name
+          event.description = "[#{match.league_name}] - #{match.name}"
           event.dtstart = Icalendar::Values::DateTime.new(match.startTime, "tzid" => "UTC")
           event.dtend = Icalendar::Values::DateTime.new(match.endTime, "tzid" => "UTC")
-          event.summary = match.name
-          event.description = "[#{match.league.name}] - #{match.teams.map(&:name).join(" vs ")}"
           event.ip_class = "PUBLIC"
           event
+        end
+
+        def add_match_to(calendar, matches)
+          matches.each do |match|
+            event = icalendar_event_for(match)
+            calendar.add_event(event)
+          end
+        end
+
+        def write_ics(calendar)
+          File.open("ics/league_of_legends/#{calendar.custom_property("slug").first}.ics", "w+") do |f|
+            f.write(calendar.to_ical)
+          end
         end
       end
     end

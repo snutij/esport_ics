@@ -1,38 +1,47 @@
 # frozen_string_literal: true
 
-require_relative "league"
+require_relative "mapper"
 
 module EsportIcs
   module LeagueOfLegends
-    class Fetcher
-      BASE_URL = "https://api.teamswap.io/api/v2/lol/leagues/schedule"
-      MAX_EVENTS = 100
-      MAX_PAGINATION = 30
+    module Fetcher
+      BASE_URL = "https://api.pandascore.co/lol"
+      LEAGUE_MAX_PAGE_SIZE = 100
 
-      def initialize
-        @uri = URI(BASE_URL)
-        @events = []
-        @page = 0
-      end
+      class << self
+        def fetch_leagues!
+          filters = "page[size]=#{LEAGUE_MAX_PAGE_SIZE}"
 
-      def fetch!
-        loop do
-          params = { page: @page, league: League::ALL }
-          @uri.query = URI.encode_www_form(params)
-
-          response = Net::HTTP.get_response(@uri)
-
-          break unless response.code == "200"
-
-          body = JSON.parse(response.body)
-          @events.concat(body.fetch("data", []))
-
-          break if body.empty? || @events.length >= MAX_EVENTS || @page >= MAX_PAGINATION
-
-          @page += 1
+          fetch_data!("leagues", filters).map do |api_league|
+            Mapper.to_leagues!(api_league)
+          end
         end
 
-        @events
+        def fetch_matches!(league_id = nil)
+          filters = "filter[league_id]=#{league_id}" if league_id
+
+          fetch_data!("matches/upcoming", filters).map do |api_match|
+            Mapper.to_matches!(api_match)
+          end
+        end
+
+        private
+
+        def fetch_data!(path, filters = "")
+          url = URI("https://api.pandascore.co/lol/#{path}")
+          url.query = filters unless filters.empty?
+
+          http = Net::HTTP.new(url.host, url.port)
+          http.use_ssl = true
+
+          request = Net::HTTP::Get.new(url)
+          request["accept"] = "application/json"
+          request["authorization"] = "Bearer #{ENV["PANDASCORE_API_TOKEN"]}"
+
+          response = http.request(request)
+
+          JSON.parse(response.read_body)
+        end
       end
     end
   end

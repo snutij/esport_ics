@@ -19,8 +19,7 @@ namespace :esport_ics do
     task :generate do
       require "esport_ics"
 
-      calendars = EsportIcs::LeagueOfLegends::Generator.generate_calendars
-      EsportIcs::LeagueOfLegends::Generator.write_ics(calendars)
+      EsportIcs::LeagueOfLegends::Generator.generate_calendars
     end
   end
 end
