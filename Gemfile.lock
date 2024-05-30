@@ -6,11 +6,18 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.8.6)
+      public_suffix (>= 2.0.2, < 6.0)
     ast (2.4.2)
+    bigdecimal (3.1.8)
+    crack (1.0.0)
+      bigdecimal
+      rexml
     debug (1.9.2)
       irb (~> 1.10)
       reline (>= 0.3.8)
     dotenv (3.1.2)
+    hashdiff (1.1.0)
     icalendar (2.10.1)
       ice_cube (~> 0.16)
     ice_cube (0.16.4)
@@ -27,6 +34,7 @@ GEM
       racc
     psych (5.1.2)
       stringio
+    public_suffix (5.0.5)
     racc (1.8.0)
     rainbow (3.1.1)
     rake (13.2.1)
@@ -64,6 +72,10 @@ GEM
     stringio (3.1.0)
     strscan (3.1.0)
     unicode-display_width (2.5.0)
+    webmock (3.23.1)
+      addressable (>= 2.8.0)
+      crack (>= 0.3.2)
+      hashdiff (>= 0.4.0, < 2.0.0)
 
 PLATFORMS
   arm64-darwin-23
@@ -81,6 +93,7 @@ DEPENDENCIES
   rubocop-performance (~> 1.21)
   rubocop-rake (~> 0.6.0)
   rubocop-shopify (~> 2.15)
+  webmock (~> 3.23)
 
 BUNDLED WITH
    2.4.19

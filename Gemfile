@@ -18,3 +18,7 @@ group :development do
   gem "rubocop-rake", "~> 0.6.0"
   gem "rubocop-shopify", "~> 2.15"
 end
+
+group :test do
+  gem "webmock", "~> 3.23"
+end
