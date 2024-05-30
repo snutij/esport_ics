@@ -45,13 +45,6 @@ module EsportIcs
           event
         end
 
-        def add_match_to(calendar, matches)
-          matches.each do |match|
-            event = icalendar_event_for(match)
-            calendar.add_event(event)
-          end
-        end
-
         def write_ics(calendar)
           File.open("ics/league_of_legends/#{calendar.custom_property("slug").first}.ics", "w+") do |f|
             f.write(calendar.to_ical)
