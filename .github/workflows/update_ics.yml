@@ -26,7 +26,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add ics/league_of_legends/
-          git commit -m 'Update ICS file'
+          git commit -m 'Update ICS files'
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
