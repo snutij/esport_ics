@@ -16,7 +16,7 @@ module EsportIcs
       def write!
         @calendars.each do |calendar|
           File.open(ICS_PATH.sub(":slug", calendar.custom_property("slug").first), "w+") do |file|
-            file.write(calendar)
+            file.write(calendar.to_ical)
           end
         end
       end
@@ -40,7 +40,7 @@ module EsportIcs
             calendar.add_event(event)
           end
 
-          calendars << calendar.to_ical
+          calendars << calendar
         end
 
         calendars

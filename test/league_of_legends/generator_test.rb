@@ -11,7 +11,7 @@ module EsportIcs
 
       def test_create_ics
         with_api_stubs do
-          Generator.new.calendars.concat(EXPECTED_ICS)
+          Generator.new.calendars.map(&:to_ical).concat(EXPECTED_ICS)
             .map { |c| Icalendar::Calendar.parse(c).first }
             .group_by { |c| c.custom_property("slug").first }
             .each { |_slug, (cal, exp)| assert_same_calendar(cal, exp) }
