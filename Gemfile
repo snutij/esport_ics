@@ -20,5 +20,6 @@ group :development do
 end
 
 group :test do
+  gem "mocha", "~> 2.3"
   gem "webmock", "~> 3.23"
 end
