@@ -20,6 +20,8 @@ jobs:
 
       - name: Run rake task to generate ICS
         run: bundle exec rake esport_ics:league_of_legends:generate
+        env:
+          PANDASCORE_API_TOKEN: ${{ secrets.PANDASCORE_API_TOKEN }}
 
       - name: Commit and push changes
         run: |
