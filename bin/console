@@ -10,4 +10,11 @@ require "irb"
 require "esport_ics"
 require "debug"
 
+# utility method to copy long result to clipboard
+def pbcopy(input)
+  str = input.to_s
+  IO.popen("pbcopy", "w") { |f| f << str }
+  str
+end
+
 IRB.start(__FILE__)
