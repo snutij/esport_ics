@@ -7,11 +7,16 @@ module EsportIcs
     class GeneratorTest < Minitest::Test
       MOCK_LEAGUE = File.read(File.join(FIXTURES_PATH, "league_of_legends", "leagues.json"))
       MOCK_MATCHES = File.read(File.join(FIXTURES_PATH, "league_of_legends", "matches.json"))
-      EXPECTED_ICS = Dir.glob(File.join(EXPECTATIONS_PATH, "league_of_legends", "*.ics")).map { |f| File.read(f) }
+      EXPECTED_ICS = Dir.glob(File.join(EXPECTATIONS_PATH, "league_of_legends", "**", "*.ics")).map { |f| File.read(f) }
 
       def test_create_ics
         with_api_stubs do
-          Generator.new.calendars.map(&:to_ical).concat(EXPECTED_ICS)
+          # Generator.new.generate
+          Generator.new.generate.calendars
+            .flat_map { |c| [c[:league]].concat(c[:teams].values) }
+            .map(&:to_ical)
+            .tap { |calendars| assert_equal(calendars.size, EXPECTED_ICS.size) }
+            .concat(EXPECTED_ICS)
             .map { |c| Icalendar::Calendar.parse(c).first }
             .group_by { |c| c.custom_property("slug").first }
             .each { |_slug, (cal, exp)| assert_same_calendar(cal, exp) }
@@ -24,8 +29,10 @@ module EsportIcs
         assert(calendar)
         assert(expected_ics)
 
-        assert_equal(calendar.ip_name, expected_ics.ip_name)
+        assert_equal(calendar.custom_property("name"), expected_ics.custom_property("name"))
         assert_equal(calendar.custom_property("slug"), expected_ics.custom_property("slug"))
+        # assert_equal(calendar.custom_property("kind"), expected_ics.custom_property("kind"))
+        assert_equal(calendar.ip_name, expected_ics.ip_name)
         assert_equal(calendar.ip_method, expected_ics.ip_method)
         assert_equal(calendar.events.size, expected_ics.events.size)
 
@@ -33,8 +40,8 @@ module EsportIcs
           assert_equal(event.summary, expected_event.summary)
           assert_equal(event.description, expected_event.description)
           assert_equal(event.ip_class, expected_event.ip_class)
-          assert_equal(event.dtstart.ical_params["tzid"], expected_event.dtstart.ical_params["tzid"])
-          assert_equal(event.dtend.ical_params["tzid"], expected_event.dtend.ical_params["tzid"])
+          assert_equal(event.dtstart.to_s, expected_event.dtstart.to_s)
+          assert_equal(event.dtend.to_s, expected_event.dtend.to_s)
         end
       end
 

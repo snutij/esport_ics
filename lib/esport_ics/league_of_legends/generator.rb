@@ -1,67 +1,75 @@
 # frozen_string_literal: true
 
 require_relative "fetcher"
+require_relative "mapper"
 
 module EsportIcs
   module LeagueOfLegends
     class Generator
-      ICS_PATH = "ics/league_of_legends/:slug.ics"
+      LEAGUE_ICS_PATH = "ics/league_of_legends/:league_slug.ics"
+      TEAM_ICS_PATH = "ics/league_of_legends/:league_slug/:team_slug.ics"
 
       attr_reader :calendars
 
       def initialize
-        @calendars = create_calendars
+        @calendars = []
+      end
+
+      def generate
+        Fetcher.fetch_leagues!.each do |league|
+          matches = Fetcher.fetch_matches!(league.id)
+          next if matches.empty?
+
+          @calendars << process_league(league, matches)
+        end
+        self
       end
 
       def write!
         @calendars.each do |calendar|
-          File.open(ICS_PATH.sub(":slug", calendar.custom_property("slug").first), "w+") do |file|
-            file.write(calendar.to_ical)
-          end
+          write_league_calendar(calendar[:league])
+          write_team_calendars(calendar[:teams], calendar[:league].custom_property("slug").first)
         end
       end
 
       private
 
-      def create_calendars
-        leagues = Fetcher.fetch_leagues!
-        return if leagues.none?
+      def process_league(league, matches)
+        league_calendar = Mapper.to_ical(league)
+        team_calendars = {}
 
-        calendars = []
+        matches.each do |match|
+          event = Mapper.to_event(match)
+          league_calendar.add_event(event)
 
-        leagues.each do |league|
-          matches = Fetcher.fetch_matches!(league.id)
-          next if matches.none?
-
-          calendar = calendar_for(league)
-
-          matches.each do |match|
-            event = calendar_event_for(match)
-            calendar.add_event(event)
+          match.teams.each do |team|
+            team_calendar = team_calendars[team.slug] ||= Mapper.to_ical(team)
+            team_calendar.add_event(event)
           end
-
-          calendars << calendar
         end
 
-        calendars
+        { league: league_calendar, teams: team_calendars }
       end
 
-      def calendar_for(league)
-        cal = Icalendar::Calendar.new
-        cal.append_custom_property("name", league.name)
-        cal.append_custom_property("slug", league.slug)
-        cal.publish
-        cal
+      def write_league_calendar(league_calendar)
+        file_path = LEAGUE_ICS_PATH.sub(":league_slug", league_calendar.custom_property("slug").first)
+        write_calendar_to_file(file_path, league_calendar)
       end
 
-      def calendar_event_for(match)
-        event = Icalendar::Event.new
-        event.summary = match.name
-        event.description = "[#{match.league_name}] - #{match.name}"
-        event.dtstart = Icalendar::Values::DateTime.new(match.startTime, "tzid" => "UTC")
-        event.dtend = Icalendar::Values::DateTime.new(match.endTime, "tzid" => "UTC")
-        event.ip_class = "PUBLIC"
-        event
+      def write_team_calendars(team_calendars, league_slug)
+        team_calendars.each do |team_slug, team_calendar|
+          file_path = TEAM_ICS_PATH.sub(":league_slug", league_slug).sub(":team_slug", team_slug)
+          write_calendar_to_file(file_path, team_calendar)
+        end
+      end
+
+      def write_calendar_to_file(file_path, calendar)
+        dir_path = File.dirname(file_path)
+        FileUtils.mkdir_p(dir_path) unless Dir.exist?(dir_path)
+
+        File.open(file_path, "w+") do |file|
+          file.write(calendar.to_ical)
+        end
       end
     end
   end

@@ -5,5 +5,6 @@ require "net/http"
 require "icalendar"
 require "time"
 require "dotenv"
+require "fileutils"
 
 Dotenv.load
