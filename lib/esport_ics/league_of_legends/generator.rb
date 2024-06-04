@@ -6,7 +6,7 @@ require_relative "mapper"
 module EsportIcs
   module LeagueOfLegends
     class Generator
-      LEAGUE_ICS_PATH = "ics/league_of_legends/:league_slug.ics"
+      LEAGUE_ICS_PATH = "ics/league_of_legends/:league_slug/all.ics"
       TEAM_ICS_PATH = "ics/league_of_legends/:league_slug/:team_slug.ics"
 
       attr_reader :calendars

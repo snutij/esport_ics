@@ -15,7 +15,7 @@ module EsportIcs
           filters = "page[size]=#{LEAGUE_MAX_PAGE_SIZE}"
 
           fetch_data!(LEAGUE_PATH, filters).map do |api_league|
-            Mapper.to_leagues!(api_league)
+            Mapper.to_leagues(api_league)
           end
         end
 
@@ -23,7 +23,7 @@ module EsportIcs
           filters = "filter[league_id]=#{league_id}" if league_id
 
           fetch_data!(MATCHES_PATH, filters).map do |api_match|
-            Mapper.to_matches!(api_match)
+            Mapper.to_matches(api_match)
           end
         end
 

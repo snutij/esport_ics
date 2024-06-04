@@ -11,8 +11,10 @@ module EsportIcs
 
       def test_create_ics
         with_api_stubs do
-          # Generator.new.generate
-          Generator.new.generate.calendars
+          Generator
+            .new
+            .generate
+            .calendars
             .flat_map { |c| [c[:league]].concat(c[:teams].values) }
             .map(&:to_ical)
             .tap { |calendars| assert_equal(calendars.size, EXPECTED_ICS.size) }
@@ -31,7 +33,6 @@ module EsportIcs
 
         assert_equal(calendar.custom_property("name"), expected_ics.custom_property("name"))
         assert_equal(calendar.custom_property("slug"), expected_ics.custom_property("slug"))
-        # assert_equal(calendar.custom_property("kind"), expected_ics.custom_property("kind"))
         assert_equal(calendar.ip_name, expected_ics.ip_name)
         assert_equal(calendar.ip_method, expected_ics.ip_method)
         assert_equal(calendar.events.size, expected_ics.events.size)
@@ -49,24 +50,23 @@ module EsportIcs
         stub_leagues
 
         JSON.parse(MOCK_LEAGUE)
-          .map { |league| Mapper.to_leagues!(league) }
+          .map { |league| Mapper.to_leagues(league) }
           .each { |league| stub_matches_league(league.id) }
 
         yield
       end
 
       def stub_leagues
-        stub_request(
-          :get,
-          "#{Fetcher::LEAGUE_PATH}?page[size]=100",
-        ).to_return_json(body: MOCK_LEAGUE)
+        stub_request(:get, "#{Fetcher::LEAGUE_PATH}?page[size]=100").to_return_json(body: MOCK_LEAGUE)
       end
 
       def stub_matches_league(league_id)
+        matches = JSON.parse(MOCK_MATCHES).filter { |match| match["league_id"] == league_id }
+
         stub_request(
           :get,
           "#{Fetcher::MATCHES_PATH}?filter[league_id]=#{league_id}",
-        ).to_return_json(body: JSON.parse(MOCK_MATCHES).filter { |match| match["league_id"] == league_id }.to_json)
+        ).to_return_json(body: matches.to_json)
       end
     end
   end
