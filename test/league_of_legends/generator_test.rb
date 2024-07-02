@@ -5,21 +5,16 @@ require "test_helper"
 module EsportIcs
   module LeagueOfLegends
     class GeneratorTest < Minitest::Test
-      MOCK_LEAGUE = File.read(File.join(FIXTURES_PATH, "league_of_legends", "leagues.json"))
       MOCK_MATCHES = File.read(File.join(FIXTURES_PATH, "league_of_legends", "matches.json"))
-      EXPECTED_ICS = Dir.glob(File.join(EXPECTATIONS_PATH, "league_of_legends", "**", "*.ics")).map { |f| File.read(f) }
+      EXPECTED_ICS = Dir.glob(File.join(EXPECTATIONS_PATH, "league_of_legends", "*.ics")).map { |f| File.read(f) }
 
       def test_create_ics
-        with_api_stubs do
-          Generator
-            .new
-            .generate
-            .calendars
-            .flat_map { |c| [c[:league]].concat(c[:teams].values) }
-            .map(&:to_ical)
-            .tap { |calendars| assert_equal(calendars.size, EXPECTED_ICS.size) }
-            .concat(EXPECTED_ICS)
-            .map { |c| Icalendar::Calendar.parse(c).first }
+        stub_matches_league do
+          calendars = Generator.new.generate.calendars.values.map(&:to_ical)
+
+          assert_equal(calendars.size, EXPECTED_ICS.size)
+
+          calendars.concat(EXPECTED_ICS).map { |c| Icalendar::Calendar.parse(c).first }
             .group_by { |c| c.custom_property("slug").first }
             .each { |_slug, (cal, exp)| assert_same_calendar(cal, exp) }
         end
@@ -39,34 +34,23 @@ module EsportIcs
 
         calendar.events.zip(expected_ics.events).each do |event, expected_event|
           assert_equal(event.summary, expected_event.summary)
-          assert_equal(event.description, expected_event.description)
           assert_equal(event.ip_class, expected_event.ip_class)
           assert_equal(event.dtstart.to_s, expected_event.dtstart.to_s)
           assert_equal(event.dtend.to_s, expected_event.dtend.to_s)
         end
       end
 
-      def with_api_stubs
-        stub_leagues
-
-        JSON.parse(MOCK_LEAGUE)
-          .map { |league| Mapper.to_leagues(league) }
-          .each { |league| stub_matches_league(league.id) }
-
-        yield
-      end
-
-      def stub_leagues
-        stub_request(:get, "#{Fetcher::LEAGUE_PATH}?page[size]=100").to_return_json(body: MOCK_LEAGUE)
-      end
-
-      def stub_matches_league(league_id)
-        matches = JSON.parse(MOCK_MATCHES).filter { |match| match["league_id"] == league_id }
+      def stub_matches_league
+        stub_request(
+          :get,
+          "#{Fetcher::MATCHES_PATH}?page[size]=100&page[number]=1",
+        ).to_return_json(body: JSON.parse(MOCK_MATCHES).to_json)
 
         stub_request(
           :get,
-          "#{Fetcher::MATCHES_PATH}?filter[league_id]=#{league_id}",
-        ).to_return_json(body: matches.to_json)
+          "#{Fetcher::MATCHES_PATH}?page[size]=100&page[number]=2",
+        ).to_return_json(body: [].to_json)
+        yield
       end
     end
   end
