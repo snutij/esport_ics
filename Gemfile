@@ -5,6 +5,7 @@ source "https://rubygems.org"
 # Specify your gem's dependencies in esport_ics.gemspec
 gemspec
 
+gem "activesupport"
 gem "icalendar"
 gem "minitest"
 gem "rake"
