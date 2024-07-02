@@ -6,25 +6,36 @@ module EsportIcs
   module LeagueOfLegends
     module Fetcher
       BASE_URL = "https://api.pandascore.co/lol"
-      LEAGUE_PATH = "#{BASE_URL}/leagues"
+      TEAMS_PATH = "#{BASE_URL}/teams"
       MATCHES_PATH = "#{BASE_URL}/matches/upcoming"
-      LEAGUE_MAX_PAGE_SIZE = 100
+      MAX_PAGE_SIZE = 100
+      MAX_PAGINATION = 10
 
       class << self
-        def fetch_leagues!
-          filters = "page[size]=#{LEAGUE_MAX_PAGE_SIZE}"
+        def fetch_matches!
+          matches = []
+          page = 1
 
-          fetch_data!(LEAGUE_PATH, filters).map do |api_league|
-            Mapper.to_leagues(api_league)
+          loop do
+            filters = "page[size]=#{MAX_PAGE_SIZE}&page[number]=#{page}"
+            api_matches = fetch_data!(MATCHES_PATH, filters)
+
+            # Break the loop if no matches are returned
+            break if api_matches.nil? || api_matches.none?
+
+            # Process each match and add it to the matches array
+            api_matches.each do |api_match|
+              matches << Mapper.to_match(api_match)
+            end
+
+            # Break the loop if the maximum pagination is reached
+            break if page >= MAX_PAGINATION
+
+            # Increment the page number for the next iteration
+            page += 1
           end
-        end
 
-        def fetch_matches!(league_id = nil)
-          filters = "filter[league_id]=#{league_id}" if league_id
-
-          fetch_data!(MATCHES_PATH, filters).map do |api_match|
-            Mapper.to_matches(api_match)
-          end
+          matches
         end
 
         private
