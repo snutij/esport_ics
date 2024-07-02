@@ -9,7 +9,7 @@ module EsportIcs
       TEAMS_PATH = "#{BASE_URL}/teams"
       MATCHES_PATH = "#{BASE_URL}/matches/upcoming"
       MAX_PAGE_SIZE = 100
-      MAX_PAGINATION = 10
+      MAX_PAGINATION = 20
 
       class << self
         def fetch_matches!
