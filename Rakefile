@@ -32,8 +32,18 @@ namespace :esport_ics do
       EsportIcs::Games::CounterStrike.new.generate.write!
     end
 
+    desc "Generate R6Siege ics files"
+    task :rainbow_six_siege do
+      EsportIcs::Games::RainbowSixSiege.new.generate.write!
+    end
+
     desc "Run all generators"
-    task all: ["generate:league_of_legends", "generate:valorant", "generate:counter_strike"]
+    task all: [
+      "generate:league_of_legends",
+      "generate:valorant",
+      "generate:counter_strike",
+      "generate:rainbow_six_siege",
+    ]
   end
 end
 

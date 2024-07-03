@@ -1,0 +1,1588 @@
+[
+  {
+    "league": {
+      "id": 5267,
+      "image_url": null,
+      "modified_at": "2024-06-29T06:31:33Z",
+      "name": "Esports World Cup",
+      "slug": "r6-siege-esports-world-cup",
+      "url": null
+    },
+    "status": "not_started",
+    "end_at": null,
+    "tournament_id": 14002,
+    "number_of_games": 3,
+    "id": 998487,
+    "name": "Grand final: GE vs TM",
+    "serie_id": 7721,
+    "winner_type": "Team",
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "league_id": 5267,
+    "videogame_version": null,
+    "forfeit": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "GE",
+          "id": 132916,
+          "image_url": "https://cdn.pandascore.co/images/team/image/132916/786px_geekay_esports_allmode.png",
+          "location": "SA",
+          "modified_at": "2024-07-01T13:33:23Z",
+          "name": "Geekay Esports",
+          "slug": "geekay-esports-r6-siege"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "TM",
+          "id": 132920,
+          "image_url": "https://cdn.pandascore.co/images/team/image/132920/190px_twisted_minds_2023_allmode.png",
+          "location": "SA",
+          "modified_at": "2024-07-01T13:44:00Z",
+          "name": "Twisted Minds",
+          "slug": "twisted-minds-r6-siege"
+        },
+        "type": "Team"
+      }
+    ],
+    "winner_id": null,
+    "detailed_stats": false,
+    "rescheduled": false,
+    "slug": "geekay-esports-2024-07-03-7eee42dd-4a93-4ad5-b15f-15711392b764",
+    "modified_at": "2024-07-03T17:04:08Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 9088,
+        "length": null,
+        "match_id": 998487,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 9089,
+        "length": null,
+        "match_id": 998487,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 9090,
+        "length": null,
+        "match_id": 998487,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "draw": false,
+    "serie": {
+      "begin_at": "2024-07-02T15:00:00Z",
+      "end_at": "2024-07-03T22:00:00Z",
+      "full_name": "MENA Closed Qualifier 2024",
+      "id": 7721,
+      "league_id": 5267,
+      "modified_at": "2024-07-01T13:42:15Z",
+      "name": "MENA Closed Qualifier",
+      "season": null,
+      "slug": "r6-siege-esports-world-cup-mena-closed-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "begin_at": "2024-07-03T17:00:00Z",
+    "original_scheduled_at": "2024-07-03T17:00:00Z",
+    "videogame": {
+      "id": 24,
+      "name": "Rainbow 6 Siege",
+      "slug": "r6-siege"
+    },
+    "scheduled_at": "2024-07-03T17:00:00Z",
+    "match_type": "best_of",
+    "videogame_title": null,
+    "winner": null,
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=ewc_qualifiers",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/ewc_qualifiers"
+      }
+    ],
+    "game_advantage": null,
+    "tournament": {
+      "begin_at": "2024-07-02T15:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-03T22:00:00Z",
+      "has_bracket": true,
+      "id": 14002,
+      "league_id": 5267,
+      "live_supported": false,
+      "modified_at": "2024-07-01T13:42:15Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7721,
+      "slug": "r6-siege-esports-world-cup-mena-closed-qualifier-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "results": [
+      {
+        "score": 0,
+        "team_id": 132916
+      },
+      {
+        "score": 0,
+        "team_id": 132920
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 5267,
+      "image_url": null,
+      "modified_at": "2024-06-29T06:31:33Z",
+      "name": "Esports World Cup",
+      "slug": "r6-siege-esports-world-cup",
+      "url": null
+    },
+    "status": "not_started",
+    "end_at": null,
+    "tournament_id": 13976,
+    "number_of_games": 3,
+    "id": 997587,
+    "name": "Quarterfinal match 4: RVN vs AQUA",
+    "serie_id": 7710,
+    "winner_type": "Team",
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "league_id": 5267,
+    "videogame_version": null,
+    "forfeit": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "RVN",
+          "id": 132948,
+          "image_url": "https://cdn.pandascore.co/images/team/image/132948/600px_reven_esports_2022_allmode.png",
+          "location": "MX",
+          "modified_at": "2024-06-29T06:56:10Z",
+          "name": "Reven Esports",
+          "slug": "reven-esports-r6-siege"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 135185,
+          "image_url": null,
+          "location": "MX",
+          "modified_at": "2024-06-29T08:03:30Z",
+          "name": "AQUA",
+          "slug": "aqua"
+        },
+        "type": "Team"
+      }
+    ],
+    "winner_id": null,
+    "detailed_stats": true,
+    "rescheduled": false,
+    "slug": "reven-esports-vs-aqua-2024-07-04",
+    "modified_at": "2024-07-02T20:47:34Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8968,
+        "length": null,
+        "match_id": 997587,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8969,
+        "length": null,
+        "match_id": 997587,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8970,
+        "length": null,
+        "match_id": 997587,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "draw": false,
+    "serie": {
+      "begin_at": "2024-07-03T23:00:00Z",
+      "end_at": "2024-07-05T05:00:00Z",
+      "full_name": "LATAM Closed Qualifier 2024",
+      "id": 7710,
+      "league_id": 5267,
+      "modified_at": "2024-06-29T06:59:08Z",
+      "name": "LATAM Closed Qualifier",
+      "season": null,
+      "slug": "r6-siege-esports-world-cup-latam-closed-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "begin_at": "2024-07-03T23:00:00Z",
+    "original_scheduled_at": "2024-07-03T23:00:00Z",
+    "videogame": {
+      "id": 24,
+      "name": "Rainbow 6 Siege",
+      "slug": "r6-siege"
+    },
+    "scheduled_at": "2024-07-03T23:00:00Z",
+    "match_type": "best_of",
+    "videogame_title": null,
+    "winner": null,
+    "streams_list": [],
+    "game_advantage": null,
+    "tournament": {
+      "begin_at": "2024-07-03T23:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-05T05:00:00Z",
+      "has_bracket": true,
+      "id": 13976,
+      "league_id": 5267,
+      "live_supported": false,
+      "modified_at": "2024-06-29T08:03:30Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7710,
+      "slug": "r6-siege-esports-world-cup-latam-closed-qualifier-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "results": [
+      {
+        "score": 0,
+        "team_id": 132948
+      },
+      {
+        "score": 0,
+        "team_id": 135185
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 5267,
+      "image_url": null,
+      "modified_at": "2024-06-29T06:31:33Z",
+      "name": "Esports World Cup",
+      "slug": "r6-siege-esports-world-cup",
+      "url": null
+    },
+    "status": "not_started",
+    "end_at": null,
+    "tournament_id": 13976,
+    "number_of_games": 3,
+    "id": 997586,
+    "name": "Quarterfinal match 3: 6K vs AKAVE",
+    "serie_id": 7710,
+    "winner_type": "Team",
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "league_id": 5267,
+    "videogame_version": null,
+    "forfeit": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "6K",
+          "id": 129509,
+          "image_url": "https://cdn.pandascore.co/images/team/image/129509/600px_six_karma.png",
+          "location": "MX",
+          "modified_at": "2024-06-29T06:56:11Z",
+          "name": "Six Karma",
+          "slug": "six-karma-r6-siege"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "AKAVE",
+          "id": 130317,
+          "image_url": "https://cdn.pandascore.co/images/team/image/130317/187px_akave_esports_december_2021_allmode.png",
+          "location": "MX",
+          "modified_at": "2024-06-29T08:03:29Z",
+          "name": "Akave Esports",
+          "slug": "akave-esports-r6-siege"
+        },
+        "type": "Team"
+      }
+    ],
+    "winner_id": null,
+    "detailed_stats": true,
+    "rescheduled": false,
+    "slug": "six-karma-vs-akave-esports-2024-07-04",
+    "modified_at": "2024-07-02T20:47:33Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8965,
+        "length": null,
+        "match_id": 997586,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8966,
+        "length": null,
+        "match_id": 997586,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8967,
+        "length": null,
+        "match_id": 997586,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "draw": false,
+    "serie": {
+      "begin_at": "2024-07-03T23:00:00Z",
+      "end_at": "2024-07-05T05:00:00Z",
+      "full_name": "LATAM Closed Qualifier 2024",
+      "id": 7710,
+      "league_id": 5267,
+      "modified_at": "2024-06-29T06:59:08Z",
+      "name": "LATAM Closed Qualifier",
+      "season": null,
+      "slug": "r6-siege-esports-world-cup-latam-closed-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "begin_at": "2024-07-03T23:00:00Z",
+    "original_scheduled_at": "2024-07-03T23:00:00Z",
+    "videogame": {
+      "id": 24,
+      "name": "Rainbow 6 Siege",
+      "slug": "r6-siege"
+    },
+    "scheduled_at": "2024-07-03T23:00:00Z",
+    "match_type": "best_of",
+    "videogame_title": null,
+    "winner": null,
+    "streams_list": [],
+    "game_advantage": null,
+    "tournament": {
+      "begin_at": "2024-07-03T23:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-05T05:00:00Z",
+      "has_bracket": true,
+      "id": 13976,
+      "league_id": 5267,
+      "live_supported": false,
+      "modified_at": "2024-06-29T08:03:30Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7710,
+      "slug": "r6-siege-esports-world-cup-latam-closed-qualifier-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "results": [
+      {
+        "score": 0,
+        "team_id": 129509
+      },
+      {
+        "score": 0,
+        "team_id": 130317
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 5267,
+      "image_url": null,
+      "modified_at": "2024-06-29T06:31:33Z",
+      "name": "Esports World Cup",
+      "slug": "r6-siege-esports-world-cup",
+      "url": null
+    },
+    "status": "not_started",
+    "end_at": null,
+    "tournament_id": 13976,
+    "number_of_games": 3,
+    "id": 997585,
+    "name": "Quarterfinal match 2: CNE vs NXT Player",
+    "serie_id": 7710,
+    "winner_type": "Team",
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "league_id": 5267,
+    "videogame_version": null,
+    "forfeit": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "CNE",
+          "id": 133119,
+          "image_url": "https://cdn.pandascore.co/images/team/image/133119/190px_cinta_negra_esports_lightmode.png",
+          "location": "MX",
+          "modified_at": "2024-06-29T06:56:11Z",
+          "name": "CintaNegra Esports",
+          "slug": "cintanegra-esports"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 134701,
+          "image_url": null,
+          "location": "",
+          "modified_at": "2024-06-29T06:56:12Z",
+          "name": "NXT Player",
+          "slug": "nxt-player"
+        },
+        "type": "Team"
+      }
+    ],
+    "winner_id": null,
+    "detailed_stats": true,
+    "rescheduled": false,
+    "slug": "cintanegra-esports-vs-nxt-player-2024-07-04",
+    "modified_at": "2024-07-02T20:47:32Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8962,
+        "length": null,
+        "match_id": 997585,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8963,
+        "length": null,
+        "match_id": 997585,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8964,
+        "length": null,
+        "match_id": 997585,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "draw": false,
+    "serie": {
+      "begin_at": "2024-07-03T23:00:00Z",
+      "end_at": "2024-07-05T05:00:00Z",
+      "full_name": "LATAM Closed Qualifier 2024",
+      "id": 7710,
+      "league_id": 5267,
+      "modified_at": "2024-06-29T06:59:08Z",
+      "name": "LATAM Closed Qualifier",
+      "season": null,
+      "slug": "r6-siege-esports-world-cup-latam-closed-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "begin_at": "2024-07-03T23:00:00Z",
+    "original_scheduled_at": "2024-07-03T23:00:00Z",
+    "videogame": {
+      "id": 24,
+      "name": "Rainbow 6 Siege",
+      "slug": "r6-siege"
+    },
+    "scheduled_at": "2024-07-03T23:00:00Z",
+    "match_type": "best_of",
+    "videogame_title": null,
+    "winner": null,
+    "streams_list": [],
+    "game_advantage": null,
+    "tournament": {
+      "begin_at": "2024-07-03T23:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-05T05:00:00Z",
+      "has_bracket": true,
+      "id": 13976,
+      "league_id": 5267,
+      "live_supported": false,
+      "modified_at": "2024-06-29T08:03:30Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7710,
+      "slug": "r6-siege-esports-world-cup-latam-closed-qualifier-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "results": [
+      {
+        "score": 0,
+        "team_id": 133119
+      },
+      {
+        "score": 0,
+        "team_id": 134701
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 5267,
+      "image_url": null,
+      "modified_at": "2024-06-29T06:31:33Z",
+      "name": "Esports World Cup",
+      "slug": "r6-siege-esports-world-cup",
+      "url": null
+    },
+    "status": "not_started",
+    "end_at": null,
+    "tournament_id": 13976,
+    "number_of_games": 3,
+    "id": 997584,
+    "name": "Quarterfinal match 1: CRUEL vs yiyo",
+    "serie_id": 7710,
+    "winner_type": "Team",
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "league_id": 5267,
+    "videogame_version": null,
+    "forfeit": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "CRUEL",
+          "id": 130614,
+          "image_url": "https://cdn.pandascore.co/images/team/image/130614/600px_team_cruelty_allmode.png",
+          "location": "MX",
+          "modified_at": "2024-06-29T06:56:10Z",
+          "name": "Team Cruelty",
+          "slug": "team-cruelty-r6-siege"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 135184,
+          "image_url": null,
+          "location": "MX",
+          "modified_at": "2024-06-29T08:03:30Z",
+          "name": "yiyo",
+          "slug": "yiyo"
+        },
+        "type": "Team"
+      }
+    ],
+    "winner_id": null,
+    "detailed_stats": true,
+    "rescheduled": false,
+    "slug": "team-cruelty-vs-yiyo-2024-07-04",
+    "modified_at": "2024-07-02T20:47:30Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8959,
+        "length": null,
+        "match_id": 997584,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8960,
+        "length": null,
+        "match_id": 997584,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8961,
+        "length": null,
+        "match_id": 997584,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "draw": false,
+    "serie": {
+      "begin_at": "2024-07-03T23:00:00Z",
+      "end_at": "2024-07-05T05:00:00Z",
+      "full_name": "LATAM Closed Qualifier 2024",
+      "id": 7710,
+      "league_id": 5267,
+      "modified_at": "2024-06-29T06:59:08Z",
+      "name": "LATAM Closed Qualifier",
+      "season": null,
+      "slug": "r6-siege-esports-world-cup-latam-closed-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "begin_at": "2024-07-03T23:00:00Z",
+    "original_scheduled_at": "2024-07-03T23:00:00Z",
+    "videogame": {
+      "id": 24,
+      "name": "Rainbow 6 Siege",
+      "slug": "r6-siege"
+    },
+    "scheduled_at": "2024-07-03T23:00:00Z",
+    "match_type": "best_of",
+    "videogame_title": null,
+    "winner": null,
+    "streams_list": [],
+    "game_advantage": null,
+    "tournament": {
+      "begin_at": "2024-07-03T23:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-05T05:00:00Z",
+      "has_bracket": true,
+      "id": 13976,
+      "league_id": 5267,
+      "live_supported": false,
+      "modified_at": "2024-06-29T08:03:30Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7710,
+      "slug": "r6-siege-esports-world-cup-latam-closed-qualifier-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "results": [
+      {
+        "score": 0,
+        "team_id": 130614
+      },
+      {
+        "score": 0,
+        "team_id": 135184
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 5267,
+      "image_url": null,
+      "modified_at": "2024-06-29T06:31:33Z",
+      "name": "Esports World Cup",
+      "slug": "r6-siege-esports-world-cup",
+      "url": null
+    },
+    "status": "not_started",
+    "end_at": null,
+    "tournament_id": 13992,
+    "number_of_games": 3,
+    "id": 997921,
+    "name": "Semifinal 2: Fury vs ELV",
+    "serie_id": 7718,
+    "winner_type": "Team",
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "league_id": 5267,
+    "videogame_version": null,
+    "forfeit": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "Fury",
+          "id": 127220,
+          "image_url": "https://cdn.pandascore.co/images/team/image/127220/600px_fury_2020.png",
+          "location": "AU",
+          "modified_at": "2024-06-30T06:41:54Z",
+          "name": "Fury",
+          "slug": "fury-r6-siege"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "ELV",
+          "id": 126988,
+          "image_url": "https://cdn.pandascore.co/images/team/image/126988/220px_elevatelogo_square.png",
+          "location": "US",
+          "modified_at": "2024-06-30T06:41:55Z",
+          "name": "Elevate",
+          "slug": "elevate"
+        },
+        "type": "Team"
+      }
+    ],
+    "winner_id": null,
+    "detailed_stats": false,
+    "rescheduled": false,
+    "slug": "fury-2024-07-04",
+    "modified_at": "2024-07-03T14:08:59Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 9043,
+        "length": null,
+        "match_id": 997921,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 9044,
+        "length": null,
+        "match_id": 997921,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 9045,
+        "length": null,
+        "match_id": 997921,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "draw": false,
+    "serie": {
+      "begin_at": "2024-07-03T10:00:00Z",
+      "end_at": "2024-07-04T16:00:00Z",
+      "full_name": "Asia Closed Qualifier 2024",
+      "id": 7718,
+      "league_id": 5267,
+      "modified_at": "2024-06-30T06:45:22Z",
+      "name": "Asia Closed Qualifier",
+      "season": null,
+      "slug": "r6-siege-esports-world-cup-asia-closed-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "begin_at": "2024-07-04T09:00:00Z",
+    "original_scheduled_at": "2024-07-04T09:00:00Z",
+    "videogame": {
+      "id": 24,
+      "name": "Rainbow 6 Siege",
+      "slug": "r6-siege"
+    },
+    "scheduled_at": "2024-07-04T09:00:00Z",
+    "match_type": "best_of",
+    "videogame_title": null,
+    "winner": null,
+    "streams_list": [],
+    "game_advantage": null,
+    "tournament": {
+      "begin_at": "2024-07-03T10:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-04T16:00:00Z",
+      "has_bracket": true,
+      "id": 13992,
+      "league_id": 5267,
+      "live_supported": false,
+      "modified_at": "2024-06-30T06:45:22Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7718,
+      "slug": "r6-siege-esports-world-cup-asia-closed-qualifier-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "results": [
+      {
+        "score": 0,
+        "team_id": 127220
+      },
+      {
+        "score": 0,
+        "team_id": 126988
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 5267,
+      "image_url": null,
+      "modified_at": "2024-06-29T06:31:33Z",
+      "name": "Esports World Cup",
+      "slug": "r6-siege-esports-world-cup",
+      "url": null
+    },
+    "status": "not_started",
+    "end_at": null,
+    "tournament_id": 13992,
+    "number_of_games": 3,
+    "id": 997920,
+    "name": "Semifinal 1: BE vs DW",
+    "serie_id": 7718,
+    "winner_type": "Team",
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "league_id": 5267,
+    "videogame_version": null,
+    "forfeit": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "BE",
+          "id": 132900,
+          "image_url": "https://cdn.pandascore.co/images/team/image/132900/836px_bleed_e_sports_2021_allmode.png",
+          "location": "SG",
+          "modified_at": "2024-06-30T06:41:53Z",
+          "name": "Bleed Esports",
+          "slug": "bleed-esports-r6-siege"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "DW",
+          "id": 129536,
+          "image_url": "https://cdn.pandascore.co/images/team/image/129536/600px_dire_wolves_2020_logo.png",
+          "location": "AU",
+          "modified_at": "2024-06-30T06:41:54Z",
+          "name": "Dire Wolves",
+          "slug": "dire-wolves-r6-siege"
+        },
+        "type": "Team"
+      }
+    ],
+    "winner_id": null,
+    "detailed_stats": false,
+    "rescheduled": false,
+    "slug": "bleed-esports-2024-07-04",
+    "modified_at": "2024-07-03T14:08:58Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 9040,
+        "length": null,
+        "match_id": 997920,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 9041,
+        "length": null,
+        "match_id": 997920,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 9042,
+        "length": null,
+        "match_id": 997920,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "draw": false,
+    "serie": {
+      "begin_at": "2024-07-03T10:00:00Z",
+      "end_at": "2024-07-04T16:00:00Z",
+      "full_name": "Asia Closed Qualifier 2024",
+      "id": 7718,
+      "league_id": 5267,
+      "modified_at": "2024-06-30T06:45:22Z",
+      "name": "Asia Closed Qualifier",
+      "season": null,
+      "slug": "r6-siege-esports-world-cup-asia-closed-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "begin_at": "2024-07-04T09:00:00Z",
+    "original_scheduled_at": "2024-07-04T09:00:00Z",
+    "videogame": {
+      "id": 24,
+      "name": "Rainbow 6 Siege",
+      "slug": "r6-siege"
+    },
+    "scheduled_at": "2024-07-04T09:00:00Z",
+    "match_type": "best_of",
+    "videogame_title": null,
+    "winner": null,
+    "streams_list": [],
+    "game_advantage": null,
+    "tournament": {
+      "begin_at": "2024-07-03T10:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-04T16:00:00Z",
+      "has_bracket": true,
+      "id": 13992,
+      "league_id": 5267,
+      "live_supported": false,
+      "modified_at": "2024-06-30T06:45:22Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7718,
+      "slug": "r6-siege-esports-world-cup-asia-closed-qualifier-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "results": [
+      {
+        "score": 0,
+        "team_id": 132900
+      },
+      {
+        "score": 0,
+        "team_id": 129536
+      }
+    ]
+  },
+  {
+    "league": {
+      "id": 5267,
+      "image_url": null,
+      "modified_at": "2024-06-29T06:31:33Z",
+      "name": "Esports World Cup",
+      "slug": "r6-siege-esports-world-cup",
+      "url": null
+    },
+    "status": "not_started",
+    "end_at": null,
+    "tournament_id": 13992,
+    "number_of_games": 3,
+    "id": 997922,
+    "name": "Grand final: TBD vs TBD",
+    "serie_id": 7718,
+    "winner_type": "Team",
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "league_id": 5267,
+    "videogame_version": null,
+    "forfeit": false,
+    "opponents": [],
+    "winner_id": null,
+    "detailed_stats": false,
+    "rescheduled": false,
+    "slug": "2024-07-04-0de19031-4fb6-464e-8013-82207444cce7",
+    "modified_at": "2024-07-03T14:10:42Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 9046,
+        "length": null,
+        "match_id": 997922,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 9047,
+        "length": null,
+        "match_id": 997922,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 9048,
+        "length": null,
+        "match_id": 997922,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "draw": false,
+    "serie": {
+      "begin_at": "2024-07-03T10:00:00Z",
+      "end_at": "2024-07-04T16:00:00Z",
+      "full_name": "Asia Closed Qualifier 2024",
+      "id": 7718,
+      "league_id": 5267,
+      "modified_at": "2024-06-30T06:45:22Z",
+      "name": "Asia Closed Qualifier",
+      "season": null,
+      "slug": "r6-siege-esports-world-cup-asia-closed-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "begin_at": "2024-07-04T13:00:00Z",
+    "original_scheduled_at": "2024-07-04T13:00:00Z",
+    "videogame": {
+      "id": 24,
+      "name": "Rainbow 6 Siege",
+      "slug": "r6-siege"
+    },
+    "scheduled_at": "2024-07-04T13:00:00Z",
+    "match_type": "best_of",
+    "videogame_title": null,
+    "winner": null,
+    "streams_list": [],
+    "game_advantage": null,
+    "tournament": {
+      "begin_at": "2024-07-03T10:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-04T16:00:00Z",
+      "has_bracket": true,
+      "id": 13992,
+      "league_id": 5267,
+      "live_supported": false,
+      "modified_at": "2024-06-30T06:45:22Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7718,
+      "slug": "r6-siege-esports-world-cup-asia-closed-qualifier-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "results": []
+  },
+  {
+    "league": {
+      "id": 5267,
+      "image_url": null,
+      "modified_at": "2024-06-29T06:31:33Z",
+      "name": "Esports World Cup",
+      "slug": "r6-siege-esports-world-cup",
+      "url": null
+    },
+    "status": "not_started",
+    "end_at": null,
+    "tournament_id": 13976,
+    "number_of_games": 3,
+    "id": 997589,
+    "name": "Semifinal match 2: TBD vs TBD",
+    "serie_id": 7710,
+    "winner_type": "Team",
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "league_id": 5267,
+    "videogame_version": null,
+    "forfeit": false,
+    "opponents": [],
+    "winner_id": null,
+    "detailed_stats": true,
+    "rescheduled": false,
+    "slug": "2024-07-05-daa7d887-5dff-439d-9294-5104a355eeb5",
+    "modified_at": "2024-07-03T14:13:42Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8974,
+        "length": null,
+        "match_id": 997589,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8975,
+        "length": null,
+        "match_id": 997589,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8976,
+        "length": null,
+        "match_id": 997589,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "draw": false,
+    "serie": {
+      "begin_at": "2024-07-03T23:00:00Z",
+      "end_at": "2024-07-05T05:00:00Z",
+      "full_name": "LATAM Closed Qualifier 2024",
+      "id": 7710,
+      "league_id": 5267,
+      "modified_at": "2024-06-29T06:59:08Z",
+      "name": "LATAM Closed Qualifier",
+      "season": null,
+      "slug": "r6-siege-esports-world-cup-latam-closed-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "begin_at": "2024-07-04T22:00:00Z",
+    "original_scheduled_at": "2024-07-04T22:00:00Z",
+    "videogame": {
+      "id": 24,
+      "name": "Rainbow 6 Siege",
+      "slug": "r6-siege"
+    },
+    "scheduled_at": "2024-07-04T22:00:00Z",
+    "match_type": "best_of",
+    "videogame_title": null,
+    "winner": null,
+    "streams_list": [],
+    "game_advantage": null,
+    "tournament": {
+      "begin_at": "2024-07-03T23:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-05T05:00:00Z",
+      "has_bracket": true,
+      "id": 13976,
+      "league_id": 5267,
+      "live_supported": false,
+      "modified_at": "2024-06-29T08:03:30Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7710,
+      "slug": "r6-siege-esports-world-cup-latam-closed-qualifier-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "results": []
+  },
+  {
+    "league": {
+      "id": 5267,
+      "image_url": null,
+      "modified_at": "2024-06-29T06:31:33Z",
+      "name": "Esports World Cup",
+      "slug": "r6-siege-esports-world-cup",
+      "url": null
+    },
+    "status": "not_started",
+    "end_at": null,
+    "tournament_id": 13976,
+    "number_of_games": 3,
+    "id": 997588,
+    "name": "Semifinal match 1: TBD vs TBD",
+    "serie_id": 7710,
+    "winner_type": "Team",
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "league_id": 5267,
+    "videogame_version": null,
+    "forfeit": false,
+    "opponents": [],
+    "winner_id": null,
+    "detailed_stats": true,
+    "rescheduled": false,
+    "slug": "2024-07-05-2de45089-bb96-435e-a4ee-84e1844d6099",
+    "modified_at": "2024-07-03T14:13:42Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8971,
+        "length": null,
+        "match_id": 997588,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8972,
+        "length": null,
+        "match_id": 997588,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 8973,
+        "length": null,
+        "match_id": 997588,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "draw": false,
+    "serie": {
+      "begin_at": "2024-07-03T23:00:00Z",
+      "end_at": "2024-07-05T05:00:00Z",
+      "full_name": "LATAM Closed Qualifier 2024",
+      "id": 7710,
+      "league_id": 5267,
+      "modified_at": "2024-06-29T06:59:08Z",
+      "name": "LATAM Closed Qualifier",
+      "season": null,
+      "slug": "r6-siege-esports-world-cup-latam-closed-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "begin_at": "2024-07-04T22:00:00Z",
+    "original_scheduled_at": "2024-07-04T22:00:00Z",
+    "videogame": {
+      "id": 24,
+      "name": "Rainbow 6 Siege",
+      "slug": "r6-siege"
+    },
+    "scheduled_at": "2024-07-04T22:00:00Z",
+    "match_type": "best_of",
+    "videogame_title": null,
+    "winner": null,
+    "streams_list": [],
+    "game_advantage": null,
+    "tournament": {
+      "begin_at": "2024-07-03T23:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-05T05:00:00Z",
+      "has_bracket": true,
+      "id": 13976,
+      "league_id": 5267,
+      "live_supported": false,
+      "modified_at": "2024-06-29T08:03:30Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7710,
+      "slug": "r6-siege-esports-world-cup-latam-closed-qualifier-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "results": []
+  }
+]
