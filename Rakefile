@@ -27,8 +27,13 @@ namespace :esport_ics do
       EsportIcs::Games::Valorant.new.generate.write!
     end
 
+    desc "Generate CSGO ics files"
+    task :counter_strike do
+      EsportIcs::Games::CounterStrike.new.generate.write!
+    end
+
     desc "Run all generators"
-    task all: ["generate:league_of_legends", "generate:valorant"]
+    task all: ["generate:league_of_legends", "generate:valorant", "generate:counter_strike"]
   end
 end
 

@@ -1,0 +1,1602 @@
+[
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-06-26T17:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-03T19:00:00Z",
+      "has_bracket": true,
+      "id": 13875,
+      "league_id": 5078,
+      "live_supported": false,
+      "modified_at": "2024-06-26T02:58:23Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7666,
+      "slug": "cs-go-united21-south-america-1-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-03T19:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "INS",
+          "id": 134223,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134223/285px_in_sanit_y_sports_allmode.png",
+          "location": "BR",
+          "modified_at": "2024-06-25T12:38:17Z",
+          "name": "inSanitY",
+          "slug": "insanity"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "BHE",
+          "id": 133326,
+          "image_url": "https://cdn.pandascore.co/images/team/image/133326/109px_bounty_hunters_esports_lightmode.png",
+          "location": "BR",
+          "modified_at": "2024-07-03T07:09:11Z",
+          "name": "Bounty Hunters Esports",
+          "slug": "bounty-hunters-esports"
+        },
+        "type": "Team"
+      }
+    ],
+    "slug": "insanity-2024-07-03",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 987557,
+    "winner_type": "Team",
+    "name": "Grand final: INS vs BHE",
+    "game_advantage": null,
+    "modified_at": "2024-07-02T22:48:09Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139284,
+        "length": null,
+        "match_id": 987557,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139285,
+        "length": null,
+        "match_id": 987557,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139286,
+        "length": null,
+        "match_id": 987557,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5078,
+      "image_url": "https://cdn.pandascore.co/images/league/image/5078/800px-united21_allmode-png",
+      "modified_at": "2023-12-22T16:36:10Z",
+      "name": "United21",
+      "slug": "cs-go-united21",
+      "url": null
+    },
+    "serie_id": 7666,
+    "winner": null,
+    "scheduled_at": "2024-07-03T19:00:00Z",
+    "videogame_title": {
+      "id": 13,
+      "name": "Counter-Strike 2",
+      "slug": "cs-2",
+      "videogame_id": 3
+    },
+    "serie": {
+      "begin_at": "2024-06-16T17:00:00Z",
+      "end_at": "2024-07-03T22:00:00Z",
+      "full_name": "South America season 1 2024",
+      "id": 7666,
+      "league_id": 5078,
+      "modified_at": "2024-06-10T11:31:08Z",
+      "name": "South America",
+      "season": "1",
+      "slug": "cs-go-united21-south-america-1-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=united21_en",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/united21_en"
+      }
+    ],
+    "videogame_version": null,
+    "videogame": {
+      "id": 3,
+      "name": "Counter-Strike",
+      "slug": "cs-go"
+    },
+    "detailed_stats": true,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134223
+      },
+      {
+        "score": 0,
+        "team_id": 133326
+      }
+    ],
+    "tournament_id": 13875,
+    "begin_at": "2024-07-03T19:00:00Z",
+    "league_id": 5078,
+    "forfeit": false,
+    "number_of_games": 3,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-02T08:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-09T11:00:00Z",
+      "has_bracket": true,
+      "id": 13937,
+      "league_id": 5078,
+      "live_supported": false,
+      "modified_at": "2024-07-01T14:35:07Z",
+      "name": "Playoffs",
+      "prizepool": "10000 United States Dollar",
+      "serie_id": 7693,
+      "slug": "cs-go-united21-17-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-04T08:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 131669,
+          "image_url": "https://cdn.pandascore.co/images/team/image/131669/adepts_lightmode.png",
+          "location": "FR",
+          "modified_at": "2024-07-01T14:35:03Z",
+          "name": "ADEPTS",
+          "slug": "adepts-cs-go"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "BRUTE",
+          "id": 126624,
+          "image_url": "https://cdn.pandascore.co/images/team/image/126624/600px_team_brute_2020_lightmode.png",
+          "location": "CZ",
+          "modified_at": "2024-07-01T14:35:05Z",
+          "name": "Brute",
+          "slug": "brute"
+        },
+        "type": "Team"
+      }
+    ],
+    "slug": "adepts-2024-07-04",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 994163,
+    "winner_type": "Team",
+    "name": "Lower bracket round 1 match 1: ADEPTS vs BRUTE",
+    "game_advantage": null,
+    "modified_at": "2024-07-03T14:02:59Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139988,
+        "length": null,
+        "match_id": 994163,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139989,
+        "length": null,
+        "match_id": 994163,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139990,
+        "length": null,
+        "match_id": 994163,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5078,
+      "image_url": "https://cdn.pandascore.co/images/league/image/5078/800px-united21_allmode-png",
+      "modified_at": "2023-12-22T16:36:10Z",
+      "name": "United21",
+      "slug": "cs-go-united21",
+      "url": null
+    },
+    "serie_id": 7693,
+    "winner": null,
+    "scheduled_at": "2024-07-04T08:00:00Z",
+    "videogame_title": {
+      "id": 13,
+      "name": "Counter-Strike 2",
+      "slug": "cs-2",
+      "videogame_id": 3
+    },
+    "serie": {
+      "begin_at": "2024-06-22T08:00:00Z",
+      "end_at": "2024-07-01T14:00:00Z",
+      "full_name": "Season 17 2024",
+      "id": 7693,
+      "league_id": 5078,
+      "modified_at": "2024-06-21T19:01:31Z",
+      "name": "",
+      "season": "17",
+      "slug": "cs-go-united21-17-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=united21_en",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/united21_en"
+      }
+    ],
+    "videogame_version": null,
+    "videogame": {
+      "id": 3,
+      "name": "Counter-Strike",
+      "slug": "cs-go"
+    },
+    "detailed_stats": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 131669
+      },
+      {
+        "score": 0,
+        "team_id": 126624
+      }
+    ],
+    "tournament_id": 13937,
+    "begin_at": "2024-07-04T08:00:00Z",
+    "league_id": 5078,
+    "forfeit": false,
+    "number_of_games": 3,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-02T08:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-09T11:00:00Z",
+      "has_bracket": true,
+      "id": 13937,
+      "league_id": 5078,
+      "live_supported": false,
+      "modified_at": "2024-07-01T14:35:07Z",
+      "name": "Playoffs",
+      "prizepool": "10000 United States Dollar",
+      "serie_id": 7693,
+      "slug": "cs-go-united21-17-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-04T11:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "TLR",
+          "id": 130590,
+          "image_url": "https://cdn.pandascore.co/images/team/image/130590/190px_the_last_resort_lightmode.png",
+          "location": "GB",
+          "modified_at": "2024-07-01T14:35:04Z",
+          "name": "The Last Resort",
+          "slug": "the-last-resort-cs-go"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "777",
+          "id": 128110,
+          "image_url": "https://cdn.pandascore.co/images/team/image/128110/full_vertical_logo.png",
+          "location": "NO",
+          "modified_at": "2024-07-01T14:35:06Z",
+          "name": "777",
+          "slug": "777-esports"
+        },
+        "type": "Team"
+      }
+    ],
+    "slug": "the-last-resort-2024-07-04",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 994164,
+    "winner_type": "Team",
+    "name": "Lower bracket round 1 match 2: TLR vs 777",
+    "game_advantage": null,
+    "modified_at": "2024-07-03T14:10:24Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139991,
+        "length": null,
+        "match_id": 994164,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139992,
+        "length": null,
+        "match_id": 994164,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139993,
+        "length": null,
+        "match_id": 994164,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5078,
+      "image_url": "https://cdn.pandascore.co/images/league/image/5078/800px-united21_allmode-png",
+      "modified_at": "2023-12-22T16:36:10Z",
+      "name": "United21",
+      "slug": "cs-go-united21",
+      "url": null
+    },
+    "serie_id": 7693,
+    "winner": null,
+    "scheduled_at": "2024-07-04T11:00:00Z",
+    "videogame_title": {
+      "id": 13,
+      "name": "Counter-Strike 2",
+      "slug": "cs-2",
+      "videogame_id": 3
+    },
+    "serie": {
+      "begin_at": "2024-06-22T08:00:00Z",
+      "end_at": "2024-07-01T14:00:00Z",
+      "full_name": "Season 17 2024",
+      "id": 7693,
+      "league_id": 5078,
+      "modified_at": "2024-06-21T19:01:31Z",
+      "name": "",
+      "season": "17",
+      "slug": "cs-go-united21-17-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=united21_en",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/united21_en"
+      }
+    ],
+    "videogame_version": null,
+    "videogame": {
+      "id": 3,
+      "name": "Counter-Strike",
+      "slug": "cs-go"
+    },
+    "detailed_stats": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 130590
+      },
+      {
+        "score": 0,
+        "team_id": 128110
+      }
+    ],
+    "tournament_id": 13937,
+    "begin_at": "2024-07-04T11:00:00Z",
+    "league_id": 5078,
+    "forfeit": false,
+    "number_of_games": 3,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-02T08:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-09T11:00:00Z",
+      "has_bracket": true,
+      "id": 13937,
+      "league_id": 5078,
+      "live_supported": false,
+      "modified_at": "2024-07-01T14:35:07Z",
+      "name": "Playoffs",
+      "prizepool": "10000 United States Dollar",
+      "serie_id": 7693,
+      "slug": "cs-go-united21-17-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-05T08:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "RNT",
+          "id": 133565,
+          "image_url": "https://cdn.pandascore.co/images/team/image/133565/190px_revenant_esports_in_lightmode.png",
+          "location": "IN",
+          "modified_at": "2024-07-01T14:35:03Z",
+          "name": "Revenant Esports",
+          "slug": "revenant-esports-cs-go"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "LAJTB",
+          "id": 133437,
+          "image_url": "https://cdn.pandascore.co/images/team/image/133437/171px_lajtbitexe_2023_allmode.png",
+          "location": "",
+          "modified_at": "2024-07-01T14:35:04Z",
+          "name": "lajtbitexe",
+          "slug": "lajtbitexe"
+        },
+        "type": "Team"
+      }
+    ],
+    "slug": "revenant-esports-2024-07-05",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 994165,
+    "winner_type": "Team",
+    "name": "Upper bracket semifinal 1: RNT vs LAJTB",
+    "game_advantage": null,
+    "modified_at": "2024-07-02T13:44:36Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139994,
+        "length": null,
+        "match_id": 994165,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139995,
+        "length": null,
+        "match_id": 994165,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139996,
+        "length": null,
+        "match_id": 994165,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5078,
+      "image_url": "https://cdn.pandascore.co/images/league/image/5078/800px-united21_allmode-png",
+      "modified_at": "2023-12-22T16:36:10Z",
+      "name": "United21",
+      "slug": "cs-go-united21",
+      "url": null
+    },
+    "serie_id": 7693,
+    "winner": null,
+    "scheduled_at": "2024-07-05T08:00:00Z",
+    "videogame_title": {
+      "id": 13,
+      "name": "Counter-Strike 2",
+      "slug": "cs-2",
+      "videogame_id": 3
+    },
+    "serie": {
+      "begin_at": "2024-06-22T08:00:00Z",
+      "end_at": "2024-07-01T14:00:00Z",
+      "full_name": "Season 17 2024",
+      "id": 7693,
+      "league_id": 5078,
+      "modified_at": "2024-06-21T19:01:31Z",
+      "name": "",
+      "season": "17",
+      "slug": "cs-go-united21-17-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=united21_en",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/united21_en"
+      }
+    ],
+    "videogame_version": null,
+    "videogame": {
+      "id": 3,
+      "name": "Counter-Strike",
+      "slug": "cs-go"
+    },
+    "detailed_stats": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 133565
+      },
+      {
+        "score": 0,
+        "team_id": 133437
+      }
+    ],
+    "tournament_id": 13937,
+    "begin_at": "2024-07-05T08:00:00Z",
+    "league_id": 5078,
+    "forfeit": false,
+    "number_of_games": 3,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-02T08:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-09T11:00:00Z",
+      "has_bracket": true,
+      "id": 13937,
+      "league_id": 5078,
+      "live_supported": false,
+      "modified_at": "2024-07-01T14:35:07Z",
+      "name": "Playoffs",
+      "prizepool": "10000 United States Dollar",
+      "serie_id": 7693,
+      "slug": "cs-go-united21-17-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-05T11:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "ECF",
+          "id": 134756,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134756/285px_kono.ecf_allmode.png",
+          "location": "UA",
+          "modified_at": "2024-07-01T14:35:05Z",
+          "name": "kONO.ECF",
+          "slug": "ecf"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "JS",
+          "id": 134188,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134188/190px_johnny_speeds_allmode.png",
+          "location": "SE",
+          "modified_at": "2024-07-02T08:30:48Z",
+          "name": "Johnny Speeds",
+          "slug": "johnny-speeds"
+        },
+        "type": "Team"
+      }
+    ],
+    "slug": "kono-ecf-2024-07-05",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 994166,
+    "winner_type": "Team",
+    "name": "Upper bracket semifinal 2: ECF vs JS",
+    "game_advantage": null,
+    "modified_at": "2024-07-03T12:39:19Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139997,
+        "length": null,
+        "match_id": 994166,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139998,
+        "length": null,
+        "match_id": 994166,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 139999,
+        "length": null,
+        "match_id": 994166,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5078,
+      "image_url": "https://cdn.pandascore.co/images/league/image/5078/800px-united21_allmode-png",
+      "modified_at": "2023-12-22T16:36:10Z",
+      "name": "United21",
+      "slug": "cs-go-united21",
+      "url": null
+    },
+    "serie_id": 7693,
+    "winner": null,
+    "scheduled_at": "2024-07-05T11:00:00Z",
+    "videogame_title": {
+      "id": 13,
+      "name": "Counter-Strike 2",
+      "slug": "cs-2",
+      "videogame_id": 3
+    },
+    "serie": {
+      "begin_at": "2024-06-22T08:00:00Z",
+      "end_at": "2024-07-01T14:00:00Z",
+      "full_name": "Season 17 2024",
+      "id": 7693,
+      "league_id": 5078,
+      "modified_at": "2024-06-21T19:01:31Z",
+      "name": "",
+      "season": "17",
+      "slug": "cs-go-united21-17-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=united21_en",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/united21_en"
+      }
+    ],
+    "videogame_version": null,
+    "videogame": {
+      "id": 3,
+      "name": "Counter-Strike",
+      "slug": "cs-go"
+    },
+    "detailed_stats": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134756
+      },
+      {
+        "score": 0,
+        "team_id": 134188
+      }
+    ],
+    "tournament_id": 13937,
+    "begin_at": "2024-07-05T11:00:00Z",
+    "league_id": 5078,
+    "forfeit": false,
+    "number_of_games": 3,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-02T08:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-09T11:00:00Z",
+      "has_bracket": true,
+      "id": 13937,
+      "league_id": 5078,
+      "live_supported": false,
+      "modified_at": "2024-07-01T14:35:07Z",
+      "name": "Playoffs",
+      "prizepool": "10000 United States Dollar",
+      "serie_id": 7693,
+      "slug": "cs-go-united21-17-2024-playoffs",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-06T08:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": false,
+    "opponents": [],
+    "slug": "2024-07-06-8a1bc9de-a570-452f-84e9-2bd1989580ae",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 994167,
+    "winner_type": "Team",
+    "name": "Lower bracket quarterfinal 1: TBD vs TBD",
+    "game_advantage": null,
+    "modified_at": "2024-06-22T07:38:20Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 140000,
+        "length": null,
+        "match_id": 994167,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 140001,
+        "length": null,
+        "match_id": 994167,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 140002,
+        "length": null,
+        "match_id": 994167,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5078,
+      "image_url": "https://cdn.pandascore.co/images/league/image/5078/800px-united21_allmode-png",
+      "modified_at": "2023-12-22T16:36:10Z",
+      "name": "United21",
+      "slug": "cs-go-united21",
+      "url": null
+    },
+    "serie_id": 7693,
+    "winner": null,
+    "scheduled_at": "2024-07-06T08:00:00Z",
+    "videogame_title": {
+      "id": 13,
+      "name": "Counter-Strike 2",
+      "slug": "cs-2",
+      "videogame_id": 3
+    },
+    "serie": {
+      "begin_at": "2024-06-22T08:00:00Z",
+      "end_at": "2024-07-01T14:00:00Z",
+      "full_name": "Season 17 2024",
+      "id": 7693,
+      "league_id": 5078,
+      "modified_at": "2024-06-21T19:01:31Z",
+      "name": "",
+      "season": "17",
+      "slug": "cs-go-united21-17-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=united21_en",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/united21_en"
+      }
+    ],
+    "videogame_version": null,
+    "videogame": {
+      "id": 3,
+      "name": "Counter-Strike",
+      "slug": "cs-go"
+    },
+    "detailed_stats": false,
+    "results": [],
+    "tournament_id": 13937,
+    "begin_at": "2024-07-06T08:00:00Z",
+    "league_id": 5078,
+    "forfeit": false,
+    "number_of_games": 3,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-06T10:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-07T13:00:00Z",
+      "has_bracket": false,
+      "id": 14013,
+      "league_id": 4648,
+      "live_supported": false,
+      "modified_at": "2024-07-03T09:59:11Z",
+      "name": "Group C",
+      "prizepool": null,
+      "serie_id": 7724,
+      "slug": "cs-go-iesf-world-championship-west-european-qualifier-2024-group-c",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-06T10:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "ISL",
+          "id": 135207,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135207/190px_flag_of_iceland_4_by_3.png",
+          "location": "IS",
+          "modified_at": "2024-07-03T09:46:04Z",
+          "name": "Iceland",
+          "slug": "iceland-cs-go"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "MLA",
+          "id": 131165,
+          "image_url": "https://cdn.pandascore.co/images/team/image/131165/190px_flag_of_malta_4_by_3.png",
+          "location": "MT",
+          "modified_at": "2024-07-03T09:59:11Z",
+          "name": "Malta",
+          "slug": "malta-cs-go"
+        },
+        "type": "Team"
+      }
+    ],
+    "slug": "iceland-vs-malta-2024-07-06",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 999238,
+    "winner_type": "Team",
+    "name": "Iceland vs MLA",
+    "game_advantage": null,
+    "modified_at": "2024-07-02T20:49:46Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 140497,
+        "length": null,
+        "match_id": 999238,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 4648,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4648/1200px-iesf_world_esports_championships_2024_allmode-png",
+      "modified_at": "2024-04-17T20:46:20Z",
+      "name": "IESF World Championship",
+      "slug": "cs-go-iesf-world-championship",
+      "url": null
+    },
+    "serie_id": 7724,
+    "winner": null,
+    "scheduled_at": "2024-07-06T10:00:00Z",
+    "videogame_title": {
+      "id": 13,
+      "name": "Counter-Strike 2",
+      "slug": "cs-2",
+      "videogame_id": 3
+    },
+    "serie": {
+      "begin_at": "2024-07-06T10:00:00Z",
+      "end_at": "2024-07-14T15:00:00Z",
+      "full_name": "West European Qualifier 2024",
+      "id": 7724,
+      "league_id": 4648,
+      "modified_at": "2024-07-02T16:36:07Z",
+      "name": "West European Qualifier",
+      "season": null,
+      "slug": "cs-go-iesf-world-championship-west-european-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [],
+    "videogame_version": null,
+    "videogame": {
+      "id": 3,
+      "name": "Counter-Strike",
+      "slug": "cs-go"
+    },
+    "detailed_stats": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 135207
+      },
+      {
+        "score": 0,
+        "team_id": 131165
+      }
+    ],
+    "tournament_id": 14013,
+    "begin_at": "2024-07-06T10:00:00Z",
+    "league_id": 4648,
+    "forfeit": false,
+    "number_of_games": 1,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-06T10:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-07T13:00:00Z",
+      "has_bracket": false,
+      "id": 14013,
+      "league_id": 4648,
+      "live_supported": false,
+      "modified_at": "2024-07-03T09:59:11Z",
+      "name": "Group C",
+      "prizepool": null,
+      "serie_id": 7724,
+      "slug": "cs-go-iesf-world-championship-west-european-qualifier-2024-group-c",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-06T10:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "BEL",
+          "id": 129579,
+          "image_url": "https://cdn.pandascore.co/images/team/image/129579/1024px_flag_of_belgium.svg.png",
+          "location": "BE",
+          "modified_at": "2024-07-03T09:59:11Z",
+          "name": "Belgium",
+          "slug": "belgium-cs-go"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "AUT",
+          "id": 129582,
+          "image_url": "https://cdn.pandascore.co/images/team/image/129582/flag_of_austria.png",
+          "location": "AT",
+          "modified_at": "2024-07-03T09:45:24Z",
+          "name": "Austria",
+          "slug": "austria-cs-go"
+        },
+        "type": "Team"
+      }
+    ],
+    "slug": "belgium-vs-austria-2024-07-06",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 999233,
+    "winner_type": "Team",
+    "name": "Belgium vs Austria",
+    "game_advantage": null,
+    "modified_at": "2024-07-02T20:49:46Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 140496,
+        "length": null,
+        "match_id": 999233,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 4648,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4648/1200px-iesf_world_esports_championships_2024_allmode-png",
+      "modified_at": "2024-04-17T20:46:20Z",
+      "name": "IESF World Championship",
+      "slug": "cs-go-iesf-world-championship",
+      "url": null
+    },
+    "serie_id": 7724,
+    "winner": null,
+    "scheduled_at": "2024-07-06T10:00:00Z",
+    "videogame_title": {
+      "id": 13,
+      "name": "Counter-Strike 2",
+      "slug": "cs-2",
+      "videogame_id": 3
+    },
+    "serie": {
+      "begin_at": "2024-07-06T10:00:00Z",
+      "end_at": "2024-07-14T15:00:00Z",
+      "full_name": "West European Qualifier 2024",
+      "id": 7724,
+      "league_id": 4648,
+      "modified_at": "2024-07-02T16:36:07Z",
+      "name": "West European Qualifier",
+      "season": null,
+      "slug": "cs-go-iesf-world-championship-west-european-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [],
+    "videogame_version": null,
+    "videogame": {
+      "id": 3,
+      "name": "Counter-Strike",
+      "slug": "cs-go"
+    },
+    "detailed_stats": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 129579
+      },
+      {
+        "score": 0,
+        "team_id": 129582
+      }
+    ],
+    "tournament_id": 14013,
+    "begin_at": "2024-07-06T10:00:00Z",
+    "league_id": 4648,
+    "forfeit": false,
+    "number_of_games": 1,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-06T10:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-07T13:00:00Z",
+      "has_bracket": false,
+      "id": 14011,
+      "league_id": 4648,
+      "live_supported": false,
+      "modified_at": "2024-07-02T16:36:07Z",
+      "name": "Group A",
+      "prizepool": null,
+      "serie_id": 7724,
+      "slug": "cs-go-iesf-world-championship-west-european-qualifier-2024-group-a",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-06T10:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "WAL",
+          "id": 129583,
+          "image_url": "https://cdn.pandascore.co/images/team/image/129583/190px_flag_of_wales_4_by_3.png",
+          "location": "GB",
+          "modified_at": "2024-07-03T09:41:43Z",
+          "name": "Team Wales",
+          "slug": "team-wales"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "HUN",
+          "id": 129834,
+          "image_url": "https://cdn.pandascore.co/images/team/image/129834/hungary_flag.png",
+          "location": "HU",
+          "modified_at": "2024-07-03T09:41:51Z",
+          "name": "Hungary",
+          "slug": "team-hungary"
+        },
+        "type": "Team"
+      }
+    ],
+    "slug": "team-wales-vs-hungary-2024-07-06",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 999205,
+    "winner_type": "Team",
+    "name": "Team Wales vs Hungary",
+    "game_advantage": null,
+    "modified_at": "2024-07-02T16:36:07Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 140473,
+        "length": null,
+        "match_id": 999205,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 4648,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4648/1200px-iesf_world_esports_championships_2024_allmode-png",
+      "modified_at": "2024-04-17T20:46:20Z",
+      "name": "IESF World Championship",
+      "slug": "cs-go-iesf-world-championship",
+      "url": null
+    },
+    "serie_id": 7724,
+    "winner": null,
+    "scheduled_at": "2024-07-06T10:00:00Z",
+    "videogame_title": {
+      "id": 13,
+      "name": "Counter-Strike 2",
+      "slug": "cs-2",
+      "videogame_id": 3
+    },
+    "serie": {
+      "begin_at": "2024-07-06T10:00:00Z",
+      "end_at": "2024-07-14T15:00:00Z",
+      "full_name": "West European Qualifier 2024",
+      "id": 7724,
+      "league_id": 4648,
+      "modified_at": "2024-07-02T16:36:07Z",
+      "name": "West European Qualifier",
+      "season": null,
+      "slug": "cs-go-iesf-world-championship-west-european-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [],
+    "videogame_version": null,
+    "videogame": {
+      "id": 3,
+      "name": "Counter-Strike",
+      "slug": "cs-go"
+    },
+    "detailed_stats": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 129583
+      },
+      {
+        "score": 0,
+        "team_id": 129834
+      }
+    ],
+    "tournament_id": 14011,
+    "begin_at": "2024-07-06T10:00:00Z",
+    "league_id": 4648,
+    "forfeit": false,
+    "number_of_games": 1,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-06T10:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-07T13:00:00Z",
+      "has_bracket": false,
+      "id": 14011,
+      "league_id": 4648,
+      "live_supported": false,
+      "modified_at": "2024-07-02T16:36:07Z",
+      "name": "Group A",
+      "prizepool": null,
+      "serie_id": 7724,
+      "slug": "cs-go-iesf-world-championship-west-european-qualifier-2024-group-a",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-06T10:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "IRL",
+          "id": 133486,
+          "image_url": "https://cdn.pandascore.co/images/team/image/133486/190px_flag_of_ireland_4_by_3.png",
+          "location": "IE",
+          "modified_at": "2024-07-03T09:42:45Z",
+          "name": "Ireland",
+          "slug": "ireland-cs-go"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "SVK",
+          "id": 131176,
+          "image_url": "https://cdn.pandascore.co/images/team/image/131176/1280px_flag_of_slovakia.svg.png",
+          "location": "SK",
+          "modified_at": "2024-07-02T15:41:27Z",
+          "name": "Team Slovakia",
+          "slug": "team-slovakia"
+        },
+        "type": "Team"
+      }
+    ],
+    "slug": "ireland-vs-team-slovakia-2024-07-06",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 999204,
+    "winner_type": "Team",
+    "name": "Ireland vs SVK",
+    "game_advantage": null,
+    "modified_at": "2024-07-02T16:36:07Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 140472,
+        "length": null,
+        "match_id": 999204,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 4648,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4648/1200px-iesf_world_esports_championships_2024_allmode-png",
+      "modified_at": "2024-04-17T20:46:20Z",
+      "name": "IESF World Championship",
+      "slug": "cs-go-iesf-world-championship",
+      "url": null
+    },
+    "serie_id": 7724,
+    "winner": null,
+    "scheduled_at": "2024-07-06T10:00:00Z",
+    "videogame_title": {
+      "id": 13,
+      "name": "Counter-Strike 2",
+      "slug": "cs-2",
+      "videogame_id": 3
+    },
+    "serie": {
+      "begin_at": "2024-07-06T10:00:00Z",
+      "end_at": "2024-07-14T15:00:00Z",
+      "full_name": "West European Qualifier 2024",
+      "id": 7724,
+      "league_id": 4648,
+      "modified_at": "2024-07-02T16:36:07Z",
+      "name": "West European Qualifier",
+      "season": null,
+      "slug": "cs-go-iesf-world-championship-west-european-qualifier-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [],
+    "videogame_version": null,
+    "videogame": {
+      "id": 3,
+      "name": "Counter-Strike",
+      "slug": "cs-go"
+    },
+    "detailed_stats": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 133486
+      },
+      {
+        "score": 0,
+        "team_id": 131176
+      }
+    ],
+    "tournament_id": 14011,
+    "begin_at": "2024-07-06T10:00:00Z",
+    "league_id": 4648,
+    "forfeit": false,
+    "number_of_games": 1,
+    "end_at": null
+  }
+]
