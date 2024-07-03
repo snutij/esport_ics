@@ -1,0 +1,1667 @@
+[
+  {
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713988,
+        "length": null,
+        "match_id": 997054,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713989,
+        "length": null,
+        "match_id": 997054,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713990,
+        "length": null,
+        "match_id": 997054,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "status": "not_started",
+    "draw": false,
+    "serie_id": 7705,
+    "original_scheduled_at": "2024-07-04T09:00:00Z",
+    "league_id": 5266,
+    "winner": null,
+    "tournament_id": 13969,
+    "id": 997054,
+    "forfeit": false,
+    "videogame_title": null,
+    "name": "JB vs UAH",
+    "game_advantage": null,
+    "end_at": null,
+    "modified_at": "2024-07-03T14:08:57Z",
+    "videogame": {
+      "id": 4,
+      "name": "Dota 2",
+      "slug": "dota-2"
+    },
+    "number_of_games": 3,
+    "rescheduled": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134590
+      },
+      {
+        "score": 0,
+        "team_id": 133862
+      }
+    ],
+    "detailed_stats": true,
+    "league": {
+      "id": 5266,
+      "image_url": null,
+      "modified_at": "2024-06-28T09:05:26Z",
+      "name": "CyberScore Cup",
+      "slug": "dota-2-cyberscore-cup",
+      "url": null
+    },
+    "winner_id": null,
+    "slug": "justbetter-vs-team-hryvnia-2024-07-04",
+    "match_type": "best_of",
+    "videogame_version": null,
+    "serie": {
+      "begin_at": "2024-06-27T12:00:00Z",
+      "end_at": "2024-07-13T15:00:00Z",
+      "full_name": "2024",
+      "id": 7705,
+      "league_id": 5266,
+      "modified_at": "2024-06-28T09:05:18Z",
+      "name": "",
+      "season": null,
+      "slug": "dota-2-cyberscore-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "JB",
+          "id": 134590,
+          "image_url": null,
+          "location": "GR",
+          "modified_at": "2024-06-29T15:34:26Z",
+          "name": "JustBetter",
+          "slug": "justbetter"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "UAH",
+          "id": 133862,
+          "image_url": null,
+          "location": "UA",
+          "modified_at": "2024-06-30T16:27:45Z",
+          "name": "Team Hryvnia",
+          "slug": "team-hryvnia"
+        },
+        "type": "Team"
+      }
+    ],
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=epldota_en2",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/epldota_en2"
+      },
+      {
+        "embed_url": "https://player.twitch.tv/?channel=epldota_ru2",
+        "language": "ru",
+        "main": false,
+        "official": false,
+        "raw_url": "https://www.twitch.tv/epldota_ru2"
+      }
+    ],
+    "winner_type": "Team",
+    "tournament": {
+      "begin_at": "2024-06-30T15:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-07T21:00:00Z",
+      "has_bracket": false,
+      "id": 13969,
+      "league_id": 5266,
+      "live_supported": false,
+      "modified_at": "2024-07-01T15:50:15Z",
+      "name": "Group B",
+      "prizepool": null,
+      "serie_id": 7705,
+      "slug": "dota-2-cyberscore-cup-2024-group-b",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "begin_at": "2024-07-04T09:00:00Z",
+    "scheduled_at": "2024-07-04T09:00:00Z"
+  },
+  {
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713899,
+        "length": null,
+        "match_id": 996993,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713900,
+        "length": null,
+        "match_id": 996993,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "status": "not_started",
+    "draw": false,
+    "serie_id": 7704,
+    "original_scheduled_at": "2024-07-04T09:00:00Z",
+    "league_id": 4821,
+    "winner": null,
+    "tournament_id": 13962,
+    "id": 996993,
+    "forfeit": false,
+    "videogame_title": null,
+    "name": "BLI vs BC",
+    "game_advantage": null,
+    "end_at": null,
+    "modified_at": "2024-07-03T15:06:12Z",
+    "videogame": {
+      "id": 4,
+      "name": "Dota 2",
+      "slug": "dota-2"
+    },
+    "number_of_games": 2,
+    "rescheduled": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 132127
+      },
+      {
+        "score": 0,
+        "team_id": 126002
+      }
+    ],
+    "detailed_stats": true,
+    "league": {
+      "id": 4821,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4821/riyadh_masters_lightmode-png",
+      "modified_at": "2023-12-23T22:33:56Z",
+      "name": "Riyadh Masters",
+      "slug": "dota-2-riyadh",
+      "url": null
+    },
+    "winner_id": null,
+    "slug": "blacklist-international-vs-beastcoast-2024-07-04",
+    "match_type": "best_of",
+    "videogame_version": null,
+    "serie": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "end_at": "2024-07-20T22:00:00Z",
+      "full_name": "2024",
+      "id": 7704,
+      "league_id": 4821,
+      "modified_at": "2024-06-27T16:06:15Z",
+      "name": "",
+      "season": null,
+      "slug": "dota-2-riyadh-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "BLI",
+          "id": 132127,
+          "image_url": "https://cdn.pandascore.co/images/team/image/132127/600px_blacklist_international_lightmode_full.png",
+          "location": "PH",
+          "modified_at": "2024-06-27T15:55:32Z",
+          "name": "Blacklist International",
+          "slug": "blacklist-international"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "BC",
+          "id": 126002,
+          "image_url": "https://cdn.pandascore.co/images/team/image/126002/147px-Beastcoast_no_text.png",
+          "location": "US",
+          "modified_at": "2024-06-27T15:55:31Z",
+          "name": "beastcoast",
+          "slug": "beastcoast"
+        },
+        "type": "Team"
+      }
+    ],
+    "live": {
+      "opens_at": "2024-07-04T08:45:00.000000Z",
+      "supported": true,
+      "url": "wss://live.pandascore.co/matches/996993"
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=betboom_ru",
+        "language": "ru",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/betboom_ru"
+      }
+    ],
+    "winner_type": "Team",
+    "tournament": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-06T22:00:00Z",
+      "has_bracket": false,
+      "id": 13962,
+      "league_id": 4821,
+      "live_supported": true,
+      "modified_at": "2024-07-03T15:05:50Z",
+      "name": "Play-In Group A",
+      "prizepool": null,
+      "serie_id": 7704,
+      "slug": "dota-2-riyadh-2024-play-in-group-a",
+      "tier": "s",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "begin_at": "2024-07-04T09:00:00Z",
+    "scheduled_at": "2024-07-04T09:00:00Z"
+  },
+  {
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713897,
+        "length": null,
+        "match_id": 996992,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713898,
+        "length": null,
+        "match_id": 996992,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "status": "not_started",
+    "draw": false,
+    "serie_id": 7704,
+    "original_scheduled_at": "2024-07-04T09:00:00Z",
+    "league_id": 4821,
+    "winner": null,
+    "tournament_id": 13962,
+    "id": 996992,
+    "forfeit": false,
+    "videogame_title": null,
+    "name": "LGD vs VP",
+    "game_advantage": null,
+    "end_at": null,
+    "modified_at": "2024-07-03T15:05:49Z",
+    "videogame": {
+      "id": 4,
+      "name": "Dota 2",
+      "slug": "dota-2"
+    },
+    "number_of_games": 2,
+    "rescheduled": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 1657
+      },
+      {
+        "score": 0,
+        "team_id": 1651
+      }
+    ],
+    "detailed_stats": true,
+    "league": {
+      "id": 4821,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4821/riyadh_masters_lightmode-png",
+      "modified_at": "2023-12-23T22:33:56Z",
+      "name": "Riyadh Masters",
+      "slug": "dota-2-riyadh",
+      "url": null
+    },
+    "winner_id": null,
+    "slug": "lgd-gaming-vs-virtus-pro-2024-07-04",
+    "match_type": "best_of",
+    "videogame_version": null,
+    "serie": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "end_at": "2024-07-20T22:00:00Z",
+      "full_name": "2024",
+      "id": 7704,
+      "league_id": 4821,
+      "modified_at": "2024-06-27T16:06:15Z",
+      "name": "",
+      "season": null,
+      "slug": "dota-2-riyadh-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "LGD",
+          "id": 1657,
+          "image_url": "https://cdn.pandascore.co/images/team/image/1657/600px_lgd_gaming_december_2019_lightmode.png",
+          "location": "CN",
+          "modified_at": "2024-06-27T15:55:33Z",
+          "name": "LGD Gaming",
+          "slug": "lgd-gaming-dota-2"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "VP",
+          "id": 1651,
+          "image_url": "https://cdn.pandascore.co/images/team/image/1651/150px_virtus.pro_2019.png",
+          "location": "RU",
+          "modified_at": "2024-06-27T15:55:30Z",
+          "name": "Virtus.pro",
+          "slug": "virtus-pro"
+        },
+        "type": "Team"
+      }
+    ],
+    "live": {
+      "opens_at": "2024-07-04T08:45:00.000000Z",
+      "supported": true,
+      "url": "wss://live.pandascore.co/matches/996992"
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=betboom_ru",
+        "language": "ru",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/betboom_ru"
+      }
+    ],
+    "winner_type": "Team",
+    "tournament": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-06T22:00:00Z",
+      "has_bracket": false,
+      "id": 13962,
+      "league_id": 4821,
+      "live_supported": true,
+      "modified_at": "2024-07-03T15:05:50Z",
+      "name": "Play-In Group A",
+      "prizepool": null,
+      "serie_id": 7704,
+      "slug": "dota-2-riyadh-2024-play-in-group-a",
+      "tier": "s",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "begin_at": "2024-07-04T09:00:00Z",
+    "scheduled_at": "2024-07-04T09:00:00Z"
+  },
+  {
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713895,
+        "length": null,
+        "match_id": 996990,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713896,
+        "length": null,
+        "match_id": 996990,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "status": "not_started",
+    "draw": false,
+    "serie_id": 7704,
+    "original_scheduled_at": "2024-07-04T09:00:00Z",
+    "league_id": 4821,
+    "winner": null,
+    "tournament_id": 13962,
+    "id": 996990,
+    "forfeit": false,
+    "videogame_title": null,
+    "name": "G2.iG vs ETG",
+    "game_advantage": null,
+    "end_at": null,
+    "modified_at": "2024-07-03T15:05:49Z",
+    "videogame": {
+      "id": 4,
+      "name": "Dota 2",
+      "slug": "dota-2"
+    },
+    "number_of_games": 2,
+    "rescheduled": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134024
+      },
+      {
+        "score": 0,
+        "team_id": 129904
+      }
+    ],
+    "detailed_stats": true,
+    "league": {
+      "id": 4821,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4821/riyadh_masters_lightmode-png",
+      "modified_at": "2023-12-23T22:33:56Z",
+      "name": "Riyadh Masters",
+      "slug": "dota-2-riyadh",
+      "url": null
+    },
+    "winner_id": null,
+    "slug": "g2-ig-vs-entity-2024-07-04",
+    "match_type": "best_of",
+    "videogame_version": null,
+    "serie": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "end_at": "2024-07-20T22:00:00Z",
+      "full_name": "2024",
+      "id": 7704,
+      "league_id": 4821,
+      "modified_at": "2024-06-27T16:06:15Z",
+      "name": "",
+      "season": null,
+      "slug": "dota-2-riyadh-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "G2.iG",
+          "id": 134024,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134024/600px_g2.i_g_lightmode.png",
+          "location": "CN",
+          "modified_at": "2024-06-27T15:55:31Z",
+          "name": "G2.iG",
+          "slug": "g2-ig"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "ETG",
+          "id": 129904,
+          "image_url": "https://cdn.pandascore.co/images/team/image/129904/600px_entity_2021_lightmode.png",
+          "location": "IN",
+          "modified_at": "2024-06-30T12:00:08Z",
+          "name": "Entity",
+          "slug": "entity-dota-2"
+        },
+        "type": "Team"
+      }
+    ],
+    "live": {
+      "opens_at": "2024-07-04T08:45:00.000000Z",
+      "supported": true,
+      "url": "wss://live.pandascore.co/matches/996990"
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=betboom_ru",
+        "language": "ru",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/betboom_ru"
+      }
+    ],
+    "winner_type": "Team",
+    "tournament": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-06T22:00:00Z",
+      "has_bracket": false,
+      "id": 13962,
+      "league_id": 4821,
+      "live_supported": true,
+      "modified_at": "2024-07-03T15:05:50Z",
+      "name": "Play-In Group A",
+      "prizepool": null,
+      "serie_id": 7704,
+      "slug": "dota-2-riyadh-2024-play-in-group-a",
+      "tier": "s",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "begin_at": "2024-07-04T09:00:00Z",
+    "scheduled_at": "2024-07-04T09:00:00Z"
+  },
+  {
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713869,
+        "length": null,
+        "match_id": 996973,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713870,
+        "length": null,
+        "match_id": 996973,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "status": "not_started",
+    "draw": false,
+    "serie_id": 7704,
+    "original_scheduled_at": "2024-07-04T11:45:00Z",
+    "league_id": 4821,
+    "winner": null,
+    "tournament_id": 13963,
+    "id": 996973,
+    "forfeit": false,
+    "videogame_title": null,
+    "name": "nouns vs MOUZ",
+    "game_advantage": null,
+    "end_at": null,
+    "modified_at": "2024-07-03T15:06:16Z",
+    "videogame": {
+      "id": 4,
+      "name": "Dota 2",
+      "slug": "dota-2"
+    },
+    "number_of_games": 2,
+    "rescheduled": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 130920
+      },
+      {
+        "score": 0,
+        "team_id": 134559
+      }
+    ],
+    "detailed_stats": true,
+    "league": {
+      "id": 4821,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4821/riyadh_masters_lightmode-png",
+      "modified_at": "2023-12-23T22:33:56Z",
+      "name": "Riyadh Masters",
+      "slug": "dota-2-riyadh",
+      "url": null
+    },
+    "winner_id": null,
+    "slug": "nouns-vs-mouz-2024-07-04",
+    "match_type": "best_of",
+    "videogame_version": null,
+    "serie": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "end_at": "2024-07-20T22:00:00Z",
+      "full_name": "2024",
+      "id": 7704,
+      "league_id": 4821,
+      "modified_at": "2024-06-27T16:06:15Z",
+      "name": "",
+      "season": null,
+      "slug": "dota-2-riyadh-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "nouns",
+          "id": 130920,
+          "image_url": "https://cdn.pandascore.co/images/team/image/130920/nouns_esports_allmode.png",
+          "location": "US",
+          "modified_at": "2024-06-27T15:57:05Z",
+          "name": "nouns",
+          "slug": "nouns"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "MOUZ",
+          "id": 134559,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134559/139px_mouz_2021_allmode.png",
+          "location": "DE",
+          "modified_at": "2024-06-27T15:57:06Z",
+          "name": "MOUZ",
+          "slug": "mouz-dota-2"
+        },
+        "type": "Team"
+      }
+    ],
+    "live": {
+      "opens_at": "2024-07-04T11:30:00.000000Z",
+      "supported": true,
+      "url": "wss://live.pandascore.co/matches/996973"
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=betboom_ru",
+        "language": "ru",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/betboom_ru"
+      },
+      {
+        "embed_url": "https://player.twitch.tv/?channel=EWC_DOTA2",
+        "language": "en",
+        "main": false,
+        "official": false,
+        "raw_url": "https://www.twitch.tv/EWC_DOTA2"
+      }
+    ],
+    "winner_type": "Team",
+    "tournament": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-06T22:00:00Z",
+      "has_bracket": false,
+      "id": 13963,
+      "league_id": 4821,
+      "live_supported": true,
+      "modified_at": "2024-07-03T15:06:01Z",
+      "name": "Play-In Group B",
+      "prizepool": null,
+      "serie_id": 7704,
+      "slug": "dota-2-riyadh-2024-play-in-group-b",
+      "tier": "s",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "begin_at": "2024-07-04T11:45:00Z",
+    "scheduled_at": "2024-07-04T11:45:00Z"
+  },
+  {
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713867,
+        "length": null,
+        "match_id": 996972,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713868,
+        "length": null,
+        "match_id": 996972,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "status": "not_started",
+    "draw": false,
+    "serie_id": 7704,
+    "original_scheduled_at": "2024-07-04T11:45:00Z",
+    "league_id": 4821,
+    "winner": null,
+    "tournament_id": 13963,
+    "id": 996972,
+    "forfeit": false,
+    "videogame_title": null,
+    "name": "HEROIC vs QE",
+    "game_advantage": null,
+    "end_at": null,
+    "modified_at": "2024-07-03T15:06:01Z",
+    "videogame": {
+      "id": 4,
+      "name": "Dota 2",
+      "slug": "dota-2"
+    },
+    "number_of_games": 2,
+    "rescheduled": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134130
+      },
+      {
+        "score": 0,
+        "team_id": 133072
+      }
+    ],
+    "detailed_stats": true,
+    "league": {
+      "id": 4821,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4821/riyadh_masters_lightmode-png",
+      "modified_at": "2023-12-23T22:33:56Z",
+      "name": "Riyadh Masters",
+      "slug": "dota-2-riyadh",
+      "url": null
+    },
+    "winner_id": null,
+    "slug": "heroic-vs-psg-quest-2024-07-04",
+    "match_type": "best_of",
+    "videogame_version": null,
+    "serie": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "end_at": "2024-07-20T22:00:00Z",
+      "full_name": "2024",
+      "id": 7704,
+      "league_id": 4821,
+      "modified_at": "2024-06-27T16:06:15Z",
+      "name": "",
+      "season": null,
+      "slug": "dota-2-riyadh-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "HEROIC",
+          "id": 134130,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134130/680px_heroic_2023_allmode.png",
+          "location": "NO",
+          "modified_at": "2024-06-27T15:57:06Z",
+          "name": "Heroic",
+          "slug": "heroic-dota-2"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "QE",
+          "id": 133072,
+          "image_url": "https://cdn.pandascore.co/images/team/image/133072/132px_quest_esports_lightmode.png",
+          "location": "QA",
+          "modified_at": "2024-06-27T15:57:08Z",
+          "name": "PSG Quest",
+          "slug": "quest-esports"
+        },
+        "type": "Team"
+      }
+    ],
+    "live": {
+      "opens_at": "2024-07-04T11:30:00.000000Z",
+      "supported": true,
+      "url": "wss://live.pandascore.co/matches/996972"
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=betboom_ru",
+        "language": "ru",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/betboom_ru"
+      },
+      {
+        "embed_url": "https://player.twitch.tv/?channel=EWC_DOTA2",
+        "language": "en",
+        "main": false,
+        "official": false,
+        "raw_url": "https://www.twitch.tv/EWC_DOTA2"
+      }
+    ],
+    "winner_type": "Team",
+    "tournament": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-06T22:00:00Z",
+      "has_bracket": false,
+      "id": 13963,
+      "league_id": 4821,
+      "live_supported": true,
+      "modified_at": "2024-07-03T15:06:01Z",
+      "name": "Play-In Group B",
+      "prizepool": null,
+      "serie_id": 7704,
+      "slug": "dota-2-riyadh-2024-play-in-group-b",
+      "tier": "s",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "begin_at": "2024-07-04T11:45:00Z",
+    "scheduled_at": "2024-07-04T11:45:00Z"
+  },
+  {
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713865,
+        "length": null,
+        "match_id": 996971,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713866,
+        "length": null,
+        "match_id": 996971,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "status": "not_started",
+    "draw": false,
+    "serie_id": 7704,
+    "original_scheduled_at": "2024-07-04T11:45:00Z",
+    "league_id": 4821,
+    "winner": null,
+    "tournament_id": 13963,
+    "id": 996971,
+    "forfeit": false,
+    "videogame_title": null,
+    "name": "AUR vs AR",
+    "game_advantage": null,
+    "end_at": null,
+    "modified_at": "2024-07-03T15:06:01Z",
+    "videogame": {
+      "id": 4,
+      "name": "Dota 2",
+      "slug": "dota-2"
+    },
+    "number_of_games": 2,
+    "rescheduled": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 133882
+      },
+      {
+        "score": 0,
+        "team_id": 133180
+      }
+    ],
+    "detailed_stats": true,
+    "league": {
+      "id": 4821,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4821/riyadh_masters_lightmode-png",
+      "modified_at": "2023-12-23T22:33:56Z",
+      "name": "Riyadh Masters",
+      "slug": "dota-2-riyadh",
+      "url": null
+    },
+    "winner_id": null,
+    "slug": "aurora-vs-azure-ray-2024-07-04",
+    "match_type": "best_of",
+    "videogame_version": null,
+    "serie": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "end_at": "2024-07-20T22:00:00Z",
+      "full_name": "2024",
+      "id": 7704,
+      "league_id": 4821,
+      "modified_at": "2024-06-27T16:06:15Z",
+      "name": "",
+      "season": null,
+      "slug": "dota-2-riyadh-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "AUR",
+          "id": 133882,
+          "image_url": "https://cdn.pandascore.co/images/team/image/133882/600px_aurora_gaming_2023_allmode.png",
+          "location": "RS",
+          "modified_at": "2024-06-27T15:57:06Z",
+          "name": "Aurora",
+          "slug": "aurora-dota-2"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "AR",
+          "id": 133180,
+          "image_url": "https://cdn.pandascore.co/images/team/image/133180/azure_ray_full_allmode.png",
+          "location": "CN",
+          "modified_at": "2024-06-27T15:57:07Z",
+          "name": "Azure Ray",
+          "slug": "azure-ray"
+        },
+        "type": "Team"
+      }
+    ],
+    "live": {
+      "opens_at": "2024-07-04T11:30:00.000000Z",
+      "supported": true,
+      "url": "wss://live.pandascore.co/matches/996971"
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=betboom_ru",
+        "language": "ru",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/betboom_ru"
+      },
+      {
+        "embed_url": "https://player.twitch.tv/?channel=EWC_DOTA2",
+        "language": "en",
+        "main": false,
+        "official": false,
+        "raw_url": "https://www.twitch.tv/EWC_DOTA2"
+      }
+    ],
+    "winner_type": "Team",
+    "tournament": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-06T22:00:00Z",
+      "has_bracket": false,
+      "id": 13963,
+      "league_id": 4821,
+      "live_supported": true,
+      "modified_at": "2024-07-03T15:06:01Z",
+      "name": "Play-In Group B",
+      "prizepool": null,
+      "serie_id": 7704,
+      "slug": "dota-2-riyadh-2024-play-in-group-b",
+      "tier": "s",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "begin_at": "2024-07-04T11:45:00Z",
+    "scheduled_at": "2024-07-04T11:45:00Z"
+  },
+  {
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713991,
+        "length": null,
+        "match_id": 997055,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713992,
+        "length": null,
+        "match_id": 997055,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713993,
+        "length": null,
+        "match_id": 997055,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "status": "not_started",
+    "draw": false,
+    "serie_id": 7705,
+    "original_scheduled_at": "2024-07-04T12:00:00Z",
+    "league_id": 5266,
+    "winner": null,
+    "tournament_id": 13969,
+    "id": 997055,
+    "forfeit": false,
+    "videogame_title": null,
+    "name": "KALMY vs TT",
+    "game_advantage": null,
+    "end_at": null,
+    "modified_at": "2024-07-03T14:10:31Z",
+    "videogame": {
+      "id": 4,
+      "name": "Dota 2",
+      "slug": "dota-2"
+    },
+    "number_of_games": 3,
+    "rescheduled": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134208
+      },
+      {
+        "score": 0,
+        "team_id": 135167
+      }
+    ],
+    "detailed_stats": true,
+    "league": {
+      "id": 5266,
+      "image_url": null,
+      "modified_at": "2024-06-28T09:05:26Z",
+      "name": "CyberScore Cup",
+      "slug": "dota-2-cyberscore-cup",
+      "url": null
+    },
+    "winner_id": null,
+    "slug": "kalmychata-vs-team-tea-2024-07-04",
+    "match_type": "best_of",
+    "videogame_version": null,
+    "serie": {
+      "begin_at": "2024-06-27T12:00:00Z",
+      "end_at": "2024-07-13T15:00:00Z",
+      "full_name": "2024",
+      "id": 7705,
+      "league_id": 5266,
+      "modified_at": "2024-06-28T09:05:18Z",
+      "name": "",
+      "season": null,
+      "slug": "dota-2-cyberscore-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "KALMY",
+          "id": 134208,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134208/148px_kalmychata_allmode.png",
+          "location": "RU",
+          "modified_at": "2024-06-30T16:27:45Z",
+          "name": "Kalmychata",
+          "slug": "kalmychata"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "TT",
+          "id": 135167,
+          "image_url": null,
+          "location": "",
+          "modified_at": "2024-07-01T18:39:17Z",
+          "name": "Team Tea",
+          "slug": "hardbass-team"
+        },
+        "type": "Team"
+      }
+    ],
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=epldota_en2",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/epldota_en2"
+      },
+      {
+        "embed_url": "https://player.twitch.tv/?channel=epldota_ru2",
+        "language": "ru",
+        "main": false,
+        "official": false,
+        "raw_url": "https://www.twitch.tv/epldota_ru2"
+      }
+    ],
+    "winner_type": "Team",
+    "tournament": {
+      "begin_at": "2024-06-30T15:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-07T21:00:00Z",
+      "has_bracket": false,
+      "id": 13969,
+      "league_id": 5266,
+      "live_supported": false,
+      "modified_at": "2024-07-01T15:50:15Z",
+      "name": "Group B",
+      "prizepool": null,
+      "serie_id": 7705,
+      "slug": "dota-2-cyberscore-cup-2024-group-b",
+      "tier": "d",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "begin_at": "2024-07-04T12:00:00Z",
+    "scheduled_at": "2024-07-04T12:00:00Z"
+  },
+  {
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713905,
+        "length": null,
+        "match_id": 996996,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713906,
+        "length": null,
+        "match_id": 996996,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "status": "not_started",
+    "draw": false,
+    "serie_id": 7704,
+    "original_scheduled_at": "2024-07-04T14:30:00Z",
+    "league_id": 4821,
+    "winner": null,
+    "tournament_id": 13962,
+    "id": 996996,
+    "forfeit": false,
+    "videogame_title": null,
+    "name": "LGD vs BC",
+    "game_advantage": null,
+    "end_at": null,
+    "modified_at": "2024-07-03T15:06:24Z",
+    "videogame": {
+      "id": 4,
+      "name": "Dota 2",
+      "slug": "dota-2"
+    },
+    "number_of_games": 2,
+    "rescheduled": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 1657
+      },
+      {
+        "score": 0,
+        "team_id": 126002
+      }
+    ],
+    "detailed_stats": true,
+    "league": {
+      "id": 4821,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4821/riyadh_masters_lightmode-png",
+      "modified_at": "2023-12-23T22:33:56Z",
+      "name": "Riyadh Masters",
+      "slug": "dota-2-riyadh",
+      "url": null
+    },
+    "winner_id": null,
+    "slug": "lgd-gaming-vs-beastcoast-2024-07-04",
+    "match_type": "best_of",
+    "videogame_version": null,
+    "serie": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "end_at": "2024-07-20T22:00:00Z",
+      "full_name": "2024",
+      "id": 7704,
+      "league_id": 4821,
+      "modified_at": "2024-06-27T16:06:15Z",
+      "name": "",
+      "season": null,
+      "slug": "dota-2-riyadh-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "LGD",
+          "id": 1657,
+          "image_url": "https://cdn.pandascore.co/images/team/image/1657/600px_lgd_gaming_december_2019_lightmode.png",
+          "location": "CN",
+          "modified_at": "2024-06-27T15:55:33Z",
+          "name": "LGD Gaming",
+          "slug": "lgd-gaming-dota-2"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "BC",
+          "id": 126002,
+          "image_url": "https://cdn.pandascore.co/images/team/image/126002/147px-Beastcoast_no_text.png",
+          "location": "US",
+          "modified_at": "2024-06-27T15:55:31Z",
+          "name": "beastcoast",
+          "slug": "beastcoast"
+        },
+        "type": "Team"
+      }
+    ],
+    "live": {
+      "opens_at": "2024-07-04T14:15:00.000000Z",
+      "supported": true,
+      "url": "wss://live.pandascore.co/matches/996996"
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=betboom_ru",
+        "language": "ru",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/betboom_ru"
+      },
+      {
+        "embed_url": "https://player.twitch.tv/?channel=EWC_DOTA2",
+        "language": "en",
+        "main": false,
+        "official": false,
+        "raw_url": "https://www.twitch.tv/EWC_DOTA2"
+      }
+    ],
+    "winner_type": "Team",
+    "tournament": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-06T22:00:00Z",
+      "has_bracket": false,
+      "id": 13962,
+      "league_id": 4821,
+      "live_supported": true,
+      "modified_at": "2024-07-03T15:05:50Z",
+      "name": "Play-In Group A",
+      "prizepool": null,
+      "serie_id": 7704,
+      "slug": "dota-2-riyadh-2024-play-in-group-a",
+      "tier": "s",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "begin_at": "2024-07-04T14:30:00Z",
+    "scheduled_at": "2024-07-04T14:30:00Z"
+  },
+  {
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713903,
+        "length": null,
+        "match_id": 996995,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 713904,
+        "length": null,
+        "match_id": 996995,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "status": "not_started",
+    "draw": false,
+    "serie_id": 7704,
+    "original_scheduled_at": "2024-07-04T14:30:00Z",
+    "league_id": 4821,
+    "winner": null,
+    "tournament_id": 13962,
+    "id": 996995,
+    "forfeit": false,
+    "videogame_title": null,
+    "name": "BLI vs G2.iG",
+    "game_advantage": null,
+    "end_at": null,
+    "modified_at": "2024-07-03T15:05:49Z",
+    "videogame": {
+      "id": 4,
+      "name": "Dota 2",
+      "slug": "dota-2"
+    },
+    "number_of_games": 2,
+    "rescheduled": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 132127
+      },
+      {
+        "score": 0,
+        "team_id": 134024
+      }
+    ],
+    "detailed_stats": true,
+    "league": {
+      "id": 4821,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4821/riyadh_masters_lightmode-png",
+      "modified_at": "2023-12-23T22:33:56Z",
+      "name": "Riyadh Masters",
+      "slug": "dota-2-riyadh",
+      "url": null
+    },
+    "winner_id": null,
+    "slug": "blacklist-international-vs-g2-ig-2024-07-04",
+    "match_type": "best_of",
+    "videogame_version": null,
+    "serie": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "end_at": "2024-07-20T22:00:00Z",
+      "full_name": "2024",
+      "id": 7704,
+      "league_id": 4821,
+      "modified_at": "2024-06-27T16:06:15Z",
+      "name": "",
+      "season": null,
+      "slug": "dota-2-riyadh-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "BLI",
+          "id": 132127,
+          "image_url": "https://cdn.pandascore.co/images/team/image/132127/600px_blacklist_international_lightmode_full.png",
+          "location": "PH",
+          "modified_at": "2024-06-27T15:55:32Z",
+          "name": "Blacklist International",
+          "slug": "blacklist-international"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "G2.iG",
+          "id": 134024,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134024/600px_g2.i_g_lightmode.png",
+          "location": "CN",
+          "modified_at": "2024-06-27T15:55:31Z",
+          "name": "G2.iG",
+          "slug": "g2-ig"
+        },
+        "type": "Team"
+      }
+    ],
+    "live": {
+      "opens_at": "2024-07-04T14:15:00.000000Z",
+      "supported": true,
+      "url": "wss://live.pandascore.co/matches/996995"
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=betboom_ru",
+        "language": "ru",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/betboom_ru"
+      },
+      {
+        "embed_url": "https://player.twitch.tv/?channel=EWC_DOTA2",
+        "language": "en",
+        "main": false,
+        "official": false,
+        "raw_url": "https://www.twitch.tv/EWC_DOTA2"
+      }
+    ],
+    "winner_type": "Team",
+    "tournament": {
+      "begin_at": "2024-07-03T22:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-06T22:00:00Z",
+      "has_bracket": false,
+      "id": 13962,
+      "league_id": 4821,
+      "live_supported": true,
+      "modified_at": "2024-07-03T15:05:50Z",
+      "name": "Play-In Group A",
+      "prizepool": null,
+      "serie_id": 7704,
+      "slug": "dota-2-riyadh-2024-play-in-group-a",
+      "tier": "s",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "begin_at": "2024-07-04T14:30:00Z",
+    "scheduled_at": "2024-07-04T14:30:00Z"
+  }
+]

@@ -37,12 +37,18 @@ namespace :esport_ics do
       EsportIcs::Games::RainbowSixSiege.new.generate.write!
     end
 
+    desc "Generate Dota 2 ics files"
+    task :dota_2 do
+      EsportIcs::Games::Dota2.new.generate.write!
+    end
+
     desc "Run all generators"
     task all: [
       "generate:league_of_legends",
       "generate:valorant",
       "generate:counter_strike",
       "generate:rainbow_six_siege",
+      "generate:dota_2",
     ]
   end
 end
