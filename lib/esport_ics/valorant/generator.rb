@@ -1,12 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "fetcher"
-require_relative "mapper"
-
 module EsportIcs
   module Valorant
     class Generator
-      TEAM_ICS_PATH = "ics/valorant/:team_slug.ics"
+      GAME_SLUG = "valorant"
+      TEAM_ICS_PATH = "ics/#{GAME_SLUG}/:team_slug.ics"
 
       attr_reader :calendars
 
@@ -15,7 +13,7 @@ module EsportIcs
       end
 
       def generate
-        Fetcher.fetch_matches!.each { |match| process_match(match) }
+        Api.new(game_slug: GAME_SLUG).fetch_matches!.matches.each { |match| process_match(match) }
         self
       end
 
@@ -29,10 +27,10 @@ module EsportIcs
       private
 
       def process_match(match)
-        event = Mapper.to_event(match)
+        event = match.to_event
 
         match.teams.each do |team|
-          team_calendar = calendars[team.slug] ||= Mapper.to_ical(team)
+          team_calendar = calendars[team.slug] ||= team.to_ical
           team_calendar.add_event(event)
         end
       end

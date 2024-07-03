@@ -43,13 +43,14 @@ module EsportIcs
       def stub_matches_league
         stub_request(
           :get,
-          "#{Fetcher::MATCHES_PATH}?page[size]=100&page[number]=1",
+          "#{Api.new(game_slug: Generator::GAME_SLUG).matches_url}?page[size]=100&page[number]=1",
         ).to_return_json(body: JSON.parse(MOCK_MATCHES).to_json)
 
         stub_request(
           :get,
-          "#{Fetcher::MATCHES_PATH}?page[size]=100&page[number]=2",
+          "#{Api.new(game_slug: Generator::GAME_SLUG).matches_url}?page[size]=100&page[number]=2",
         ).to_return_json(body: [].to_json)
+
         yield
       end
     end
