@@ -3,13 +3,13 @@
 require "test_helper"
 
 module EsportIcs
-  module Valorant
-    class GeneratorTest < Minitest::Test
-      EXPECTED_ICS = Dir.glob(File.join(EXPECTATIONS_PATH, "valorant", "*.ics")).map { |f| File.read(f) }
+  module Games
+    class LeagueOfLegendsTest < Minitest::Test
+      EXPECTED_ICS = Dir.glob(File.join(EXPECTATIONS_PATH, "league_of_legends", "*.ics")).map { |f| File.read(f) }
 
       def test_create_ics
-        stub_matches_league(Generator::GAME_SLUG) do
-          calendars = Generator.new.generate.calendars.values.map(&:to_ical)
+        stub_matches_league(LeagueOfLegends::API_SLUG, LeagueOfLegends::PATH_SLUG) do
+          calendars = LeagueOfLegends.new.generate.calendars.values.map(&:to_ical)
 
           assert_equal(calendars.size, EXPECTED_ICS.size)
 

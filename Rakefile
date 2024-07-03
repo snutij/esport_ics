@@ -19,12 +19,12 @@ namespace :esport_ics do
 
     desc "Generate League of Legends ics files"
     task :league_of_legends do
-      EsportIcs::LeagueOfLegends::Generator.new.generate.write!
+      EsportIcs::Games::LeagueOfLegends.new.generate.write!
     end
 
     desc "Generate Valorant ics files"
     task :valorant do
-      EsportIcs::Valorant::Generator.new.generate.write!
+      EsportIcs::Games::Valorant.new.generate.write!
     end
 
     desc "Run all generators"

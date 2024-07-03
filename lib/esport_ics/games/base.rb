@@ -1,10 +1,11 @@
 # frozen_string_literal: true
 
+require_relative "../api"
+
 module EsportIcs
-  module Valorant
-    class Generator
-      GAME_SLUG = "valorant"
-      TEAM_ICS_PATH = "ics/#{GAME_SLUG}/:team_slug.ics"
+  module Games
+    class Base
+      ICS_PATH = "ics/:game_slug/:team_slug.ics"
 
       attr_reader :calendars
 
@@ -13,15 +14,23 @@ module EsportIcs
       end
 
       def generate
-        Api.new(game_slug: GAME_SLUG).fetch_matches!.matches.each { |match| process_match(match) }
+        Api.new(game_slug: api_slug).fetch_matches!.matches.each { |match| process_match(match) }
         self
       end
 
       def write!
         @calendars.each do |team_slug, calendar|
-          file_path = TEAM_ICS_PATH.sub(":team_slug", team_slug)
+          file_path = ICS_PATH.sub(":game_slug", path_slug).sub(":team_slug", team_slug)
           write_calendar_to_file(file_path, calendar)
         end
+      end
+
+      def api_slug
+        raise NotImplementedError, "#{self.class} class must define 'api_slug'"
+      end
+
+      def path_slug
+        raise NotImplementedError, "#{self.class} class must define 'path_slug'"
       end
 
       private
