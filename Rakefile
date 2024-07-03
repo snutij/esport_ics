@@ -14,13 +14,21 @@ require "rubocop/rake_task"
 RuboCop::RakeTask.new
 
 namespace :esport_ics do
-  namespace :league_of_legends do
-    desc "Generate League of Legends ics files"
-    task :generate do
-      require "esport_ics"
+  namespace :generate do
+    require "esport_ics"
 
+    desc "Generate League of Legends ics files"
+    task :league_of_legends do
       EsportIcs::LeagueOfLegends::Generator.new.generate.write!
     end
+
+    desc "Generate Valorant ics files"
+    task :valorant do
+      EsportIcs::Valorant::Generator.new.generate.write!
+    end
+
+    desc "Run all generators"
+    task all: ["generate:league_of_legends", "generate:valorant"]
   end
 end
 
