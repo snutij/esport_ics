@@ -2,13 +2,22 @@
 
 This repository automates the generation and update of ICS files for esport events. Calendars are refreshed daily and can be subscribed to in Google Calendar, Apple Calendar and Outlook.
 
+## Supported Games
+
+- [League of Legends](ics/league_of_legends/)
+- [Valorant](ics/valorant)
+- [Counter-Strike: Global Offensive](ics/counter_strike)
+- [Rainbow Six Siege](ics/rainbow_six_siege)
+
+While my personal interest is primarily on League of Legends, I'm open to expanding the list of supported games based on community interest. If there's a particular game you'd like to see supported, please let me know by opening an issue or submitting a pull request.
+
 ## Subscribing to the ICS Calendar
 
 To subscribe to an ICS calendar, follow these steps:
 
 1. **Get the URL of the ICS file:**
 
-   Find in the `ics/league_of_legengs` folder the ICS file that you want to subscribe to, then click on the `raw` button, and pick the URL, e.g.:
+   Find in the `ics/league_of_legengs` folder the ICS file for the team that you want to subscribe to, then click on the `raw` button, and pick the URL, e.g.:
 
    ```
    https://raw.githubusercontent.com/snutij/esport_ics/main/ics/league_of_legends/karmine-corp.ics
