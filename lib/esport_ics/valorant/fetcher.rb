@@ -3,9 +3,9 @@
 require_relative "mapper"
 
 module EsportIcs
-  module LeagueOfLegends
+  module Valorant
     module Fetcher
-      BASE_URL = "https://api.pandascore.co/lol"
+      BASE_URL = "https://api.pandascore.co/valorant"
       MATCHES_PATH = "#{BASE_URL}/matches/upcoming"
       MAX_PAGE_SIZE = 100
       MAX_PAGINATION = 20
