@@ -42,6 +42,11 @@ namespace :esport_ics do
       EsportIcs::Games::Dota2.new.generate.write!
     end
 
+    desc "Generate League of Legends Wild Rift ics files"
+    task :league_of_legends_wildrift do
+      EsportIcs::Games::LeagueOfLegendsWildRift.new.generate.write!
+    end
+
     desc "Run all generators"
     task all: [
       "generate:league_of_legends",
@@ -49,6 +54,7 @@ namespace :esport_ics do
       "generate:counter_strike",
       "generate:rainbow_six_siege",
       "generate:dota_2",
+      "generate:league_of_legends_wildrift",
     ]
   end
 end

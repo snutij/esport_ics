@@ -1,0 +1,1388 @@
+[
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-02T07:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-21T13:00:00Z",
+      "has_bracket": true,
+      "id": 14005,
+      "league_id": 5254,
+      "live_supported": false,
+      "modified_at": "2024-07-01T16:30:03Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7610,
+      "slug": "lol-wild-rift-wild-rift-super-league-summer-2024-playoffs",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-21T07:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": true,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "Nova CN",
+          "id": 130017,
+          "image_url": "https://cdn.pandascore.co/images/team/image/130017/190px_nova_esports_lightmode.png",
+          "location": "CN",
+          "modified_at": "2024-07-01T16:10:49Z",
+          "name": "Nova Esports",
+          "slug": "nova-esports"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "KBG",
+          "id": 130647,
+          "image_url": "https://cdn.pandascore.co/images/team/image/130647/keep_best_gaming_full_allmode.png",
+          "location": "CN",
+          "modified_at": "2024-07-01T16:10:47Z",
+          "name": "KeepBest Gaming",
+          "slug": "keepbest-gaming"
+        },
+        "type": "Team"
+      }
+    ],
+    "slug": "nova-esports-2024-07-04",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 998584,
+    "winner_type": "Team",
+    "name": "Upper bracket semifinal 1: Nova CN vs KBG",
+    "game_advantage": null,
+    "modified_at": "2024-07-03T14:02:55Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4888,
+        "length": null,
+        "match_id": 998584,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4889,
+        "length": null,
+        "match_id": 998584,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4890,
+        "length": null,
+        "match_id": 998584,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4926,
+        "length": null,
+        "match_id": 998584,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4927,
+        "length": null,
+        "match_id": 998584,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4928,
+        "length": null,
+        "match_id": 998584,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4929,
+        "length": null,
+        "match_id": 998584,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5254,
+      "image_url": null,
+      "modified_at": "2024-05-30T10:00:56Z",
+      "name": "Wild Rift Super League",
+      "slug": "lol-wild-rift-wild-rift-super-league",
+      "url": null
+    },
+    "serie_id": 7610,
+    "winner": null,
+    "scheduled_at": "2024-07-04T07:00:00Z",
+    "videogame_title": null,
+    "serie": {
+      "begin_at": "2024-05-24T09:00:00Z",
+      "end_at": "2024-07-21T20:00:00Z",
+      "full_name": "Summer 2024",
+      "id": 7610,
+      "league_id": 5254,
+      "modified_at": "2024-05-30T10:00:54Z",
+      "name": "",
+      "season": "Summer",
+      "slug": "lol-wild-rift-wild-rift-super-league-summer-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://liveshare.huya.com/iframe/667812",
+        "language": "zh",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.huya.com/667812"
+      }
+    ],
+    "videogame_version": null,
+    "videogame": {
+      "id": 28,
+      "name": "LoL Wild Rift",
+      "slug": "lol-wild-rift"
+    },
+    "detailed_stats": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 130017
+      },
+      {
+        "score": 0,
+        "team_id": 130647
+      }
+    ],
+    "tournament_id": 14005,
+    "begin_at": "2024-07-04T07:00:00Z",
+    "league_id": 5254,
+    "forfeit": false,
+    "number_of_games": 7,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-02T07:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-21T13:00:00Z",
+      "has_bracket": true,
+      "id": 14005,
+      "league_id": 5254,
+      "live_supported": false,
+      "modified_at": "2024-07-01T16:30:03Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7610,
+      "slug": "lol-wild-rift-wild-rift-super-league-summer-2024-playoffs",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-21T10:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": true,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "JT",
+          "id": 130024,
+          "image_url": "https://cdn.pandascore.co/images/team/image/130024/j_teamlogo_square.png",
+          "location": "TW",
+          "modified_at": "2024-07-01T16:10:50Z",
+          "name": "J Team",
+          "slug": "j-team-lol-wild-rift"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "TTG",
+          "id": 129845,
+          "image_url": "https://cdn.pandascore.co/images/team/image/129845/600px_tt_gaming_logo.png",
+          "location": "CN",
+          "modified_at": "2024-07-01T16:10:48Z",
+          "name": "ThunderTalk Gaming",
+          "slug": "thundertalk-gaming"
+        },
+        "type": "Team"
+      }
+    ],
+    "slug": "j-team-2024-07-05",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 998585,
+    "winner_type": "Team",
+    "name": "Upper bracket semifinal 2: JT vs TTG",
+    "game_advantage": null,
+    "modified_at": "2024-07-03T12:30:30Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4891,
+        "length": null,
+        "match_id": 998585,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4892,
+        "length": null,
+        "match_id": 998585,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4893,
+        "length": null,
+        "match_id": 998585,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4922,
+        "length": null,
+        "match_id": 998585,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4923,
+        "length": null,
+        "match_id": 998585,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4924,
+        "length": null,
+        "match_id": 998585,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4925,
+        "length": null,
+        "match_id": 998585,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5254,
+      "image_url": null,
+      "modified_at": "2024-05-30T10:00:56Z",
+      "name": "Wild Rift Super League",
+      "slug": "lol-wild-rift-wild-rift-super-league",
+      "url": null
+    },
+    "serie_id": 7610,
+    "winner": null,
+    "scheduled_at": "2024-07-05T07:00:00Z",
+    "videogame_title": null,
+    "serie": {
+      "begin_at": "2024-05-24T09:00:00Z",
+      "end_at": "2024-07-21T20:00:00Z",
+      "full_name": "Summer 2024",
+      "id": 7610,
+      "league_id": 5254,
+      "modified_at": "2024-05-30T10:00:54Z",
+      "name": "",
+      "season": "Summer",
+      "slug": "lol-wild-rift-wild-rift-super-league-summer-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://liveshare.huya.com/iframe/667812",
+        "language": "zh",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.huya.com/667812"
+      }
+    ],
+    "videogame_version": null,
+    "videogame": {
+      "id": 28,
+      "name": "LoL Wild Rift",
+      "slug": "lol-wild-rift"
+    },
+    "detailed_stats": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 130024
+      },
+      {
+        "score": 0,
+        "team_id": 129845
+      }
+    ],
+    "tournament_id": 14005,
+    "begin_at": "2024-07-05T07:00:00Z",
+    "league_id": 5254,
+    "forfeit": false,
+    "number_of_games": 7,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-02T07:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-21T13:00:00Z",
+      "has_bracket": true,
+      "id": 14005,
+      "league_id": 5254,
+      "live_supported": false,
+      "modified_at": "2024-07-01T16:30:03Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7610,
+      "slug": "lol-wild-rift-wild-rift-super-league-summer-2024-playoffs",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-10T07:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": false,
+    "opponents": [],
+    "slug": "2024-07-10-3b3e108c-c264-4d87-8c20-a3a6fe5fa547",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 998590,
+    "winner_type": "Team",
+    "name": "Upper bracket final: TBD vs TBD",
+    "game_advantage": null,
+    "modified_at": "2024-07-01T16:34:36Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4894,
+        "length": null,
+        "match_id": 998590,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4895,
+        "length": null,
+        "match_id": 998590,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4896,
+        "length": null,
+        "match_id": 998590,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4918,
+        "length": null,
+        "match_id": 998590,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4919,
+        "length": null,
+        "match_id": 998590,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4920,
+        "length": null,
+        "match_id": 998590,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4921,
+        "length": null,
+        "match_id": 998590,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5254,
+      "image_url": null,
+      "modified_at": "2024-05-30T10:00:56Z",
+      "name": "Wild Rift Super League",
+      "slug": "lol-wild-rift-wild-rift-super-league",
+      "url": null
+    },
+    "serie_id": 7610,
+    "winner": null,
+    "scheduled_at": "2024-07-10T07:00:00Z",
+    "videogame_title": null,
+    "serie": {
+      "begin_at": "2024-05-24T09:00:00Z",
+      "end_at": "2024-07-21T20:00:00Z",
+      "full_name": "Summer 2024",
+      "id": 7610,
+      "league_id": 5254,
+      "modified_at": "2024-05-30T10:00:54Z",
+      "name": "",
+      "season": "Summer",
+      "slug": "lol-wild-rift-wild-rift-super-league-summer-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://liveshare.huya.com/iframe/667812",
+        "language": "zh",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.huya.com/667812"
+      }
+    ],
+    "videogame_version": null,
+    "videogame": {
+      "id": 28,
+      "name": "LoL Wild Rift",
+      "slug": "lol-wild-rift"
+    },
+    "detailed_stats": false,
+    "results": [],
+    "tournament_id": 14005,
+    "begin_at": "2024-07-10T07:00:00Z",
+    "league_id": 5254,
+    "forfeit": false,
+    "number_of_games": 7,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-02T07:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-21T13:00:00Z",
+      "has_bracket": true,
+      "id": 14005,
+      "league_id": 5254,
+      "live_supported": false,
+      "modified_at": "2024-07-01T16:30:03Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7610,
+      "slug": "lol-wild-rift-wild-rift-super-league-summer-2024-playoffs",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-11T07:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": true,
+    "opponents": [],
+    "slug": "no-date-3803daeb-9e2b-4a88-a1ea-8ab26fbeaae7",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 998593,
+    "winner_type": "Team",
+    "name": "Lower bracket semifinal: TBD vs TBD",
+    "game_advantage": null,
+    "modified_at": "2024-07-01T16:34:27Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4904,
+        "length": null,
+        "match_id": 998593,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4905,
+        "length": null,
+        "match_id": 998593,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4906,
+        "length": null,
+        "match_id": 998593,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4914,
+        "length": null,
+        "match_id": 998593,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4915,
+        "length": null,
+        "match_id": 998593,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4916,
+        "length": null,
+        "match_id": 998593,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4917,
+        "length": null,
+        "match_id": 998593,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5254,
+      "image_url": null,
+      "modified_at": "2024-05-30T10:00:56Z",
+      "name": "Wild Rift Super League",
+      "slug": "lol-wild-rift-wild-rift-super-league",
+      "url": null
+    },
+    "serie_id": 7610,
+    "winner": null,
+    "scheduled_at": "2024-07-11T07:00:00Z",
+    "videogame_title": null,
+    "serie": {
+      "begin_at": "2024-05-24T09:00:00Z",
+      "end_at": "2024-07-21T20:00:00Z",
+      "full_name": "Summer 2024",
+      "id": 7610,
+      "league_id": 5254,
+      "modified_at": "2024-05-30T10:00:54Z",
+      "name": "",
+      "season": "Summer",
+      "slug": "lol-wild-rift-wild-rift-super-league-summer-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://liveshare.huya.com/iframe/667812",
+        "language": "zh",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.huya.com/667812"
+      }
+    ],
+    "videogame_version": null,
+    "videogame": {
+      "id": 28,
+      "name": "LoL Wild Rift",
+      "slug": "lol-wild-rift"
+    },
+    "detailed_stats": false,
+    "results": [],
+    "tournament_id": 14005,
+    "begin_at": "2024-07-11T07:00:00Z",
+    "league_id": 5254,
+    "forfeit": false,
+    "number_of_games": 7,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-02T07:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-21T13:00:00Z",
+      "has_bracket": true,
+      "id": 14005,
+      "league_id": 5254,
+      "live_supported": false,
+      "modified_at": "2024-07-01T16:30:03Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7610,
+      "slug": "lol-wild-rift-wild-rift-super-league-summer-2024-playoffs",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-13T07:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": false,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "FG",
+          "id": 135037,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135037/188px_fish_gaming_allmode.png",
+          "location": "CN",
+          "modified_at": "2024-07-01T16:10:50Z",
+          "name": "Fish Gaming",
+          "slug": "fish-gaming"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "WEI",
+          "id": 129767,
+          "image_url": "https://cdn.pandascore.co/images/team/image/129767/190px_team_weibo.png",
+          "location": "CN",
+          "modified_at": "2024-07-01T16:10:51Z",
+          "name": "Team Weibo",
+          "slug": "team-weibo-lol-wild-rift"
+        },
+        "type": "Team"
+      }
+    ],
+    "slug": "fish-gaming-2024-07-13",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 998595,
+    "winner_type": "Team",
+    "name": "Lower bracket final: FG vs WEI",
+    "game_advantage": null,
+    "modified_at": "2024-07-03T12:30:31Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4907,
+        "length": null,
+        "match_id": 998595,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4908,
+        "length": null,
+        "match_id": 998595,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4909,
+        "length": null,
+        "match_id": 998595,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4910,
+        "length": null,
+        "match_id": 998595,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4911,
+        "length": null,
+        "match_id": 998595,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4912,
+        "length": null,
+        "match_id": 998595,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4913,
+        "length": null,
+        "match_id": 998595,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5254,
+      "image_url": null,
+      "modified_at": "2024-05-30T10:00:56Z",
+      "name": "Wild Rift Super League",
+      "slug": "lol-wild-rift-wild-rift-super-league",
+      "url": null
+    },
+    "serie_id": 7610,
+    "winner": null,
+    "scheduled_at": "2024-07-13T07:00:00Z",
+    "videogame_title": null,
+    "serie": {
+      "begin_at": "2024-05-24T09:00:00Z",
+      "end_at": "2024-07-21T20:00:00Z",
+      "full_name": "Summer 2024",
+      "id": 7610,
+      "league_id": 5254,
+      "modified_at": "2024-05-30T10:00:54Z",
+      "name": "",
+      "season": "Summer",
+      "slug": "lol-wild-rift-wild-rift-super-league-summer-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://liveshare.huya.com/iframe/667812",
+        "language": "zh",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.huya.com/667812"
+      }
+    ],
+    "videogame_version": null,
+    "videogame": {
+      "id": 28,
+      "name": "LoL Wild Rift",
+      "slug": "lol-wild-rift"
+    },
+    "detailed_stats": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 135037
+      },
+      {
+        "score": 0,
+        "team_id": 129767
+      }
+    ],
+    "tournament_id": 14005,
+    "begin_at": "2024-07-13T07:00:00Z",
+    "league_id": 5254,
+    "forfeit": false,
+    "number_of_games": 7,
+    "end_at": null
+  },
+  {
+    "winner_id": null,
+    "tournament": {
+      "begin_at": "2024-07-02T07:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-21T13:00:00Z",
+      "has_bracket": true,
+      "id": 14005,
+      "league_id": 5254,
+      "live_supported": false,
+      "modified_at": "2024-07-01T16:30:03Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 7610,
+      "slug": "lol-wild-rift-wild-rift-super-league-summer-2024-playoffs",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "original_scheduled_at": "2024-07-14T07:00:00Z",
+    "status": "not_started",
+    "match_type": "best_of",
+    "rescheduled": false,
+    "opponents": [],
+    "slug": "2024-07-14-f516e5fe-1002-46e4-a4a4-24abcd87b7da",
+    "draw": false,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "id": 998591,
+    "winner_type": "Team",
+    "name": "Grand final: TBD vs TBD",
+    "game_advantage": null,
+    "modified_at": "2024-07-01T16:30:03Z",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4897,
+        "length": null,
+        "match_id": 998591,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4898,
+        "length": null,
+        "match_id": 998591,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4899,
+        "length": null,
+        "match_id": 998591,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4900,
+        "length": null,
+        "match_id": 998591,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4901,
+        "length": null,
+        "match_id": 998591,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4902,
+        "length": null,
+        "match_id": 998591,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 4903,
+        "length": null,
+        "match_id": 998591,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5254,
+      "image_url": null,
+      "modified_at": "2024-05-30T10:00:56Z",
+      "name": "Wild Rift Super League",
+      "slug": "lol-wild-rift-wild-rift-super-league",
+      "url": null
+    },
+    "serie_id": 7610,
+    "winner": null,
+    "scheduled_at": "2024-07-14T07:00:00Z",
+    "videogame_title": null,
+    "serie": {
+      "begin_at": "2024-05-24T09:00:00Z",
+      "end_at": "2024-07-21T20:00:00Z",
+      "full_name": "Summer 2024",
+      "id": 7610,
+      "league_id": 5254,
+      "modified_at": "2024-05-30T10:00:54Z",
+      "name": "",
+      "season": "Summer",
+      "slug": "lol-wild-rift-wild-rift-super-league-summer-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://liveshare.huya.com/iframe/667812",
+        "language": "zh",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.huya.com/667812"
+      }
+    ],
+    "videogame_version": null,
+    "videogame": {
+      "id": 28,
+      "name": "LoL Wild Rift",
+      "slug": "lol-wild-rift"
+    },
+    "detailed_stats": false,
+    "results": [],
+    "tournament_id": 14005,
+    "begin_at": "2024-07-14T07:00:00Z",
+    "league_id": 5254,
+    "forfeit": false,
+    "number_of_games": 7,
+    "end_at": null
+  }
+]
