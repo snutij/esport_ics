@@ -1,36 +1,36 @@
 # frozen_string_literal: true
 
-require_relative "../api"
+require_relative "support/api"
 
 module EsportIcs
   module Games
     class Base
-      ICS_PATH = "ics/:game_slug/:team_slug.ics"
+      ICS_PATH = "ics/:folder/:team.ics"
 
-      attr_reader :calendars
+      attr_reader :calendars, :api_code, :folder
 
-      def initialize
+      def initialize(api_code:, ics_folder:)
+        @api_code = api_code
+        @folder = ics_folder
         @calendars = {}
       end
 
-      def generate
-        Api.new(game_slug: api_slug).fetch_matches!.matches.each { |match| process_match(match) }
+      def build!
+        Api.new(game_code: @api_code)
+          .fetch_matches!
+          .matches
+          .each { |match| process_match(match) }
+
         self
       end
 
       def write!
         @calendars.each do |team_slug, calendar|
-          file_path = ICS_PATH.sub(":game_slug", path_slug).sub(":team_slug", team_slug)
+          file_path = ICS_PATH.sub(":folder", @folder).sub(":team", team_slug)
           write_calendar_to_file(file_path, calendar)
         end
-      end
 
-      def api_slug
-        raise NotImplementedError, "#{self.class} class must define 'api_slug'"
-      end
-
-      def path_slug
-        raise NotImplementedError, "#{self.class} class must define 'path_slug'"
+        self
       end
 
       private
@@ -39,7 +39,7 @@ module EsportIcs
         event = match.to_event
 
         match.teams.each do |team|
-          team_calendar = calendars[team.slug] ||= team.to_ical
+          team_calendar = @calendars[team.slug] ||= team.to_ical
           team_calendar.add_event(event)
         end
       end

@@ -8,11 +8,12 @@ module EsportIcs
     MAX_PAGE_SIZE = 100
     MAX_PAGINATION = 20
 
-    attr_reader :matches, :matches_url
+    attr_reader :matches, :game_code, :matches_url
 
-    def initialize(game_slug:)
+    def initialize(game_code:)
       @matches = []
-      @matches_url = "#{BASE_URL}/#{game_slug}/matches/upcoming"
+      @game_code = game_code
+      @matches_url = "#{BASE_URL}/#{game_code}/matches/upcoming"
     end
 
     def fetch_matches!

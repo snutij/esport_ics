@@ -5,15 +5,19 @@ require "test_helper"
 module EsportIcs
   module Games
     class Dota2Test < Minitest::Test
-      EXPECTED_ICS = Dir.glob(File.join(EXPECTATIONS_PATH, "dota_2", "*.ics")).map { |f| File.read(f) }
+      def setup
+        @game = Dota2.new
+      end
 
       def test_create_ics
-        stub_matches_league(Dota2::API_SLUG, Dota2::PATH_SLUG) do
-          calendars = Dota2.new.generate.calendars.values.map(&:to_ical)
+        expected_ics = Dir.glob(File.join(EXPECTATIONS_PATH, @game.folder, "*.ics")).map { |f| File.read(f) }
 
-          assert_equal(calendars.size, EXPECTED_ICS.size)
+        stub_matches_league(@game.api_code, @game.folder) do
+          calendars = @game.build!.calendars.values.map(&:to_ical)
 
-          calendars.concat(EXPECTED_ICS).map { |c| Icalendar::Calendar.parse(c).first }
+          assert_equal(calendars.size, expected_ics.size)
+
+          calendars.concat(expected_ics).map { |c| Icalendar::Calendar.parse(c).first }
             .group_by { |c| c.custom_property("slug").first }
             .each { |_slug, (cal, exp)| assert_same_calendar(cal, exp) }
         end

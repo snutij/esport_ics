@@ -5,15 +5,19 @@ require "test_helper"
 module EsportIcs
   module Games
     class CounterStrikeTest < Minitest::Test
-      EXPECTED_ICS = Dir.glob(File.join(EXPECTATIONS_PATH, "counter_strike", "*.ics")).map { |f| File.read(f) }
+      def setup
+        @game = CounterStrike.new
+      end
 
       def test_create_ics
-        stub_matches_league(CounterStrike::API_SLUG, CounterStrike::PATH_SLUG) do
-          calendars = CounterStrike.new.generate.calendars.values.map(&:to_ical)
+        expected_ics = Dir.glob(File.join(EXPECTATIONS_PATH, @game.folder, "*.ics")).map { |f| File.read(f) }
 
-          assert_equal(calendars.size, EXPECTED_ICS.size)
+        stub_matches_league(@game.api_code, @game.folder) do
+          calendars = @game.build!.calendars.values.map(&:to_ical)
 
-          calendars.concat(EXPECTED_ICS).map { |c| Icalendar::Calendar.parse(c).first }
+          assert_equal(calendars.size, expected_ics.size)
+
+          calendars.concat(expected_ics).map { |c| Icalendar::Calendar.parse(c).first }
             .group_by { |c| c.custom_property("slug").first }
             .each { |_slug, (cal, exp)| assert_same_calendar(cal, exp) }
         end

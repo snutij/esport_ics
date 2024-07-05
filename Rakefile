@@ -19,32 +19,32 @@ namespace :esport_ics do
 
     desc "Generate League of Legends ics files"
     task :league_of_legends do
-      EsportIcs::Games::LeagueOfLegends.new.generate.write!
+      EsportIcs::Games::LeagueOfLegends.new.build!.write!
     end
 
     desc "Generate Valorant ics files"
     task :valorant do
-      EsportIcs::Games::Valorant.new.generate.write!
+      EsportIcs::Games::Valorant.new.build!.write!
     end
 
     desc "Generate CSGO ics files"
     task :counter_strike do
-      EsportIcs::Games::CounterStrike.new.generate.write!
+      EsportIcs::Games::CounterStrike.new.build!.write!
     end
 
     desc "Generate R6Siege ics files"
     task :rainbow_six_siege do
-      EsportIcs::Games::RainbowSixSiege.new.generate.write!
+      EsportIcs::Games::RainbowSixSiege.new.build!.write!
     end
 
     desc "Generate Dota 2 ics files"
     task :dota_2 do
-      EsportIcs::Games::Dota2.new.generate.write!
+      EsportIcs::Games::Dota2.new.build!.write!
     end
 
     desc "Generate League of Legends Wild Rift ics files"
     task :league_of_legends_wildrift do
-      EsportIcs::Games::LeagueOfLegendsWildRift.new.generate.write!
+      EsportIcs::Games::LeagueOfLegendsWildRift.new.build!.write!
     end
 
     desc "Run all generators"

@@ -29,17 +29,17 @@ def assert_same_calendar(calendar, expected_ics)
   end
 end
 
-def stub_matches_league(api_slug, path_slug)
-  mock_matches = File.read(File.join(FIXTURES_PATH, path_slug, "matches.json"))
+def stub_matches_league(api_code, folder)
+  mock_matches = File.read(File.join(FIXTURES_PATH, folder, "matches.json"))
 
   stub_request(
     :get,
-    "#{EsportIcs::Api.new(game_slug: api_slug).matches_url}?page[size]=100&page[number]=1",
+    "#{EsportIcs::Api.new(game_code: api_code).matches_url}?page[size]=100&page[number]=1",
   ).to_return_json(body: JSON.parse(mock_matches).to_json)
 
   stub_request(
     :get,
-    "#{EsportIcs::Api.new(game_slug: api_slug).matches_url}?page[size]=100&page[number]=2",
+    "#{EsportIcs::Api.new(game_code: api_code).matches_url}?page[size]=100&page[number]=2",
   ).to_return_json(body: [].to_json)
 
   yield
