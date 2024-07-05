@@ -1,0 +1,1968 @@
+[
+	{
+		"winner_id": null,
+		"tournament": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"detailed_stats": true,
+			"end_at": "2024-07-21T21:00:00Z",
+			"has_bracket": true,
+			"id": 14003,
+			"league_id": 4304,
+			"live_supported": false,
+			"modified_at": "2024-07-01T14:12:02Z",
+			"name": "Playoffs",
+			"prizepool": null,
+			"serie_id": 7722,
+			"slug": "cod-mw-call-of-duty-league-championship-2024-playoffs",
+			"tier": "s",
+			"winner_id": null,
+			"winner_type": "Team"
+		},
+		"original_scheduled_at": "2024-07-18T19:00:00Z",
+		"status": "not_started",
+		"match_type": "best_of",
+		"rescheduled": false,
+		"opponents": [
+			{
+				"opponent": {
+					"acronym": "NY Subliners",
+					"id": 126840,
+					"image_url": "https://cdn.pandascore.co/images/team/image/126840/150px_new_york_sublinerslogo_square.png",
+					"location": "US",
+					"modified_at": "2024-07-01T13:54:57Z",
+					"name": "New York Subliners",
+					"slug": "new-york-subliners"
+				},
+				"type": "Team"
+			},
+			{
+				"opponent": {
+					"acronym": "SEA Surge",
+					"id": 126843,
+					"image_url": "https://cdn.pandascore.co/images/team/image/126843/150px_seattle_surgelogo_square.png",
+					"location": "US",
+					"modified_at": "2024-07-01T13:54:57Z",
+					"name": "Seattle Surge",
+					"slug": "seattle-surge"
+				},
+				"type": "Team"
+			}
+		],
+		"slug": "new-york-subliners-vs-seattle-surge-2024-07-18",
+		"draw": false,
+		"live": {
+			"opens_at": null,
+			"supported": false,
+			"url": null
+		},
+		"id": 998494,
+		"winner_type": "Team",
+		"name": "Upper bracket quarterfinal 2: NY Subliners vs SEA Surge",
+		"game_advantage": null,
+		"modified_at": "2024-07-01T14:10:49Z",
+		"games": [
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6302,
+				"length": null,
+				"match_id": 998494,
+				"position": 1,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6303,
+				"length": null,
+				"match_id": 998494,
+				"position": 2,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6304,
+				"length": null,
+				"match_id": 998494,
+				"position": 3,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6305,
+				"length": null,
+				"match_id": 998494,
+				"position": 4,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6306,
+				"length": null,
+				"match_id": 998494,
+				"position": 5,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			}
+		],
+		"league": {
+			"id": 4304,
+			"image_url": "https://cdn.pandascore.co/images/league/image/4304/cdl_2024_lightmode-png",
+			"modified_at": "2024-04-17T20:37:01Z",
+			"name": "Call of Duty League",
+			"slug": "cod-mw-call-of-duty-league",
+			"url": "https://callofdutyleague.com/en-us/"
+		},
+		"serie_id": 7722,
+		"winner": null,
+		"scheduled_at": "2024-07-18T19:00:00Z",
+		"videogame_title": {
+			"id": 14,
+			"name": "Call of Duty: Modern Warfare III",
+			"slug": "cod-mw-iii",
+			"videogame_id": 23
+		},
+		"serie": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"end_at": "2024-07-21T21:00:00Z",
+			"full_name": "Championship 2024",
+			"id": 7722,
+			"league_id": 4304,
+			"modified_at": "2024-07-01T14:10:49Z",
+			"name": "Championship",
+			"season": null,
+			"slug": "cod-mw-call-of-duty-league-championship-2024",
+			"winner_id": null,
+			"winner_type": "Team",
+			"year": 2024
+		},
+		"streams_list": [
+			{
+				"embed_url": null,
+				"language": "en",
+				"main": true,
+				"official": true,
+				"raw_url": "https://www.youtube.com/codleague/live"
+			}
+		],
+		"videogame_version": null,
+		"videogame": {
+			"id": 23,
+			"name": "Call of Duty",
+			"slug": "cod-mw"
+		},
+		"detailed_stats": true,
+		"results": [
+			{
+				"score": 0,
+				"team_id": 126840
+			},
+			{
+				"score": 0,
+				"team_id": 126843
+			}
+		],
+		"tournament_id": 14003,
+		"begin_at": "2024-07-18T19:00:00Z",
+		"league_id": 4304,
+		"forfeit": false,
+		"number_of_games": 5,
+		"end_at": null
+	},
+	{
+		"winner_id": null,
+		"tournament": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"detailed_stats": true,
+			"end_at": "2024-07-21T21:00:00Z",
+			"has_bracket": true,
+			"id": 14003,
+			"league_id": 4304,
+			"live_supported": false,
+			"modified_at": "2024-07-01T14:12:02Z",
+			"name": "Playoffs",
+			"prizepool": null,
+			"serie_id": 7722,
+			"slug": "cod-mw-call-of-duty-league-championship-2024-playoffs",
+			"tier": "s",
+			"winner_id": null,
+			"winner_type": "Team"
+		},
+		"original_scheduled_at": "2024-07-18T20:30:00Z",
+		"status": "not_started",
+		"match_type": "best_of",
+		"rescheduled": false,
+		"opponents": [
+			{
+				"opponent": {
+					"acronym": "ATL FaZe",
+					"id": 126833,
+					"image_url": "https://cdn.pandascore.co/images/team/image/126833/150px_atlanta_fa_zelogo_square.png",
+					"location": "US",
+					"modified_at": "2024-07-01T13:54:55Z",
+					"name": "Atlanta FaZe",
+					"slug": "atlanta-faze"
+				},
+				"type": "Team"
+			},
+			{
+				"opponent": {
+					"acronym": "MH",
+					"id": 133927,
+					"image_url": "https://cdn.pandascore.co/images/team/image/133927/800px_miami_heretics_logo.svg.png",
+					"location": "US",
+					"modified_at": "2024-07-01T13:54:58Z",
+					"name": "Miami Heretics",
+					"slug": "miami-heretics"
+				},
+				"type": "Team"
+			}
+		],
+		"slug": "atlanta-faze-vs-miami-heretics-2024-07-18",
+		"draw": false,
+		"live": {
+			"opens_at": null,
+			"supported": false,
+			"url": null
+		},
+		"id": 998493,
+		"winner_type": "Team",
+		"name": "Upper bracket quarterfinal 1: ATL FaZe vs MH",
+		"game_advantage": null,
+		"modified_at": "2024-07-01T14:10:49Z",
+		"games": [
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6297,
+				"length": null,
+				"match_id": 998493,
+				"position": 1,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6298,
+				"length": null,
+				"match_id": 998493,
+				"position": 2,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6299,
+				"length": null,
+				"match_id": 998493,
+				"position": 3,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6300,
+				"length": null,
+				"match_id": 998493,
+				"position": 4,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6301,
+				"length": null,
+				"match_id": 998493,
+				"position": 5,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			}
+		],
+		"league": {
+			"id": 4304,
+			"image_url": "https://cdn.pandascore.co/images/league/image/4304/cdl_2024_lightmode-png",
+			"modified_at": "2024-04-17T20:37:01Z",
+			"name": "Call of Duty League",
+			"slug": "cod-mw-call-of-duty-league",
+			"url": "https://callofdutyleague.com/en-us/"
+		},
+		"serie_id": 7722,
+		"winner": null,
+		"scheduled_at": "2024-07-18T20:30:00Z",
+		"videogame_title": {
+			"id": 14,
+			"name": "Call of Duty: Modern Warfare III",
+			"slug": "cod-mw-iii",
+			"videogame_id": 23
+		},
+		"serie": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"end_at": "2024-07-21T21:00:00Z",
+			"full_name": "Championship 2024",
+			"id": 7722,
+			"league_id": 4304,
+			"modified_at": "2024-07-01T14:10:49Z",
+			"name": "Championship",
+			"season": null,
+			"slug": "cod-mw-call-of-duty-league-championship-2024",
+			"winner_id": null,
+			"winner_type": "Team",
+			"year": 2024
+		},
+		"streams_list": [
+			{
+				"embed_url": null,
+				"language": "en",
+				"main": true,
+				"official": true,
+				"raw_url": "https://www.youtube.com/codleague/live"
+			}
+		],
+		"videogame_version": null,
+		"videogame": {
+			"id": 23,
+			"name": "Call of Duty",
+			"slug": "cod-mw"
+		},
+		"detailed_stats": true,
+		"results": [
+			{
+				"score": 0,
+				"team_id": 126833
+			},
+			{
+				"score": 0,
+				"team_id": 133927
+			}
+		],
+		"tournament_id": 14003,
+		"begin_at": "2024-07-18T20:30:00Z",
+		"league_id": 4304,
+		"forfeit": false,
+		"number_of_games": 5,
+		"end_at": null
+	},
+	{
+		"winner_id": null,
+		"tournament": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"detailed_stats": true,
+			"end_at": "2024-07-21T21:00:00Z",
+			"has_bracket": true,
+			"id": 14003,
+			"league_id": 4304,
+			"live_supported": false,
+			"modified_at": "2024-07-01T14:12:02Z",
+			"name": "Playoffs",
+			"prizepool": null,
+			"serie_id": 7722,
+			"slug": "cod-mw-call-of-duty-league-championship-2024-playoffs",
+			"tier": "s",
+			"winner_id": null,
+			"winner_type": "Team"
+		},
+		"original_scheduled_at": "2024-07-18T22:00:00Z",
+		"status": "not_started",
+		"match_type": "best_of",
+		"rescheduled": false,
+		"opponents": [
+			{
+				"opponent": {
+					"acronym": "TOR Ultra",
+					"id": 126844,
+					"image_url": "https://cdn.pandascore.co/images/team/image/126844/150px_toronto_ultralogo_square.png",
+					"location": "CA",
+					"modified_at": "2024-07-01T13:54:56Z",
+					"name": "Toronto Ultra",
+					"slug": "toronto-ultra"
+				},
+				"type": "Team"
+			},
+			{
+				"opponent": {
+					"acronym": "LAT",
+					"id": 128027,
+					"image_url": "https://cdn.pandascore.co/images/team/image/128027/los_angeles_thieveslogo_profile.png",
+					"location": "US",
+					"modified_at": "2024-07-01T13:54:58Z",
+					"name": "Los Angeles Thieves",
+					"slug": "los-angeles-thieves"
+				},
+				"type": "Team"
+			}
+		],
+		"slug": "toronto-ultra-vs-los-angeles-thieves-2024-07-19",
+		"draw": false,
+		"live": {
+			"opens_at": null,
+			"supported": false,
+			"url": null
+		},
+		"id": 998495,
+		"winner_type": "Team",
+		"name": "Upper bracket quarterfinal 3: TOR Ultra vs LAT",
+		"game_advantage": null,
+		"modified_at": "2024-07-01T14:10:49Z",
+		"games": [
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6307,
+				"length": null,
+				"match_id": 998495,
+				"position": 1,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6308,
+				"length": null,
+				"match_id": 998495,
+				"position": 2,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6309,
+				"length": null,
+				"match_id": 998495,
+				"position": 3,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6310,
+				"length": null,
+				"match_id": 998495,
+				"position": 4,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6311,
+				"length": null,
+				"match_id": 998495,
+				"position": 5,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			}
+		],
+		"league": {
+			"id": 4304,
+			"image_url": "https://cdn.pandascore.co/images/league/image/4304/cdl_2024_lightmode-png",
+			"modified_at": "2024-04-17T20:37:01Z",
+			"name": "Call of Duty League",
+			"slug": "cod-mw-call-of-duty-league",
+			"url": "https://callofdutyleague.com/en-us/"
+		},
+		"serie_id": 7722,
+		"winner": null,
+		"scheduled_at": "2024-07-18T22:00:00Z",
+		"videogame_title": {
+			"id": 14,
+			"name": "Call of Duty: Modern Warfare III",
+			"slug": "cod-mw-iii",
+			"videogame_id": 23
+		},
+		"serie": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"end_at": "2024-07-21T21:00:00Z",
+			"full_name": "Championship 2024",
+			"id": 7722,
+			"league_id": 4304,
+			"modified_at": "2024-07-01T14:10:49Z",
+			"name": "Championship",
+			"season": null,
+			"slug": "cod-mw-call-of-duty-league-championship-2024",
+			"winner_id": null,
+			"winner_type": "Team",
+			"year": 2024
+		},
+		"streams_list": [
+			{
+				"embed_url": null,
+				"language": "en",
+				"main": true,
+				"official": true,
+				"raw_url": "https://www.youtube.com/codleague/live"
+			}
+		],
+		"videogame_version": null,
+		"videogame": {
+			"id": 23,
+			"name": "Call of Duty",
+			"slug": "cod-mw"
+		},
+		"detailed_stats": true,
+		"results": [
+			{
+				"score": 0,
+				"team_id": 126844
+			},
+			{
+				"score": 0,
+				"team_id": 128027
+			}
+		],
+		"tournament_id": 14003,
+		"begin_at": "2024-07-18T22:00:00Z",
+		"league_id": 4304,
+		"forfeit": false,
+		"number_of_games": 5,
+		"end_at": null
+	},
+	{
+		"winner_id": null,
+		"tournament": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"detailed_stats": true,
+			"end_at": "2024-07-21T21:00:00Z",
+			"has_bracket": true,
+			"id": 14003,
+			"league_id": 4304,
+			"live_supported": false,
+			"modified_at": "2024-07-01T14:12:02Z",
+			"name": "Playoffs",
+			"prizepool": null,
+			"serie_id": 7722,
+			"slug": "cod-mw-call-of-duty-league-championship-2024-playoffs",
+			"tier": "s",
+			"winner_id": null,
+			"winner_type": "Team"
+		},
+		"original_scheduled_at": "2024-07-18T23:30:00Z",
+		"status": "not_started",
+		"match_type": "best_of",
+		"rescheduled": false,
+		"opponents": [
+			{
+				"opponent": {
+					"acronym": "TEX",
+					"id": 130157,
+					"image_url": "https://cdn.pandascore.co/images/team/image/130157/op_tic_texaslogo_profile.png",
+					"location": "US",
+					"modified_at": "2024-07-01T13:54:56Z",
+					"name": "OpTic Texas",
+					"slug": "optic-texas"
+				},
+				"type": "Team"
+			},
+			{
+				"opponent": {
+					"acronym": "LA Guerrillas",
+					"id": 126838,
+					"image_url": "https://cdn.pandascore.co/images/team/image/126838/150px_los_angeles_guerrillaslogo_square.png",
+					"location": "US",
+					"modified_at": "2024-07-01T13:54:57Z",
+					"name": "Los Angeles Guerrillas",
+					"slug": "los-angeles-guerrillas"
+				},
+				"type": "Team"
+			}
+		],
+		"slug": "optic-texas-vs-los-angeles-guerrillas-2024-07-19",
+		"draw": false,
+		"live": {
+			"opens_at": null,
+			"supported": false,
+			"url": null
+		},
+		"id": 998496,
+		"winner_type": "Team",
+		"name": "Upper bracket quarterfinal 4: TEX vs LA Guerrillas",
+		"game_advantage": null,
+		"modified_at": "2024-07-01T14:10:49Z",
+		"games": [
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6312,
+				"length": null,
+				"match_id": 998496,
+				"position": 1,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6313,
+				"length": null,
+				"match_id": 998496,
+				"position": 2,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6314,
+				"length": null,
+				"match_id": 998496,
+				"position": 3,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6315,
+				"length": null,
+				"match_id": 998496,
+				"position": 4,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6316,
+				"length": null,
+				"match_id": 998496,
+				"position": 5,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			}
+		],
+		"league": {
+			"id": 4304,
+			"image_url": "https://cdn.pandascore.co/images/league/image/4304/cdl_2024_lightmode-png",
+			"modified_at": "2024-04-17T20:37:01Z",
+			"name": "Call of Duty League",
+			"slug": "cod-mw-call-of-duty-league",
+			"url": "https://callofdutyleague.com/en-us/"
+		},
+		"serie_id": 7722,
+		"winner": null,
+		"scheduled_at": "2024-07-18T23:30:00Z",
+		"videogame_title": {
+			"id": 14,
+			"name": "Call of Duty: Modern Warfare III",
+			"slug": "cod-mw-iii",
+			"videogame_id": 23
+		},
+		"serie": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"end_at": "2024-07-21T21:00:00Z",
+			"full_name": "Championship 2024",
+			"id": 7722,
+			"league_id": 4304,
+			"modified_at": "2024-07-01T14:10:49Z",
+			"name": "Championship",
+			"season": null,
+			"slug": "cod-mw-call-of-duty-league-championship-2024",
+			"winner_id": null,
+			"winner_type": "Team",
+			"year": 2024
+		},
+		"streams_list": [
+			{
+				"embed_url": null,
+				"language": "en",
+				"main": true,
+				"official": true,
+				"raw_url": "https://www.youtube.com/codleague/live"
+			}
+		],
+		"videogame_version": null,
+		"videogame": {
+			"id": 23,
+			"name": "Call of Duty",
+			"slug": "cod-mw"
+		},
+		"detailed_stats": true,
+		"results": [
+			{
+				"score": 0,
+				"team_id": 130157
+			},
+			{
+				"score": 0,
+				"team_id": 126838
+			}
+		],
+		"tournament_id": 14003,
+		"begin_at": "2024-07-18T23:30:00Z",
+		"league_id": 4304,
+		"forfeit": false,
+		"number_of_games": 5,
+		"end_at": null
+	},
+	{
+		"winner_id": null,
+		"tournament": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"detailed_stats": true,
+			"end_at": "2024-07-21T21:00:00Z",
+			"has_bracket": true,
+			"id": 14003,
+			"league_id": 4304,
+			"live_supported": false,
+			"modified_at": "2024-07-01T14:12:02Z",
+			"name": "Playoffs",
+			"prizepool": null,
+			"serie_id": 7722,
+			"slug": "cod-mw-call-of-duty-league-championship-2024-playoffs",
+			"tier": "s",
+			"winner_id": null,
+			"winner_type": "Team"
+		},
+		"original_scheduled_at": "2024-07-19T19:00:00Z",
+		"status": "not_started",
+		"match_type": "best_of",
+		"rescheduled": false,
+		"opponents": [],
+		"slug": "2024-07-19-a866833e-a9e1-4571-97ce-3966c03eede2",
+		"draw": false,
+		"live": {
+			"opens_at": null,
+			"supported": false,
+			"url": null
+		},
+		"id": 998504,
+		"winner_type": "Team",
+		"name": "Lower bracket round 1 match 1: TBD vs TBD",
+		"game_advantage": null,
+		"modified_at": "2024-07-01T14:10:49Z",
+		"games": [
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6332,
+				"length": null,
+				"match_id": 998504,
+				"position": 1,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6333,
+				"length": null,
+				"match_id": 998504,
+				"position": 2,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6334,
+				"length": null,
+				"match_id": 998504,
+				"position": 3,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6335,
+				"length": null,
+				"match_id": 998504,
+				"position": 4,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6336,
+				"length": null,
+				"match_id": 998504,
+				"position": 5,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			}
+		],
+		"league": {
+			"id": 4304,
+			"image_url": "https://cdn.pandascore.co/images/league/image/4304/cdl_2024_lightmode-png",
+			"modified_at": "2024-04-17T20:37:01Z",
+			"name": "Call of Duty League",
+			"slug": "cod-mw-call-of-duty-league",
+			"url": "https://callofdutyleague.com/en-us/"
+		},
+		"serie_id": 7722,
+		"winner": null,
+		"scheduled_at": "2024-07-19T19:00:00Z",
+		"videogame_title": {
+			"id": 14,
+			"name": "Call of Duty: Modern Warfare III",
+			"slug": "cod-mw-iii",
+			"videogame_id": 23
+		},
+		"serie": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"end_at": "2024-07-21T21:00:00Z",
+			"full_name": "Championship 2024",
+			"id": 7722,
+			"league_id": 4304,
+			"modified_at": "2024-07-01T14:10:49Z",
+			"name": "Championship",
+			"season": null,
+			"slug": "cod-mw-call-of-duty-league-championship-2024",
+			"winner_id": null,
+			"winner_type": "Team",
+			"year": 2024
+		},
+		"streams_list": [
+			{
+				"embed_url": null,
+				"language": "en",
+				"main": true,
+				"official": true,
+				"raw_url": "https://www.youtube.com/codleague/live"
+			}
+		],
+		"videogame_version": null,
+		"videogame": {
+			"id": 23,
+			"name": "Call of Duty",
+			"slug": "cod-mw"
+		},
+		"detailed_stats": true,
+		"results": [],
+		"tournament_id": 14003,
+		"begin_at": "2024-07-19T19:00:00Z",
+		"league_id": 4304,
+		"forfeit": false,
+		"number_of_games": 5,
+		"end_at": null
+	},
+	{
+		"winner_id": null,
+		"tournament": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"detailed_stats": true,
+			"end_at": "2024-07-21T21:00:00Z",
+			"has_bracket": true,
+			"id": 14003,
+			"league_id": 4304,
+			"live_supported": false,
+			"modified_at": "2024-07-01T14:12:02Z",
+			"name": "Playoffs",
+			"prizepool": null,
+			"serie_id": 7722,
+			"slug": "cod-mw-call-of-duty-league-championship-2024-playoffs",
+			"tier": "s",
+			"winner_id": null,
+			"winner_type": "Team"
+		},
+		"original_scheduled_at": "2024-07-19T20:30:00Z",
+		"status": "not_started",
+		"match_type": "best_of",
+		"rescheduled": false,
+		"opponents": [],
+		"slug": "2024-07-19-d41b3aa6-86b5-4fb5-99aa-56ce9b6482e2",
+		"draw": false,
+		"live": {
+			"opens_at": null,
+			"supported": false,
+			"url": null
+		},
+		"id": 998505,
+		"winner_type": "Team",
+		"name": "Lower bracket round 1 match 2: TBD vs TBD",
+		"game_advantage": null,
+		"modified_at": "2024-07-01T14:10:49Z",
+		"games": [
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6337,
+				"length": null,
+				"match_id": 998505,
+				"position": 1,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6338,
+				"length": null,
+				"match_id": 998505,
+				"position": 2,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6339,
+				"length": null,
+				"match_id": 998505,
+				"position": 3,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6340,
+				"length": null,
+				"match_id": 998505,
+				"position": 4,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6341,
+				"length": null,
+				"match_id": 998505,
+				"position": 5,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			}
+		],
+		"league": {
+			"id": 4304,
+			"image_url": "https://cdn.pandascore.co/images/league/image/4304/cdl_2024_lightmode-png",
+			"modified_at": "2024-04-17T20:37:01Z",
+			"name": "Call of Duty League",
+			"slug": "cod-mw-call-of-duty-league",
+			"url": "https://callofdutyleague.com/en-us/"
+		},
+		"serie_id": 7722,
+		"winner": null,
+		"scheduled_at": "2024-07-19T20:30:00Z",
+		"videogame_title": {
+			"id": 14,
+			"name": "Call of Duty: Modern Warfare III",
+			"slug": "cod-mw-iii",
+			"videogame_id": 23
+		},
+		"serie": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"end_at": "2024-07-21T21:00:00Z",
+			"full_name": "Championship 2024",
+			"id": 7722,
+			"league_id": 4304,
+			"modified_at": "2024-07-01T14:10:49Z",
+			"name": "Championship",
+			"season": null,
+			"slug": "cod-mw-call-of-duty-league-championship-2024",
+			"winner_id": null,
+			"winner_type": "Team",
+			"year": 2024
+		},
+		"streams_list": [
+			{
+				"embed_url": null,
+				"language": "en",
+				"main": true,
+				"official": true,
+				"raw_url": "https://www.youtube.com/codleague/live"
+			}
+		],
+		"videogame_version": null,
+		"videogame": {
+			"id": 23,
+			"name": "Call of Duty",
+			"slug": "cod-mw"
+		},
+		"detailed_stats": true,
+		"results": [],
+		"tournament_id": 14003,
+		"begin_at": "2024-07-19T20:30:00Z",
+		"league_id": 4304,
+		"forfeit": false,
+		"number_of_games": 5,
+		"end_at": null
+	},
+	{
+		"winner_id": null,
+		"tournament": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"detailed_stats": true,
+			"end_at": "2024-07-21T21:00:00Z",
+			"has_bracket": true,
+			"id": 14003,
+			"league_id": 4304,
+			"live_supported": false,
+			"modified_at": "2024-07-01T14:12:02Z",
+			"name": "Playoffs",
+			"prizepool": null,
+			"serie_id": 7722,
+			"slug": "cod-mw-call-of-duty-league-championship-2024-playoffs",
+			"tier": "s",
+			"winner_id": null,
+			"winner_type": "Team"
+		},
+		"original_scheduled_at": "2024-07-19T22:00:00Z",
+		"status": "not_started",
+		"match_type": "best_of",
+		"rescheduled": false,
+		"opponents": [],
+		"slug": "2024-07-20-3c41a250-3784-4b77-994e-19920eb6f999",
+		"draw": false,
+		"live": {
+			"opens_at": null,
+			"supported": false,
+			"url": null
+		},
+		"id": 998497,
+		"winner_type": "Team",
+		"name": "Upper bracket semifinal 1: TBD vs TBD",
+		"game_advantage": null,
+		"modified_at": "2024-07-01T14:10:49Z",
+		"games": [
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6317,
+				"length": null,
+				"match_id": 998497,
+				"position": 1,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6318,
+				"length": null,
+				"match_id": 998497,
+				"position": 2,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6319,
+				"length": null,
+				"match_id": 998497,
+				"position": 3,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6320,
+				"length": null,
+				"match_id": 998497,
+				"position": 4,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6321,
+				"length": null,
+				"match_id": 998497,
+				"position": 5,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			}
+		],
+		"league": {
+			"id": 4304,
+			"image_url": "https://cdn.pandascore.co/images/league/image/4304/cdl_2024_lightmode-png",
+			"modified_at": "2024-04-17T20:37:01Z",
+			"name": "Call of Duty League",
+			"slug": "cod-mw-call-of-duty-league",
+			"url": "https://callofdutyleague.com/en-us/"
+		},
+		"serie_id": 7722,
+		"winner": null,
+		"scheduled_at": "2024-07-19T22:00:00Z",
+		"videogame_title": {
+			"id": 14,
+			"name": "Call of Duty: Modern Warfare III",
+			"slug": "cod-mw-iii",
+			"videogame_id": 23
+		},
+		"serie": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"end_at": "2024-07-21T21:00:00Z",
+			"full_name": "Championship 2024",
+			"id": 7722,
+			"league_id": 4304,
+			"modified_at": "2024-07-01T14:10:49Z",
+			"name": "Championship",
+			"season": null,
+			"slug": "cod-mw-call-of-duty-league-championship-2024",
+			"winner_id": null,
+			"winner_type": "Team",
+			"year": 2024
+		},
+		"streams_list": [
+			{
+				"embed_url": null,
+				"language": "en",
+				"main": true,
+				"official": true,
+				"raw_url": "https://www.youtube.com/codleague/live"
+			}
+		],
+		"videogame_version": null,
+		"videogame": {
+			"id": 23,
+			"name": "Call of Duty",
+			"slug": "cod-mw"
+		},
+		"detailed_stats": true,
+		"results": [],
+		"tournament_id": 14003,
+		"begin_at": "2024-07-19T22:00:00Z",
+		"league_id": 4304,
+		"forfeit": false,
+		"number_of_games": 5,
+		"end_at": null
+	},
+	{
+		"winner_id": null,
+		"tournament": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"detailed_stats": true,
+			"end_at": "2024-07-21T21:00:00Z",
+			"has_bracket": true,
+			"id": 14003,
+			"league_id": 4304,
+			"live_supported": false,
+			"modified_at": "2024-07-01T14:12:02Z",
+			"name": "Playoffs",
+			"prizepool": null,
+			"serie_id": 7722,
+			"slug": "cod-mw-call-of-duty-league-championship-2024-playoffs",
+			"tier": "s",
+			"winner_id": null,
+			"winner_type": "Team"
+		},
+		"original_scheduled_at": "2024-07-19T23:30:00Z",
+		"status": "not_started",
+		"match_type": "best_of",
+		"rescheduled": false,
+		"opponents": [],
+		"slug": "2024-07-20-a695d58e-97e2-4ba5-a811-11825e8e2fca",
+		"draw": false,
+		"live": {
+			"opens_at": null,
+			"supported": false,
+			"url": null
+		},
+		"id": 998498,
+		"winner_type": "Team",
+		"name": "Upper bracket semifinal 2: TBD vs TBD",
+		"game_advantage": null,
+		"modified_at": "2024-07-01T14:10:49Z",
+		"games": [
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6322,
+				"length": null,
+				"match_id": 998498,
+				"position": 1,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6323,
+				"length": null,
+				"match_id": 998498,
+				"position": 2,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6324,
+				"length": null,
+				"match_id": 998498,
+				"position": 3,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6325,
+				"length": null,
+				"match_id": 998498,
+				"position": 4,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6326,
+				"length": null,
+				"match_id": 998498,
+				"position": 5,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			}
+		],
+		"league": {
+			"id": 4304,
+			"image_url": "https://cdn.pandascore.co/images/league/image/4304/cdl_2024_lightmode-png",
+			"modified_at": "2024-04-17T20:37:01Z",
+			"name": "Call of Duty League",
+			"slug": "cod-mw-call-of-duty-league",
+			"url": "https://callofdutyleague.com/en-us/"
+		},
+		"serie_id": 7722,
+		"winner": null,
+		"scheduled_at": "2024-07-19T23:30:00Z",
+		"videogame_title": {
+			"id": 14,
+			"name": "Call of Duty: Modern Warfare III",
+			"slug": "cod-mw-iii",
+			"videogame_id": 23
+		},
+		"serie": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"end_at": "2024-07-21T21:00:00Z",
+			"full_name": "Championship 2024",
+			"id": 7722,
+			"league_id": 4304,
+			"modified_at": "2024-07-01T14:10:49Z",
+			"name": "Championship",
+			"season": null,
+			"slug": "cod-mw-call-of-duty-league-championship-2024",
+			"winner_id": null,
+			"winner_type": "Team",
+			"year": 2024
+		},
+		"streams_list": [
+			{
+				"embed_url": null,
+				"language": "en",
+				"main": true,
+				"official": true,
+				"raw_url": "https://www.youtube.com/codleague/live"
+			}
+		],
+		"videogame_version": null,
+		"videogame": {
+			"id": 23,
+			"name": "Call of Duty",
+			"slug": "cod-mw"
+		},
+		"detailed_stats": true,
+		"results": [],
+		"tournament_id": 14003,
+		"begin_at": "2024-07-19T23:30:00Z",
+		"league_id": 4304,
+		"forfeit": false,
+		"number_of_games": 5,
+		"end_at": null
+	},
+	{
+		"winner_id": null,
+		"tournament": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"detailed_stats": true,
+			"end_at": "2024-07-21T21:00:00Z",
+			"has_bracket": true,
+			"id": 14003,
+			"league_id": 4304,
+			"live_supported": false,
+			"modified_at": "2024-07-01T14:12:02Z",
+			"name": "Playoffs",
+			"prizepool": null,
+			"serie_id": 7722,
+			"slug": "cod-mw-call-of-duty-league-championship-2024-playoffs",
+			"tier": "s",
+			"winner_id": null,
+			"winner_type": "Team"
+		},
+		"original_scheduled_at": "2024-07-20T19:00:00Z",
+		"status": "not_started",
+		"match_type": "best_of",
+		"rescheduled": false,
+		"opponents": [],
+		"slug": "2024-07-20-275a48a8-0304-4a1b-8b8a-ec5a20edc85b",
+		"draw": false,
+		"live": {
+			"opens_at": null,
+			"supported": false,
+			"url": null
+		},
+		"id": 998506,
+		"winner_type": "Team",
+		"name": "Lower bracket quarterfinal 1: TBD vs TBD",
+		"game_advantage": null,
+		"modified_at": "2024-07-01T14:10:49Z",
+		"games": [
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6342,
+				"length": null,
+				"match_id": 998506,
+				"position": 1,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6343,
+				"length": null,
+				"match_id": 998506,
+				"position": 2,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6344,
+				"length": null,
+				"match_id": 998506,
+				"position": 3,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6345,
+				"length": null,
+				"match_id": 998506,
+				"position": 4,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6346,
+				"length": null,
+				"match_id": 998506,
+				"position": 5,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			}
+		],
+		"league": {
+			"id": 4304,
+			"image_url": "https://cdn.pandascore.co/images/league/image/4304/cdl_2024_lightmode-png",
+			"modified_at": "2024-04-17T20:37:01Z",
+			"name": "Call of Duty League",
+			"slug": "cod-mw-call-of-duty-league",
+			"url": "https://callofdutyleague.com/en-us/"
+		},
+		"serie_id": 7722,
+		"winner": null,
+		"scheduled_at": "2024-07-20T19:00:00Z",
+		"videogame_title": {
+			"id": 14,
+			"name": "Call of Duty: Modern Warfare III",
+			"slug": "cod-mw-iii",
+			"videogame_id": 23
+		},
+		"serie": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"end_at": "2024-07-21T21:00:00Z",
+			"full_name": "Championship 2024",
+			"id": 7722,
+			"league_id": 4304,
+			"modified_at": "2024-07-01T14:10:49Z",
+			"name": "Championship",
+			"season": null,
+			"slug": "cod-mw-call-of-duty-league-championship-2024",
+			"winner_id": null,
+			"winner_type": "Team",
+			"year": 2024
+		},
+		"streams_list": [
+			{
+				"embed_url": null,
+				"language": "en",
+				"main": true,
+				"official": true,
+				"raw_url": "https://www.youtube.com/codleague/live"
+			}
+		],
+		"videogame_version": null,
+		"videogame": {
+			"id": 23,
+			"name": "Call of Duty",
+			"slug": "cod-mw"
+		},
+		"detailed_stats": true,
+		"results": [],
+		"tournament_id": 14003,
+		"begin_at": "2024-07-20T19:00:00Z",
+		"league_id": 4304,
+		"forfeit": false,
+		"number_of_games": 5,
+		"end_at": null
+	},
+	{
+		"winner_id": null,
+		"tournament": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"detailed_stats": true,
+			"end_at": "2024-07-21T21:00:00Z",
+			"has_bracket": true,
+			"id": 14003,
+			"league_id": 4304,
+			"live_supported": false,
+			"modified_at": "2024-07-01T14:12:02Z",
+			"name": "Playoffs",
+			"prizepool": null,
+			"serie_id": 7722,
+			"slug": "cod-mw-call-of-duty-league-championship-2024-playoffs",
+			"tier": "s",
+			"winner_id": null,
+			"winner_type": "Team"
+		},
+		"original_scheduled_at": "2024-07-20T20:30:00Z",
+		"status": "not_started",
+		"match_type": "best_of",
+		"rescheduled": false,
+		"opponents": [],
+		"slug": "2024-07-20-cff109b8-06ba-4185-8d4c-2511962f7825",
+		"draw": false,
+		"live": {
+			"opens_at": null,
+			"supported": false,
+			"url": null
+		},
+		"id": 998507,
+		"winner_type": "Team",
+		"name": "Lower bracket quartefinal 2: TBD vs TBD",
+		"game_advantage": null,
+		"modified_at": "2024-07-01T14:10:49Z",
+		"games": [
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6347,
+				"length": null,
+				"match_id": 998507,
+				"position": 1,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6348,
+				"length": null,
+				"match_id": 998507,
+				"position": 2,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6349,
+				"length": null,
+				"match_id": 998507,
+				"position": 3,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6350,
+				"length": null,
+				"match_id": 998507,
+				"position": 4,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			},
+			{
+				"begin_at": null,
+				"complete": false,
+				"detailed_stats": true,
+				"end_at": null,
+				"finished": false,
+				"forfeit": false,
+				"id": 6351,
+				"length": null,
+				"match_id": 998507,
+				"position": 5,
+				"status": "not_started",
+				"winner": {
+					"id": null,
+					"type": "Team"
+				},
+				"winner_type": "Team"
+			}
+		],
+		"league": {
+			"id": 4304,
+			"image_url": "https://cdn.pandascore.co/images/league/image/4304/cdl_2024_lightmode-png",
+			"modified_at": "2024-04-17T20:37:01Z",
+			"name": "Call of Duty League",
+			"slug": "cod-mw-call-of-duty-league",
+			"url": "https://callofdutyleague.com/en-us/"
+		},
+		"serie_id": 7722,
+		"winner": null,
+		"scheduled_at": "2024-07-20T20:30:00Z",
+		"videogame_title": {
+			"id": 14,
+			"name": "Call of Duty: Modern Warfare III",
+			"slug": "cod-mw-iii",
+			"videogame_id": 23
+		},
+		"serie": {
+			"begin_at": "2024-07-18T19:00:00Z",
+			"end_at": "2024-07-21T21:00:00Z",
+			"full_name": "Championship 2024",
+			"id": 7722,
+			"league_id": 4304,
+			"modified_at": "2024-07-01T14:10:49Z",
+			"name": "Championship",
+			"season": null,
+			"slug": "cod-mw-call-of-duty-league-championship-2024",
+			"winner_id": null,
+			"winner_type": "Team",
+			"year": 2024
+		},
+		"streams_list": [
+			{
+				"embed_url": null,
+				"language": "en",
+				"main": true,
+				"official": true,
+				"raw_url": "https://www.youtube.com/codleague/live"
+			}
+		],
+		"videogame_version": null,
+		"videogame": {
+			"id": 23,
+			"name": "Call of Duty",
+			"slug": "cod-mw"
+		},
+		"detailed_stats": true,
+		"results": [],
+		"tournament_id": 14003,
+		"begin_at": "2024-07-20T20:30:00Z",
+		"league_id": 4304,
+		"forfeit": false,
+		"number_of_games": 5,
+		"end_at": null
+	}
+]

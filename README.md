@@ -4,12 +4,13 @@ This repository automates the generation and update of ICS files for esport even
 
 ## Supported Games
 
-- [League of Legends](ics/league_of_legends/)
-- [Valorant](ics/valorant)
-- [Counter-Strike: Global Offensive](ics/counter_strike)
-- [Rainbow Six Siege](ics/rainbow_six_siege)
+- [Call of Duty MW](ics/call_of_duty_mw/)
 - [Dota 2](ics/dota_2/)
+- [Counter-Strike: Global Offensive](ics/counter_strike)
+- [League of Legends](ics/league_of_legends/)
 - [League of Legends WildRift](ics/league_of_legends_wildrift/)
+- [Rainbow Six Siege](ics/rainbow_six_siege)
+- [Valorant](ics/valorant)
 
 While my personal interest is primarily on League of Legends, I'm open to expanding the list of supported games based on community interest. If there's a particular game you'd like to see supported, please let me know by opening an issue or submitting a pull request.
 
