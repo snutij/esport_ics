@@ -10,7 +10,6 @@ Gem::Specification.new do |spec|
   spec.summary = "Generate ics file for esport events."
   spec.homepage = "https://github.com/snutij/esport_ics"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["rubygems_mfa_required"] = "true"
