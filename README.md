@@ -9,6 +9,7 @@ This repository automates the generation and update of ICS files for esport even
 - [Counter-Strike: Global Offensive](ics/counter_strike)
 - [League of Legends](ics/league_of_legends/)
 - [League of Legends WildRift](ics/league_of_legends_wildrift/)
+- [Overwatch 2](ics/overwatch_2)
 - [Rainbow Six Siege](ics/rainbow_six_siege)
 - [Valorant](ics/valorant)
 

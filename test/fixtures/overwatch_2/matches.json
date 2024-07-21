@@ -1,0 +1,2452 @@
+[
+  {
+    "detailed_stats": true,
+    "original_scheduled_at": "2024-07-24T12:00:00Z",
+    "status": "not_started",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19403,
+        "length": null,
+        "match_id": 1008545,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19404,
+        "length": null,
+        "match_id": 1008545,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19405,
+        "length": null,
+        "match_id": 1008545,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19406,
+        "length": null,
+        "match_id": 1008545,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19407,
+        "length": null,
+        "match_id": 1008545,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19408,
+        "length": null,
+        "match_id": 1008545,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19409,
+        "length": null,
+        "match_id": 1008545,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5274,
+      "image_url": null,
+      "modified_at": "2024-07-19T14:53:54Z",
+      "name": "Esports World Cup",
+      "slug": "ow-esports-world-cup",
+      "url": null
+    },
+    "id": 1008545,
+    "tournament": {
+      "begin_at": "2024-07-24T12:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-25T17:00:00Z",
+      "has_bracket": false,
+      "id": 14127,
+      "league_id": 5274,
+      "live_supported": false,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "Group A",
+      "prizepool": null,
+      "serie_id": 7761,
+      "slug": "ow-esports-world-cup-2024-group-a",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "name": "CR vs ROC",
+    "end_at": null,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "CR",
+          "id": 134817,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134817/600px_crazy_raccoon_2021_allmode.png",
+          "location": "KR",
+          "modified_at": "2024-07-19T14:21:18Z",
+          "name": "Crazy Raccoon",
+          "slug": "crazy-raccoon-ow"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "ROC",
+          "id": 134621,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134621/190px_roc_esports_2024_allmode.png",
+          "location": "SA",
+          "modified_at": "2024-07-19T14:21:19Z",
+          "name": "ROC Esports",
+          "slug": "roc-esports"
+        },
+        "type": "Team"
+      }
+    ],
+    "tournament_id": 14127,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "serie": {
+      "begin_at": "2024-07-24T12:00:00Z",
+      "end_at": "2024-07-28T21:00:00Z",
+      "full_name": "2024",
+      "id": 7761,
+      "league_id": 5274,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "",
+      "season": null,
+      "slug": "ow-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "modified_at": "2024-07-19T14:53:41Z",
+    "number_of_games": 3,
+    "begin_at": "2024-07-24T12:00:00Z",
+    "rescheduled": false,
+    "winner_id": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134817
+      },
+      {
+        "score": 0,
+        "team_id": 134621
+      }
+    ],
+    "serie_id": 7761,
+    "scheduled_at": "2024-07-24T12:00:00Z",
+    "league_id": 5274,
+    "forfeit": false,
+    "videogame_version": null,
+    "videogame_title": {
+      "id": 9,
+      "name": "Overwatch2",
+      "slug": "ow-2",
+      "videogame_id": 14
+    },
+    "winner": null,
+    "videogame": {
+      "id": 14,
+      "name": "Overwatch",
+      "slug": "ow"
+    },
+    "streams_list": [],
+    "game_advantage": null,
+    "draw": false,
+    "winner_type": "Team",
+    "slug": "crazy-raccoon-vs-roc-esports-2024-07-24",
+    "match_type": "first_to"
+  },
+  {
+    "detailed_stats": true,
+    "original_scheduled_at": "2024-07-24T12:00:00Z",
+    "status": "not_started",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19396,
+        "length": null,
+        "match_id": 1008544,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19397,
+        "length": null,
+        "match_id": 1008544,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19398,
+        "length": null,
+        "match_id": 1008544,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19399,
+        "length": null,
+        "match_id": 1008544,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19400,
+        "length": null,
+        "match_id": 1008544,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19401,
+        "length": null,
+        "match_id": 1008544,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19402,
+        "length": null,
+        "match_id": 1008544,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5274,
+      "image_url": null,
+      "modified_at": "2024-07-19T14:53:54Z",
+      "name": "Esports World Cup",
+      "slug": "ow-esports-world-cup",
+      "url": null
+    },
+    "id": 1008544,
+    "tournament": {
+      "begin_at": "2024-07-24T12:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-25T17:00:00Z",
+      "has_bracket": false,
+      "id": 14127,
+      "league_id": 5274,
+      "live_supported": false,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "Group A",
+      "prizepool": null,
+      "serie_id": 7761,
+      "slug": "ow-esports-world-cup-2024-group-a",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "name": "Toronto Ultra vs GG",
+    "end_at": null,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 135269,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135269/600px_toronto_ultra_allmode.png",
+          "location": "US",
+          "modified_at": "2024-07-19T14:34:10Z",
+          "name": "Toronto Ultra",
+          "slug": "toronto-ultra-ow"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "GG",
+          "id": 135156,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135156/gladiators_2022_allmode.png",
+          "location": "",
+          "modified_at": "2024-07-19T14:21:19Z",
+          "name": "Gaimin Gladiators",
+          "slug": "gaimin-gladiators-ow"
+        },
+        "type": "Team"
+      }
+    ],
+    "tournament_id": 14127,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "serie": {
+      "begin_at": "2024-07-24T12:00:00Z",
+      "end_at": "2024-07-28T21:00:00Z",
+      "full_name": "2024",
+      "id": 7761,
+      "league_id": 5274,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "",
+      "season": null,
+      "slug": "ow-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "modified_at": "2024-07-19T14:53:41Z",
+    "number_of_games": 3,
+    "begin_at": "2024-07-24T12:00:00Z",
+    "rescheduled": false,
+    "winner_id": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 135269
+      },
+      {
+        "score": 0,
+        "team_id": 135156
+      }
+    ],
+    "serie_id": 7761,
+    "scheduled_at": "2024-07-24T12:00:00Z",
+    "league_id": 5274,
+    "forfeit": false,
+    "videogame_version": null,
+    "videogame_title": {
+      "id": 9,
+      "name": "Overwatch2",
+      "slug": "ow-2",
+      "videogame_id": 14
+    },
+    "winner": null,
+    "videogame": {
+      "id": 14,
+      "name": "Overwatch",
+      "slug": "ow"
+    },
+    "streams_list": [],
+    "game_advantage": null,
+    "draw": false,
+    "winner_type": "Team",
+    "slug": "toronto-ultra-vs-gaimin-gladiators-2024-07-24",
+    "match_type": "first_to"
+  },
+  {
+    "detailed_stats": true,
+    "original_scheduled_at": "2024-07-24T13:30:00Z",
+    "status": "not_started",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19361,
+        "length": null,
+        "match_id": 1008539,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19362,
+        "length": null,
+        "match_id": 1008539,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19363,
+        "length": null,
+        "match_id": 1008539,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19364,
+        "length": null,
+        "match_id": 1008539,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19365,
+        "length": null,
+        "match_id": 1008539,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19366,
+        "length": null,
+        "match_id": 1008539,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19367,
+        "length": null,
+        "match_id": 1008539,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5274,
+      "image_url": null,
+      "modified_at": "2024-07-19T14:53:54Z",
+      "name": "Esports World Cup",
+      "slug": "ow-esports-world-cup",
+      "url": null
+    },
+    "id": 1008539,
+    "tournament": {
+      "begin_at": "2024-07-24T13:30:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-25T18:00:00Z",
+      "has_bracket": false,
+      "id": 14128,
+      "league_id": 5274,
+      "live_supported": false,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "Group B",
+      "prizepool": null,
+      "serie_id": 7761,
+      "slug": "ow-esports-world-cup-2024-group-b",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "name": "LGD.OA vs TM",
+    "end_at": null,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 135268,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135268/600px_lgd.oa_lightmode.png",
+          "location": "CN",
+          "modified_at": "2024-07-19T14:29:05Z",
+          "name": "LGD.OA",
+          "slug": "lgd-oa"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "TM",
+          "id": 132167,
+          "image_url": "https://cdn.pandascore.co/images/team/image/132167/600px_twisted_minds_2023_full_darkmode.png",
+          "location": "SA",
+          "modified_at": "2024-07-19T14:29:05Z",
+          "name": "Twisted Minds",
+          "slug": "twisted-minds-ow"
+        },
+        "type": "Team"
+      }
+    ],
+    "tournament_id": 14128,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "serie": {
+      "begin_at": "2024-07-24T12:00:00Z",
+      "end_at": "2024-07-28T21:00:00Z",
+      "full_name": "2024",
+      "id": 7761,
+      "league_id": 5274,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "",
+      "season": null,
+      "slug": "ow-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "modified_at": "2024-07-19T14:53:41Z",
+    "number_of_games": 3,
+    "begin_at": "2024-07-24T13:30:00Z",
+    "rescheduled": false,
+    "winner_id": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 135268
+      },
+      {
+        "score": 0,
+        "team_id": 132167
+      }
+    ],
+    "serie_id": 7761,
+    "scheduled_at": "2024-07-24T13:30:00Z",
+    "league_id": 5274,
+    "forfeit": false,
+    "videogame_version": null,
+    "videogame_title": {
+      "id": 9,
+      "name": "Overwatch2",
+      "slug": "ow-2",
+      "videogame_id": 14
+    },
+    "winner": null,
+    "videogame": {
+      "id": 14,
+      "name": "Overwatch",
+      "slug": "ow"
+    },
+    "streams_list": [],
+    "game_advantage": null,
+    "draw": false,
+    "winner_type": "Team",
+    "slug": "lgd-oa-vs-twisted-minds-2024-07-24",
+    "match_type": "first_to"
+  },
+  {
+    "detailed_stats": true,
+    "original_scheduled_at": "2024-07-24T13:30:00Z",
+    "status": "not_started",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19354,
+        "length": null,
+        "match_id": 1008537,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19355,
+        "length": null,
+        "match_id": 1008537,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19356,
+        "length": null,
+        "match_id": 1008537,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19357,
+        "length": null,
+        "match_id": 1008537,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19358,
+        "length": null,
+        "match_id": 1008537,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19359,
+        "length": null,
+        "match_id": 1008537,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19360,
+        "length": null,
+        "match_id": 1008537,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5274,
+      "image_url": null,
+      "modified_at": "2024-07-19T14:53:54Z",
+      "name": "Esports World Cup",
+      "slug": "ow-esports-world-cup",
+      "url": null
+    },
+    "id": 1008537,
+    "tournament": {
+      "begin_at": "2024-07-24T13:30:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-25T18:00:00Z",
+      "has_bracket": false,
+      "id": 14128,
+      "league_id": 5274,
+      "live_supported": false,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "Group B",
+      "prizepool": null,
+      "serie_id": 7761,
+      "slug": "ow-esports-world-cup-2024-group-b",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "name": "FAL vs The Great Showmen",
+    "end_at": null,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "FAL",
+          "id": 134476,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134476/285px_team_falcons_2022_allmode.png",
+          "location": "SA",
+          "modified_at": "2024-07-19T14:29:04Z",
+          "name": "Falcons",
+          "slug": "falcons-ow"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 135267,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135267/the_great_showmen_allmode.png",
+          "location": "AU",
+          "modified_at": "2024-07-19T14:29:06Z",
+          "name": "The Great Showmen",
+          "slug": "the-great-showmen"
+        },
+        "type": "Team"
+      }
+    ],
+    "tournament_id": 14128,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "serie": {
+      "begin_at": "2024-07-24T12:00:00Z",
+      "end_at": "2024-07-28T21:00:00Z",
+      "full_name": "2024",
+      "id": 7761,
+      "league_id": 5274,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "",
+      "season": null,
+      "slug": "ow-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "modified_at": "2024-07-19T14:53:41Z",
+    "number_of_games": 3,
+    "begin_at": "2024-07-24T13:30:00Z",
+    "rescheduled": false,
+    "winner_id": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134476
+      },
+      {
+        "score": 0,
+        "team_id": 135267
+      }
+    ],
+    "serie_id": 7761,
+    "scheduled_at": "2024-07-24T13:30:00Z",
+    "league_id": 5274,
+    "forfeit": false,
+    "videogame_version": null,
+    "videogame_title": {
+      "id": 9,
+      "name": "Overwatch2",
+      "slug": "ow-2",
+      "videogame_id": 14
+    },
+    "winner": null,
+    "videogame": {
+      "id": 14,
+      "name": "Overwatch",
+      "slug": "ow"
+    },
+    "streams_list": [],
+    "game_advantage": null,
+    "draw": false,
+    "winner_type": "Team",
+    "slug": "falcons-vs-the-great-showmen-2024-07-24",
+    "match_type": "first_to"
+  },
+  {
+    "detailed_stats": true,
+    "original_scheduled_at": "2024-07-24T15:00:00Z",
+    "status": "not_started",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19445,
+        "length": null,
+        "match_id": 1008556,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19446,
+        "length": null,
+        "match_id": 1008556,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19447,
+        "length": null,
+        "match_id": 1008556,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19448,
+        "length": null,
+        "match_id": 1008556,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19449,
+        "length": null,
+        "match_id": 1008556,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19450,
+        "length": null,
+        "match_id": 1008556,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19451,
+        "length": null,
+        "match_id": 1008556,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5274,
+      "image_url": null,
+      "modified_at": "2024-07-19T14:53:54Z",
+      "name": "Esports World Cup",
+      "slug": "ow-esports-world-cup",
+      "url": null
+    },
+    "id": 1008556,
+    "tournament": {
+      "begin_at": "2024-07-24T15:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-25T20:00:00Z",
+      "has_bracket": false,
+      "id": 14129,
+      "league_id": 5274,
+      "live_supported": false,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "Group C",
+      "prizepool": null,
+      "serie_id": 7761,
+      "slug": "ow-esports-world-cup-2024-group-c",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "name": "ZETA DIVISION vs Bleed Esports",
+    "end_at": null,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 135271,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135271/600px_zeta_division_lightmode_full.png",
+          "location": "JP",
+          "modified_at": "2024-07-19T14:40:53Z",
+          "name": "ZETA DIVISION",
+          "slug": "zeta-division-ow"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 135270,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135270/600px_bleed_esports_2024_full_lightmode.png",
+          "location": "SG",
+          "modified_at": "2024-07-19T14:40:52Z",
+          "name": "Bleed Esports",
+          "slug": "bleed-esports-ow"
+        },
+        "type": "Team"
+      }
+    ],
+    "tournament_id": 14129,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "serie": {
+      "begin_at": "2024-07-24T12:00:00Z",
+      "end_at": "2024-07-28T21:00:00Z",
+      "full_name": "2024",
+      "id": 7761,
+      "league_id": 5274,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "",
+      "season": null,
+      "slug": "ow-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "modified_at": "2024-07-19T14:53:41Z",
+    "number_of_games": 3,
+    "begin_at": "2024-07-24T15:00:00Z",
+    "rescheduled": false,
+    "winner_id": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 135271
+      },
+      {
+        "score": 0,
+        "team_id": 135270
+      }
+    ],
+    "serie_id": 7761,
+    "scheduled_at": "2024-07-24T15:00:00Z",
+    "league_id": 5274,
+    "forfeit": false,
+    "videogame_version": null,
+    "videogame_title": {
+      "id": 9,
+      "name": "Overwatch2",
+      "slug": "ow-2",
+      "videogame_id": 14
+    },
+    "winner": null,
+    "videogame": {
+      "id": 14,
+      "name": "Overwatch",
+      "slug": "ow"
+    },
+    "streams_list": [],
+    "game_advantage": null,
+    "draw": false,
+    "winner_type": "Team",
+    "slug": "zeta-division-vs-bleed-esports-2024-07-24",
+    "match_type": "first_to"
+  },
+  {
+    "detailed_stats": true,
+    "original_scheduled_at": "2024-07-24T15:00:00Z",
+    "status": "not_started",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19438,
+        "length": null,
+        "match_id": 1008555,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19439,
+        "length": null,
+        "match_id": 1008555,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19440,
+        "length": null,
+        "match_id": 1008555,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19441,
+        "length": null,
+        "match_id": 1008555,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19442,
+        "length": null,
+        "match_id": 1008555,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19443,
+        "length": null,
+        "match_id": 1008555,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19444,
+        "length": null,
+        "match_id": 1008555,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5274,
+      "image_url": null,
+      "modified_at": "2024-07-19T14:53:54Z",
+      "name": "Esports World Cup",
+      "slug": "ow-esports-world-cup",
+      "url": null
+    },
+    "id": 1008555,
+    "tournament": {
+      "begin_at": "2024-07-24T15:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-25T20:00:00Z",
+      "has_bracket": false,
+      "id": 14129,
+      "league_id": 5274,
+      "live_supported": false,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "Group C",
+      "prizepool": null,
+      "serie_id": 7761,
+      "slug": "ow-esports-world-cup-2024-group-c",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "name": "ENCE vs M80",
+    "end_at": null,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "ENCE",
+          "id": 134703,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134703/599px_ence_2020_allmode.png",
+          "location": "FI",
+          "modified_at": "2024-07-19T14:40:51Z",
+          "name": "ENCE",
+          "slug": "ence-ow"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "M80",
+          "id": 134643,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134643/600px_m80_2023_allmode.png",
+          "location": "US",
+          "modified_at": "2024-07-19T14:40:52Z",
+          "name": "M80",
+          "slug": "m80-ow"
+        },
+        "type": "Team"
+      }
+    ],
+    "tournament_id": 14129,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "serie": {
+      "begin_at": "2024-07-24T12:00:00Z",
+      "end_at": "2024-07-28T21:00:00Z",
+      "full_name": "2024",
+      "id": 7761,
+      "league_id": 5274,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "",
+      "season": null,
+      "slug": "ow-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "modified_at": "2024-07-19T14:53:41Z",
+    "number_of_games": 3,
+    "begin_at": "2024-07-24T15:00:00Z",
+    "rescheduled": false,
+    "winner_id": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134703
+      },
+      {
+        "score": 0,
+        "team_id": 134643
+      }
+    ],
+    "serie_id": 7761,
+    "scheduled_at": "2024-07-24T15:00:00Z",
+    "league_id": 5274,
+    "forfeit": false,
+    "videogame_version": null,
+    "videogame_title": {
+      "id": 9,
+      "name": "Overwatch2",
+      "slug": "ow-2",
+      "videogame_id": 14
+    },
+    "winner": null,
+    "videogame": {
+      "id": 14,
+      "name": "Overwatch",
+      "slug": "ow"
+    },
+    "streams_list": [],
+    "game_advantage": null,
+    "draw": false,
+    "winner_type": "Team",
+    "slug": "ence-vs-m80-2024-07-24",
+    "match_type": "first_to"
+  },
+  {
+    "detailed_stats": false,
+    "original_scheduled_at": "2024-07-24T16:30:00Z",
+    "status": "not_started",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19487,
+        "length": null,
+        "match_id": 1008564,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19488,
+        "length": null,
+        "match_id": 1008564,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19489,
+        "length": null,
+        "match_id": 1008564,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19490,
+        "length": null,
+        "match_id": 1008564,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19491,
+        "length": null,
+        "match_id": 1008564,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19492,
+        "length": null,
+        "match_id": 1008564,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19493,
+        "length": null,
+        "match_id": 1008564,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5274,
+      "image_url": null,
+      "modified_at": "2024-07-19T14:53:54Z",
+      "name": "Esports World Cup",
+      "slug": "ow-esports-world-cup",
+      "url": null
+    },
+    "id": 1008564,
+    "tournament": {
+      "begin_at": "2024-07-24T16:30:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-25T21:00:00Z",
+      "has_bracket": false,
+      "id": 14130,
+      "league_id": 5274,
+      "live_supported": false,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "Group D",
+      "prizepool": null,
+      "serie_id": 7761,
+      "slug": "ow-esports-world-cup-2024-group-d",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "name": "FNC vs VP",
+    "end_at": null,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "FNC",
+          "id": 134935,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134935/1199px_fnatic_2020_allmode.png",
+          "location": "GB",
+          "modified_at": "2024-07-19T14:47:17Z",
+          "name": "Fnatic",
+          "slug": "fnatic-ow"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "VP",
+          "id": 135135,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135135/600px_virtus.pro_2019_allmode.png",
+          "location": "AM",
+          "modified_at": "2024-07-19T14:47:19Z",
+          "name": "Virtus.pro",
+          "slug": "virtus-pro-ow"
+        },
+        "type": "Team"
+      }
+    ],
+    "tournament_id": 14130,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "serie": {
+      "begin_at": "2024-07-24T12:00:00Z",
+      "end_at": "2024-07-28T21:00:00Z",
+      "full_name": "2024",
+      "id": 7761,
+      "league_id": 5274,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "",
+      "season": null,
+      "slug": "ow-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "modified_at": "2024-07-19T14:53:41Z",
+    "number_of_games": 3,
+    "begin_at": "2024-07-24T16:30:00Z",
+    "rescheduled": false,
+    "winner_id": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134935
+      },
+      {
+        "score": 0,
+        "team_id": 135135
+      }
+    ],
+    "serie_id": 7761,
+    "scheduled_at": "2024-07-24T16:30:00Z",
+    "league_id": 5274,
+    "forfeit": false,
+    "videogame_version": null,
+    "videogame_title": {
+      "id": 9,
+      "name": "Overwatch2",
+      "slug": "ow-2",
+      "videogame_id": 14
+    },
+    "winner": null,
+    "videogame": {
+      "id": 14,
+      "name": "Overwatch",
+      "slug": "ow"
+    },
+    "streams_list": [],
+    "game_advantage": null,
+    "draw": false,
+    "winner_type": "Team",
+    "slug": "fnatic-vs-virtus-pro-2024-07-24",
+    "match_type": "first_to"
+  },
+  {
+    "detailed_stats": false,
+    "original_scheduled_at": "2024-07-24T16:30:00Z",
+    "status": "not_started",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19480,
+        "length": null,
+        "match_id": 1008563,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19481,
+        "length": null,
+        "match_id": 1008563,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19482,
+        "length": null,
+        "match_id": 1008563,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19483,
+        "length": null,
+        "match_id": 1008563,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19484,
+        "length": null,
+        "match_id": 1008563,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19485,
+        "length": null,
+        "match_id": 1008563,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19486,
+        "length": null,
+        "match_id": 1008563,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5274,
+      "image_url": null,
+      "modified_at": "2024-07-19T14:53:54Z",
+      "name": "Esports World Cup",
+      "slug": "ow-esports-world-cup",
+      "url": null
+    },
+    "id": 1008563,
+    "tournament": {
+      "begin_at": "2024-07-24T16:30:00Z",
+      "detailed_stats": false,
+      "end_at": "2024-07-25T21:00:00Z",
+      "has_bracket": false,
+      "id": 14130,
+      "league_id": 5274,
+      "live_supported": false,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "Group D",
+      "prizepool": null,
+      "serie_id": 7761,
+      "slug": "ow-esports-world-cup-2024-group-d",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "name": "SSG vs NTMR",
+    "end_at": null,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "SSG",
+          "id": 134624,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134624/190px_spacestation_gaming_2021_allmode.png",
+          "location": "US",
+          "modified_at": "2024-07-19T14:47:18Z",
+          "name": "Spacestation Gaming",
+          "slug": "spacestation-gaming-ow"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 135272,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135272/600px_ntmr_logo_allmode.png",
+          "location": "US",
+          "modified_at": "2024-07-19T14:47:18Z",
+          "name": "NTMR",
+          "slug": "ntmr"
+        },
+        "type": "Team"
+      }
+    ],
+    "tournament_id": 14130,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "serie": {
+      "begin_at": "2024-07-24T12:00:00Z",
+      "end_at": "2024-07-28T21:00:00Z",
+      "full_name": "2024",
+      "id": 7761,
+      "league_id": 5274,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "",
+      "season": null,
+      "slug": "ow-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "modified_at": "2024-07-19T14:53:41Z",
+    "number_of_games": 3,
+    "begin_at": "2024-07-24T16:30:00Z",
+    "rescheduled": false,
+    "winner_id": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134624
+      },
+      {
+        "score": 0,
+        "team_id": 135272
+      }
+    ],
+    "serie_id": 7761,
+    "scheduled_at": "2024-07-24T16:30:00Z",
+    "league_id": 5274,
+    "forfeit": false,
+    "videogame_version": null,
+    "videogame_title": {
+      "id": 9,
+      "name": "Overwatch2",
+      "slug": "ow-2",
+      "videogame_id": 14
+    },
+    "winner": null,
+    "videogame": {
+      "id": 14,
+      "name": "Overwatch",
+      "slug": "ow"
+    },
+    "streams_list": [],
+    "game_advantage": null,
+    "draw": false,
+    "winner_type": "Team",
+    "slug": "spacestation-gaming-vs-ntmr-2024-07-24",
+    "match_type": "first_to"
+  },
+  {
+    "detailed_stats": true,
+    "original_scheduled_at": "2024-07-24T18:00:00Z",
+    "status": "not_started",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19459,
+        "length": null,
+        "match_id": 1008559,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19460,
+        "length": null,
+        "match_id": 1008559,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19461,
+        "length": null,
+        "match_id": 1008559,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19462,
+        "length": null,
+        "match_id": 1008559,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19463,
+        "length": null,
+        "match_id": 1008559,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19464,
+        "length": null,
+        "match_id": 1008559,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19465,
+        "length": null,
+        "match_id": 1008559,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5274,
+      "image_url": null,
+      "modified_at": "2024-07-19T14:53:54Z",
+      "name": "Esports World Cup",
+      "slug": "ow-esports-world-cup",
+      "url": null
+    },
+    "id": 1008559,
+    "tournament": {
+      "begin_at": "2024-07-24T15:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-25T20:00:00Z",
+      "has_bracket": false,
+      "id": 14129,
+      "league_id": 5274,
+      "live_supported": false,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "Group C",
+      "prizepool": null,
+      "serie_id": 7761,
+      "slug": "ow-esports-world-cup-2024-group-c",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "name": "ZETA DIVISION vs M80",
+    "end_at": null,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 135271,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135271/600px_zeta_division_lightmode_full.png",
+          "location": "JP",
+          "modified_at": "2024-07-19T14:40:53Z",
+          "name": "ZETA DIVISION",
+          "slug": "zeta-division-ow"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "M80",
+          "id": 134643,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134643/600px_m80_2023_allmode.png",
+          "location": "US",
+          "modified_at": "2024-07-19T14:40:52Z",
+          "name": "M80",
+          "slug": "m80-ow"
+        },
+        "type": "Team"
+      }
+    ],
+    "tournament_id": 14129,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "serie": {
+      "begin_at": "2024-07-24T12:00:00Z",
+      "end_at": "2024-07-28T21:00:00Z",
+      "full_name": "2024",
+      "id": 7761,
+      "league_id": 5274,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "",
+      "season": null,
+      "slug": "ow-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "modified_at": "2024-07-19T14:53:41Z",
+    "number_of_games": 3,
+    "begin_at": "2024-07-24T18:00:00Z",
+    "rescheduled": false,
+    "winner_id": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 135271
+      },
+      {
+        "score": 0,
+        "team_id": 134643
+      }
+    ],
+    "serie_id": 7761,
+    "scheduled_at": "2024-07-24T18:00:00Z",
+    "league_id": 5274,
+    "forfeit": false,
+    "videogame_version": null,
+    "videogame_title": {
+      "id": 9,
+      "name": "Overwatch2",
+      "slug": "ow-2",
+      "videogame_id": 14
+    },
+    "winner": null,
+    "videogame": {
+      "id": 14,
+      "name": "Overwatch",
+      "slug": "ow"
+    },
+    "streams_list": [],
+    "game_advantage": null,
+    "draw": false,
+    "winner_type": "Team",
+    "slug": "zeta-division-vs-m80-2024-07-24",
+    "match_type": "first_to"
+  },
+  {
+    "detailed_stats": true,
+    "original_scheduled_at": "2024-07-24T18:00:00Z",
+    "status": "not_started",
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19452,
+        "length": null,
+        "match_id": 1008558,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19453,
+        "length": null,
+        "match_id": 1008558,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19454,
+        "length": null,
+        "match_id": 1008558,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19455,
+        "length": null,
+        "match_id": 1008558,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19456,
+        "length": null,
+        "match_id": 1008558,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19457,
+        "length": null,
+        "match_id": 1008558,
+        "position": 6,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 19458,
+        "length": null,
+        "match_id": 1008558,
+        "position": 7,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "league": {
+      "id": 5274,
+      "image_url": null,
+      "modified_at": "2024-07-19T14:53:54Z",
+      "name": "Esports World Cup",
+      "slug": "ow-esports-world-cup",
+      "url": null
+    },
+    "id": 1008558,
+    "tournament": {
+      "begin_at": "2024-07-24T15:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-07-25T20:00:00Z",
+      "has_bracket": false,
+      "id": 14129,
+      "league_id": 5274,
+      "live_supported": false,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "Group C",
+      "prizepool": null,
+      "serie_id": 7761,
+      "slug": "ow-esports-world-cup-2024-group-c",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "name": "ENCE vs Bleed Esports",
+    "end_at": null,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "ENCE",
+          "id": 134703,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134703/599px_ence_2020_allmode.png",
+          "location": "FI",
+          "modified_at": "2024-07-19T14:40:51Z",
+          "name": "ENCE",
+          "slug": "ence-ow"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 135270,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135270/600px_bleed_esports_2024_full_lightmode.png",
+          "location": "SG",
+          "modified_at": "2024-07-19T14:40:52Z",
+          "name": "Bleed Esports",
+          "slug": "bleed-esports-ow"
+        },
+        "type": "Team"
+      }
+    ],
+    "tournament_id": 14129,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "serie": {
+      "begin_at": "2024-07-24T12:00:00Z",
+      "end_at": "2024-07-28T21:00:00Z",
+      "full_name": "2024",
+      "id": 7761,
+      "league_id": 5274,
+      "modified_at": "2024-07-19T14:53:41Z",
+      "name": "",
+      "season": null,
+      "slug": "ow-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "modified_at": "2024-07-19T14:53:41Z",
+    "number_of_games": 3,
+    "begin_at": "2024-07-24T18:00:00Z",
+    "rescheduled": false,
+    "winner_id": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134703
+      },
+      {
+        "score": 0,
+        "team_id": 135270
+      }
+    ],
+    "serie_id": 7761,
+    "scheduled_at": "2024-07-24T18:00:00Z",
+    "league_id": 5274,
+    "forfeit": false,
+    "videogame_version": null,
+    "videogame_title": {
+      "id": 9,
+      "name": "Overwatch2",
+      "slug": "ow-2",
+      "videogame_id": 14
+    },
+    "winner": null,
+    "videogame": {
+      "id": 14,
+      "name": "Overwatch",
+      "slug": "ow"
+    },
+    "streams_list": [],
+    "game_advantage": null,
+    "draw": false,
+    "winner_type": "Team",
+    "slug": "ence-vs-bleed-esports-2024-07-24",
+    "match_type": "first_to"
+  }
+]

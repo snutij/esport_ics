@@ -42,6 +42,11 @@ namespace :esport_ics do
       EsportIcs::Games::LeagueOfLegendsWildRift.new.build!.write!
     end
 
+    desc "Generate Overwatch 2 ics files"
+    task :overwatch_2 do
+      EsportIcs::Games::Overwatch2.new.build!.write!
+    end
+
     desc "Generate R6Siege ics files"
     task :rainbow_six_siege do
       EsportIcs::Games::RainbowSixSiege.new.build!.write!
@@ -58,6 +63,7 @@ namespace :esport_ics do
       "generate:dota_2",
       "generate:league_of_legends",
       "generate:league_of_legends_wildrift",
+      "generate:overwatch_2",
       "generate:rainbow_six_siege",
       "generate:valorant",
     ]
