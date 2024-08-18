@@ -1,0 +1,2019 @@
+[
+  {
+    "winner": null,
+    "videogame": {
+      "id": 22,
+      "name": "Rocket League",
+      "slug": "rl"
+    },
+    "status": "not_started",
+    "slug": "g2-stride-vs-limitless-2024-08-22",
+    "number_of_games": 5,
+    "tournament": {
+      "begin_at": "2024-08-22T13:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-08-25T21:30:00Z",
+      "has_bracket": true,
+      "id": 14289,
+      "league_id": 5284,
+      "live_supported": false,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "Group A",
+      "prizepool": null,
+      "serie_id": 7829,
+      "slug": "rl-esports-world-cup-2024-group-a",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "forfeit": false,
+    "id": 1020703,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "G2S",
+          "id": 134435,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134435/g2_esportslogo_square.png",
+          "location": "US",
+          "modified_at": "2024-08-10T07:29:19Z",
+          "name": "G2 Stride",
+          "slug": "g2-stride"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 133444,
+          "image_url": "https://cdn.pandascore.co/images/team/image/133444/190px_limitless_2022_darkmode.png",
+          "location": "US",
+          "modified_at": "2024-08-10T07:29:19Z",
+          "name": "Limitless",
+          "slug": "limitless-rl"
+        },
+        "type": "Team"
+      }
+    ],
+    "name": "Upper bracket semifinal 1: G2S vs Limitless",
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=EWC_gold_en2",
+        "language": "en",
+        "main": false,
+        "official": false,
+        "raw_url": "https://www.twitch.tv/EWC_gold_en2"
+      },
+      {
+        "embed_url": "https://player.twitch.tv/?channel=EWC_gold",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/EWC_gold"
+      }
+    ],
+    "original_scheduled_at": "2024-08-22T13:00:00Z",
+    "game_advantage": null,
+    "winner_id": null,
+    "draw": false,
+    "videogame_title": null,
+    "rescheduled": false,
+    "league_id": 5284,
+    "match_type": "best_of",
+    "modified_at": "2024-08-10T07:49:50Z",
+    "league": {
+      "id": 5284,
+      "image_url": null,
+      "modified_at": "2024-08-10T07:49:57Z",
+      "name": "Esports World Cup",
+      "slug": "rl-esports-world-cup",
+      "url": null
+    },
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31387,
+        "length": null,
+        "match_id": 1020703,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31388,
+        "length": null,
+        "match_id": 1020703,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31389,
+        "length": null,
+        "match_id": 1020703,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31390,
+        "length": null,
+        "match_id": 1020703,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31391,
+        "length": null,
+        "match_id": 1020703,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "winner_type": "Team",
+    "end_at": null,
+    "tournament_id": 14289,
+    "serie": {
+      "begin_at": "2024-08-22T13:00:00Z",
+      "end_at": "2024-08-25T21:30:00Z",
+      "full_name": "2024",
+      "id": 7829,
+      "league_id": 5284,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "",
+      "season": null,
+      "slug": "rl-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "scheduled_at": "2024-08-22T13:00:00Z",
+    "detailed_stats": true,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "begin_at": "2024-08-22T13:00:00Z",
+    "videogame_version": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134435
+      },
+      {
+        "score": 0,
+        "team_id": 133444
+      }
+    ],
+    "serie_id": 7829
+  },
+  {
+    "winner": null,
+    "videogame": {
+      "id": 22,
+      "name": "Rocket League",
+      "slug": "rl"
+    },
+    "status": "not_started",
+    "slug": "team-bds-vs-pwr-2024-08-22",
+    "number_of_games": 5,
+    "tournament": {
+      "begin_at": "2024-08-22T13:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-08-25T21:30:00Z",
+      "has_bracket": true,
+      "id": 14289,
+      "league_id": 5284,
+      "live_supported": false,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "Group A",
+      "prizepool": null,
+      "serie_id": 7829,
+      "slug": "rl-esports-world-cup-2024-group-a",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "forfeit": false,
+    "id": 1020704,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "BDS",
+          "id": 127413,
+          "image_url": "https://cdn.pandascore.co/images/team/image/127413/team_bd_slogo_square.png",
+          "location": "CH",
+          "modified_at": "2024-08-10T07:29:20Z",
+          "name": "Team BDS",
+          "slug": "team-bds"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "PWR",
+          "id": 131229,
+          "image_url": "https://cdn.pandascore.co/images/team/image/131229/pwr_full_lightmode.png",
+          "location": "AU",
+          "modified_at": "2024-08-10T07:29:20Z",
+          "name": "PWR",
+          "slug": "pwr"
+        },
+        "type": "Team"
+      }
+    ],
+    "name": "Upper bracket semifinal 2: BDS vs PWR",
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=EWC_gold_en2",
+        "language": "en",
+        "main": false,
+        "official": false,
+        "raw_url": "https://www.twitch.tv/EWC_gold_en2"
+      },
+      {
+        "embed_url": "https://player.twitch.tv/?channel=EWC_gold",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/EWC_gold"
+      }
+    ],
+    "original_scheduled_at": "2024-08-22T14:00:00Z",
+    "game_advantage": null,
+    "winner_id": null,
+    "draw": false,
+    "videogame_title": null,
+    "rescheduled": false,
+    "league_id": 5284,
+    "match_type": "best_of",
+    "modified_at": "2024-08-10T07:49:50Z",
+    "league": {
+      "id": 5284,
+      "image_url": null,
+      "modified_at": "2024-08-10T07:49:57Z",
+      "name": "Esports World Cup",
+      "slug": "rl-esports-world-cup",
+      "url": null
+    },
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31392,
+        "length": null,
+        "match_id": 1020704,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31393,
+        "length": null,
+        "match_id": 1020704,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31394,
+        "length": null,
+        "match_id": 1020704,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31395,
+        "length": null,
+        "match_id": 1020704,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31396,
+        "length": null,
+        "match_id": 1020704,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "winner_type": "Team",
+    "end_at": null,
+    "tournament_id": 14289,
+    "serie": {
+      "begin_at": "2024-08-22T13:00:00Z",
+      "end_at": "2024-08-25T21:30:00Z",
+      "full_name": "2024",
+      "id": 7829,
+      "league_id": 5284,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "",
+      "season": null,
+      "slug": "rl-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "scheduled_at": "2024-08-22T14:00:00Z",
+    "detailed_stats": true,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "begin_at": "2024-08-22T14:00:00Z",
+    "videogame_version": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 127413
+      },
+      {
+        "score": 0,
+        "team_id": 131229
+      }
+    ],
+    "serie_id": 7829
+  },
+  {
+    "winner": null,
+    "videogame": {
+      "id": 22,
+      "name": "Rocket League",
+      "slug": "rl"
+    },
+    "status": "not_started",
+    "slug": "team-falcons-vs-across-the-pond-2024-08-22",
+    "number_of_games": 5,
+    "tournament": {
+      "begin_at": "2024-08-22T15:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-08-24T18:00:00Z",
+      "has_bracket": true,
+      "id": 14290,
+      "league_id": 5284,
+      "live_supported": false,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "Group B",
+      "prizepool": null,
+      "serie_id": 7829,
+      "slug": "rl-esports-world-cup-2024-group-b",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "forfeit": false,
+    "id": 1020708,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "FLCN",
+          "id": 131231,
+          "image_url": "https://cdn.pandascore.co/images/team/image/131231/team_falconslogo_square.png",
+          "location": "SA",
+          "modified_at": "2024-08-10T07:34:55Z",
+          "name": "Team Falcons",
+          "slug": "team-falcons-rl"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "ATP",
+          "id": 135360,
+          "image_url": null,
+          "location": "",
+          "modified_at": "2024-08-10T07:34:56Z",
+          "name": "Across the Pond",
+          "slug": "across-the-pond"
+        },
+        "type": "Team"
+      }
+    ],
+    "name": "Upper bracket semifinal 1: FLCN vs ATP",
+    "streams_list": [],
+    "original_scheduled_at": "2024-08-22T15:00:00Z",
+    "game_advantage": null,
+    "winner_id": null,
+    "draw": false,
+    "videogame_title": null,
+    "rescheduled": false,
+    "league_id": 5284,
+    "match_type": "best_of",
+    "modified_at": "2024-08-10T07:49:50Z",
+    "league": {
+      "id": 5284,
+      "image_url": null,
+      "modified_at": "2024-08-10T07:49:57Z",
+      "name": "Esports World Cup",
+      "slug": "rl-esports-world-cup",
+      "url": null
+    },
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31412,
+        "length": null,
+        "match_id": 1020708,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31413,
+        "length": null,
+        "match_id": 1020708,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31414,
+        "length": null,
+        "match_id": 1020708,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31415,
+        "length": null,
+        "match_id": 1020708,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31416,
+        "length": null,
+        "match_id": 1020708,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "winner_type": "Team",
+    "end_at": null,
+    "tournament_id": 14290,
+    "serie": {
+      "begin_at": "2024-08-22T13:00:00Z",
+      "end_at": "2024-08-25T21:30:00Z",
+      "full_name": "2024",
+      "id": 7829,
+      "league_id": 5284,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "",
+      "season": null,
+      "slug": "rl-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "scheduled_at": "2024-08-22T15:00:00Z",
+    "detailed_stats": true,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "begin_at": "2024-08-22T15:00:00Z",
+    "videogame_version": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 131231
+      },
+      {
+        "score": 0,
+        "team_id": 135360
+      }
+    ],
+    "serie_id": 7829
+  },
+  {
+    "winner": null,
+    "videogame": {
+      "id": 22,
+      "name": "Rocket League",
+      "slug": "rl"
+    },
+    "status": "not_started",
+    "slug": "gen-g-mobil1-racing-vs-team-secret-2024-08-22",
+    "number_of_games": 5,
+    "tournament": {
+      "begin_at": "2024-08-22T15:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-08-24T18:00:00Z",
+      "has_bracket": true,
+      "id": 14290,
+      "league_id": 5284,
+      "live_supported": false,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "Group B",
+      "prizepool": null,
+      "serie_id": 7829,
+      "slug": "rl-esports-world-cup-2024-group-b",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "forfeit": false,
+    "id": 1020709,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "GENG",
+          "id": 133385,
+          "image_url": "https://cdn.pandascore.co/images/team/image/133385/600px_gen.g_mobil1_racing_2023_full_lightmode.png",
+          "location": "US",
+          "modified_at": "2024-08-10T07:34:55Z",
+          "name": "Gen.G Mobil1 Racing",
+          "slug": "gen-g-mobil1-racing"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "TS",
+          "id": 130656,
+          "image_url": "https://cdn.pandascore.co/images/team/image/130656/190px_team_secret_lightmode.png",
+          "location": "US",
+          "modified_at": "2024-08-10T07:34:55Z",
+          "name": "Team Secret",
+          "slug": "team-secret-rl"
+        },
+        "type": "Team"
+      }
+    ],
+    "name": "Upper bracket semifinal 2: GENG vs TS",
+    "streams_list": [],
+    "original_scheduled_at": "2024-08-22T16:00:00Z",
+    "game_advantage": null,
+    "winner_id": null,
+    "draw": false,
+    "videogame_title": null,
+    "rescheduled": false,
+    "league_id": 5284,
+    "match_type": "best_of",
+    "modified_at": "2024-08-10T07:49:50Z",
+    "league": {
+      "id": 5284,
+      "image_url": null,
+      "modified_at": "2024-08-10T07:49:57Z",
+      "name": "Esports World Cup",
+      "slug": "rl-esports-world-cup",
+      "url": null
+    },
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31417,
+        "length": null,
+        "match_id": 1020709,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31418,
+        "length": null,
+        "match_id": 1020709,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31419,
+        "length": null,
+        "match_id": 1020709,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31420,
+        "length": null,
+        "match_id": 1020709,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31421,
+        "length": null,
+        "match_id": 1020709,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "winner_type": "Team",
+    "end_at": null,
+    "tournament_id": 14290,
+    "serie": {
+      "begin_at": "2024-08-22T13:00:00Z",
+      "end_at": "2024-08-25T21:30:00Z",
+      "full_name": "2024",
+      "id": 7829,
+      "league_id": 5284,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "",
+      "season": null,
+      "slug": "rl-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "scheduled_at": "2024-08-22T16:00:00Z",
+    "detailed_stats": true,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "begin_at": "2024-08-22T16:00:00Z",
+    "videogame_version": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 133385
+      },
+      {
+        "score": 0,
+        "team_id": 130656
+      }
+    ],
+    "serie_id": 7829
+  },
+  {
+    "winner": null,
+    "videogame": {
+      "id": 22,
+      "name": "Rocket League",
+      "slug": "rl"
+    },
+    "status": "not_started",
+    "slug": "furia-esports-vs-nkosi-ballers-2024-08-22",
+    "number_of_games": 5,
+    "tournament": {
+      "begin_at": "2024-08-22T17:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-08-24T19:00:00Z",
+      "has_bracket": true,
+      "id": 14291,
+      "league_id": 5284,
+      "live_supported": false,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "Group C",
+      "prizepool": null,
+      "serie_id": 7829,
+      "slug": "rl-esports-world-cup-2024-group-c",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "forfeit": false,
+    "id": 1020715,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "FURIA",
+          "id": 128933,
+          "image_url": "https://cdn.pandascore.co/images/team/image/128933/furia_esportslogo_square.png",
+          "location": "BR",
+          "modified_at": "2024-08-10T07:40:25Z",
+          "name": "FURIA Esports",
+          "slug": "furia-esports-rl"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 135361,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135361/600px_nkosi_ballers_allmode.png",
+          "location": "ZA",
+          "modified_at": "2024-08-10T07:40:25Z",
+          "name": "Nkosi Ballers",
+          "slug": "nkosi-ballers"
+        },
+        "type": "Team"
+      }
+    ],
+    "name": "Upper bracket semifinal 1: FURIA vs Nkosi Ballers",
+    "streams_list": [],
+    "original_scheduled_at": "2024-08-22T17:00:00Z",
+    "game_advantage": null,
+    "winner_id": null,
+    "draw": false,
+    "videogame_title": null,
+    "rescheduled": false,
+    "league_id": 5284,
+    "match_type": "best_of",
+    "modified_at": "2024-08-10T07:49:51Z",
+    "league": {
+      "id": 5284,
+      "image_url": null,
+      "modified_at": "2024-08-10T07:49:57Z",
+      "name": "Esports World Cup",
+      "slug": "rl-esports-world-cup",
+      "url": null
+    },
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31437,
+        "length": null,
+        "match_id": 1020715,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31438,
+        "length": null,
+        "match_id": 1020715,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31439,
+        "length": null,
+        "match_id": 1020715,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31440,
+        "length": null,
+        "match_id": 1020715,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31441,
+        "length": null,
+        "match_id": 1020715,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "winner_type": "Team",
+    "end_at": null,
+    "tournament_id": 14291,
+    "serie": {
+      "begin_at": "2024-08-22T13:00:00Z",
+      "end_at": "2024-08-25T21:30:00Z",
+      "full_name": "2024",
+      "id": 7829,
+      "league_id": 5284,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "",
+      "season": null,
+      "slug": "rl-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "scheduled_at": "2024-08-22T17:00:00Z",
+    "detailed_stats": true,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "begin_at": "2024-08-22T17:00:00Z",
+    "videogame_version": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 128933
+      },
+      {
+        "score": 0,
+        "team_id": 135361
+      }
+    ],
+    "serie_id": 7829
+  },
+  {
+    "winner": null,
+    "videogame": {
+      "id": 22,
+      "name": "Rocket League",
+      "slug": "rl"
+    },
+    "status": "not_started",
+    "slug": "vitality-vs-twisted-minds-2024-08-22",
+    "number_of_games": 5,
+    "tournament": {
+      "begin_at": "2024-08-22T17:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-08-24T19:00:00Z",
+      "has_bracket": true,
+      "id": 14291,
+      "league_id": 5284,
+      "live_supported": false,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "Group C",
+      "prizepool": null,
+      "serie_id": 7829,
+      "slug": "rl-esports-world-cup-2024-group-c",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "forfeit": false,
+    "id": 1020716,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "VIT",
+          "id": 129919,
+          "image_url": "https://cdn.pandascore.co/images/team/image/129919/team_vitalitylogo_square.png",
+          "location": "FR",
+          "modified_at": "2024-08-10T07:40:25Z",
+          "name": "Vitality",
+          "slug": "vitality-rl"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "TWIS",
+          "id": 131331,
+          "image_url": "https://cdn.pandascore.co/images/team/image/131331/twisted_mindslogo_profile.png",
+          "location": "SA",
+          "modified_at": "2024-08-10T07:40:26Z",
+          "name": "Twisted Minds",
+          "slug": "twisted-minds"
+        },
+        "type": "Team"
+      }
+    ],
+    "name": "Upper bracket semifinal 2: VIT vs TWIS",
+    "streams_list": [],
+    "original_scheduled_at": "2024-08-22T18:00:00Z",
+    "game_advantage": null,
+    "winner_id": null,
+    "draw": false,
+    "videogame_title": null,
+    "rescheduled": false,
+    "league_id": 5284,
+    "match_type": "best_of",
+    "modified_at": "2024-08-10T07:49:51Z",
+    "league": {
+      "id": 5284,
+      "image_url": null,
+      "modified_at": "2024-08-10T07:49:57Z",
+      "name": "Esports World Cup",
+      "slug": "rl-esports-world-cup",
+      "url": null
+    },
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31442,
+        "length": null,
+        "match_id": 1020716,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31443,
+        "length": null,
+        "match_id": 1020716,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31444,
+        "length": null,
+        "match_id": 1020716,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31445,
+        "length": null,
+        "match_id": 1020716,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31446,
+        "length": null,
+        "match_id": 1020716,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "winner_type": "Team",
+    "end_at": null,
+    "tournament_id": 14291,
+    "serie": {
+      "begin_at": "2024-08-22T13:00:00Z",
+      "end_at": "2024-08-25T21:30:00Z",
+      "full_name": "2024",
+      "id": 7829,
+      "league_id": 5284,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "",
+      "season": null,
+      "slug": "rl-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "scheduled_at": "2024-08-22T18:00:00Z",
+    "detailed_stats": true,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "begin_at": "2024-08-22T18:00:00Z",
+    "videogame_version": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 129919
+      },
+      {
+        "score": 0,
+        "team_id": 131331
+      }
+    ],
+    "serie_id": 7829
+  },
+  {
+    "winner": null,
+    "videogame": {
+      "id": 22,
+      "name": "Rocket League",
+      "slug": "rl"
+    },
+    "status": "not_started",
+    "slug": "gentle-mates-alpine-vs-chiefs-2024-08-22",
+    "number_of_games": 5,
+    "tournament": {
+      "begin_at": "2024-08-22T19:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-08-24T20:00:00Z",
+      "has_bracket": true,
+      "id": 14292,
+      "league_id": 5284,
+      "live_supported": false,
+      "modified_at": "2024-08-10T07:49:51Z",
+      "name": "Group D",
+      "prizepool": null,
+      "serie_id": 7829,
+      "slug": "rl-esports-world-cup-2024-group-d",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "forfeit": false,
+    "id": 1020720,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "M8",
+          "id": 134452,
+          "image_url": "https://cdn.pandascore.co/images/team/image/134452/gentle_mates_alpine_2024_lightmode.png",
+          "location": "FR",
+          "modified_at": "2024-08-10T07:45:21Z",
+          "name": "Gentle Mates Alpine",
+          "slug": "gentle-mates-alpine"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "CHF",
+          "id": 135056,
+          "image_url": "https://cdn.pandascore.co/images/team/image/135056/600px_chiefs_esports_club_2024_allmode.png",
+          "location": "AU",
+          "modified_at": "2024-08-10T07:45:21Z",
+          "name": "Chiefs",
+          "slug": "chiefs-rl"
+        },
+        "type": "Team"
+      }
+    ],
+    "name": "Upper bracket semifinal 1: M8 vs CHF",
+    "streams_list": [],
+    "original_scheduled_at": "2024-08-22T19:00:00Z",
+    "game_advantage": null,
+    "winner_id": null,
+    "draw": false,
+    "videogame_title": null,
+    "rescheduled": false,
+    "league_id": 5284,
+    "match_type": "best_of",
+    "modified_at": "2024-08-10T07:49:51Z",
+    "league": {
+      "id": 5284,
+      "image_url": null,
+      "modified_at": "2024-08-10T07:49:57Z",
+      "name": "Esports World Cup",
+      "slug": "rl-esports-world-cup",
+      "url": null
+    },
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31462,
+        "length": null,
+        "match_id": 1020720,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31463,
+        "length": null,
+        "match_id": 1020720,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31464,
+        "length": null,
+        "match_id": 1020720,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31465,
+        "length": null,
+        "match_id": 1020720,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31466,
+        "length": null,
+        "match_id": 1020720,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "winner_type": "Team",
+    "end_at": null,
+    "tournament_id": 14292,
+    "serie": {
+      "begin_at": "2024-08-22T13:00:00Z",
+      "end_at": "2024-08-25T21:30:00Z",
+      "full_name": "2024",
+      "id": 7829,
+      "league_id": 5284,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "",
+      "season": null,
+      "slug": "rl-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "scheduled_at": "2024-08-22T19:00:00Z",
+    "detailed_stats": true,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "begin_at": "2024-08-22T19:00:00Z",
+    "videogame_version": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 134452
+      },
+      {
+        "score": 0,
+        "team_id": 135056
+      }
+    ],
+    "serie_id": 7829
+  },
+  {
+    "winner": null,
+    "videogame": {
+      "id": 22,
+      "name": "Rocket League",
+      "slug": "rl"
+    },
+    "status": "not_started",
+    "slug": "spacestation-gaming-vs-gaimin-gladiators-2024-08-22",
+    "number_of_games": 5,
+    "tournament": {
+      "begin_at": "2024-08-22T19:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-08-24T20:00:00Z",
+      "has_bracket": true,
+      "id": 14292,
+      "league_id": 5284,
+      "live_supported": false,
+      "modified_at": "2024-08-10T07:49:51Z",
+      "name": "Group D",
+      "prizepool": null,
+      "serie_id": 7829,
+      "slug": "rl-esports-world-cup-2024-group-d",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "forfeit": false,
+    "id": 1020721,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "SSG",
+          "id": 126303,
+          "image_url": "https://cdn.pandascore.co/images/team/image/126303/196px_spacestation_gaming.png",
+          "location": "US",
+          "modified_at": "2024-08-10T07:45:22Z",
+          "name": "Spacestation Gaming",
+          "slug": "spacestation-gaming-rl"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "GLA",
+          "id": 131230,
+          "image_url": "https://cdn.pandascore.co/images/team/image/131230/gladiators_2022_allmode.png",
+          "location": "",
+          "modified_at": "2024-08-10T07:45:22Z",
+          "name": "Gaimin Gladiators",
+          "slug": "gaimin-gladiators-rl"
+        },
+        "type": "Team"
+      }
+    ],
+    "name": "Upper bracket semifinal 2: SSG vs GLA",
+    "streams_list": [],
+    "original_scheduled_at": "2024-08-22T20:00:00Z",
+    "game_advantage": null,
+    "winner_id": null,
+    "draw": false,
+    "videogame_title": null,
+    "rescheduled": false,
+    "league_id": 5284,
+    "match_type": "best_of",
+    "modified_at": "2024-08-10T07:49:51Z",
+    "league": {
+      "id": 5284,
+      "image_url": null,
+      "modified_at": "2024-08-10T07:49:57Z",
+      "name": "Esports World Cup",
+      "slug": "rl-esports-world-cup",
+      "url": null
+    },
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31467,
+        "length": null,
+        "match_id": 1020721,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31468,
+        "length": null,
+        "match_id": 1020721,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31469,
+        "length": null,
+        "match_id": 1020721,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31470,
+        "length": null,
+        "match_id": 1020721,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31471,
+        "length": null,
+        "match_id": 1020721,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "winner_type": "Team",
+    "end_at": null,
+    "tournament_id": 14292,
+    "serie": {
+      "begin_at": "2024-08-22T13:00:00Z",
+      "end_at": "2024-08-25T21:30:00Z",
+      "full_name": "2024",
+      "id": 7829,
+      "league_id": 5284,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "",
+      "season": null,
+      "slug": "rl-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "scheduled_at": "2024-08-22T20:00:00Z",
+    "detailed_stats": true,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "begin_at": "2024-08-22T20:00:00Z",
+    "videogame_version": null,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 126303
+      },
+      {
+        "score": 0,
+        "team_id": 131230
+      }
+    ],
+    "serie_id": 7829
+  },
+  {
+    "winner": null,
+    "videogame": {
+      "id": 22,
+      "name": "Rocket League",
+      "slug": "rl"
+    },
+    "status": "not_started",
+    "slug": "2024-08-23-d10feb3c-0234-41f1-a03b-e1f96f69139d",
+    "number_of_games": 5,
+    "tournament": {
+      "begin_at": "2024-08-22T13:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-08-25T21:30:00Z",
+      "has_bracket": true,
+      "id": 14289,
+      "league_id": 5284,
+      "live_supported": false,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "Group A",
+      "prizepool": null,
+      "serie_id": 7829,
+      "slug": "rl-esports-world-cup-2024-group-a",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "forfeit": false,
+    "id": 1020705,
+    "opponents": [],
+    "name": "Upper bracket final: TBD vs TBD",
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=EWC_gold_en2",
+        "language": "en",
+        "main": false,
+        "official": false,
+        "raw_url": "https://www.twitch.tv/EWC_gold_en2"
+      },
+      {
+        "embed_url": "https://player.twitch.tv/?channel=EWC_gold",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/EWC_gold"
+      }
+    ],
+    "original_scheduled_at": "2024-08-23T13:00:00Z",
+    "game_advantage": null,
+    "winner_id": null,
+    "draw": false,
+    "videogame_title": null,
+    "rescheduled": false,
+    "league_id": 5284,
+    "match_type": "best_of",
+    "modified_at": "2024-08-10T07:49:50Z",
+    "league": {
+      "id": 5284,
+      "image_url": null,
+      "modified_at": "2024-08-10T07:49:57Z",
+      "name": "Esports World Cup",
+      "slug": "rl-esports-world-cup",
+      "url": null
+    },
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31397,
+        "length": null,
+        "match_id": 1020705,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31398,
+        "length": null,
+        "match_id": 1020705,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31399,
+        "length": null,
+        "match_id": 1020705,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31400,
+        "length": null,
+        "match_id": 1020705,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31401,
+        "length": null,
+        "match_id": 1020705,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "winner_type": "Team",
+    "end_at": null,
+    "tournament_id": 14289,
+    "serie": {
+      "begin_at": "2024-08-22T13:00:00Z",
+      "end_at": "2024-08-25T21:30:00Z",
+      "full_name": "2024",
+      "id": 7829,
+      "league_id": 5284,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "",
+      "season": null,
+      "slug": "rl-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "scheduled_at": "2024-08-23T13:00:00Z",
+    "detailed_stats": true,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "begin_at": "2024-08-23T13:00:00Z",
+    "videogame_version": null,
+    "results": [],
+    "serie_id": 7829
+  },
+  {
+    "winner": null,
+    "videogame": {
+      "id": 22,
+      "name": "Rocket League",
+      "slug": "rl"
+    },
+    "status": "not_started",
+    "slug": "2024-08-23-a3fd01bd-892a-4726-bba6-c6abda97c73d",
+    "number_of_games": 5,
+    "tournament": {
+      "begin_at": "2024-08-22T15:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2024-08-24T18:00:00Z",
+      "has_bracket": true,
+      "id": 14290,
+      "league_id": 5284,
+      "live_supported": false,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "Group B",
+      "prizepool": null,
+      "serie_id": 7829,
+      "slug": "rl-esports-world-cup-2024-group-b",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "forfeit": false,
+    "id": 1020710,
+    "opponents": [],
+    "name": "Upper bracket final: TBD vs TBD",
+    "streams_list": [],
+    "original_scheduled_at": "2024-08-23T14:00:00Z",
+    "game_advantage": null,
+    "winner_id": null,
+    "draw": false,
+    "videogame_title": null,
+    "rescheduled": false,
+    "league_id": 5284,
+    "match_type": "best_of",
+    "modified_at": "2024-08-10T07:49:50Z",
+    "league": {
+      "id": 5284,
+      "image_url": null,
+      "modified_at": "2024-08-10T07:49:57Z",
+      "name": "Esports World Cup",
+      "slug": "rl-esports-world-cup",
+      "url": null
+    },
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31422,
+        "length": null,
+        "match_id": 1020710,
+        "position": 1,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31423,
+        "length": null,
+        "match_id": 1020710,
+        "position": 2,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31424,
+        "length": null,
+        "match_id": 1020710,
+        "position": 3,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31425,
+        "length": null,
+        "match_id": 1020710,
+        "position": 4,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": true,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 31426,
+        "length": null,
+        "match_id": 1020710,
+        "position": 5,
+        "status": "not_started",
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "winner_type": "Team",
+    "end_at": null,
+    "tournament_id": 14290,
+    "serie": {
+      "begin_at": "2024-08-22T13:00:00Z",
+      "end_at": "2024-08-25T21:30:00Z",
+      "full_name": "2024",
+      "id": 7829,
+      "league_id": 5284,
+      "modified_at": "2024-08-10T07:49:50Z",
+      "name": "",
+      "season": null,
+      "slug": "rl-esports-world-cup-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "scheduled_at": "2024-08-23T14:00:00Z",
+    "detailed_stats": true,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "begin_at": "2024-08-23T14:00:00Z",
+    "videogame_version": null,
+    "results": [],
+    "serie_id": 7829
+  }
+]

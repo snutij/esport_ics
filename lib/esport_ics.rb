@@ -9,5 +9,6 @@ module EsportIcs
   require_relative "esport_ics/games/league_of_legends_wildrift"
   require_relative "esport_ics/games/overwatch_2"
   require_relative "esport_ics/games/rainbow_six_siege"
+  require_relative "esport_ics/games/rocket_league"
   require_relative "esport_ics/games/valorant"
 end
