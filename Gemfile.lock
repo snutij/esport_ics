@@ -6,7 +6,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (8.0.0)
+    activesupport (8.0.0.1)
       base64
       benchmark (>= 0.3)
       bigdecimal
@@ -48,7 +48,7 @@ GEM
       reline (>= 0.4.2)
     json (2.9.0)
     language_server-protocol (3.17.0.3)
-    logger (1.6.1)
+    logger (1.6.2)
     minitest (5.25.4)
     mocha (2.7.1)
       ruby2_keywords (>= 0.0.5)
@@ -93,14 +93,14 @@ GEM
       rubocop (~> 1.51)
     ruby-progressbar (1.13.0)
     ruby2_keywords (0.0.5)
-    securerandom (0.3.1)
+    securerandom (0.4.0)
     stringio (3.1.1)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (3.1.2)
       unicode-emoji (~> 4.0, >= 4.0.4)
     unicode-emoji (4.0.4)
-    uri (1.0.0)
+    uri (1.0.2)
     webmock (3.24.0)
       addressable (>= 2.8.0)
       crack (>= 0.3.2)
