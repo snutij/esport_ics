@@ -34,13 +34,15 @@ GEM
     debug (1.10.0)
       irb (~> 1.10)
       reline (>= 0.3.8)
-    dotenv (3.1.7)
+    dotenv (3.1.8)
     drb (2.2.1)
     hashdiff (1.1.2)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
-    icalendar (2.10.3)
+    icalendar (2.11.0)
+      base64
       ice_cube (~> 0.16)
+      logger
       ostruct
     ice_cube (0.17.0)
     io-console (0.8.0)
@@ -54,7 +56,7 @@ GEM
     minitest (5.25.5)
     mocha (2.7.1)
       ruby2_keywords (>= 0.0.5)
-    ostruct (0.6.0)
+    ostruct (0.6.1)
     parallel (1.26.3)
     parser (3.3.7.4)
       ast (~> 2.4.1)
