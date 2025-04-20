@@ -28,7 +28,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add ics/
-          git commit -m 'Update ICS files'
+          git commit -m 'chore: update ICS files'
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
