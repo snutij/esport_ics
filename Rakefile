@@ -74,6 +74,12 @@ namespace :esport_ics do
       "generate:rocket_league",
       "generate:valorant",
     ]
+
+    desc "Generate static HTML page"
+    task :html do
+      require_relative "lib/esport_ics/html_generator"
+      EsportIcs::HtmlGenerator.new.build!.write!
+    end
   end
 end
 
