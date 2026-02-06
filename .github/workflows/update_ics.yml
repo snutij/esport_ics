@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@a4effe49ee8ee5b8b5091268c473a4628afb5651 # v1.204.0
@@ -28,7 +30,4 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add ics/
-          git commit -m 'chore: update ICS files'
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git diff --staged --quiet || (git commit -m 'chore: update ICS files' && git push)
