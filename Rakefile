@@ -20,6 +20,7 @@ end
 namespace :esport_ics do
   namespace :generate do
     namespace :ics do
+      desc "Load esport_ics gem"
       task :setup do
         require "esport_ics"
       end
@@ -70,17 +71,17 @@ namespace :esport_ics do
       end
 
       desc "Run all ICS generators"
-      task all: %i[
-        call_of_duty_mw
-        counter_strike
-        dota_2
-        league_of_legends
-        league_of_legends_wildrift
-        overwatch_2
-        rainbow_six_siege
-        rocket_league
-        valorant
-      ]
+      task(all: [
+        :call_of_duty_mw,
+        :counter_strike,
+        :dota_2,
+        :league_of_legends,
+        :league_of_legends_wildrift,
+        :overwatch_2,
+        :rainbow_six_siege,
+        :rocket_league,
+        :valorant,
+      ])
     end
 
     desc "Generate static HTML page"
