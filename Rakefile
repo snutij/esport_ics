@@ -90,6 +90,6 @@ namespace :esport_ics do
     end
 
     desc "Run all generators"
-    task all: ["generate:ics:all"]
+    task all: ["ics:all"]
   end
 end
