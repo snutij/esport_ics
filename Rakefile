@@ -88,8 +88,5 @@ namespace :esport_ics do
       require_relative "lib/esport_ics/html_generator"
       EsportIcs::HtmlGenerator.new.build!.write!
     end
-
-    desc "Run all generators"
-    task all: ["ics:all"]
   end
 end
