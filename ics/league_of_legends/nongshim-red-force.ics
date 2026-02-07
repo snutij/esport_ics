@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:DRX
-SLUG:drx
+X-WR-CALNAME:Nongshim Red Force
+SLUG:nongshim-red-force
 BEGIN:VEVENT
 DTSTAMP:20260207T125356Z
 UID:pandascore-match-1309425@esport-ics
