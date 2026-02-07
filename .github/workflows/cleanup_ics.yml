@@ -1,0 +1,50 @@
+name: Cleanup Old ICS Files
+
+on:
+  schedule:
+    - cron: "0 0 1 * *" # Runs on the 1st of each month
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          fetch-depth: 0 # Full history needed for git log
+
+      - name: Find and remove old ICS files
+        run: |
+          ONE_YEAR_AGO=$(date -d "1 year ago" +%Y-%m-%d)
+          echo "Removing ICS files not updated since $ONE_YEAR_AGO"
+
+          FILES_TO_REMOVE=""
+          for file in $(find ics -name "*.ics" -type f); do
+            LAST_MODIFIED=$(git log -1 --format="%ai" -- "$file" | cut -d' ' -f1)
+            if [[ "$LAST_MODIFIED" < "$ONE_YEAR_AGO" ]]; then
+              echo "Removing $file (last modified: $LAST_MODIFIED)"
+              FILES_TO_REMOVE="$FILES_TO_REMOVE $file"
+            fi
+          done
+
+          if [ -n "$FILES_TO_REMOVE" ]; then
+            rm -f $FILES_TO_REMOVE
+            echo "REMOVED_FILES<<EOF" >> $GITHUB_ENV
+            echo "$FILES_TO_REMOVE" >> $GITHUB_ENV
+            echo "EOF" >> $GITHUB_ENV
+          else
+            echo "No old ICS files to remove"
+            echo "REMOVED_FILES=" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and push changes
+        if: env.REMOVED_FILES != ''
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A ics/
+          git commit -m "chore: remove ICS files not updated in 1 year"
+          git push
