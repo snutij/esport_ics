@@ -22,7 +22,7 @@ module EsportIcs
     GAME_CONFIG = {
       "call_of_duty_mw" => { name: "Call of Duty", accent: "#f6a800", icon: "🎯" },
       "counter_strike" => { name: "Counter-Strike 2", accent: "#de9b35", icon: "💣" },
-      "dota_2" => { name: "Dota 2", accent: "#d9544a", icon: "⚔️" },
+      "dota_2" => { name: "Dota 2", accent: "#e8503b", icon: "⚔️" },
       "league_of_legends" => { name: "League of Legends", accent: "#c9aa71", icon: "🏆" },
       "league_of_legends_wildrift" => { name: "LoL Wild Rift", accent: "#1ca5b8", icon: "📱" },
       "overwatch_2" => { name: "Overwatch 2", accent: "#fa9c1e", icon: "🛡️" },
