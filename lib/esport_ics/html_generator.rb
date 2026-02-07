@@ -650,8 +650,7 @@ module EsportIcs
             setTimeout(() => toast.classList.remove('show'), 2000);
           }
 
-          document.getElementById('search').addEventListener('input', (e) => {
-            const query = e.target.value.toLowerCase().trim();
+          function filterTeams(query) {
             const sections = document.querySelectorAll('.game-section');
 
             sections.forEach(section => {
@@ -672,7 +671,26 @@ module EsportIcs
                 if (header) header.setAttribute('aria-expanded', 'true');
               }
             });
+          }
+
+          document.getElementById('search').addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+            filterTeams(query);
+            const url = new URL(window.location);
+            if (query) {
+              url.searchParams.set('search', query);
+            } else {
+              url.searchParams.delete('search');
+            }
+            history.replaceState(null, '', url);
           });
+
+          const initialSearch = new URLSearchParams(window.location.search).get('search');
+          if (initialSearch) {
+            const searchInput = document.getElementById('search');
+            searchInput.value = initialSearch;
+            filterTeams(initialSearch.toLowerCase().trim());
+          }
         </script>
       HTML
     end
