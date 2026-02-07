@@ -177,7 +177,7 @@ module EsportIcs
           .header-title-wrap {
             display: inline-block;
             position: relative;
-            padding-bottom: 0.75rem;
+            padding-bottom: 0.35rem;
           }
 
           .header-title-wrap::before {
