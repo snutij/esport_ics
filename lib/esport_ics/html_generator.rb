@@ -414,7 +414,7 @@ module EsportIcs
           }
 
           .team-card.animate-in {
-            animation: card-appear 0.3s ease forwards;
+            animation: card-appear 0.2s ease forwards;
           }
 
           @keyframes card-appear {
@@ -769,7 +769,7 @@ module EsportIcs
               card.style.opacity = '0';
               card.style.transform = 'translateY(10px)';
               requestAnimationFrame(() => {
-                card.style.animationDelay = (i * 30) + 'ms';
+                card.style.animationDelay = (i * 15) + 'ms';
                 card.classList.add('animate-in');
               });
             });
@@ -800,7 +800,7 @@ module EsportIcs
               const header = s.querySelector('.game-header');
               if (header) header.setAttribute('aria-expanded', allCollapsed);
               if (allCollapsed) {
-                setTimeout(() => animateCards(s), idx * 60);
+                setTimeout(() => animateCards(s), idx * 40);
               }
             });
             updateToggleAllButton();
@@ -843,7 +843,14 @@ module EsportIcs
                 const name = card.dataset.name;
                 const match = !query || name.includes(query);
                 card.classList.toggle('hidden', !match);
-                if (match) visibleCount++;
+                if (match) {
+                  visibleCount++;
+                  if (query) {
+                    card.classList.remove('animate-in');
+                    card.style.opacity = '1';
+                    card.style.transform = 'none';
+                  }
+                }
               });
 
               section.classList.toggle('hidden', visibleCount === 0);
@@ -851,7 +858,6 @@ module EsportIcs
                 section.classList.remove('collapsed');
                 const header = section.querySelector('.game-header');
                 if (header) header.setAttribute('aria-expanded', 'true');
-                animateCards(section);
               }
             });
           }
