@@ -3,13 +3,17 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:DN SOOPers Challengers
 SLUG:dn-soopers-challengers
 BEGIN:VEVENT
-DTSTAMP:20260207T021021Z
-UID:2dc68b3b-60a7-45a3-ba19-071c0b1188be
+DTSTAMP:20260207T084415Z
+UID:pandascore-match-1310972@esport-ics
 DTSTART:20260223T080000Z
-DTEND:20260223T090000Z
+DTEND:20260223T114500Z
 CLASS:PUBLIC
+DESCRIPTION:LCK Challengers League - Kickoff 2026 - Playoffs\nWatch: https:
+ //www.youtube.com/@lckcl
 SUMMARY:Upper bracket semifinal 2: TBD vs DNS.C
+URL;VALUE=URI:https://www.youtube.com/@lckcl
 END:VEVENT
 END:VCALENDAR

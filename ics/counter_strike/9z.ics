@@ -3,13 +3,28 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:9z
 SLUG:9z
 BEGIN:VEVENT
-DTSTAMP:20260207T021015Z
-UID:2364ed90-7398-43b8-b2d4-aa5d9b25aefa
+DTSTAMP:20260207T084412Z
+UID:pandascore-match-1348603@esport-ics
 DTSTART:20260207T150000Z
-DTEND:20260207T160000Z
+DTEND:20260207T171500Z
 CLASS:PUBLIC
+DESCRIPTION:Ace South American Masters - Spring 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/ligaaceesports
 SUMMARY:Semifinal 1: IMP vs 9z
+URL;VALUE=URI:https://www.twitch.tv/ligaaceesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T084412Z
+UID:pandascore-match-1343566@esport-ics
+DTSTART:20260208T220000Z
+DTEND:20260209T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #8 season 3 2026 - Group Stage\nWatc
+ h: https://kick.com/cct_cs3
+SUMMARY:Round 3: ex-KRÜ Esports vs 9z
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
