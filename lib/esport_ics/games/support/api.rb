@@ -17,25 +17,27 @@ module EsportIcs
     end
 
     def fetch_matches!
+      uri = URI(@matches_url)
       page = 1
 
-      loop do
-        filters = "page[size]=#{MAX_PAGE_SIZE}&page[number]=#{page}"
-        api_matches = fetch_data!(@matches_url, filters)
+      Net::HTTP.start(uri.host, uri.port, use_ssl: true) do |http|
+        loop do
+          filters = "page[size]=#{MAX_PAGE_SIZE}&page[number]=#{page}"
+          api_matches = fetch_data!(http, @matches_url, filters)
 
-        # Break the loop if no matches are returned
-        break if api_matches.nil? || api_matches.none?
+          break if api_matches.nil? || api_matches.none?
 
-        # Process each match and add it to the matches array
-        api_matches.each do |api_match|
-          @matches << Match.new(api_match)
+          api_matches.each do |api_match|
+            next if api_match["scheduled_at"].nil?
+            next if api_match["opponents"].nil? || api_match["opponents"].empty?
+
+            @matches << Match.new(api_match)
+          end
+
+          break if page >= MAX_PAGINATION
+
+          page += 1
         end
-
-        # Break the loop if the maximum pagination is reached
-        break if page >= MAX_PAGINATION
-
-        # Increment the page number for the next iteration
-        page += 1
       end
 
       self
@@ -43,18 +45,17 @@ module EsportIcs
 
     private
 
-    def fetch_data!(path, filters = "")
+    def fetch_data!(http, path, filters = "")
       url = URI(path)
       url.query = filters unless filters.empty?
-
-      http = Net::HTTP.new(url.host, url.port)
-      http.use_ssl = true
 
       request = Net::HTTP::Get.new(url)
       request["accept"] = "application/json"
       request["authorization"] = "Bearer #{ENV["PANDASCORE_API_TOKEN"]}"
 
       response = http.request(request)
+
+      raise "PandaScore API error: #{response.code} #{response.body}" unless response.is_a?(Net::HTTPSuccess)
 
       JSON.parse(response.read_body)
     end
