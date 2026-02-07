@@ -96,8 +96,10 @@ module EsportIcs
           <div class="container">
             #{generate_header}
             #{generate_tutorial}
+            <main>
             #{generate_search}
             #{generate_games}
+            </main>
             #{generate_footer}
           </div>
           #{generate_scripts}
@@ -248,7 +250,7 @@ module EsportIcs
 
           .game-count {
             font-size: 0.875rem;
-            color: #8b949e;
+            color: #b1bac4;
             padding: 0.25rem 0.75rem;
             background: #30363d;
             border-radius: 20px;
@@ -488,7 +490,7 @@ module EsportIcs
     def generate_tutorial
       <<~HTML
         <section class="tutorial collapsed">
-          <div class="tutorial-header" aria-expanded="false" onclick="toggleTutorial(this)">
+          <div class="tutorial-header" role="button" tabindex="0" aria-expanded="false" onclick="toggleTutorial(this)">
             <div class="tutorial-title">
               <span>📖</span>
               <span>How to Subscribe</span>
@@ -564,7 +566,7 @@ module EsportIcs
 
       <<~HTML
         <section class="game-section collapsed" data-game="#{game_slug}" style="--accent: #{config[:accent]}">
-          <div class="game-header" aria-expanded="false" onclick="toggleSection(this)">
+          <div class="game-header" role="button" tabindex="0" aria-expanded="false" onclick="toggleSection(this)">
             <div class="game-title">
               <span class="game-icon">#{config[:icon]}</span>
               <h2 style="color: #{config[:accent]}">#{config[:name]}</h2>
