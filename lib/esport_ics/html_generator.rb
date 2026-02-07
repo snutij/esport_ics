@@ -22,12 +22,12 @@ module EsportIcs
     GAME_CONFIG = {
       "call_of_duty_mw" => { name: "Call of Duty", accent: "#f6a800", icon: "🎯" },
       "counter_strike" => { name: "Counter-Strike 2", accent: "#de9b35", icon: "💣" },
-      "dota_2" => { name: "Dota 2", accent: "#c23c2a", icon: "⚔️" },
+      "dota_2" => { name: "Dota 2", accent: "#d9544a", icon: "⚔️" },
       "league_of_legends" => { name: "League of Legends", accent: "#c9aa71", icon: "🏆" },
       "league_of_legends_wildrift" => { name: "LoL Wild Rift", accent: "#1ca5b8", icon: "📱" },
       "overwatch_2" => { name: "Overwatch 2", accent: "#fa9c1e", icon: "🛡️" },
-      "rainbow_six_siege" => { name: "Rainbow Six Siege", accent: "#7c7c7c", icon: "🔫" },
-      "rocket_league" => { name: "Rocket League", accent: "#0072ce", icon: "🚗" },
+      "rainbow_six_siege" => { name: "Rainbow Six Siege", accent: "#8a8a8a", icon: "🔫" },
+      "rocket_league" => { name: "Rocket League", accent: "#0088e0", icon: "🚗" },
       "valorant" => { name: "Valorant", accent: "#ff4655", icon: "🔺" },
     }.freeze
 
