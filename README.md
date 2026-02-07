@@ -2,6 +2,10 @@
 
 This repository automates the generation and update of ICS files for esport events. Calendars are refreshed daily and can be subscribed to in Google Calendar, Apple Calendar and Outlook.
 
+## Web Interface
+
+Browse all calendars at: https://esport-ics.pages.dev
+
 ## Supported Games
 
 - [Call of Duty MW](ics/call_of_duty_mw/)
