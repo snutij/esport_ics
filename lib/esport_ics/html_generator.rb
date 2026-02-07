@@ -69,7 +69,27 @@ module EsportIcs
         <head>
           <meta charset="UTF-8">
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>Esport ICS Calendars</title>
+          <title>Esport ICS Calendars — Free Esports Schedules for Google Calendar, Apple Calendar & Outlook</title>
+          <meta name="description" content="Free ICS calendar subscriptions for esports teams. Track schedules for League of Legends, Counter-Strike, Valorant, Dota 2 and more in Google Calendar, Apple Calendar or Outlook.">
+          <link rel="canonical" href="https://esport-ics.pages.dev/">
+          <meta name="robots" content="index, follow">
+          <meta name="theme-color" content="#0d1117">
+          <meta property="og:title" content="Esport ICS Calendars">
+          <meta property="og:description" content="Free ICS calendar subscriptions for esports. Track your favorite teams in any calendar app.">
+          <meta property="og:type" content="website">
+          <meta property="og:url" content="https://esport-ics.pages.dev/">
+          <meta name="twitter:card" content="summary">
+          <meta name="twitter:title" content="Esport ICS Calendars">
+          <meta name="twitter:description" content="Free ICS calendar subscriptions for esports. Track your favorite teams in any calendar app.">
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "Esport ICS Calendars",
+            "url": "https://esport-ics.pages.dev/",
+            "description": "Free ICS calendar subscriptions for esports teams."
+          }
+          </script>
           #{generate_styles}
         </head>
         <body>
@@ -216,6 +236,12 @@ module EsportIcs
             font-weight: 600;
           }
 
+          .game-title h2 {
+            font-size: inherit;
+            font-weight: inherit;
+            margin: 0;
+          }
+
           .game-icon {
             font-size: 1.5rem;
           }
@@ -246,6 +272,7 @@ module EsportIcs
             grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
             gap: 0.5rem;
             padding: 0 1rem 1rem;
+            list-style: none;
           }
 
           .team-card {
@@ -447,7 +474,7 @@ module EsportIcs
     def generate_header
       <<~HTML
         <header>
-          <a href="https://github.com/snutij/esport_ics" target="_blank" class="github-link" title="View on GitHub">
+          <a href="https://github.com/snutij/esport_ics" target="_blank" rel="noopener noreferrer" class="github-link" aria-label="View on GitHub">
             <svg width="32" height="32" viewBox="0 0 16 16" fill="currentColor">
               <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
             </svg>
@@ -460,8 +487,8 @@ module EsportIcs
 
     def generate_tutorial
       <<~HTML
-        <div class="tutorial collapsed">
-          <div class="tutorial-header" onclick="this.closest('.tutorial').classList.toggle('collapsed')">
+        <section class="tutorial collapsed">
+          <div class="tutorial-header" aria-expanded="false" onclick="toggleTutorial(this)">
             <div class="tutorial-title">
               <span>📖</span>
               <span>How to Subscribe</span>
@@ -499,13 +526,13 @@ module EsportIcs
               </div>
             </div>
           </div>
-        </div>
+        </section>
       HTML
     end
 
     def generate_search
       <<~HTML
-        <div class="search-container">
+        <div class="search-container" role="search">
           <input type="text" class="search-input" placeholder="Search teams..." id="search">
           <button class="toggle-all-btn" id="toggleAll" onclick="toggleAllSections()">Expand All</button>
         </div>
@@ -525,22 +552,22 @@ module EsportIcs
       teams_html = teams.map do |team|
         url = "#{GITHUB_RAW_URL}/#{game_slug}/#{team[:slug]}.ics"
         <<~HTML
-          <div class="team-card" data-url="#{url}" data-name="#{team[:name].downcase}" style="--accent: #{config[:accent]}">
+          <li class="team-card" data-url="#{url}" data-name="#{team[:name].downcase}" style="--accent: #{config[:accent]}">
             <span class="team-name">#{team[:name]}</span>
             <svg class="copy-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
               <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"/>
               <path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"/>
             </svg>
-          </div>
+          </li>
         HTML
       end.join
 
       <<~HTML
         <section class="game-section collapsed" data-game="#{game_slug}" style="--accent: #{config[:accent]}">
-          <div class="game-header" onclick="toggleSection(this)">
+          <div class="game-header" aria-expanded="false" onclick="toggleSection(this)">
             <div class="game-title">
               <span class="game-icon">#{config[:icon]}</span>
-              <span style="color: #{config[:accent]}">#{config[:name]}</span>
+              <h2 style="color: #{config[:accent]}">#{config[:name]}</h2>
             </div>
             <div style="display: flex; align-items: center; gap: 1rem;">
               <span class="game-count">#{teams.size} teams</span>
@@ -549,9 +576,9 @@ module EsportIcs
               </svg>
             </div>
           </div>
-          <div class="teams-grid">
+          <ul class="teams-grid">
             #{teams_html}
-          </div>
+          </ul>
         </section>
       HTML
     end
@@ -560,7 +587,7 @@ module EsportIcs
       <<~HTML
         <footer>
           <p>Calendars auto-update every 12 hours</p>
-          <p>Powered by <a href="https://github.com/snutij/esport_ics" target="_blank">esport_ics</a></p>
+          <p>Powered by <a href="https://github.com/snutij/esport_ics" target="_blank" rel="noopener noreferrer">esport_ics</a></p>
         </footer>
         <div class="toast" id="toast">URL copied to clipboard!</div>
       HTML
@@ -570,14 +597,28 @@ module EsportIcs
       <<~HTML
         <script>
           function toggleSection(header) {
-            header.closest('.game-section').classList.toggle('collapsed');
+            const section = header.closest('.game-section');
+            section.classList.toggle('collapsed');
+            const expanded = !section.classList.contains('collapsed');
+            header.setAttribute('aria-expanded', expanded);
             updateToggleAllButton();
+          }
+
+          function toggleTutorial(header) {
+            const tutorial = header.closest('.tutorial');
+            tutorial.classList.toggle('collapsed');
+            const expanded = !tutorial.classList.contains('collapsed');
+            header.setAttribute('aria-expanded', expanded);
           }
 
           function toggleAllSections() {
             const sections = document.querySelectorAll('.game-section');
             const allCollapsed = [...sections].every(s => s.classList.contains('collapsed'));
-            sections.forEach(s => s.classList.toggle('collapsed', !allCollapsed));
+            sections.forEach(s => {
+              s.classList.toggle('collapsed', !allCollapsed);
+              const header = s.querySelector('.game-header');
+              if (header) header.setAttribute('aria-expanded', allCollapsed);
+            });
             updateToggleAllButton();
           }
 
@@ -625,6 +666,8 @@ module EsportIcs
               section.classList.toggle('hidden', visibleCount === 0);
               if (query && visibleCount > 0) {
                 section.classList.remove('collapsed');
+                const header = section.querySelector('.game-header');
+                if (header) header.setAttribute('aria-expanded', 'true');
               }
             });
           });
