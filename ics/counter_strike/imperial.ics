@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Imperial
+SLUG:imperial
+BEGIN:VEVENT
+DTSTAMP:20260207T115344Z
+UID:pandascore-match-1348603@esport-ics
+DTSTART:20260207T150000Z
+DTEND:20260207T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Ace South American Masters - Spring 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/ligaaceesports
+SUMMARY:Semifinal 1: IMP vs 9z
+URL;VALUE=URI:https://www.twitch.tv/ligaaceesports
+END:VEVENT
+END:VCALENDAR

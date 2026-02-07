@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bilibili Gaming
+SLUG:bilibili-gaming
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1308152@esport-ics
+DTSTART:20260208T090000Z
+DTEND:20260208T124500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Kickoff 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Mid bracket final: BLG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Silk
+SLUG:silk
+BEGIN:VEVENT
+DTSTAMP:20260207T115345Z
+UID:pandascore-match-1344882@esport-ics
+DTSTART:20260207T120000Z
+DTEND:20260207T141500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 3 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/esl_dota2
+SUMMARY:AVL vs Silk
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115345Z
+UID:pandascore-match-1344886@esport-ics
+DTSTART:20260207T153000Z
+DTEND:20260207T174500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 3 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/esl_dota2
+SUMMARY:AUR vs Silk
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+END:VCALENDAR

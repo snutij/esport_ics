@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Misa Esports
+SLUG:misa-esports
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1312317@esport-ics
+DTSTART:20260207T143000Z
+DTEND:20260207T164500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Kickoff 2026 - Regular Season\nWatch: ht
+ tps://www.twitch.tv/valorant_tur
+SUMMARY:BJK vs MISA
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+END:VCALENDAR

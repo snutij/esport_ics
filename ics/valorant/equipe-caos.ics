@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Equipe Caos
+SLUG:equipe-caos
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1337055@esport-ics
+DTSTART:20260211T200000Z
+DTEND:20260211T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 1 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:EC vs ELE
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1337059@esport-ics
+DTSTART:20260218T230000Z
+DTEND:20260219T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 1 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:EC vs HOLY
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1337062@esport-ics
+DTSTART:20260223T230000Z
+DTEND:20260224T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 1 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:2GAME vs EC
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1337063@esport-ics
+DTSTART:20260225T200000Z
+DTEND:20260225T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 1 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:EC vs REMO
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1337068@esport-ics
+DTSTART:20260311T200000Z
+DTEND:20260311T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 1 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:EC vs MIBR.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mandatory
+SLUG:mandatory
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1309577@esport-ics
+DTSTART:20260207T190000Z
+DTEND:20260207T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - France: Revolution Stage 1 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/valorant_fr
+SUMMARY:Upper bracket semifinal 2: MDR vs Galions
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+END:VCALENDAR

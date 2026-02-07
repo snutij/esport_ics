@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lundqvist Lightside
+SLUG:lundqvist-lightside
+BEGIN:VEVENT
+DTSTAMP:20260207T115346Z
+UID:pandascore-match-1311255@esport-ics
+DTSTART:20260212T180000Z
+DTEND:20260212T184500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:LL vs BLD
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115346Z
+UID:pandascore-match-1311263@esport-ics
+DTSTART:20260219T200000Z
+DTEND:20260219T204500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:LL vs VDN
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115346Z
+UID:pandascore-match-1311267@esport-ics
+DTSTART:20260225T200000Z
+DTEND:20260225T204500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:DEER vs LL
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115346Z
+UID:pandascore-match-1311269@esport-ics
+DTSTART:20260226T170000Z
+DTEND:20260226T174500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:FF15 vs LL
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BAAM Esports
+SLUG:baam-esports
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1309457@esport-ics
+DTSTART:20260208T160000Z
+DTEND:20260208T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Kickoff 2026 - Group Stage - NA\nWatch: 
+ https://www.twitch.tv/valorantesports_ar
+SUMMARY:BAAM vs RAAD
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1309461@esport-ics
+DTSTART:20260210T160000Z
+DTEND:20260210T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Kickoff 2026 - Group Stage - NA\nWatch: 
+ https://www.twitch.tv/valorantesports_ar
+SUMMARY:BAAM vs RAF
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+END:VCALENDAR

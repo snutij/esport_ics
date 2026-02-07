@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:3BL Esports
+SLUG:3bl-esports
+BEGIN:VEVENT
+DTSTAMP:20260207T115346Z
+UID:pandascore-match-1351433@esport-ics
+DTSTART:20260211T160000Z
+DTEND:20260211T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Winter 2026 - Seeding Phase\nWatch: https://ww
+ w.twitch.tv/lolesports_ar
+SUMMARY:Upper bracket semifinal 2: FN vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+END:VCALENDAR

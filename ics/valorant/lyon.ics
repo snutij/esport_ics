@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LYON
+SLUG:lyon
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1323976@esport-ics
+DTSTART:20260210T220000Z
+DTEND:20260211T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North Stage 1 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/valorant_la
+SUMMARY:FEO vs LYON
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1323979@esport-ics
+DTSTART:20260217T010000Z
+DTEND:20260217T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North Stage 1 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/valorant_la
+SUMMARY:EXL vs LYON
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1323985@esport-ics
+DTSTART:20260225T010000Z
+DTEND:20260225T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North Stage 1 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/valorant_la
+SUMMARY:CHE vs LYON
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1323987@esport-ics
+DTSTART:20260312T010000Z
+DTEND:20260312T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North Stage 1 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/valorant_la
+SUMMARY:BBB vs LYON
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+END:VCALENDAR

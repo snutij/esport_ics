@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FUSION
+SLUG:fusion
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1323974@esport-ics
+DTSTART:20260209T220000Z
+DTEND:20260210T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North Stage 1 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/valorant_la
+SUMMARY:FSN vs EXL
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1323981@esport-ics
+DTSTART:20260218T010000Z
+DTEND:20260218T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North Stage 1 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/valorant_la
+SUMMARY:FSN vs BBB
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1323982@esport-ics
+DTSTART:20260223T220000Z
+DTEND:20260224T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North Stage 1 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/valorant_la
+SUMMARY:FSN vs TZC
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1323989@esport-ics
+DTSTART:20260313T010000Z
+DTEND:20260313T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North Stage 1 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/valorant_la
+SUMMARY:FSN vs FEO
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+END:VCALENDAR

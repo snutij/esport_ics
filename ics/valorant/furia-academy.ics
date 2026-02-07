@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FURIA Academy
+SLUG:furia-academy
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1337076@esport-ics
+DTSTART:20260212T200000Z
+DTEND:20260212T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 1 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:RED vs FUR.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1337080@esport-ics
+DTSTART:20260219T200000Z
+DTEND:20260219T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 1 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:PEEK vs FUR.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1337082@esport-ics
+DTSTART:20260223T230000Z
+DTEND:20260224T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 1 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:TS vs FUR.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115349Z
+UID:pandascore-match-1337089@esport-ics
+DTSTART:20260313T200000Z
+DTEND:20260313T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 1 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:F4T vs FUR.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+END:VCALENDAR

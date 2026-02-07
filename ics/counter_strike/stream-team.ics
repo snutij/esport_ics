@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:STREAM-TEAM
+SLUG:stream-team
+BEGIN:VEVENT
+DTSTAMP:20260207T115344Z
+UID:pandascore-match-1338604@esport-ics
+DTSTART:20260209T160000Z
+DTEND:20260209T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
+ \nWatch: https://www.twitch.tv/dust2tv
+SUMMARY:Round 2: Vendetta Gaming vs ST
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+END:VCALENDAR

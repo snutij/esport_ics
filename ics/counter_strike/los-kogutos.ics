@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:los kogutos
+SLUG:los-kogutos
+BEGIN:VEVENT
+DTSTAMP:20260207T115344Z
+UID:pandascore-match-1313587@esport-ics
+DTSTART:20260207T140000Z
+DTEND:20260207T161500Z
+CLASS:PUBLIC
+DESCRIPTION:A1 Gaming League - Season 11 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/a1gamingleague
+SUMMARY:Round 5: LK vs MSC
+URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115344Z
+UID:pandascore-match-1343596@esport-ics
+DTSTART:20260207T180000Z
+DTEND:20260207T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #15 season 3 2026 - Play-
+ In\nWatch: https://kick.com/cct_cs
+SUMMARY:AUR.YB vs LK
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+END:VCALENDAR

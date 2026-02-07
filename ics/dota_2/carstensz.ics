@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Carstensz
+SLUG:carstensz
+BEGIN:VEVENT
+DTSTAMP:20260207T115345Z
+UID:pandascore-match-1345793@esport-ics
+DTSTART:20260209T100000Z
+DTEND:20260209T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115345Z
+UID:pandascore-match-1345795@esport-ics
+DTSTART:20260210T070000Z
+DTEND:20260210T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:ESS vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115345Z
+UID:pandascore-match-1345798@esport-ics
+DTSTART:20260212T040000Z
+DTEND:20260212T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs YG
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115345Z
+UID:pandascore-match-1345803@esport-ics
+DTSTART:20260214T070000Z
+DTEND:20260214T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IVO vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115345Z
+UID:pandascore-match-1345805@esport-ics
+DTSTART:20260215T070000Z
+DTEND:20260215T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Y123 vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115345Z
+UID:pandascore-match-1345807@esport-ics
+DTSTART:20260216T070000Z
+DTEND:20260216T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:A&F vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+END:VCALENDAR

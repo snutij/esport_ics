@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Paradox
+SLUG:team-paradox
+BEGIN:VEVENT
+DTSTAMP:20260207T115346Z
+UID:pandascore-match-1309896@esport-ics
+DTSTART:20260211T160000Z
+DTEND:20260211T173000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:GOAL vs TPX
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T115346Z
+UID:pandascore-match-1309898@esport-ics
+DTSTART:20260212T160000Z
+DTEND:20260212T173000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:TPX vs TP
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+END:VCALENDAR
