@@ -3,13 +3,17 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:New York Subliners
 SLUG:new-york-subliners
 BEGIN:VEVENT
-DTSTAMP:20240705T145739Z
-UID:0d2e4745-9526-4ab9-b461-4a42eb3b1268
+DTSTAMP:20260207T083456Z
+UID:pandascore-match-998494@esport-ics
 DTSTART:20240718T190000Z
-DTEND:20240718T200000Z
+DTEND:20240718T224500Z
 CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Championship 2024 - Playoffs\nWatch: http
+ s://www.youtube.com/codleague/live
 SUMMARY:Upper bracket quarterfinal 2: NY Subliners vs SEA Surge
+URL;VALUE=URI:https://www.youtube.com/codleague/live
 END:VEVENT
 END:VCALENDAR

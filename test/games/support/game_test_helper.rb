@@ -46,14 +46,16 @@ module EsportIcs
         assert(calendar)
         assert(expected_ics)
 
-        assert_equal(calendar.custom_property("name"), expected_ics.custom_property("name"))
+        assert_equal(calendar.custom_property("x-wr-calname"), expected_ics.custom_property("x-wr-calname"))
         assert_equal(calendar.custom_property("slug"), expected_ics.custom_property("slug"))
         assert_equal(calendar.ip_name, expected_ics.ip_name)
         assert_equal(calendar.ip_method, expected_ics.ip_method)
         assert_equal(calendar.events.size, expected_ics.events.size)
 
         calendar.events.zip(expected_ics.events).each do |event, expected_event|
+          assert_equal(event.uid, expected_event.uid)
           assert_equal(event.summary, expected_event.summary)
+          assert_equal(event.description, expected_event.description)
           assert_equal(event.ip_class, expected_event.ip_class)
           assert_equal(event.dtstart.to_s, expected_event.dtstart.to_s)
           assert_equal(event.dtend.to_s, expected_event.dtend.to_s)
