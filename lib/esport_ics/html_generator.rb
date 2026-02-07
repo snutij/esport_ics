@@ -177,7 +177,8 @@ module EsportIcs
           .header-title-wrap {
             display: inline-block;
             position: relative;
-            padding-bottom: 0.35rem;
+            padding-bottom: 0.5rem;
+            margin-bottom: 0.5rem;
           }
 
           .header-title-wrap::before {
@@ -231,7 +232,7 @@ module EsportIcs
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
-            margin-bottom: 0.5rem;
+            margin-bottom: 0;
           }
 
           .subtitle {
@@ -414,7 +415,7 @@ module EsportIcs
           }
 
           .team-card.animate-in {
-            animation: card-appear 0.2s ease forwards;
+            animation: card-appear 0.15s ease forwards;
           }
 
           @keyframes card-appear {
@@ -769,7 +770,7 @@ module EsportIcs
               card.style.opacity = '0';
               card.style.transform = 'translateY(10px)';
               requestAnimationFrame(() => {
-                card.style.animationDelay = (i * 15) + 'ms';
+                card.style.animationDelay = (i * 10) + 'ms';
                 card.classList.add('animate-in');
               });
             });
@@ -800,7 +801,7 @@ module EsportIcs
               const header = s.querySelector('.game-header');
               if (header) header.setAttribute('aria-expanded', allCollapsed);
               if (allCollapsed) {
-                setTimeout(() => animateCards(s), idx * 40);
+                setTimeout(() => animateCards(s), idx * 25);
               }
             });
             updateToggleAllButton();
