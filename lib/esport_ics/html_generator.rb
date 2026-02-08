@@ -301,7 +301,6 @@ module EsportIcs
             border-left: 4px solid var(--accent, var(--cyan));
             overflow: hidden;
             background: var(--bg-mid);
-            box-shadow: -4px 0 20px -6px var(--accent, var(--cyan));
           }
 
           .game-header {
@@ -362,7 +361,7 @@ module EsportIcs
             padding: 0.2rem 0.6rem;
             background: var(--bg-surface);
             border: 1px solid var(--border);
-            clip-path: polygon(6px 0, 100% 0, calc(100% - 6px) 100%, 0 100%);
+
           }
 
           .toggle-icon {
@@ -398,7 +397,7 @@ module EsportIcs
             align-items: center;
             justify-content: space-between;
             gap: 0.5rem;
-            clip-path: polygon(0 0, 100% 0, 100% calc(100% - 8px), calc(100% - 8px) 100%, 0 100%);
+
             opacity: 0;
             transform: translateY(10px);
           }
@@ -489,7 +488,7 @@ module EsportIcs
             opacity: 0;
             transition: all 0.3s;
             z-index: 1000;
-            clip-path: polygon(8px 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, calc(100% - 8px) 100%, 8px 100%, 0 100%, 0 8px);
+
           }
 
           .toast.show {
@@ -561,7 +560,7 @@ module EsportIcs
             height: 28px;
             background: var(--bg-surface);
             border: 1px solid var(--cyan);
-            clip-path: polygon(4px 0, 100% 0, calc(100% - 4px) 100%, 0 100%);
+
             display: flex;
             align-items: center;
             justify-content: center;
@@ -613,10 +612,10 @@ module EsportIcs
               grid-template-columns: 1fr;
             }
             .team-card {
-              clip-path: polygon(0 0, 100% 0, 100% calc(100% - 6px), calc(100% - 6px) 100%, 0 100%);
+  
             }
             .tutorial {
-              clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px));
+  
             }
             .tutorial-desktop { display: none; }
             .tutorial-mobile { display: block; }
