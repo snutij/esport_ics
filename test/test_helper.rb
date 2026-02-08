@@ -7,3 +7,5 @@ require "debug"
 require "minitest/autorun"
 require "mocha/minitest"
 require "webmock/minitest"
+
+ENV["PANDASCORE_API_TOKEN"] ||= "test-token"
