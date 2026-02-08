@@ -20,15 +20,15 @@ module EsportIcs
     ].freeze
 
     GAME_CONFIG = {
-      "call_of_duty_mw" => { name: "Call of Duty", accent: "#f6a800", icon: "🎯" },
-      "counter_strike" => { name: "Counter-Strike 2", accent: "#de9b35", icon: "💣" },
-      "dota_2" => { name: "Dota 2", accent: "#e8503b", icon: "⚔️" },
-      "league_of_legends" => { name: "League of Legends", accent: "#c9aa71", icon: "🏆" },
-      "league_of_legends_wildrift" => { name: "LoL Wild Rift", accent: "#1ca5b8", icon: "📱" },
-      "overwatch_2" => { name: "Overwatch 2", accent: "#fa9c1e", icon: "🛡️" },
-      "rainbow_six_siege" => { name: "Rainbow Six Siege", accent: "#8a8a8a", icon: "🔫" },
-      "rocket_league" => { name: "Rocket League", accent: "#0088e0", icon: "🚗" },
-      "valorant" => { name: "Valorant", accent: "#ff4655", icon: "🔺" },
+      "call_of_duty_mw" => { name: "Call of Duty", accent: "#f6a800" },
+      "counter_strike" => { name: "Counter-Strike 2", accent: "#de9b35" },
+      "dota_2" => { name: "Dota 2", accent: "#e8503b" },
+      "league_of_legends" => { name: "League of Legends", accent: "#c9aa71" },
+      "league_of_legends_wildrift" => { name: "LoL Wild Rift", accent: "#1ca5b8" },
+      "overwatch_2" => { name: "Overwatch 2", accent: "#fa9c1e" },
+      "rainbow_six_siege" => { name: "Rainbow Six Siege", accent: "#8a8a8a" },
+      "rocket_league" => { name: "Rocket League", accent: "#0088e0" },
+      "valorant" => { name: "Valorant", accent: "#ff4655" },
     }.freeze
 
     def initialize
@@ -73,7 +73,10 @@ module EsportIcs
           <meta name="description" content="Free ICS calendar subscriptions for esports teams. Track schedules for League of Legends, Counter-Strike, Valorant, Dota 2 and more in Google Calendar, Apple Calendar or Outlook.">
           <link rel="canonical" href="https://esport-ics.pages.dev/">
           <meta name="robots" content="index, follow">
-          <meta name="theme-color" content="#0d1117">
+          <meta name="theme-color" content="#06080c">
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&family=Exo+2:wght@400;600&display=swap" rel="stylesheet">
           <meta property="og:title" content="Esport ICS Calendars">
           <meta property="og:description" content="Free ICS calendar subscriptions for esports. Track your favorite teams in any calendar app.">
           <meta property="og:type" content="website">
@@ -113,55 +116,133 @@ module EsportIcs
         <style>
           * { box-sizing: border-box; margin: 0; padding: 0; }
 
+          :root {
+            --bg-deep: #06080c;
+            --bg-mid: #0a0e14;
+            --bg-surface: #111820;
+            --bg-elevated: #161d28;
+            --border: rgba(255, 255, 255, 0.06);
+            --border-hover: rgba(255, 255, 255, 0.12);
+            --text: #e0e6ed;
+            --text-muted: #6b7a8d;
+            --cyan: #00e5ff;
+            --success: #3fb950;
+          }
+
           body {
-            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-            background: #0d1117;
-            color: #e6edf3;
+            font-family: 'Exo 2', 'Segoe UI', system-ui, sans-serif;
+            background: var(--bg-deep);
+            color: var(--text);
             line-height: 1.6;
             min-height: 100vh;
+            position: relative;
+          }
+
+          body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background:
+              linear-gradient(rgba(255,255,255,0.015) 1px, transparent 1px),
+              linear-gradient(90deg, rgba(255,255,255,0.015) 1px, transparent 1px);
+            background-size: 60px 60px;
+            pointer-events: none;
+            z-index: 0;
           }
 
           .container {
             max-width: 1200px;
             margin: 0 auto;
             padding: 2rem 1rem;
+            position: relative;
+            z-index: 1;
           }
 
+          /* --- Typography --- */
+          h1, h2, .game-title h2 {
+            font-family: 'Rajdhani', 'Segoe UI', sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+          }
+
+          /* --- Header --- */
           header {
             text-align: center;
-            margin-bottom: 2rem;
-            padding-bottom: 2rem;
-            border-bottom: 1px solid #30363d;
+            margin-bottom: 2.5rem;
+            padding-bottom: 2.5rem;
+            border-bottom: 1px solid var(--border);
             position: relative;
+          }
+
+          .header-title-wrap {
+            display: inline-block;
+            position: relative;
+            padding-bottom: 0.5rem;
+            margin-bottom: 0.5rem;
+          }
+
+          .header-title-wrap::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: repeating-linear-gradient(
+              0deg,
+              transparent,
+              transparent 2px,
+              rgba(255,255,255,0.02) 2px,
+              rgba(255,255,255,0.02) 4px
+            );
+            pointer-events: none;
+          }
+
+          .header-title-wrap::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            height: 2px;
+            background: var(--cyan);
+            box-shadow: 0 0 12px var(--cyan), 0 0 30px rgba(0,229,255,0.3);
+            animation: neon-line 0.8s ease-out forwards;
+            width: 0;
+          }
+
+          @keyframes neon-line {
+            to { width: 100%; }
           }
 
           .github-link {
             position: absolute;
             top: 0;
             right: 0;
-            color: #8b949e;
-            transition: color 0.2s;
+            color: var(--text-muted);
+            transition: color 0.2s, filter 0.2s;
           }
 
           .github-link:hover {
-            color: #e6edf3;
+            color: var(--text);
+            filter: drop-shadow(0 0 4px rgba(255,255,255,0.3));
           }
 
           h1 {
-            font-size: 2.5rem;
+            font-size: 2.8rem;
             font-weight: 700;
-            background: linear-gradient(135deg, #58a6ff, #a371f7);
+            background: linear-gradient(135deg, #00e5ff, #a371f7);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
-            margin-bottom: 0.5rem;
+            margin-bottom: 0;
           }
 
           .subtitle {
-            color: #8b949e;
-            font-size: 1.1rem;
+            color: var(--text-muted);
+            font-size: 1.05rem;
+            font-weight: 400;
+            letter-spacing: 0.03em;
           }
 
+          /* --- Search --- */
           .search-container {
             margin-bottom: 2rem;
             display: flex;
@@ -172,48 +253,54 @@ module EsportIcs
 
           .search-input {
             flex: 1;
-            max-width: 400px;
-            padding: 0.75rem 1rem;
-            font-size: 1rem;
-            background: #161b22;
-            border: 1px solid #30363d;
-            border-radius: 8px;
-            color: #e6edf3;
+            max-width: 420px;
+            padding: 0.75rem 1.1rem;
+            font-family: 'Exo 2', sans-serif;
+            font-size: 0.95rem;
+            background: var(--bg-surface);
+            border: 1px solid var(--border);
+            color: var(--text);
             outline: none;
-            transition: border-color 0.2s;
+            transition: border-color 0.2s, box-shadow 0.2s;
           }
 
           .search-input:focus {
-            border-color: #58a6ff;
+            border-color: var(--cyan);
+            box-shadow: 0 0 0 2px rgba(0, 229, 255, 0.15), 0 0 20px rgba(0, 229, 255, 0.1);
           }
 
           .search-input::placeholder {
-            color: #6e7681;
+            color: var(--text-muted);
           }
 
           .toggle-all-btn {
-            padding: 0.75rem 1rem;
-            font-size: 0.875rem;
-            background: #161b22;
-            border: 1px solid #30363d;
-            border-radius: 8px;
-            color: #e6edf3;
+            padding: 0.75rem 1.1rem;
+            font-family: 'Exo 2', sans-serif;
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            background: var(--bg-surface);
+            border: 1px solid var(--border);
+            color: var(--text);
             cursor: pointer;
             transition: all 0.2s;
             white-space: nowrap;
           }
 
           .toggle-all-btn:hover {
-            border-color: #58a6ff;
-            background: #1f242c;
+            border-color: var(--cyan);
+            background: var(--bg-elevated);
+            box-shadow: 0 0 12px rgba(0, 229, 255, 0.1);
           }
 
+          /* --- Game Sections --- */
           .game-section {
-            margin-bottom: 1.5rem;
-            border: 1px solid #30363d;
-            border-radius: 12px;
+            margin-bottom: 1.25rem;
+            border: 1px solid var(--border);
+            border-left: 4px solid var(--accent, var(--cyan));
             overflow: hidden;
-            background: #161b22;
+            background: var(--bg-mid);
           }
 
           .game-header {
@@ -224,10 +311,26 @@ module EsportIcs
             cursor: pointer;
             user-select: none;
             transition: background 0.2s;
+            position: relative;
+          }
+
+          .game-header::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 0;
+            background: linear-gradient(90deg, rgba(var(--accent-rgb, 0,229,255), 0.08), transparent);
+            transition: width 0.3s;
           }
 
           .game-header:hover {
-            background: #1f242c;
+            background: var(--bg-surface);
+          }
+
+          .game-header:hover::before {
+            width: 100%;
           }
 
           .game-title {
@@ -235,30 +338,35 @@ module EsportIcs
             align-items: center;
             gap: 0.75rem;
             font-size: 1.25rem;
-            font-weight: 600;
+            font-weight: 700;
+          }
+
+          .accent-bar {
+            width: 4px;
+            height: 24px;
+            background: var(--accent, var(--cyan));
+            box-shadow: 0 0 8px var(--accent, var(--cyan));
           }
 
           .game-title h2 {
-            font-size: inherit;
-            font-weight: inherit;
+            font-size: 1.2rem;
+            font-weight: 700;
             margin: 0;
           }
 
-          .game-icon {
-            font-size: 1.5rem;
-          }
-
           .game-count {
-            font-size: 0.875rem;
-            color: #b1bac4;
-            padding: 0.25rem 0.75rem;
-            background: #30363d;
-            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            padding: 0.2rem 0.6rem;
+            background: var(--bg-surface);
+            border: 1px solid var(--border);
+
           }
 
           .toggle-icon {
-            color: #8b949e;
-            transition: transform 0.2s;
+            color: var(--text-muted);
+            transition: transform 0.3s ease;
           }
 
           .game-section.collapsed .toggle-icon {
@@ -277,31 +385,49 @@ module EsportIcs
             list-style: none;
           }
 
+          /* --- Team Cards --- */
           .team-card {
-            padding: 0.75rem 1rem;
-            background: #0d1117;
-            border: 1px solid #30363d;
-            border-radius: 8px;
+            padding: 0.65rem 0.9rem;
+            background: var(--bg-deep);
+            border: 1px solid var(--border);
+            border-left: 3px solid var(--accent, var(--cyan));
             cursor: pointer;
             transition: all 0.2s;
             display: flex;
             align-items: center;
             justify-content: space-between;
             gap: 0.5rem;
+
+            opacity: 0;
+            transform: translateY(10px);
+          }
+
+          .team-card.animate-in {
+            animation: card-appear 0.15s ease forwards;
+          }
+
+          @keyframes card-appear {
+            to {
+              opacity: 1;
+              transform: translateY(0);
+            }
           }
 
           .team-card:hover {
-            border-color: var(--accent);
-            background: #1a1f26;
+            border-color: var(--accent, var(--cyan));
+            background: var(--bg-surface);
+            box-shadow: 0 0 16px -4px var(--accent, var(--cyan)), inset 0 0 20px -12px var(--accent, var(--cyan));
           }
 
           .team-card.copied {
-            border-color: #3fb950;
-            background: rgba(63, 185, 80, 0.1);
+            border-color: var(--success);
+            background: rgba(63, 185, 80, 0.08);
+            box-shadow: 0 0 16px -4px var(--success);
           }
 
           .team-name {
-            font-size: 0.9rem;
+            font-size: 0.875rem;
+            font-weight: 600;
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
@@ -309,7 +435,7 @@ module EsportIcs
 
           .copy-icon {
             flex-shrink: 0;
-            color: #8b949e;
+            color: var(--text-muted);
             opacity: 0;
             transition: opacity 0.2s;
           }
@@ -319,7 +445,7 @@ module EsportIcs
           }
 
           .team-card.copied .copy-icon {
-            color: #3fb950;
+            color: var(--success);
             opacity: 1;
           }
 
@@ -327,37 +453,42 @@ module EsportIcs
             display: none !important;
           }
 
+          /* --- Footer --- */
           footer {
             text-align: center;
             margin-top: 3rem;
             padding-top: 2rem;
-            border-top: 1px solid #30363d;
-            color: #8b949e;
-            font-size: 0.875rem;
+            border-top: 1px solid var(--border);
+            color: var(--text-muted);
+            font-size: 0.85rem;
           }
 
           footer a {
-            color: #58a6ff;
+            color: var(--cyan);
             text-decoration: none;
+            transition: text-shadow 0.2s;
           }
 
           footer a:hover {
             text-decoration: underline;
+            text-shadow: 0 0 8px rgba(0, 229, 255, 0.4);
           }
 
+          /* --- Toast --- */
           .toast {
             position: fixed;
             bottom: 2rem;
             left: 50%;
             transform: translateX(-50%) translateY(100px);
-            background: #3fb950;
-            color: #0d1117;
+            background: var(--success);
+            color: var(--bg-deep);
             padding: 0.75rem 1.5rem;
-            border-radius: 8px;
-            font-weight: 500;
+            font-family: 'Exo 2', sans-serif;
+            font-weight: 600;
             opacity: 0;
             transition: all 0.3s;
             z-index: 1000;
+
           }
 
           .toast.show {
@@ -365,11 +496,12 @@ module EsportIcs
             opacity: 1;
           }
 
+          /* --- Tutorial --- */
           .tutorial {
             margin-bottom: 2rem;
-            border: 1px solid #30363d;
-            border-radius: 12px;
-            background: #161b22;
+            border: 1px solid var(--border);
+            border-left: 4px solid var(--cyan);
+            background: var(--bg-mid);
             overflow: hidden;
           }
 
@@ -384,16 +516,19 @@ module EsportIcs
           }
 
           .tutorial-header:hover {
-            background: #1f242c;
+            background: var(--bg-surface);
           }
 
           .tutorial-title {
             display: flex;
             align-items: center;
             gap: 0.5rem;
-            font-size: 1rem;
-            font-weight: 600;
-            color: #58a6ff;
+            font-family: 'Rajdhani', sans-serif;
+            font-size: 1.05rem;
+            font-weight: 700;
+            color: var(--cyan);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
           }
 
           .tutorial.collapsed .tutorial-content {
@@ -423,32 +558,37 @@ module EsportIcs
             flex-shrink: 0;
             width: 28px;
             height: 28px;
-            background: #30363d;
-            border-radius: 50%;
+            background: var(--bg-surface);
+            border: 1px solid var(--cyan);
+
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 0.875rem;
-            font-weight: 600;
-            color: #58a6ff;
+            font-family: 'Rajdhani', sans-serif;
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--cyan);
           }
 
           .step-content h3 {
-            font-size: 0.95rem;
-            font-weight: 600;
+            font-family: 'Rajdhani', sans-serif;
+            font-size: 1rem;
+            font-weight: 700;
             margin-bottom: 0.25rem;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
           }
 
           .step-content p {
             font-size: 0.875rem;
-            color: #8b949e;
+            color: var(--text-muted);
           }
 
           .step-content ul {
             margin-top: 0.5rem;
             padding-left: 1.25rem;
             font-size: 0.875rem;
-            color: #8b949e;
+            color: var(--text-muted);
           }
 
           .step-content li {
@@ -456,18 +596,23 @@ module EsportIcs
           }
 
           .step-content code {
-            background: #0d1117;
+            background: var(--bg-deep);
             padding: 0.125rem 0.375rem;
-            border-radius: 4px;
             font-size: 0.8rem;
-            color: #e6edf3;
+            color: var(--cyan);
+            border: 1px solid var(--border);
           }
 
+          .tutorial-mobile { display: none; }
+
+          /* --- Responsive --- */
           @media (max-width: 640px) {
-            h1 { font-size: 1.75rem; }
+            h1 { font-size: 1.85rem; }
             .teams-grid {
               grid-template-columns: 1fr;
             }
+            .tutorial-desktop { display: none; }
+            .tutorial-mobile { display: block; }
           }
         </style>
       CSS
@@ -481,7 +626,9 @@ module EsportIcs
               <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
             </svg>
           </a>
-          <h1>Esport ICS Calendars</h1>
+          <div class="header-title-wrap">
+            <h1>Esport ICS Calendars</h1>
+          </div>
           <p class="subtitle">Subscribe to your favorite esports team schedules</p>
         </header>
       HTML
@@ -489,7 +636,7 @@ module EsportIcs
 
     def generate_tutorial
       <<~HTML
-        <section class="tutorial collapsed">
+        <section class="tutorial tutorial-desktop collapsed">
           <div class="tutorial-header" role="button" tabindex="0" aria-expanded="false" onclick="toggleTutorial(this)">
             <div class="tutorial-title">
               <span>📖</span>
@@ -529,6 +676,45 @@ module EsportIcs
             </div>
           </div>
         </section>
+        <section class="tutorial tutorial-mobile collapsed">
+          <div class="tutorial-header" role="button" tabindex="0" aria-expanded="false" onclick="toggleTutorial(this)">
+            <div class="tutorial-title">
+              <span>📖</span>
+              <span>How to Subscribe</span>
+            </div>
+            <svg class="toggle-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+              <path d="M12.78 5.22a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06 0L3.22 6.28a.75.75 0 0 1 1.06-1.06L8 8.94l3.72-3.72a.75.75 0 0 1 1.06 0Z"/>
+            </svg>
+          </div>
+          <div class="tutorial-content">
+            <div class="tutorial-steps">
+              <div class="tutorial-step">
+                <div class="step-number">1</div>
+                <div class="step-content">
+                  <h3>Copy a calendar URL</h3>
+                  <p>Tap any team below to copy its calendar URL.</p>
+                </div>
+              </div>
+              <div class="tutorial-step">
+                <div class="step-number">2</div>
+                <div class="step-content">
+                  <h3>Add to your calendar app</h3>
+                  <ul>
+                    <li><strong>iPhone / iPad:</strong> Open Calendar app → <code>Calendars</code> (bottom) → <code>Add Calendar</code> → <code>Add Subscription Calendar</code> → Paste URL</li>
+                    <li><strong>Android:</strong> Google Calendar app doesn't support ICS subscriptions directly. Open <code>calendar.google.com</code> in your browser → <code>+</code> next to "Other calendars" → <code>From URL</code> → Paste. It syncs to the mobile app automatically.</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tutorial-step">
+                <div class="step-number">3</div>
+                <div class="step-content">
+                  <h3>Stay updated</h3>
+                  <p>Calendars sync automatically. New matches appear as they're scheduled.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
       HTML
     end
 
@@ -545,7 +731,7 @@ module EsportIcs
       sorted_games = @games.sort_by { |slug, _| GAME_ORDER.index(slug) || 999 }
 
       sorted_games.map do |game_slug, teams|
-        config = GAME_CONFIG[game_slug] || { name: game_slug, accent: "#58a6ff", icon: "🎮" }
+        config = GAME_CONFIG[game_slug] || { name: game_slug, accent: "#58a6ff" }
         generate_game_section(game_slug, teams, config)
       end.join("\n")
     end
@@ -554,7 +740,7 @@ module EsportIcs
       teams_html = teams.map do |team|
         url = "#{GITHUB_RAW_URL}/#{game_slug}/#{team[:slug]}.ics"
         <<~HTML
-          <li class="team-card" data-url="#{url}" data-name="#{team[:name].downcase}" style="--accent: #{config[:accent]}">
+          <li class="team-card" role="button" tabindex="0" data-url="#{url}" data-name="#{team[:name].downcase}" style="--accent: #{config[:accent]}">
             <span class="team-name">#{team[:name]}</span>
             <svg class="copy-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
               <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"/>
@@ -568,7 +754,7 @@ module EsportIcs
         <section class="game-section collapsed" data-game="#{game_slug}" style="--accent: #{config[:accent]}">
           <div class="game-header" role="button" tabindex="0" aria-expanded="false" onclick="toggleSection(this)">
             <div class="game-title">
-              <span class="game-icon">#{config[:icon]}</span>
+              <span class="accent-bar" style="background: #{config[:accent]}; box-shadow: 0 0 8px #{config[:accent]}"></span>
               <h2 style="color: #{config[:accent]}">#{config[:name]}</h2>
             </div>
             <div style="display: flex; align-items: center; gap: 1rem;">
@@ -598,11 +784,26 @@ module EsportIcs
     def generate_scripts
       <<~HTML
         <script>
+          function animateCards(section) {
+            const cards = section.querySelectorAll('.team-card');
+            cards.forEach((card, i) => {
+              card.classList.remove('animate-in');
+              card.style.opacity = '0';
+              card.style.transform = 'translateY(10px)';
+              requestAnimationFrame(() => {
+                card.style.animationDelay = (i * 10) + 'ms';
+                card.classList.add('animate-in');
+              });
+            });
+          }
+
           function toggleSection(header) {
             const section = header.closest('.game-section');
+            const wasCollapsed = section.classList.contains('collapsed');
             section.classList.toggle('collapsed');
             const expanded = !section.classList.contains('collapsed');
             header.setAttribute('aria-expanded', expanded);
+            if (wasCollapsed) animateCards(section);
             updateToggleAllButton();
           }
 
@@ -616,10 +817,13 @@ module EsportIcs
           function toggleAllSections() {
             const sections = document.querySelectorAll('.game-section');
             const allCollapsed = [...sections].every(s => s.classList.contains('collapsed'));
-            sections.forEach(s => {
+            sections.forEach((s, idx) => {
               s.classList.toggle('collapsed', !allCollapsed);
               const header = s.querySelector('.game-header');
               if (header) header.setAttribute('aria-expanded', allCollapsed);
+              if (allCollapsed) {
+                setTimeout(() => animateCards(s), idx * 25);
+              }
             });
             updateToggleAllButton();
           }
@@ -661,7 +865,14 @@ module EsportIcs
                 const name = card.dataset.name;
                 const match = !query || name.includes(query);
                 card.classList.toggle('hidden', !match);
-                if (match) visibleCount++;
+                if (match) {
+                  visibleCount++;
+                  if (query) {
+                    card.classList.remove('animate-in');
+                    card.style.opacity = '1';
+                    card.style.transform = 'none';
+                  }
+                }
               });
 
               section.classList.toggle('hidden', visibleCount === 0);
@@ -691,6 +902,7 @@ module EsportIcs
             searchInput.value = initialSearch;
             filterTeams(initialSearch.toLowerCase().trim());
           }
+
         </script>
       HTML
     end
