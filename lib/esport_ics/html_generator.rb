@@ -74,6 +74,7 @@ module EsportIcs
           <link rel="canonical" href="https://esport-ics.pages.dev/">
           <meta name="robots" content="index, follow">
           <meta name="theme-color" content="#06080c">
+          <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%2306080c'/><rect x='4' y='8' width='24' height='20' rx='3' fill='none' stroke='%2300e5ff' stroke-width='2'/><rect x='4' y='8' width='24' height='6' rx='3' fill='%2300e5ff'/><rect x='9' y='3' width='2' height='8' rx='1' fill='%2300e5ff'/><rect x='21' y='3' width='2' height='8' rx='1' fill='%2300e5ff'/><polygon points='16,17 17.5,20 21,20.5 18.5,23 19,26.5 16,25 13,26.5 13.5,23 11,20.5 14.5,20' fill='%2300e5ff'/></svg>">
           <link rel="preconnect" href="https://fonts.googleapis.com">
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
           <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&family=Exo+2:wght@400;600&display=swap" rel="stylesheet">
@@ -81,9 +82,11 @@ module EsportIcs
           <meta property="og:description" content="Free ICS calendar subscriptions for esports. Track your favorite teams in any calendar app.">
           <meta property="og:type" content="website">
           <meta property="og:url" content="https://esport-ics.pages.dev/">
-          <meta name="twitter:card" content="summary">
+          <meta property="og:image" content="https://raw.githubusercontent.com/snutij/esport_ics/main/og-image.png">
+          <meta name="twitter:card" content="summary_large_image">
           <meta name="twitter:title" content="Esport ICS Calendars">
           <meta name="twitter:description" content="Free ICS calendar subscriptions for esports. Track your favorite teams in any calendar app.">
+          <meta name="twitter:image" content="https://raw.githubusercontent.com/snutij/esport_ics/main/og-image.png">
           <script type="application/ld+json">
           {
             "@context": "https://schema.org",
@@ -96,10 +99,12 @@ module EsportIcs
           #{generate_styles}
         </head>
         <body>
+          #{generate_svg_symbols}
+          <a href="#main" class="skip-link">Skip to content</a>
           <div class="container">
             #{generate_header}
             #{generate_tutorial}
-            <main>
+            <main id="main">
             #{generate_search}
             #{generate_games}
             </main>
@@ -108,6 +113,23 @@ module EsportIcs
           #{generate_scripts}
         </body>
         </html>
+      HTML
+    end
+
+    def generate_svg_symbols
+      <<~HTML
+        <svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+          <symbol id="icon-copy" viewBox="0 0 16 16">
+            <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"/>
+            <path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"/>
+          </symbol>
+          <symbol id="icon-chevron" viewBox="0 0 16 16">
+            <path d="M12.78 5.22a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06 0L3.22 6.28a.75.75 0 0 1 1.06-1.06L8 8.94l3.72-3.72a.75.75 0 0 1 1.06 0Z"/>
+          </symbol>
+          <symbol id="icon-github" viewBox="0 0 16 16">
+            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+          </symbol>
+        </svg>
       HTML
     end
 
@@ -453,6 +475,34 @@ module EsportIcs
             display: none !important;
           }
 
+          .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+          }
+
+          .skip-link {
+            position: absolute;
+            top: -100%;
+            left: 0;
+            background: var(--cyan);
+            color: var(--bg-deep);
+            padding: 0.5rem 1rem;
+            font-weight: 600;
+            z-index: 1001;
+            text-decoration: none;
+          }
+
+          .skip-link:focus {
+            top: 0;
+          }
+
           /* --- Footer --- */
           footer {
             text-align: center;
@@ -622,9 +672,7 @@ module EsportIcs
       <<~HTML
         <header>
           <a href="https://github.com/snutij/esport_ics" target="_blank" rel="noopener noreferrer" class="github-link" aria-label="View on GitHub">
-            <svg width="32" height="32" viewBox="0 0 16 16" fill="currentColor">
-              <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
-            </svg>
+            <svg width="32" height="32" viewBox="0 0 16 16" fill="currentColor"><use href="#icon-github"/></svg>
           </a>
           <div class="header-title-wrap">
             <h1>Esport ICS Calendars</h1>
@@ -642,9 +690,7 @@ module EsportIcs
               <span>📖</span>
               <span>How to Subscribe</span>
             </div>
-            <svg class="toggle-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-              <path d="M12.78 5.22a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06 0L3.22 6.28a.75.75 0 0 1 1.06-1.06L8 8.94l3.72-3.72a.75.75 0 0 1 1.06 0Z"/>
-            </svg>
+            <svg class="toggle-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><use href="#icon-chevron"/></svg>
           </div>
           <div class="tutorial-content">
             <div class="tutorial-steps">
@@ -682,9 +728,7 @@ module EsportIcs
               <span>📖</span>
               <span>How to Subscribe</span>
             </div>
-            <svg class="toggle-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-              <path d="M12.78 5.22a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06 0L3.22 6.28a.75.75 0 0 1 1.06-1.06L8 8.94l3.72-3.72a.75.75 0 0 1 1.06 0Z"/>
-            </svg>
+            <svg class="toggle-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><use href="#icon-chevron"/></svg>
           </div>
           <div class="tutorial-content">
             <div class="tutorial-steps">
@@ -721,6 +765,7 @@ module EsportIcs
     def generate_search
       <<~HTML
         <div class="search-container" role="search">
+          <label for="search" class="sr-only">Search teams</label>
           <input type="text" class="search-input" placeholder="Search teams..." id="search">
           <button class="toggle-all-btn" id="toggleAll" onclick="toggleAllSections()">Expand All</button>
         </div>
@@ -742,10 +787,7 @@ module EsportIcs
         <<~HTML
           <li class="team-card" role="button" tabindex="0" data-url="#{url}" data-name="#{team[:name].downcase}" style="--accent: #{config[:accent]}">
             <span class="team-name">#{team[:name]}</span>
-            <svg class="copy-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-              <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"/>
-              <path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"/>
-            </svg>
+            <svg class="copy-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><use href="#icon-copy"/></svg>
           </li>
         HTML
       end.join
