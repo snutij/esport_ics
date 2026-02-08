@@ -401,7 +401,7 @@ module EsportIcs
           .game-count {
             font-size: 0.8rem;
             font-weight: 600;
-            color: var(--text-muted);
+            color: #8494a7;
             padding: 0.2rem 0.6rem;
             background: var(--bg-surface);
             border: 1px solid var(--border);
