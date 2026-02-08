@@ -75,15 +75,17 @@ module EsportIcs
           <meta name="robots" content="index, follow">
           <meta name="theme-color" content="#06080c">
           <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%2306080c'/><rect x='4' y='8' width='24' height='20' rx='3' fill='none' stroke='%2300e5ff' stroke-width='2'/><rect x='4' y='8' width='24' height='6' rx='3' fill='%2300e5ff'/><rect x='9' y='3' width='2' height='8' rx='1' fill='%2300e5ff'/><rect x='21' y='3' width='2' height='8' rx='1' fill='%2300e5ff'/><polygon points='16,17 17.5,20 21,20.5 18.5,23 19,26.5 16,25 13,26.5 13.5,23 11,20.5 14.5,20' fill='%2300e5ff'/></svg>">
-          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.googleapis.com" fetchpriority="high">
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-          <link rel="preload" href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&family=Exo+2:wght@400;600&display=swap" as="style">
-          <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&family=Exo+2:wght@400;600&display=swap" rel="stylesheet">
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&family=Exo+2:wght@400;600&display=swap" media="print" onload="this.media='all'">
+          <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&family=Exo+2:wght@400;600&display=swap"></noscript>
           <meta property="og:title" content="Esport ICS Calendars">
           <meta property="og:description" content="Free ICS calendar subscriptions for esports. Track your favorite teams in any calendar app.">
           <meta property="og:type" content="website">
           <meta property="og:url" content="https://esport-ics.pages.dev/">
           <meta property="og:image" content="https://raw.githubusercontent.com/snutij/esport_ics/main/og-image.png">
+          <meta property="og:image:width" content="1200">
+          <meta property="og:image:height" content="630">
           <meta name="twitter:card" content="summary_large_image">
           <meta name="twitter:title" content="Esport ICS Calendars">
           <meta name="twitter:description" content="Free ICS calendar subscriptions for esports. Track your favorite teams in any calendar app.">
@@ -425,6 +427,8 @@ module EsportIcs
             gap: 0.5rem;
             padding: 0 1rem 1rem;
             list-style: none;
+            content-visibility: auto;
+            contain-intrinsic-size: auto 500px;
           }
 
           /* --- Team Cards --- */
@@ -828,7 +832,7 @@ module EsportIcs
       teams_html = teams.map do |team|
         url = "#{GITHUB_RAW_URL}/#{game_slug}/#{team[:slug]}.ics"
         <<~HTML
-          <li class="team-card" tabindex="0" data-url="#{url}" data-name="#{team[:name].downcase}" style="--accent: #{config[:accent]}">
+          <li class="team-card" role="button" tabindex="0" data-url="#{url}" data-name="#{team[:name].downcase}" style="--accent: #{config[:accent]}">
             <span class="team-name">#{team[:name]}</span>
             <svg class="copy-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><use href="#icon-copy"/></svg>
           </li>
