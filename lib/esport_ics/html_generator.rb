@@ -604,6 +604,8 @@ module EsportIcs
             border: 1px solid var(--border);
           }
 
+          .tutorial-mobile { display: none; }
+
           /* --- Responsive --- */
           @media (max-width: 640px) {
             h1 { font-size: 1.85rem; }
@@ -616,6 +618,8 @@ module EsportIcs
             .tutorial {
               clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px));
             }
+            .tutorial-desktop { display: none; }
+            .tutorial-mobile { display: block; }
           }
         </style>
       CSS
@@ -639,7 +643,7 @@ module EsportIcs
 
     def generate_tutorial
       <<~HTML
-        <section class="tutorial collapsed">
+        <section class="tutorial tutorial-desktop collapsed">
           <div class="tutorial-header" role="button" tabindex="0" aria-expanded="false" onclick="toggleTutorial(this)">
             <div class="tutorial-title">
               <span>📖</span>
@@ -666,6 +670,45 @@ module EsportIcs
                     <li><strong>Google Calendar:</strong> Click <code>+</code> next to "Other calendars" → <code>From URL</code> → Paste</li>
                     <li><strong>Apple Calendar:</strong> <code>File</code> → <code>New Calendar Subscription</code> → Paste</li>
                     <li><strong>Outlook:</strong> <code>Add calendar</code> → <code>Subscribe from web</code> → Paste</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tutorial-step">
+                <div class="step-number">3</div>
+                <div class="step-content">
+                  <h3>Stay updated</h3>
+                  <p>Calendars sync automatically. New matches appear as they're scheduled.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="tutorial tutorial-mobile collapsed">
+          <div class="tutorial-header" role="button" tabindex="0" aria-expanded="false" onclick="toggleTutorial(this)">
+            <div class="tutorial-title">
+              <span>📖</span>
+              <span>How to Subscribe</span>
+            </div>
+            <svg class="toggle-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+              <path d="M12.78 5.22a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06 0L3.22 6.28a.75.75 0 0 1 1.06-1.06L8 8.94l3.72-3.72a.75.75 0 0 1 1.06 0Z"/>
+            </svg>
+          </div>
+          <div class="tutorial-content">
+            <div class="tutorial-steps">
+              <div class="tutorial-step">
+                <div class="step-number">1</div>
+                <div class="step-content">
+                  <h3>Copy a calendar URL</h3>
+                  <p>Tap any team below to copy its calendar URL.</p>
+                </div>
+              </div>
+              <div class="tutorial-step">
+                <div class="step-number">2</div>
+                <div class="step-content">
+                  <h3>Add to your calendar app</h3>
+                  <ul>
+                    <li><strong>iPhone / iPad:</strong> Open Calendar app → <code>Calendars</code> (bottom) → <code>Add Calendar</code> → <code>Add Subscription Calendar</code> → Paste URL</li>
+                    <li><strong>Android:</strong> Google Calendar app doesn't support ICS subscriptions directly. Open <code>calendar.google.com</code> in your browser → <code>+</code> next to "Other calendars" → <code>From URL</code> → Paste. It syncs to the mobile app automatically.</li>
                   </ul>
                 </div>
               </div>
