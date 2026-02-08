@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spacestation Gaming
+SLUG:spacestation-gaming
+BEGIN:VEVENT
+DTSTAMP:20260208T024325Z
+UID:pandascore-match-1352531@esport-ics
+DTSTART:20260208T210000Z
+DTEND:20260209T021500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS NA - Major 3: Open Qualifier season 3 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/rocketleague
+SUMMARY:Semifinal 1: SSG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+END:VCALENDAR

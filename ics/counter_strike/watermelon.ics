@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 22 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 3: WTRML0N vs Y.TigeRES
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260208T024319Z
+UID:pandascore-match-1351391@esport-ics
+DTSTART:20260208T170000Z
+DTEND:20260208T174500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta: Global Open Qualifier 2026 - Playoffs
+SUMMARY:Round 16 match 8: L00m1 vs WTRML0N
 END:VEVENT
 END:VCALENDAR

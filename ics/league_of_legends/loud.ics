@@ -13,6 +13,16 @@ DTEND:20260207T211500Z
 CLASS:PUBLIC
 DESCRIPTION:CBLOL - Cup 2026 - Playoffs\nWatch: https://www.twitch.tv/cblol
 SUMMARY:Upper bracket quarterfinal 1: LLL vs VKS
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260208T024322Z
+UID:pandascore-match-1335651@esport-ics
+DTSTART:20260208T160000Z
+DTEND:20260208T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Cup 2026 - Playoffs\nWatch: https://www.twitch.tv/cblol
+SUMMARY:Upper bracket semifinal 1: LLL vs LOS
 URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

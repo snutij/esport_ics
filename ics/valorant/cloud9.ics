@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Kickoff 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant_americas
 SUMMARY:Lower bracket round 3 match 2: C9 vs LEV
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260208T024327Z
+UID:pandascore-match-1288596@esport-ics
+DTSTART:20260213T200000Z
+DTEND:20260213T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Kickoff 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/valorant_americas
+SUMMARY:Lower bracket quarterfinal: 100T vs C9
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

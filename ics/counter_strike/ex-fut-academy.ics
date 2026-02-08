@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ex-FUT Academy
+SLUG:ex-fut-academy
+BEGIN:VEVENT
+DTSTAMP:20260208T024319Z
+UID:pandascore-match-1352356@esport-ics
+DTSTART:20260209T090000Z
+DTEND:20260209T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 44 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket quarterfinal 3: MID vs ex-FUT Academy
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+END:VCALENDAR

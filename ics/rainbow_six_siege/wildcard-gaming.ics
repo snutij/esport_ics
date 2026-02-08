@@ -6,12 +6,14 @@ METHOD:PUBLISH
 X-WR-CALNAME:Wildcard Gaming
 SLUG:wildcard-gaming
 BEGIN:VEVENT
-DTSTAMP:20260207T125358Z
+DTSTAMP:20260208T024324Z
 UID:pandascore-match-1351369@esport-ics
 DTSTART:20260208T203000Z
 DTEND:20260208T224500Z
 CLASS:PUBLIC
-DESCRIPTION:Six Invitational - 2026 - Playoffs
+DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/rainbow6
 SUMMARY:Upper bracket quarterfinals match 1: WCG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

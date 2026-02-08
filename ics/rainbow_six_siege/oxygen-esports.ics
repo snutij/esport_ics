@@ -6,12 +6,14 @@ METHOD:PUBLISH
 X-WR-CALNAME:Oxygen Esports
 SLUG:oxygen-esports
 BEGIN:VEVENT
-DTSTAMP:20260207T125358Z
+DTSTAMP:20260208T024324Z
 UID:pandascore-match-1351375@esport-ics
 DTSTART:20260209T133000Z
 DTEND:20260209T154500Z
 CLASS:PUBLIC
-DESCRIPTION:Six Invitational - 2026 - Playoffs
+DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/rainbow6
 SUMMARY:Lower bracket round 1 match 3: TBD vs OXG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

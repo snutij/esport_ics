@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NRG Esports
+SLUG:nrg-esports
+BEGIN:VEVENT
+DTSTAMP:20260208T024325Z
+UID:pandascore-match-1352530@esport-ics
+DTSTART:20260208T180000Z
+DTEND:20260208T231500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS NA - Major 3: Open Qualifier season 3 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/rocketleague
+SUMMARY:Lower bracket quarterfinal 2: DIG vs NRG
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+END:VCALENDAR
