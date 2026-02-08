@@ -77,6 +77,7 @@ module EsportIcs
           <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%2306080c'/><rect x='4' y='8' width='24' height='20' rx='3' fill='none' stroke='%2300e5ff' stroke-width='2'/><rect x='4' y='8' width='24' height='6' rx='3' fill='%2300e5ff'/><rect x='9' y='3' width='2' height='8' rx='1' fill='%2300e5ff'/><rect x='21' y='3' width='2' height='8' rx='1' fill='%2300e5ff'/><polygon points='16,17 17.5,20 21,20.5 18.5,23 19,26.5 16,25 13,26.5 13.5,23 11,20.5 14.5,20' fill='%2300e5ff'/></svg>">
           <link rel="preconnect" href="https://fonts.googleapis.com">
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link rel="preload" href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&family=Exo+2:wght@400;600&display=swap" as="style">
           <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&family=Exo+2:wght@400;600&display=swap" rel="stylesheet">
           <meta property="og:title" content="Esport ICS Calendars">
           <meta property="og:description" content="Free ICS calendar subscriptions for esports. Track your favorite teams in any calendar app.">
@@ -316,6 +317,13 @@ module EsportIcs
             box-shadow: 0 0 12px rgba(0, 229, 255, 0.1);
           }
 
+          .toggle-all-btn:focus-visible {
+            outline: 2px solid var(--cyan);
+            outline-offset: -2px;
+            border-color: var(--cyan);
+            background: var(--bg-elevated);
+          }
+
           /* --- Game Sections --- */
           .game-section {
             margin-bottom: 1.25rem;
@@ -334,6 +342,12 @@ module EsportIcs
             user-select: none;
             transition: background 0.2s;
             position: relative;
+            width: 100%;
+            border: none;
+            background: none;
+            color: inherit;
+            font: inherit;
+            text-align: left;
           }
 
           .game-header::before {
@@ -353,6 +367,12 @@ module EsportIcs
 
           .game-header:hover::before {
             width: 100%;
+          }
+
+          .game-header:focus-visible {
+            outline: 2px solid var(--cyan);
+            outline-offset: -2px;
+            background: var(--bg-surface);
           }
 
           .game-title {
@@ -439,6 +459,17 @@ module EsportIcs
             border-color: var(--accent, var(--cyan));
             background: var(--bg-surface);
             box-shadow: 0 0 16px -4px var(--accent, var(--cyan)), inset 0 0 20px -12px var(--accent, var(--cyan));
+          }
+
+          .team-card:focus-visible {
+            outline: 2px solid var(--accent, var(--cyan));
+            outline-offset: -2px;
+            background: var(--bg-surface);
+            box-shadow: 0 0 16px -4px var(--accent, var(--cyan)), inset 0 0 20px -12px var(--accent, var(--cyan));
+          }
+
+          .team-card:focus-visible .copy-icon {
+            opacity: 1;
           }
 
           .team-card.copied {
@@ -563,9 +594,21 @@ module EsportIcs
             cursor: pointer;
             user-select: none;
             transition: background 0.2s;
+            width: 100%;
+            border: none;
+            background: none;
+            color: inherit;
+            font: inherit;
+            text-align: left;
           }
 
           .tutorial-header:hover {
+            background: var(--bg-surface);
+          }
+
+          .tutorial-header:focus-visible {
+            outline: 2px solid var(--cyan);
+            outline-offset: -2px;
             background: var(--bg-surface);
           }
 
@@ -685,13 +728,13 @@ module EsportIcs
     def generate_tutorial
       <<~HTML
         <section class="tutorial tutorial-desktop collapsed">
-          <div class="tutorial-header" role="button" tabindex="0" aria-expanded="false" onclick="toggleTutorial(this)">
+          <button class="tutorial-header" type="button" aria-expanded="false">
             <div class="tutorial-title">
               <span>📖</span>
               <span>How to Subscribe</span>
             </div>
-            <svg class="toggle-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><use href="#icon-chevron"/></svg>
-          </div>
+            <svg class="toggle-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><use href="#icon-chevron"/></svg>
+          </button>
           <div class="tutorial-content">
             <div class="tutorial-steps">
               <div class="tutorial-step">
@@ -723,13 +766,13 @@ module EsportIcs
           </div>
         </section>
         <section class="tutorial tutorial-mobile collapsed">
-          <div class="tutorial-header" role="button" tabindex="0" aria-expanded="false" onclick="toggleTutorial(this)">
+          <button class="tutorial-header" type="button" aria-expanded="false">
             <div class="tutorial-title">
               <span>📖</span>
               <span>How to Subscribe</span>
             </div>
-            <svg class="toggle-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><use href="#icon-chevron"/></svg>
-          </div>
+            <svg class="toggle-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><use href="#icon-chevron"/></svg>
+          </button>
           <div class="tutorial-content">
             <div class="tutorial-steps">
               <div class="tutorial-step">
@@ -767,7 +810,7 @@ module EsportIcs
         <div class="search-container" role="search">
           <label for="search" class="sr-only">Search teams</label>
           <input type="text" class="search-input" placeholder="Search teams..." id="search">
-          <button class="toggle-all-btn" id="toggleAll" onclick="toggleAllSections()">Expand All</button>
+          <button class="toggle-all-btn" type="button" id="toggleAll">Expand All</button>
         </div>
       HTML
     end
@@ -785,27 +828,27 @@ module EsportIcs
       teams_html = teams.map do |team|
         url = "#{GITHUB_RAW_URL}/#{game_slug}/#{team[:slug]}.ics"
         <<~HTML
-          <li class="team-card" role="button" tabindex="0" data-url="#{url}" data-name="#{team[:name].downcase}" style="--accent: #{config[:accent]}">
+          <li class="team-card" tabindex="0" data-url="#{url}" data-name="#{team[:name].downcase}" style="--accent: #{config[:accent]}">
             <span class="team-name">#{team[:name]}</span>
-            <svg class="copy-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><use href="#icon-copy"/></svg>
+            <svg class="copy-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><use href="#icon-copy"/></svg>
           </li>
         HTML
       end.join
 
       <<~HTML
         <section class="game-section collapsed" data-game="#{game_slug}" style="--accent: #{config[:accent]}">
-          <div class="game-header" role="button" tabindex="0" aria-expanded="false" onclick="toggleSection(this)">
+          <button class="game-header" type="button" aria-expanded="false">
             <div class="game-title">
               <span class="accent-bar" style="background: #{config[:accent]}; box-shadow: 0 0 8px #{config[:accent]}"></span>
               <h2 style="color: #{config[:accent]}">#{config[:name]}</h2>
             </div>
             <div style="display: flex; align-items: center; gap: 1rem;">
               <span class="game-count">#{teams.size} teams</span>
-              <svg class="toggle-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+              <svg class="toggle-icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
                 <path d="M12.78 5.22a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06 0L3.22 6.28a.75.75 0 0 1 1.06-1.06L8 8.94l3.72-3.72a.75.75 0 0 1 1.06 0Z"/>
               </svg>
             </div>
-          </div>
+          </button>
           <ul class="teams-grid">
             #{teams_html}
           </ul>
@@ -876,18 +919,39 @@ module EsportIcs
             document.getElementById('toggleAll').textContent = allCollapsed ? 'Expand All' : 'Collapse All';
           }
 
-          document.querySelectorAll('.team-card').forEach(card => {
-            card.addEventListener('click', async () => {
-              const url = card.dataset.url;
-              try {
-                await navigator.clipboard.writeText(url);
-                card.classList.add('copied');
-                showToast();
-                setTimeout(() => card.classList.remove('copied'), 2000);
-              } catch (err) {
-                prompt('Copy this URL:', url);
-              }
-            });
+          async function copyTeamUrl(card) {
+            const url = card.dataset.url;
+            try {
+              await navigator.clipboard.writeText(url);
+              card.classList.add('copied');
+              showToast();
+              setTimeout(() => card.classList.remove('copied'), 2000);
+            } catch (err) {
+              prompt('Copy this URL:', url);
+            }
+          }
+
+          /* Event delegation — no inline onclick needed */
+          document.addEventListener('click', (e) => {
+            const gameHeader = e.target.closest('.game-header');
+            if (gameHeader) { toggleSection(gameHeader); return; }
+
+            const tutorialHeader = e.target.closest('.tutorial-header');
+            if (tutorialHeader) { toggleTutorial(tutorialHeader); return; }
+
+            const teamCard = e.target.closest('.team-card');
+            if (teamCard) { copyTeamUrl(teamCard); return; }
+
+            if (e.target.closest('#toggleAll')) { toggleAllSections(); return; }
+          });
+
+          document.addEventListener('keydown', (e) => {
+            if (e.key !== 'Enter' && e.key !== ' ') return;
+            const card = e.target.closest('.team-card');
+            if (card) {
+              e.preventDefault();
+              copyTeamUrl(card);
+            }
           });
 
           function showToast() {
