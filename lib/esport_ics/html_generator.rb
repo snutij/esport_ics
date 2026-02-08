@@ -611,12 +611,6 @@ module EsportIcs
             .teams-grid {
               grid-template-columns: 1fr;
             }
-            .team-card {
-  
-            }
-            .tutorial {
-  
-            }
             .tutorial-desktop { display: none; }
             .tutorial-mobile { display: block; }
           }
