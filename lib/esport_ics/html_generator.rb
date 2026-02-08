@@ -262,7 +262,6 @@ module EsportIcs
             color: var(--text);
             outline: none;
             transition: border-color 0.2s, box-shadow 0.2s;
-            clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 0 100%);
           }
 
           .search-input:focus {
@@ -287,7 +286,6 @@ module EsportIcs
             cursor: pointer;
             transition: all 0.2s;
             white-space: nowrap;
-            clip-path: polygon(12px 0, 100% 0, 100% 100%, 0 100%, 0 12px);
           }
 
           .toggle-all-btn:hover {
@@ -303,16 +301,7 @@ module EsportIcs
             border-left: 4px solid var(--accent, var(--cyan));
             overflow: hidden;
             background: var(--bg-mid);
-            clip-path: polygon(0 0, calc(100% - 16px) 0, 100% 16px, 100% 100%, 16px 100%, 0 calc(100% - 16px));
             box-shadow: -4px 0 20px -6px var(--accent, var(--cyan));
-            opacity: 0;
-            transform: translateY(20px);
-            transition: opacity 0.5s ease, transform 0.5s ease;
-          }
-
-          .game-section.revealed {
-            opacity: 1;
-            transform: translateY(0);
           }
 
           .game-header {
@@ -515,7 +504,6 @@ module EsportIcs
             border-left: 4px solid var(--cyan);
             background: var(--bg-mid);
             overflow: hidden;
-            clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 12px 100%, 0 calc(100% - 12px));
           }
 
           .tutorial-header {
@@ -621,9 +609,6 @@ module EsportIcs
             h1 { font-size: 1.85rem; }
             .teams-grid {
               grid-template-columns: 1fr;
-            }
-            .game-section {
-              clip-path: polygon(0 0, calc(100% - 10px) 0, 100% 10px, 100% 100%, 10px 100%, 0 calc(100% - 10px));
             }
             .team-card {
               clip-path: polygon(0 0, 100% 0, 100% calc(100% - 6px), calc(100% - 6px) 100%, 0 100%);
@@ -882,20 +867,6 @@ module EsportIcs
             filterTeams(initialSearch.toLowerCase().trim());
           }
 
-          // Scroll-triggered reveal
-          const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-              if (entry.isIntersecting) {
-                entry.target.classList.add('revealed');
-                observer.unobserve(entry.target);
-              }
-            });
-          }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
-
-          document.querySelectorAll('.game-section').forEach((section, i) => {
-            section.style.transitionDelay = (i * 80) + 'ms';
-            observer.observe(section);
-          });
         </script>
       HTML
     end
