@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 3 2026 - Group Stage\nWatch: ht
  tps://www.twitch.tv/esl_dota2
 SUMMARY:AUR vs Silk
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260208T125451Z
+UID:pandascore-match-1344890@esport-ics
+DTSTART:20260209T153000Z
+DTEND:20260209T174500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 3 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/esl_dota2
+SUMMARY:Upper bracket semifinal 1: AUR vs Z10
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

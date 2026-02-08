@@ -14,10 +14,10 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 44 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket quarterfinal 1: AAB vs 8S
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T024319Z
+DTSTAMP:20260208T125452Z
 UID:pandascore-match-1338600@esport-ics
 DTSTART:20260209T180000Z
 DTEND:20260209T201500Z
@@ -28,7 +28,18 @@ SUMMARY:Round 2: AAB vs struggletony
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T024319Z
+DTSTAMP:20260208T125452Z
+UID:pandascore-match-1352360@esport-ics
+DTSTART:20260211T090000Z
+DTEND:20260211T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 44 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket semifinal 1: AAB vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260208T125452Z
 UID:pandascore-match-1351029@esport-ics
 DTSTART:20260212T153000Z
 DTEND:20260212T174500Z

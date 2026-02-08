@@ -15,12 +15,14 @@ DESCRIPTION:RES Showdown Spring - 2026 - Playoffs
 SUMMARY:Semifinal 2: BCG vs GL
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T024319Z
+DTSTAMP:20260208T125452Z
 UID:pandascore-match-1349933@esport-ics
 DTSTART:20260208T130000Z
 DTEND:20260208T151500Z
 CLASS:PUBLIC
-DESCRIPTION:RES Showdown Spring - 2026 - Playoffs
+DESCRIPTION:RES Showdown Spring - 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/rlg_cs
 SUMMARY:Grand final: NIP vs GL
+URL;VALUE=URI:https://www.twitch.tv/rlg_cs
 END:VEVENT
 END:VCALENDAR

@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 22 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 3: PCF vs  Phantom Academy
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260207T125353Z
@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 22 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 3: JUMBO vs  Phantom Academy
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260208T125452Z
+UID:pandascore-match-1352735@esport-ics
+DTSTART:20260208T133000Z
+DTEND:20260208T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 22 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 4:  Phantom Academy vs Y.TigeRES
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
