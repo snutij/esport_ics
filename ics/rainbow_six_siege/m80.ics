@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/rainbow6
 SUMMARY:Upper bracket round 1 match 1: SSG vs M80
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T022852Z
+UID:pandascore-match-1351373@esport-ics
+DTSTART:20260209T133000Z
+DTEND:20260209T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/rainbow6
+SUMMARY:Lower bracket round 1 match 1: M80 vs G2
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

@@ -25,6 +25,16 @@ CLASS:PUBLIC
 DESCRIPTION:LEC - Versus 2026 - Regular Season\nWatch: https://www.twitch.t
  v/lec
 SUMMARY:TH vs KC
+URL:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T022853Z
+UID:pandascore-match-1350528@esport-ics
+DTSTART:20260217T173000Z
+DTEND:20260217T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Versus 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
+SUMMARY:Upper bracket quarterfinal 1: KC vs GX
 URL;VALUE=URI:https://www.twitch.tv/lec
 END:VEVENT
 END:VCALENDAR

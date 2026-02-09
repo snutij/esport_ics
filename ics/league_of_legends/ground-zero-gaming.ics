@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
  tv/lolpacificen
 SUMMARY:GZ vs MVK
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T022853Z
+UID:pandascore-match-1308279@esport-ics
+DTSTART:20260213T060000Z
+DTEND:20260213T094500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ pacificen
+SUMMARY:Upper bracket quarterfinal 2: GZ vs CFO
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR

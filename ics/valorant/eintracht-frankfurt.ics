@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - DACH: Evolution Stage 1 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/valorantleague_dach
 SUMMARY:Upper bracket semifinal 2: SGE vs CGN
+URL:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T022852Z
+UID:pandascore-match-1344502@esport-ics
+DTSTART:20260214T140000Z
+DTEND:20260214T161500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 1 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/valorantleague_dach
+SUMMARY:Lower bracket quarterfinal 1: SGE vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
 END:VEVENT
 END:VCALENDAR

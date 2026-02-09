@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT North America - Series #3 season 3 2026 - Playoffs\nWatch: 
  https://kick.com/cct_cs4
 SUMMARY:Quarterfinal 1: MARS vs ZOMB
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T022854Z
+UID:pandascore-match-1353869@esport-ics
+DTSTART:20260211T010000Z
+DTEND:20260211T031500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.us - Eagle Masters season 6 2026 - Group Stage
+SUMMARY:Round 3: TA vs ZOMB
 END:VEVENT
 END:VCALENDAR

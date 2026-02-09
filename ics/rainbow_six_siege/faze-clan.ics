@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/rainbow6
 SUMMARY:Upper bracket quarterfinals match 2: FaZe vs Fluxo W7M
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T022852Z
+UID:pandascore-match-1353941@esport-ics
+DTSTART:20260210T133000Z
+DTEND:20260210T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/rainbow6
+SUMMARY:Upper bracket semifinal 1: WCG vs FaZe
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
