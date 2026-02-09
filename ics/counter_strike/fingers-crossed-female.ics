@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME: Fingers Crossed Female
+SLUG:fingers-crossed-female
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1354003@esport-ics
+DTSTART:20260209T201500Z
+DTEND:20260209T223000Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Female season 1 2026 - Group A\nWatch: https://
+ kick.com/jbproleague
+SUMMARY:Peekaboo vs  Fingers Crossed Female
+URL;VALUE=URI:https://kick.com/jbproleague
+END:VEVENT
+END:VCALENDAR

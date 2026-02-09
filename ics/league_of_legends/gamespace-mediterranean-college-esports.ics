@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Gamespace Mediterranean College Esports
 SLUG:gamespace-mediterranean-college-esports
 BEGIN:VEVENT
-DTSTAMP:20260209T022853Z
+DTSTAMP:20260209T131340Z
 UID:pandascore-match-1309894@esport-ics
 DTSTART:20260210T160000Z
 DTEND:20260210T173000Z
@@ -14,6 +14,28 @@ CLASS:PUBLIC
 DESCRIPTION:HLL - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
  v/helleniclegends
 SUMMARY:IN5 vs GSMC
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1309891@esport-ics
+DTSTART:20260218T180000Z
+DTEND:20260218T193000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:HWL vs GSMC
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1309893@esport-ics
+DTSTART:20260219T180000Z
+DTEND:20260219T193000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:WLG vs GSMC
 URL;VALUE=URI:https://www.twitch.tv/helleniclegends
 END:VEVENT
 END:VCALENDAR

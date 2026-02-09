@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCK Challengers League - Kickoff 2026 - Playoffs\nWatch: https:
  //www.youtube.com/@lckcl
 SUMMARY:Upper bracket quarterfinal 1: NS.EA vs HLE
+URL:https://www.youtube.com/@lckcl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1310978@esport-ics
+DTSTART:20260210T080000Z
+DTEND:20260210T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK Challengers League - Kickoff 2026 - Playoffs\nWatch: https:
+ //www.youtube.com/@lckcl
+SUMMARY:Lower bracket round 1: HLE vs DRX.C
 URL;VALUE=URI:https://www.youtube.com/@lckcl
 END:VEVENT
 END:VCALENDAR

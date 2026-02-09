@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCK Challengers League - Kickoff 2026 - Playoffs\nWatch: https:
  //www.youtube.com/@lckcl
 SUMMARY:Upper bracket quarterfinal 2: DRX.C vs T1.A
+URL:https://www.youtube.com/@lckcl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1310972@esport-ics
+DTSTART:20260223T080000Z
+DTEND:20260223T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK Challengers League - Kickoff 2026 - Playoffs\nWatch: https:
+ //www.youtube.com/@lckcl
+SUMMARY:Upper bracket semifinal 2: T1.A vs DNS.C
 URL;VALUE=URI:https://www.youtube.com/@lckcl
 END:VEVENT
 END:VCALENDAR

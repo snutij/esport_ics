@@ -14,6 +14,16 @@ CLASS:PUBLIC
 DESCRIPTION:LCS - Lock In 2026 - Group Stage\nWatch: https://www.twitch.tv/
  lcs
 SUMMARY:Round 3: TL vs SEN
+URL:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1314731@esport-ics
+DTSTART:20260221T210000Z
+DTEND:20260222T004500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Lock In 2026 - Playoffs\nWatch: https://www.twitch.tv/lcs
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TL
 URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR

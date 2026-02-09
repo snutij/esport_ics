@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Team Insidious
 SLUG:team-insidious
 BEGIN:VEVENT
-DTSTAMP:20260209T022853Z
+DTSTAMP:20260209T131340Z
 UID:pandascore-match-1309894@esport-ics
 DTSTART:20260210T160000Z
 DTEND:20260210T173000Z
@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:HLL - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
  v/helleniclegends
 SUMMARY:IN5 vs GSMC
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1309892@esport-ics
+DTSTART:20260219T160000Z
+DTEND:20260219T173000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:ALMO vs IN5
 URL;VALUE=URI:https://www.twitch.tv/helleniclegends
 END:VEVENT
 END:VCALENDAR

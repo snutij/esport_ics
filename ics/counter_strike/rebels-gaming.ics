@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #15 season 3 2026 - Play-
  In\nWatch: https://kick.com/cct_cs
 SUMMARY:WB vs RBLS
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1353982@esport-ics
+DTSTART:20260213T090000Z
+DTEND:20260213T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Elimination match: RBLS vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

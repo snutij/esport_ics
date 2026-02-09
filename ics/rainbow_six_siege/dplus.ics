@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/rainbow6
 SUMMARY:Lower bracket round 1 match 2: DK vs DAY
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131339Z
+UID:pandascore-match-1353944@esport-ics
+DTSTART:20260209T170000Z
+DTEND:20260209T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/rainbow6bravo
+SUMMARY:Lower bracket round 2 match 2: WBG vs DK
+URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
 END:VEVENT
 END:VCALENDAR

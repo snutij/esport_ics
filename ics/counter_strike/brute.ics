@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Brute
 SLUG:brute
 BEGIN:VEVENT
-DTSTAMP:20260209T022854Z
+DTSTAMP:20260209T131340Z
 UID:pandascore-match-1350044@esport-ics
 DTSTART:20260209T150000Z
 DTEND:20260209T171500Z
@@ -15,5 +15,27 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #16 season 3 2026 - Group
   B\nWatch: https://kick.com/cct_cs2
 SUMMARY:BBP vs BRUTE
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1353992@esport-ics
+DTSTART:20260211T090000Z
+DTEND:20260211T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:BRUTE vs PRIME
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1313594@esport-ics
+DTSTART:20260221T163000Z
+DTEND:20260221T184500Z
+CLASS:PUBLIC
+DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/a1gamingleague
+SUMMARY:Round of 16 match 6: KOL vs BRUTE
+URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 END:VCALENDAR

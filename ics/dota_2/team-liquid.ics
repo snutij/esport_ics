@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 6 2026 - Play-In\nWatch: https://www.twitch
  .tv/BLASTDota
 SUMMARY:Round 2 match 4: Liquid vs GL
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131339Z
+UID:pandascore-match-1337043@esport-ics
+DTSTART:20260213T130000Z
+DTEND:20260213T164500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 6 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/BLASTDota
+SUMMARY:Quarterfinal 1: FLC vs Liquid
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

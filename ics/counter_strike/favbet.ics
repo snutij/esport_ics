@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #15 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs
 SUMMARY:Round 1: FAV vs NXS
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1313595@esport-ics
+DTSTART:20260222T140000Z
+DTEND:20260222T161500Z
+CLASS:PUBLIC
+DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/a1gamingleague
+SUMMARY:Round of 16 match 7: FAV vs HS
+URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 END:VCALENDAR

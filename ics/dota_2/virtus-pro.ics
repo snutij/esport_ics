@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 3 2026 - Group Stage\nWatch: ht
  tps://www.twitch.tv/esl_dota2
 SUMMARY:NGX vs VP
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131339Z
+UID:pandascore-match-1344896@esport-ics
+DTSTART:20260210T153000Z
+DTEND:20260210T174500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 3 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/esl_dota2
+SUMMARY:Lower bracket quarterfinal 1: TBD vs VP
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

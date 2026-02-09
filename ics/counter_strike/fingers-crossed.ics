@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fingers Crossed
+SLUG:fingers-crossed
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1313590@esport-ics
+DTSTART:20260214T163000Z
+DTEND:20260214T184500Z
+CLASS:PUBLIC
+DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/a1gamingleague
+SUMMARY:Round of 16 match 2: ORM vs Fingers
+URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+END:VEVENT
+END:VCALENDAR

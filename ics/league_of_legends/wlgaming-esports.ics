@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:WLGaming Esports
 SLUG:wlgaming-esports
 BEGIN:VEVENT
-DTSTAMP:20260209T022853Z
+DTSTAMP:20260209T131340Z
 UID:pandascore-match-1309895@esport-ics
 DTSTART:20260210T180000Z
 DTEND:20260210T193000Z
@@ -14,6 +14,28 @@ CLASS:PUBLIC
 DESCRIPTION:HLL - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
  v/helleniclegends
 SUMMARY:WLG vs TP
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1309890@esport-ics
+DTSTART:20260218T160000Z
+DTEND:20260218T173000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:ALMO vs WLG
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T131340Z
+UID:pandascore-match-1309893@esport-ics
+DTSTART:20260219T180000Z
+DTEND:20260219T193000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:WLG vs GSMC
 URL;VALUE=URI:https://www.twitch.tv/helleniclegends
 END:VEVENT
 END:VCALENDAR
