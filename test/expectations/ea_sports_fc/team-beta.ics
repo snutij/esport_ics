@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Beta
+SLUG:team-beta
+BEGIN:VEVENT
+DTSTAMP:20260210T223025Z
+UID:pandascore-match-100001@esport-ics
+DTSTART:20240701T140000Z
+DTEND:20240701T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Test League - Summer 2024 - Playoffs\nWatch: https://www.twitch
+ .tv/test_stream
+SUMMARY:TA vs TB
+URL;VALUE=URI:https://www.twitch.tv/test_stream
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T223025Z
+UID:pandascore-match-100003@esport-ics
+DTSTART:20240703T200000Z
+DTEND:20240703T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Test League - Summer 2024 - Playoffs\nWatch: https://www.twitch
+ .tv/test_stream2
+SUMMARY:TB vs TG
+URL;VALUE=URI:https://www.twitch.tv/test_stream2
+END:VEVENT
+END:VCALENDAR

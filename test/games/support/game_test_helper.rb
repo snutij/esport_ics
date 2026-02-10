@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require "tmpdir"
+
 module EsportIcs
   module Games
     module GameTestHelper
@@ -22,6 +24,28 @@ module EsportIcs
                 calendars.concat(expected_ics).map { |c| Icalendar::Calendar.parse(c).first }
                   .group_by { |c| c.custom_property("slug").first }
                   .each { |_slug, (cal, exp)| assert_same_calendar(cal, exp) }
+              end
+            end
+
+            def test_write_ics_files
+              Dir.mktmpdir do |tmpdir|
+                with_matches_stubbed do
+                  @game.build!
+
+                  old_ics_path = Games::Base::ICS_PATH
+                  Games::Base.send(:remove_const, :ICS_PATH)
+                  Games::Base.const_set(:ICS_PATH, "#{tmpdir}/:folder/:team.ics")
+
+                  result = @game.write!
+
+                  assert_same(@game, result)
+                  @game.calendars.each_key do |team_slug|
+                    assert_path_exists(File.join(tmpdir, @game.folder, "#{team_slug}.ics"))
+                  end
+                ensure
+                  Games::Base.send(:remove_const, :ICS_PATH)
+                  Games::Base.const_set(:ICS_PATH, old_ics_path)
+                end
               end
             end
 
@@ -61,6 +85,19 @@ module EsportIcs
           assert_equal(event.dtend.to_s, expected_event.dtend.to_s)
         end
       end
+    end
+
+    # Auto-generate test classes for every game that has fixtures
+    REGISTRY.each do |class_name, config|
+      next unless File.exist?(File.join(GameTestHelper::FIXTURES_DIR, config[:ics_folder], "matches.json"))
+
+      test_class = Class.new(Minitest::Test) do
+        include GameTestHelper
+
+        define_method(:setup) { @game = Games.const_get(class_name).new }
+      end
+
+      const_set(:"#{class_name}Test", test_class)
     end
   end
 end
