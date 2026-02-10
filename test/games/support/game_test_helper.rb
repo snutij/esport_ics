@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require "tmpdir"
+
 module EsportIcs
   module Games
     module GameTestHelper
@@ -83,6 +85,19 @@ module EsportIcs
           assert_equal(event.dtend.to_s, expected_event.dtend.to_s)
         end
       end
+    end
+
+    # Auto-generate test classes for every game that has fixtures
+    REGISTRY.each do |class_name, config|
+      next unless File.exist?(File.join(GameTestHelper::FIXTURES_DIR, config[:ics_folder], "matches.json"))
+
+      test_class = Class.new(Minitest::Test) do
+        include GameTestHelper
+
+        define_method(:setup) { @game = Games.const_get(class_name).new }
+      end
+
+      const_set(:"#{class_name}Test", test_class)
     end
   end
 end
