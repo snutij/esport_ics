@@ -14,6 +14,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #16 season 3 2026 - Group
   B\nWatch: https://kick.com/cct_cs2
 SUMMARY:BBP vs BRUTE
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T023634Z
+UID:pandascore-match-1350046@esport-ics
+DTSTART:20260210T120000Z
+DTEND:20260210T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #16 season 3 2026 - Group
+  B\nWatch: https://kick.com/cct_cs2
+SUMMARY:Elimination match: BBP vs WSG
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T023634Z
+UID:pandascore-match-1353982@esport-ics
+DTSTART:20260213T090000Z
+DTEND:20260213T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Elimination match: RBLS vs BBP
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

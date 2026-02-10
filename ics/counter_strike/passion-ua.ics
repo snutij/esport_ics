@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:Ace North American Masters - Spring 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/ligaaceesports
 SUMMARY:Grand final: NRG vs PSSN.UA
-URL;VALUE=URI:https://www.twitch.tv/ligaaceesports
+URL:https://www.twitch.tv/ligaaceesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T023634Z
+UID:pandascore-match-1344439@esport-ics
+DTSTART:20260210T190000Z
+DTEND:20260210T211500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta: American Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: PSSN.UA vs mouse
 END:VEVENT
 END:VCALENDAR

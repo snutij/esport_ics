@@ -6,14 +6,14 @@ METHOD:PUBLISH
 X-WR-CALNAME:Misa Esports
 SLUG:misa-esports
 BEGIN:VEVENT
-DTSTAMP:20260209T131340Z
+DTSTAMP:20260210T023633Z
 UID:pandascore-match-1351409@esport-ics
 DTSTART:20260210T143000Z
 DTEND:20260210T164500Z
 CLASS:PUBLIC
 DESCRIPTION:TCL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
  gamesturkish
-SUMMARY:Upper bracket semifinal 1: ME vs TBD
+SUMMARY:Upper bracket semifinal 1: ME vs SU
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 END:VCALENDAR

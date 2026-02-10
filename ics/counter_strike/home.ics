@@ -14,6 +14,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #16 season 3 2026 - Group
   B\nWatch: https://kick.com/cct_cs2
 SUMMARY:home vs WSG
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T023634Z
+UID:pandascore-match-1350047@esport-ics
+DTSTART:20260210T180000Z
+DTEND:20260210T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #16 season 3 2026 - Group
+  B\nWatch: https://kick.com/cct_cs2
+SUMMARY:Winners match: BRUTE vs home
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T023634Z
+UID:pandascore-match-1355217@esport-ics
+DTSTART:20260212T150000Z
+DTEND:20260212T171500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group B\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Omega vs home
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - DACH: Evolution Stage 1 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/valorantleague_dach
 SUMMARY:Upper bracket final: FKS vs CGN
+URL:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T023633Z
+UID:pandascore-match-1344500@esport-ics
+DTSTART:20260228T180000Z
+DTEND:20260228T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 1 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/valorantleague_dach
+SUMMARY:Lower bracket final: FKS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
 END:VEVENT
 END:VCALENDAR

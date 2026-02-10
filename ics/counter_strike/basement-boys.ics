@@ -15,7 +15,7 @@ DESCRIPTION:IEM - Atlanta: Global Open Qualifier 2026 - Playoffs
 SUMMARY:Round 16 match 5: BMB vs BL
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260209T131340Z
+DTSTAMP:20260210T023634Z
 UID:pandascore-match-1353987@esport-ics
 DTSTART:20260210T090000Z
 DTEND:20260210T111500Z
@@ -24,5 +24,27 @@ DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group B\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:BMB vs MSC
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T023634Z
+UID:pandascore-match-1344410@esport-ics
+DTSTART:20260210T100000Z
+DTEND:20260210T121500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/ESLCS
+SUMMARY:Upper bracket round 1 match 1: BB vs BMB
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T023634Z
+UID:pandascore-match-1355216@esport-ics
+DTSTART:20260212T120000Z
+DTEND:20260212T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group B\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:BMB vs PGE
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

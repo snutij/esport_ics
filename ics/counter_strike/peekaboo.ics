@@ -14,10 +14,21 @@ CLASS:PUBLIC
 DESCRIPTION:JB Pro League - Female season 1 2026 - Group A\nWatch: https://
  kick.com/jbproleague
 SUMMARY:Peekaboo vs  Fingers Crossed Female
+URL:https://kick.com/jbproleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T023634Z
+UID:pandascore-match-1354004@esport-ics
+DTSTART:20260211T170000Z
+DTEND:20260211T191500Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Female season 1 2026 - Group A\nWatch: https://
+ kick.com/jbproleague
+SUMMARY:Winners match: PGE vs Peekaboo
 URL;VALUE=URI:https://kick.com/jbproleague
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260209T131340Z
+DTSTAMP:20260210T023634Z
 UID:pandascore-match-1344546@esport-ics
 DTSTART:20260225T180000Z
 DTEND:20260225T184500Z

@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT North America - Series #3 season 3 2026 - Playoffs\nWatch: 
  https://kick.com/cct_cs4
 SUMMARY:Semifinal 1: MARS vs SportsBetExpert
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T023634Z
+UID:pandascore-match-1343592@esport-ics
+DTSTART:20260211T003000Z
+DTEND:20260211T024500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT North America - Series #3 season 3 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs4
+SUMMARY:Grand final: MARS vs SR
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR
