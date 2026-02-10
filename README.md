@@ -9,16 +9,22 @@ Browse all calendars at: https://esport-ics.pages.dev
 ## Supported Games
 
 - [Call of Duty MW](ics/call_of_duty_mw/)
+- [Counter-Strike 2](ics/counter_strike/)
 - [Dota 2](ics/dota_2/)
-- [Counter-Strike: Global Offensive](ics/counter_strike)
+- [EA Sports FC](ics/ea_sports_fc/)
+- [King of Glory](ics/king_of_glory/)
 - [League of Legends](ics/league_of_legends/)
 - [League of Legends WildRift](ics/league_of_legends_wildrift/)
-- [Overwatch 2](ics/overwatch_2)
-- [Rainbow Six Siege](ics/rainbow_six_siege)
-- [Rocket League](ics/rocket_league)
-- [Valorant](ics/valorant)
+- [Mobile Legends: Bang Bang](ics/mobile_legends/)
+- [Overwatch 2](ics/overwatch_2/)
+- [PUBG](ics/pubg/)
+- [Rainbow Six Siege](ics/rainbow_six_siege/)
+- [Rocket League](ics/rocket_league/)
+- [StarCraft 2](ics/starcraft_2/)
+- [StarCraft: Brood War](ics/starcraft_brood_war/)
+- [Valorant](ics/valorant/)
 
-While my personal interest is primarily on League of Legends, I'm open to expanding the list of supported games based on community interest. If there's a particular game you'd like to see supported, please let me know by opening an issue or submitting a pull request.
+All games available on the [PandaScore API](https://pandascore.co/) are supported. If you'd like to see a new game added, please open an issue or submit a pull request.
 
 ## Subscribing to the ICS Calendar
 
@@ -26,7 +32,7 @@ To subscribe to an ICS calendar, follow these steps:
 
 1. **Get the URL of the ICS file:**
 
-   Find in the `ics/league_of_legengs` folder the ICS file for the team that you want to subscribe to, then click on the `raw` button, and pick the URL, e.g.:
+   Find in the `ics/league_of_legends` folder the ICS file for the team that you want to subscribe to, then click on the `raw` button, and pick the URL, e.g.:
 
    ```
    https://raw.githubusercontent.com/snutij/esport_ics/main/ics/league_of_legends/karmine-corp.ics
