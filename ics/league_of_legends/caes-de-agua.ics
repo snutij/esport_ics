@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cães de Água
+SLUG:caes-de-agua
+BEGIN:VEVENT
+DTSTAMP:20260210T131834Z
+UID:pandascore-match-1355382@esport-ics
+DTSTART:20260218T200000Z
+DTEND:20260218T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Winter 2026 - Group C\nWatch: https://www.twitch.tv/rtp
+ arenalol
+SUMMARY:Upper bracket semifinal 2: CDA vs VE
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+END:VCALENDAR

@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:LPL - Split 1 2026 - Knights Rivals\nWatch: https://www.huya.co
  m/lpl
 SUMMARY:Round 2 match 2: TT vs LNG
+URL:https://www.huya.com/lpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T131833Z
+UID:pandascore-match-1352496@esport-ics
+DTSTART:20260211T090000Z
+DTEND:20260211T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 1 2026 - Knights Rivals\nWatch: https://www.huya.co
+ m/lpl
+SUMMARY:Round 3 match 2: WE vs LNG
 URL;VALUE=URI:https://www.huya.com/lpl
 END:VEVENT
 END:VCALENDAR

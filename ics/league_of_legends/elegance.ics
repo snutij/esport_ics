@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Elegance
+SLUG:elegance
+BEGIN:VEVENT
+DTSTAMP:20260210T131834Z
+UID:pandascore-match-1355353@esport-ics
+DTSTART:20260212T200000Z
+DTEND:20260212T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Winter 2026 - Group A\nWatch: https://www.twitch.tv/rtp
+ arenalol
+SUMMARY:Upper bracket semifinal 2: ELG vs RB
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+END:VCALENDAR

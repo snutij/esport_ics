@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IP Santarém
+SLUG:ip-santarem
+BEGIN:VEVENT
+DTSTAMP:20260210T131834Z
+UID:pandascore-match-1355360@esport-ics
+DTSTART:20260213T190000Z
+DTEND:20260213T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Winter 2026 - Group B\nWatch: https://www.twitch.tv/rtp
+ arenalol
+SUMMARY:Upper bracket semifinal 1: CRZ vs IPS
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+END:VCALENDAR

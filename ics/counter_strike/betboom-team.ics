@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/ESLCS
 SUMMARY:Upper bracket round 1 match 1: BB vs BMB
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T131835Z
+UID:pandascore-match-1344418@esport-ics
+DTSTART:20260210T160000Z
+DTEND:20260210T181500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/ESLCS
+SUMMARY:Upper bracket quarterfinal 1: BB vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

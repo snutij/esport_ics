@@ -23,7 +23,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group B\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:BMB vs MSC
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260210T023634Z
@@ -34,10 +34,21 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/ESLCS
 SUMMARY:Upper bracket round 1 match 1: BB vs BMB
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T131835Z
+UID:pandascore-match-1344435@esport-ics
+DTSTART:20260210T160000Z
+DTEND:20260210T181500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/ESLCS
+SUMMARY:Lower bracket round 1 match 1: BMB vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T023634Z
+DTSTAMP:20260210T131835Z
 UID:pandascore-match-1355216@esport-ics
 DTSTART:20260212T120000Z
 DTEND:20260212T141500Z

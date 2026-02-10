@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Orange Gaming
+SLUG:team-orange-gaming
+BEGIN:VEVENT
+DTSTAMP:20260210T131833Z
+UID:pandascore-match-1355283@esport-ics
+DTSTART:20260211T180000Z
+DTEND:20260211T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Winter 2026 - Group A\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:TOG vs KHK
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T131833Z
+UID:pandascore-match-1355285@esport-ics
+DTSTART:20260211T200000Z
+DTEND:20260211T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Winter 2026 - Group A\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:ROSS vs TOG
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T131834Z
+UID:pandascore-match-1355287@esport-ics
+DTSTART:20260218T170000Z
+DTEND:20260218T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Winter 2026 - Group A\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:ES vs TOG
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T131834Z
+UID:pandascore-match-1355290@esport-ics
+DTSTART:20260218T200000Z
+DTEND:20260218T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Winter 2026 - Group A\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:TOG vs G2N
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+END:VCALENDAR

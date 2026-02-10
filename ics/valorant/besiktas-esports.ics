@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Türkiye: Birlik Kickoff 2026 - Regular Season\nWatch: ht
  tps://www.twitch.tv/valorant_tur
 SUMMARY:GS vs BJK
+URL:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T131833Z
+UID:pandascore-match-1355302@esport-ics
+DTSTART:20260228T143000Z
+DTEND:20260228T164500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Kickoff 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/valorant_tur
+SUMMARY:Upper bracket semifinal 1: BJK vs FF
 URL;VALUE=URI:https://www.twitch.tv/valorant_tur
 END:VEVENT
 END:VCALENDAR

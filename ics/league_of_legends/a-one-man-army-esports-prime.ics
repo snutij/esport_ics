@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:A One Man Army Esports Prime
+SLUG:a-one-man-army-esports-prime
+BEGIN:VEVENT
+DTSTAMP:20260210T131834Z
+UID:pandascore-match-1355293@esport-ics
+DTSTART:20260212T180000Z
+DTEND:20260212T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Winter 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:EWI vs AOMA
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T131834Z
+UID:pandascore-match-1355296@esport-ics
+DTSTART:20260212T210000Z
+DTEND:20260212T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Winter 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:AOMA vs SGE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T131834Z
+UID:pandascore-match-1355297@esport-ics
+DTSTART:20260219T170000Z
+DTEND:20260219T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Winter 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:AOMA vs BIG
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T131834Z
+UID:pandascore-match-1355300@esport-ics
+DTSTART:20260219T200000Z
+DTEND:20260219T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Winter 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:USE vs AOMA
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+END:VCALENDAR

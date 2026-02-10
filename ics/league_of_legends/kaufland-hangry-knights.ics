@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kaufland Hangry Knights
+SLUG:kaufland-hangry-knights
+BEGIN:VEVENT
+DTSTAMP:20260210T131833Z
+UID:pandascore-match-1355283@esport-ics
+DTSTART:20260211T180000Z
+DTEND:20260211T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Winter 2026 - Group A\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:TOG vs KHK
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T131833Z
+UID:pandascore-match-1355286@esport-ics
+DTSTART:20260211T210000Z
+DTEND:20260211T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Winter 2026 - Group A\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:KHK vs G2N
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T131834Z
+UID:pandascore-match-1355289@esport-ics
+DTSTART:20260218T190000Z
+DTEND:20260218T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Winter 2026 - Group A\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:KHK vs ES
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260210T131834Z
+UID:pandascore-match-1355291@esport-ics
+DTSTART:20260218T210000Z
+DTEND:20260218T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Winter 2026 - Group A\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:ROSS vs KHK
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+END:VCALENDAR
