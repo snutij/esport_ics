@@ -25,6 +25,28 @@ module EsportIcs
               end
             end
 
+            def test_write_ics_files
+              Dir.mktmpdir do |tmpdir|
+                with_matches_stubbed do
+                  @game.build!
+
+                  old_ics_path = Games::Base::ICS_PATH
+                  Games::Base.send(:remove_const, :ICS_PATH)
+                  Games::Base.const_set(:ICS_PATH, "#{tmpdir}/:folder/:team.ics")
+
+                  result = @game.write!
+
+                  assert_same(@game, result)
+                  @game.calendars.each_key do |team_slug|
+                    assert_path_exists(File.join(tmpdir, @game.folder, "#{team_slug}.ics"))
+                  end
+                ensure
+                  Games::Base.send(:remove_const, :ICS_PATH)
+                  Games::Base.const_set(:ICS_PATH, old_ics_path)
+                end
+              end
+            end
+
             def with_matches_stubbed
               mock_matches = File.read(File.join(FIXTURES_DIR, @game.folder, "matches.json"))
 

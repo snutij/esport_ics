@@ -1,0 +1,322 @@
+[
+  {
+    "id": 100001,
+    "name": "TA vs TB",
+    "scheduled_at": "2024-07-01T14:00:00Z",
+    "number_of_games": 1,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "TA",
+          "id": 50001,
+          "image_url": "https://cdn.pandascore.co/images/team/image/50001/img.png",
+          "location": "US",
+          "modified_at": "2024-01-01T00:00:00Z",
+          "name": "Team Alpha",
+          "slug": "team-alpha"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "TB",
+          "id": 50002,
+          "image_url": "https://cdn.pandascore.co/images/team/image/50002/img.png",
+          "location": "EU",
+          "modified_at": "2024-01-01T00:00:00Z",
+          "name": "Team Beta",
+          "slug": "team-beta"
+        },
+        "type": "Team"
+      }
+    ],
+    "league": {
+      "id": 9001,
+      "image_url": "https://cdn.pandascore.co/images/league/image/9001/img.png",
+      "modified_at": "2024-01-01T00:00:00Z",
+      "name": "Test League",
+      "slug": "test-league",
+      "url": null
+    },
+    "serie": {
+      "begin_at": "2024-06-01T00:00:00Z",
+      "end_at": null,
+      "full_name": "Summer 2024",
+      "id": 8001,
+      "league_id": 9001,
+      "modified_at": "2024-01-01T00:00:00Z",
+      "name": "",
+      "season": "Summer",
+      "slug": "test-league-summer-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "tournament": {
+      "begin_at": "2024-06-01T00:00:00Z",
+      "detailed_stats": true,
+      "end_at": null,
+      "has_bracket": true,
+      "id": 7001,
+      "league_id": 9001,
+      "live_supported": false,
+      "modified_at": "2024-01-01T00:00:00Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 8001,
+      "slug": "test-league-summer-2024-playoffs",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=test_stream",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/test_stream"
+      }
+    ],
+    "begin_at": "2024-07-01T14:00:00Z",
+    "end_at": null,
+    "forfeit": false,
+    "status": "not_started",
+    "rescheduled": false,
+    "videogame_title": null,
+    "game_advantage": null,
+    "detailed_stats": true,
+    "draw": false,
+    "videogame_version": null,
+    "winner": null,
+    "winner_type": "Team",
+    "original_scheduled_at": "2024-07-01T14:00:00Z",
+    "tournament_id": 7001,
+    "league_id": 9001,
+    "serie_id": 8001,
+    "match_type": "best_of",
+    "slug": "team-alpha-vs-team-beta-2024-07-01",
+    "videogame": {"id": 99, "name": "Test Game", "slug": "test-game"},
+    "results": [
+      {"score": 0, "team_id": 50001},
+      {"score": 0, "team_id": 50002}
+    ],
+    "live": {"opens_at": null, "supported": false, "url": null},
+    "winner_id": null,
+    "games": [
+      {"begin_at": null, "complete": false, "detailed_stats": true, "end_at": null, "finished": false, "forfeit": false, "id": 300001, "length": null, "match_id": 100001, "position": 1, "status": "not_started", "winner": {"id": null, "type": "Team"}, "winner_type": "Team"}
+    ],
+    "modified_at": "2024-06-30T00:00:00Z"
+  },
+  {
+    "id": 100002,
+    "name": "TA vs TG",
+    "scheduled_at": "2024-07-02T18:00:00Z",
+    "number_of_games": 3,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "TA",
+          "id": 50001,
+          "image_url": "https://cdn.pandascore.co/images/team/image/50001/img.png",
+          "location": "US",
+          "modified_at": "2024-01-01T00:00:00Z",
+          "name": "Team Alpha",
+          "slug": "team-alpha"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "TG",
+          "id": 50003,
+          "image_url": "https://cdn.pandascore.co/images/team/image/50003/img.png",
+          "location": "KR",
+          "modified_at": "2024-01-01T00:00:00Z",
+          "name": "Team Gamma",
+          "slug": "team-gamma"
+        },
+        "type": "Team"
+      }
+    ],
+    "league": {
+      "id": 9001,
+      "image_url": "https://cdn.pandascore.co/images/league/image/9001/img.png",
+      "modified_at": "2024-01-01T00:00:00Z",
+      "name": "Test League",
+      "slug": "test-league",
+      "url": null
+    },
+    "serie": null,
+    "tournament": {
+      "begin_at": "2024-06-01T00:00:00Z",
+      "detailed_stats": true,
+      "end_at": null,
+      "has_bracket": true,
+      "id": 7001,
+      "league_id": 9001,
+      "live_supported": false,
+      "modified_at": "2024-01-01T00:00:00Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 8001,
+      "slug": "test-league-summer-2024-playoffs",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=test_stream2",
+        "language": "en",
+        "main": false,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/test_stream2"
+      }
+    ],
+    "begin_at": "2024-07-02T18:00:00Z",
+    "end_at": null,
+    "forfeit": false,
+    "status": "not_started",
+    "rescheduled": false,
+    "videogame_title": null,
+    "game_advantage": null,
+    "detailed_stats": true,
+    "draw": false,
+    "videogame_version": null,
+    "winner": null,
+    "winner_type": "Team",
+    "original_scheduled_at": "2024-07-02T18:00:00Z",
+    "tournament_id": 7001,
+    "league_id": 9001,
+    "serie_id": 8001,
+    "match_type": "best_of",
+    "slug": "team-alpha-vs-team-gamma-2024-07-02",
+    "videogame": {"id": 99, "name": "Test Game", "slug": "test-game"},
+    "results": [
+      {"score": 0, "team_id": 50001},
+      {"score": 0, "team_id": 50003}
+    ],
+    "live": {"opens_at": null, "supported": false, "url": null},
+    "winner_id": null,
+    "games": [
+      {"begin_at": null, "complete": false, "detailed_stats": true, "end_at": null, "finished": false, "forfeit": false, "id": 300002, "length": null, "match_id": 100002, "position": 1, "status": "not_started", "winner": {"id": null, "type": "Team"}, "winner_type": "Team"},
+      {"begin_at": null, "complete": false, "detailed_stats": true, "end_at": null, "finished": false, "forfeit": false, "id": 300003, "length": null, "match_id": 100002, "position": 2, "status": "not_started", "winner": {"id": null, "type": "Team"}, "winner_type": "Team"},
+      {"begin_at": null, "complete": false, "detailed_stats": true, "end_at": null, "finished": false, "forfeit": false, "id": 300004, "length": null, "match_id": 100002, "position": 3, "status": "not_started", "winner": {"id": null, "type": "Team"}, "winner_type": "Team"}
+    ],
+    "modified_at": "2024-06-30T00:00:00Z"
+  },
+  {
+    "id": 100003,
+    "name": "TB vs TG",
+    "scheduled_at": "2024-07-03T20:00:00Z",
+    "number_of_games": 5,
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": "TB",
+          "id": 50002,
+          "image_url": "https://cdn.pandascore.co/images/team/image/50002/img.png",
+          "location": "EU",
+          "modified_at": "2024-01-01T00:00:00Z",
+          "name": "Team Beta",
+          "slug": "team-beta"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": "TG",
+          "id": 50003,
+          "image_url": "https://cdn.pandascore.co/images/team/image/50003/img.png",
+          "location": "KR",
+          "modified_at": "2024-01-01T00:00:00Z",
+          "name": "Team Gamma",
+          "slug": "team-gamma"
+        },
+        "type": "Team"
+      }
+    ],
+    "league": {
+      "id": 9001,
+      "image_url": "https://cdn.pandascore.co/images/league/image/9001/img.png",
+      "modified_at": "2024-01-01T00:00:00Z",
+      "name": "Test League",
+      "slug": "test-league",
+      "url": null
+    },
+    "serie": {
+      "begin_at": "2024-06-01T00:00:00Z",
+      "end_at": null,
+      "full_name": "Summer 2024",
+      "id": 8001,
+      "league_id": 9001,
+      "modified_at": "2024-01-01T00:00:00Z",
+      "name": "",
+      "season": "Summer",
+      "slug": "test-league-summer-2024",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2024
+    },
+    "tournament": {
+      "begin_at": "2024-06-01T00:00:00Z",
+      "detailed_stats": true,
+      "end_at": null,
+      "has_bracket": true,
+      "id": 7001,
+      "league_id": 9001,
+      "live_supported": false,
+      "modified_at": "2024-01-01T00:00:00Z",
+      "name": "Playoffs",
+      "prizepool": null,
+      "serie_id": 8001,
+      "slug": "test-league-summer-2024-playoffs",
+      "tier": "a",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "streams_list": [
+      {
+        "embed_url": "https://player.twitch.tv/?channel=test_stream2",
+        "language": "en",
+        "main": true,
+        "official": true,
+        "raw_url": "https://www.twitch.tv/test_stream2"
+      }
+    ],
+    "begin_at": "2024-07-03T20:00:00Z",
+    "end_at": null,
+    "forfeit": false,
+    "status": "not_started",
+    "rescheduled": false,
+    "videogame_title": null,
+    "game_advantage": null,
+    "detailed_stats": true,
+    "draw": false,
+    "videogame_version": null,
+    "winner": null,
+    "winner_type": "Team",
+    "original_scheduled_at": "2024-07-03T20:00:00Z",
+    "tournament_id": 7001,
+    "league_id": 9001,
+    "serie_id": 8001,
+    "match_type": "best_of",
+    "slug": "team-beta-vs-team-gamma-2024-07-03",
+    "videogame": {"id": 99, "name": "Test Game", "slug": "test-game"},
+    "results": [
+      {"score": 0, "team_id": 50002},
+      {"score": 0, "team_id": 50003}
+    ],
+    "live": {"opens_at": null, "supported": false, "url": null},
+    "winner_id": null,
+    "games": [
+      {"begin_at": null, "complete": false, "detailed_stats": true, "end_at": null, "finished": false, "forfeit": false, "id": 300005, "length": null, "match_id": 100003, "position": 1, "status": "not_started", "winner": {"id": null, "type": "Team"}, "winner_type": "Team"},
+      {"begin_at": null, "complete": false, "detailed_stats": true, "end_at": null, "finished": false, "forfeit": false, "id": 300006, "length": null, "match_id": 100003, "position": 2, "status": "not_started", "winner": {"id": null, "type": "Team"}, "winner_type": "Team"},
+      {"begin_at": null, "complete": false, "detailed_stats": true, "end_at": null, "finished": false, "forfeit": false, "id": 300007, "length": null, "match_id": 100003, "position": 3, "status": "not_started", "winner": {"id": null, "type": "Team"}, "winner_type": "Team"},
+      {"begin_at": null, "complete": false, "detailed_stats": true, "end_at": null, "finished": false, "forfeit": false, "id": 300008, "length": null, "match_id": 100003, "position": 4, "status": "not_started", "winner": {"id": null, "type": "Team"}, "winner_type": "Team"},
+      {"begin_at": null, "complete": false, "detailed_stats": true, "end_at": null, "finished": false, "forfeit": false, "id": 300009, "length": null, "match_id": 100003, "position": 5, "status": "not_started", "winner": {"id": null, "type": "Team"}, "winner_type": "Team"}
+    ],
+    "modified_at": "2024-06-30T00:00:00Z"
+  }
+]
