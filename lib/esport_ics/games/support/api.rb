@@ -48,7 +48,10 @@ module EsportIcs
             @matches << Match.new(api_match)
           end
 
-          break if page >= MAX_PAGINATION
+          if page >= MAX_PAGINATION
+            $stderr.puts "Warning: pagination limit (#{MAX_PAGINATION}) reached for #{game_code}, results may be incomplete"
+            break
+          end
 
           page += 1
         end

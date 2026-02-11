@@ -1,6 +1,6 @@
 # EsportIcs
 
-This repository automates the generation and update of ICS files for esport events. Calendars are refreshed daily and can be subscribed to in Google Calendar, Apple Calendar and Outlook.
+This repository automates the generation and update of ICS files for esport events. Calendars are refreshed twice daily and can be subscribed to in Google Calendar, Apple Calendar and Outlook.
 
 ## Web Interface
 

@@ -2,11 +2,11 @@ inherit_gem:
   rubocop-shopify: rubocop.yml
 
 AllCops:
-  TargetRubyVersion: 2.6
+  TargetRubyVersion: 3.4
   SuggestExtensions: false
   NewCops: enable
 
-require:
+plugins:
   - rubocop-performance
   - rubocop-minitest
   - rubocop-rake
