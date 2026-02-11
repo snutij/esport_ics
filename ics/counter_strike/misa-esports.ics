@@ -46,17 +46,6 @@ DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
 SUMMARY:MISA vs Imperial.A
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260212T090000Z
-UID:pandascore-match-1352362@esport-ics
-DTSTART:20260212T090000Z
-DTEND:20260212T111500Z
-CLASS:PUBLIC
-DESCRIPTION:United21 - Season 44 2026 - Playoffs\nWatch: https://kick.com/u
- nited21_en
-SUMMARY:Lower bracket quarterfinal 1: MISA vs ex-FUT Academy
-URL;VALUE=URI:https://kick.com/united21_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260212T103000Z
 UID:pandascore-match-1351015@esport-ics
 DTSTART:20260212T103000Z
@@ -64,5 +53,16 @@ DTEND:20260212T124500Z
 CLASS:PUBLIC
 DESCRIPTION:IstanbuLAN - 2026 - Playoffs
 SUMMARY:Round 16 match 4: ICE vs MISA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260212T143000Z
+UID:pandascore-match-1352362@esport-ics
+DTSTART:20260212T143000Z
+DTEND:20260212T164500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 44 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket quarterfinal 1: MISA vs ex-FUT Academy
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

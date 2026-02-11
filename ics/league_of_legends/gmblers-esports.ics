@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:LIT - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/lito
  fficial
 SUMMARY:Lower bracket quarterfinal : DEA vs GMB
+URL:https://www.twitch.tv/litofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260212T170000Z
+UID:pandascore-match-1333327@esport-ics
+DTSTART:20260212T170000Z
+DTEND:20260212T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/lito
+ fficial
+SUMMARY:Lower bracket semifinal: EKO vs GMB
 URL;VALUE=URI:https://www.twitch.tv/litofficial
 END:VEVENT
 END:VCALENDAR

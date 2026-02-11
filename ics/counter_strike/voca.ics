@@ -34,4 +34,15 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: American Qualifier 2026 - Playoffs
 SUMMARY:Lower bracket quarterfinal 2: VOCA vs SportsBetExpert
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T220000Z
+UID:pandascore-match-1344448@esport-ics
+DTSTART:20260211T220000Z
+DTEND:20260212T001500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta: American Qualifier 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/Trottah
+SUMMARY:Lower bracket semifinal: VOCA vs TBD
+URL;VALUE=URI:https://www.twitch.tv/Trottah
+END:VEVENT
 END:VCALENDAR
