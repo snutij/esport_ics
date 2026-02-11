@@ -11,7 +11,9 @@ UID:pandascore-match-1349962@esport-ics
 DTSTART:20260214T110000Z
 DTEND:20260214T131500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage
+DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.twitch
+ .tv/PGL
 SUMMARY:Round 1: MOUZ vs PRV
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

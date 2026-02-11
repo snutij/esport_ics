@@ -11,7 +11,9 @@ UID:pandascore-match-1349967@esport-ics
 DTSTART:20260214T170000Z
 DTEND:20260214T191500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage
+DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.twitch
+ .tv/PGL
 SUMMARY:Round 1: MGLZ vs paiN
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR
