@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/trottah
 SUMMARY:Upper bracket semifinal 1: BB vs SIN
-URL;VALUE=URI:https://www.twitch.tv/trottah
+URL:https://www.twitch.tv/trottah
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260212T160000Z
+UID:pandascore-match-1344424@esport-ics
+DTSTART:20260212T160000Z
+DTEND:20260212T181500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/ESLCS
+SUMMARY:Upper bracket final: BB vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

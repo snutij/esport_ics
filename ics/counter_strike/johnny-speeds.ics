@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/JohnnySpeeds
 SUMMARY:Lower bracket round 3 match 1: ICE vs JS
-URL;VALUE=URI:https://www.twitch.tv/JohnnySpeeds
+URL:https://www.twitch.tv/JohnnySpeeds
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T200000Z
+UID:pandascore-match-1344427@esport-ics
+DTSTART:20260211T200000Z
+DTEND:20260211T221500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/vanfantv
+SUMMARY:Lower bracket quarterfinal 1: JS vs SIN
+URL;VALUE=URI:https://www.twitch.tv/vanfantv
 END:VEVENT
 END:VCALENDAR
