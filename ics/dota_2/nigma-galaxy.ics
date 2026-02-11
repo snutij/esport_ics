@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 3 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/esl_dota2
 SUMMARY:Upper bracket final: AUR vs NGX
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260212T133000Z
+UID:pandascore-match-1344894@esport-ics
+DTSTART:20260212T133000Z
+DTEND:20260212T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 3 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/esl_dota2
+SUMMARY:Lower bracket final: NGX vs Z10
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR
