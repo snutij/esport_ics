@@ -3,19 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Ninjas in Pyjamas
-SLUG:ninjas-in-pyjamas
-BEGIN:VEVENT
-DTSTAMP:20260209T022853Z
-UID:pandascore-match-1352491@esport-ics
-DTSTART:20260209T090000Z
-DTEND:20260209T124500Z
-CLASS:PUBLIC
-DESCRIPTION:LPL - Split 1 2026 - Knights Rivals\nWatch: https://www.huya.co
- m/lpl
-SUMMARY:Round 1 match 2: IG vs NIP
-URL:https://www.huya.com/lpl
-END:VEVENT
+X-WR-CALNAME:Bilibili Gaming
+SLUG:bilibili-gaming
 BEGIN:VEVENT
 DTSTAMP:20260225T090000Z
 UID:pandascore-match-1352794@esport-ics

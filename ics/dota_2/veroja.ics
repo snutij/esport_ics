@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Veroja
+SLUG:veroja
+BEGIN:VEVENT
+DTSTAMP:20260215T060000Z
+UID:pandascore-match-1357391@esport-ics
+DTSTART:20260215T060000Z
+DTEND:20260215T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:YACHE123 vs VER
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T060000Z
+UID:pandascore-match-1357442@esport-ics
+DTSTART:20260220T060000Z
+DTEND:20260220T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:Shark Squad vs VER
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T060000Z
+UID:pandascore-match-1357443@esport-ics
+DTSTART:20260221T060000Z
+DTEND:20260221T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:IVO vs VER
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+END:VCALENDAR

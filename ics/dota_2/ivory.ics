@@ -49,4 +49,48 @@ DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
 SUMMARY:A&F vs IVO
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T060000Z
+UID:pandascore-match-1357419@esport-ics
+DTSTART:20260219T060000Z
+DTEND:20260219T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:IVO vs SW
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T060000Z
+UID:pandascore-match-1357443@esport-ics
+DTSTART:20260221T060000Z
+DTEND:20260221T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:IVO vs VER
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T060000Z
+UID:pandascore-match-1357445@esport-ics
+DTSTART:20260222T060000Z
+DTEND:20260222T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:YACHE123 vs IVO
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T060000Z
+UID:pandascore-match-1357447@esport-ics
+DTSTART:20260223T060000Z
+DTEND:20260223T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:IVO vs Shark Squad
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
 END:VCALENDAR

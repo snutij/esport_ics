@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atlantis 2.0
+SLUG:atlantis-2-0
+BEGIN:VEVENT
+DTSTAMP:20260213T060000Z
+UID:pandascore-match-1357389@esport-ics
+DTSTART:20260213T060000Z
+DTEND:20260213T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:CARST vs ATL2.0
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T060000Z
+UID:pandascore-match-1357418@esport-ics
+DTSTART:20260218T060000Z
+DTEND:20260218T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:YG vs ATL2.0
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+END:VCALENDAR

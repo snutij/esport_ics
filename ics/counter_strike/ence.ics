@@ -28,6 +28,17 @@ SUMMARY:Lower bracket round 2 match 4: ENCE vs EYE
 URL:https://www.twitch.tv/esportstudion
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260211T160000Z
+UID:pandascore-match-1344430@esport-ics
+DTSTART:20260211T160000Z
+DTEND:20260211T181500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/ESLCS
+SUMMARY:Lower bracket round 3 match 2: ENCE vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260213T093000Z
 UID:pandascore-match-1353882@esport-ics
 DTSTART:20260213T093000Z

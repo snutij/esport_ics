@@ -36,4 +36,15 @@ DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group D\nWatch: h
 SUMMARY: CSDIILIT vs URSA
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260212T150000Z
+UID:pandascore-match-1350052@esport-ics
+DTSTART:20260212T150000Z
+DTEND:20260212T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #16 season 3 2026 - Group
+  C\nWatch: https://kick.com/cct_cs2
+SUMMARY:Winners match: HS vs URSA
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

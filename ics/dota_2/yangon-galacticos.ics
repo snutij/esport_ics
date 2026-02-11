@@ -39,6 +39,17 @@ SUMMARY:CARST vs YG
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260212T070000Z
+UID:pandascore-match-1357388@esport-ics
+DTSTART:20260212T070000Z
+DTEND:20260212T091500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:Roar vs YG
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260213T040000Z
 UID:pandascore-match-1345800@esport-ics
 DTSTART:20260213T040000Z
@@ -48,5 +59,27 @@ DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:YG vs Y123
 URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T060000Z
+UID:pandascore-match-1357418@esport-ics
+DTSTART:20260218T060000Z
+DTEND:20260218T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:YG vs ATL2.0
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T060000Z
+UID:pandascore-match-1357444@esport-ics
+DTSTART:20260221T060000Z
+DTEND:20260221T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:CARST vs YG
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
 END:VEVENT
 END:VCALENDAR

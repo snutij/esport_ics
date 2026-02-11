@@ -3,19 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Top Esports
-SLUG:top-esports
-BEGIN:VEVENT
-DTSTAMP:20260209T022853Z
-UID:pandascore-match-1352490@esport-ics
-DTSTART:20260209T060000Z
-DTEND:20260209T094500Z
-CLASS:PUBLIC
-DESCRIPTION:LPL - Split 1 2026 - Knights Rivals\nWatch: https://www.huya.co
- m/lpl
-SUMMARY:Round 1 match 1: TES vs WE
-URL:https://www.huya.com/lpl
-END:VEVENT
+X-WR-CALNAME:JD Gaming
+SLUG:jd-gaming
 BEGIN:VEVENT
 DTSTAMP:20260224T090000Z
 UID:pandascore-match-1352792@esport-ics
