@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Leviatán GC
+SLUG:leviatan-gc
+BEGIN:VEVENT
+DTSTAMP:20260213T220000Z
+UID:pandascore-match-1356800@esport-ics
+DTSTART:20260213T220000Z
+DTEND:20260214T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:LEV.F vs OG
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T220000Z
+UID:pandascore-match-1356803@esport-ics
+DTSTART:20260220T220000Z
+DTEND:20260221T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:KRÜ vs LEV.F
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T220000Z
+UID:pandascore-match-1356805@esport-ics
+DTSTART:20260226T220000Z
+DTEND:20260227T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:LEV.F vs Looking For Laburo
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T220000Z
+UID:pandascore-match-1356807@esport-ics
+DTSTART:20260316T220000Z
+DTEND:20260317T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:LEV.F vs PSE.GC
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T220000Z
+UID:pandascore-match-1356812@esport-ics
+DTSTART:20260325T220000Z
+DTEND:20260326T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:LEV.F vs UW
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+END:VCALENDAR

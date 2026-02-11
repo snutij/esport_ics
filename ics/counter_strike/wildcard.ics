@@ -23,4 +23,15 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: American Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 4: WC vs VOCA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T220000Z
+UID:pandascore-match-1344445@esport-ics
+DTSTART:20260211T220000Z
+DTEND:20260212T001500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta: American Qualifier 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/cmarty
+SUMMARY:Upper bracket final: PSSN.UA vs WC
+URL;VALUE=URI:https://www.twitch.tv/cmarty
+END:VEVENT
 END:VCALENDAR

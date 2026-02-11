@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Legiowon
+SLUG:legiowon
+BEGIN:VEVENT
+DTSTAMP:20260214T010000Z
+UID:pandascore-match-1356785@esport-ics
+DTSTART:20260214T010000Z
+DTEND:20260214T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:MYV.GC vs OWO
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T010000Z
+UID:pandascore-match-1356787@esport-ics
+DTSTART:20260220T010000Z
+DTEND:20260220T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:Contra GC vs OWO
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T010000Z
+UID:pandascore-match-1356791@esport-ics
+DTSTART:20260228T010000Z
+DTEND:20260228T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:OWO vs NSB
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T010000Z
+UID:pandascore-match-1356793@esport-ics
+DTSTART:20260318T010000Z
+DTEND:20260318T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:FSN.X vs OWO
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T010000Z
+UID:pandascore-match-1356795@esport-ics
+DTSTART:20260324T010000Z
+DTEND:20260324T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:AEB vs OWO
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+END:VCALENDAR

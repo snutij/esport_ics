@@ -47,17 +47,28 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 44 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket semifinal 1: AAB vs ALL
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260211T023409Z
+DTSTAMP:20260211T130000Z
 UID:pandascore-match-1344433@esport-ics
 DTSTART:20260211T130000Z
 DTEND:20260211T151500Z
 CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
- /www.twitch.tv/ESLCS
+ /www.twitch.tv/eslcs
 SUMMARY:Lower bracket round 2 match 3: ALL vs OG
-URL;VALUE=URI:https://www.twitch.tv/ESLCS
+URL;VALUE=URI:https://www.twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T090000Z
+UID:pandascore-match-1352364@esport-ics
+DTSTART:20260213T090000Z
+DTEND:20260213T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 44 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket final: ALL vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

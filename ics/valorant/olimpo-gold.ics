@@ -14,6 +14,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America South- Kickoff 2026 - Playoff
  s\nWatch: https://www.twitch.tv/valorant_la
 SUMMARY:Grand final: KRÜ vs OG
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T220000Z
+UID:pandascore-match-1356800@esport-ics
+DTSTART:20260213T220000Z
+DTEND:20260214T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:LEV.F vs OG
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T220000Z
+UID:pandascore-match-1356802@esport-ics
+DTSTART:20260219T220000Z
+DTEND:20260220T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:Looking For Laburo vs OG
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T220000Z
+UID:pandascore-match-1356806@esport-ics
+DTSTART:20260227T220000Z
+DTEND:20260228T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:OG vs PSE.GC
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T220000Z
+UID:pandascore-match-1356808@esport-ics
+DTSTART:20260317T220000Z
+DTEND:20260318T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:UW vs OG
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T220000Z
+UID:pandascore-match-1356810@esport-ics
+DTSTART:20260323T220000Z
+DTEND:20260324T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:KRÜ vs OG
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

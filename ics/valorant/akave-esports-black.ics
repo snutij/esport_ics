@@ -14,6 +14,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America North - Kickoff 2026 - Playof
  fs\nWatch: https://www.twitch.tv/valorant_la
 SUMMARY:Grand final: AEB vs MYV.GC
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T010000Z
+UID:pandascore-match-1356784@esport-ics
+DTSTART:20260213T010000Z
+DTEND:20260213T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:NSB vs AEB
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T010000Z
+UID:pandascore-match-1356788@esport-ics
+DTSTART:20260221T010000Z
+DTEND:20260221T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:AEB vs MYV.GC
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T010000Z
+UID:pandascore-match-1356789@esport-ics
+DTSTART:20260226T010000Z
+DTEND:20260226T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:AEB vs FSN.X
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T010000Z
+UID:pandascore-match-1356794@esport-ics
+DTSTART:20260319T010000Z
+DTEND:20260319T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:AEB vs Contra GC
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T010000Z
+UID:pandascore-match-1356795@esport-ics
+DTSTART:20260324T010000Z
+DTEND:20260324T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:AEB vs OWO
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR
