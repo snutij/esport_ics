@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #15 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs
 SUMMARY:Round 2: Leo vs ALGO
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260212T090000Z
+UID:pandascore-match-1343382@esport-ics
+DTSTART:20260212T090000Z
+DTEND:20260212T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #15 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 3: G1 vs ALGO
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

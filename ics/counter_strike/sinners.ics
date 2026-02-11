@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/vanfantv
 SUMMARY:Lower bracket quarterfinal 1: JS vs SIN
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260212T160000Z
+UID:pandascore-match-1344426@esport-ics
+DTSTART:20260212T160000Z
+DTEND:20260212T181500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/ESLCS
+SUMMARY:Lower bracket semifinal: SIN vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
