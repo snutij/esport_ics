@@ -34,6 +34,7 @@ module EsportIcs
       event.summary = @name
       event.dtstart = Icalendar::Values::DateTime.new(@start_time, "tzid" => "UTC")
       event.dtend = Icalendar::Values::DateTime.new(@end_time, "tzid" => "UTC")
+      event.dtstamp = Icalendar::Values::DateTime.new(@start_time, "tzid" => "UTC")
       event.ip_class = "PUBLIC"
 
       description_parts = []
