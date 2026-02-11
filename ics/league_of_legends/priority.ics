@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Winter 2026 - Playoffs\nWatch: https://www.t
  witch.tv/hitpointcz
 SUMMARY:Upper bracket quarterfinal 1: CKZ vs PRT
+URL:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023405Z
+UID:pandascore-match-1351422@esport-ics
+DTSTART:20260218T160000Z
+DTEND:20260218T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Winter 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/hitpointcz
+SUMMARY:Lower bracket round 1 match 1: PRT vs TBD
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 END:VCALENDAR

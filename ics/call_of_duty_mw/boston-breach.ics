@@ -6,113 +6,124 @@ METHOD:PUBLISH
 X-WR-CALNAME:Boston Breach
 SLUG:boston-breach
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350359@esport-ics
 DTSTART:20260213T200000Z
 DTEND:20260213T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TEX vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350367@esport-ics
 DTSTART:20260215T213000Z
 DTEND:20260216T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:RIYF vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350374@esport-ics
 DTSTART:20260221T213000Z
 DTEND:20260222T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:LAT vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350378@esport-ics
 DTSTART:20260222T213000Z
 DTEND:20260223T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350381@esport-ics
 DTSTART:20260227T200000Z
 DTEND:20260227T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:CRR vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350389@esport-ics
 DTSTART:20260301T213000Z
 DTEND:20260302T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:FaZe Vegas vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350398@esport-ics
 DTSTART:20260308T003000Z
 DTEND:20260308T041500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:C9.NY vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350400@esport-ics
 DTSTART:20260308T213000Z
 DTEND:20260309T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TOR vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350409@esport-ics
 DTSTART:20260315T003000Z
 DTEND:20260315T041500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:PAR vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350410@esport-ics
 DTSTART:20260315T200000Z
 DTEND:20260315T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:MIN vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350423@esport-ics
 DTSTART:20260322T230000Z
 DTEND:20260323T024500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:MH vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 END:VCALENDAR

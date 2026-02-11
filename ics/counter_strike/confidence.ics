@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:JB Pro League - Female season 1 2026 - Group B\nWatch: https://
  kick.com/jbproleague
 SUMMARY:BIG.E vs CONF
+URL:https://kick.com/jbproleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023409Z
+UID:pandascore-match-1354010@esport-ics
+DTSTART:20260212T170000Z
+DTEND:20260212T191500Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Female season 1 2026 - Group B\nWatch: https://
+ kick.com/jbproleague
+SUMMARY:Elimination match: CONF vs hindsight
 URL;VALUE=URI:https://kick.com/jbproleague
 END:VEVENT
 END:VCALENDAR

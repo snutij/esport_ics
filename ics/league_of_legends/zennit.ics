@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Winter 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/road_of_legends
 SUMMARY:Last Chance Qualifier: ZNT vs MCN
+URL:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023405Z
+UID:pandascore-match-1350004@esport-ics
+DTSTART:20260212T170000Z
+DTEND:20260212T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Winter 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/road_of_legends
+SUMMARY:Quarterfinal: BAN vs ZNT
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 END:VCALENDAR

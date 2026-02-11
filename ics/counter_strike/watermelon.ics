@@ -54,6 +54,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 22 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 5: PEEP vs WTRML0N
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023409Z
+UID:pandascore-match-1356653@esport-ics
+DTSTART:20260211T170000Z
+DTEND:20260211T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:eLITenergy vs WTRML0N
 END:VEVENT
 END:VCALENDAR

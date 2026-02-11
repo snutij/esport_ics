@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:TCL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
  gamesturkish
 SUMMARY:Upper bracket semifinal 2: BW vs S2G
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023405Z
+UID:pandascore-match-1351411@esport-ics
+DTSTART:20260212T150000Z
+DTEND:20260212T184500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
+ gamesturkish
+SUMMARY:Lower bracket quarterfinal 1: DP vs BW
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 END:VCALENDAR

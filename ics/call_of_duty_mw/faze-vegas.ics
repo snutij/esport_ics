@@ -6,113 +6,124 @@ METHOD:PUBLISH
 X-WR-CALNAME:FaZe Vegas
 SLUG:faze-vegas
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350361@esport-ics
 DTSTART:20260213T230000Z
 DTEND:20260214T024500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:MH vs FaZe Vegas
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350364@esport-ics
 DTSTART:20260214T230000Z
 DTEND:20260215T024500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TOR vs FaZe Vegas
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350370@esport-ics
 DTSTART:20260220T200000Z
 DTEND:20260220T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs FaZe Vegas
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350380@esport-ics
 DTSTART:20260223T003000Z
 DTEND:20260223T041500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:MIN vs FaZe Vegas
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350382@esport-ics
 DTSTART:20260227T213000Z
 DTEND:20260228T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:RIYF vs FaZe Vegas
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350389@esport-ics
 DTSTART:20260301T213000Z
 DTEND:20260302T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:FaZe Vegas vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350393@esport-ics
 DTSTART:20260306T213000Z
 DTEND:20260307T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:LAT vs FaZe Vegas
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350396@esport-ics
 DTSTART:20260307T213000Z
 DTEND:20260308T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TEX vs FaZe Vegas
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350413@esport-ics
 DTSTART:20260316T003000Z
 DTEND:20260316T041500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:FaZe Vegas vs CRR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350414@esport-ics
 DTSTART:20260320T200000Z
 DTEND:20260320T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:PAR vs FaZe Vegas
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350418@esport-ics
 DTSTART:20260321T213000Z
 DTEND:20260322T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:FaZe Vegas vs C9.NY
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 END:VCALENDAR

@@ -6,113 +6,124 @@ METHOD:PUBLISH
 X-WR-CALNAME:G2 Minnesota
 SLUG:g2-minnesota
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350363@esport-ics
 DTSTART:20260214T213000Z
 DTEND:20260215T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TEX vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350369@esport-ics
 DTSTART:20260216T003000Z
 DTEND:20260216T041500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:MIN vs C9.NY
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350373@esport-ics
 DTSTART:20260221T200000Z
 DTEND:20260221T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TOR vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350380@esport-ics
 DTSTART:20260223T003000Z
 DTEND:20260223T041500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:MIN vs FaZe Vegas
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350384@esport-ics
 DTSTART:20260228T200000Z
 DTEND:20260228T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:RIYF vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350394@esport-ics
 DTSTART:20260306T230000Z
 DTEND:20260307T024500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:MH vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350395@esport-ics
 DTSTART:20260307T200000Z
 DTEND:20260307T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:PAR vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350406@esport-ics
 DTSTART:20260314T200000Z
 DTEND:20260314T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:MIN vs CRR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350410@esport-ics
 DTSTART:20260315T200000Z
 DTEND:20260315T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:MIN vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350416@esport-ics
 DTSTART:20260320T230000Z
 DTEND:20260321T024500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350420@esport-ics
 DTSTART:20260322T003000Z
 DTEND:20260322T041500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:LAT vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 END:VCALENDAR

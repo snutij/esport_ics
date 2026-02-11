@@ -23,10 +23,21 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/ESLCS
 SUMMARY:Upper bracket round 1 match 8: 33 vs EYE
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023409Z
+UID:pandascore-match-1344423@esport-ics
+DTSTART:20260211T160000Z
+DTEND:20260211T181500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/ESLCS
+SUMMARY:Upper bracket semifinal 2: FNC vs 33
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131835Z
+DTSTAMP:20260211T023409Z
 UID:pandascore-match-1313596@esport-ics
 DTSTART:20260222T163000Z
 DTEND:20260222T184500Z

@@ -6,113 +6,124 @@ METHOD:PUBLISH
 X-WR-CALNAME:Toronto KOI
 SLUG:toronto-koi
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350360@esport-ics
 DTSTART:20260213T213000Z
 DTEND:20260214T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TOR vs CRR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350407@esport-ics
 DTSTART:20260214T213000Z
 DTEND:20260215T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs TOR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350364@esport-ics
 DTSTART:20260214T230000Z
 DTEND:20260215T024500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TOR vs FaZe Vegas
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350372@esport-ics
 DTSTART:20260220T230000Z
 DTEND:20260221T024500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TOR vs LAT
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350373@esport-ics
 DTSTART:20260221T200000Z
 DTEND:20260221T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TOR vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350385@esport-ics
 DTSTART:20260228T213000Z
 DTEND:20260301T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TOR vs MH
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350388@esport-ics
 DTSTART:20260301T200000Z
 DTEND:20260301T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TOR vs PAR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350397@esport-ics
 DTSTART:20260307T230000Z
 DTEND:20260308T024500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TOR vs RIYF
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350400@esport-ics
 DTSTART:20260308T213000Z
 DTEND:20260309T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TOR vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350403@esport-ics
 DTSTART:20260313T200000Z
 DTEND:20260313T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TOR vs C9.NY
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350424@esport-ics
 DTSTART:20260323T003000Z
 DTEND:20260323T041500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:TOR vs TEX
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 END:VCALENDAR

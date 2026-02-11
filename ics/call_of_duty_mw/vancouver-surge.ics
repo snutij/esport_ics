@@ -6,113 +6,124 @@ METHOD:PUBLISH
 X-WR-CALNAME:Vancouver Surge
 SLUG:vancouver-surge
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350407@esport-ics
 DTSTART:20260214T213000Z
 DTEND:20260215T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs TOR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350365@esport-ics
 DTSTART:20260215T003000Z
 DTEND:20260215T041500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs LAT
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350370@esport-ics
 DTSTART:20260220T200000Z
 DTEND:20260220T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs FaZe Vegas
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350378@esport-ics
 DTSTART:20260222T213000Z
 DTEND:20260223T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350386@esport-ics
 DTSTART:20260228T230000Z
 DTEND:20260301T024500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs CRR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350391@esport-ics
 DTSTART:20260302T003000Z
 DTEND:20260302T041500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs TEX
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350392@esport-ics
 DTSTART:20260306T200000Z
 DTEND:20260306T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs C9.NY
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350402@esport-ics
 DTSTART:20260309T003000Z
 DTEND:20260309T041500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs PAR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350411@esport-ics
 DTSTART:20260315T213000Z
 DTEND:20260316T011500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs MH
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350416@esport-ics
 DTSTART:20260320T230000Z
 DTEND:20260321T024500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260210T131832Z
+DTSTAMP:20260211T023403Z
 UID:pandascore-match-1350421@esport-ics
 DTSTART:20260322T200000Z
 DTEND:20260322T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s
+ s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs RIYF
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 END:VCALENDAR

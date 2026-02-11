@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SOLYX ESPORTS
+SLUG:solyx-esports
+BEGIN:VEVENT
+DTSTAMP:20260211T023403Z
+UID:pandascore-match-1340973@esport-ics
+DTSTART:20260214T050000Z
+DTEND:20260214T084500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/garena_rov_official
+SUMMARY:SOL vs TEN
+URL;VALUE=URI:https://www.twitch.tv/garena_rov_official
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023403Z
+UID:pandascore-match-1340978@esport-ics
+DTSTART:20260215T110000Z
+DTEND:20260215T144500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/garena_rov_official
+SUMMARY:KOG vs SOL
+URL;VALUE=URI:https://www.twitch.tv/garena_rov_official
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023403Z
+UID:pandascore-match-1340982@esport-ics
+DTSTART:20260220T120000Z
+DTEND:20260220T154500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/garena_rov_official
+SUMMARY:SOL vs GC
+URL;VALUE=URI:https://www.twitch.tv/garena_rov_official
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023403Z
+UID:pandascore-match-1340988@esport-ics
+DTSTART:20260222T110000Z
+DTEND:20260222T144500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/garena_rov_official
+SUMMARY:FS vs SOL
+URL;VALUE=URI:https://www.twitch.tv/garena_rov_official
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023403Z
+UID:pandascore-match-1340989@esport-ics
+DTSTART:20260228T050000Z
+DTEND:20260228T084500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/garena_rov_official
+SUMMARY:SOL vs BUE
+URL;VALUE=URI:https://www.twitch.tv/garena_rov_official
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023403Z
+UID:pandascore-match-1340997@esport-ics
+DTSTART:20260306T090000Z
+DTEND:20260306T124500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/garena_rov_official
+SUMMARY:BAC vs SOL
+URL;VALUE=URI:https://www.twitch.tv/garena_rov_official
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023403Z
+UID:pandascore-match-1340999@esport-ics
+DTSTART:20260307T050000Z
+DTEND:20260307T084500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/garena_rov_official
+SUMMARY:SOL vs HE
+URL;VALUE=URI:https://www.twitch.tv/garena_rov_official
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023403Z
+UID:pandascore-match-1341007@esport-ics
+DTSTART:20260313T090000Z
+DTEND:20260313T124500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/garena_rov_official
+SUMMARY:TEN vs SOL
+URL;VALUE=URI:https://www.twitch.tv/garena_rov_official
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023403Z
+UID:pandascore-match-1341011@esport-ics
+DTSTART:20260314T110000Z
+DTEND:20260314T144500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/garena_rov_official
+SUMMARY:eA vs SOL
+URL;VALUE=URI:https://www.twitch.tv/garena_rov_official
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023403Z
+UID:pandascore-match-1341016@esport-ics
+DTSTART:20260319T120000Z
+DTEND:20260319T154500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/garena_rov_official
+SUMMARY:SOL vs FS
+URL;VALUE=URI:https://www.twitch.tv/garena_rov_official
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023403Z
+UID:pandascore-match-1341021@esport-ics
+DTSTART:20260321T110000Z
+DTEND:20260321T144500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/garena_rov_official
+SUMMARY:SOL vs KOG
+URL;VALUE=URI:https://www.twitch.tv/garena_rov_official
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023403Z
+UID:pandascore-match-1341023@esport-ics
+DTSTART:20260322T080000Z
+DTEND:20260322T114500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/garena_rov_official
+SUMMARY:GC vs SOL
+URL;VALUE=URI:https://www.twitch.tv/garena_rov_official
+END:VEVENT
+END:VCALENDAR

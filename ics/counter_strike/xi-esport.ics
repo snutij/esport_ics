@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
  \nWatch: https://www.twitch.tv/dust2tv
 SUMMARY:Round 2: SERA vs XI
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260209T131340Z
@@ -24,5 +24,16 @@ DTEND:20260209T194500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
 SUMMARY:XI vs ME
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023409Z
+UID:pandascore-match-1356457@esport-ics
+DTSTART:20260219T160000Z
+DTEND:20260219T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
+ \nWatch: https://www.twitch.tv/dust2tv
+SUMMARY:Round 3: XI vs Vendetta Gaming
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 END:VCALENDAR

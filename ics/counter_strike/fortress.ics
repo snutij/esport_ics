@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
  \nWatch: https://www.twitch.tv/dust2tv
 SUMMARY:Round 2: Invicta vs FOR
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260211T023409Z
+UID:pandascore-match-1356413@esport-ics
+DTSTART:20260216T190000Z
+DTEND:20260216T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
+ \nWatch: https://www.twitch.tv/dust2tv
+SUMMARY:Round 3: sketch vs FOR
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 END:VCALENDAR
