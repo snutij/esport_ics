@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Winter 2026 - Elimination Phase\nWatch: https:
  //www.twitch.tv/lolesports_ar
 SUMMARY:Lower bracket semifinal: ONE vs NGE
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T183000Z
+UID:pandascore-match-1351441@esport-ics
+DTSTART:20260213T183000Z
+DTEND:20260213T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Winter 2026 - Elimination Phase\nWatch: https:
+ //www.twitch.tv/lolesports_ar
+SUMMARY:Lower bracket final: BAAM vs ONE
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

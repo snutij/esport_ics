@@ -80,4 +80,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 50 2026 - Playoffs
 SUMMARY:Upper bracket round 2 match 1: ALL vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T090000Z
+UID:pandascore-match-1352423@esport-ics
+DTSTART:20260215T090000Z
+DTEND:20260215T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 44 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Grand final: ALL vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
