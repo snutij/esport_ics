@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Vancouver Surge
 SLUG:vancouver-surge
 BEGIN:VEVENT
-DTSTAMP:20260214T213000Z
-UID:pandascore-match-1350407@esport-ics
-DTSTART:20260214T213000Z
-DTEND:20260215T011500Z
-CLASS:PUBLIC
-DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
- s\nWatch: https://www.twitch.tv/CallofDuty
-SUMMARY:VAN vs TOR
-URL;VALUE=URI:https://www.twitch.tv/CallofDuty
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260215T003000Z
 UID:pandascore-match-1350365@esport-ics
 DTSTART:20260215T003000Z
@@ -91,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
  s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs PAR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T213000Z
+UID:pandascore-match-1350407@esport-ics
+DTSTART:20260314T213000Z
+DTEND:20260315T011500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
+ s\nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:VAN vs TOR
 URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT

@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Winter 2026 - Seeding Phase\nWatch: https://ww
  w.twitch.tv/lolesports_ar
 SUMMARY:Lower bracket semifinal: DRG vs 3BL
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T160000Z
+UID:pandascore-match-1351438@esport-ics
+DTSTART:20260213T160000Z
+DTEND:20260213T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Winter 2026 - Seeding Phase\nWatch: https://ww
+ w.twitch.tv/lolesports_ar
+SUMMARY:Lower bracket final: GNG vs DRG
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

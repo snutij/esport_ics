@@ -39,6 +39,17 @@ SUMMARY:Winners match: TDK vs  CSDIILIT
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260213T090000Z
+UID:pandascore-match-1356091@esport-ics
+DTSTART:20260213T090000Z
+DTEND:20260213T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group A\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Winners match: TDK vs HAVU
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260213T140000Z
 UID:pandascore-match-1358791@esport-ics
 DTSTART:20260213T140000Z
@@ -46,16 +57,5 @@ DTEND:20260213T161500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 50 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 3: TDK vs OlyBet SB
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260213T150000Z
-UID:pandascore-match-1356091@esport-ics
-DTSTART:20260213T150000Z
-DTEND:20260213T171500Z
-CLASS:PUBLIC
-DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group A\nWatch: 
- https://kick.com/nodwin_cs2
-SUMMARY:Winners match: TDK vs TBD
-URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
