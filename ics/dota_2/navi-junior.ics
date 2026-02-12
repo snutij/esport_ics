@@ -49,4 +49,15 @@ DESCRIPTION:European Pro League - Season 34 2026 - Group B\nWatch: https://
 SUMMARY:NAVI.J vs WB
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T090000Z
+UID:pandascore-match-1346319@esport-ics
+DTSTART:20260213T090000Z
+DTEND:20260213T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - Series 7 season 2 2026 - Group A\nWatch: https://kick.com
+ /cct_dota
+SUMMARY:Elimination match: YeS vs NAVI.J
+URL;VALUE=URI:https://kick.com/cct_dota
+END:VEVENT
 END:VCALENDAR

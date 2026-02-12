@@ -71,4 +71,13 @@ DESCRIPTION:United21 - Season 44 2026 - Playoffs\nWatch: https://kick.com/u
 SUMMARY:Upper bracket final: ALL vs VP.P
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T140000Z
+UID:pandascore-match-1358885@esport-ics
+DTSTART:20260214T140000Z
+DTEND:20260214T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 1: ALL vs TBD
+END:VEVENT
 END:VCALENDAR

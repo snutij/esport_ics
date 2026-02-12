@@ -47,7 +47,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group B\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Omega vs home
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260213T120000Z
@@ -59,6 +59,15 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #16 season 3 2026 - Group
   B\nWatch: https://kick.com/cct_cs2
 SUMMARY:Decider match: BBP vs home
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T140000Z
+UID:pandascore-match-1358795@esport-ics
+DTSTART:20260213T140000Z
+DTEND:20260213T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 7: home vs FORZE.R
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260214T090000Z

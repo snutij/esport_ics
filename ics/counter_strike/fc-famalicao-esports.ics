@@ -45,4 +45,13 @@ DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group A\nWatch:
 SUMMARY:Elimination match: FCF vs TBD
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T140000Z
+UID:pandascore-match-1358793@esport-ics
+DTSTART:20260213T140000Z
+DTEND:20260213T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 5: FCF vs ALLIN
+END:VEVENT
 END:VCALENDAR
