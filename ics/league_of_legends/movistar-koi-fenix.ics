@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:FALKE Esports
-SLUG:falke-esports
+X-WR-CALNAME:⁠Movistar KOI Fénix
+SLUG:movistar-koi-fenix
 BEGIN:VEVENT
 DTSTAMP:20260213T110000Z
 UID:pandascore-match-1356619@esport-ics
