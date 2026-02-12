@@ -36,7 +36,18 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #16 season 3 2026 - Group
   D\nWatch: https://kick.com/cct_cs2
 SUMMARY:Elimination match: Atreides vs OXUJI
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260212T123000Z
+UID:pandascore-match-1358135@esport-ics
+DTSTART:20260212T123000Z
+DTEND:20260212T144500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck StarPearl - Season 1 2026 - Group A\nWatch: https://www.t
+ witch.tv/gluck_esports
+SUMMARY:Elimination match: OXUJI vs BlinkDagger
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260213T113000Z

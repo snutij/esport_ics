@@ -17,14 +17,14 @@ SUMMARY:1WIN vs SNZ.P
 URL:https://www.twitch.tv/gluck_esports_3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260212T120000Z
+DTSTAMP:20260212T123000Z
 UID:pandascore-match-1358146@esport-ics
-DTSTART:20260212T120000Z
-DTEND:20260212T141500Z
+DTSTART:20260212T123000Z
+DTEND:20260212T144500Z
 CLASS:PUBLIC
 DESCRIPTION:GLuck StarPearl - Season 1 2026 - Group C\nWatch: https://www.t
  witch.tv/gluck_esports
-SUMMARY:Elimination match: SNZ.P vs TBD
+SUMMARY:Elimination match: SNZ.P vs RUST
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

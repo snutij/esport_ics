@@ -47,7 +47,9 @@ UID:pandascore-match-1350994@esport-ics
 DTSTART:20260212T130000Z
 DTEND:20260212T151500Z
 CLASS:PUBLIC
-DESCRIPTION:IstanbuLAN - 2026 - Playoffs
+DESCRIPTION:IstanbuLAN - 2026 - Playoffs\nWatch: https://www.twitch.tv/ista
+ nbulancs2
 SUMMARY:Round 16 match 3: MGC vs ex-GANK Esports
+URL;VALUE=URI:https://www.twitch.tv/istanbulancs2
 END:VEVENT
 END:VCALENDAR

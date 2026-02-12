@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - Series 7 season 2 2026 - Group A\nWatch: https://kick.com
  /cct_dota
 SUMMARY:YeS vs ALOHA
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T150000Z
+UID:pandascore-match-1346320@esport-ics
+DTSTART:20260213T150000Z
+DTEND:20260213T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - Series 7 season 2 2026 - Group A\nWatch: https://kick.com
+ /cct_dota
+SUMMARY:Winners match: ALOHA vs TBD
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR
