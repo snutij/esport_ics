@@ -32,6 +32,15 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: American Qualifier 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/watchfulTV
 SUMMARY:Upper bracket final: PSSN.UA vs WC
-URL;VALUE=URI:https://www.twitch.tv/watchfulTV
+URL:https://www.twitch.tv/watchfulTV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T010000Z
+UID:pandascore-match-1344446@esport-ics
+DTSTART:20260213T010000Z
+DTEND:20260213T031500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta: American Qualifier 2026 - Playoffs
+SUMMARY:Grand final: PSSN.UA vs WC
 END:VEVENT
 END:VCALENDAR
