@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #8 season 3 2026 - Group Stage\nWatc
  h: https://kick.com/cct_cs3
 SUMMARY:Round 4: ex-KRÜ Esports vs FA
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260212T160000Z
+UID:pandascore-match-1343441@esport-ics
+DTSTART:20260212T160000Z
+DTEND:20260212T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #8 season 3 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs3
+SUMMARY:Round of 16 match 4: Keyd vs FA
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
