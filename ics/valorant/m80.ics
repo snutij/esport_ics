@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America Stage 1 2026 - Swiss Stage\nWatch: https://
  www.twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Round 7: YFP vs M80
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T000000Z
+UID:pandascore-match-1358447@esport-ics
+DTSTART:20260218T000000Z
+DTEND:20260218T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America Stage 1 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Upper bracket quarterfinal 3: SLP vs M80
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR

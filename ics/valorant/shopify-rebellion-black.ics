@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America Stage 1 2026 - Swiss Stage\nWatch: https://
  www.twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Round 6: SRB vs PGS
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T210000Z
+UID:pandascore-match-1358448@esport-ics
+DTSTART:20260217T210000Z
+DTEND:20260217T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America Stage 1 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Upper bracket quarterfinal 4: SRB vs EG.A
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR

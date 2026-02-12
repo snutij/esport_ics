@@ -17,6 +17,17 @@ SUMMARY:SASHI vs KOL
 URL:https://www.twitch.tv/narodcast4
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260212T120000Z
+UID:pandascore-match-1353878@esport-ics
+DTSTART:20260212T120000Z
+DTEND:20260212T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Copenhagen Gaming Week - Showdown 2026 - Group A\nWatch: https:
+ //kick.com/luffastream
+SUMMARY:Winners match: KOL vs MSC
+URL;VALUE=URI:https://kick.com/luffastream
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260221T163000Z
 UID:pandascore-match-1313594@esport-ics
 DTSTART:20260221T163000Z

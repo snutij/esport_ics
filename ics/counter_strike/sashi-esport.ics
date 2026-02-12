@@ -17,6 +17,17 @@ SUMMARY:SASHI vs KOL
 URL:https://www.twitch.tv/narodcast4
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260212T120000Z
+UID:pandascore-match-1353879@esport-ics
+DTSTART:20260212T120000Z
+DTEND:20260212T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Copenhagen Gaming Week - Showdown 2026 - Group A\nWatch: https:
+ //www.twitch.tv/d0kt0r3n
+SUMMARY:Elimination match: SASHI vs ECS
+URL;VALUE=URI:https://www.twitch.tv/d0kt0r3n
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260216T190000Z
 UID:pandascore-match-1356411@esport-ics
 DTSTART:20260216T190000Z
