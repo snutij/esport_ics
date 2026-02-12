@@ -11,7 +11,9 @@ UID:pandascore-match-1350972@esport-ics
 DTSTART:20260212T080000Z
 DTEND:20260212T101500Z
 CLASS:PUBLIC
-DESCRIPTION:IstanbuLAN - 2026 - Playoffs
+DESCRIPTION:IstanbuLAN - 2026 - Playoffs\nWatch: https://www.twitch.tv/croi
+ ssantstrike
 SUMMARY:Round 16 match 1: M8 vs gothboiclique
+URL;VALUE=URI:https://www.twitch.tv/croissantstrike
 END:VEVENT
 END:VCALENDAR

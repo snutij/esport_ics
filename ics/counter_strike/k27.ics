@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/watchfulTVb
 SUMMARY:Lower bracket round 2 match 2: K27 vs JS
-URL;VALUE=URI:https://www.twitch.tv/watchfulTVb
+URL:https://www.twitch.tv/watchfulTVb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T090000Z
+UID:pandascore-match-1358138@esport-ics
+DTSTART:20260213T090000Z
+DTEND:20260213T111500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck StarPearl - Season 1 2026 - Group B\nWatch: https://www.t
+ witch.tv/gluck_esports
+SUMMARY:K27 vs DRGN TEAM
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

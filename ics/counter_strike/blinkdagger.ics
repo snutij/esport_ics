@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BlinkDagger
+SLUG:blinkdagger
+BEGIN:VEVENT
+DTSTAMP:20260212T090000Z
+UID:pandascore-match-1358132@esport-ics
+DTSTART:20260212T090000Z
+DTEND:20260212T111500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck StarPearl - Season 1 2026 - Group A\nWatch: https://www.t
+ witch.tv/gluck_esports
+SUMMARY:NEM vs BlinkDagger
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+END:VCALENDAR
