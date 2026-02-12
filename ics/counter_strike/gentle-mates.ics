@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:IstanbuLAN - 2026 - Playoffs\nWatch: https://www.twitch.tv/croi
  ssantstrike
 SUMMARY:Round 16 match 1: M8 vs gothboiclique
-URL;VALUE=URI:https://www.twitch.tv/croissantstrike
+URL:https://www.twitch.tv/croissantstrike
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T080000Z
+UID:pandascore-match-1351040@esport-ics
+DTSTART:20260213T080000Z
+DTEND:20260213T101500Z
+CLASS:PUBLIC
+DESCRIPTION:IstanbuLAN - 2026 - Playoffs
+SUMMARY:Quarterfinal 1: BW vs M8
 END:VEVENT
 END:VCALENDAR

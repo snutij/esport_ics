@@ -50,6 +50,17 @@ SUMMARY:YG vs Y123
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260215T060000Z
+UID:pandascore-match-1357391@esport-ics
+DTSTART:20260215T060000Z
+DTEND:20260215T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:Y123 vs VER
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260215T070000Z
 UID:pandascore-match-1345805@esport-ics
 DTSTART:20260215T070000Z
@@ -70,5 +81,38 @@ DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:Y123 vs IAC
 URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260216T070000Z
+UID:pandascore-match-1357413@esport-ics
+DTSTART:20260216T070000Z
+DTEND:20260216T091500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:Y123 vs SW
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T060000Z
+UID:pandascore-match-1357445@esport-ics
+DTSTART:20260222T060000Z
+DTEND:20260222T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:Y123 vs IVO
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T030000Z
+UID:pandascore-match-1357446@esport-ics
+DTSTART:20260223T030000Z
+DTEND:20260223T051500Z
+CLASS:PUBLIC
+DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/cringestation_en
+SUMMARY:Y123 vs Shark Squad
+URL;VALUE=URI:https://www.twitch.tv/cringestation_en
 END:VEVENT
 END:VCALENDAR
