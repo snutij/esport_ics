@@ -48,6 +48,17 @@ SUMMARY:Winners match: HS vs URSA
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260213T150000Z
+UID:pandascore-match-1350053@esport-ics
+DTSTART:20260213T150000Z
+DTEND:20260213T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #16 season 3 2026 - Group
+  C\nWatch: https://kick.com/cct_cs2
+SUMMARY:Decider match: PRIME vs URSA
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260216T113000Z
 UID:pandascore-match-1354000@esport-ics
 DTSTART:20260216T113000Z

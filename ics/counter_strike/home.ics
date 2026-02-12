@@ -51,6 +51,17 @@ URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260213T120000Z
+UID:pandascore-match-1356104@esport-ics
+DTSTART:20260213T120000Z
+DTEND:20260213T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group B\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Elimination match: PGE vs home
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T120000Z
 UID:pandascore-match-1350048@esport-ics
 DTSTART:20260213T120000Z
 DTEND:20260213T141500Z
@@ -66,7 +77,7 @@ UID:pandascore-match-1358795@esport-ics
 DTSTART:20260213T140000Z
 DTEND:20260213T161500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 50 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 7: home vs FORZE.R
 END:VEVENT
 BEGIN:VEVENT

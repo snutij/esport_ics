@@ -28,12 +28,23 @@ SUMMARY:Winners' match: ex-RUBY vs NEM
 URL:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260212T150000Z
+UID:pandascore-match-1358136@esport-ics
+DTSTART:20260212T150000Z
+DTEND:20260212T171500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck StarPearl - Season 1 2026 - Group A\nWatch: https://www.t
+ witch.tv/gluck_esports
+SUMMARY:Decider match: OXUJI vs ex-RUBY
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260214T180000Z
 UID:pandascore-match-1358894@esport-ics
 DTSTART:20260214T180000Z
 DTEND:20260214T201500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 50 2026 - Playoffs
 SUMMARY:Upper bracket round 2 match 10: ex-RUBY vs TBD
 END:VEVENT
 END:VCALENDAR
