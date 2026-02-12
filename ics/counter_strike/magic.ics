@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:IstanbuLAN - 2026 - Playoffs\nWatch: https://kick.com/istanbula
  ncs2
 SUMMARY:Round 16 match 3: MGC vs ex-GANK Esports
-URL;VALUE=URI:https://kick.com/istanbulancs2
+URL:https://kick.com/istanbulancs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T103000Z
+UID:pandascore-match-1351041@esport-ics
+DTSTART:20260213T103000Z
+DTEND:20260213T124500Z
+CLASS:PUBLIC
+DESCRIPTION:IstanbuLAN - 2026 - Playoffs
+SUMMARY:Quarterfinal 2: MISA vs MGC
 END:VEVENT
 END:VCALENDAR

@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:TCL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
  gamesturkish
 SUMMARY:Lower bracket quarterfinal 1: DP vs BW
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T150000Z
+UID:pandascore-match-1351413@esport-ics
+DTSTART:20260220T150000Z
+DTEND:20260220T184500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
+ gamesturkish
+SUMMARY:Lower bracket semifinal: BW vs TBD
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 END:VCALENDAR
