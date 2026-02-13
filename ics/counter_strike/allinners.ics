@@ -39,6 +39,17 @@ SUMMARY:Elimination match: FCF vs ALLIN
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260214T090000Z
+UID:pandascore-match-1356102@esport-ics
+DTSTART:20260214T090000Z
+DTEND:20260214T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group A\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Decider match: HAVU vs ALLIN
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260215T140000Z
 UID:pandascore-match-1359025@esport-ics
 DTSTART:20260215T140000Z
