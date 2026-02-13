@@ -11,7 +11,31 @@ UID:pandascore-match-1359605@esport-ics
 DTSTART:20260219T190000Z
 DTEND:20260219T224500Z
 CLASS:PUBLIC
-DESCRIPTION:RLCS Major - Boston 2026 - Group C
+DESCRIPTION:RLCS Major - Boston 2026 - Group C\nWatch: https://www.twitch.t
+ v/rocketleague
 SUMMARY:KC vs TWIS
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T170000Z
+UID:pandascore-match-1359628@esport-ics
+DTSTART:20260220T170000Z
+DTEND:20260220T204500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Boston 2026 - Group C\nWatch: https://www.twitch.t
+ v/rocketleague
+SUMMARY:TWIS vs VIT
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T210000Z
+UID:pandascore-match-1359630@esport-ics
+DTSTART:20260220T210000Z
+DTEND:20260221T004500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Boston 2026 - Group C\nWatch: https://www.twitch.t
+ v/rocketleague
+SUMMARY:TWIS vs SSG
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

@@ -47,4 +47,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group C\nWatch:
 SUMMARY:RBLS vs VP.P
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T090000Z
+UID:pandascore-match-1353984@esport-ics
+DTSTART:20260218T090000Z
+DTEND:20260218T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: RBLS vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

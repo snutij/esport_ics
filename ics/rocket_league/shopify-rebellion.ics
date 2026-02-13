@@ -22,7 +22,31 @@ UID:pandascore-match-1359608@esport-ics
 DTSTART:20260219T170000Z
 DTEND:20260219T204500Z
 CLASS:PUBLIC
-DESCRIPTION:RLCS Major - Boston 2026 - Group D
+DESCRIPTION:RLCS Major - Boston 2026 - Group D\nWatch: https://www.twitch.t
+ v/rocketleague
 SUMMARY:mibr vs SR
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T210000Z
+UID:pandascore-match-1359609@esport-ics
+DTSTART:20260219T210000Z
+DTEND:20260220T004500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Boston 2026 - Group D\nWatch: https://www.twitch.t
+ v/rocketleague
+SUMMARY:SR vs M8
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T180000Z
+UID:pandascore-match-1359632@esport-ics
+DTSTART:20260220T180000Z
+DTEND:20260220T214500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Boston 2026 - Group D\nWatch: https://www.twitch.t
+ v/rocketleague
+SUMMARY:SR vs PDLC
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

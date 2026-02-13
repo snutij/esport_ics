@@ -27,4 +27,15 @@ DESCRIPTION:RLCS Major - Boston 2026 - Group A\nWatch: https://www.twitch.t
 SUMMARY:NIP vs NRG
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T190000Z
+UID:pandascore-match-1359626@esport-ics
+DTSTART:20260220T190000Z
+DTEND:20260220T224500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Boston 2026 - Group A\nWatch: https://www.twitch.t
+ v/rocketleague
+SUMMARY:NIP vs PWR
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
 END:VCALENDAR
