@@ -55,7 +55,9 @@ UID:pandascore-match-1359522@esport-ics
 DTSTART:20260213T100000Z
 DTEND:20260213T121500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 34 2026 - Playoffs
+DESCRIPTION:European Pro League - Season 34 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
 SUMMARY:Upper Bracket Quarterfinals 2: VP.P vs L1GA
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

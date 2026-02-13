@@ -11,8 +11,10 @@ UID:pandascore-match-1353882@esport-ics
 DTSTART:20260213T093000Z
 DTEND:20260213T101500Z
 CLASS:PUBLIC
-DESCRIPTION:Copenhagen Gaming Week - Showdown 2026 - Group B
+DESCRIPTION:Copenhagen Gaming Week - Showdown 2026 - Group B\nWatch: https:
+ //www.twitch.tv/narodcast4
 SUMMARY:ENCE vs ILWL
+URL;VALUE=URI:https://www.twitch.tv/narodcast4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260214T140000Z

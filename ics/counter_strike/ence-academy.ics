@@ -22,8 +22,10 @@ UID:pandascore-match-1358821@esport-ics
 DTSTART:20260213T180000Z
 DTEND:20260213T201500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 50 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 50 2026 - Playoffs\
+ nWatch: https://www.twitch.tv/eslcs
 SUMMARY:Upper bracket round 1 match 13: ENCE.A vs LK
+URL;VALUE=URI:https://www.twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260215T090000Z

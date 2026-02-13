@@ -42,8 +42,10 @@ UID:pandascore-match-1351040@esport-ics
 DTSTART:20260213T080000Z
 DTEND:20260213T101500Z
 CLASS:PUBLIC
-DESCRIPTION:IstanbuLAN - 2026 - Playoffs
+DESCRIPTION:IstanbuLAN - 2026 - Playoffs\nWatch: https://www.twitch.tv/x9ni
+ um
 SUMMARY:Quarterfinal 1: BW vs M8
+URL;VALUE=URI:https://www.twitch.tv/x9nium
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260213T180000Z
@@ -51,8 +53,10 @@ UID:pandascore-match-1358819@esport-ics
 DTSTART:20260213T180000Z
 DTEND:20260213T201500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 50 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 50 2026 - Playoffs\
+ nWatch: https://www.twitch.tv/misterhenrybatt
 SUMMARY:Upper bracket round 1 match 11: BW vs Leo
+URL;VALUE=URI:https://www.twitch.tv/misterhenrybatt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260215T180000Z

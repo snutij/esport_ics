@@ -28,25 +28,25 @@ SUMMARY:EWI vs AOMA
 URL:https://www.twitch.tv/primeleague
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260219T180000Z
-UID:pandascore-match-1355298@esport-ics
-DTSTART:20260219T180000Z
-DTEND:20260219T184500Z
+DTSTAMP:20260219T190000Z
+UID:pandascore-match-1355301@esport-ics
+DTSTART:20260219T190000Z
+DTEND:20260219T194500Z
 CLASS:PUBLIC
 DESCRIPTION:Prime League 1st Division - Winter 2026 - Group B\nWatch: https
  ://www.twitch.tv/primeleague
-SUMMARY:EWI vs USE
+SUMMARY:SGE vs EWI
 URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260219T210000Z
-UID:pandascore-match-1355301@esport-ics
+UID:pandascore-match-1355298@esport-ics
 DTSTART:20260219T210000Z
 DTEND:20260219T214500Z
 CLASS:PUBLIC
 DESCRIPTION:Prime League 1st Division - Winter 2026 - Group B\nWatch: https
  ://www.twitch.tv/primeleague
-SUMMARY:SGE vs EWI
+SUMMARY:EWI vs USE
 URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 END:VCALENDAR
