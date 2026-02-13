@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:LPLOL - Winter 2026 - Group B\nWatch: https://www.twitch.tv/rtp
  arenalol
 SUMMARY:Upper bracket semifinal 1: CRZ vs IPS
+URL:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T220000Z
+UID:pandascore-match-1355369@esport-ics
+DTSTART:20260213T220000Z
+DTEND:20260213T224500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Winter 2026 - Group B\nWatch: https://www.twitch.tv/rtp
+ arenalol
+SUMMARY:Lower bracket semifinal: IPS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rtparenalol
 END:VEVENT
 END:VCALENDAR
