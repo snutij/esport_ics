@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS NA - Major 3: Open Qualifier season 3 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/rocketleague
 SUMMARY:Lower bracket quarterfinal 1: SR vs FUT
-URL;VALUE=URI:https://www.twitch.tv/rocketleague
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T170000Z
+UID:pandascore-match-1359608@esport-ics
+DTSTART:20260219T170000Z
+DTEND:20260219T204500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Boston 2026 - Group D
+SUMMARY:mibr vs SR
 END:VEVENT
 END:VCALENDAR

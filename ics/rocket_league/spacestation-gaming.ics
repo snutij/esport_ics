@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS NA - Major 3: Open Qualifier season 3 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/rocketleague
 SUMMARY:Semifinal 1: SSG vs TBD
-URL;VALUE=URI:https://www.twitch.tv/rocketleague
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T190000Z
+UID:pandascore-match-1359606@esport-ics
+DTSTART:20260219T190000Z
+DTEND:20260219T224500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Boston 2026 - Group C
+SUMMARY:VIT vs SSG
 END:VEVENT
 END:VCALENDAR
