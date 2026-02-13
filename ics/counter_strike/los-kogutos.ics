@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
  nWatch: https://www.twitch.tv/eslcs
 SUMMARY:Upper bracket round 1 match 13: ENCE.A vs LK
-URL;VALUE=URI:https://www.twitch.tv/eslcs
+URL:https://www.twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T180000Z
+UID:pandascore-match-1359053@esport-ics
+DTSTART:20260215T180000Z
+DTEND:20260215T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
+ nWatch: https://www.twitch.tv/ESLCS
+SUMMARY:Lower bracket round 1 match 13: LK vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

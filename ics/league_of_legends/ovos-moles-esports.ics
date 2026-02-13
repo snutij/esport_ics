@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:LPLOL - Winter 2026 - Group B\nWatch: https://www.twitch.tv/rtp
  arenalol
 SUMMARY:Upper bracket semifinal 2: OVO vs PZG
+URL:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T210000Z
+UID:pandascore-match-1355362@esport-ics
+DTSTART:20260213T210000Z
+DTEND:20260213T214500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Winter 2026 - Group B\nWatch: https://www.twitch.tv/rtp
+ arenalol
+SUMMARY:Upper bracket final: CRZ vs OVO
 URL;VALUE=URI:https://www.twitch.tv/rtparenalol
 END:VEVENT
 END:VCALENDAR

@@ -26,6 +26,15 @@ SUMMARY:Upper bracket round 1 match 16: UNiTY vs WB
 URL:https://www.twitch.tv/anishared
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260214T180000Z
+UID:pandascore-match-1358934@esport-ics
+DTSTART:20260214T180000Z
+DTEND:20260214T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 16: JS vs UNiTY
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260218T170000Z
 UID:pandascore-match-1356656@esport-ics
 DTSTART:20260218T170000Z
