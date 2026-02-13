@@ -39,17 +39,6 @@ SUMMARY:A&F vs Y123
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260213T040000Z
-UID:pandascore-match-1345800@esport-ics
-DTSTART:20260213T040000Z
-DTEND:20260213T061500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:YG vs Y123
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260215T060000Z
 UID:pandascore-match-1357391@esport-ics
 DTSTART:20260215T060000Z
@@ -92,6 +81,17 @@ DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group B\nWatch: https://ww
  w.twitch.tv/cringestation_en
 SUMMARY:Y123 vs SW
 URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T040000Z
+UID:pandascore-match-1345800@esport-ics
+DTSTART:20260217T040000Z
+DTEND:20260217T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs Y123
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260222T060000Z

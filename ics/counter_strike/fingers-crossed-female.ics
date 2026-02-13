@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:JB Pro League - Female season 1 2026 - Group A\nWatch: https://
  www.twitch.tv/corvex666
 SUMMARY:Elimination match: imodium vs  Fingers Crossed Female
-URL;VALUE=URI:https://www.twitch.tv/corvex666
+URL:https://www.twitch.tv/corvex666
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T201500Z
+UID:pandascore-match-1354013@esport-ics
+DTSTART:20260213T201500Z
+DTEND:20260213T223000Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Female season 1 2026 - Playoffs\nWatch: https:/
+ /kick.com/jbproleague
+SUMMARY:Upper bracket semifinal 2: BIG.E vs  Fingers Crossed Female
+URL;VALUE=URI:https://kick.com/jbproleague
 END:VEVENT
 END:VCALENDAR

@@ -28,17 +28,6 @@ SUMMARY:A&F vs Y123
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260213T070000Z
-UID:pandascore-match-1345801@esport-ics
-DTSTART:20260213T070000Z
-DTEND:20260213T091500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:ESS vs A&F
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260214T040000Z
 UID:pandascore-match-1345802@esport-ics
 DTSTART:20260214T040000Z
@@ -69,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:A&F vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T070000Z
+UID:pandascore-match-1345801@esport-ics
+DTSTART:20260217T070000Z
+DTEND:20260217T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:ESS vs A&F
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

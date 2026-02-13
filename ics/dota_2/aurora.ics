@@ -58,6 +58,83 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 3 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/esl_dota2
 SUMMARY:Grand final: AUR vs TBD
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260216T160000Z
+UID:pandascore-match-1358039@esport-ics
+DTSTART:20260216T160000Z
+DTEND:20260216T173000Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
+ www.twitch.tv/esl_dota2
+SUMMARY:BB vs AUR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T110000Z
+UID:pandascore-match-1358041@esport-ics
+DTSTART:20260217T110000Z
+DTEND:20260217T123000Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
+ www.twitch.tv/esl_dota2
+SUMMARY:paiN vs AUR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T110000Z
+UID:pandascore-match-1358049@esport-ics
+DTSTART:20260218T110000Z
+DTEND:20260218T123000Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
+ www.twitch.tv/esl_dota2
+SUMMARY:AUR vs YB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T160000Z
+UID:pandascore-match-1358051@esport-ics
+DTSTART:20260218T160000Z
+DTEND:20260218T173000Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
+ www.twitch.tv/esl_dota2
+SUMMARY:Liquid vs AUR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T110000Z
+UID:pandascore-match-1358055@esport-ics
+DTSTART:20260219T110000Z
+DTEND:20260219T123000Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
+ www.twitch.tv/esl_dota2
+SUMMARY:OG vs AUR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T160000Z
+UID:pandascore-match-1358061@esport-ics
+DTSTART:20260219T160000Z
+DTEND:20260219T173000Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
+ www.twitch.tv/esl_dota2
+SUMMARY:AUR vs BB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T110000Z
+UID:pandascore-match-1358063@esport-ics
+DTSTART:20260220T110000Z
+DTEND:20260220T123000Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
+ www.twitch.tv/esl_dota2
+SUMMARY:AUR vs TY
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

@@ -72,6 +72,17 @@ SUMMARY:Elimination match: PGE vs home
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260213T170000Z
+UID:pandascore-match-1354012@esport-ics
+DTSTART:20260213T170000Z
+DTEND:20260213T191500Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Female season 1 2026 - Playoffs\nWatch: https:/
+ /kick.com/jbproleague
+SUMMARY:Upper bracket semifinal 1: PGE vs LHC
+URL;VALUE=URI:https://kick.com/jbproleague
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260224T160000Z
 UID:pandascore-match-1356651@esport-ics
 DTSTART:20260224T160000Z

@@ -14,4 +14,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 50 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 9: AIRLYA vs NXS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T180000Z
+UID:pandascore-match-1359049@esport-ics
+DTSTART:20260215T180000Z
+DTEND:20260215T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 50 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 9: AIRLYA vs TBD
+END:VEVENT
 END:VCALENDAR
