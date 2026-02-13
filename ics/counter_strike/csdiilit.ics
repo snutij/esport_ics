@@ -67,7 +67,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
  nWatch: https://www.twitch.tv/clutchzonetv2
 SUMMARY:Upper bracket round 1 match 14: Omega vs  CSDIILIT
-URL;VALUE=URI:https://www.twitch.tv/clutchzonetv2
+URL:https://www.twitch.tv/clutchzonetv2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260213T180000Z
@@ -78,7 +78,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #16 season 3 2026 - Group
   D\nWatch: https://kick.com/cct_cs2
 SUMMARY:Decider match:  CSDIILIT vs Atreides
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260215T090000Z

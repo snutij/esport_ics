@@ -47,7 +47,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
  nWatch: https://www.twitch.tv/clutchzonetv1
 SUMMARY:Upper bracket round 1 match 12: ALGO vs PRIME
-URL;VALUE=URI:https://www.twitch.tv/clutchzonetv1
+URL:https://www.twitch.tv/clutchzonetv1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260214T180000Z
@@ -57,5 +57,14 @@ DTEND:20260214T201500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
 SUMMARY:Upper bracket round 2 match 12: KOL vs ALGO
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T170000Z
+UID:pandascore-match-1360763@esport-ics
+DTSTART:20260219T170000Z
+DTEND:20260219T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Group B
+SUMMARY:HOTU vs ALGO
 END:VEVENT
 END:VCALENDAR

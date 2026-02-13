@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #8 season 3 2026 - Playoffs\nWatch: 
  https://kick.com/cct_cs3
 SUMMARY:Round of 16 match 8: ODK vs FDB
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T190000Z
+UID:pandascore-match-1360788@esport-ics
+DTSTART:20260225T190000Z
+DTEND:20260225T211500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom RUSH B! - Summit season 2 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/btsbrasilfps
+SUMMARY:Upper bracket quarterfinal 2: RED vs FDB
+URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
 END:VEVENT
 END:VCALENDAR

@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:RES Showdown Spring - 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/rlg_cs
 SUMMARY:Grand final: NIP vs GL
-URL;VALUE=URI:https://www.twitch.tv/rlg_cs
+URL:https://www.twitch.tv/rlg_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T170000Z
+UID:pandascore-match-1360773@esport-ics
+DTSTART:20260220T170000Z
+DTEND:20260220T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Group D
+SUMMARY:NIP vs 100T
 END:VEVENT
 END:VCALENDAR

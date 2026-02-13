@@ -49,4 +49,15 @@ DESCRIPTION:CCT South America - Series #8 season 3 2026 - Playoffs\nWatch:
 SUMMARY:Round of 16 match 6: BHE vs 9z
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T220000Z
+UID:pandascore-match-1360789@esport-ics
+DTSTART:20260225T220000Z
+DTEND:20260226T001500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom RUSH B! - Summit season 2 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/btsbrasilfps
+SUMMARY:Upper bracket quarterfinal 3: ODK vs 9z
+URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
+END:VEVENT
 END:VCALENDAR

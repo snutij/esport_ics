@@ -49,4 +49,15 @@ DESCRIPTION:CCT South America - Series #8 season 3 2026 - Playoffs\nWatch:
 SUMMARY:Quarterfinal 3: SHK vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T010000Z
+UID:pandascore-match-1360790@esport-ics
+DTSTART:20260226T010000Z
+DTEND:20260226T031500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom RUSH B! - Summit season 2 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/btsbrasilfps
+SUMMARY:Upper bracket quarterfinal 4: SHK vs GLS
+URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
+END:VEVENT
 END:VCALENDAR

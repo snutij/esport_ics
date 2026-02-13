@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Winter 2026 - Playoffs\nWatch: https://www.t
  witch.tv/hitpointcz
 SUMMARY:Upper bracket quarterfinal 4: EXE vs ESB
+URL:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T170000Z
+UID:pandascore-match-1351425@esport-ics
+DTSTART:20260215T170000Z
+DTEND:20260215T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Winter 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/hitpointcz
+SUMMARY:Upper bracket semifinal 2: NBS vs ESB
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 END:VCALENDAR
