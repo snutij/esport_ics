@@ -72,6 +72,17 @@ SUMMARY:Upper bracket round 1 match 13: ENCE.A vs LK
 URL:https://www.twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260215T150000Z
+UID:pandascore-match-1343414@esport-ics
+DTSTART:20260215T150000Z
+DTEND:20260215T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #15 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 4: ASTRAL vs LK
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260215T180000Z
 UID:pandascore-match-1359053@esport-ics
 DTSTART:20260215T180000Z

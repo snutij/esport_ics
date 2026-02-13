@@ -61,6 +61,17 @@ SUMMARY:Upper bracket round 1 match 12: ALGO vs PRIME
 URL:https://www.twitch.tv/clutchzonetv1
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260214T120000Z
+UID:pandascore-match-1350060@esport-ics
+DTSTART:20260214T120000Z
+DTEND:20260214T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #16 season 3 2026 - Play-
+ In\nWatch: https://kick.com/cct_cs2
+SUMMARY:BRUTE vs PRIME
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260215T090000Z
 UID:pandascore-match-1353994@esport-ics
 DTSTART:20260215T090000Z
