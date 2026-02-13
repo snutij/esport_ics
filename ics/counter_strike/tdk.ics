@@ -58,6 +58,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 50 2026 - Playoffs\
  nWatch: https://www.twitch.tv/Trottah
 SUMMARY:Upper bracket round 1 match 3: TDK vs OlyBet SB
-URL;VALUE=URI:https://www.twitch.tv/Trottah
+URL:https://www.twitch.tv/Trottah
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T140000Z
+UID:pandascore-match-1358887@esport-ics
+DTSTART:20260214T140000Z
+DTEND:20260214T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 3: SNG vs TDK
 END:VEVENT
 END:VCALENDAR
