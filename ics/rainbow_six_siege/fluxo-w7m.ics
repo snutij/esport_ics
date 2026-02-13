@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/rainbow6
 SUMMARY:Lower bracket quarterfinal 2: FURIA vs Fluxo W7M
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T130000Z
+UID:pandascore-match-1356646@esport-ics
+DTSTART:20260214T130000Z
+DTEND:20260214T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/rainbow6
+SUMMARY:Lower bracket semifinal: Fluxo W7M vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

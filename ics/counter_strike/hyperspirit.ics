@@ -39,6 +39,17 @@ SUMMARY:Winners match: OXUJI vs HS
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260218T090000Z
+UID:pandascore-match-1353984@esport-ics
+DTSTART:20260218T090000Z
+DTEND:20260218T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: RBLS vs HS
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260222T140000Z
 UID:pandascore-match-1313595@esport-ics
 DTSTART:20260222T140000Z

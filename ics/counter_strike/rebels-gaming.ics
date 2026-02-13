@@ -37,6 +37,15 @@ DESCRIPTION:ESL Challenger League - Europe Cup 1 season 50 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 4: RBLS vs BMB
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260214T140000Z
+UID:pandascore-match-1358888@esport-ics
+DTSTART:20260214T140000Z
+DTEND:20260214T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 4: 1WIN vs RBLS
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260215T150000Z
 UID:pandascore-match-1355219@esport-ics
 DTSTART:20260215T150000Z
@@ -55,7 +64,7 @@ DTEND:20260218T111500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group A\nWatch: h
  ttps://kick.com/eplcs_en
-SUMMARY:Decider match: RBLS vs TBD
+SUMMARY:Decider match: RBLS vs HS
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
