@@ -79,17 +79,6 @@ SUMMARY:Winners match: BMB vs Omega
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T113000Z
-UID:pandascore-match-1353990@esport-ics
-DTSTART:20260214T113000Z
-DTEND:20260214T134500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group B\nWatch: h
- ttps://kick.com/eplcs_en
-SUMMARY:Winners match: BMB vs TLR
-URL;VALUE=URI:https://kick.com/eplcs_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260214T120000Z
 UID:pandascore-match-1356106@esport-ics
 DTSTART:20260214T120000Z
@@ -99,6 +88,17 @@ DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group B\nWatch:
  https://kick.com/nodwin_cs2
 SUMMARY:Decider match: PGE vs BMB
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T120000Z
+UID:pandascore-match-1353990@esport-ics
+DTSTART:20260214T120000Z
+DTEND:20260214T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group B\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Winners match: BMB vs TLR
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260215T140000Z
