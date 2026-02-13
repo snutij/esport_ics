@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Betclic Apogee Esports
+SLUG:betclic-apogee-esports
+BEGIN:VEVENT
+DTSTAMP:20260219T100000Z
+UID:pandascore-match-1360759@esport-ics
+DTSTART:20260219T100000Z
+DTEND:20260219T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/rmncs
+SUMMARY:EYE vs BCA
+URL;VALUE=URI:https://www.twitch.tv/rmncs
+END:VEVENT
+END:VCALENDAR

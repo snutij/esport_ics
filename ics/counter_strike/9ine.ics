@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:IstanbuLAN - 2026 - Playoffs\nWatch: https://www.twitch.tv/ils4
  f_
 SUMMARY:Quarterfinal 3: 9INE vs JJH
-URL;VALUE=URI:https://www.twitch.tv/ils4f_
+URL:https://www.twitch.tv/ils4f_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T143000Z
+UID:pandascore-match-1351055@esport-ics
+DTSTART:20260214T143000Z
+DTEND:20260214T164500Z
+CLASS:PUBLIC
+DESCRIPTION:IstanbuLAN - 2026 - Playoffs
+SUMMARY:Semifinal 2: 9INE vs TBD
 END:VEVENT
 END:VCALENDAR

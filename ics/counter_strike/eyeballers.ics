@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/esportstudion
 SUMMARY:Lower bracket round 2 match 4: ENCE vs EYE
-URL;VALUE=URI:https://www.twitch.tv/esportstudion
+URL:https://www.twitch.tv/esportstudion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T100000Z
+UID:pandascore-match-1360759@esport-ics
+DTSTART:20260219T100000Z
+DTEND:20260219T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/rmncs
+SUMMARY:EYE vs BCA
+URL;VALUE=URI:https://www.twitch.tv/rmncs
 END:VEVENT
 END:VCALENDAR

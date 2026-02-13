@@ -28,6 +28,17 @@ SUMMARY:Winners match: KOL vs MSC
 URL:https://kick.com/luffastream
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260214T093000Z
+UID:pandascore-match-1353886@esport-ics
+DTSTART:20260214T093000Z
+DTEND:20260214T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Copenhagen Gaming Week - Showdown 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:Semifinal 1: KOL vs ILWL
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260214T180000Z
 UID:pandascore-match-1358916@esport-ics
 DTSTART:20260214T180000Z
