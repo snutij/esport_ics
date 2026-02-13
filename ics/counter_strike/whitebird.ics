@@ -83,6 +83,17 @@ SUMMARY:Upper bracket round 1 match 16: UNiTY vs WB
 URL;VALUE=URI:https://www.twitch.tv/anishared
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260214T090000Z
+UID:pandascore-match-1359578@esport-ics
+DTSTART:20260214T090000Z
+DTEND:20260214T111500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/gluck_esports
+SUMMARY:Upper bracket quarterfinal 4: K27 vs WB
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260215T120000Z
 UID:pandascore-match-1355220@esport-ics
 DTSTART:20260215T120000Z

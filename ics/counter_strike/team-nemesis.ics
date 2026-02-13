@@ -48,6 +48,17 @@ DESCRIPTION:ESL Challenger League - Europe Cup 1 season 50 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 6: NEM vs VP.P
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260214T090000Z
+UID:pandascore-match-1359575@esport-ics
+DTSTART:20260214T090000Z
+DTEND:20260214T111500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/gluck_esports
+SUMMARY:Upper bracket quarterfinal 1: NEM vs 33
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260214T140000Z
 UID:pandascore-match-1359030@esport-ics
 DTSTART:20260214T140000Z

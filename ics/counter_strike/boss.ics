@@ -34,6 +34,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: American Qualifier 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/JTMythic
 SUMMARY:Lower bracket semifinal: VOCA vs BOSS
-URL;VALUE=URI:https://www.twitch.tv/JTMythic
+URL:https://www.twitch.tv/JTMythic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T230000Z
+UID:pandascore-match-1360754@esport-ics
+DTSTART:20260214T230000Z
+DTEND:20260215T011500Z
+CLASS:PUBLIC
+DESCRIPTION:NA Revival Series - Season 12 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/MythicLeague
+SUMMARY:Quarterfinal 4: TBD vs BOSS
+URL;VALUE=URI:https://www.twitch.tv/MythicLeague
 END:VEVENT
 END:VCALENDAR

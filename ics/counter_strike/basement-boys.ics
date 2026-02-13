@@ -90,6 +90,17 @@ SUMMARY:Winners match: BMB vs TLR
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260214T120000Z
+UID:pandascore-match-1356106@esport-ics
+DTSTART:20260214T120000Z
+DTEND:20260214T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group B\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Decider match: PGE vs BMB
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260215T140000Z
 UID:pandascore-match-1359024@esport-ics
 DTSTART:20260215T140000Z

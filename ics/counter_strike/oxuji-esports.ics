@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group A\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Winners match: OXUJI vs HS
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T090000Z
+UID:pandascore-match-1359577@esport-ics
+DTSTART:20260214T090000Z
+DTEND:20260214T111500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/gluck_esports
+SUMMARY:Upper bracket quarterfinal 3: OXUJI vs 1WIN
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

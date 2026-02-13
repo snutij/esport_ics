@@ -45,4 +45,15 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.us - Eagle Masters season 6 2026 - Group Stage
 SUMMARY:Round 4: LAG vs SportsBetExpert
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T200000Z
+UID:pandascore-match-1360752@esport-ics
+DTSTART:20260214T200000Z
+DTEND:20260214T221500Z
+CLASS:PUBLIC
+DESCRIPTION:NA Revival Series - Season 12 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/MythicLeague
+SUMMARY:Quarterfinal 2: OverKnight vs LAG
+URL;VALUE=URI:https://www.twitch.tv/MythicLeague
+END:VEVENT
 END:VCALENDAR
