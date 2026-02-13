@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck StarPearl - Season 1 2026 - Group D\nWatch: https://www.t
  witch.tv/gluck_esports
 SUMMARY:Elimination match: B52 vs C_S
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T150000Z
+UID:pandascore-match-1358152@esport-ics
+DTSTART:20260213T150000Z
+DTEND:20260213T171500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck StarPearl - Season 1 2026 - Group D\nWatch: https://www.t
+ witch.tv/gluck_esports
+SUMMARY:Decider match: B52 vs TBD
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

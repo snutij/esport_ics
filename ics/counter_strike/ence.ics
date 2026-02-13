@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:Copenhagen Gaming Week - Showdown 2026 - Group B\nWatch: https:
  //www.twitch.tv/dust2tv
 SUMMARY:Elimination match: TRI vs ENCE
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T140000Z
+UID:pandascore-match-1353885@esport-ics
+DTSTART:20260213T140000Z
+DTEND:20260213T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Copenhagen Gaming Week - Showdown 2026 - Group B\nWatch: https:
+ //www.twitch.tv/dust2tv
+SUMMARY:Decider match: ENCE vs TBD
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 END:VCALENDAR

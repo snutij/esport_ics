@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:LiuLi Cup - Grand Finals 2025 - Group D\nWatch: https://live.bi
  libili.com/4670738
 SUMMARY:Classic vs Cure
+URL:https://live.bilibili.com/4670738
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T131500Z
+UID:pandascore-match-1355107@esport-ics
+DTSTART:20260213T131500Z
+DTEND:20260213T153000Z
+CLASS:PUBLIC
+DESCRIPTION:LiuLi Cup - Grand Finals 2025 - Group D\nWatch: https://live.bi
+ libili.com/4670738
+SUMMARY:Elimination match: Zoun vs Classic
 URL;VALUE=URI:https://live.bilibili.com/4670738
 END:VEVENT
 END:VCALENDAR
