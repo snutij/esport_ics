@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck StarPearl - Season 1 2026 - Group B\nWatch: https://www.t
  witch.tv/gluck_esports
 SUMMARY:FORZE.R vs WW
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260213T120000Z
@@ -23,9 +23,9 @@ DTSTART:20260213T120000Z
 DTEND:20260213T141500Z
 CLASS:PUBLIC
 DESCRIPTION:GLuck StarPearl - Season 1 2026 - Group B\nWatch: https://www.t
- witch.tv/gluck_esports
+ witch.tv/gluck_esports_2
 SUMMARY:Winners' match: FORZE.R vs TBD
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports_2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260213T140000Z

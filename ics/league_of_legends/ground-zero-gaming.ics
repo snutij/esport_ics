@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  pacificen
 SUMMARY:Upper bracket quarterfinal 2: GZ vs CFO
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T060000Z
+UID:pandascore-match-1308285@esport-ics
+DTSTART:20260215T060000Z
+DTEND:20260215T094500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ pacificen
+SUMMARY:Upper bracket semifinal 2: GZ vs DCG
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR
