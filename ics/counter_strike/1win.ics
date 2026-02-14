@@ -70,6 +70,17 @@ SUMMARY:Upper bracket round 2 match 4: 1WIN vs RBLS
 URL:https://www.twitch.tv/muchapt
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260215T153000Z
+UID:pandascore-match-1359582@esport-ics
+DTSTART:20260215T153000Z
+DTEND:20260215T174500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/gluck_esports
+SUMMARY:Grand final: 1WIN vs TBD
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260215T180000Z
 UID:pandascore-match-1359053@esport-ics
 DTSTART:20260215T180000Z

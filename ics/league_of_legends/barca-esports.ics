@@ -33,6 +33,17 @@ DTEND:20260214T170000Z
 CLASS:PUBLIC
 DESCRIPTION:LES - Kick-off 2026 - Group B\nWatch: https://www.twitch.tv/LES
 SUMMARY:Decider match: BAR vs GX.P
+URL:https://www.twitch.tv/LES
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T110000Z
+UID:pandascore-match-1356629@esport-ics
+DTSTART:20260215T110000Z
+DTEND:20260215T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LES - Kick-off 2026 - Playoffs\nWatch: https://www.twitch.tv/LE
+ S
+SUMMARY:Semifinal 1: UCAM vs BAR
 URL;VALUE=URI:https://www.twitch.tv/LES
 END:VEVENT
 END:VCALENDAR

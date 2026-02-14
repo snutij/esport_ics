@@ -45,4 +45,15 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Group C
 SUMMARY:FNC vs ORM
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T140000Z
+UID:pandascore-match-1313597@esport-ics
+DTSTART:20260228T140000Z
+DTEND:20260228T161500Z
+CLASS:PUBLIC
+DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/a1gamingleague
+SUMMARY:Quarterfinal 1: ACE vs ORM
+URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+END:VEVENT
 END:VCALENDAR

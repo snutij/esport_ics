@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
  twitch.tv/gluck_esports_2
 SUMMARY:Upper bracket semifinal 2: 1WIN vs K27
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports_2
+URL:https://www.twitch.tv/gluck_esports_2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T090000Z
+UID:pandascore-match-1359587@esport-ics
+DTSTART:20260215T090000Z
+DTEND:20260215T111500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/gluck_esports
+SUMMARY:Lower bracket semifinal: K27 vs TBD
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR
