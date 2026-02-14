@@ -66,7 +66,9 @@ UID:pandascore-match-1358934@esport-ics
 DTSTART:20260214T180000Z
 DTEND:20260214T201500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
+ nWatch: https://www.twitch.tv/anishared
 SUMMARY:Upper bracket round 2 match 16: JS vs UNiTY
+URL;VALUE=URI:https://www.twitch.tv/anishared
 END:VEVENT
 END:VCALENDAR

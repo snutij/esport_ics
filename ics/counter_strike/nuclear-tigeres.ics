@@ -64,7 +64,9 @@ UID:pandascore-match-1358893@esport-ics
 DTSTART:20260214T180000Z
 DTEND:20260214T201500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
+ nWatch: https://www.youtube.com/@BTNcs/live
 SUMMARY:Upper bracket round 2 match 9: NTR vs NXS
+URL;VALUE=URI:https://www.youtube.com/@BTNcs/live
 END:VEVENT
 END:VCALENDAR

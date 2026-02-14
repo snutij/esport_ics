@@ -11,8 +11,10 @@ UID:pandascore-match-1358892@esport-ics
 DTSTART:20260214T140000Z
 DTEND:20260214T161500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
+ nWatch: https://www.twitch.tv/bambikxde
 SUMMARY:Upper bracket round 2 match 8: ORM vs WW
+URL;VALUE=URI:https://www.twitch.tv/bambikxde
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260214T163000Z

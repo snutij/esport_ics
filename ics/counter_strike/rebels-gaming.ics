@@ -42,8 +42,10 @@ UID:pandascore-match-1358888@esport-ics
 DTSTART:20260214T140000Z
 DTEND:20260214T161500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
+ nWatch: https://www.twitch.tv/muchapt
 SUMMARY:Upper bracket round 2 match 4: 1WIN vs RBLS
+URL;VALUE=URI:https://www.twitch.tv/muchapt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260215T150000Z
