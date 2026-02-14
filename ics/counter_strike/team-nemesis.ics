@@ -59,6 +59,17 @@ SUMMARY:Upper bracket quarterfinal 1: NEM vs 33
 URL:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260214T120000Z
+UID:pandascore-match-1359579@esport-ics
+DTSTART:20260214T120000Z
+DTEND:20260214T141500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/gluck_esports
+SUMMARY:Upper bracket semifinal 1: NEM vs TBD
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260214T140000Z
 UID:pandascore-match-1313589@esport-ics
 DTSTART:20260214T140000Z
