@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Kickoff 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant_americas
 SUMMARY:Lower bracket semifinal: NRG vs 100T
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T220000Z
+UID:pandascore-match-1288598@esport-ics
+DTSTART:20260215T220000Z
+DTEND:20260216T014500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Kickoff 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/valorant_americas
+SUMMARY:Lower bracket final: NRG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

@@ -90,6 +90,17 @@ SUMMARY:Upper bracket round 2 match 1: ALL vs ECF
 URL:https://www.twitch.tv/vanfantv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260215T150000Z
+UID:pandascore-match-1351276@esport-ics
+DTSTART:20260215T150000Z
+DTEND:20260215T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 1: ECF vs WW
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260215T180000Z
 UID:pandascore-match-1359056@esport-ics
 DTSTART:20260215T180000Z

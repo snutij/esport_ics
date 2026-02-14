@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:JB Pro League - Female season 1 2026 - Playoffs\nWatch: https:/
  /kick.com/jbproleague
 SUMMARY:Lower bracket final: BIG.E vs LHC
+URL:https://kick.com/jbproleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T170000Z
+UID:pandascore-match-1354017@esport-ics
+DTSTART:20260215T170000Z
+DTEND:20260215T191500Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Female season 1 2026 - Playoffs\nWatch: https:/
+ /kick.com/jbproleague
+SUMMARY:Grand final: PGE vs LHC
 URL;VALUE=URI:https://kick.com/jbproleague
 END:VEVENT
 END:VCALENDAR
