@@ -89,4 +89,13 @@ DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
 SUMMARY:Lower bracket final: NTR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260216T180000Z
+UID:pandascore-match-1359209@esport-ics
+DTSTART:20260216T180000Z
+DTEND:20260216T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 3 match 5: NTR vs TBD
+END:VEVENT
 END:VCALENDAR
