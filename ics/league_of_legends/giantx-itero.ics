@@ -23,6 +23,16 @@ DTEND:20260214T141500Z
 CLASS:PUBLIC
 DESCRIPTION:LES - Kick-off 2026 - Group B\nWatch: https://www.twitch.tv/LES
 SUMMARY:Elimination match: GX.P vs LUA
+URL:https://www.twitch.tv/LES
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T180000Z
+UID:pandascore-match-1356628@esport-ics
+DTSTART:20260214T180000Z
+DTEND:20260214T201500Z
+CLASS:PUBLIC
+DESCRIPTION:LES - Kick-off 2026 - Group B\nWatch: https://www.twitch.tv/LES
+SUMMARY:Decider match: BAR vs GX.P
 URL;VALUE=URI:https://www.twitch.tv/LES
 END:VEVENT
 END:VCALENDAR

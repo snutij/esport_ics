@@ -48,15 +48,15 @@ SUMMARY:Upper bracket quarterfinal 3: OXUJI vs 1WIN
 URL:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T120000Z
+DTSTAMP:20260214T130000Z
 UID:pandascore-match-1359580@esport-ics
-DTSTART:20260214T120000Z
-DTEND:20260214T141500Z
+DTSTART:20260214T130000Z
+DTEND:20260214T151500Z
 CLASS:PUBLIC
 DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
- twitch.tv/gluck_esports
-SUMMARY:Upper bracket semifinal 2: 1WIN vs TBD
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+ twitch.tv/gluck_esports_2
+SUMMARY:Upper bracket semifinal 2: 1WIN vs K27
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports_2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260214T140000Z
