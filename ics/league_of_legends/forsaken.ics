@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Rift Legends - Winter 2026 - Group Stage\nWatch: https://www.tw
  itch.tv/nervarien
 SUMMARY:Round 1: FSK vs DV1
-URL;VALUE=URI:https://www.twitch.tv/nervarien
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T190000Z
+UID:pandascore-match-1355228@esport-ics
+DTSTART:20260214T190000Z
+DTEND:20260214T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Winter 2026 - Group Stage
+SUMMARY:Round 2: LDS vs FSK
 END:VEVENT
 END:VCALENDAR

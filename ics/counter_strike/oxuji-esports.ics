@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
  twitch.tv/gluck_esports_4
 SUMMARY:Lower bracket round 1 match 2: OXUJI vs WB
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports_4
+URL:https://www.twitch.tv/gluck_esports_4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T163000Z
+UID:pandascore-match-1359586@esport-ics
+DTSTART:20260214T163000Z
+DTEND:20260214T184500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/gluck_esports_2
+SUMMARY:Lower bracket quarterfinal 2: NEM vs OXUJI
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports_2
 END:VEVENT
 END:VCALENDAR

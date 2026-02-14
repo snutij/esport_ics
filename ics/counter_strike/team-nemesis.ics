@@ -81,15 +81,15 @@ SUMMARY:Round of 16 match 1: NEM vs ACE
 URL:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T153000Z
+DTSTAMP:20260214T163000Z
 UID:pandascore-match-1359586@esport-ics
-DTSTART:20260214T153000Z
-DTEND:20260214T174500Z
+DTSTART:20260214T163000Z
+DTEND:20260214T184500Z
 CLASS:PUBLIC
 DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
- twitch.tv/gluck_esports
-SUMMARY:Lower bracket quarterfinal 2: NEM vs TBD
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+ twitch.tv/gluck_esports_2
+SUMMARY:Lower bracket quarterfinal 2: NEM vs OXUJI
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports_2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260215T140000Z

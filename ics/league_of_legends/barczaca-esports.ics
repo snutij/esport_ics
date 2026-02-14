@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Rift Legends - Winter 2026 - Group Stage\nWatch: https://www.tw
  itch.tv/Nervarien
 SUMMARY:Round 1: BCE vs BOMBA Team
-URL;VALUE=URI:https://www.twitch.tv/Nervarien
+URL:https://www.twitch.tv/Nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T174500Z
+UID:pandascore-match-1355227@esport-ics
+DTSTART:20260214T174500Z
+DTEND:20260214T183000Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Winter 2026 - Group Stage
+SUMMARY:Round 2: DOC vs BCE
 END:VEVENT
 END:VCALENDAR

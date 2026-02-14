@@ -188,4 +188,13 @@ DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group C\nWatch:
 SUMMARY:RBLS vs VP.P
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T180000Z
+UID:pandascore-match-1359052@esport-ics
+DTSTART:20260215T180000Z
+DTEND:20260215T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 11: BW vs VP.P
+END:VEVENT
 END:VCALENDAR
