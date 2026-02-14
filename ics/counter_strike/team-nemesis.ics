@@ -70,15 +70,26 @@ SUMMARY:Upper bracket semifinal 1: NEM vs TBD
 URL:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T140000Z
+DTSTAMP:20260214T142500Z
 UID:pandascore-match-1313589@esport-ics
-DTSTART:20260214T140000Z
-DTEND:20260214T161500Z
+DTSTART:20260214T142500Z
+DTEND:20260214T164000Z
 CLASS:PUBLIC
 DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/a1gamingleague
 SUMMARY:Round of 16 match 1: NEM vs ACE
 URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T150000Z
+UID:pandascore-match-1359586@esport-ics
+DTSTART:20260214T150000Z
+DTEND:20260214T171500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/gluck_esports
+SUMMARY:Lower bracket quarterfinal 2: NEM vs TBD
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260215T140000Z
