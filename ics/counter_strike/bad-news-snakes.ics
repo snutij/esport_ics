@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 22 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 2: G2.A vs BNS
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T193000Z
+UID:pandascore-match-1362073@esport-ics
+DTSTART:20260215T193000Z
+DTEND:20260215T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 22 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 3: WAVE vs BNS
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
