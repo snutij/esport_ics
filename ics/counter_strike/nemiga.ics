@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/a1gamingleague
 SUMMARY:Round of 16 match 4: NEMI vs EF
-URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+URL:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260228T163000Z
@@ -24,7 +24,7 @@ DTEND:20260228T184500Z
 CLASS:PUBLIC
 DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/a1gamingleague
-SUMMARY:Quarterfinal 2: NEMI vs TBD
+SUMMARY:Quarterfinal 2: NEMI vs AAB
 URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 END:VCALENDAR

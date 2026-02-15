@@ -44,6 +44,17 @@ CLASS:PUBLIC
 DESCRIPTION:LES - Kick-off 2026 - Playoffs\nWatch: https://www.twitch.tv/LE
  S
 SUMMARY:Semifinal 2: HRTS vs KOI.F
+URL:https://www.twitch.tv/LES
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T163000Z
+UID:pandascore-match-1356631@esport-ics
+DTSTART:20260215T163000Z
+DTEND:20260215T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LES - Kick-off 2026 - Playoffs\nWatch: https://www.twitch.tv/LE
+ S
+SUMMARY:Grand final: BAR vs KOI.F
 URL;VALUE=URI:https://www.twitch.tv/LES
 END:VEVENT
 END:VCALENDAR

@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Winter 2026 - Playoffs\nWatch: https://www.t
  witch.tv/hitpointcz
 SUMMARY:Upper bracket semifinal 2: NBS vs ESB
+URL:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T150000Z
+UID:pandascore-match-1351429@esport-ics
+DTSTART:20260226T150000Z
+DTEND:20260226T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Winter 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/hitpointcz
+SUMMARY:Upper bracket final: NBS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 END:VCALENDAR

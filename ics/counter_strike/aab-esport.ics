@@ -81,6 +81,15 @@ DESCRIPTION:PGL - Bucharest: European Open Qualifier #1 2026 - Playoffs
 SUMMARY:Round of 16 match 6: Players vs AAB
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260215T163000Z
+UID:pandascore-match-1362069@esport-ics
+DTSTART:20260215T163000Z
+DTEND:20260215T184500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Open Qualifier #1 2026 - Playoffs
+SUMMARY:Quarterfinal 3: LILMIX vs AAB
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260216T190000Z
 UID:pandascore-match-1356411@esport-ics
 DTSTART:20260216T190000Z
@@ -90,5 +99,16 @@ DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
  \nWatch: https://www.twitch.tv/dust2tv
 SUMMARY:Round 3: SASHI vs AAB
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T163000Z
+UID:pandascore-match-1313598@esport-ics
+DTSTART:20260228T163000Z
+DTEND:20260228T184500Z
+CLASS:PUBLIC
+DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/a1gamingleague
+SUMMARY:Quarterfinal 2: NEMI vs AAB
+URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 END:VCALENDAR
