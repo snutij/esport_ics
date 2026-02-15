@@ -50,17 +50,6 @@ SUMMARY:BRUTE vs PRIME
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T113000Z
-UID:pandascore-match-1353995@esport-ics
-DTSTART:20260215T113000Z
-DTEND:20260215T134500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group C\nWatch: h
- ttps://kick.com/eplcs_en
-SUMMARY:Winners match: BRUTE vs ENCE.A
-URL;VALUE=URI:https://kick.com/eplcs_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260216T120000Z
 UID:pandascore-match-1351279@esport-ics
 DTSTART:20260216T120000Z
@@ -70,6 +59,17 @@ DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs2
 SUMMARY:Round 1: MOUZ.N vs BRUTE
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260216T143000Z
+UID:pandascore-match-1353995@esport-ics
+DTSTART:20260216T143000Z
+DTEND:20260216T164500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Winners match: BRUTE vs ENCE.A
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260221T163000Z
