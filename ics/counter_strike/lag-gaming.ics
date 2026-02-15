@@ -54,6 +54,17 @@ CLASS:PUBLIC
 DESCRIPTION:NA Revival Series - Season 12 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/MythicLeague
 SUMMARY:Quarterfinal 2: OverKnight vs LAG
+URL:https://www.twitch.tv/MythicLeague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T200000Z
+UID:pandascore-match-1360755@esport-ics
+DTSTART:20260215T200000Z
+DTEND:20260215T221500Z
+CLASS:PUBLIC
+DESCRIPTION:NA Revival Series - Season 12 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/MythicLeague
+SUMMARY:Semifinal 1: S2K vs LAG
 URL;VALUE=URI:https://www.twitch.tv/MythicLeague
 END:VEVENT
 END:VCALENDAR

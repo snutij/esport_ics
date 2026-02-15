@@ -47,6 +47,28 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Invitational 2026 - Super Group\nWatch: http://www.twitch
  .tv/otplol_
 SUMMARY:VIT.B vs GAL
+URL:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T180000Z
+UID:pandascore-match-1344914@esport-ics
+DTSTART:20260218T180000Z
+DTEND:20260218T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Invitational 2026 - Super Group\nWatch: http://www.twitch
+ .tv/otplol_
+SUMMARY:TLNP vs VIT.B
+URL;VALUE=URI:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T180000Z
+UID:pandascore-match-1344919@esport-ics
+DTSTART:20260219T180000Z
+DTEND:20260219T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Invitational 2026 - Super Group\nWatch: http://www.twitch
+ .tv/otplol_
+SUMMARY:VIT.B vs ZYB
 URL;VALUE=URI:http://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR
