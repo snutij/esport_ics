@@ -100,7 +100,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
  nWatch: https://www.twitch.tv/ESLCS
 SUMMARY:Lower bracket round 1 match 14:  CSDIILIT vs SNG
-URL;VALUE=URI:https://www.twitch.tv/ESLCS
+URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260216T090000Z
@@ -110,7 +110,7 @@ DTEND:20260216T111500Z
 CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group C\nWatch: 
  https://kick.com/nodwin_cs2
-SUMMARY:Elimination match:  CSDIILIT vs TBD
+SUMMARY:Elimination match:  CSDIILIT vs RBLS
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT

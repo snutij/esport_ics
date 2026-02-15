@@ -33,6 +33,16 @@ DTEND:20260215T194500Z
 CLASS:PUBLIC
 DESCRIPTION:CBLOL - Cup 2026 - Playoffs\nWatch: https://www.twitch.tv/cblol
 SUMMARY:Lower bracket quarterfinal: FUR vs LEV
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T160000Z
+UID:pandascore-match-1335654@esport-ics
+DTSTART:20260221T160000Z
+DTEND:20260221T194500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Cup 2026 - Playoffs\nWatch: https://www.twitch.tv/cblol
+SUMMARY:Lower bracket semifinal: LOS vs FUR
 URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR
