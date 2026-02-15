@@ -52,6 +52,15 @@ CLASS:PUBLIC
 DESCRIPTION:IstanbuLAN - 2026 - Playoffs\nWatch: https://www.twitch.tv/ista
  nbulancs2
 SUMMARY:Quarterfinal 4: MANA vs HOTU
-URL;VALUE=URI:https://www.twitch.tv/istanbulancs2
+URL:https://www.twitch.tv/istanbulancs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260216T190000Z
+UID:pandascore-match-1363229@esport-ics
+DTSTART:20260216T190000Z
+DTEND:20260216T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:WTRML0N vs MANA
 END:VEVENT
 END:VCALENDAR
