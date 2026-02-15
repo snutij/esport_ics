@@ -26,6 +26,15 @@ SUMMARY:Upper bracket round 2 match 13: MOUZ.N vs ENCE.A
 URL:https://www.twitch.tv/misterhenrybatt
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260215T150000Z
+UID:pandascore-match-1362066@esport-ics
+DTSTART:20260215T150000Z
+DTEND:20260215T154500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Open Qualifier #1 2026 - Playoffs
+SUMMARY:Round of 16 match 8: MOUZ.N vs mix52
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260216T120000Z
 UID:pandascore-match-1351279@esport-ics
 DTSTART:20260216T120000Z

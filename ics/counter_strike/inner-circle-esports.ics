@@ -47,6 +47,15 @@ CLASS:PUBLIC
 DESCRIPTION:IstanbuLAN - 2026 - Playoffs\nWatch: https://www.youtube.com/wa
  tch?v=KerqqPbIX1Y
 SUMMARY:Round 16 match 4: ICE vs MISA
-URL;VALUE=URI:https://www.youtube.com/watch?v=KerqqPbIX1Y
+URL:https://www.youtube.com/watch?v=KerqqPbIX1Y
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T150000Z
+UID:pandascore-match-1362059@esport-ics
+DTSTART:20260215T150000Z
+DTEND:20260215T154500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Open Qualifier #1 2026 - Playoffs
+SUMMARY:Round of 16 match 1: ICE vs LC
 END:VEVENT
 END:VCALENDAR
