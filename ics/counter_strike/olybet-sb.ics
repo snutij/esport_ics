@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
  nWatch: https://www.twitch.tv/dutchboycasts
 SUMMARY:Lower bracket round 1 match 3: OlyBet SB vs AM
-URL;VALUE=URI:https://www.twitch.tv/dutchboycasts
+URL:https://www.twitch.tv/dutchboycasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260216T140000Z
+UID:pandascore-match-1359098@esport-ics
+DTSTART:20260216T140000Z
+DTEND:20260216T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 2: ENCE.A vs OlyBet SB
 END:VEVENT
 END:VCALENDAR
