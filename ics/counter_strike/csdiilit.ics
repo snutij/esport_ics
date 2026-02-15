@@ -104,17 +104,6 @@ URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260216T090000Z
-UID:pandascore-match-1356108@esport-ics
-DTSTART:20260216T090000Z
-DTEND:20260216T111500Z
-CLASS:PUBLIC
-DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group C\nWatch: 
- https://kick.com/nodwin_cs2
-SUMMARY:Elimination match:  CSDIILIT vs RBLS
-URL;VALUE=URI:https://kick.com/nodwin_cs2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T090000Z
 UID:pandascore-match-1353999@esport-ics
 DTSTART:20260216T090000Z
 DTEND:20260216T111500Z
@@ -123,5 +112,16 @@ DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group D\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Elimination match: MSQ vs  CSDIILIT
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260216T150000Z
+UID:pandascore-match-1356108@esport-ics
+DTSTART:20260216T150000Z
+DTEND:20260216T171500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group C\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Elimination match:  CSDIILIT vs RBLS
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
