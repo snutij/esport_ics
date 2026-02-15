@@ -56,6 +56,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #15 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs
 SUMMARY:Round 4: PHA vs NXS
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260216T120000Z
+UID:pandascore-match-1343416@esport-ics
+DTSTART:20260216T120000Z
+DTEND:20260216T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #15 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 5: PHA vs ALGO
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
