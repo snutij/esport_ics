@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.twitch
  .tv/PGL_cs2
 SUMMARY:Round 2: B8 vs HERO
-URL;VALUE=URI:https://www.twitch.tv/PGL_cs2
+URL:https://www.twitch.tv/PGL_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260216T140000Z
+UID:pandascore-match-1349981@esport-ics
+DTSTART:20260216T140000Z
+DTEND:20260216T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.twitch
+ .tv/PGL
+SUMMARY:Round 3: 3DMAX vs HERO
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR
