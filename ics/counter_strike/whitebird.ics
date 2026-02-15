@@ -146,4 +146,15 @@ DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Group Stage\nWatch: htt
 SUMMARY:Round 1: ARC vs WB
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260216T180000Z
+UID:pandascore-match-1356133@esport-ics
+DTSTART:20260216T180000Z
+DTEND:20260216T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group D\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Winners match: WB vs TBD
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
