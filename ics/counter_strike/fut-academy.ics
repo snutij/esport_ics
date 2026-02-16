@@ -23,6 +23,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/26kapy
 SUMMARY:BW vs FUT.A
-URL;VALUE=URI:https://www.twitch.tv/26kapy
+URL:https://www.twitch.tv/26kapy
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T190000Z
+UID:pandascore-match-1364676@esport-ics
+DTSTART:20260217T190000Z
+DTEND:20260217T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:FUT.A vs XI
 END:VEVENT
 END:VCALENDAR

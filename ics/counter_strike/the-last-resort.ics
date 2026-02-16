@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group B\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Winners match: BMB vs TLR
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T140000Z
+UID:pandascore-match-1364666@esport-ics
+DTSTART:20260217T140000Z
+DTEND:20260217T144500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:TLR vs HS
 END:VEVENT
 END:VCALENDAR

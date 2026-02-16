@@ -92,6 +92,17 @@ SUMMARY:Elimination match: MSC vs BW
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260217T120000Z
+UID:pandascore-match-1356134@esport-ics
+DTSTART:20260217T120000Z
+DTEND:20260217T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group D\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Decider match: PRIME vs BW
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260217T180000Z
 UID:pandascore-match-1363241@esport-ics
 DTSTART:20260217T180000Z
