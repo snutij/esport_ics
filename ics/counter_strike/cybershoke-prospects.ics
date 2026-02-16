@@ -63,7 +63,9 @@ UID:pandascore-match-1363223@esport-ics
 DTSTART:20260216T163000Z
 DTEND:20260216T171500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/michass21
 SUMMARY:CYBERSHOKE Prospects vs AHK
+URL;VALUE=URI:https://www.twitch.tv/michass21
 END:VEVENT
 END:VCALENDAR
