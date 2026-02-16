@@ -27,4 +27,15 @@ DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group D\nWatch: h
 SUMMARY:Elimination match: MSQ vs  CSDIILIT
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T150000Z
+UID:pandascore-match-1354001@esport-ics
+DTSTART:20260217T150000Z
+DTEND:20260217T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group D\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: MSQ vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
