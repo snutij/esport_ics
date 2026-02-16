@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.youtub
  e.com/watch?v=DcIrIFMgblI
 SUMMARY:Round 3: G2 vs paiN
-URL;VALUE=URI:https://www.youtube.com/watch?v=DcIrIFMgblI
+URL:https://www.youtube.com/watch?v=DcIrIFMgblI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T160000Z
+UID:pandascore-match-1349989@esport-ics
+DTSTART:20260217T160000Z
+DTEND:20260217T181500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.twitch
+ .tv/PGL
+SUMMARY:Round 4: G2 vs HERO
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

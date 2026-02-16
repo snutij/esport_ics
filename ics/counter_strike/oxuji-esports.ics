@@ -124,6 +124,15 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck StarPearl - Season 1 2026 - Playoffs\nWatch: https://www.
  twitch.tv/gluck_esports
 SUMMARY:Lower bracket final: NTR vs OXUJI
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T150000Z
+UID:pandascore-match-1364656@esport-ics
+DTSTART:20260217T150000Z
+DTEND:20260217T154500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Open Qualifier #2 2026 - Playoffs
+SUMMARY:Round of 16 match 6: OXUJI vs BCA
 END:VEVENT
 END:VCALENDAR

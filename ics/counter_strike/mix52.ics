@@ -45,6 +45,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 22 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 3: mix52 vs Imperial.A
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T150000Z
+UID:pandascore-match-1364653@esport-ics
+DTSTART:20260217T150000Z
+DTEND:20260217T154500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Open Qualifier #2 2026 - Playoffs
+SUMMARY:Round of 16 match 3: BIG.A vs mix52
 END:VEVENT
 END:VCALENDAR

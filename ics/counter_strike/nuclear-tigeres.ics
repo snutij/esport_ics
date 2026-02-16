@@ -98,6 +98,24 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
  nWatch: https://www.twitch.tv/GoYareGo
 SUMMARY:Upper bracket round 3 match 5: NTR vs eLITenergy
-URL;VALUE=URI:https://www.twitch.tv/GoYareGo
+URL:https://www.twitch.tv/GoYareGo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T150000Z
+UID:pandascore-match-1364655@esport-ics
+DTSTART:20260217T150000Z
+DTEND:20260217T154500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Open Qualifier #2 2026 - Playoffs
+SUMMARY:Round of 16 match 5: NTR vs URSA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T180000Z
+UID:pandascore-match-1359243@esport-ics
+DTSTART:20260218T180000Z
+DTEND:20260218T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 3: NTR vs Leo
 END:VEVENT
 END:VCALENDAR

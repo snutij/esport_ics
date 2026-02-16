@@ -45,6 +45,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
  nWatch: https://www.twitch.tv/GoYareGo
 SUMMARY:Upper bracket round 3 match 5: NTR vs eLITenergy
-URL;VALUE=URI:https://www.twitch.tv/GoYareGo
+URL:https://www.twitch.tv/GoYareGo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T180000Z
+UID:pandascore-match-1359236@esport-ics
+DTSTART:20260217T180000Z
+DTEND:20260217T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 3 match 4: ex-RUBY vs eLITenergy
 END:VEVENT
 END:VCALENDAR

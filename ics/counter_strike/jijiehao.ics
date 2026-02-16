@@ -53,4 +53,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 1: UNiTY vs JJH
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T150000Z
+UID:pandascore-match-1364652@esport-ics
+DTSTART:20260217T150000Z
+DTEND:20260217T154500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Open Qualifier #2 2026 - Playoffs
+SUMMARY:Round of 16 match 2: Fingers vs JJH
+END:VEVENT
 END:VCALENDAR

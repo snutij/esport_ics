@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/a1gamingleague
 SUMMARY:Round of 16 match 2: ORM vs Fingers
-URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+URL:https://www.twitch.tv/a1gamingleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T150000Z
+UID:pandascore-match-1364652@esport-ics
+DTSTART:20260217T150000Z
+DTEND:20260217T154500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Open Qualifier #2 2026 - Playoffs
+SUMMARY:Round of 16 match 2: Fingers vs JJH
 END:VEVENT
 END:VCALENDAR
