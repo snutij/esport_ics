@@ -11,7 +11,9 @@ UID:pandascore-match-1363237@esport-ics
 DTSTART:20260216T180000Z
 DTEND:20260216T201500Z
 CLASS:PUBLIC
-DESCRIPTION:JB Pro League - Season 2 2026 - Group stage
+DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
+ .twitch.tv/jbproleague
 SUMMARY:Round 1: DUNDU vs  CSDIILIT
+URL;VALUE=URI:https://www.twitch.tv/jbproleague
 END:VEVENT
 END:VCALENDAR

@@ -236,7 +236,9 @@ UID:pandascore-match-1363238@esport-ics
 DTSTART:20260217T090000Z
 DTEND:20260217T111500Z
 CLASS:PUBLIC
-DESCRIPTION:JB Pro League - Season 2 2026 - Group stage
+DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
+ .twitch.tv/jbproleague
 SUMMARY:Round 1: ECF vs VP.P
+URL;VALUE=URI:https://www.twitch.tv/jbproleague
 END:VEVENT
 END:VCALENDAR
