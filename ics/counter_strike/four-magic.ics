@@ -3,19 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:MIBR
-SLUG:mibr
-BEGIN:VEVENT
-DTSTAMP:20260213T190000Z
-UID:pandascore-match-1343444@esport-ics
-DTSTART:20260213T190000Z
-DTEND:20260213T211500Z
-CLASS:PUBLIC
-DESCRIPTION:CCT South America - Series #8 season 3 2026 - Playoffs\nWatch: 
- https://kick.com/cct_cs3
-SUMMARY:Round of 16 match 7: MIBR vs SHIN
-URL:https://kick.com/cct_cs3
-END:VEVENT
+X-WR-CALNAME:Four Magic
+SLUG:four-magic
 BEGIN:VEVENT
 DTSTAMP:20260217T220000Z
 UID:pandascore-match-1363840@esport-ics

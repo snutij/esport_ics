@@ -72,6 +72,17 @@ SUMMARY:Grand final: RED vs SHK
 URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260217T220000Z
+UID:pandascore-match-1363877@esport-ics
+DTSTART:20260217T220000Z
+DTEND:20260218T001500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup 1 season 51 2026 - Pl
+ ayoffs\nWatch: https://www.twitch.tv/ESLCS
+SUMMARY:Upper bracket round 1 match 5: SHK vs FA
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260226T010000Z
 UID:pandascore-match-1360790@esport-ics
 DTSTART:20260226T010000Z
