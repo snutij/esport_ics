@@ -82,4 +82,48 @@ DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
 SUMMARY:Round 1: Omega vs LK
 URL;VALUE=URI:https://www.twitch.tv/jbproleague
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T123000Z
+UID:pandascore-match-1364633@esport-ics
+DTSTART:20260221T123000Z
+DTEND:20260221T131500Z
+CLASS:PUBLIC
+DESCRIPTION:META Cup - Season 4 2026 - Group B\nWatch: https://www.twitch.t
+ v/meta_esports_kz
+SUMMARY:MGC vs Omega
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T140000Z
+UID:pandascore-match-1364635@esport-ics
+DTSTART:20260221T140000Z
+DTEND:20260221T144500Z
+CLASS:PUBLIC
+DESCRIPTION:META Cup - Season 4 2026 - Group B\nWatch: https://www.twitch.t
+ v/meta_esports_kz
+SUMMARY:NEM vs Omega
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T170000Z
+UID:pandascore-match-1364640@esport-ics
+DTSTART:20260221T170000Z
+DTEND:20260221T174500Z
+CLASS:PUBLIC
+DESCRIPTION:META Cup - Season 4 2026 - Group B\nWatch: https://www.twitch.t
+ v/meta_esports_kz
+SUMMARY:Omega vs MG
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T183000Z
+UID:pandascore-match-1364642@esport-ics
+DTSTART:20260221T183000Z
+DTEND:20260221T191500Z
+CLASS:PUBLIC
+DESCRIPTION:META Cup - Season 4 2026 - Group B\nWatch: https://www.twitch.t
+ v/meta_esports_kz
+SUMMARY:Omega vs GGC
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+END:VEVENT
 END:VCALENDAR

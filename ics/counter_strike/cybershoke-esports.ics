@@ -37,6 +37,61 @@ DESCRIPTION:PGL - Bucharest: European Open Qualifier #1 2026 - Playoffs
 SUMMARY:Round of 16 match 5: CS vs LILMIX
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260221T050000Z
+UID:pandascore-match-1364620@esport-ics
+DTSTART:20260221T050000Z
+DTEND:20260221T054500Z
+CLASS:PUBLIC
+DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
+ v/meta_esports_kz
+SUMMARY:CS vs TC
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T063000Z
+UID:pandascore-match-1364621@esport-ics
+DTSTART:20260221T063000Z
+DTEND:20260221T071500Z
+CLASS:PUBLIC
+DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
+ v/meta_esports_kz
+SUMMARY:CS vs DEPO
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T080000Z
+UID:pandascore-match-1364624@esport-ics
+DTSTART:20260221T080000Z
+DTEND:20260221T084500Z
+CLASS:PUBLIC
+DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
+ v/meta_esports_kz
+SUMMARY:CS vs SNG
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T093000Z
+UID:pandascore-match-1364628@esport-ics
+DTSTART:20260221T093000Z
+DTEND:20260221T101500Z
+CLASS:PUBLIC
+DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
+ v/meta_esports_kz
+SUMMARY:CS vs NVQ
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T110000Z
+UID:pandascore-match-1364630@esport-ics
+DTSTART:20260221T110000Z
+DTEND:20260221T114500Z
+CLASS:PUBLIC
+DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
+ v/meta_esports_kz
+SUMMARY:NEMI vs CS
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260225T110000Z
 UID:pandascore-match-1363290@esport-ics
 DTSTART:20260225T110000Z

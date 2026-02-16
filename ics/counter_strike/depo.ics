@@ -3,19 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Nemiga
-SLUG:nemiga
-BEGIN:VEVENT
-DTSTAMP:20260215T163000Z
-UID:pandascore-match-1313592@esport-ics
-DTSTART:20260215T163000Z
-DTEND:20260215T184500Z
-CLASS:PUBLIC
-DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
- w.twitch.tv/a1gamingleague
-SUMMARY:Round of 16 match 4: NEMI vs EF
-URL:https://www.twitch.tv/a1gamingleague
-END:VEVENT
+X-WR-CALNAME:DEPO
+SLUG:depo
 BEGIN:VEVENT
 DTSTAMP:20260221T050000Z
 UID:pandascore-match-1364619@esport-ics
@@ -29,57 +18,46 @@ URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260221T063000Z
-UID:pandascore-match-1364622@esport-ics
+UID:pandascore-match-1364621@esport-ics
 DTSTART:20260221T063000Z
 DTEND:20260221T071500Z
 CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
  v/meta_esports_kz
-SUMMARY:NEMI vs NVQ
+SUMMARY:CS vs DEPO
 URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260221T080000Z
-UID:pandascore-match-1364625@esport-ics
+UID:pandascore-match-1364626@esport-ics
 DTSTART:20260221T080000Z
 DTEND:20260221T084500Z
 CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
  v/meta_esports_kz
-SUMMARY:NEMI vs TC
+SUMMARY:DEPO vs NVQ
 URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260221T093000Z
-UID:pandascore-match-1364627@esport-ics
+UID:pandascore-match-1364629@esport-ics
 DTSTART:20260221T093000Z
 DTEND:20260221T101500Z
 CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
  v/meta_esports_kz
-SUMMARY:NEMI vs SNG
+SUMMARY:DEPO vs TC
 URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260221T110000Z
-UID:pandascore-match-1364630@esport-ics
+UID:pandascore-match-1364632@esport-ics
 DTSTART:20260221T110000Z
 DTEND:20260221T114500Z
 CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
  v/meta_esports_kz
-SUMMARY:NEMI vs CS
+SUMMARY:DEPO vs SNG
 URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260228T163000Z
-UID:pandascore-match-1313598@esport-ics
-DTSTART:20260228T163000Z
-DTEND:20260228T184500Z
-CLASS:PUBLIC
-DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
- w.twitch.tv/a1gamingleague
-SUMMARY:Quarterfinal 2: NEMI vs AAB
-URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 END:VCALENDAR

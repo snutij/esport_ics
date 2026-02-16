@@ -91,4 +91,13 @@ DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
 SUMMARY:Round 1: WW vs BW
 URL;VALUE=URI:https://www.twitch.tv/jbproleague
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T180000Z
+UID:pandascore-match-1359237@esport-ics
+DTSTART:20260217T180000Z
+DTEND:20260217T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 3 match 5: WW vs TBD
+END:VEVENT
 END:VCALENDAR
