@@ -35,6 +35,16 @@ DTEND:20260216T180000Z
 CLASS:PUBLIC
 DESCRIPTION:LEC - Versus 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
 SUMMARY:Upper bracket quarterfinal 3: Navi vs FNC
+URL:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T173000Z
+UID:pandascore-match-1350535@esport-ics
+DTSTART:20260220T173000Z
+DTEND:20260220T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Versus 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
+SUMMARY:Upper bracket semifinal 2: Navi vs TBD
 URL;VALUE=URI:https://www.twitch.tv/lec
 END:VEVENT
 END:VCALENDAR
