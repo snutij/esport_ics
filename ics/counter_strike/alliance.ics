@@ -99,7 +99,9 @@ UID:pandascore-match-1359205@esport-ics
 DTSTART:20260216T180000Z
 DTEND:20260216T201500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
+ nWatch: https://www.twitch.tv/esportstudion
 SUMMARY:Upper bracket round 3 match 1: ALL vs SPARTA
+URL;VALUE=URI:https://www.twitch.tv/esportstudion
 END:VEVENT
 END:VCALENDAR
