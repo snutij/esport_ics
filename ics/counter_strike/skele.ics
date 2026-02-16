@@ -3,19 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Rooster
-SLUG:rooster
-BEGIN:VEVENT
-DTSTAMP:20260208T024319Z
-UID:pandascore-match-1339754@esport-ics
-DTSTART:20260208T043000Z
-DTEND:20260208T064500Z
-CLASS:PUBLIC
-DESCRIPTION:Dfrag Open Series - Season 3 2026 - Playoffs\nWatch: https://ww
- w.twitch.tv/churchd0gg
-SUMMARY:Lower bracket final: MF vs RSTR
-URL:https://www.twitch.tv/churchd0gg
-END:VEVENT
+X-WR-CALNAME:Skele
+SLUG:skele
 BEGIN:VEVENT
 DTSTAMP:20260218T100000Z
 UID:pandascore-match-1363322@esport-ics
