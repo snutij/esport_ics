@@ -44,8 +44,10 @@ UID:pandascore-match-1360769@esport-ics
 DTSTART:20260220T100000Z
 DTEND:20260220T104500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Group C
+DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/rmncs
 SUMMARY:FNC vs ORM
+URL;VALUE=URI:https://www.twitch.tv/rmncs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260225T140000Z

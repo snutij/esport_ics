@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Skele
-SLUG:skele
+X-WR-CALNAME:Ding Cuts
+SLUG:ding-cuts
 BEGIN:VEVENT
 DTSTAMP:20260218T080000Z
 UID:pandascore-match-1364206@esport-ics
@@ -15,14 +15,5 @@ DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Group B\nWatch: https:/
  /kick.com/cct_cs4
 SUMMARY:Skele vs Ding Cuts
 URL;VALUE=URI:https://kick.com/cct_cs4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260218T100000Z
-UID:pandascore-match-1363322@esport-ics
-DTSTART:20260218T100000Z
-DTEND:20260218T121500Z
-CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Oceania Cup 1 season 51 2026 - Playoffs
-SUMMARY:Upper bracket quarterfinal 3: RSTR vs Skele
 END:VEVENT
 END:VCALENDAR

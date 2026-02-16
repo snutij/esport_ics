@@ -14,6 +14,16 @@ CLASS:PUBLIC
 DESCRIPTION:NA Revival Series - Season 12 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/MythicLeague
 SUMMARY:Quarterfinal 4: MONEY CREW vs BOSS
-URL;VALUE=URI:https://www.twitch.tv/MythicLeague
+URL:https://www.twitch.tv/MythicLeague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T020000Z
+UID:pandascore-match-1364020@esport-ics
+DTSTART:20260218T020000Z
+DTEND:20260218T041500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
+ ayoffs
+SUMMARY:Upper bracket round 1 match 1: M80 vs MONEY CREW
 END:VEVENT
 END:VCALENDAR

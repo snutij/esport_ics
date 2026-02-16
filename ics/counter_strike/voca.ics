@@ -43,6 +43,16 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: American Qualifier 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/JTMythic
 SUMMARY:Lower bracket semifinal: VOCA vs BOSS
-URL;VALUE=URI:https://www.twitch.tv/JTMythic
+URL:https://www.twitch.tv/JTMythic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T020000Z
+UID:pandascore-match-1364024@esport-ics
+DTSTART:20260218T020000Z
+DTEND:20260218T041500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
+ ayoffs
+SUMMARY:Upper bracket round 1 match 5: VOCA vs ZOMB
 END:VEVENT
 END:VCALENDAR
