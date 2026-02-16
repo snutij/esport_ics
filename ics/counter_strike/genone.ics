@@ -69,4 +69,15 @@ DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
 SUMMARY:Round of 16 match 8: 33 vs G1
 URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T140000Z
+UID:pandascore-match-1363294@esport-ics
+DTSTART:20260225T140000Z
+DTEND:20260225T161500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Upper bracket round 1 match 7: G1 vs TBD
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
 END:VCALENDAR

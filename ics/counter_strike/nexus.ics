@@ -87,4 +87,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 4: ex-RUBY vs NXS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T100000Z
+UID:pandascore-match-1363268@esport-ics
+DTSTART:20260224T100000Z
+DTEND:20260224T104500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Group A\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:NXS vs mindshock
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
 END:VCALENDAR

@@ -36,4 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: European Open Qualifier #1 2026 - Playoffs
 SUMMARY:Round of 16 match 5: CS vs LILMIX
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T110000Z
+UID:pandascore-match-1363290@esport-ics
+DTSTART:20260225T110000Z
+DTEND:20260225T131500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Upper bracket round 1 match 3: CS vs TBD
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
 END:VCALENDAR

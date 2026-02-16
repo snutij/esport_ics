@@ -44,4 +44,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: European Open Qualifier #1 2026 - Playoffs
 SUMMARY:Quarterfinal 2: YNG vs EF
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T113000Z
+UID:pandascore-match-1363283@esport-ics
+DTSTART:20260224T113000Z
+DTEND:20260224T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Group D\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:EF vs Insiders Esport
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
 END:VCALENDAR

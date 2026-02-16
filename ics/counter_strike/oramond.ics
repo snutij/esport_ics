@@ -46,6 +46,17 @@ DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Group C
 SUMMARY:FNC vs ORM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260225T140000Z
+UID:pandascore-match-1363292@esport-ics
+DTSTART:20260225T140000Z
+DTEND:20260225T161500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Upper bracket round 1 match 5: ORM vs TBD
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260228T140000Z
 UID:pandascore-match-1313597@esport-ics
 DTSTART:20260228T140000Z
