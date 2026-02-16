@@ -50,6 +50,17 @@ SUMMARY:Round 3: ECS vs MSC
 URL:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260218T180000Z
+UID:pandascore-match-1343426@esport-ics
+DTSTART:20260218T180000Z
+DTEND:20260218T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #15 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs
+SUMMARY:Round of 16 match 8: ECS vs VP.P
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260221T140000Z
 UID:pandascore-match-1313593@esport-ics
 DTSTART:20260221T140000Z

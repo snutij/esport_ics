@@ -53,7 +53,9 @@ UID:pandascore-match-1363262@esport-ics
 DTSTART:20260216T230000Z
 DTEND:20260217T011500Z
 CLASS:PUBLIC
-DESCRIPTION:Dust2.us - Eagle Masters season 6 2026 - Playoffs
+DESCRIPTION:Dust2.us - Eagle Masters season 6 2026 - Playoffs\nWatch: https
+ ://kick.com/dust2us
 SUMMARY:Quarterfinal 3: ZOMB vs FV
+URL;VALUE=URI:https://kick.com/dust2us
 END:VEVENT
 END:VCALENDAR

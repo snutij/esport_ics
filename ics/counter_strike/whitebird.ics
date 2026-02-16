@@ -155,6 +155,28 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group D\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Winners match: WB vs PRIME
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T120000Z
+UID:pandascore-match-1343420@esport-ics
+DTSTART:20260217T120000Z
+DTEND:20260217T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #15 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs
+SUMMARY:Round of 16 match 2: ICE vs WB
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T180000Z
+UID:pandascore-match-1351285@esport-ics
+DTSTART:20260217T180000Z
+DTEND:20260217T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 2: ex-Zero Tenacity vs WB
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

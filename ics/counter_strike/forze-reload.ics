@@ -89,6 +89,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
  nWatch: https://www.twitch.tv/nolik_2k
 SUMMARY:Lower bracket round 2 match 5: WW vs FORZE.R
-URL;VALUE=URI:https://www.twitch.tv/nolik_2k
+URL:https://www.twitch.tv/nolik_2k
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T120000Z
+UID:pandascore-match-1351283@esport-ics
+DTSTART:20260217T120000Z
+DTEND:20260217T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 2: FORZE.R vs ECF
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

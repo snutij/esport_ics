@@ -57,6 +57,37 @@ SUMMARY:Upper bracket round 3 match 7: MOUZ.N vs Omega
 URL:https://www.twitch.tv/fyflo
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260217T150000Z
+UID:pandascore-match-1364658@esport-ics
+DTSTART:20260217T150000Z
+DTEND:20260217T154500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Open Qualifier #2 2026 - Playoffs
+SUMMARY:Round of 16 match 8: MOUZ.N vs PRE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T090000Z
+UID:pandascore-match-1343423@esport-ics
+DTSTART:20260218T090000Z
+DTEND:20260218T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #15 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs
+SUMMARY:Round of 16 match 5: MOUZ.N vs FAV
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T120000Z
+UID:pandascore-match-1351287@esport-ics
+DTSTART:20260218T120000Z
+DTEND:20260218T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 2: MOUZ.N vs TDK
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260218T180000Z
 UID:pandascore-match-1359244@esport-ics
 DTSTART:20260218T180000Z

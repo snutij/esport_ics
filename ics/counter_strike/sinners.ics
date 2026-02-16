@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/ESLCS
 SUMMARY:Lower bracket final: SIN vs 33
-URL;VALUE=URI:https://www.twitch.tv/ESLCS
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T180000Z
+UID:pandascore-match-1343422@esport-ics
+DTSTART:20260217T180000Z
+DTEND:20260217T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #15 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs
+SUMMARY:Round of 16 match 4: SIN vs LC
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
