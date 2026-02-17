@@ -25,6 +25,28 @@ CLASS:PUBLIC
 DESCRIPTION:Rift Legends - Winter 2026 - Group Stage\nWatch: https://www.yo
  utube.com/watch?v=PsaBhDG-_OY
 SUMMARY:Round 2: DOC vs BCE
-URL;VALUE=URI:https://www.youtube.com/watch?v=PsaBhDG-_OY
+URL:https://www.youtube.com/watch?v=PsaBhDG-_OY
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T150000Z
+UID:pandascore-match-1365970@esport-ics
+DTSTART:20260219T150000Z
+DTEND:20260219T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Winter 2026 - Champions Group\nWatch: https://ww
+ w.twitch.tv/nervarien
+SUMMARY:OT vs BCE
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T170000Z
+UID:pandascore-match-1365971@esport-ics
+DTSTART:20260219T170000Z
+DTEND:20260219T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Winter 2026 - Champions Group\nWatch: https://ww
+ w.twitch.tv/nervarien
+SUMMARY:BCE vs FSK
+URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR

@@ -25,6 +25,28 @@ CLASS:PUBLIC
 DESCRIPTION:Rift Legends - Winter 2026 - Group Stage\nWatch: https://www.yo
  utube.com/watch?v=PsaBhDG-_OY
 SUMMARY:Round 2: LDS vs FSK
-URL;VALUE=URI:https://www.youtube.com/watch?v=PsaBhDG-_OY
+URL:https://www.youtube.com/watch?v=PsaBhDG-_OY
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T150000Z
+UID:pandascore-match-1365967@esport-ics
+DTSTART:20260218T150000Z
+DTEND:20260218T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Winter 2026 - Challengers Group\nWatch: https://
+ www.twitch.tv/nervarien
+SUMMARY:DOC vs LDS
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T170000Z
+UID:pandascore-match-1365968@esport-ics
+DTSTART:20260218T170000Z
+DTEND:20260218T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Winter 2026 - Challengers Group\nWatch: https://
+ www.twitch.tv/nervarien
+SUMMARY:OA vs LDS
+URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR

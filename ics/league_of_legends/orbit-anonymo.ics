@@ -36,6 +36,28 @@ CLASS:PUBLIC
 DESCRIPTION:Rift Legends - Winter 2026 - Group Stage\nWatch: https://www.tw
  itch.tv/nervarien
 SUMMARY:Round 3: OT vs OA
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T170000Z
+UID:pandascore-match-1365968@esport-ics
+DTSTART:20260218T170000Z
+DTEND:20260218T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Winter 2026 - Challengers Group\nWatch: https://
+ www.twitch.tv/nervarien
+SUMMARY:OA vs LDS
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T190000Z
+UID:pandascore-match-1365969@esport-ics
+DTSTART:20260218T190000Z
+DTEND:20260218T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Winter 2026 - Challengers Group\nWatch: https://
+ www.twitch.tv/nervarien
+SUMMARY:DOC vs OA
 URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR

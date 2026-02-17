@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.twitch
  .tv/PGL
 SUMMARY:Round 4: MOUZ vs FUT
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T130000Z
+UID:pandascore-match-1349991@esport-ics
+DTSTART:20260218T130000Z
+DTEND:20260218T151500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.twitch
+ .tv/PGL
+SUMMARY:Round 5: FUT vs PRV
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

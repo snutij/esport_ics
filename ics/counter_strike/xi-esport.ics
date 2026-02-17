@@ -70,13 +70,15 @@ SUMMARY:Round 4: XI vs SNG
 URL:https://kick.com/exort_en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260217T191000Z
-UID:pandascore-match-1364676@esport-ics
-DTSTART:20260217T191000Z
-DTEND:20260217T195500Z
+DTSTAMP:20260219T113000Z
+UID:pandascore-match-1365963@esport-ics
+DTSTART:20260219T113000Z
+DTEND:20260219T134500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
-SUMMARY:FUT.A vs XI
+DESCRIPTION:United21 - Season 45 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:XI vs ICE
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260219T190000Z
@@ -88,5 +90,14 @@ DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
  \nWatch: https://www.twitch.tv/dust2tv
 SUMMARY:Round 3: XI vs Vendetta Gaming
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T190000Z
+UID:pandascore-match-1364676@esport-ics
+DTSTART:20260222T190000Z
+DTEND:20260222T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:FUT.A vs XI
 END:VEVENT
 END:VCALENDAR

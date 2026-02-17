@@ -109,6 +109,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
  nWatch: https://www.twitch.tv/majkibets
 SUMMARY:Lower bracket round 3 match 6: ILWL vs KOL
-URL;VALUE=URI:https://www.twitch.tv/majkibets
+URL:https://www.twitch.tv/majkibets
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T180000Z
+UID:pandascore-match-1359247@esport-ics
+DTSTART:20260218T180000Z
+DTEND:20260218T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 4 match 3: ILWL vs TBD
 END:VEVENT
 END:VCALENDAR

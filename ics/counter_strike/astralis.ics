@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.twitch
  .tv/pgl_cs2
 SUMMARY:Round 4: FaZe vs AST
-URL;VALUE=URI:https://www.twitch.tv/pgl_cs2
+URL:https://www.twitch.tv/pgl_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T100000Z
+UID:pandascore-match-1349990@esport-ics
+DTSTART:20260218T100000Z
+DTEND:20260218T121500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.twitch
+ .tv/PGL
+SUMMARY:Round 5: AUR vs AST
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

@@ -14,4 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: European Open Qualifier #1 2026 - Playoffs
 SUMMARY:Round of 16 match 2: japczany vs WOPA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T090000Z
+UID:pandascore-match-1365947@esport-ics
+DTSTART:20260218T090000Z
+DTEND:20260218T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 45 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:WOPA vs ex-FUT Academy
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
