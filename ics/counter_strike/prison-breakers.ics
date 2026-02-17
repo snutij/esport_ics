@@ -14,6 +14,16 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #8 season 3 2026 - Group Stage\nWatc
  h: https://kick.com/cct_cs3
 SUMMARY:Round 3: CRASH vs PB
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T230000Z
+UID:pandascore-match-1364689@esport-ics
+DTSTART:20260217T230000Z
+DTEND:20260218T011500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: South American Open Qualifier season 2 2026 - 
+ Playoffs
+SUMMARY:Round 1: BHE vs PB
 END:VEVENT
 END:VCALENDAR

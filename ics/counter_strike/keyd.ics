@@ -27,4 +27,14 @@ DESCRIPTION:ESL Challenger League - South America Cup 1 season 51 2026 - Pl
 SUMMARY:Upper bracket round 1 match 6: Keyd vs SHIN
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T230000Z
+UID:pandascore-match-1364692@esport-ics
+DTSTART:20260217T230000Z
+DTEND:20260218T011500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: South American Open Qualifier season 2 2026 - 
+ Playoffs
+SUMMARY:Round 1: Keyd vs MW
+END:VEVENT
 END:VCALENDAR
