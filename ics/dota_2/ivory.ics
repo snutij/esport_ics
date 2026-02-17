@@ -50,6 +50,17 @@ SUMMARY:A&F vs IVO
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260218T070000Z
+UID:pandascore-match-1365887@esport-ics
+DTSTART:20260218T070000Z
+DTEND:20260218T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Upper bracket semifinal 2: IVO vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260219T060000Z
 UID:pandascore-match-1357419@esport-ics
 DTSTART:20260219T060000Z
