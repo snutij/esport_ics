@@ -116,6 +116,17 @@ SUMMARY:Lower bracket round 3 match 2: ENCE.A vs RBLS
 URL:https://www.twitch.tv/misterhenrybatt
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260218T120000Z
+UID:pandascore-match-1364517@esport-ics
+DTSTART:20260218T120000Z
+DTEND:20260218T141500Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
+ .twitch.tv/jbproleague
+SUMMARY:Round 2: ARC vs ENCE.A
+URL;VALUE=URI:https://www.twitch.tv/jbproleague
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260218T180000Z
 UID:pandascore-match-1356158@esport-ics
 DTSTART:20260218T180000Z

@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Spain: Rising Stage 1 2026 - Playoffs\nWatch: https://www
  .twitch.tv/LVPes2
 SUMMARY:Grand final: UCAM vs NOVO
-URL;VALUE=URI:https://www.twitch.tv/LVPes2
+URL:https://www.twitch.tv/LVPes2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T180000Z
+UID:pandascore-match-1365997@esport-ics
+DTSTART:20260219T180000Z
+DTEND:20260219T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Clash 2026 - Group Alpha\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Upper bracket quarterfinal 1: FKS vs UCAM
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

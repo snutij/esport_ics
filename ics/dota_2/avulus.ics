@@ -69,7 +69,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - Series 7 season 2 2026 - Playoffs\nWatch: https://kick.co
  m/cct_dota
 SUMMARY:Upper bracket semifinal 2: L1GA vs AVL
-URL;VALUE=URI:https://kick.com/cct_dota
+URL:https://kick.com/cct_dota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260217T182000Z
@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - Series 7 season 2 2026 - Playoffs\nWatch: https://kick.co
  m/cct_dota
 SUMMARY:Upper bracket semifinal 1: PR vs AVL
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T150000Z
+UID:pandascore-match-1346336@esport-ics
+DTSTART:20260218T150000Z
+DTEND:20260218T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - Series 7 season 2 2026 - Playoffs\nWatch: https://kick.co
+ m/cct_dota
+SUMMARY:Lower bracket quarterfinal 2: AVL vs LYNX
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR

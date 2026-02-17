@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - France: Revolution Stage 1 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/valorant_fr
 SUMMARY:Grand final: JL vs MDR
-URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+URL:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T180000Z
+UID:pandascore-match-1365998@esport-ics
+DTSTART:20260219T180000Z
+DTEND:20260219T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Clash 2026 - Group Alpha\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Upper bracket quarterfinal 2: FUT vs JL
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

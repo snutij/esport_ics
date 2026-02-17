@@ -28,6 +28,17 @@ SUMMARY:GS vs BJK
 URL:https://www.twitch.tv/valorant_tur
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260219T203000Z
+UID:pandascore-match-1366008@esport-ics
+DTSTART:20260219T203000Z
+DTEND:20260219T224500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Clash 2026 - Group Omega\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Upper bracket quarterfinal 2: ULF vs BJK
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260228T143000Z
 UID:pandascore-match-1355302@esport-ics
 DTSTART:20260228T143000Z

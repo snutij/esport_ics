@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Kickoff 2026 - Playoffs\nWatch: https://www.twitch.t
  v/valorant_emea
 SUMMARY:Lower bracket semifinal: VIT vs TL
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T203000Z
+UID:pandascore-match-1365999@esport-ics
+DTSTART:20260220T203000Z
+DTEND:20260220T224500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Clash 2026 - Group Alpha\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Upper bracket semifinal 1: VIT vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
