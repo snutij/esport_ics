@@ -128,6 +128,17 @@ URL:https://www.twitch.tv/jbproleague
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260217T090000Z
+UID:pandascore-match-1356134@esport-ics
+DTSTART:20260217T090000Z
+DTEND:20260217T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group D\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Decider match: PRIME vs BW
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T090000Z
 UID:pandascore-match-1353996@esport-ics
 DTSTART:20260217T090000Z
 DTEND:20260217T111500Z
@@ -136,16 +147,5 @@ DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Group C\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Decider match: PRIME vs BRUTE
 URL;VALUE=URI:https://kick.com/eplcs_en
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260217T120000Z
-UID:pandascore-match-1356134@esport-ics
-DTSTART:20260217T120000Z
-DTEND:20260217T141500Z
-CLASS:PUBLIC
-DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group D\nWatch: 
- https://kick.com/nodwin_cs2
-SUMMARY:Decider match: PRIME vs BW
-URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

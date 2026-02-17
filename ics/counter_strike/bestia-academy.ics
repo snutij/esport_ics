@@ -36,6 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #8 season 3 2026 - Group Stage\nWatc
  h: https://kick.com/cct_cs3
 SUMMARY:Round 5: ex-KRÜ Esports vs BST.A
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T190000Z
+UID:pandascore-match-1364687@esport-ics
+DTSTART:20260217T190000Z
+DTEND:20260217T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - February 2026 - Group C
+SUMMARY:UNO vs BST.A
 END:VEVENT
 END:VCALENDAR

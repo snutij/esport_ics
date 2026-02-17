@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 22 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 3: FOKUS vs EF.A
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T193000Z
+UID:pandascore-match-1364683@esport-ics
+DTSTART:20260217T193000Z
+DTEND:20260217T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 22 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 4: LPH vs EF.A
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
