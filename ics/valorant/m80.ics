@@ -49,4 +49,15 @@ DESCRIPTION:VCL - North America Stage 1 2026 - Playoffs\nWatch: https://www
 SUMMARY:Upper bracket quarterfinal 3: SLP vs M80
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T210000Z
+UID:pandascore-match-1364779@esport-ics
+DTSTART:20260218T210000Z
+DTEND:20260218T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America Stage 1 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Lower bracket round 1 match 1: M80 vs EVI
+URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
 END:VCALENDAR

@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America Stage 1 2026 - Playoffs\nWatch: https://www
  .twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Upper bracket quarterfinal 1: SaD vs M80
-URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260216T210000Z
@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America Stage 1 2026 - Playoffs\nWatch: https://www
  .twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Upper bracket quarterfinal 1: SaD vs NRG.A
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T210000Z
+UID:pandascore-match-1364771@esport-ics
+DTSTART:20260219T210000Z
+DTEND:20260219T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America Stage 1 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Upper bracket semifinal 1: SaD vs QoR
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR
