@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:EBL - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
  v/fortuna
 SUMMARY:PS vs CZV
+URL:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T180000Z
+UID:pandascore-match-1356768@esport-ics
+DTSTART:20260218T180000Z
+DTEND:20260218T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/fort
+ una
+SUMMARY:Upper bracket quarterfinal 4: PS vs TQD
 URL;VALUE=URI:https://www.twitch.tv/fortuna
 END:VEVENT
 END:VCALENDAR

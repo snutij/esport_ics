@@ -105,6 +105,17 @@ SUMMARY:Upper bracket round 3 match 2: TDK vs RBLS
 URL:https://www.twitch.tv/anishared
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260218T090000Z
+UID:pandascore-match-1356155@esport-ics
+DTSTART:20260218T090000Z
+DTEND:20260218T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In\nWatch: https://
+ kick.com/nodwin_cs2
+SUMMARY:TDK vs BW
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260218T120000Z
 UID:pandascore-match-1351287@esport-ics
 DTSTART:20260218T120000Z

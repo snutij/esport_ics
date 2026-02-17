@@ -144,6 +144,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In Group C\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Decider match: VP.P vs  CSDIILIT
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T120000Z
+UID:pandascore-match-1356156@esport-ics
+DTSTART:20260218T120000Z
+DTEND:20260218T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In\nWatch: https://
+ kick.com/nodwin_cs2
+SUMMARY:Omega vs  CSDIILIT
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

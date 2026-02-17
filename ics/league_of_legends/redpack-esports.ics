@@ -3,19 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Lupus Esports
-SLUG:lupus-esports
-BEGIN:VEVENT
-DTSTAMP:20260212T180000Z
-UID:pandascore-match-1320132@esport-ics
-DTSTART:20260212T180000Z
-DTEND:20260212T201500Z
-CLASS:PUBLIC
-DESCRIPTION:EBL - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
- v/fortuna
-SUMMARY:LPS vs TSC
-URL:https://www.twitch.tv/fortuna
-END:VEVENT
+X-WR-CALNAME:REDPack Esports
+SLUG:redpack-esports
 BEGIN:VEVENT
 DTSTAMP:20260219T180000Z
 UID:pandascore-match-1356770@esport-ics

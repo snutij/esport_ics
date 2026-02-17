@@ -114,4 +114,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
 SUMMARY:Lower bracket round 3 match 4: ex-RUBY vs HAVU
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T150000Z
+UID:pandascore-match-1356157@esport-ics
+DTSTART:20260218T150000Z
+DTEND:20260218T171500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Play-In\nWatch: https://
+ kick.com/nodwin_cs2
+SUMMARY:WB vs HAVU
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
