@@ -27,4 +27,15 @@ DESCRIPTION:ESL Challenger League - Oceania Cup 1 season 51 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 2: Exsto vs BBBMBCBS
 URL;VALUE=URI:https://www.twitch.tv/dutchboycasts
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T080000Z
+UID:pandascore-match-1364203@esport-ics
+DTSTART:20260220T080000Z
+DTEND:20260220T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Group A\nWatch: https:/
+ /kick.com/cct_cs4
+SUMMARY:Elimination match: BBBMBCBS vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
 END:VCALENDAR
