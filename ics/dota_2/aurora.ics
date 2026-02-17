@@ -72,15 +72,15 @@ SUMMARY:BB vs AUR
 URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260217T110000Z
+DTSTAMP:20260217T120000Z
 UID:pandascore-match-1358041@esport-ics
-DTSTART:20260217T110000Z
-DTEND:20260217T123000Z
+DTSTART:20260217T120000Z
+DTEND:20260217T133000Z
 CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
- www.twitch.tv/esl_dota2
+ www.twitch.tv/dota2_paragon_ru
 SUMMARY:paiN vs AUR
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL;VALUE=URI:https://www.twitch.tv/dota2_paragon_ru
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260218T110000Z
