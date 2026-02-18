@@ -36,6 +36,61 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
  \nWatch: https://www.twitch.tv/dust2tv
 SUMMARY:Round 3: SASHI vs AAB
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T130000Z
+UID:pandascore-match-1366184@esport-ics
+DTSTART:20260222T130000Z
+DTEND:20260222T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:BOSS vs SASHI
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T150000Z
+UID:pandascore-match-1366252@esport-ics
+DTSTART:20260222T150000Z
+DTEND:20260222T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:SASHI vs BCG
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T160000Z
+UID:pandascore-match-1366274@esport-ics
+DTSTART:20260222T160000Z
+DTEND:20260222T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:9INE vs SASHI
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T180000Z
+UID:pandascore-match-1366362@esport-ics
+DTSTART:20260222T180000Z
+DTEND:20260222T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:MSC vs SASHI
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T190000Z
+UID:pandascore-match-1366366@esport-ics
+DTSTART:20260222T190000Z
+DTEND:20260222T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:SASHI vs ILWL
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR

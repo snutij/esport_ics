@@ -82,4 +82,59 @@ DESCRIPTION:CCT Europe - Series #15 season 3 2026 - Playoffs\nWatch: https:
 SUMMARY:Quarterfinal 3: ACE vs SIN
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T120000Z
+UID:pandascore-match-1366178@esport-ics
+DTSTART:20260222T120000Z
+DTEND:20260222T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:SIN vs MINLATE
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T130000Z
+UID:pandascore-match-1366194@esport-ics
+DTSTART:20260222T130000Z
+DTEND:20260222T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:GL vs SIN
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T130000Z
+UID:pandascore-match-1366181@esport-ics
+DTSTART:20260222T130000Z
+DTEND:20260222T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:Avanti Esport vs SIN
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T160000Z
+UID:pandascore-match-1366262@esport-ics
+DTSTART:20260222T160000Z
+DTEND:20260222T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:SIN vs ECS
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T180000Z
+UID:pandascore-match-1366339@esport-ics
+DTSTART:20260222T180000Z
+DTEND:20260222T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:PHA vs SIN
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
 END:VCALENDAR

@@ -120,4 +120,59 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
 SUMMARY:Lower bracket round 4 match 3: ILWL vs eLITenergy
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T140000Z
+UID:pandascore-match-1366207@esport-ics
+DTSTART:20260222T140000Z
+DTEND:20260222T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:ILWL vs MSC
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T150000Z
+UID:pandascore-match-1366251@esport-ics
+DTSTART:20260222T150000Z
+DTEND:20260222T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:ILWL vs BOSS
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T170000Z
+UID:pandascore-match-1366283@esport-ics
+DTSTART:20260222T170000Z
+DTEND:20260222T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:BCG vs ILWL
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T180000Z
+UID:pandascore-match-1366348@esport-ics
+DTSTART:20260222T180000Z
+DTEND:20260222T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:ILWL vs 9INE
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T190000Z
+UID:pandascore-match-1366366@esport-ics
+DTSTART:20260222T190000Z
+DTEND:20260222T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:SASHI vs ILWL
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
 END:VCALENDAR

@@ -3,28 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:GamerLegion
-SLUG:gamerlegion
-BEGIN:VEVENT
-DTSTAMP:20260207T125353Z
-UID:pandascore-match-1349932@esport-ics
-DTSTART:20260207T130000Z
-DTEND:20260207T151500Z
-CLASS:PUBLIC
-DESCRIPTION:RES Showdown Spring - 2026 - Playoffs
-SUMMARY:Semifinal 2: BCG vs GL
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260208T125452Z
-UID:pandascore-match-1349933@esport-ics
-DTSTART:20260208T130000Z
-DTEND:20260208T151500Z
-CLASS:PUBLIC
-DESCRIPTION:RES Showdown Spring - 2026 - Playoffs\nWatch: https://www.twitc
- h.tv/rlg_cs
-SUMMARY:Grand final: NIP vs GL
-URL:https://www.twitch.tv/rlg_cs
-END:VEVENT
+X-WR-CALNAME:Avanti Esport
+SLUG:avanti-esport
 BEGIN:VEVENT
 DTSTAMP:20260222T120000Z
 UID:pandascore-match-1366177@esport-ics
@@ -38,46 +18,46 @@ URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260222T130000Z
-UID:pandascore-match-1366194@esport-ics
+UID:pandascore-match-1366181@esport-ics
 DTSTART:20260222T130000Z
 DTEND:20260222T134500Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
  : https://kick.com/challengerchampionship
-SUMMARY:GL vs SIN
+SUMMARY:Avanti Esport vs SIN
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260222T150000Z
-UID:pandascore-match-1366250@esport-ics
-DTSTART:20260222T150000Z
-DTEND:20260222T154500Z
+DTSTAMP:20260222T140000Z
+UID:pandascore-match-1366193@esport-ics
+DTSTART:20260222T140000Z
+DTEND:20260222T144500Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
  : https://kick.com/challengerchampionship
-SUMMARY:ECS vs GL
+SUMMARY:PHA vs Avanti Esport
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260222T170000Z
-UID:pandascore-match-1366281@esport-ics
+UID:pandascore-match-1366282@esport-ics
 DTSTART:20260222T170000Z
 DTEND:20260222T174500Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
  : https://kick.com/challengerchampionship
-SUMMARY:GL vs PHA
+SUMMARY:MINLATE vs Avanti Esport
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260222T190000Z
-UID:pandascore-match-1366363@esport-ics
-DTSTART:20260222T190000Z
-DTEND:20260222T194500Z
+DTSTAMP:20260222T180000Z
+UID:pandascore-match-1366347@esport-ics
+DTSTART:20260222T180000Z
+DTEND:20260222T184500Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
  : https://kick.com/challengerchampionship
-SUMMARY:MINLATE vs GL
+SUMMARY:Avanti Esport vs ECS
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR
