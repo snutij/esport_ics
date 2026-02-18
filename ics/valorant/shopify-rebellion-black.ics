@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America Stage 1 2026 - Playoffs\nWatch: https://www
  .twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Upper bracket quarterfinal 4: SRB vs EG.A
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T000000Z
+UID:pandascore-match-1364772@esport-ics
+DTSTART:20260220T000000Z
+DTEND:20260220T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America Stage 1 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Upper bracket semifinal 2: SRB vs SLP
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR
