@@ -875,7 +875,7 @@ module EsportIcs
     def generate_footer
       <<~HTML
         <footer>
-          <p>Calendars auto-update every 12 hours</p>
+          <p>Calendars auto-update every hour</p>
           <p>Powered by <a href="https://github.com/snutij/esport_ics" target="_blank" rel="noopener noreferrer">esport_ics</a></p>
         </footer>
         <div class="toast" id="toast">URL copied to clipboard!</div>
