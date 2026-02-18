@@ -36,6 +36,24 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck StarPearl - Season 1 2026 - Group C\nWatch: https://www.t
  witch.tv/gluck_esports_2
 SUMMARY:Decider match: 33 vs RUST
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports_2
+URL:https://www.twitch.tv/gluck_esports_2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T153000Z
+UID:pandascore-match-1366019@esport-ics
+DTSTART:20260218T153000Z
+DTEND:20260218T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:RUST vs ex-GANK Esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T170000Z
+UID:pandascore-match-1366022@esport-ics
+DTSTART:20260218T170000Z
+DTEND:20260218T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:TNT vs RUST
 END:VEVENT
 END:VCALENDAR

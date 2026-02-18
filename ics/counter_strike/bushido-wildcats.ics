@@ -135,4 +135,13 @@ DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
 SUMMARY:Round 2: ex-Zero Tenacity vs BW
 URL;VALUE=URI:https://www.twitch.tv/jbproleague
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T190000Z
+UID:pandascore-match-1366036@esport-ics
+DTSTART:20260218T190000Z
+DTEND:20260218T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:BW vs STA
+END:VEVENT
 END:VCALENDAR

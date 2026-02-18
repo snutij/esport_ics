@@ -46,4 +46,14 @@ DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
  ayoffs
 SUMMARY:Upper bracket round 1 match 5: VOCA vs ZOMB
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T020000Z
+UID:pandascore-match-1364038@esport-ics
+DTSTART:20260219T020000Z
+DTEND:20260219T041500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
+ ayoffs
+SUMMARY:Lower bracket round 1 match 3: SE vs ZOMB
+END:VEVENT
 END:VCALENDAR
