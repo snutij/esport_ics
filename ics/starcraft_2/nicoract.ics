@@ -3,30 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Clem
-SLUG:clem
-BEGIN:VEVENT
-DTSTAMP:20260211T023402Z
-UID:pandascore-match-1355070@esport-ics
-DTSTART:20260211T110000Z
-DTEND:20260211T131500Z
-CLASS:PUBLIC
-DESCRIPTION:LiuLi Cup - Grand Finals 2025 - Group B\nWatch: https://live.bi
- libili.com/4670738
-SUMMARY:Clem vs Rogue
-URL:https://live.bilibili.com/4670738
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260214T120000Z
-UID:pandascore-match-1355132@esport-ics
-DTSTART:20260214T120000Z
-DTEND:20260214T154500Z
-CLASS:PUBLIC
-DESCRIPTION:LiuLi Cup - Grand Finals 2025 - Playoffs\nWatch: https://live.b
- ilibili.com/4670738
-SUMMARY:Quarterfinal 2: Clem vs Maru
-URL:https://live.bilibili.com/4670738
-END:VEVENT
+X-WR-CALNAME:Nicoract
+SLUG:nicoract
 BEGIN:VEVENT
 DTSTAMP:20260218T120000Z
 UID:pandascore-match-1366138@esport-ics
@@ -39,36 +17,36 @@ SUMMARY:Clem vs Nicoract
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260218T132000Z
-UID:pandascore-match-1366141@esport-ics
-DTSTART:20260218T132000Z
-DTEND:20260218T153500Z
+DTSTAMP:20260218T124000Z
+UID:pandascore-match-1366140@esport-ics
+DTSTART:20260218T124000Z
+DTEND:20260218T145500Z
 CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Group A\nWatch: https://ww
  w.twitch.tv/wardiii
-SUMMARY:MaNa vs Clem
+SUMMARY:NightMare vs Nicoract
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260218T140000Z
-UID:pandascore-match-1366144@esport-ics
+UID:pandascore-match-1366143@esport-ics
 DTSTART:20260218T140000Z
 DTEND:20260218T161500Z
 CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Group A\nWatch: https://ww
  w.twitch.tv/wardiii
-SUMMARY:Rogue vs Clem
+SUMMARY:MaNa vs Nicoract
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260218T144000Z
-UID:pandascore-match-1366146@esport-ics
+UID:pandascore-match-1366145@esport-ics
 DTSTART:20260218T144000Z
 DTEND:20260218T165500Z
 CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Group A\nWatch: https://ww
  w.twitch.tv/wardiii
-SUMMARY:NightMare vs Clem
+SUMMARY:Nicoract vs Rogue
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

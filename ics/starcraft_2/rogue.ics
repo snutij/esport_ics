@@ -47,6 +47,50 @@ CLASS:PUBLIC
 DESCRIPTION:LiuLi Cup - Grand Finals 2025 - Playoffs\nWatch: https://live.b
  ilibili.com/4670738
 SUMMARY:Semifinal 2: Rogue vs Serral
-URL;VALUE=URI:https://live.bilibili.com/4670738
+URL:https://live.bilibili.com/4670738
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T124000Z
+UID:pandascore-match-1366139@esport-ics
+DTSTART:20260218T124000Z
+DTEND:20260218T145500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Rogue vs MaNa
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T132000Z
+UID:pandascore-match-1366142@esport-ics
+DTSTART:20260218T132000Z
+DTEND:20260218T153500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Rogue vs NightMare
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T140000Z
+UID:pandascore-match-1366144@esport-ics
+DTSTART:20260218T140000Z
+DTEND:20260218T161500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Rogue vs Clem
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T144000Z
+UID:pandascore-match-1366145@esport-ics
+DTSTART:20260218T144000Z
+DTEND:20260218T165500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Nicoract vs Rogue
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

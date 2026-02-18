@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MaNa
+SLUG:mana
+BEGIN:VEVENT
+DTSTAMP:20260218T120000Z
+UID:pandascore-match-1366137@esport-ics
+DTSTART:20260218T120000Z
+DTEND:20260218T141500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:MaNa vs NightMare
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T124000Z
+UID:pandascore-match-1366139@esport-ics
+DTSTART:20260218T124000Z
+DTEND:20260218T145500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Rogue vs MaNa
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T132000Z
+UID:pandascore-match-1366141@esport-ics
+DTSTART:20260218T132000Z
+DTEND:20260218T153500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:MaNa vs Clem
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T140000Z
+UID:pandascore-match-1366143@esport-ics
+DTSTART:20260218T140000Z
+DTEND:20260218T161500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:MaNa vs Nicoract
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+END:VCALENDAR

@@ -50,14 +50,25 @@ SUMMARY:YB vs TY
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260219T110000Z
+UID:pandascore-match-1358065@esport-ics
+DTSTART:20260219T110000Z
+DTEND:20260219T123000Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
+ www.twitch.tv/esl_dota2
+SUMMARY:paiN vs YB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260219T160000Z
-UID:pandascore-match-1358059@esport-ics
+UID:pandascore-match-1358061@esport-ics
 DTSTART:20260219T160000Z
 DTEND:20260219T173000Z
 CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
  www.twitch.tv/esl_dota2
-SUMMARY:PARI vs YB
+SUMMARY:YB vs BB
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
@@ -73,13 +84,13 @@ URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260220T110000Z
-UID:pandascore-match-1358065@esport-ics
+UID:pandascore-match-1358059@esport-ics
 DTSTART:20260220T110000Z
 DTEND:20260220T123000Z
 CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
  www.twitch.tv/esl_dota2
-SUMMARY:paiN vs YB
+SUMMARY:PARI vs YB
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

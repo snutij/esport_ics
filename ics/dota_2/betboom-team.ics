@@ -50,6 +50,17 @@ SUMMARY:paiN vs BB
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260219T110000Z
+UID:pandascore-match-1358064@esport-ics
+DTSTART:20260219T110000Z
+DTEND:20260219T123000Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
+ www.twitch.tv/esl_dota2
+SUMMARY:BB vs Liquid
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260219T160000Z
 UID:pandascore-match-1358061@esport-ics
 DTSTART:20260219T160000Z
@@ -57,7 +68,7 @@ DTEND:20260219T173000Z
 CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
  www.twitch.tv/esl_dota2
-SUMMARY:AUR vs BB
+SUMMARY:YB vs BB
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT

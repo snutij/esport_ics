@@ -50,6 +50,17 @@ SUMMARY:paiN vs BB
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260219T110000Z
+UID:pandascore-match-1358065@esport-ics
+DTSTART:20260219T110000Z
+DTEND:20260219T123000Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
+ www.twitch.tv/esl_dota2
+SUMMARY:paiN vs YB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260219T160000Z
 UID:pandascore-match-1358060@esport-ics
 DTSTART:20260219T160000Z
@@ -58,17 +69,6 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
  www.twitch.tv/esl_dota2
 SUMMARY:paiN vs TY
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260220T110000Z
-UID:pandascore-match-1358065@esport-ics
-DTSTART:20260220T110000Z
-DTEND:20260220T123000Z
-CLASS:PUBLIC
-DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
- www.twitch.tv/esl_dota2
-SUMMARY:paiN vs YB
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
