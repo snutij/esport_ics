@@ -25,6 +25,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup 1 season 51 2026 - Pla
  yoffs\nWatch: https://www.twitch.tv/misterhenrybatt
 SUMMARY:Upper bracket quarterfinal 4: NM vs CW
-URL;VALUE=URI:https://www.twitch.tv/misterhenrybatt
+URL:https://www.twitch.tv/misterhenrybatt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T140000Z
+UID:pandascore-match-1363635@esport-ics
+DTSTART:20260219T140000Z
+DTEND:20260219T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup 1 season 51 2026 - Pla
+ yoffs
+SUMMARY:Lower bracket round 2 match 1: NM vs TBD
 END:VEVENT
 END:VCALENDAR
