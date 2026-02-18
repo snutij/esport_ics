@@ -72,6 +72,17 @@ SUMMARY:IVO vs SW
 URL;VALUE=URI:https://www.twitch.tv/cringestation_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260220T070000Z
+UID:pandascore-match-1367328@esport-ics
+DTSTART:20260220T070000Z
+DTEND:20260220T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Upper bracket final: YG vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260221T040000Z
 UID:pandascore-match-1357443@esport-ics
 DTSTART:20260221T040000Z
