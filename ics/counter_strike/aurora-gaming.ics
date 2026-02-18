@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.twitch
  .tv/PGL
 SUMMARY:Round 5: AUR vs AST
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T140000Z
+UID:pandascore-match-1349995@esport-ics
+DTSTART:20260220T140000Z
+DTEND:20260220T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Cluj-Napoca 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /PGL
+SUMMARY:Quarterfinal 3: VIT vs AUR
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

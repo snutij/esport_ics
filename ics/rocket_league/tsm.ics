@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:MIBR
-SLUG:mibr
+X-WR-CALNAME:TSM
+SLUG:tsm
 BEGIN:VEVENT
 DTSTAMP:20260219T170000Z
-UID:pandascore-match-1359608@esport-ics
+UID:pandascore-match-1359607@esport-ics
 DTSTART:20260219T170000Z
 DTEND:20260219T204500Z
 CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Boston 2026 - Group D\nWatch: https://www.twitch.t
  v/rocketleague
-SUMMARY:mibr vs SR
+SUMMARY:M8 vs TSM
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 BEGIN:VEVENT
@@ -29,13 +29,13 @@ URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260220T180000Z
-UID:pandascore-match-1359631@esport-ics
+UID:pandascore-match-1359632@esport-ics
 DTSTART:20260220T180000Z
 DTEND:20260220T214500Z
 CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Boston 2026 - Group D\nWatch: https://www.twitch.t
  v/rocketleague
-SUMMARY:mibr vs M8
+SUMMARY:SR vs TSM
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

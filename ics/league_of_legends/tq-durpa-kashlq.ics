@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:EBL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/fort
  una
 SUMMARY:Upper bracket quarterfinal 4: PS vs TQD
+URL:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T190000Z
+UID:pandascore-match-1356773@esport-ics
+DTSTART:20260225T190000Z
+DTEND:20260225T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/fort
+ una
+SUMMARY:Lower bracket round 1 match 2: TQD vs TBD
 URL;VALUE=URI:https://www.twitch.tv/fortuna
 END:VEVENT
 END:VCALENDAR

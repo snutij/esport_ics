@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.twitch
  .tv/PGL
 SUMMARY:Round 3: FURIA vs FAL
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T080000Z
+UID:pandascore-match-1349993@esport-ics
+DTSTART:20260220T080000Z
+DTEND:20260220T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Cluj-Napoca 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /PGL
+SUMMARY:Quarterfinal 1: FAL vs PRV
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR
