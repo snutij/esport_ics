@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Winter 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/lolesports_ar
 SUMMARY:Upper bracket quarterfinal 1: 3BL vs ANB
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T190000Z
+UID:pandascore-match-1356762@esport-ics
+DTSTART:20260220T190000Z
+DTEND:20260220T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Winter 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/lolesports_ar
+SUMMARY:Lower bracket quarterfinal 1: 3BL vs TBD
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

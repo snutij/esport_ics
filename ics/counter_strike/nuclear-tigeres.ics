@@ -118,6 +118,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
  nWatch: https://www.twitch.tv/GoYareGo
 SUMMARY:Upper bracket quarterfinal 3: NTR vs Leo
-URL;VALUE=URI:https://www.twitch.tv/GoYareGo
+URL:https://www.twitch.tv/GoYareGo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T180000Z
+UID:pandascore-match-1359250@esport-ics
+DTSTART:20260219T180000Z
+DTEND:20260219T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 5 match 2: ex-RUBY vs NTR
 END:VEVENT
 END:VCALENDAR

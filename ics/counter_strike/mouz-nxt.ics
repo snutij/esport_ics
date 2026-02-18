@@ -118,4 +118,13 @@ DESCRIPTION:CCT Europe - Series #15 season 3 2026 - Playoffs\nWatch: https:
 SUMMARY:Quarterfinal 1: MOUZ.N vs ECS
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T180000Z
+UID:pandascore-match-1359254@esport-ics
+DTSTART:20260220T180000Z
+DTEND:20260220T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 2: MOUZ.N vs Leo
+END:VEVENT
 END:VCALENDAR
