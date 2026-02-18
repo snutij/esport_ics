@@ -143,7 +143,7 @@ module EsportIcs
           html = generator.send(:generate_html)
 
           assert_includes(html, "<footer")
-          assert_includes(html, "auto-update every 12 hours")
+          assert_includes(html, "auto-update every hour")
         end
       end
     end
