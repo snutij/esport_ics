@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:youngYakov
+SLUG:youngyakov
+BEGIN:VEVENT
+DTSTAMP:20260219T120000Z
+UID:pandascore-match-1366148@esport-ics
+DTSTART:20260219T120000Z
+DTEND:20260219T141500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:youngYakov vs Spirit
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T124000Z
+UID:pandascore-match-1366150@esport-ics
+DTSTART:20260219T124000Z
+DTEND:20260219T145500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Creator vs youngYakov
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T132000Z
+UID:pandascore-match-1366152@esport-ics
+DTSTART:20260219T132000Z
+DTEND:20260219T153500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:ShoWTimE vs youngYakov
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T144000Z
+UID:pandascore-match-1366155@esport-ics
+DTSTART:20260219T144000Z
+DTEND:20260219T165500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Krystianer vs youngYakov
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+END:VCALENDAR

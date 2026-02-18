@@ -31,7 +31,9 @@ UID:pandascore-match-1359241@esport-ics
 DTSTART:20260218T180000Z
 DTEND:20260218T201500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
+ nWatch: https://www.twitch.tv/anishared
 SUMMARY:Upper bracket quarterfinal 1: TDK vs SPARTA
+URL;VALUE=URI:https://www.twitch.tv/anishared
 END:VEVENT
 END:VCALENDAR

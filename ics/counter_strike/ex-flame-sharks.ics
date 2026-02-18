@@ -62,7 +62,9 @@ UID:pandascore-match-1359248@esport-ics
 DTSTART:20260218T180000Z
 DTEND:20260218T201500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
+ nWatch: https://www.twitch.tv/sangalgg
 SUMMARY:Lower bracket round 4 match 4: SNG vs ex-Flame Sharks
+URL;VALUE=URI:https://www.twitch.tv/sangalgg
 END:VEVENT
 END:VCALENDAR
