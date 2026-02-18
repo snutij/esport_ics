@@ -84,6 +84,16 @@ DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
 SUMMARY:Lower bracket round 1 match 2: SportsBetExpert vs O49
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260220T020000Z
+UID:pandascore-match-1364041@esport-ics
+DTSTART:20260220T020000Z
+DTEND:20260220T041500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
+ ayoffs
+SUMMARY:Lower bracket round 2 match 2: O49 vs TBD
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260222T010000Z
 UID:pandascore-match-1363265@esport-ics
 DTSTART:20260222T010000Z
