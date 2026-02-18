@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:LPLOL - Winter 2026 - Group C\nWatch: https://www.twitch.tv/rtp
  arenalol
 SUMMARY:Upper bracket final: CRR vs TBD
+URL:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T233000Z
+UID:pandascore-match-1355385@esport-ics
+DTSTART:20260218T233000Z
+DTEND:20260219T001500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Winter 2026 - Group C\nWatch: https://www.twitch.tv/rtp
+ arenalol
+SUMMARY:Lower bracket final: CRR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rtparenalol
 END:VEVENT
 END:VCALENDAR
