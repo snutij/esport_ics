@@ -3,37 +3,17 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Fingers Crossed
-SLUG:fingers-crossed
-BEGIN:VEVENT
-DTSTAMP:20260214T163000Z
-UID:pandascore-match-1313590@esport-ics
-DTSTART:20260214T163000Z
-DTEND:20260214T184500Z
-CLASS:PUBLIC
-DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
- w.twitch.tv/a1gamingleague
-SUMMARY:Round of 16 match 2: ORM vs Fingers
-URL:https://www.twitch.tv/a1gamingleague
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260217T150000Z
-UID:pandascore-match-1364652@esport-ics
-DTSTART:20260217T150000Z
-DTEND:20260217T154500Z
-CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest: European Open Qualifier #2 2026 - Playoffs
-SUMMARY:Round of 16 match 2: Fingers vs JJH
-END:VEVENT
+X-WR-CALNAME:Gamle Venner
+SLUG:gamle-venner
 BEGIN:VEVENT
 DTSTAMP:20260220T090000Z
-UID:pandascore-match-1367335@esport-ics
+UID:pandascore-match-1367336@esport-ics
 DTSTART:20260220T090000Z
 DTEND:20260220T094500Z
 CLASS:PUBLIC
 DESCRIPTION:De_Airport Masters - 2026 - Group B\nWatch: https://www.twitch.
  tv/landingzone_
-SUMMARY:Fingers vs ACE
+SUMMARY:GV vs Insidious
 URL;VALUE=URI:https://www.twitch.tv/landingzone_
 END:VEVENT
 BEGIN:VEVENT
@@ -49,13 +29,13 @@ URL;VALUE=URI:https://www.twitch.tv/landingzone_
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260220T110000Z
-UID:pandascore-match-1367339@esport-ics
+UID:pandascore-match-1367340@esport-ics
 DTSTART:20260220T110000Z
 DTEND:20260220T114500Z
 CLASS:PUBLIC
 DESCRIPTION:De_Airport Masters - 2026 - Group B\nWatch: https://www.twitch.
  tv/landingzone_
-SUMMARY:Fingers vs Insidious
+SUMMARY:ACE vs GV
 URL;VALUE=URI:https://www.twitch.tv/landingzone_
 END:VEVENT
 END:VCALENDAR

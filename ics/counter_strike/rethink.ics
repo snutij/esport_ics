@@ -42,6 +42,28 @@ DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
 SUMMARY:SUNFALL vs RT
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260220T150000Z
+UID:pandascore-match-1367360@esport-ics
+DTSTART:20260220T150000Z
+DTEND:20260220T154500Z
+CLASS:PUBLIC
+DESCRIPTION:De_Airport Masters - 2026 - Group D\nWatch: https://www.twitch.
+ tv/landingzone_
+SUMMARY:PHA vs RT
+URL;VALUE=URI:https://www.twitch.tv/landingzone_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T170000Z
+UID:pandascore-match-1367361@esport-ics
+DTSTART:20260220T170000Z
+DTEND:20260220T174500Z
+CLASS:PUBLIC
+DESCRIPTION:De_Airport Masters - 2026 - Group D\nWatch: https://www.twitch.
+ tv/landingzone_
+SUMMARY:BOSS vs RT
+URL;VALUE=URI:https://www.twitch.tv/landingzone_
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260221T113000Z
 UID:pandascore-match-1365953@esport-ics
 DTSTART:20260221T113000Z

@@ -90,6 +90,28 @@ DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
 SUMMARY:Upper bracket quarterfinal 2: BOSS vs SR
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260220T140000Z
+UID:pandascore-match-1367359@esport-ics
+DTSTART:20260220T140000Z
+DTEND:20260220T144500Z
+CLASS:PUBLIC
+DESCRIPTION:De_Airport Masters - 2026 - Group D\nWatch: https://www.twitch.
+ tv/landingzone_
+SUMMARY:PHA vs BOSS
+URL;VALUE=URI:https://www.twitch.tv/landingzone_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T170000Z
+UID:pandascore-match-1367361@esport-ics
+DTSTART:20260220T170000Z
+DTEND:20260220T174500Z
+CLASS:PUBLIC
+DESCRIPTION:De_Airport Masters - 2026 - Group D\nWatch: https://www.twitch.
+ tv/landingzone_
+SUMMARY:BOSS vs RT
+URL;VALUE=URI:https://www.twitch.tv/landingzone_
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260222T120000Z
 UID:pandascore-match-1366180@esport-ics
 DTSTART:20260222T120000Z

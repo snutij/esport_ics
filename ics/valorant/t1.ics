@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Pacific Kickoff 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/valorant_pacific
 SUMMARY:Mid bracket final: T1 vs RRQ
-URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T200000Z
+UID:pandascore-match-1367375@esport-ics
+DTSTART:20260228T200000Z
+DTEND:20260228T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters Santiago 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/valorant
+SUMMARY:Round 1: T1 vs TL
+URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Kickoff 2026 - Playoffs\nWatch: https://www.twitch.t
  v/valorant_emea
 SUMMARY:Mid bracket final: GM vs FNC
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T180000Z
+UID:pandascore-match-1367374@esport-ics
+DTSTART:20260228T180000Z
+DTEND:20260228T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters Santiago 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/valorant
+SUMMARY:Round 1: GM vs EDG
+URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

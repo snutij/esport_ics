@@ -81,6 +81,28 @@ SUMMARY:Round of 16 match 1: ALL vs PHA
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260220T140000Z
+UID:pandascore-match-1367359@esport-ics
+DTSTART:20260220T140000Z
+DTEND:20260220T144500Z
+CLASS:PUBLIC
+DESCRIPTION:De_Airport Masters - 2026 - Group D\nWatch: https://www.twitch.
+ tv/landingzone_
+SUMMARY:PHA vs BOSS
+URL;VALUE=URI:https://www.twitch.tv/landingzone_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T150000Z
+UID:pandascore-match-1367360@esport-ics
+DTSTART:20260220T150000Z
+DTEND:20260220T154500Z
+CLASS:PUBLIC
+DESCRIPTION:De_Airport Masters - 2026 - Group D\nWatch: https://www.twitch.
+ tv/landingzone_
+SUMMARY:PHA vs RT
+URL;VALUE=URI:https://www.twitch.tv/landingzone_
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260222T140000Z
 UID:pandascore-match-1366193@esport-ics
 DTSTART:20260222T140000Z

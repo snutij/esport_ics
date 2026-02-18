@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Kickoff 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant_americas
 SUMMARY:Mid bracket final: MIBR vs G2
-URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T180000Z
+UID:pandascore-match-1367376@esport-ics
+DTSTART:20260301T180000Z
+DTEND:20260301T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters Santiago 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/valorant
+SUMMARY:Round 1: G2 vs PR
+URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

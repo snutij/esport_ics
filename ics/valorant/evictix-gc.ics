@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Blue Otter GC
-SLUG:blue-otter-gc
+X-WR-CALNAME:Evictix GC
+SLUG:evictix-gc
 BEGIN:VEVENT
 DTSTAMP:20260220T220000Z
 UID:pandascore-match-1356633@esport-ics
