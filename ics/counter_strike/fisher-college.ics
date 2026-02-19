@@ -32,6 +32,16 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta: American Qualifier 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/JTMythic
 SUMMARY:Lower bracket quarterfinal 1: BOSS vs FC
-URL;VALUE=URI:https://www.twitch.tv/JTMythic
+URL:https://www.twitch.tv/JTMythic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T030000Z
+UID:pandascore-match-1367425@esport-ics
+DTSTART:20260227T030000Z
+DTEND:20260227T051500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
+ s
+SUMMARY:Upper bracket quarterfinal 4: VOCA vs FC
 END:VEVENT
 END:VCALENDAR

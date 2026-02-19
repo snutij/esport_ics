@@ -56,4 +56,14 @@ DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
  ayoffs
 SUMMARY:Lower bracket round 1 match 3: ZOMB vs SE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T000000Z
+UID:pandascore-match-1367422@esport-ics
+DTSTART:20260227T000000Z
+DTEND:20260227T021500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
+ s
+SUMMARY:Upper bracket quarterfinal 1: SE vs WC
+END:VEVENT
 END:VCALENDAR

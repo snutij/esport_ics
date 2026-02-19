@@ -49,4 +49,14 @@ DESCRIPTION:ESL Challenger League - South America Cup 1 season 51 2026 - Pl
 SUMMARY:Lower bracket round 2 match 1: IMP vs 4M
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T180000Z
+UID:pandascore-match-1367401@esport-ics
+DTSTART:20260226T180000Z
+DTEND:20260226T201500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: South American Closed Qualifier 2026 - Playoff
+ s
+SUMMARY:Upper bracket quarterfinal 2: IMP vs GLS
+END:VEVENT
 END:VCALENDAR

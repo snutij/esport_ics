@@ -67,4 +67,13 @@ DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
 SUMMARY:Round 3: TRI vs ST
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T090000Z
+UID:pandascore-match-1367396@esport-ics
+DTSTART:20260226T090000Z
+DTEND:20260226T111500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: 9INE vs TRI
+END:VEVENT
 END:VCALENDAR
