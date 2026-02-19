@@ -145,6 +145,17 @@ SUMMARY:Round 3: Omega vs WB
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260220T120000Z
+UID:pandascore-match-1364525@esport-ics
+DTSTART:20260220T120000Z
+DTEND:20260220T141500Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
+ .twitch.tv/jbproleague
+SUMMARY:Round 3: Omega vs FUZOS
+URL;VALUE=URI:https://www.twitch.tv/jbproleague
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260221T123000Z
 UID:pandascore-match-1364633@esport-ics
 DTSTART:20260221T123000Z

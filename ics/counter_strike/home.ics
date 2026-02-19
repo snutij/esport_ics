@@ -144,4 +144,15 @@ DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Play-In\nWatch: h
 SUMMARY:ENCE.A vs home
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T150000Z
+UID:pandascore-match-1364526@esport-ics
+DTSTART:20260220T150000Z
+DTEND:20260220T171500Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
+ .twitch.tv/jbproleague
+SUMMARY:Round 3: home vs ENCE.A
+URL;VALUE=URI:https://www.twitch.tv/jbproleague
+END:VEVENT
 END:VCALENDAR

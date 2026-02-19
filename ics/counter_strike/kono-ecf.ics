@@ -202,4 +202,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Group Stage\nWatch: http
 SUMMARY:Round 1: ASTRAL vs ECF
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T150000Z
+UID:pandascore-match-1364537@esport-ics
+DTSTART:20260221T150000Z
+DTEND:20260221T171500Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
+ .twitch.tv/jbproleague
+SUMMARY:Round 3: ARC vs ECF
+URL;VALUE=URI:https://www.twitch.tv/jbproleague
+END:VEVENT
 END:VCALENDAR
