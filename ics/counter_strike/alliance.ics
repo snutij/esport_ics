@@ -176,7 +176,16 @@ DTEND:20260220T161500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #15 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs
-SUMMARY:Semifinal 2: ALL vs TBD
+SUMMARY:Semifinal 2: ALL vs SIN
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T180000Z
+UID:pandascore-match-1359255@esport-ics
+DTSTART:20260220T180000Z
+DTEND:20260220T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 6 match 1: ex-RUBY vs ALL
 END:VEVENT
 END:VCALENDAR

@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Clash 2026 - Group Alpha\nWatch: https://www.youtube
  .com/watch?v=Z96e0dDwe8I
 SUMMARY:Upper bracket quarterfinal 2: FUT vs JL
-URL;VALUE=URI:https://www.youtube.com/watch?v=Z96e0dDwe8I
+URL:https://www.youtube.com/watch?v=Z96e0dDwe8I
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T203000Z
+UID:pandascore-match-1366000@esport-ics
+DTSTART:20260220T203000Z
+DTEND:20260220T224500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Clash 2026 - Group Alpha\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Upper bracket semifinal 2: KC vs FUT
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
