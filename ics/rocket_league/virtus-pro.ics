@@ -3,28 +3,28 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:FURIA Esports
-SLUG:furia-esports
+X-WR-CALNAME:Virtus.pro
+SLUG:virtus-pro
 BEGIN:VEVENT
 DTSTAMP:20260219T180000Z
-UID:pandascore-match-1359604@esport-ics
+UID:pandascore-match-1359603@esport-ics
 DTSTART:20260219T180000Z
 DTEND:20260219T214500Z
 CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Boston 2026 - Group B\nWatch: https://www.twitch.t
  v/rocketleague
-SUMMARY:GEE vs FURIA
+SUMMARY:FLCN vs VP
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260220T160000Z
-UID:pandascore-match-1359620@esport-ics
+UID:pandascore-match-1359621@esport-ics
 DTSTART:20260220T160000Z
 DTEND:20260220T194500Z
 CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Boston 2026 - Group B\nWatch: https://www.twitch.t
  v/rocketleague
-SUMMARY:FLCN vs FURIA
+SUMMARY:GEE vs VP
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 BEGIN:VEVENT

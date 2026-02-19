@@ -133,4 +133,15 @@ DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
 SUMMARY:Round 2: WW vs home
 URL;VALUE=URI:https://www.twitch.tv/jbproleague
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T090000Z
+UID:pandascore-match-1354052@esport-ics
+DTSTART:20260220T090000Z
+DTEND:20260220T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Play-In\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:ENCE.A vs home
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

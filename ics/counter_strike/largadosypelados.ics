@@ -92,4 +92,13 @@ DESCRIPTION:ESL Challenger League - South America Cup 1 season 51 2026 - Pl
 SUMMARY:Lower bracket round 2 match 4: BHE vs LDP
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T173000Z
+UID:pandascore-match-1368461@esport-ics
+DTSTART:20260220T173000Z
+DTEND:20260220T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - February 2026 - Group A
+SUMMARY:Winners match: LDP vs Bad Luck
+END:VEVENT
 END:VCALENDAR
