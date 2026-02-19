@@ -133,6 +133,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Group B\nWatch: https://ww
  w.twitch.tv/dred_
 SUMMARY:HOTU vs ALGO
-URL;VALUE=URI:https://www.twitch.tv/dred_
+URL:https://www.twitch.tv/dred_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T201500Z
+UID:pandascore-match-1360766@esport-ics
+DTSTART:20260219T201500Z
+DTEND:20260219T223000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/rmncs
+SUMMARY:Elimination match: ALGO vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rmncs
 END:VEVENT
 END:VCALENDAR
