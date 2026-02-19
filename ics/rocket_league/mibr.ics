@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Boston 2026 - Group D\nWatch: https://www.twitch.t
  v/rocketleague
 SUMMARY:mibr vs SR
-URL;VALUE=URI:https://www.twitch.tv/rocketleague
+URL:https://www.twitch.tv/rocketleague
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260219T210000Z
@@ -23,9 +23,9 @@ DTSTART:20260219T210000Z
 DTEND:20260220T004500Z
 CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Boston 2026 - Group D\nWatch: https://www.twitch.t
- v/rocketleague
+ v/rlesports
 SUMMARY:mibr vs TSM
-URL;VALUE=URI:https://www.twitch.tv/rocketleague
+URL;VALUE=URI:https://www.twitch.tv/rlesports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260220T180000Z
