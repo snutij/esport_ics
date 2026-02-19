@@ -105,6 +105,17 @@ SUMMARY:Lower bracket quarterfinal 1: A&F vs Y123
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260220T040000Z
+UID:pandascore-match-1367327@esport-ics
+DTSTART:20260220T040000Z
+DTEND:20260220T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Lower bracket semifinal: Y123 vs TBD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260222T060000Z
 UID:pandascore-match-1357445@esport-ics
 DTSTART:20260222T060000Z
