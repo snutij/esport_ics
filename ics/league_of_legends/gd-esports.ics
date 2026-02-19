@@ -28,14 +28,14 @@ SUMMARY:Upper bracket final: GDE vs TBD
 URL:https://www.twitch.tv/rtparenalol
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260219T230000Z
+DTSTAMP:20260219T233000Z
 UID:pandascore-match-1355390@esport-ics
-DTSTART:20260219T230000Z
-DTEND:20260219T234500Z
+DTSTART:20260219T233000Z
+DTEND:20260220T001500Z
 CLASS:PUBLIC
 DESCRIPTION:LPLOL - Winter 2026 - Group D\nWatch: https://www.twitch.tv/rtp
  arenalol
-SUMMARY:Lower bracket final: GDE vs TBD
+SUMMARY:Lower bracket final: GDE vs FCN
 URL;VALUE=URI:https://www.twitch.tv/rtparenalol
 END:VEVENT
 END:VCALENDAR
