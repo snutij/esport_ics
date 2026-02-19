@@ -78,4 +78,14 @@ DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
  ayoffs
 SUMMARY:Upper bracket quarterfinal 2: BOSS vs SR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T020000Z
+UID:pandascore-match-1364032@esport-ics
+DTSTART:20260221T020000Z
+DTEND:20260221T041500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
+ ayoffs
+SUMMARY:Upper bracket semifinal 1: SR vs TBD
+END:VEVENT
 END:VCALENDAR

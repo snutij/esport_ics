@@ -107,4 +107,13 @@ DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
  ayoffs
 SUMMARY:Upper bracket quarterfinal 1: M80 vs LAG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T010000Z
+UID:pandascore-match-1363264@esport-ics
+DTSTART:20260221T010000Z
+DTEND:20260221T031500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.us - Eagle Masters season 6 2026 - Playoffs
+SUMMARY:Semifinal 1: WC vs LAG
+END:VEVENT
 END:VCALENDAR
