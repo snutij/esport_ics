@@ -42,7 +42,9 @@ UID:pandascore-match-1359252@esport-ics
 DTSTART:20260219T180000Z
 DTEND:20260219T201500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
+ nWatch: https://www.twitch.tv/fyflo
 SUMMARY:Lower bracket round 5 match 4: SNG vs SPARTA
+URL;VALUE=URI:https://www.twitch.tv/fyflo
 END:VEVENT
 END:VCALENDAR

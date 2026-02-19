@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:LiuLi Cup - Grand Finals 2025 - Playoffs\nWatch: https://live.b
  ilibili.com/4670738
 SUMMARY:Grand final: Maru vs Serral
-URL;VALUE=URI:https://live.bilibili.com/4670738
+URL:https://live.bilibili.com/4670738
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T090000Z
+UID:pandascore-match-1368516@esport-ics
+DTSTART:20260227T090000Z
+DTEND:20260227T141500Z
+CLASS:PUBLIC
+DESCRIPTION:PiG Sty Festival - Season 7 2026 - Playoffs\nWatch: https://twi
+ tch.tv/x5_pig
+SUMMARY:Upper bracket quarterfinal 1: Maru vs TBD
+URL;VALUE=URI:https://twitch.tv/x5_pig
 END:VEVENT
 END:VCALENDAR

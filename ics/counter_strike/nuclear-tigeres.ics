@@ -126,7 +126,9 @@ UID:pandascore-match-1359250@esport-ics
 DTSTART:20260219T180000Z
 DTEND:20260219T201500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
+ nWatch: https://www.twitch.tv/anishared
 SUMMARY:Lower bracket round 5 match 2: ex-RUBY vs NTR
+URL;VALUE=URI:https://www.twitch.tv/anishared
 END:VEVENT
 END:VCALENDAR

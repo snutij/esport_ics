@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Group A\nWatch: https://ww
  w.twitch.tv/wardiii
 SUMMARY:NightMare vs Clem
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T090000Z
+UID:pandascore-match-1368506@esport-ics
+DTSTART:20260221T090000Z
+DTEND:20260221T111500Z
+CLASS:PUBLIC
+DESCRIPTION:PiG Sty Festival - Season 7 2026 - Group C\nWatch: https://twit
+ ch.tv/x5_pig
+SUMMARY:herO vs NightMare
+URL;VALUE=URI:https://twitch.tv/x5_pig
 END:VEVENT
 END:VCALENDAR

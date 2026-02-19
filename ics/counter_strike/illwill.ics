@@ -137,8 +137,10 @@ UID:pandascore-match-1359251@esport-ics
 DTSTART:20260219T180000Z
 DTEND:20260219T201500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
+ nWatch: https://kick.com/luffastream
 SUMMARY:Lower bracket round 5 match 3: ILWL vs ORM
+URL;VALUE=URI:https://kick.com/luffastream
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260222T140000Z

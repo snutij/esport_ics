@@ -49,4 +49,15 @@ DESCRIPTION:WardiTV - Championship Winter 2026 - Group B\nWatch: https://ww
 SUMMARY:Spirit vs ShoWTimE
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T094500Z
+UID:pandascore-match-1368512@esport-ics
+DTSTART:20260222T094500Z
+DTEND:20260222T120000Z
+CLASS:PUBLIC
+DESCRIPTION:PiG Sty Festival - Season 7 2026 - Group D\nWatch: https://twit
+ ch.tv/x5_pig
+SUMMARY:ByuN vs ShoWTimE
+URL;VALUE=URI:https://twitch.tv/x5_pig
+END:VEVENT
 END:VCALENDAR

@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:LiuLi Cup - Grand Finals 2025 - Group D\nWatch: https://live.bi
  libili.com/4670738
 SUMMARY:Elimination match: Zoun vs Classic
-URL;VALUE=URI:https://live.bilibili.com/4670738
+URL:https://live.bilibili.com/4670738
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T094500Z
+UID:pandascore-match-1368502@esport-ics
+DTSTART:20260220T094500Z
+DTEND:20260220T120000Z
+CLASS:PUBLIC
+DESCRIPTION:PiG Sty Festival - Season 7 2026 - Group B\nWatch: https://twit
+ ch.tv/x5_pig
+SUMMARY:Solar vs Zoun
+URL;VALUE=URI:https://twitch.tv/x5_pig
 END:VEVENT
 END:VCALENDAR
