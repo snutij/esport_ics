@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:TCL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
  gamesturkish
 SUMMARY:Upper bracket final: ME vs S2G
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T150000Z
+UID:pandascore-match-1351417@esport-ics
+DTSTART:20260306T150000Z
+DTEND:20260306T184500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
+ gamesturkish
+SUMMARY:Grand final: ME vs TBD
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 END:VCALENDAR
