@@ -25,4 +25,14 @@ DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
  ayoffs
 SUMMARY:Upper bracket quarterfinal 3: VOCA vs Mythic
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T020000Z
+UID:pandascore-match-1364041@esport-ics
+DTSTART:20260220T020000Z
+DTEND:20260220T041500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
+ ayoffs
+SUMMARY:Lower bracket round 2 match 2: O49 vs Mythic
+END:VEVENT
 END:VCALENDAR
