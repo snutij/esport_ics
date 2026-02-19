@@ -23,6 +23,16 @@ DTEND:20260219T114500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - Cup 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
 SUMMARY:Lower bracket round 1: DNS vs DRX
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T080000Z
+UID:pandascore-match-1309431@esport-ics
+DTSTART:20260220T080000Z
+DTEND:20260220T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - Cup 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
+SUMMARY:Lower bracket quarterfinal: DNS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 END:VCALENDAR
