@@ -3,19 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Rare Atom
-SLUG:rare-atom
-BEGIN:VEVENT
-DTSTAMP:20260207T115344Z
-UID:pandascore-match-1349939@esport-ics
-DTSTART:20260207T123000Z
-DTEND:20260207T144500Z
-CLASS:PUBLIC
-DESCRIPTION:Yuqilin - Pinnacle of Battle season 2 2026 - Playoffs\nWatch: h
- ttps://www.twitch.tv/vanfantv
-SUMMARY:Semifinal 2: RA vs TYLOO
-URL:https://www.twitch.tv/vanfantv
-END:VEVENT
+X-WR-CALNAME:The Huns Esports
+SLUG:the-huns-esports
 BEGIN:VEVENT
 DTSTAMP:20260226T020000Z
 UID:pandascore-match-1367428@esport-ics

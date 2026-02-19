@@ -162,6 +162,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Play-In\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:OXUJI vs MSQ
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T180000Z
+UID:pandascore-match-1367435@esport-ics
+DTSTART:20260220T180000Z
+DTEND:20260220T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/exort_en
+SUMMARY:Round 1: OXUJI vs G2.A
+URL;VALUE=URI:https://kick.com/exort_en
 END:VEVENT
 END:VCALENDAR

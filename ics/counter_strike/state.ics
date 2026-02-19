@@ -50,4 +50,26 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
 SUMMARY:BW vs STA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T150000Z
+UID:pandascore-match-1367438@esport-ics
+DTSTART:20260221T150000Z
+DTEND:20260221T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/exort_en
+SUMMARY:Round 1: STA vs EC BANGA
+URL;VALUE=URI:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T113000Z
+UID:pandascore-match-1365950@esport-ics
+DTSTART:20260222T113000Z
+DTEND:20260222T134500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 45 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Elimination match: STA vs aAa
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR

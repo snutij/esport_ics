@@ -140,4 +140,15 @@ DESCRIPTION:European Pro League - Series 5 Play-In 2026 - Play-In\nWatch: h
 SUMMARY:QWE vs HS
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T120000Z
+UID:pandascore-match-1367433@esport-ics
+DTSTART:20260220T120000Z
+DTEND:20260220T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/exort_en
+SUMMARY:Round 1: QWE vs ex-FUT Academy
+URL;VALUE=URI:https://kick.com/exort_en
+END:VEVENT
 END:VCALENDAR
