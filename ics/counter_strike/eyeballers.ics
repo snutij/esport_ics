@@ -36,6 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Group A\nWatch: https://ww
  w.twitch.tv/rmncs
 SUMMARY:EYE vs BCA
-URL;VALUE=URI:https://www.twitch.tv/rmncs
+URL:https://www.twitch.tv/rmncs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T120000Z
+UID:pandascore-match-1367397@esport-ics
+DTSTART:20260226T120000Z
+DTEND:20260226T141500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 2: EYE vs MOUZ.N
 END:VEVENT
 END:VCALENDAR
