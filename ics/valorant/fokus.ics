@@ -39,6 +39,17 @@ SUMMARY:Upper bracket quarterfinal 1: FKS vs UCAM
 URL:https://www.twitch.tv/lvpes2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260220T203000Z
+UID:pandascore-match-1365999@esport-ics
+DTSTART:20260220T203000Z
+DTEND:20260220T224500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Clash 2026 - Group Alpha\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Upper bracket semifinal 1: VIT vs FKS
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260228T180000Z
 UID:pandascore-match-1344500@esport-ics
 DTSTART:20260228T180000Z

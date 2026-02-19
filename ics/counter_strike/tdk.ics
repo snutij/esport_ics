@@ -157,4 +157,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 1: G1 vs TDK
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T120000Z
+UID:pandascore-match-1356205@esport-ics
+DTSTART:20260221T120000Z
+DTEND:20260221T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 1: MOUZ.N vs TDK
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

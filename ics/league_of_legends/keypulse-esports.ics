@@ -17,14 +17,14 @@ SUMMARY:Upper bracket semifinal 1: KYP vs GDE
 URL:https://www.twitch.tv/rtparenalol
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260219T220000Z
+DTSTAMP:20260219T223000Z
 UID:pandascore-match-1355389@esport-ics
-DTSTART:20260219T220000Z
-DTEND:20260219T224500Z
+DTSTART:20260219T223000Z
+DTEND:20260219T231500Z
 CLASS:PUBLIC
 DESCRIPTION:LPLOL - Winter 2026 - Group D\nWatch: https://www.twitch.tv/rtp
  arenalol
-SUMMARY:Lower bracket semifinal: KYP vs TBD
+SUMMARY:Lower bracket semifinal: KYP vs FCN
 URL;VALUE=URI:https://www.twitch.tv/rtparenalol
 END:VEVENT
 END:VCALENDAR
