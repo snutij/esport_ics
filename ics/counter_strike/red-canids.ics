@@ -83,6 +83,17 @@ SUMMARY:Upper bracket quarterfinal 2: RED vs ODK
 URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260219T220000Z
+UID:pandascore-match-1363944@esport-ics
+DTSTART:20260219T220000Z
+DTEND:20260220T001500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup 1 season 51 2026 - Pl
+ ayoffs\nWatch: https://www.twitch.tv/ESLCS
+SUMMARY:Lower bracket round 2 match 3: FA vs RED
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260225T190000Z
 UID:pandascore-match-1360788@esport-ics
 DTSTART:20260225T190000Z
