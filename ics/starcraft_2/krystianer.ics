@@ -17,17 +17,6 @@ SUMMARY:Krystianer vs ShoWTimE
 URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260219T132000Z
-UID:pandascore-match-1366151@esport-ics
-DTSTART:20260219T132000Z
-DTEND:20260219T153500Z
-CLASS:PUBLIC
-DESCRIPTION:WardiTV - Championship Winter 2026 - Group B\nWatch: https://ww
- w.twitch.tv/wardiii
-SUMMARY:Krystianer vs Spirit
-URL;VALUE=URI:https://www.twitch.tv/wardiii
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260219T140000Z
 UID:pandascore-match-1366153@esport-ics
 DTSTART:20260219T140000Z
@@ -39,6 +28,17 @@ SUMMARY:Krystianer vs Creator
 URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260219T143000Z
+UID:pandascore-match-1366151@esport-ics
+DTSTART:20260219T143000Z
+DTEND:20260219T164500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Krystianer vs Spirit
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260219T144000Z
 UID:pandascore-match-1366155@esport-ics
 DTSTART:20260219T144000Z
@@ -47,6 +47,6 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Group B\nWatch: https://ww
  w.twitch.tv/wardiii
 SUMMARY:Krystianer vs youngYakov
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

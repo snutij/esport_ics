@@ -68,4 +68,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - NORTH//EAST Stage 1 2026 - Group B
 SUMMARY:TL.A vs CTRL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T163000Z
+UID:pandascore-match-1368340@esport-ics
+DTSTART:20260301T163000Z
+DTEND:20260301T184500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - NORTH//EAST Stage 1 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/valorantleague_ne
+SUMMARY:Upper bracket quarterfinal 4: TL.A vs EVO
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_ne
+END:VEVENT
 END:VCALENDAR

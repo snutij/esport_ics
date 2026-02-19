@@ -69,7 +69,7 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group B\nWatch: https://
  www.twitch.tv/esl_dota2
 SUMMARY:Tundra vs XctN
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260219T183000Z
@@ -78,9 +78,9 @@ DTSTART:20260219T183000Z
 DTEND:20260219T200000Z
 CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group B\nWatch: https://
- www.twitch.tv/esl_dota2
+ www.twitch.tv/esl_dota2ember
 SUMMARY:Tundra vs Na`Vi
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2ember
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260220T133000Z

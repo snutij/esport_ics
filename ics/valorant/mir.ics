@@ -68,4 +68,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - NORTH//EAST Stage 1 2026 - Group B
 SUMMARY:LEO vs MIR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T140000Z
+UID:pandascore-match-1368303@esport-ics
+DTSTART:20260301T140000Z
+DTEND:20260301T161500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - NORTH//EAST Stage 1 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/valorantleague_ne
+SUMMARY:Upper bracket quarterfinal 2: MIR vs VR2
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_ne
+END:VEVENT
 END:VCALENDAR
