@@ -28,14 +28,14 @@ SUMMARY:Elimination match: Percival vs TBD
 URL:https://www.twitch.tv/x5_pig
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260220T123500Z
+DTSTAMP:20260220T125500Z
 UID:pandascore-match-1368505@esport-ics
-DTSTART:20260220T123500Z
-DTEND:20260220T162000Z
+DTSTART:20260220T125500Z
+DTEND:20260220T164000Z
 CLASS:PUBLIC
 DESCRIPTION:PiG Sty Festival - Season 7 2026 - Group B\nWatch: https://www.
  twitch.tv/x5_pig
-SUMMARY:Decider match: Percival vs TBD
+SUMMARY:Decider match: Percival vs Solar
 URL;VALUE=URI:https://www.twitch.tv/x5_pig
 END:VEVENT
 END:VCALENDAR
