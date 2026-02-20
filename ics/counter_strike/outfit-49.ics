@@ -101,8 +101,9 @@ DTSTART:20260221T020000Z
 DTEND:20260221T041500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
- ayoffs
-SUMMARY:Lower bracket round 3 match 1: O49 vs FLY.R
+ ayoffs\nWatch: https://www.twitch.tv/bonamant
+SUMMARY:Lower bracket round 3 match 1: FLY.R vs O49
+URL;VALUE=URI:https://www.twitch.tv/bonamant
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260222T010000Z
