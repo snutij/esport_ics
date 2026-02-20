@@ -94,6 +94,17 @@ SUMMARY:Lower bracket round 2 match 3: FA vs RED
 URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260220T220000Z
+UID:pandascore-match-1363947@esport-ics
+DTSTART:20260220T220000Z
+DTEND:20260221T001500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup 1 season 51 2026 - Pl
+ ayoffs\nWatch: https://www.twitch.tv/ESLCS
+SUMMARY:Lower bracket round 3 match 2: LDP vs RED
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260225T190000Z
 UID:pandascore-match-1360788@esport-ics
 DTSTART:20260225T190000Z
