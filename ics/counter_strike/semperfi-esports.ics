@@ -34,4 +34,15 @@ CLASS:PUBLIC
 DESCRIPTION:De_Airport Masters - 2026 - Group C
 SUMMARY:SFE vs TICKET TO NORWAY
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T190000Z
+UID:pandascore-match-1367364@esport-ics
+DTSTART:20260220T190000Z
+DTEND:20260220T211500Z
+CLASS:PUBLIC
+DESCRIPTION:De_Airport Masters - 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/landingzone_
+SUMMARY:Round 1 match 3: PHA vs SFE
+URL;VALUE=URI:https://www.twitch.tv/landingzone_
+END:VEVENT
 END:VCALENDAR

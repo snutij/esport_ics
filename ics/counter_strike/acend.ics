@@ -114,6 +114,17 @@ DESCRIPTION:De_Airport Masters - 2026 - Group B
 SUMMARY:ACE vs GV
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260220T190000Z
+UID:pandascore-match-1367365@esport-ics
+DTSTART:20260220T190000Z
+DTEND:20260220T211500Z
+CLASS:PUBLIC
+DESCRIPTION:De_Airport Masters - 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/landingzone_
+SUMMARY:Round 1 match 4: ACE vs INF
+URL;VALUE=URI:https://www.twitch.tv/landingzone_
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260228T140000Z
 UID:pandascore-match-1313597@esport-ics
 DTSTART:20260228T140000Z

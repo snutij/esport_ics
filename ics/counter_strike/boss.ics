@@ -121,6 +121,17 @@ DESCRIPTION:De_Airport Masters - 2026 - Group D
 SUMMARY:BOSS vs RT
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260220T190000Z
+UID:pandascore-match-1367362@esport-ics
+DTSTART:20260220T190000Z
+DTEND:20260220T211500Z
+CLASS:PUBLIC
+DESCRIPTION:De_Airport Masters - 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/landingzone_
+SUMMARY:Round 1 match 1: AAB vs BOSS
+URL;VALUE=URI:https://www.twitch.tv/landingzone_
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260222T120000Z
 UID:pandascore-match-1366180@esport-ics
 DTSTART:20260222T120000Z
