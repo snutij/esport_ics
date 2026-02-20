@@ -173,6 +173,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/exort_en
 SUMMARY:Round 1: OXUJI vs G2.A
-URL;VALUE=URI:https://kick.com/exort_en
+URL:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T113000Z
+UID:pandascore-match-1355832@esport-ics
+DTSTART:20260221T113000Z
+DTEND:20260221T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 2026 - Group A\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:ex-Zero Tenacity vs OXUJI
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
