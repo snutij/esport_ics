@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:PiG Sty Festival - Season 7 2026 - Group B\nWatch: https://www.
  twitch.tv/x5_pig
 SUMMARY:Clem vs Percival
+URL:https://www.twitch.tv/x5_pig
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T111500Z
+UID:pandascore-match-1368504@esport-ics
+DTSTART:20260220T111500Z
+DTEND:20260220T150000Z
+CLASS:PUBLIC
+DESCRIPTION:PiG Sty Festival - Season 7 2026 - Group B\nWatch: https://www.
+ twitch.tv/x5_pig
+SUMMARY:Winners match: Clem vs TBD
 URL;VALUE=URI:https://www.twitch.tv/x5_pig
 END:VEVENT
 END:VCALENDAR
