@@ -61,6 +61,17 @@ SUMMARY:Round 4: G2.A vs CYBERSHOKE Prospects
 URL:https://kick.com/exort_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260220T133000Z
+UID:pandascore-match-1368637@esport-ics
+DTSTART:20260220T133000Z
+DTEND:20260220T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 22 2026 - Playoffs\nWatch: https://www.ki
+ ck.com/exort_en2
+SUMMARY:Round 1 match 1: G2.A vs LPH
+URL;VALUE=URI:https://www.kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260220T180000Z
 UID:pandascore-match-1367435@esport-ics
 DTSTART:20260220T180000Z

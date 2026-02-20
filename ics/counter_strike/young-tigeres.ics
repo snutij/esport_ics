@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 22 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 3: LPH vs Y.TigeRES
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T163000Z
+UID:pandascore-match-1368638@esport-ics
+DTSTART:20260220T163000Z
+DTEND:20260220T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 22 2026 - Playoffs\nWatch: https://www.ki
+ ck.com/exort_en2
+SUMMARY:Round 1 match 2: Y.TigeRES vs PSY
+URL;VALUE=URI:https://www.kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
