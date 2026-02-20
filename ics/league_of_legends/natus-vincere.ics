@@ -45,6 +45,16 @@ DTEND:20260220T180000Z
 CLASS:PUBLIC
 DESCRIPTION:LEC - Versus 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
 SUMMARY:Upper bracket semifinal 2: Navi vs MKOI
+URL:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T154500Z
+UID:pandascore-match-1350536@esport-ics
+DTSTART:20260222T154500Z
+DTEND:20260222T180000Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Versus 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
+SUMMARY:Lower bracket quarterfinal 1: Navi vs TBD
 URL;VALUE=URI:https://www.twitch.tv/lec
 END:VEVENT
 END:VCALENDAR

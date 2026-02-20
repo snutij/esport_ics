@@ -91,6 +91,83 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
  www.twitch.tv/esl_dota2
 SUMMARY:PARI vs YB
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T163000Z
+UID:pandascore-match-1358096@esport-ics
+DTSTART:20260221T163000Z
+DTEND:20260221T184500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:AUR vs PARI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T133000Z
+UID:pandascore-match-1358099@esport-ics
+DTSTART:20260222T133000Z
+DTEND:20260222T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:Tundra vs PARI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T133000Z
+UID:pandascore-match-1358103@esport-ics
+DTSTART:20260223T133000Z
+DTEND:20260223T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:PARI vs Xtreme
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T133000Z
+UID:pandascore-match-1358107@esport-ics
+DTSTART:20260224T133000Z
+DTEND:20260224T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:TBD vs PARI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T133000Z
+UID:pandascore-match-1358111@esport-ics
+DTSTART:20260225T133000Z
+DTEND:20260225T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:Liquid vs PARI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T193000Z
+UID:pandascore-match-1358117@esport-ics
+DTSTART:20260226T193000Z
+DTEND:20260226T214500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:PARI vs FLC
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T193000Z
+UID:pandascore-match-1358121@esport-ics
+DTSTART:20260227T193000Z
+DTEND:20260227T214500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:PARI vs MOUZ
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

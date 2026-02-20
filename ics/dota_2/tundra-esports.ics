@@ -91,6 +91,83 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group B\nWatch: https://
  www.twitch.tv/esl_dota2
 SUMMARY:Tundra vs FLC
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T133000Z
+UID:pandascore-match-1358095@esport-ics
+DTSTART:20260221T133000Z
+DTEND:20260221T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:MOUZ vs Tundra
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T133000Z
+UID:pandascore-match-1358099@esport-ics
+DTSTART:20260222T133000Z
+DTEND:20260222T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:Tundra vs PARI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T163000Z
+UID:pandascore-match-1358104@esport-ics
+DTSTART:20260223T163000Z
+DTEND:20260223T184500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:AUR vs Tundra
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T103000Z
+UID:pandascore-match-1358106@esport-ics
+DTSTART:20260224T103000Z
+DTEND:20260224T124500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:Xtreme vs Tundra
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T163000Z
+UID:pandascore-match-1358112@esport-ics
+DTSTART:20260225T163000Z
+DTEND:20260225T184500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:FLC vs Tundra
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T103000Z
+UID:pandascore-match-1358114@esport-ics
+DTSTART:20260226T103000Z
+DTEND:20260226T124500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:Tundra vs TBD
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T103000Z
+UID:pandascore-match-1358118@esport-ics
+DTSTART:20260227T103000Z
+DTEND:20260227T124500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:Tundra vs Liquid
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR
