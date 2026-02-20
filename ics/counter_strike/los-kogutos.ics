@@ -225,4 +225,15 @@ DESCRIPTION:European Pro League - Series 5 2026 - Group B\nWatch: https://k
 SUMMARY:LK vs FUZOS
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T180000Z
+UID:pandascore-match-1351303@esport-ics
+DTSTART:20260222T180000Z
+DTEND:20260222T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 4: LK vs WB
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

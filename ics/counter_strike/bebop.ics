@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs2
 SUMMARY:Round 3: ARC vs BBP
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T150000Z
+UID:pandascore-match-1351299@esport-ics
+DTSTART:20260221T150000Z
+DTEND:20260221T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 4: FORZE.R vs BBP
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
