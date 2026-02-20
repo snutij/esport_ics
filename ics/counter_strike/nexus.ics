@@ -90,6 +90,17 @@ SUMMARY:Lower bracket round 2 match 4: ex-RUBY vs NXS
 URL:https://www.twitch.tv/fyflo
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260222T113000Z
+UID:pandascore-match-1355873@esport-ics
+DTSTART:20260222T113000Z
+DTEND:20260222T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 2026 - Group B\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:NXS vs ECF
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260224T100000Z
 UID:pandascore-match-1363268@esport-ics
 DTSTART:20260224T100000Z

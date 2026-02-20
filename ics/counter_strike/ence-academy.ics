@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
  .twitch.tv/jbproleague
 SUMMARY:Round 3: home vs ENCE.A
-URL;VALUE=URI:https://www.twitch.tv/jbproleague
+URL:https://www.twitch.tv/jbproleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T090000Z
+UID:pandascore-match-1355895@esport-ics
+DTSTART:20260223T090000Z
+DTEND:20260223T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 2026 - Group C\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:ENCE.A vs UNiTY
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

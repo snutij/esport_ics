@@ -125,6 +125,28 @@ SUMMARY:Round 1 match 4: ACE vs INF
 URL:https://www.twitch.tv/landingzone_
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260221T090000Z
+UID:pandascore-match-1367369@esport-ics
+DTSTART:20260221T090000Z
+DTEND:20260221T111500Z
+CLASS:PUBLIC
+DESCRIPTION:De_Airport Masters - 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/landingzone_
+SUMMARY:Quarterfinal 4: ACE vs RT
+URL;VALUE=URI:https://www.twitch.tv/landingzone_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T113000Z
+UID:pandascore-match-1355919@esport-ics
+DTSTART:20260224T113000Z
+DTEND:20260224T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 2026 - Group D\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:ACE vs Omega
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260228T140000Z
 UID:pandascore-match-1313597@esport-ics
 DTSTART:20260228T140000Z
