@@ -16,4 +16,15 @@ DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Group B\nWatch: https:/
 SUMMARY:Elimination match: JFT vs LE-LUX
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T103000Z
+UID:pandascore-match-1364237@esport-ics
+DTSTART:20260221T103000Z
+DTEND:20260221T124500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Group B\nWatch: https:/
+ /kick.com/cct_cs4
+SUMMARY:Decider match: Skele vs LE-LUX
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
 END:VCALENDAR
