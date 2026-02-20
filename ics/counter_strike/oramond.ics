@@ -72,6 +72,17 @@ SUMMARY:FNC vs ORM
 URL:https://www.twitch.tv/rmncs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260220T113000Z
+UID:pandascore-match-1360771@esport-ics
+DTSTART:20260220T113000Z
+DTEND:20260220T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/rmncs
+SUMMARY:Elimination match: SAW vs ORM
+URL;VALUE=URI:https://www.twitch.tv/rmncs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260225T140000Z
 UID:pandascore-match-1363292@esport-ics
 DTSTART:20260225T140000Z

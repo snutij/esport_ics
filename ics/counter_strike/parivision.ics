@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Cluj-Napoca 2026 - Playoffs\nWatch: https://www.twitch.tv
  /PGL
 SUMMARY:Quarterfinal 1: FAL vs PRV
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T150000Z
+UID:pandascore-match-1349997@esport-ics
+DTSTART:20260221T150000Z
+DTEND:20260221T171500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Cluj-Napoca 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /PGL
+SUMMARY:Semifinal 1: PRV vs TBD
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR
