@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Rift Legends - Winter 2026 - Group Stage\nWatch: https://www.tw
  itch.tv/nervarien
 SUMMARY:Round 3: FSK vs BOMBA Team
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T160000Z
+UID:pandascore-match-1365975@esport-ics
+DTSTART:20260226T160000Z
+DTEND:20260226T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Winter 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/nervarien
+SUMMARY:Upper bracket final: BOMBA Team vs FSK
 URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR

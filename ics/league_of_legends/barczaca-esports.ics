@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Rift Legends - Winter 2026 - Champions Group\nWatch: https://ww
  w.twitch.tv/nervarien
 SUMMARY:BCE vs FSK
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T160000Z
+UID:pandascore-match-1365973@esport-ics
+DTSTART:20260224T160000Z
+DTEND:20260224T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Winter 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/nervarien
+SUMMARY:Lower bracket quarterfinal 1: BCE vs DOC
 URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR
