@@ -33,8 +33,10 @@ UID:pandascore-match-1360779@esport-ics
 DTSTART:20260221T140000Z
 DTEND:20260221T161500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Playoffs
+DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/rmncs
 SUMMARY:Quarterfinal 2: BB vs 100T
+URL;VALUE=URI:https://www.twitch.tv/rmncs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260224T100000Z

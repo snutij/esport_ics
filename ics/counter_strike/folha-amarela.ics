@@ -126,8 +126,10 @@ UID:pandascore-match-1369788@esport-ics
 DTSTART:20260221T190000Z
 DTEND:20260221T211500Z
 CLASS:PUBLIC
-DESCRIPTION:CCT South America - Series #9 season 3 2026 - Group Stage
+DESCRIPTION:CCT South America - Series #9 season 3 2026 - Group Stage\nWatc
+ h: https://kick.com/cct_cs3
 SUMMARY:Round 1: FA vs Damajuana
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260227T000000Z
