@@ -186,7 +186,7 @@ CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Group B\nWatch: https://www.twitch.t
  v/meta_esports_kz
 SUMMARY:Omega vs GGC
-URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+URL:https://www.twitch.tv/meta_esports_kz
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260221T160000Z
@@ -195,9 +195,9 @@ DTSTART:20260221T160000Z
 DTEND:20260221T164500Z
 CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Group B\nWatch: https://www.twitch.t
- v/meta_esports_kz
+ v/meta_esports_kz2
 SUMMARY:NEM vs Omega
-URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260221T173000Z

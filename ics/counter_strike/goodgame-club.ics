@@ -14,18 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Group B\nWatch: https://www.twitch.t
  v/meta_esports_kz
 SUMMARY:Omega vs GGC
-URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260221T160000Z
-UID:pandascore-match-1364636@esport-ics
-DTSTART:20260221T160000Z
-DTEND:20260221T164500Z
-CLASS:PUBLIC
-DESCRIPTION:META Cup - Season 4 2026 - Group B\nWatch: https://www.twitch.t
- v/meta_esports_kz
-SUMMARY:GGC vs MG
-URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+URL:https://www.twitch.tv/meta_esports_kz
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260221T170000Z
@@ -48,5 +37,16 @@ DESCRIPTION:META Cup - Season 4 2026 - Group B\nWatch: https://www.twitch.t
  v/meta_esports_kz
 SUMMARY:NEM vs GGC
 URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T183000Z
+UID:pandascore-match-1364636@esport-ics
+DTSTART:20260221T183000Z
+DTEND:20260221T191500Z
+CLASS:PUBLIC
+DESCRIPTION:META Cup - Season 4 2026 - Group B\nWatch: https://www.twitch.t
+ v/meta_esports_kz2
+SUMMARY:GGC vs MG
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz2
 END:VEVENT
 END:VCALENDAR
