@@ -106,17 +106,6 @@ URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260222T130000Z
-UID:pandascore-match-1366194@esport-ics
-DTSTART:20260222T130000Z
-DTEND:20260222T134500Z
-CLASS:PUBLIC
-DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
- : https://kick.com/challengerchampionship
-SUMMARY:GL vs SIN
-URL;VALUE=URI:https://kick.com/challengerchampionship
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260222T130000Z
 UID:pandascore-match-1366181@esport-ics
 DTSTART:20260222T130000Z
 DTEND:20260222T134500Z
@@ -124,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
  : https://kick.com/challengerchampionship
 SUMMARY:Avanti Esport vs SIN
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T140000Z
+UID:pandascore-match-1366194@esport-ics
+DTSTART:20260222T140000Z
+DTEND:20260222T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:GL vs SIN
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT

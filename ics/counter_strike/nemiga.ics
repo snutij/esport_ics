@@ -37,10 +37,10 @@ SUMMARY:NEMI vs DEPO
 URL:https://www.twitch.tv/meta_esports_kz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260221T070000Z
+DTSTAMP:20260221T073500Z
 UID:pandascore-match-1364622@esport-ics
-DTSTART:20260221T070000Z
-DTEND:20260221T074500Z
+DTSTART:20260221T073500Z
+DTEND:20260221T082000Z
 CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
  v/meta_esports_kz
@@ -54,9 +54,9 @@ DTSTART:20260221T080000Z
 DTEND:20260221T084500Z
 CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
- v/meta_esports_kz
+ v/meta_esports_kz2
 SUMMARY:NEMI vs TC
-URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260221T093000Z
