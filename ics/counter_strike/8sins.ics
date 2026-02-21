@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 44 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Lower bracket round 1 match 1: 8S vs MISA
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T171000Z
+UID:pandascore-match-1369837@esport-ics
+DTSTART:20260221T171000Z
+DTEND:20260221T192500Z
+CLASS:PUBLIC
+DESCRIPTION:EPIC.LAN - Season 47 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: British Aussie Gang vs 8S
 END:VEVENT
 END:VCALENDAR
