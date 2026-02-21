@@ -69,6 +69,15 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/rmncs
 SUMMARY:Quarterfinal 1: M8 vs PSSN.UA
-URL;VALUE=URI:https://www.twitch.tv/rmncs
+URL:https://www.twitch.tv/rmncs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T110000Z
+UID:pandascore-match-1360783@esport-ics
+DTSTART:20260222T110000Z
+DTEND:20260222T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Playoffs
+SUMMARY:Semifinal 1: M8 vs TBD
 END:VEVENT
 END:VCALENDAR

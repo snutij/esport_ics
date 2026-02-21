@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 45 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:NAVI.J vs KSM
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T090000Z
+UID:pandascore-match-1365954@esport-ics
+DTSTART:20260225T090000Z
+DTEND:20260225T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 45 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Winners match: NAVI.J vs SNG
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

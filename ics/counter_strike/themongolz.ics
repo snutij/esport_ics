@@ -71,4 +71,15 @@ DESCRIPTION:PGL - Cluj-Napoca 2026 - Playoffs\nWatch: https://www.twitch.tv
 SUMMARY:Semifinal 2: VIT vs MGLZ
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T160000Z
+UID:pandascore-match-1371048@esport-ics
+DTSTART:20260319T160000Z
+DTEND:20260319T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/BLASTPremier
+SUMMARY:Upper bracket quarterfinal 3: MOUZ vs MGLZ
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+END:VEVENT
 END:VCALENDAR

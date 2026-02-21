@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Cluj-Napoca 2026 - Playoffs\nWatch: https://www.twitch.tv
  /PGL
 SUMMARY:Quarterfinal 4: FURIA vs MGLZ
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T183000Z
+UID:pandascore-match-1371045@esport-ics
+DTSTART:20260318T183000Z
+DTEND:20260318T204500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/BLASTPremier
+SUMMARY:Upper bracket quarterfinal 4: FURIA vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

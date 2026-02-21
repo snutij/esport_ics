@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.twitch
  .tv/pgl_cs2
 SUMMARY:Round 4: B8 vs AUR
-URL;VALUE=URI:https://www.twitch.tv/pgl_cs2
+URL:https://www.twitch.tv/pgl_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T133000Z
+UID:pandascore-match-1371043@esport-ics
+DTSTART:20260318T133000Z
+DTEND:20260318T154500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/BLASTPremier
+SUMMARY:Upper bracket quarterfinal 2: NAVI vs B8
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR
