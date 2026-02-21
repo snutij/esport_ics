@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VARREL YOUTH
+SLUG:varrel-youth
+BEGIN:VEVENT
+DTSTAMP:20260221T110000Z
+UID:pandascore-match-1369917@esport-ics
+DTSTART:20260221T110000Z
+DTEND:20260221T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Stage 1 Winter 2026 - Group B\nWatch: https://www.twitch.
+ tv/leagueoflegendsjp
+SUMMARY:VY vs New Meta
+URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T080000Z
+UID:pandascore-match-1369920@esport-ics
+DTSTART:20260222T080000Z
+DTEND:20260222T084500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Stage 1 Winter 2026 - Group B\nWatch: https://www.twitch.
+ tv/leagueoflegendsjp
+SUMMARY:VY vs L Guide Gaming
+URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T090000Z
+UID:pandascore-match-1369927@esport-ics
+DTSTART:20260223T090000Z
+DTEND:20260223T094500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Stage 1 Winter 2026 - Group B\nWatch: https://www.twitch.
+ tv/leagueoflegendsjp
+SUMMARY:VY vs Fast8
+URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T080000Z
+UID:pandascore-match-1369932@esport-ics
+DTSTART:20260302T080000Z
+DTEND:20260302T084500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Stage 1 Winter 2026 - Group B\nWatch: https://www.twitch.
+ tv/leagueoflegendsjp
+SUMMARY:DFM.A vs VY
+URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T110000Z
+UID:pandascore-match-1369942@esport-ics
+DTSTART:20260303T110000Z
+DTEND:20260303T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Stage 1 Winter 2026 - Group B\nWatch: https://www.twitch.
+ tv/leagueoflegendsjp
+SUMMARY:VY vs Inferno Drive Tokyo
+URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+END:VCALENDAR

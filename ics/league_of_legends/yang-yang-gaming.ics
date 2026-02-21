@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Yang Yang Gaming
+SLUG:yang-yang-gaming
+BEGIN:VEVENT
+DTSTAMP:20260221T130000Z
+UID:pandascore-match-1369919@esport-ics
+DTSTART:20260221T130000Z
+DTEND:20260221T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Stage 1 Winter 2026 - Group A\nWatch: https://www.twitch.
+ tv/leagueoflegendsjp
+SUMMARY:YYG vs FNL
+URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T090000Z
+UID:pandascore-match-1369921@esport-ics
+DTSTART:20260222T090000Z
+DTEND:20260222T094500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Stage 1 Winter 2026 - Group A\nWatch: https://www.twitch.
+ tv/leagueoflegendsjp
+SUMMARY:YYG vs Uwinks
+URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T080000Z
+UID:pandascore-match-1369926@esport-ics
+DTSTART:20260223T080000Z
+DTEND:20260223T084500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Stage 1 Winter 2026 - Group A\nWatch: https://www.twitch.
+ tv/leagueoflegendsjp
+SUMMARY:YYG vs RG
+URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T130000Z
+UID:pandascore-match-1369937@esport-ics
+DTSTART:20260302T130000Z
+DTEND:20260302T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Stage 1 Winter 2026 - Group A\nWatch: https://www.twitch.
+ tv/leagueoflegendsjp
+SUMMARY:YYG vs Clocks
+URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T080000Z
+UID:pandascore-match-1369938@esport-ics
+DTSTART:20260303T080000Z
+DTEND:20260303T084500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Stage 1 Winter 2026 - Group A\nWatch: https://www.twitch.
+ tv/leagueoflegendsjp
+SUMMARY:YYG vs NOVEX
+URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+END:VCALENDAR

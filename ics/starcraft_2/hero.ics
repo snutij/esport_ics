@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:PiG Sty Festival - Season 7 2026 - Group C\nWatch: https://twit
  ch.tv/x5_pig
 SUMMARY:herO vs NightMare
-URL;VALUE=URI:https://twitch.tv/x5_pig
+URL:https://twitch.tv/x5_pig
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T111500Z
+UID:pandascore-match-1368509@esport-ics
+DTSTART:20260221T111500Z
+DTEND:20260221T150000Z
+CLASS:PUBLIC
+DESCRIPTION:PiG Sty Festival - Season 7 2026 - Group C\nWatch: https://www.
+ twitch.tv/x5_pig
+SUMMARY:Winners match: herO vs TBD
+URL;VALUE=URI:https://www.twitch.tv/x5_pig
 END:VEVENT
 END:VCALENDAR
