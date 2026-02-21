@@ -62,7 +62,8 @@ DTSTART:20260222T140000Z
 DTEND:20260222T161500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup 1 season 51 2026 - Pla
- yoffs
+ yoffs\nWatch: https://www.twitch.tv/eslcs
 SUMMARY:Lower bracket semifinal: QUBE vs CTG
+URL;VALUE=URI:https://www.twitch.tv/eslcs
 END:VEVENT
 END:VCALENDAR
