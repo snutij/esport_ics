@@ -133,7 +133,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs2
 SUMMARY:Round 4: FORZE.R vs BBP
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260225T113000Z
@@ -143,7 +143,7 @@ DTEND:20260225T134500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 5 2026 - Group A\nWatch: https://k
  ick.com/eplcs_en
-SUMMARY:Winners match: FORZE.R vs TBD
+SUMMARY:Winners match: FORZE.R vs OXUJI
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
