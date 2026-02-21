@@ -71,4 +71,15 @@ DESCRIPTION:United21 - Season 45 2026 - Group D\nWatch: https://kick.com/un
 SUMMARY:RT vs SNG
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T163000Z
+UID:pandascore-match-1369882@esport-ics
+DTSTART:20260221T163000Z
+DTEND:20260221T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 22 2026 - Playoffs\nWatch: https://www.ki
+ ck.com/exort_en2
+SUMMARY:Quarterfinal 3: ex-GANK Esports vs SNG
+URL;VALUE=URI:https://www.kick.com/exort_en2
+END:VEVENT
 END:VCALENDAR

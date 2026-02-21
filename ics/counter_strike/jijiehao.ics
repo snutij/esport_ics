@@ -71,4 +71,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: European Open Qualifier #2 2026 - Playoffs
 SUMMARY:Quarterfinal 1: JJH vs FOKUS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T193000Z
+UID:pandascore-match-1369883@esport-ics
+DTSTART:20260221T193000Z
+DTEND:20260221T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 22 2026 - Playoffs\nWatch: https://www.ki
+ ck.com/exort_en2
+SUMMARY:Quarterfinal 4: JJH vs CYBERSHOKE Prospects
+URL;VALUE=URI:https://www.kick.com/exort_en2
+END:VEVENT
 END:VCALENDAR

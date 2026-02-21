@@ -116,6 +116,17 @@ SUMMARY:Lower bracket round 3 match 1: IMP vs SHK
 URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260221T220000Z
+UID:pandascore-match-1363948@esport-ics
+DTSTART:20260221T220000Z
+DTEND:20260222T001500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup 1 season 51 2026 - Pl
+ ayoffs\nWatch: https://www.twitch.tv/ESLCS
+SUMMARY:Lower bracket quarterfinal 1: ODK vs SHK
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260226T010000Z
 UID:pandascore-match-1360790@esport-ics
 DTSTART:20260226T010000Z
