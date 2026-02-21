@@ -67,6 +67,17 @@ CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
  v/meta_esports_kz2
 SUMMARY:TC vs NVQ
-URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz2
+URL:https://www.twitch.tv/meta_esports_kz2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T100000Z
+UID:pandascore-match-1364646@esport-ics
+DTSTART:20260222T100000Z
+DTEND:20260222T121500Z
+CLASS:PUBLIC
+DESCRIPTION:META Cup - Season 4 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/meta_esports_kz
+SUMMARY:Semifinal 2: TBD vs NVQ
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
 END:VEVENT
 END:VCALENDAR

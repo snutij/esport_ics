@@ -192,4 +192,15 @@ DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs\
 SUMMARY:Upper bracket final: TDK vs MOUZ.N
 URL;VALUE=URI:https://www.twitch.tv/litonn
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T090000Z
+UID:pandascore-match-1356212@esport-ics
+DTSTART:20260223T090000Z
+DTEND:20260223T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 2: ECF vs TDK
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

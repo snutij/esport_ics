@@ -133,6 +133,17 @@ CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
  v/meta_esports_kz2
 SUMMARY:NEMI vs SNG
-URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz2
+URL:https://www.twitch.tv/meta_esports_kz2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T070000Z
+UID:pandascore-match-1364644@esport-ics
+DTSTART:20260222T070000Z
+DTEND:20260222T091500Z
+CLASS:PUBLIC
+DESCRIPTION:META Cup - Season 4 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/meta_esports_kz
+SUMMARY:Quarterfinal 2: NEM vs SNG
+URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
 END:VEVENT
 END:VCALENDAR

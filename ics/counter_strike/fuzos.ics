@@ -49,4 +49,15 @@ DESCRIPTION:European Pro League - Series 5 2026 - Group B\nWatch: https://k
 SUMMARY:LK vs FUZOS
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T120000Z
+UID:pandascore-match-1364563@esport-ics
+DTSTART:20260223T120000Z
+DTEND:20260223T141500Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
+ .twitch.tv/jbproleague
+SUMMARY:Round 4: FUZOS vs ex-Zero Tenacity
+URL;VALUE=URI:https://www.twitch.tv/jbproleague
+END:VEVENT
 END:VCALENDAR
