@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:LPLOL - Winter 2026 - Group D\nWatch: https://www.twitch.tv/rtp
  arenalol
 SUMMARY:Upper bracket semifinal 2: FCN vs ZZG
+URL:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T220000Z
+UID:pandascore-match-1355394@esport-ics
+DTSTART:20260226T220000Z
+DTEND:20260227T001500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/rt
+ parenalol
+SUMMARY:Quarterfinal 4: ZZG vs ELG
 URL;VALUE=URI:https://www.twitch.tv/rtparenalol
 END:VEVENT
 END:VCALENDAR

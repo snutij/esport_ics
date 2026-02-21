@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 34 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Grand final: LYNX vs WB
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T190000Z
+UID:pandascore-match-1369891@esport-ics
+DTSTART:20260221T190000Z
+DTEND:20260221T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Championship - Season 2 2026 - Playoffs\nWatch: https://kic
+ k.com/epldota_en2
+SUMMARY:Upper bracket round 16 match 8: WB vs TS.A
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
