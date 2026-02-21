@@ -84,6 +84,17 @@ SUMMARY:Upper bracket quarterfinal 1: EP vs STS
 URL:https://www.twitch.tv/kejsali
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260221T203000Z
+UID:pandascore-match-1366016@esport-ics
+DTSTART:20260221T203000Z
+DTEND:20260221T224500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Clash 2026 - Group Omega\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Lower bracket quarterfinal 1: KC vs EP
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260301T140000Z
 UID:pandascore-match-1368302@esport-ics
 DTSTART:20260301T140000Z

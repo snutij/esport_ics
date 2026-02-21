@@ -50,6 +50,17 @@ SUMMARY:Upper bracket semifinal 1: VIT vs FKS
 URL:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260221T203000Z
+UID:pandascore-match-1366017@esport-ics
+DTSTART:20260221T203000Z
+DTEND:20260221T224500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Clash 2026 - Group Omega\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Lower bracket quarterfinal 2: FKS vs BJK
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260228T180000Z
 UID:pandascore-match-1344500@esport-ics
 DTSTART:20260228T180000Z

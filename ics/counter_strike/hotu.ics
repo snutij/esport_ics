@@ -69,6 +69,15 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Group B\nWatch: https://ww
  w.twitch.tv/rmncs
 SUMMARY:Winners match: HOTU vs TBD
-URL;VALUE=URI:https://www.twitch.tv/rmncs
+URL:https://www.twitch.tv/rmncs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T170000Z
+UID:pandascore-match-1360780@esport-ics
+DTSTART:20260221T170000Z
+DTEND:20260221T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Playoffs
+SUMMARY:Quarterfinal 3: HOTU vs BCA
 END:VEVENT
 END:VCALENDAR
