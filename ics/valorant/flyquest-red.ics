@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers North America Kickoff 2026 - Playoffs\nWatc
  h: https://www.twitch.tv/valorant_americas
 SUMMARY:Upper bracket semifinal 2: FLY.R vs 100T
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T220000Z
+UID:pandascore-match-1356638@esport-ics
+DTSTART:20260227T220000Z
+DTEND:20260228T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers North America Kickoff 2026 - Playoffs\nWatc
+ h: https://www.twitch.tv/valorant_americas
+SUMMARY:Upper bracket final: WAD vs FLY.R
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

@@ -81,6 +81,16 @@ DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
 SUMMARY:Lower bracket quarterfinal 2: MARS vs ZOMB
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260223T020000Z
+UID:pandascore-match-1364048@esport-ics
+DTSTART:20260223T020000Z
+DTEND:20260223T041500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
+ ayoffs
+SUMMARY:Lower bracket semifinal: SR vs MARS
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260225T160000Z
 UID:pandascore-match-1360787@esport-ics
 DTSTART:20260225T160000Z
