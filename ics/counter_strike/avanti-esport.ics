@@ -28,15 +28,15 @@ SUMMARY:Avanti Esport vs SIN
 URL:https://kick.com/challengerchampionship_b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260222T143000Z
+DTSTAMP:20260222T151500Z
 UID:pandascore-match-1366193@esport-ics
-DTSTART:20260222T143000Z
-DTEND:20260222T151500Z
+DTSTART:20260222T151500Z
+DTEND:20260222T160000Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
- : https://kick.com/challengerchampionship
+ : https://kick.com/challengerchampionship_c
 SUMMARY:PHA vs Avanti Esport
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260222T170000Z
