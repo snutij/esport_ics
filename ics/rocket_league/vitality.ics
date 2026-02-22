@@ -50,6 +50,17 @@ SUMMARY:Upper bracket quarterfinal 2: FLCN vs VIT
 URL:https://www.twitch.tv/rocketleague
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260222T194500Z
+UID:pandascore-match-1359617@esport-ics
+DTSTART:20260222T194500Z
+DTEND:20260223T010000Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Boston 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/rocketleague
+SUMMARY:Semifinal 1: VIT vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260222T203000Z
 UID:pandascore-match-1359618@esport-ics
 DTSTART:20260222T203000Z
@@ -58,6 +69,6 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Boston 2026 - Playoffs\nWatch: https://www.twitch.
  tv/rocketleague
 SUMMARY:Semifinal 2: VIT vs TBD
-URL;VALUE=URI:https://www.twitch.tv/rocketleague
+URL:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR
