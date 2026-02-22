@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Clash 2026 - Group Alpha\nWatch: https://www.twitch.
  tv/valorant_emea
 SUMMARY:Lower bracket quarterfinal 2: STS vs JL
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T180000Z
+UID:pandascore-match-1366015@esport-ics
+DTSTART:20260222T180000Z
+DTEND:20260222T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Clash 2026 - Group Omega\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Lower bracket semifinal: EP vs JL
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

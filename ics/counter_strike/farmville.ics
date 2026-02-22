@@ -67,6 +67,15 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.us - Eagle Masters season 6 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/kevindoruk
 SUMMARY:Semifinal 2: FV vs O49
-URL;VALUE=URI:https://www.twitch.tv/kevindoruk
+URL:https://www.twitch.tv/kevindoruk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T010000Z
+UID:pandascore-match-1363267@esport-ics
+DTSTART:20260223T010000Z
+DTEND:20260223T031500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.us - Eagle Masters season 6 2026 - Playoffs
+SUMMARY:Grand final: LAG vs FV
 END:VEVENT
 END:VCALENDAR
