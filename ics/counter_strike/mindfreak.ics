@@ -70,6 +70,17 @@ SUMMARY:Lower bracket semifinal: Skele vs MF
 URL;VALUE=URI:https://www.twitch.tv/dutchboycasts
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260225T080000Z
+UID:pandascore-match-1364296@esport-ics
+DTSTART:20260225T080000Z
+DTEND:20260225T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs4
+SUMMARY:Upper bracket semifinal 1: Abyssal vs MF
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260226T050000Z
 UID:pandascore-match-1367431@esport-ics
 DTSTART:20260226T050000Z

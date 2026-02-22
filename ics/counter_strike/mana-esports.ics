@@ -93,6 +93,17 @@ SUMMARY:Round 1: BMB vs MANA
 URL:https://kick.com/exort_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260222T120000Z
+UID:pandascore-match-1371193@esport-ics
+DTSTART:20260222T120000Z
+DTEND:20260222T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/exort_en
+SUMMARY:Round 2: MANA vs ex-FUT Academy
+URL;VALUE=URI:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260224T100000Z
 UID:pandascore-match-1363274@esport-ics
 DTSTART:20260224T100000Z

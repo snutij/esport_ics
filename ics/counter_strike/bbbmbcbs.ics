@@ -76,6 +76,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs4
 SUMMARY:Upper bracket quarterfinal 1: MF vs BBBMBCBS
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T080000Z
+UID:pandascore-match-1364274@esport-ics
+DTSTART:20260224T080000Z
+DTEND:20260224T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs4
+SUMMARY:Lower bracket round 1 match 1: BBBMBCBS vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR
