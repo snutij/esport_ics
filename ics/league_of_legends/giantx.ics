@@ -58,13 +58,13 @@ SUMMARY:Lower bracket quarterfinal 1: Navi vs GX
 URL:https://www.twitch.tv/lec
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T154500Z
+DTSTAMP:20260227T160000Z
 UID:pandascore-match-1350538@esport-ics
-DTSTART:20260223T154500Z
-DTEND:20260223T193000Z
+DTSTART:20260227T160000Z
+DTEND:20260227T194500Z
 CLASS:PUBLIC
 DESCRIPTION:LEC - Versus 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
-SUMMARY:Lower bracket semifinal: GX vs TBD
+SUMMARY:Lower bracket semifinal: GX vs KC
 URL;VALUE=URI:https://www.twitch.tv/lec
 END:VEVENT
 END:VCALENDAR
