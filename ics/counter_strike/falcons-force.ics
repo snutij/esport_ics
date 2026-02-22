@@ -43,6 +43,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/exort_en
 SUMMARY:Round 1: WW vs Falcons Force
+URL:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T150000Z
+UID:pandascore-match-1372401@esport-ics
+DTSTART:20260223T150000Z
+DTEND:20260223T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/exort_en
+SUMMARY:Round 2: SINQU vs Falcons Force
 URL;VALUE=URI:https://kick.com/exort_en
 END:VEVENT
 END:VCALENDAR
