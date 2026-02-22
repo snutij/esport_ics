@@ -255,13 +255,13 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group B\nWatch
  : https://www.twitch.tv/Trottah
 SUMMARY:ILWL vs 9INE
-URL;VALUE=URI:https://www.twitch.tv/Trottah
+URL:https://www.twitch.tv/Trottah
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260222T190000Z
+DTSTAMP:20260222T200000Z
 UID:pandascore-match-1366366@esport-ics
-DTSTART:20260222T190000Z
-DTEND:20260222T194500Z
+DTSTART:20260222T200000Z
+DTEND:20260222T204500Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group B\nWatch
  : https://kick.com/challengerchampionship
