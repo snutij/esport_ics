@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Saigon Warriors
+SLUG:saigon-warriors
+BEGIN:VEVENT
+DTSTAMP:20260228T100000Z
+UID:pandascore-match-1371676@esport-ics
+DTSTART:20260228T100000Z
+DTEND:20260228T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Spring 2026 - Group Stage\nWatch: https://www.youtube.com
+ /@vcslmht/streams
+SUMMARY:SGW vs MVKA
+URL;VALUE=URI:https://www.youtube.com/@vcslmht/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T130000Z
+UID:pandascore-match-1371712@esport-ics
+DTSTART:20260306T130000Z
+DTEND:20260306T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Spring 2026 - Group Stage\nWatch: https://www.youtube.com
+ /@vcslmht/streams
+SUMMARY:SGW vs 9G
+URL;VALUE=URI:https://www.youtube.com/@vcslmht/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T130000Z
+UID:pandascore-match-1371765@esport-ics
+DTSTART:20260308T130000Z
+DTEND:20260308T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Spring 2026 - Group Stage\nWatch: https://www.youtube.com
+ /@vcslmht/streams
+SUMMARY:SGW vs NHE
+URL;VALUE=URI:https://www.youtube.com/@vcslmht/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T130000Z
+UID:pandascore-match-1371779@esport-ics
+DTSTART:20260313T130000Z
+DTEND:20260313T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Spring 2026 - Group Stage\nWatch: https://www.youtube.com
+ /@vcslmht/streams
+SUMMARY:SGW vs DINO
+URL;VALUE=URI:https://www.youtube.com/@vcslmht/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T100000Z
+UID:pandascore-match-1371810@esport-ics
+DTSTART:20260315T100000Z
+DTEND:20260315T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Spring 2026 - Group Stage\nWatch: https://www.youtube.com
+ /@vcslmht/streams
+SUMMARY:SGW vs SCBC
+URL;VALUE=URI:https://www.youtube.com/@vcslmht/streams
+END:VEVENT
+END:VCALENDAR

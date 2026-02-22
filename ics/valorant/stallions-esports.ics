@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Clash 2026 - Group Alpha\nWatch: https://www.twitch.
  tv/valorant_emea
 SUMMARY:Lower bracket quarterfinal 2: STS vs JL
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T190000Z
+UID:pandascore-match-1337954@esport-ics
+DTSTART:20260301T190000Z
+DTEND:20260301T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Kickoff 2026 - Playoffs - ME\nWatch: htt
+ ps://www.twitch.tv/valorantesports_ar
+SUMMARY:Upper bracket semifinal 1: STS vs FRAG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR

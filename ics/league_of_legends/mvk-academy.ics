@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MVK Academy
+SLUG:mvk-academy
+BEGIN:VEVENT
+DTSTAMP:20260228T100000Z
+UID:pandascore-match-1371676@esport-ics
+DTSTART:20260228T100000Z
+DTEND:20260228T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Spring 2026 - Group Stage\nWatch: https://www.youtube.com
+ /@vcslmht/streams
+SUMMARY:SGW vs MVKA
+URL;VALUE=URI:https://www.youtube.com/@vcslmht/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T130000Z
+UID:pandascore-match-1371686@esport-ics
+DTSTART:20260301T130000Z
+DTEND:20260301T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Spring 2026 - Group Stage\nWatch: https://www.youtube.com
+ /@vcslmht/streams
+SUMMARY:SCBC vs MVKA
+URL;VALUE=URI:https://www.youtube.com/@vcslmht/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T130000Z
+UID:pandascore-match-1371741@esport-ics
+DTSTART:20260307T130000Z
+DTEND:20260307T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Spring 2026 - Group Stage\nWatch: https://www.youtube.com
+ /@vcslmht/streams
+SUMMARY:DINO vs MVKA
+URL;VALUE=URI:https://www.youtube.com/@vcslmht/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T100000Z
+UID:pandascore-match-1371766@esport-ics
+DTSTART:20260313T100000Z
+DTEND:20260313T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Spring 2026 - Group Stage\nWatch: https://www.youtube.com
+ /@vcslmht/streams
+SUMMARY:9G vs MVKA
+URL;VALUE=URI:https://www.youtube.com/@vcslmht/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T100000Z
+UID:pandascore-match-1371788@esport-ics
+DTSTART:20260314T100000Z
+DTEND:20260314T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Spring 2026 - Group Stage\nWatch: https://www.youtube.com
+ /@vcslmht/streams
+SUMMARY:NHE vs MVKA
+URL;VALUE=URI:https://www.youtube.com/@vcslmht/streams
+END:VEVENT
+END:VCALENDAR
