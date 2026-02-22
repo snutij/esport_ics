@@ -248,4 +248,15 @@ DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
 SUMMARY:Round 4: MSC vs FOR
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T120000Z
+UID:pandascore-match-1372372@esport-ics
+DTSTART:20260225T120000Z
+DTEND:20260225T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #17 season 3 2026 - Group
+  C\nWatch: https://kick.com/cct_cs
+SUMMARY: CSDIILIT vs MSC
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR

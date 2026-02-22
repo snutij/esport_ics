@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/exort_en
 SUMMARY:Round 1: STA vs EC BANGA
-URL;VALUE=URI:https://kick.com/exort_en
+URL:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T150000Z
+UID:pandascore-match-1372366@esport-ics
+DTSTART:20260223T150000Z
+DTEND:20260223T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #17 season 3 2026 - Group
+  B\nWatch: https://kick.com/cct_cs
+SUMMARY:HAVU vs EC BANGA
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

@@ -156,4 +156,15 @@ DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
 SUMMARY:Round 2: URSA vs  CSDIILIT
 URL;VALUE=URI:https://kick.com/exort_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T180000Z
+UID:pandascore-match-1372377@esport-ics
+DTSTART:20260225T180000Z
+DTEND:20260225T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #17 season 3 2026 - Group
+  D\nWatch: https://kick.com/cct_cs
+SUMMARY:RBLS vs URSA
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR
