@@ -83,12 +83,14 @@ SUMMARY:Semifinal 1: M8 vs BB
 URL:https://www.twitch.tv/rmncs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260222T173000Z
+DTSTAMP:20260222T184500Z
 UID:pandascore-match-1360786@esport-ics
-DTSTART:20260222T173000Z
-DTEND:20260222T194500Z
+DTSTART:20260222T184500Z
+DTEND:20260222T210000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Playoffs
-SUMMARY:Grand final: M8 vs TBD
+DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/nolik_2k
+SUMMARY:Grand final: M8 vs HOTU
+URL;VALUE=URI:https://www.twitch.tv/nolik_2k
 END:VEVENT
 END:VCALENDAR

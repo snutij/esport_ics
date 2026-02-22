@@ -169,21 +169,10 @@ SUMMARY:PHA vs MINLATE
 URL:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260222T180000Z
-UID:pandascore-match-1366339@esport-ics
-DTSTART:20260222T180000Z
-DTEND:20260222T184500Z
-CLASS:PUBLIC
-DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
- : https://kick.com/challengerchampionship
-SUMMARY:PHA vs SIN
-URL;VALUE=URI:https://kick.com/challengerchampionship
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260222T180000Z
+DTSTAMP:20260222T181500Z
 UID:pandascore-match-1366281@esport-ics
-DTSTART:20260222T180000Z
-DTEND:20260222T184500Z
+DTSTART:20260222T181500Z
+DTEND:20260222T190000Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
  : https://kick.com/challengerchampionship
@@ -200,5 +189,16 @@ DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
  : https://kick.com/challengerchampionship
 SUMMARY:ECS vs PHA
 URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T190000Z
+UID:pandascore-match-1366339@esport-ics
+DTSTART:20260222T190000Z
+DTEND:20260222T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
+ : https://www.twitch.tv/byalli
+SUMMARY:PHA vs SIN
+URL;VALUE=URI:https://www.twitch.tv/byalli
 END:VEVENT
 END:VCALENDAR

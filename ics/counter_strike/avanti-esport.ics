@@ -40,17 +40,6 @@ URL:https://kick.com/challengerchampionship_c
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260222T180000Z
-UID:pandascore-match-1366347@esport-ics
-DTSTART:20260222T180000Z
-DTEND:20260222T184500Z
-CLASS:PUBLIC
-DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
- : https://kick.com/challengerchampionship
-SUMMARY:Avanti Esport vs ECS
-URL;VALUE=URI:https://kick.com/challengerchampionship
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260222T180000Z
 UID:pandascore-match-1366282@esport-ics
 DTSTART:20260222T180000Z
 DTEND:20260222T184500Z
@@ -58,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
  : https://kick.com/challengerchampionship
 SUMMARY:MINLATE vs Avanti Esport
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T190000Z
+UID:pandascore-match-1366347@esport-ics
+DTSTART:20260222T190000Z
+DTEND:20260222T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship_d
+SUMMARY:Avanti Esport vs ECS
+URL;VALUE=URI:https://kick.com/challengerchampionship_d
 END:VEVENT
 END:VCALENDAR
