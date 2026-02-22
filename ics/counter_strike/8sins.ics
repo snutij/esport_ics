@@ -51,7 +51,9 @@ UID:pandascore-match-1369840@esport-ics
 DTSTART:20260222T090000Z
 DTEND:20260222T111500Z
 CLASS:PUBLIC
-DESCRIPTION:EPIC.LAN - Season 47 2026 - Playoffs
+DESCRIPTION:EPIC.LAN - Season 47 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/epiclan1
 SUMMARY:Lower bracket final: CTRL Esports vs 8S
+URL;VALUE=URI:https://www.twitch.tv/epiclan1
 END:VEVENT
 END:VCALENDAR

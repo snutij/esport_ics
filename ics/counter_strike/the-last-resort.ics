@@ -89,7 +89,9 @@ UID:pandascore-match-1369841@esport-ics
 DTSTART:20260222T130000Z
 DTEND:20260222T151500Z
 CLASS:PUBLIC
-DESCRIPTION:EPIC.LAN - Season 47 2026 - Playoffs
+DESCRIPTION:EPIC.LAN - Season 47 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/epiclan1
 SUMMARY:Grand final: TLR vs TBD
+URL;VALUE=URI:https://www.twitch.tv/epiclan1
 END:VEVENT
 END:VCALENDAR
