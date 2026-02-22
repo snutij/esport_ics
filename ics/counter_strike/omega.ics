@@ -231,6 +231,17 @@ SUMMARY:Grand final: NEM vs Omega
 URL:https://www.twitch.tv/meta_esports_kz
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260223T120000Z
+UID:pandascore-match-1351304@esport-ics
+DTSTART:20260223T120000Z
+DTEND:20260223T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 5: ARC vs Omega
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260224T113000Z
 UID:pandascore-match-1355919@esport-ics
 DTSTART:20260224T113000Z

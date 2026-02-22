@@ -100,6 +100,17 @@ CLASS:PUBLIC
 DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
  .twitch.tv/jbproleague
 SUMMARY:Round 4: OlyBet SB vs ARC
-URL;VALUE=URI:https://www.twitch.tv/jbproleague
+URL:https://www.twitch.tv/jbproleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T120000Z
+UID:pandascore-match-1351304@esport-ics
+DTSTART:20260223T120000Z
+DTEND:20260223T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 5: ARC vs Omega
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
