@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Kickoff 2026 - Group Stage - NA\nWatch: 
  https://www.twitch.tv/valorantesports_ar
 SUMMARY:1M vs RAAD
+URL:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T190000Z
+UID:pandascore-match-1337961@esport-ics
+DTSTART:20260302T190000Z
+DTEND:20260302T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Kickoff 2026 - Playoffs - NA\nWatch: htt
+ ps://www.twitch.tv/valorantesports_ar
+SUMMARY:Upper bracket semifinal 2: RAAD vs 1M
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR
