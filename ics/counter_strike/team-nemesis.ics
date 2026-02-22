@@ -153,6 +153,17 @@ CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Playoffs\nWatch: https://www.twitch.
  tv/meta_esports_kz
 SUMMARY:Quarterfinal 2: NEM vs SNG
+URL:https://www.twitch.tv/meta_esports_kz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T113000Z
+UID:pandascore-match-1364646@esport-ics
+DTSTART:20260222T113000Z
+DTEND:20260222T134500Z
+CLASS:PUBLIC
+DESCRIPTION:META Cup - Season 4 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/meta_esports_kz
+SUMMARY:Semifinal 2: NVQ vs NEM
 URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
 END:VEVENT
 END:VCALENDAR
