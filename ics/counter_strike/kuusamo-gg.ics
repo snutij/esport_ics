@@ -28,6 +28,17 @@ SUMMARY:Round 1: KSM vs EK
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260224T103000Z
+UID:pandascore-match-1373556@esport-ics
+DTSTART:20260224T103000Z
+DTEND:20260224T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 1: KSM vs SNG
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260225T113000Z
 UID:pandascore-match-1365955@esport-ics
 DTSTART:20260225T113000Z

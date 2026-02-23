@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 22 2026 - Playoffs\nWatch: https://www.ki
  ck.com/exort_en2
 SUMMARY:Quarterfinal 2: AUR.YB vs Y.TigeRES
-URL;VALUE=URI:https://www.kick.com/exort_en2
+URL:https://www.kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T133000Z
+UID:pandascore-match-1373557@esport-ics
+DTSTART:20260224T133000Z
+DTEND:20260224T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 1: Y.TigeRES vs TBD
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

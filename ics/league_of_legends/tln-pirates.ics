@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Invitational 2026 - Super Group\nWatch: http://www.twitch
  .tv/otplol_
 SUMMARY:BKR vs TLNP
-URL;VALUE=URI:http://www.twitch.tv/otplol_
+URL:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T170000Z
+UID:pandascore-match-1373561@esport-ics
+DTSTART:20260225T170000Z
+DTEND:20260225T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Invitational 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:Lower bracket quarterfinal 2: JL vs TLNP
+URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR
