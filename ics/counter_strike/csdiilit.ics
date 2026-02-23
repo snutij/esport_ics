@@ -239,7 +239,7 @@ CLASS:PUBLIC
 DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
  .twitch.tv/jbproleague
 SUMMARY:Round 4: LC vs  CSDIILIT
-URL;VALUE=URI:https://www.twitch.tv/jbproleague
+URL:https://www.twitch.tv/jbproleague
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260223T150000Z
@@ -250,7 +250,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 2: WB vs  CSDIILIT
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260223T180000Z

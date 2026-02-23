@@ -221,6 +221,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship
 SUMMARY:Lower bracket round 1 match 2: SASHI vs PHA
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T160000Z
+UID:pandascore-match-1366438@esport-ics
+DTSTART:20260223T160000Z
+DTEND:20260223T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Playoffs\nWatc
+ h: https://www.twitch.tv/phantomesports_
+SUMMARY:Lower bracket quarterfinal 2: ECS vs PHA
+URL;VALUE=URI:https://www.twitch.tv/phantomesports_
 END:VEVENT
 END:VCALENDAR
