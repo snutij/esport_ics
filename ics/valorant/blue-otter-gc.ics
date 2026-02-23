@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers North America Kickoff 2026 - Playoffs\nWatc
  h: https://www.twitch.tv/valorant_americas
 SUMMARY:Lower bracket quarterfinal 2: BLUE vs GG.GC
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T003000Z
+UID:pandascore-match-1356641@esport-ics
+DTSTART:20260228T003000Z
+DTEND:20260228T024500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers North America Kickoff 2026 - Playoffs\nWatc
+ h: https://www.twitch.tv/valorant_americas
+SUMMARY:Lower bracket semifinal: BLUE vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR
