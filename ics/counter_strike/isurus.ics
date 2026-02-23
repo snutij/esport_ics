@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #9 season 3 2026 - Group Stage\nWatc
  h: https://www.twitch.tv/lorranbs_
 SUMMARY:Round 1: LDP vs ISG
-URL;VALUE=URI:https://www.twitch.tv/lorranbs_
+URL:https://www.twitch.tv/lorranbs_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T190000Z
+UID:pandascore-match-1369800@esport-ics
+DTSTART:20260224T190000Z
+DTEND:20260224T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #9 season 3 2026 - Group Stage
+SUMMARY:Round 2: FA vs ISG
 END:VEVENT
 END:VCALENDAR

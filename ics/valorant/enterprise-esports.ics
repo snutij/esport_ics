@@ -106,6 +106,17 @@ SUMMARY:Lower bracket semifinal: EP vs JL
 URL:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260224T203000Z
+UID:pandascore-match-1366014@esport-ics
+DTSTART:20260224T203000Z
+DTEND:20260224T224500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Clash 2026 - Group Omega\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Lower bracket final: GX vs EP
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260301T140000Z
 UID:pandascore-match-1368302@esport-ics
 DTSTART:20260301T140000Z

@@ -266,6 +266,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group B\nWatch
  : https://kick.com/challengerchampionship
 SUMMARY:SASHI vs ILWL
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T090000Z
+UID:pandascore-match-1366412@esport-ics
+DTSTART:20260223T090000Z
+DTEND:20260223T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Upper bracket quarterfinal 4: ILWL vs PHA
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR
