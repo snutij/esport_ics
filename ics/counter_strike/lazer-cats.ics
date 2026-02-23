@@ -217,4 +217,15 @@ DESCRIPTION:European Pro League - Series 5 2026 - Group C\nWatch: https://k
 SUMMARY:WW vs LC
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T090000Z
+UID:pandascore-match-1356220@esport-ics
+DTSTART:20260225T090000Z
+DTEND:20260225T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 3: LC vs OlyBet SB
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

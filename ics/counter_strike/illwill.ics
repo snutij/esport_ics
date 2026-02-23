@@ -323,4 +323,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Group Stage\nWatch: http
 SUMMARY:Round 3: ILWL vs AM
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T120000Z
+UID:pandascore-match-1366441@esport-ics
+DTSTART:20260224T120000Z
+DTEND:20260224T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Lower bracket final: ILWL vs TBD
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
 END:VCALENDAR

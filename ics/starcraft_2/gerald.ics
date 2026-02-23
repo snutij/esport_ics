@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gerald
+SLUG:gerald
+BEGIN:VEVENT
+DTSTAMP:20260224T120000Z
+UID:pandascore-match-1366157@esport-ics
+DTSTART:20260224T120000Z
+DTEND:20260224T141500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Gerald vs herO
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T124000Z
+UID:pandascore-match-1366160@esport-ics
+DTSTART:20260224T124000Z
+DTEND:20260224T145500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Gerald vs Shameless
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T132000Z
+UID:pandascore-match-1366162@esport-ics
+DTSTART:20260224T132000Z
+DTEND:20260224T153500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Gerald vs Percival
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T140000Z
+UID:pandascore-match-1366164@esport-ics
+DTSTART:20260224T140000Z
+DTEND:20260224T161500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Solar vs Gerald
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+END:VCALENDAR

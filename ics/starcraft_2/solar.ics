@@ -28,6 +28,50 @@ SUMMARY:Decider match: Percival vs Solar
 URL:https://www.twitch.tv/x5_pig
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260224T120000Z
+UID:pandascore-match-1366158@esport-ics
+DTSTART:20260224T120000Z
+DTEND:20260224T141500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Solar vs Percival
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T132000Z
+UID:pandascore-match-1366161@esport-ics
+DTSTART:20260224T132000Z
+DTEND:20260224T153500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Shameless vs Solar
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T140000Z
+UID:pandascore-match-1366164@esport-ics
+DTSTART:20260224T140000Z
+DTEND:20260224T161500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Solar vs Gerald
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T144000Z
+UID:pandascore-match-1366165@esport-ics
+DTSTART:20260224T144000Z
+DTEND:20260224T165500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:herO vs Solar
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260227T110000Z
 UID:pandascore-match-1368518@esport-ics
 DTSTART:20260227T110000Z

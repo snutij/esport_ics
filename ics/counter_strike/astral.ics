@@ -170,4 +170,15 @@ DESCRIPTION:DraculaN - Season 5 2026 - Group C\nWatch: https://kick.com/dra
 SUMMARY:ASTRAL vs HEC
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T180000Z
+UID:pandascore-match-1356223@esport-ics
+DTSTART:20260225T180000Z
+DTEND:20260225T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 3: ASTRAL vs SPARTA
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

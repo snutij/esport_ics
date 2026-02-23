@@ -191,6 +191,17 @@ SUMMARY:Round 2: ex-RUBY vs WW
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260224T120000Z
+UID:pandascore-match-1356217@esport-ics
+DTSTART:20260224T120000Z
+DTEND:20260224T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 3: WW vs ECF
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260224T143000Z
 UID:pandascore-match-1355896@esport-ics
 DTSTART:20260224T143000Z
