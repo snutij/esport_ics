@@ -89,6 +89,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Playoffs\nWatc
  h: https://www.twitch.tv/cherry5pl
 SUMMARY:Upper bracket quarterfinal 3: GL vs SASHI
-URL;VALUE=URI:https://www.twitch.tv/cherry5pl
+URL:https://www.twitch.tv/cherry5pl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260223T120000Z
+UID:pandascore-match-1366436@esport-ics
+DTSTART:20260223T120000Z
+DTEND:20260223T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Upper bracket semifinal 2: GL vs TBD
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR
