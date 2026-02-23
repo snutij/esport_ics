@@ -182,6 +182,17 @@ SUMMARY:Round 4: LK vs ENCE.A
 URL;VALUE=URI:https://www.twitch.tv/jbproleague
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260224T153000Z
+UID:pandascore-match-1372429@esport-ics
+DTSTART:20260224T153000Z
+DTEND:20260224T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 1: BOJONG vs ENCE.A
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260225T090000Z
 UID:pandascore-match-1372371@esport-ics
 DTSTART:20260225T090000Z
@@ -191,5 +202,71 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #17 season 3 2026 - Group
   C\nWatch: https://kick.com/cct_cs
 SUMMARY:ENCE.A vs AUR.YB
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T180000Z
+UID:pandascore-match-1372434@esport-ics
+DTSTART:20260303T180000Z
+DTEND:20260303T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 2: ENCE.A vs EK
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T153000Z
+UID:pandascore-match-1372435@esport-ics
+DTSTART:20260309T153000Z
+DTEND:20260309T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 3: KSM vs ENCE.A
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T153000Z
+UID:pandascore-match-1372439@esport-ics
+DTSTART:20260316T153000Z
+DTEND:20260316T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 4: RGG vs ENCE.A
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T180000Z
+UID:pandascore-match-1372444@esport-ics
+DTSTART:20260323T180000Z
+DTEND:20260323T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 5: Nordic Valor vs ENCE.A
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T143000Z
+UID:pandascore-match-1372449@esport-ics
+DTSTART:20260331T143000Z
+DTEND:20260331T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 6: ENCE.A vs BoyBand
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T170000Z
+UID:pandascore-match-1372454@esport-ics
+DTSTART:20260407T170000Z
+DTEND:20260407T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 7:  CSDIILIT vs ENCE.A
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 END:VCALENDAR

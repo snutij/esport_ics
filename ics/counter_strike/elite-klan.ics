@@ -3,19 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:KUUSAMO.gg
-SLUG:kuusamo-gg
-BEGIN:VEVENT
-DTSTAMP:20260221T090000Z
-UID:pandascore-match-1365952@esport-ics
-DTSTART:20260221T090000Z
-DTEND:20260221T111500Z
-CLASS:PUBLIC
-DESCRIPTION:United21 - Season 45 2026 - Group D\nWatch: https://kick.com/un
- ited21_en
-SUMMARY:NAVI.J vs KSM
-URL:https://kick.com/united21_en
-END:VEVENT
+X-WR-CALNAME:Elite Klan
+SLUG:elite-klan
 BEGIN:VEVENT
 DTSTAMP:20260223T153000Z
 UID:pandascore-match-1372427@esport-ics
@@ -28,80 +17,69 @@ SUMMARY:Round 1: KSM vs EK
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260225T113000Z
-UID:pandascore-match-1365955@esport-ics
-DTSTART:20260225T113000Z
-DTEND:20260225T134500Z
-CLASS:PUBLIC
-DESCRIPTION:United21 - Season 45 2026 - Group D\nWatch: https://kick.com/un
- ited21_en
-SUMMARY:Elimination match: KSM vs RT
-URL;VALUE=URI:https://kick.com/united21_en
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260303T153000Z
-UID:pandascore-match-1372433@esport-ics
-DTSTART:20260303T153000Z
-DTEND:20260303T174500Z
+DTSTAMP:20260303T180000Z
+UID:pandascore-match-1372434@esport-ics
+DTSTART:20260303T180000Z
+DTEND:20260303T201500Z
 CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
  s://www.twitch.tv/elisaviihdesport
-SUMMARY:Round 2: KSM vs BoyBand
+SUMMARY:Round 2: ENCE.A vs EK
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260309T153000Z
-UID:pandascore-match-1372435@esport-ics
-DTSTART:20260309T153000Z
-DTEND:20260309T174500Z
+DTSTAMP:20260310T153000Z
+UID:pandascore-match-1372437@esport-ics
+DTSTART:20260310T153000Z
+DTEND:20260310T174500Z
 CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
  s://www.twitch.tv/elisaviihdesport
-SUMMARY:Round 3: KSM vs ENCE.A
+SUMMARY:Round 3: RGG vs EK
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260316T180000Z
-UID:pandascore-match-1372440@esport-ics
-DTSTART:20260316T180000Z
-DTEND:20260316T201500Z
+DTSTAMP:20260317T153000Z
+UID:pandascore-match-1372441@esport-ics
+DTSTART:20260317T153000Z
+DTEND:20260317T174500Z
 CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
  s://www.twitch.tv/elisaviihdesport
-SUMMARY:Round 4: KSM vs  CSDIILIT
+SUMMARY:Nordic Valor vs EK
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260324T153000Z
-UID:pandascore-match-1372445@esport-ics
-DTSTART:20260324T153000Z
-DTEND:20260324T174500Z
+DTSTAMP:20260324T180000Z
+UID:pandascore-match-1372446@esport-ics
+DTSTART:20260324T180000Z
+DTEND:20260324T201500Z
 CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
  s://www.twitch.tv/elisaviihdesport
-SUMMARY:Round 5: KSM vs RGG
+SUMMARY:Round 5: BoyBand vs EK
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260330T143000Z
-UID:pandascore-match-1372447@esport-ics
-DTSTART:20260330T143000Z
-DTEND:20260330T164500Z
+DTSTAMP:20260330T170000Z
+UID:pandascore-match-1372448@esport-ics
+DTSTART:20260330T170000Z
+DTEND:20260330T191500Z
 CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
  s://www.twitch.tv/elisaviihdesport
-SUMMARY:Round 6: KSM vs BOJONG
+SUMMARY:Round 6:  CSDIILIT vs EK
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260406T143000Z
-UID:pandascore-match-1372451@esport-ics
-DTSTART:20260406T143000Z
-DTEND:20260406T164500Z
+DTSTAMP:20260407T143000Z
+UID:pandascore-match-1372453@esport-ics
+DTSTART:20260407T143000Z
+DTEND:20260407T164500Z
 CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
  s://www.twitch.tv/elisaviihdesport
-SUMMARY:Round 7: KSM vs Nordic Valor
+SUMMARY:Round 7: BOJONG vs EK
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 END:VCALENDAR
