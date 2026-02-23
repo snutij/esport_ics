@@ -143,6 +143,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #17 season 3 2026 - Group
   B\nWatch: https://www.twitch.tv/betboom_cs_ru4
 SUMMARY:HAVU vs EC BANGA
-URL;VALUE=URI:https://www.twitch.tv/betboom_cs_ru4
+URL:https://www.twitch.tv/betboom_cs_ru4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T150000Z
+UID:pandascore-match-1372369@esport-ics
+DTSTART:20260224T150000Z
+DTEND:20260224T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #17 season 3 2026 - Group
+  B\nWatch: https://kick.com/cct_cs
+SUMMARY:Winners match: HAVU vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
