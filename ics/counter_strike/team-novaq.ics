@@ -89,6 +89,50 @@ CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Playoffs\nWatch: https://www.twitch.
  tv/meta_esports_kz
 SUMMARY:3rd Place match: NVQ vs NEMI
-URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+URL:https://www.twitch.tv/meta_esports_kz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T070000Z
+UID:pandascore-match-1373587@esport-ics
+DTSTART:20260225T070000Z
+DTEND:20260225T074500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 1: NVQ vs WTRML0N
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T083000Z
+UID:pandascore-match-1373589@esport-ics
+DTSTART:20260225T083000Z
+DTEND:20260225T091500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 2: Omega vs NVQ
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T100000Z
+UID:pandascore-match-1373591@esport-ics
+DTSTART:20260225T100000Z
+DTEND:20260225T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 3: NVQ vs META
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T113000Z
+UID:pandascore-match-1373592@esport-ics
+DTSTART:20260225T113000Z
+DTEND:20260225T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 4: HOTU vs NVQ
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
 END:VEVENT
 END:VCALENDAR

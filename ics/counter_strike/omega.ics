@@ -252,4 +252,48 @@ DESCRIPTION:European Pro League - Series 5 2026 - Group D\nWatch: https://k
 SUMMARY:ACE vs Omega
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T070000Z
+UID:pandascore-match-1373586@esport-ics
+DTSTART:20260225T070000Z
+DTEND:20260225T074500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 1: Omega vs META
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T083000Z
+UID:pandascore-match-1373589@esport-ics
+DTSTART:20260225T083000Z
+DTEND:20260225T091500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 2: Omega vs NVQ
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T113000Z
+UID:pandascore-match-1373593@esport-ics
+DTSTART:20260225T113000Z
+DTEND:20260225T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 4: Omega vs WTRML0N
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T140000Z
+UID:pandascore-match-1373594@esport-ics
+DTSTART:20260225T140000Z
+DTEND:20260225T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 5: HOTU vs Omega
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
 END:VCALENDAR

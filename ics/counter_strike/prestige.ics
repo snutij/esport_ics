@@ -57,17 +57,6 @@ SUMMARY:MEGO vs PRE
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T190000Z
-UID:pandascore-match-1368662@esport-ics
-DTSTART:20260223T190000Z
-DTEND:20260223T211500Z
-CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
- \nWatch: https://www.twitch.tv/dust2tv
-SUMMARY:Round 4: SASHI vs PRE
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260224T113000Z
 UID:pandascore-match-1365960@esport-ics
 DTSTART:20260224T113000Z
@@ -77,5 +66,14 @@ DESCRIPTION:United21 - Season 45 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Elimination match: Imperial.A vs PRE
 URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T170000Z
+UID:pandascore-match-1368662@esport-ics
+DTSTART:20260225T170000Z
+DTEND:20260225T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
+SUMMARY:Round 4: SASHI vs PRE
 END:VEVENT
 END:VCALENDAR

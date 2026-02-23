@@ -58,6 +58,50 @@ CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
  v/meta_esports_kz2
 SUMMARY:TC vs NVQ
-URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz2
+URL:https://www.twitch.tv/meta_esports_kz2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T070000Z
+UID:pandascore-match-1373577@esport-ics
+DTSTART:20260224T070000Z
+DTEND:20260224T074500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 1: ALT vs TC
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T100000Z
+UID:pandascore-match-1373580@esport-ics
+DTSTART:20260224T100000Z
+DTEND:20260224T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 3: SNG vs TC
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T113000Z
+UID:pandascore-match-1373583@esport-ics
+DTSTART:20260224T113000Z
+DTEND:20260224T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 4: Rune Eaters vs TC
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T140000Z
+UID:pandascore-match-1373585@esport-ics
+DTSTART:20260224T140000Z
+DTEND:20260224T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 5: TC vs TU
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
 END:VEVENT
 END:VCALENDAR

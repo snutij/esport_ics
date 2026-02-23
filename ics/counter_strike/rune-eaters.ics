@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:THE UNIT
-SLUG:the-unit
+X-WR-CALNAME:Rune Eaters
+SLUG:rune-eaters
 BEGIN:VEVENT
 DTSTAMP:20260224T070000Z
 UID:pandascore-match-1373576@esport-ics
@@ -18,44 +18,35 @@ URL;VALUE=URI:https://www.twitch.tv/myskill_top
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260224T083000Z
-UID:pandascore-match-1373578@esport-ics
+UID:pandascore-match-1373579@esport-ics
 DTSTART:20260224T083000Z
 DTEND:20260224T091500Z
 CLASS:PUBLIC
 DESCRIPTION:Myskill Pro League - Season 2 2026 - Group A\nWatch: https://ww
  w.twitch.tv/myskill_top
-SUMMARY:Round 2: SNG vs TU
+SUMMARY:Round 2: Rune Eaters vs ALT
 URL;VALUE=URI:https://www.twitch.tv/myskill_top
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260224T100000Z
-UID:pandascore-match-1373581@esport-ics
-DTSTART:20260224T100000Z
-DTEND:20260224T104500Z
+DTSTAMP:20260224T113000Z
+UID:pandascore-match-1373583@esport-ics
+DTSTART:20260224T113000Z
+DTEND:20260224T121500Z
 CLASS:PUBLIC
 DESCRIPTION:Myskill Pro League - Season 2 2026 - Group A\nWatch: https://ww
  w.twitch.tv/myskill_top
-SUMMARY:Round 3: ALT vs TU
+SUMMARY:Round 4: Rune Eaters vs TC
 URL;VALUE=URI:https://www.twitch.tv/myskill_top
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260224T140000Z
-UID:pandascore-match-1373585@esport-ics
+UID:pandascore-match-1373584@esport-ics
 DTSTART:20260224T140000Z
 DTEND:20260224T144500Z
 CLASS:PUBLIC
 DESCRIPTION:Myskill Pro League - Season 2 2026 - Group A\nWatch: https://ww
  w.twitch.tv/myskill_top
-SUMMARY:Round 5: TC vs TU
+SUMMARY:Round 5: SNG vs Rune Eaters
 URL;VALUE=URI:https://www.twitch.tv/myskill_top
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260226T043000Z
-UID:pandascore-match-1367426@esport-ics
-DTSTART:20260226T043000Z
-DTEND:20260226T064500Z
-CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest: West Asian Closed Qualifier 2026 - Playoffs
-SUMMARY:Upper bracket semifinal 1: SCARX vs TU
 END:VEVENT
 END:VCALENDAR

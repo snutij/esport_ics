@@ -145,4 +145,48 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
 SUMMARY:FUT.A vs WTRML0N
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T070000Z
+UID:pandascore-match-1373587@esport-ics
+DTSTART:20260225T070000Z
+DTEND:20260225T074500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 1: NVQ vs WTRML0N
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T100000Z
+UID:pandascore-match-1373590@esport-ics
+DTSTART:20260225T100000Z
+DTEND:20260225T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 3: HOTU vs WTRML0N
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T113000Z
+UID:pandascore-match-1373593@esport-ics
+DTSTART:20260225T113000Z
+DTEND:20260225T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 4: Omega vs WTRML0N
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T140000Z
+UID:pandascore-match-1373595@esport-ics
+DTSTART:20260225T140000Z
+DTEND:20260225T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Round 5: WTRML0N vs META
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
 END:VCALENDAR
