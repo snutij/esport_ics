@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Championship - Season 2 2026 - Playoffs\nWatch: https://kic
  k.com/epldota_en2
 SUMMARY:Lower bracket round 2 match 1: RE vs enjoy boys
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T160000Z
+UID:pandascore-match-1374944@esport-ics
+DTSTART:20260225T160000Z
+DTEND:20260225T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Championship - Season 2 2026 - Playoffs\nWatch: https://kic
+ k.com/epldota_en2
+SUMMARY:Lower bracket round 3 match 1: RE vs YeS
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
