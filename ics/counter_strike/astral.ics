@@ -168,7 +168,18 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 5 2026 - Group C\nWatch: https://kick.com/dra
  culancsb
 SUMMARY:ASTRAL vs HEC
-URL;VALUE=URI:https://kick.com/draculancsb
+URL:https://kick.com/draculancsb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T130000Z
+UID:pandascore-match-1363280@esport-ics
+DTSTART:20260224T130000Z
+DTEND:20260224T134500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Group C\nWatch: https://kick.com/dra
+ culancsd
+SUMMARY:Winners match: ASTRAL vs zajezdzacze
+URL;VALUE=URI:https://kick.com/draculancsd
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260225T180000Z
