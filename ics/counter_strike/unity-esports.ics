@@ -137,6 +137,17 @@ DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
 SUMMARY:UNiTY vs WeShowSkill
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260225T150000Z
+UID:pandascore-match-1374941@esport-ics
+DTSTART:20260225T150000Z
+DTEND:20260225T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/exort_en
+SUMMARY:Round 3: UNiTY vs Falcons Force
+URL;VALUE=URI:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260227T113000Z
 UID:pandascore-match-1355898@esport-ics
 DTSTART:20260227T113000Z

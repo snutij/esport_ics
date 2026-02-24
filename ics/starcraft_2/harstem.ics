@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Harstem
+SLUG:harstem
+BEGIN:VEVENT
+DTSTAMP:20260225T124000Z
+UID:pandascore-match-1366170@esport-ics
+DTSTART:20260225T124000Z
+DTEND:20260225T145500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group D\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:trigger vs Harstem
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T132000Z
+UID:pandascore-match-1366171@esport-ics
+DTSTART:20260225T132000Z
+DTEND:20260225T153500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group D\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Harstem vs SHIN
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T140000Z
+UID:pandascore-match-1366173@esport-ics
+DTSTART:20260225T140000Z
+DTEND:20260225T161500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group D\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Harstem vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T144000Z
+UID:pandascore-match-1366176@esport-ics
+DTSTART:20260225T144000Z
+DTEND:20260225T165500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group D\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Harstem vs Bunny
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+END:VCALENDAR

@@ -250,7 +250,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 5 2026 - Group D\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:ACE vs OMG
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260225T070000Z
@@ -295,5 +295,16 @@ DESCRIPTION:Myskill Pro League - Season 2 2026 - Group B\nWatch: https://ww
  w.twitch.tv/myskill_top
 SUMMARY:Round 5: HOTU vs OMG
 URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T090000Z
+UID:pandascore-match-1355920@esport-ics
+DTSTART:20260228T090000Z
+DTEND:20260228T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 2026 - Group D\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Elimination match: ALGO vs OMG
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

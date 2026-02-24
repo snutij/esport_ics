@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gen.G Global Academy
+SLUG:gen-g-global-academy
+BEGIN:VEVENT
+DTSTAMP:20260226T080000Z
+UID:pandascore-match-1374647@esport-ics
+DTSTART:20260226T080000Z
+DTEND:20260226T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:GEN.A vs ARETE
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T050000Z
+UID:pandascore-match-1374649@esport-ics
+DTSTART:20260227T050000Z
+DTEND:20260227T071500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:GEN.A vs DK
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T080000Z
+UID:pandascore-match-1374706@esport-ics
+DTSTART:20260312T080000Z
+DTEND:20260312T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:GEN.A vs DRX.A
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T080000Z
+UID:pandascore-match-1374720@esport-ics
+DTSTART:20260313T080000Z
+DTEND:20260313T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:OSG vs GEN.A
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T100000Z
+UID:pandascore-match-1374742@esport-ics
+DTSTART:20260318T100000Z
+DTEND:20260318T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:T1.A vs GEN.A
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T050000Z
+UID:pandascore-match-1374746@esport-ics
+DTSTART:20260320T050000Z
+DTEND:20260320T071500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:FOX vs GEN.A
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T100000Z
+UID:pandascore-match-1374751@esport-ics
+DTSTART:20260325T100000Z
+DTEND:20260325T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:MIR vs GEN.A
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+END:VCALENDAR

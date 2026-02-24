@@ -48,15 +48,26 @@ SUMMARY:aimclub vs Diamant Esports
 URL:https://kick.com/draculancsd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260224T143000Z
+DTSTAMP:20260224T153000Z
 UID:pandascore-match-1363271@esport-ics
-DTSTART:20260224T143000Z
-DTEND:20260224T164500Z
+DTSTART:20260224T153000Z
+DTEND:20260224T174500Z
 CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 5 2026 - Group A\nWatch: https://kick.com/dra
  culancs
 SUMMARY:Elimination match: aimclub vs mindshock
 URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T180000Z
+UID:pandascore-match-1374942@esport-ics
+DTSTART:20260225T180000Z
+DTEND:20260225T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/exort_en
+SUMMARY:Round 3: WW vs aimclub
+URL;VALUE=URI:https://kick.com/exort_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260301T190000Z

@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ONSIDE GAMING
+SLUG:onside-gaming
+BEGIN:VEVENT
+DTSTAMP:20260225T080000Z
+UID:pandascore-match-1374585@esport-ics
+DTSTART:20260225T080000Z
+DTEND:20260225T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:T1.A vs OSG
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T050000Z
+UID:pandascore-match-1374650@esport-ics
+DTSTART:20260227T050000Z
+DTEND:20260227T071500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:OSG vs DRX.A
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T100000Z
+UID:pandascore-match-1374707@esport-ics
+DTSTART:20260312T100000Z
+DTEND:20260312T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:FOX vs OSG
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T080000Z
+UID:pandascore-match-1374720@esport-ics
+DTSTART:20260313T080000Z
+DTEND:20260313T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:OSG vs GEN.A
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T080000Z
+UID:pandascore-match-1374743@esport-ics
+DTSTART:20260319T080000Z
+DTEND:20260319T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:OSG vs MIR
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T080000Z
+UID:pandascore-match-1374747@esport-ics
+DTSTART:20260320T080000Z
+DTEND:20260320T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:OSG vs DK
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T080000Z
+UID:pandascore-match-1374772@esport-ics
+DTSTART:20260326T080000Z
+DTEND:20260326T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:ARETE vs OSG
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+END:VCALENDAR

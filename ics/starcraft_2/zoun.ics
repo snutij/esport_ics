@@ -36,6 +36,50 @@ CLASS:PUBLIC
 DESCRIPTION:PiG Sty Festival - Season 7 2026 - Group B\nWatch: https://www.
  twitch.tv/x5_pig
 SUMMARY:Solar vs Zoun
-URL;VALUE=URI:https://www.twitch.tv/x5_pig
+URL:https://www.twitch.tv/x5_pig
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T120000Z
+UID:pandascore-match-1366167@esport-ics
+DTSTART:20260225T120000Z
+DTEND:20260225T141500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group D\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:trigger vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T124000Z
+UID:pandascore-match-1366169@esport-ics
+DTSTART:20260225T124000Z
+DTEND:20260225T145500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group D\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Bunny vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T140000Z
+UID:pandascore-match-1366173@esport-ics
+DTSTART:20260225T140000Z
+DTEND:20260225T161500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group D\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:Harstem vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T144000Z
+UID:pandascore-match-1366175@esport-ics
+DTSTART:20260225T144000Z
+DTEND:20260225T165500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Group D\nWatch: https://ww
+ w.twitch.tv/wardiii
+SUMMARY:SHIN vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

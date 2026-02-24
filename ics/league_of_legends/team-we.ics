@@ -46,6 +46,16 @@ DTEND:20260224T144500Z
 CLASS:PUBLIC
 DESCRIPTION:LPL - Split 1 2026 - Playoffs\nWatch: http://www.huya.com/lpl
 SUMMARY:Upper bracket quarterfinal 1: AL vs WE
+URL:http://www.huya.com/lpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T090000Z
+UID:pandascore-match-1352795@esport-ics
+DTSTART:20260228T090000Z
+DTEND:20260228T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 1 2026 - Playoffs\nWatch: http://www.huya.com/lpl
+SUMMARY:Lower bracket round 1 match 1: TES vs WE
 URL;VALUE=URI:http://www.huya.com/lpl
 END:VEVENT
 END:VCALENDAR
