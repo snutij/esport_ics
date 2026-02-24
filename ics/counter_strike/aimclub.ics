@@ -45,7 +45,18 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 5 2026 - Group A\nWatch: https://kick.com/dra
  culancsd
 SUMMARY:aimclub vs Diamant Esports
-URL;VALUE=URI:https://kick.com/draculancsd
+URL:https://kick.com/draculancsd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T143000Z
+UID:pandascore-match-1363271@esport-ics
+DTSTART:20260224T143000Z
+DTEND:20260224T164500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Group A\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:Elimination match: aimclub vs mindshock
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260301T190000Z

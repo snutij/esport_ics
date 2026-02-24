@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 5 2026 - Group B\nWatch: https://kick.com/dra
  culancs
 SUMMARY:MANA vs 100T
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T130000Z
+UID:pandascore-match-1363275@esport-ics
+DTSTART:20260224T130000Z
+DTEND:20260224T134500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Group B\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:Winners match: 100T vs TBD
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR

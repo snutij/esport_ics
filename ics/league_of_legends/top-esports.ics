@@ -24,6 +24,16 @@ DTEND:20260224T094500Z
 CLASS:PUBLIC
 DESCRIPTION:LPL - Split 1 2026 - Playoffs\nWatch: https://www.huya.com/lpl
 SUMMARY:Upper bracket quarterfinal 2: JDG vs TES
-URL;VALUE=URI:https://www.huya.com/lpl
+URL:https://www.huya.com/lpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T090000Z
+UID:pandascore-match-1352795@esport-ics
+DTSTART:20260228T090000Z
+DTEND:20260228T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 1 2026 - Playoffs\nWatch: http://www.huya.com/lpl
+SUMMARY:Lower bracket round 1 match 1: TES vs TBD
+URL;VALUE=URI:http://www.huya.com/lpl
 END:VEVENT
 END:VCALENDAR

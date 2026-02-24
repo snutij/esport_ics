@@ -84,6 +84,17 @@ SUMMARY:Round 2: WW vs STA
 URL:https://kick.com/exort_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260224T120000Z
+UID:pandascore-match-1373777@esport-ics
+DTSTART:20260224T120000Z
+DTEND:20260224T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/exort_en
+SUMMARY:Round 3: STA vs G2.A
+URL;VALUE=URI:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260226T090000Z
 UID:pandascore-match-1365951@esport-ics
 DTSTART:20260226T090000Z
