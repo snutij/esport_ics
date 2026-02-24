@@ -165,4 +165,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - February 2026 - Playoffs
 SUMMARY:Quarterfinal 1: LDP vs Alzon
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T190000Z
+UID:pandascore-match-1360809@esport-ics
+DTSTART:20260226T190000Z
+DTEND:20260226T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - February 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/gamersclubcs
+SUMMARY:Semifinal 1: LDP vs TBD
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
 END:VCALENDAR
