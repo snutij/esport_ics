@@ -182,6 +182,17 @@ SUMMARY:Upper bracket final: GL vs SIN
 URL:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260224T120000Z
+UID:pandascore-match-1366441@esport-ics
+DTSTART:20260224T120000Z
+DTEND:20260224T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Lower bracket final: ILWL vs SIN
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260225T180000Z
 UID:pandascore-match-1373627@esport-ics
 DTSTART:20260225T180000Z
