@@ -234,4 +234,15 @@ DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
 SUMMARY:Round 3: WW vs aimclub
 URL;VALUE=URI:https://kick.com/exort_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T113000Z
+UID:pandascore-match-1355898@esport-ics
+DTSTART:20260227T113000Z
+DTEND:20260227T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 2026 - Group C\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Winners match: UNiTY vs WW
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
