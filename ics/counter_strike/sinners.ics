@@ -181,4 +181,15 @@ DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Playoffs\nWatc
 SUMMARY:Upper bracket final: GL vs SIN
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T180000Z
+UID:pandascore-match-1373627@esport-ics
+DTSTART:20260225T180000Z
+DTEND:20260225T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs2
+SUMMARY:Round of 16 Match 8: SIN vs LK
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

@@ -250,4 +250,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup 1 season 51 2026 - Playoffs
 SUMMARY:Grand final: TDK vs ALL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T090000Z
+UID:pandascore-match-1373624@esport-ics
+DTSTART:20260225T090000Z
+DTEND:20260225T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs2
+SUMMARY:Round of 16 Match 5: ALL vs ARC
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

@@ -110,6 +110,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 22 2026 - Playoffs\nWatch: https://kick.c
  om/exort_en2
 SUMMARY:Semifinal 2: ex-GANK Esports vs CYBERSHOKE Prospects
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260224T160000Z
+UID:pandascore-match-1373613@esport-ics
+DTSTART:20260224T160000Z
+DTEND:20260224T164500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:ex-GANK Esports vs TLR
 END:VEVENT
 END:VCALENDAR

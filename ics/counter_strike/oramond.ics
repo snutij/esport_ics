@@ -83,6 +83,17 @@ SUMMARY:Elimination match: SAW vs ORM
 URL:https://www.twitch.tv/rmncs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260224T150000Z
+UID:pandascore-match-1373622@esport-ics
+DTSTART:20260224T150000Z
+DTEND:20260224T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs2
+SUMMARY:Round of 16 Match 3: ORM vs QWE
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260225T140000Z
 UID:pandascore-match-1363292@esport-ics
 DTSTART:20260225T140000Z
