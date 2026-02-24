@@ -94,7 +94,8 @@ DTSTART:20260224T140000Z
 DTEND:20260224T161500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup 1 season 51 2026 - Pla
- yoffs
+ yoffs\nWatch: https://www.twitch.tv/eslcs
 SUMMARY:Grand final: Morningstar vs CTG
+URL;VALUE=URI:https://www.twitch.tv/eslcs
 END:VEVENT
 END:VCALENDAR
