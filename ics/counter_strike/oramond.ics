@@ -105,6 +105,17 @@ SUMMARY:Upper bracket round 1 match 5: ORM vs EF
 URL:https://kick.com/draculancs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260225T170000Z
+UID:pandascore-match-1363316@esport-ics
+DTSTART:20260225T170000Z
+DTEND:20260225T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Lower bracket round 1 match 3: ORM vs TBD
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260226T120000Z
 UID:pandascore-match-1351268@esport-ics
 DTSTART:20260226T120000Z
