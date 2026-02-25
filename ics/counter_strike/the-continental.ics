@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:Myskill Pro League - Season 2 2026 - Group A\nWatch: https://ww
  w.twitch.tv/olimpbet_cs
 SUMMARY:Round 5: TC vs TU
-URL;VALUE=URI:https://www.twitch.tv/olimpbet_cs
+URL:https://www.twitch.tv/olimpbet_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T140000Z
+UID:pandascore-match-1373601@esport-ics
+DTSTART:20260226T140000Z
+DTEND:20260226T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/myskill_top
+SUMMARY:Quarterfinal 4: TC vs TBD
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
 END:VEVENT
 END:VCALENDAR

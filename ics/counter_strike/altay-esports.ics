@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Myskill Pro League - Season 2 2026 - Group A\nWatch: https://ww
  w.twitch.tv/myskill_top
 SUMMARY:Round 4: SNG vs ALT
+URL:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T060000Z
+UID:pandascore-match-1373597@esport-ics
+DTSTART:20260226T060000Z
+DTEND:20260226T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Myskill Pro League - Season 2 2026 - Play-In\nWatch: https://ww
+ w.twitch.tv/myskill_top
+SUMMARY:Semifinal 2: TU vs ALT
 URL;VALUE=URI:https://www.twitch.tv/myskill_top
 END:VEVENT
 END:VCALENDAR

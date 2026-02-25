@@ -43,6 +43,17 @@ CLASS:PUBLIC
 DESCRIPTION:De_Airport Masters - 2026 - Playoffs\nWatch: https://www.twitch
  .tv/landingzone_
 SUMMARY:Round 1 match 3: PHA vs SFE
-URL;VALUE=URI:https://www.twitch.tv/landingzone_
+URL:https://www.twitch.tv/landingzone_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T093000Z
+UID:pandascore-match-1376105@esport-ics
+DTSTART:20260301T093000Z
+DTEND:20260301T114500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 1\nWatch: https://www.t
+ witch.tv/ESLCS
+SUMMARY:Round 1: PRV vs SFE
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

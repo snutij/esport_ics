@@ -59,14 +59,14 @@ SUMMARY:Upper bracket round 1 match 2: ASTRAL vs BCA
 URL:https://kick.com/draculancs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260225T170000Z
+DTSTAMP:20260225T180000Z
 UID:pandascore-match-1363314@esport-ics
-DTSTART:20260225T170000Z
-DTEND:20260225T191500Z
+DTSTART:20260225T180000Z
+DTEND:20260225T201500Z
 CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 5 2026 - Playoffs\nWatch: https://kick.com/dr
- aculancs
+ aculancsc
 SUMMARY:Lower bracket round 1 match 1: BCA vs INF
-URL;VALUE=URI:https://kick.com/draculancs
+URL;VALUE=URI:https://kick.com/draculancsc
 END:VEVENT
 END:VCALENDAR

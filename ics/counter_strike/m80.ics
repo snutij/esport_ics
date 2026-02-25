@@ -68,4 +68,15 @@ DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
  ayoffs
 SUMMARY:Grand final: M80 vs VOCA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T120000Z
+UID:pandascore-match-1376107@esport-ics
+DTSTART:20260301T120000Z
+DTEND:20260301T141500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 1\nWatch: https://www.t
+ witch.tv/ESLCS
+SUMMARY:Round 1: FUT vs M80
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
 END:VCALENDAR

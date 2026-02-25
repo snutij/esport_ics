@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Cluj-Napoca 2026 - Group Stage\nWatch: https://www.twitch
  .tv/watchfultvb
 SUMMARY:Round 3: 3DMAX vs HERO
-URL;VALUE=URI:https://www.twitch.tv/watchfultvb
+URL:https://www.twitch.tv/watchfultvb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T143000Z
+UID:pandascore-match-1376110@esport-ics
+DTSTART:20260301T143000Z
+DTEND:20260301T164500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 1\nWatch: https://www.t
+ witch.tv/ESLCS
+SUMMARY:Round 1: 3DMAX vs paiN
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
