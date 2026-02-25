@@ -85,4 +85,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: Oceanic Closed Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 1: THUNDER dOWNUNDER vs GZ
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T050000Z
+UID:pandascore-match-1364314@esport-ics
+DTSTART:20260227T050000Z
+DTEND:20260227T071500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs4
+SUMMARY:Upper bracket final: THUNDER dOWNUNDER vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
 END:VCALENDAR
