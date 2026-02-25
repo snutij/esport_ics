@@ -193,6 +193,17 @@ SUMMARY:Lower bracket semifinal: ILWL vs ECS
 URL:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260228T140000Z
+UID:pandascore-match-1313597@esport-ics
+DTSTART:20260228T140000Z
+DTEND:20260228T161500Z
+CLASS:PUBLIC
+DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/a1gamingleague
+SUMMARY:Quarterfinal 1: ECS vs HS
+URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260301T140000Z
 UID:pandascore-match-1313599@esport-ics
 DTSTART:20260301T140000Z
@@ -201,6 +212,6 @@ CLASS:PUBLIC
 DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/a1gamingleague
 SUMMARY:Quarterfinal 3: ECS vs KOL
-URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+URL:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 END:VCALENDAR

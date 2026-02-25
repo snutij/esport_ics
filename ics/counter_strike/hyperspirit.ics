@@ -172,6 +172,28 @@ DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
 SUMMARY:TNC vs HS
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260226T140000Z
+UID:pandascore-match-1363313@esport-ics
+DTSTART:20260226T140000Z
+DTEND:20260226T161500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Lower bracket round 2 match 4: HS vs TBD
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T140000Z
+UID:pandascore-match-1313597@esport-ics
+DTSTART:20260228T140000Z
+DTEND:20260228T161500Z
+CLASS:PUBLIC
+DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/a1gamingleague
+SUMMARY:Quarterfinal 1: ECS vs HS
+URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260301T163000Z
 UID:pandascore-match-1313600@esport-ics
 DTSTART:20260301T163000Z
@@ -180,6 +202,6 @@ CLASS:PUBLIC
 DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/a1gamingleague
 SUMMARY:Quarterfinal 4: HS vs 33
-URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+URL:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 END:VCALENDAR
