@@ -94,4 +94,13 @@ DESCRIPTION:United21 - Season 45 2026 - Group D\nWatch: https://kick.com/un
 SUMMARY:Elimination match: KSM vs RT
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T190000Z
+UID:pandascore-match-1374971@esport-ics
+DTSTART:20260225T190000Z
+DTEND:20260225T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:RT vs LFO
+END:VEVENT
 END:VCALENDAR

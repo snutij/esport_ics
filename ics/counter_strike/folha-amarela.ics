@@ -152,6 +152,17 @@ DESCRIPTION:Gamers Club Liga Série A - February 2026 - Playoffs
 SUMMARY:Quarterfinal 4: FA vs RED.A
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260226T190000Z
+UID:pandascore-match-1369808@esport-ics
+DTSTART:20260226T190000Z
+DTEND:20260226T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #9 season 3 2026 - Group Stage\nWatc
+ h: https://kick.com/cct_cs3
+SUMMARY:Round 3: FA vs METANOIA
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260227T000000Z
 UID:pandascore-match-1367403@esport-ics
 DTSTART:20260227T000000Z

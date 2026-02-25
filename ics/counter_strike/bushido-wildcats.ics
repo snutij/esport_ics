@@ -164,6 +164,24 @@ CLASS:PUBLIC
 DESCRIPTION:JB Pro League - Season 2 2026 - Group stage\nWatch: https://www
  .twitch.tv/jbproleague
 SUMMARY:Round 4: BW vs VP.P
-URL;VALUE=URI:https://www.twitch.tv/jbproleague
+URL:https://www.twitch.tv/jbproleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T173000Z
+UID:pandascore-match-1374963@esport-ics
+DTSTART:20260225T173000Z
+DTEND:20260225T181500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:BW vs Imperial.A
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T190000Z
+UID:pandascore-match-1374974@esport-ics
+DTSTART:20260225T190000Z
+DTEND:20260225T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:BW vs URSA
 END:VEVENT
 END:VCALENDAR

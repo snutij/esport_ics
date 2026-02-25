@@ -39,6 +39,17 @@ SUMMARY:Round 1: ADP vs Inner Circle Academy
 URL:https://kick.com/exort_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260225T133000Z
+UID:pandascore-match-1374947@esport-ics
+DTSTART:20260225T133000Z
+DTEND:20260225T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 2: aAa vs Inner Circle Academy
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260226T113000Z
 UID:pandascore-match-1365966@esport-ics
 DTSTART:20260226T113000Z

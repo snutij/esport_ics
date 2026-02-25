@@ -104,4 +104,15 @@ DESCRIPTION:United21 - Season 45 2026 - Group D\nWatch: https://kick.com/un
 SUMMARY:Winners match: NAVI.J vs SNG
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T103000Z
+UID:pandascore-match-1374950@esport-ics
+DTSTART:20260226T103000Z
+DTEND:20260226T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 2: CLS vs SNG
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
 END:VCALENDAR

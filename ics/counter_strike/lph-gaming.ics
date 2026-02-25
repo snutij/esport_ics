@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 45 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Winners match: LPH vs MEGO
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T163000Z
+UID:pandascore-match-1374948@esport-ics
+DTSTART:20260225T163000Z
+DTEND:20260225T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 2: LPH vs Y.TigeRES
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

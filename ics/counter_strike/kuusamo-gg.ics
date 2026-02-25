@@ -50,6 +50,17 @@ SUMMARY:Elimination match: KSM vs RT
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260225T193000Z
+UID:pandascore-match-1374949@esport-ics
+DTSTART:20260225T193000Z
+DTEND:20260225T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 2: KSM vs PAR
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260303T153000Z
 UID:pandascore-match-1372433@esport-ics
 DTSTART:20260303T153000Z

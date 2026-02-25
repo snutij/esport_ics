@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:De_Airport Masters - 2026 - Playoffs\nWatch: https://www.twitch
  .tv/landingzone_
 SUMMARY:Round 1 match 4: ACE vs INF
-URL;VALUE=URI:https://www.twitch.tv/landingzone_
+URL:https://www.twitch.tv/landingzone_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T103000Z
+UID:pandascore-match-1374946@esport-ics
+DTSTART:20260225T103000Z
+DTEND:20260225T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 2: INF vs JUMBO
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

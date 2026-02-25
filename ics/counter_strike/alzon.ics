@@ -63,4 +63,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - February 2026 - Playoffs
 SUMMARY:Quarterfinal 1: LDP vs Alzon
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T130000Z
+UID:pandascore-match-1369802@esport-ics
+DTSTART:20260225T130000Z
+DTEND:20260225T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #9 season 3 2026 - Group Stage\nWatc
+ h: https://kick.com/cct_cs3
+SUMMARY:Round 3: Curralzinho vs Alzon
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR
