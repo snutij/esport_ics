@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Drama eSports
+SLUG:drama-esports
+BEGIN:VEVENT
+DTSTAMP:20260225T163000Z
+UID:pandascore-match-1374987@esport-ics
+DTSTART:20260225T163000Z
+DTEND:20260225T184500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #1 2026 - Playoffs\nWatch: https://www.
+ kick.com/cct-cs5
+SUMMARY:Lower bracket round 2 match 3: PH vs DRAMA
+URL;VALUE=URI:https://www.kick.com/cct-cs5
+END:VEVENT
+END:VCALENDAR
