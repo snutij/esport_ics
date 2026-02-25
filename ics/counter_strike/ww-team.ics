@@ -242,7 +242,7 @@ DTEND:20260226T171500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs2
-SUMMARY:Quarterfinal 3: WW vs TBD
+SUMMARY:Quarterfinal 3: WW vs SIN
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
@@ -255,5 +255,16 @@ DESCRIPTION:European Pro League - Series 5 2026 - Group C\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Winners match: UNiTY vs WW
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T120000Z
+UID:pandascore-match-1356228@esport-ics
+DTSTART:20260227T120000Z
+DTEND:20260227T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 4: Leo vs WW
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
