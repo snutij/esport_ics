@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Winter 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/lolesports_ar
 SUMMARY:Lower bracket final: BAAM vs 3BL
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T190000Z
+UID:pandascore-match-1356767@esport-ics
+DTSTART:20260226T190000Z
+DTEND:20260226T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Winter 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/lolesports_ar
+SUMMARY:Grand final: FN vs BAAM
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

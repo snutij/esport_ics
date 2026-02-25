@@ -133,6 +133,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs2
 SUMMARY:Round of 16 Match 5: ALL vs ARC
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T120000Z
+UID:pandascore-match-1364606@esport-ics
+DTSTART:20260227T120000Z
+DTEND:20260227T141500Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Season 2 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/jbproleague
+SUMMARY:Round of 16 match 5: KOL vs ARC
+URL;VALUE=URI:https://www.twitch.tv/jbproleague
 END:VEVENT
 END:VCALENDAR
