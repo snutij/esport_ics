@@ -111,6 +111,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom RUSH B! - Summit season 2 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/btsbrasilfps
 SUMMARY:Upper bracket quarterfinal 1: MARS vs FXW7
+URL:https://www.twitch.tv/btsbrasilfps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T160000Z
+UID:pandascore-match-1360799@esport-ics
+DTSTART:20260226T160000Z
+DTEND:20260226T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom RUSH B! - Summit season 2 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/btsbrasilfps
+SUMMARY:Lower bracket round 1 match 1: MARS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
 END:VEVENT
 END:VCALENDAR

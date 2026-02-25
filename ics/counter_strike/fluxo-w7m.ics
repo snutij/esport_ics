@@ -26,4 +26,15 @@ DESCRIPTION:PGL - Bucharest: South American Closed Qualifier 2026 - Playoff
  s
 SUMMARY:FXW7 vs YAW
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T220000Z
+UID:pandascore-match-1360791@esport-ics
+DTSTART:20260226T220000Z
+DTEND:20260227T001500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom RUSH B! - Summit season 2 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/btsbrasilfps
+SUMMARY:Upper bracket semifinal 1: FXW7 vs TBD
+URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
+END:VEVENT
 END:VCALENDAR
