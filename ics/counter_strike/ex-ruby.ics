@@ -217,6 +217,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 3: ex-RUBY vs TDK
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T090000Z
+UID:pandascore-match-1355844@esport-ics
+DTSTART:20260302T090000Z
+DTEND:20260302T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 2026 - Group A\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Decider match: ex-RUBY vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

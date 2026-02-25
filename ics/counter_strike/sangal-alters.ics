@@ -115,4 +115,15 @@ DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
 SUMMARY:Round 2: CLS vs SNG
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T113000Z
+UID:pandascore-match-1365956@esport-ics
+DTSTART:20260227T113000Z
+DTEND:20260227T134500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 45 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider match: SNG vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR

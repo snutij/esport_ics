@@ -152,6 +152,17 @@ SUMMARY:Upper bracket round 1 match 8: HS vs FLY
 URL:https://kick.com/draculancs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260225T170000Z
+UID:pandascore-match-1363317@esport-ics
+DTSTART:20260225T170000Z
+DTEND:20260225T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Lower bracket round 1 match 4: G1 vs HS
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260225T190000Z
 UID:pandascore-match-1374972@esport-ics
 DTSTART:20260225T190000Z

@@ -203,4 +203,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Group Stage\nWatch: http
 SUMMARY:Round 3: ASTRAL vs SPARTA
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T110000Z
+UID:pandascore-match-1363296@esport-ics
+DTSTART:20260226T110000Z
+DTEND:20260226T131500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Upper bracket quarterfinal 1: ASTRAL vs HERO
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
 END:VCALENDAR

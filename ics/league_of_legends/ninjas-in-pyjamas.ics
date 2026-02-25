@@ -24,6 +24,16 @@ DTEND:20260225T124500Z
 CLASS:PUBLIC
 DESCRIPTION:LPL - Split 1 2026 - Playoffs\nWatch: http://www.huya.com/lpl
 SUMMARY:Upper bracket quarterfinal 4: BLG vs NIP
+URL:http://www.huya.com/lpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T090000Z
+UID:pandascore-match-1352796@esport-ics
+DTSTART:20260301T090000Z
+DTEND:20260301T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 1 2026 - Playoffs\nWatch: http://www.huya.com/lpl
+SUMMARY:Lower bracket round 1 match 2: IG vs NIP
 URL;VALUE=URI:http://www.huya.com/lpl
 END:VEVENT
 END:VCALENDAR
