@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #1 2026 - Playoffs\nWatch: https://kick
  .com/cct-cs5
 SUMMARY:Lower bracket round 2 match 4: bankaPEPSI vs jelezni
-URL;VALUE=URI:https://kick.com/cct-cs5
+URL:https://kick.com/cct-cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T163000Z
+UID:pandascore-match-1376290@esport-ics
+DTSTART:20260226T163000Z
+DTEND:20260226T184500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #1 2026 - Playoffs\nWatch: https://www.
+ kick.com/cct-cs5
+SUMMARY:Lower bracket round 3 match 2: DRAMA vs bankaPEPSI
+URL;VALUE=URI:https://www.kick.com/cct-cs5
 END:VEVENT
 END:VCALENDAR
