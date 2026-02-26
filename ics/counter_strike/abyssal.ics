@@ -80,4 +80,13 @@ DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Playoffs\nWatch: https:
 SUMMARY:Lower bracket quarterfinal 1: UG vs Abyssal
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T040000Z
+UID:pandascore-match-1368702@esport-ics
+DTSTART:20260227T040000Z
+DTEND:20260227T061500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: Oceanic Closed Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket final: Abyssal vs MF
+END:VEVENT
 END:VCALENDAR
