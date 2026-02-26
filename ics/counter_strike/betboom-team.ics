@@ -110,7 +110,9 @@ UID:pandascore-match-1367399@esport-ics
 DTSTART:20260226T180000Z
 DTEND:20260226T201500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs
+DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/watchfulTV
 SUMMARY:Upper bracket quarterfinal 4: BB vs FOKUS
+URL;VALUE=URI:https://www.twitch.tv/watchfulTV
 END:VEVENT
 END:VCALENDAR
