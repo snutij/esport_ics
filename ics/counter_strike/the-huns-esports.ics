@@ -36,4 +36,13 @@ DESCRIPTION:MESA Pro Series - Winter 2026 - Playoffs\nWatch: https://www.yo
 SUMMARY:Upper bracket semifinal 1: THE vs CW
 URL;VALUE=URI:https://www.youtube.com/watch?v=79K3BQL5XDM
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T040000Z
+UID:pandascore-match-1368698@esport-ics
+DTSTART:20260227T040000Z
+DTEND:20260227T061500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: East Asian Closed Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket final: THE vs TBD
+END:VEVENT
 END:VCALENDAR
