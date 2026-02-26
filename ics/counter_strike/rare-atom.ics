@@ -31,7 +31,9 @@ UID:pandascore-match-1368694@esport-ics
 DTSTART:20260226T110000Z
 DTEND:20260226T131500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest: East Asian Closed Qualifier 2026 - Playoffs
+DESCRIPTION:PGL - Bucharest: East Asian Closed Qualifier 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/shemakaka
 SUMMARY:Upper bracket final: RA vs TBD
+URL;VALUE=URI:https://www.twitch.tv/shemakaka
 END:VEVENT
 END:VCALENDAR

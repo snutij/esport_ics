@@ -109,7 +109,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs4
 SUMMARY:Lower bracket quarterfinal 2: Skele vs MF
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260227T040000Z
@@ -119,5 +119,16 @@ DTEND:20260227T061500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: Oceanic Closed Qualifier 2026 - Playoffs
 SUMMARY:Lower bracket final: Abyssal vs MF
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T073000Z
+UID:pandascore-match-1364327@esport-ics
+DTSTART:20260227T073000Z
+DTEND:20260227T094500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs4
+SUMMARY:Lower bracket semifinal: MF vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

@@ -158,4 +158,13 @@ DESCRIPTION:DraculaN - Season 5 2026 - Playoffs\nWatch: https://kick.com/dr
 SUMMARY:Upper bracket quarterfinal 3: EF vs MANA
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T190000Z
+UID:pandascore-match-1376350@esport-ics
+DTSTART:20260226T190000Z
+DTEND:20260226T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:MINLATE vs MANA
+END:VEVENT
 END:VCALENDAR
