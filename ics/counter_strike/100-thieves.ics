@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 5 2026 - Playoffs\nWatch: https://www.twitch.
  tv/watchfulTVd
 SUMMARY:Lower bracket round 3 match 1: 100T vs BCA
-URL;VALUE=URI:https://www.twitch.tv/watchfulTVd
+URL:https://www.twitch.tv/watchfulTVd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T120000Z
+UID:pandascore-match-1363306@esport-ics
+DTSTART:20260227T120000Z
+DTEND:20260227T141500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Lower bracket quarterfinal 1: CS vs 100T
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
