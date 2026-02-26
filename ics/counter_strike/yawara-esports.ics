@@ -75,7 +75,8 @@ DTSTART:20260226T210000Z
 DTEND:20260226T231500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: South American Closed Qualifier 2026 - Playoff
- s
+ s\nWatch: https://www.twitch.tv/vilacattv
 SUMMARY:Upper Bracket Quarterfinal 3: YAW vs BHE
+URL;VALUE=URI:https://www.twitch.tv/vilacattv
 END:VEVENT
 END:VCALENDAR
