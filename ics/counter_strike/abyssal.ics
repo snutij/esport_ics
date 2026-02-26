@@ -89,4 +89,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: Oceanic Closed Qualifier 2026 - Playoffs
 SUMMARY:Lower bracket final: MF vs Abyssal
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T073000Z
+UID:pandascore-match-1364327@esport-ics
+DTSTART:20260227T073000Z
+DTEND:20260227T094500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs4
+SUMMARY:Lower bracket semifinal: MF vs Abyssal
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
 END:VCALENDAR
