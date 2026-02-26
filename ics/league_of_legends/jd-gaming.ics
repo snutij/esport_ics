@@ -23,6 +23,16 @@ DTEND:20260226T124500Z
 CLASS:PUBLIC
 DESCRIPTION:LPL - Split 1 2026 - Playoffs\nWatch: http://www.huya.com/lpl
 SUMMARY:Upper bracket semifinal 1: JDG vs AL
+URL:http://www.huya.com/lpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T090000Z
+UID:pandascore-match-1352803@esport-ics
+DTSTART:20260304T090000Z
+DTEND:20260304T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 1 2026 - Playoffs\nWatch: http://www.huya.com/lpl
+SUMMARY:Upper bracket final: JDG vs TBD
 URL;VALUE=URI:http://www.huya.com/lpl
 END:VEVENT
 END:VCALENDAR

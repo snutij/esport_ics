@@ -324,6 +324,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 5 2026 - Group B\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Winners match: LK vs ECF
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T113000Z
+UID:pandascore-match-1355877@esport-ics
+DTSTART:20260302T113000Z
+DTEND:20260302T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 2026 - Group B\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Decider match: FUZOS vs ECF
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
