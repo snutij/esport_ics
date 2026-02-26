@@ -127,6 +127,17 @@ SUMMARY:Lower bracket round 2 match 2: G2.A vs mixmix
 URL:https://kick.com/cct-cs6
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260226T120000Z
+UID:pandascore-match-1376354@esport-ics
+DTSTART:20260226T120000Z
+DTEND:20260226T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/exort_en
+SUMMARY:Round 4: G2.A vs  CSDIILIT
+URL;VALUE=URI:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260226T160000Z
 UID:pandascore-match-1376289@esport-ics
 DTSTART:20260226T160000Z

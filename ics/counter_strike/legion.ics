@@ -54,4 +54,13 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: West Asian Closed Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 2: LEGION vs Biryani
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T133000Z
+UID:pandascore-match-1368667@esport-ics
+DTSTART:20260226T133000Z
+DTEND:20260226T154500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: West Asian Closed Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket final: SCARX vs LEGION
+END:VEVENT
 END:VCALENDAR

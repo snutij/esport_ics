@@ -316,7 +316,18 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #17 season 3 2026 - Group
   C\nWatch: https://kick.com/cct_cs
 SUMMARY:Elimination match: ENCE.A vs  CSDIILIT
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T120000Z
+UID:pandascore-match-1376354@esport-ics
+DTSTART:20260226T120000Z
+DTEND:20260226T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/exort_en
+SUMMARY:Round 4: G2.A vs  CSDIILIT
+URL;VALUE=URI:https://kick.com/exort_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260226T190000Z
