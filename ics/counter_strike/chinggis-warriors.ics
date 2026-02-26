@@ -57,6 +57,17 @@ CLASS:PUBLIC
 DESCRIPTION:MESA Pro Series - Winter 2026 - Playoffs\nWatch: https://www.yo
  utube.com/watch?v=WfIMcrMuPEA
 SUMMARY:Upper bracket semifinal 1: THE vs CW
-URL;VALUE=URI:https://www.youtube.com/watch?v=WfIMcrMuPEA
+URL:https://www.youtube.com/watch?v=WfIMcrMuPEA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T043000Z
+UID:pandascore-match-1376320@esport-ics
+DTSTART:20260227T043000Z
+DTEND:20260227T064500Z
+CLASS:PUBLIC
+DESCRIPTION:MESA Pro Series - Winter 2026 - Playoffs\nWatch: https://www.yo
+ utube.com/@mesa_tv/streams
+SUMMARY:Lower bracket semifinal: NEXVOID vs CW
+URL;VALUE=URI:https://www.youtube.com/@mesa_tv/streams
 END:VEVENT
 END:VCALENDAR
