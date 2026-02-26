@@ -68,4 +68,15 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #17 season 3 2026 - Group
 SUMMARY:Decider match: LK vs BL
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T163000Z
+UID:pandascore-match-1376281@esport-ics
+DTSTART:20260228T163000Z
+DTEND:20260228T184500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #1 2026 - Playoffs\nWatch: https://www.
+ kick.com/cct-cs5
+SUMMARY:Upper bracket final: Atreides vs BL
+URL;VALUE=URI:https://www.kick.com/cct-cs5
+END:VEVENT
 END:VCALENDAR

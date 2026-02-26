@@ -82,4 +82,15 @@ DESCRIPTION:PiG Sty Festival - Season 7 2026 - Playoffs\nWatch: https://twi
 SUMMARY:Lower bracket round 1 match 1: Solar vs herO
 URL;VALUE=URI:https://twitch.tv/x5_pig
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T140000Z
+UID:pandascore-match-1377490@esport-ics
+DTSTART:20260306T140000Z
+DTEND:20260306T161500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/wardiii
+SUMMARY:Upper bracket round 16 match 8: Solar vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
 END:VCALENDAR

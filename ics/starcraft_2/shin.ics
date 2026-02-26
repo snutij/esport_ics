@@ -80,4 +80,15 @@ DESCRIPTION:PiG Sty Festival - Season 7 2026 - Playoffs\nWatch: https://twi
 SUMMARY:Lower bracket round 1 match 2: SHIN vs ShoWTimE
 URL;VALUE=URI:https://twitch.tv/x5_pig
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T133000Z
+UID:pandascore-match-1377489@esport-ics
+DTSTART:20260306T133000Z
+DTEND:20260306T154500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/wardiii
+SUMMARY:Upper bracket round 16 match 7: Cure vs SHIN
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
 END:VCALENDAR

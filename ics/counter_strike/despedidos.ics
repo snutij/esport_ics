@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Despedidos
+SLUG:despedidos
+BEGIN:VEVENT
+DTSTAMP:20260227T130000Z
+UID:pandascore-match-1377518@esport-ics
+DTSTART:20260227T130000Z
+DTEND:20260227T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReCONTER - Season 2 2026 - Group B\nWatch: https://www.youtub
+ e.com/@cronicatv/streams
+SUMMARY:Despedidos vs Hacha Esports
+URL;VALUE=URI:https://www.youtube.com/@cronicatv/streams
+END:VEVENT
+END:VCALENDAR

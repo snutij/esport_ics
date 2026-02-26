@@ -78,6 +78,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Group D\nWatch: https://ww
  w.twitch.tv/wardiii
 SUMMARY:SHIN vs Zoun
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T140000Z
+UID:pandascore-match-1377490@esport-ics
+DTSTART:20260306T140000Z
+DTEND:20260306T161500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/wardiii
+SUMMARY:Upper bracket round 16 match 8: Solar vs Zoun
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

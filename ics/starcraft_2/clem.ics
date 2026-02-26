@@ -104,4 +104,15 @@ DESCRIPTION:PiG Sty Festival - Season 7 2026 - Playoffs\nWatch: https://twi
 SUMMARY:Upper bracket quarterfinal 2: Clem vs Reynor
 URL;VALUE=URI:https://twitch.tv/x5_pig
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T140000Z
+UID:pandascore-match-1377486@esport-ics
+DTSTART:20260305T140000Z
+DTEND:20260305T161500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/wardiii
+SUMMARY:Upper bracket round 16 match 4: Clem vs Krystianer
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
 END:VCALENDAR
