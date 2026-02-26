@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America Stage 1 2026 - Playoffs\nWatch: https://www
  .twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Lower bracket final: SaD vs QoR
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T210000Z
+UID:pandascore-match-1364774@esport-ics
+DTSTART:20260226T210000Z
+DTEND:20260227T004500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America Stage 1 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Grand final: SRB vs QoR
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR
