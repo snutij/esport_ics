@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Championship - Season 2 2026 - Playoffs\nWatch: https://kic
  k.com/epldota_en2
 SUMMARY:Upper bracket final: LiXO eSports vs LYNX
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T130000Z
+UID:pandascore-match-1377482@esport-ics
+DTSTART:20260228T130000Z
+DTEND:20260228T164500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Championship - Season 2 2026 - Playoffs\nWatch: https://kic
+ k.com/epldota_en2
+SUMMARY:Grand final: LiXO eSports vs TBD
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

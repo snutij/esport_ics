@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Winter 2026 - Playoffs\nWatch: https://www.t
  witch.tv/hitpointcz
 SUMMARY:Upper bracket final: BRT vs NBS
+URL:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T150000Z
+UID:pandascore-match-1351430@esport-ics
+DTSTART:20260305T150000Z
+DTEND:20260305T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Winter 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/hitpointcz
+SUMMARY:Lower bracket final: BRT vs TBD
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 END:VCALENDAR

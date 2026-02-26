@@ -74,7 +74,9 @@ UID:pandascore-match-1376351@esport-ics
 DTSTART:20260226T190000Z
 DTEND:20260226T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/heel1n
 SUMMARY:B8 Academy vs OldBoys
+URL;VALUE=URI:https://www.twitch.tv/heel1n
 END:VEVENT
 END:VCALENDAR

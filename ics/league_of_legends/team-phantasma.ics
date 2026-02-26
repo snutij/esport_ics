@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:HLL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/hell
  eniclegends
 SUMMARY:Semifinal 2: TP vs IN5
+URL:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T110000Z
+UID:pandascore-match-1368628@esport-ics
+DTSTART:20260228T110000Z
+DTEND:20260228T144500Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/hell
+ eniclegends
+SUMMARY:Grand final: WLG vs TP
 URL;VALUE=URI:https://www.twitch.tv/helleniclegends
 END:VEVENT
 END:VCALENDAR
