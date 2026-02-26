@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom RUSH B! - Summit season 2 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/btsbrasilfps
 SUMMARY:Upper bracket quarterfinal 4: SHK vs GLS
+URL:https://www.twitch.tv/btsbrasilfps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T010000Z
+UID:pandascore-match-1360792@esport-ics
+DTSTART:20260227T010000Z
+DTEND:20260227T031500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom RUSH B! - Summit season 2 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/btsbrasilfps
+SUMMARY:Upper bracket semifinal 2: 9z vs SHK
 URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
 END:VEVENT
 END:VCALENDAR
