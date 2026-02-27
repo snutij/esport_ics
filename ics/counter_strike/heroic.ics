@@ -94,6 +94,17 @@ SUMMARY:Upper bracket final: HERO vs FLY
 URL:https://kick.com/draculancsb
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260228T173000Z
+UID:pandascore-match-1363303@esport-ics
+DTSTART:20260228T173000Z
+DTEND:20260228T194500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 5 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Grand final: HERO vs TBD
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260301T103000Z
 UID:pandascore-match-1376112@esport-ics
 DTSTART:20260301T103000Z

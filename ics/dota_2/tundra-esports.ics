@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 28 2026 - Stage 2\nWatch: https://www.twit
  ch.tv/esl_dota2
 SUMMARY:Tundra vs Liquid
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T170000Z
+UID:pandascore-match-1358123@esport-ics
+DTSTART:20260228T170000Z
+DTEND:20260228T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 28 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/esl_dota2
+SUMMARY:Upper bracket final: Liquid vs Tundra
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR
