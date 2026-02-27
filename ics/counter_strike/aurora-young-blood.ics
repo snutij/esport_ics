@@ -137,6 +137,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #1 2026 - Playoffs\nWatch: https://kick
  .com/cct-cs5
 SUMMARY:Lower bracket quartefinal 1: AUR.YB vs G2.A
-URL;VALUE=URI:https://kick.com/cct-cs5
+URL:https://kick.com/cct-cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T191500Z
+UID:pandascore-match-1376286@esport-ics
+DTSTART:20260228T191500Z
+DTEND:20260228T213000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #1 2026 - Playoffs\nWatch: https://www.
+ kick.com/cct-cs5
+SUMMARY:Lower bracket semifinal: AUR.YB vs TBD
+URL;VALUE=URI:https://www.kick.com/cct-cs5
 END:VEVENT
 END:VCALENDAR
