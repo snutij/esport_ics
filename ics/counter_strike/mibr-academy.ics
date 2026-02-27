@@ -32,6 +32,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - February 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/gamersclubcs
 SUMMARY:Quarterfinal 2: MIBR.A vs paiN.A
-URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T120000Z
+UID:pandascore-match-1378277@esport-ics
+DTSTART:20260305T120000Z
+DTEND:20260305T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group C\nWatch: https://www
+ .twitch.tv/vilacattv
+SUMMARY:SHK vs MIBR.A
+URL;VALUE=URI:https://www.twitch.tv/vilacattv
 END:VEVENT
 END:VCALENDAR

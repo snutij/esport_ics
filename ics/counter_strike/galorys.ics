@@ -133,4 +133,15 @@ DESCRIPTION:PGL - Bucharest: South American Closed Qualifier 2026 - Playoff
  s
 SUMMARY:Upper Bracket Semifinals 1: GLS vs Keyd
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T190000Z
+UID:pandascore-match-1378283@esport-ics
+DTSTART:20260305T190000Z
+DTEND:20260305T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group D\nWatch: https://www
+ .twitch.tv/vilacattv
+SUMMARY:MARS vs GLS
+URL;VALUE=URI:https://www.twitch.tv/vilacattv
+END:VEVENT
 END:VCALENDAR

@@ -72,6 +72,28 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: West Asian Closed Qualifier 2026 - Playoffs\nW
  atch: https://www.youtube.com/watch?v=cNUtAhpjyec
 SUMMARY:Grand final: LEGION vs SCARX
-URL;VALUE=URI:https://www.youtube.com/watch?v=cNUtAhpjyec
+URL:https://www.youtube.com/watch?v=cNUtAhpjyec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T050000Z
+UID:pandascore-match-1377805@esport-ics
+DTSTART:20260228T050000Z
+DTEND:20260228T071500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: Asian Closed Qualifier 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/aferatv
+SUMMARY:LEGION vs THUNDER dOWNUNDER
+URL;VALUE=URI:https://www.twitch.tv/aferatv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T080000Z
+UID:pandascore-match-1378635@esport-ics
+DTSTART:20260228T080000Z
+DTEND:20260228T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: Asian Closed Qualifier 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/aferatv
+SUMMARY:THE vs LEGION
+URL;VALUE=URI:https://www.twitch.tv/aferatv
 END:VEVENT
 END:VCALENDAR

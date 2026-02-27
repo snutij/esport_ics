@@ -27,4 +27,15 @@ DESCRIPTION:CCT South America - Series #9 season 3 2026 - Group Stage\nWatc
 SUMMARY:Round 4: LDP vs METANOIA
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T120000Z
+UID:pandascore-match-1378267@esport-ics
+DTSTART:20260304T120000Z
+DTEND:20260304T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group A\nWatch: https://www
+ .twitch.tv/vilacattv
+SUMMARY:IMP vs METANOIA
+URL;VALUE=URI:https://www.twitch.tv/vilacattv
+END:VEVENT
 END:VCALENDAR

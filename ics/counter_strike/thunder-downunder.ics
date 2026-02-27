@@ -106,6 +106,28 @@ SUMMARY:Upper bracket final: THUNDER dOWNUNDER vs GZ
 URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260228T020000Z
+UID:pandascore-match-1377788@esport-ics
+DTSTART:20260228T020000Z
+DTEND:20260228T041500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: Asian Closed Qualifier 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/aferatv
+SUMMARY:THUNDER dOWNUNDER vs THE
+URL;VALUE=URI:https://www.twitch.tv/aferatv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T050000Z
+UID:pandascore-match-1377805@esport-ics
+DTSTART:20260228T050000Z
+DTEND:20260228T071500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: Asian Closed Qualifier 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/aferatv
+SUMMARY:LEGION vs THUNDER dOWNUNDER
+URL;VALUE=URI:https://www.twitch.tv/aferatv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260228T070000Z
 UID:pandascore-match-1364329@esport-ics
 DTSTART:20260228T070000Z

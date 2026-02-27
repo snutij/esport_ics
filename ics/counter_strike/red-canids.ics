@@ -137,4 +137,15 @@ DESCRIPTION:BetBoom RUSH B! - Summit season 2 2026 - Playoffs\nWatch: https
 SUMMARY:Upper bracket final: RED vs SHK
 URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T190000Z
+UID:pandascore-match-1378282@esport-ics
+DTSTART:20260305T190000Z
+DTEND:20260305T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group D\nWatch: https://www
+ .twitch.tv/vilacattv
+SUMMARY:RED vs GH
+URL;VALUE=URI:https://www.twitch.tv/vilacattv
+END:VEVENT
 END:VCALENDAR
