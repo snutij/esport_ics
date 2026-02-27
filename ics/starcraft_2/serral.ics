@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:PiG Sty Festival - Season 7 2026 - Playoffs\nWatch: https://twi
  tch.tv/x5_pig
 SUMMARY:Upper bracket quarterfinal 1: Maru vs Serral
+URL:https://twitch.tv/x5_pig
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T130000Z
+UID:pandascore-match-1368521@esport-ics
+DTSTART:20260228T130000Z
+DTEND:20260228T181500Z
+CLASS:PUBLIC
+DESCRIPTION:PiG Sty Festival - Season 7 2026 - Playoffs\nWatch: https://twi
+ tch.tv/x5_pig
+SUMMARY:Lower bracket quarterfinal 2: Serral vs TBD
 URL;VALUE=URI:https://twitch.tv/x5_pig
 END:VEVENT
 END:VCALENDAR

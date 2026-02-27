@@ -126,7 +126,9 @@ UID:pandascore-match-1368676@esport-ics
 DTSTART:20260227T180000Z
 DTEND:20260227T201500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs
+DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/watchfulTV
 SUMMARY:Upper bracket semifinal 2: ICE vs FOKUS
+URL;VALUE=URI:https://www.twitch.tv/watchfulTV
 END:VEVENT
 END:VCALENDAR
