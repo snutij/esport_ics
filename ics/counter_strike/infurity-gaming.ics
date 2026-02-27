@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 2: INF vs JUMBO
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T133000Z
+UID:pandascore-match-1377574@esport-ics
+DTSTART:20260228T133000Z
+DTEND:20260228T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 3: INF vs VP.F
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

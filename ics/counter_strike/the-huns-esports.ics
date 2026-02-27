@@ -46,10 +46,10 @@ DESCRIPTION:PGL - Bucharest: East Asian Closed Qualifier 2026 - Playoffs
 SUMMARY:Lower bracket final: THE vs LVG
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260227T074500Z
+DTSTAMP:20260227T084000Z
 UID:pandascore-match-1368696@esport-ics
-DTSTART:20260227T074500Z
-DTEND:20260227T113000Z
+DTSTART:20260227T084000Z
+DTEND:20260227T122500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: East Asian Closed Qualifier 2026 - Playoffs\nW
  atch: https://www.twitch.tv/watchfulTVb
@@ -63,8 +63,8 @@ DTSTART:20260227T093000Z
 DTEND:20260227T114500Z
 CLASS:PUBLIC
 DESCRIPTION:MESA Pro Series - Winter 2026 - Playoffs\nWatch: https://www.yo
- utube.com/watch?v=3n-uXV8dous
+ utube.com/@mesa_tv/streams
 SUMMARY:Upper bracket final: BMZ vs THE
-URL;VALUE=URI:https://www.youtube.com/watch?v=3n-uXV8dous
+URL;VALUE=URI:https://www.youtube.com/@mesa_tv/streams
 END:VEVENT
 END:VCALENDAR
