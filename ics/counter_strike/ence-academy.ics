@@ -234,7 +234,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #17 season 3 2026 - Group
   C\nWatch: https://kick.com/cct_cs
 SUMMARY:Decider match: ENCE.A vs MSC
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260227T150000Z
@@ -245,7 +245,7 @@ CLASS:PUBLIC
 DESCRIPTION:JB Pro League - Season 2 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/jbproleague
 SUMMARY:Round of 16 match 8: ex-Fingers Crossed vs ENCE.A
-URL;VALUE=URI:https://www.twitch.tv/jbproleague
+URL:https://www.twitch.tv/jbproleague
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260301T090000Z
