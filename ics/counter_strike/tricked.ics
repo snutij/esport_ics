@@ -98,6 +98,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/watchfulTV
 SUMMARY:Lower bracket round 1 match 1: TRI vs MOUZ.N
-URL;VALUE=URI:https://www.twitch.tv/watchfulTV
+URL:https://www.twitch.tv/watchfulTV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T120000Z
+UID:pandascore-match-1368677@esport-ics
+DTSTART:20260228T120000Z
+DTEND:20260228T141500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: TRI vs TBD
 END:VEVENT
 END:VCALENDAR
