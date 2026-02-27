@@ -140,6 +140,17 @@ SUMMARY:Lower bracket quartefinal 1: AUR.YB vs G2.A
 URL:https://kick.com/cct-cs5
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260228T150000Z
+UID:pandascore-match-1372383@esport-ics
+DTSTART:20260228T150000Z
+DTEND:20260228T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #17 season 3 2026 - Playo
+ ffs\nWatch: https://kick.com/cct_cs
+SUMMARY:AUR.YB vs HAVU
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260228T191500Z
 UID:pandascore-match-1376286@esport-ics
 DTSTART:20260228T191500Z
