@@ -64,12 +64,14 @@ DESCRIPTION:PGL - Bucharest: West Asian Closed Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket final: SCARX vs LEGION
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260227T093000Z
+DTSTAMP:20260227T101500Z
 UID:pandascore-match-1368670@esport-ics
-DTSTART:20260227T093000Z
-DTEND:20260227T131500Z
+DTSTART:20260227T101500Z
+DTEND:20260227T140000Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest: West Asian Closed Qualifier 2026 - Playoffs
-SUMMARY:Grand final: LEGION vs TBD
+DESCRIPTION:PGL - Bucharest: West Asian Closed Qualifier 2026 - Playoffs\nW
+ atch: https://www.youtube.com/watch?v=cNUtAhpjyec
+SUMMARY:Grand final: LEGION vs SCARX
+URL;VALUE=URI:https://www.youtube.com/watch?v=cNUtAhpjyec
 END:VEVENT
 END:VCALENDAR
