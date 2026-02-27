@@ -148,17 +148,6 @@ SUMMARY:Round 3: UNiTY vs Falcons Force
 URL:https://kick.com/exort_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260227T113000Z
-UID:pandascore-match-1355898@esport-ics
-DTSTART:20260227T113000Z
-DTEND:20260227T134500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Series 5 2026 - Group C\nWatch: https://k
- ick.com/eplcs_en
-SUMMARY:Winners match: UNiTY vs WW
-URL;VALUE=URI:https://kick.com/eplcs_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260227T180000Z
 UID:pandascore-match-1377573@esport-ics
 DTSTART:20260227T180000Z
@@ -168,5 +157,16 @@ DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/exort_en
 SUMMARY:Round 4: ex-Fingers Crossed Female  vs UNiTY
 URL;VALUE=URI:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T143000Z
+UID:pandascore-match-1355898@esport-ics
+DTSTART:20260228T143000Z
+DTEND:20260228T164500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 2026 - Group C\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Winners match: UNiTY vs WW
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
