@@ -289,4 +289,15 @@ DESCRIPTION:European Pro League - Series 5 2026 - Group C\nWatch: https://k
 SUMMARY:Winners match: UNiTY vs WW
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T150000Z
+UID:pandascore-match-1364611@esport-ics
+DTSTART:20260228T150000Z
+DTEND:20260228T171500Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Season 2 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/jbproleague
+SUMMARY:Quarterfinal 3: KOL vs WW
+URL;VALUE=URI:https://www.twitch.tv/jbproleague
+END:VEVENT
 END:VCALENDAR
