@@ -77,6 +77,16 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: South American Closed Qualifier 2026 - Playoff
  s\nWatch: https://www.twitch.tv/vilacattv
 SUMMARY:Upper Bracket Quarterfinal 3: YAW vs BHE
-URL;VALUE=URI:https://www.twitch.tv/vilacattv
+URL:https://www.twitch.tv/vilacattv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T180000Z
+UID:pandascore-match-1373629@esport-ics
+DTSTART:20260227T180000Z
+DTEND:20260227T201500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: South American Closed Qualifier 2026 - Playoff
+ s
+SUMMARY:Lower Bracket Round 1 Match 2: FA vs YAW
 END:VEVENT
 END:VCALENDAR

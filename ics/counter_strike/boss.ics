@@ -194,4 +194,14 @@ DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
  s
 SUMMARY:Upper bracket quarterfinal 2: BOSS vs TA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T030000Z
+UID:pandascore-match-1368684@esport-ics
+DTSTART:20260228T030000Z
+DTEND:20260228T051500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
+ s
+SUMMARY:Upper bracket semifinal 1: WC vs BOSS
+END:VEVENT
 END:VCALENDAR
