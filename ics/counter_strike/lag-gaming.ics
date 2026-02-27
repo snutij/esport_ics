@@ -147,4 +147,14 @@ DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
  s
 SUMMARY:Upper bracket quarterfinal 3: FLY.R vs LAG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T030000Z
+UID:pandascore-match-1368685@esport-ics
+DTSTART:20260228T030000Z
+DTEND:20260228T051500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
+ s
+SUMMARY:Upper bracket semifinal 2: LAG vs VOCA
+END:VEVENT
 END:VCALENDAR

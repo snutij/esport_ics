@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ex-Fingers Crossed Female 
+SLUG:ex-fingers-crossed-female
+BEGIN:VEVENT
+DTSTAMP:20260227T180000Z
+UID:pandascore-match-1377573@esport-ics
+DTSTART:20260227T180000Z
+DTEND:20260227T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/exort_en
+SUMMARY:Round 4: ex-Fingers Crossed Female  vs UNiTY
+URL;VALUE=URI:https://kick.com/exort_en
+END:VEVENT
+END:VCALENDAR

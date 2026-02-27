@@ -89,4 +89,14 @@ DESCRIPTION:PGL - Bucharest: South American Closed Qualifier 2026 - Playoff
  s
 SUMMARY:Lower Bracket Round 1 Match 2: FA vs YAW
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T150000Z
+UID:pandascore-match-1373632@esport-ics
+DTSTART:20260228T150000Z
+DTEND:20260228T171500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: South American Closed Qualifier 2026 - Playoff
+ s
+SUMMARY:Lower bracket quarterfinal 2: YAW vs TBD
+END:VEVENT
 END:VCALENDAR

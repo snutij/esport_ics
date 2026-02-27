@@ -50,6 +50,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - February 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/gamersclubcs
 SUMMARY:Semifinal 2: BST.A vs RED.A
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T190000Z
+UID:pandascore-match-1360811@esport-ics
+DTSTART:20260227T190000Z
+DTEND:20260227T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - February 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/gamersclubcs
+SUMMARY:Grand final: paiN.A vs RED.A
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR
