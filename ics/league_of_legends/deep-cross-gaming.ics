@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  pacificen
 SUMMARY:Lower bracket final: DCG vs SHG
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T060000Z
+UID:pandascore-match-1308289@esport-ics
+DTSTART:20260301T060000Z
+DTEND:20260301T094500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ pacificen
+SUMMARY:Grand final: TSW vs DCG
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR
