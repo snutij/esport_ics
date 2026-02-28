@@ -153,4 +153,15 @@ DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs\nWat
 SUMMARY:Upper bracket final: EYE vs FOKUS
 URL;VALUE=URI:https://www.twitch.tv/CS2_maincast
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T090000Z
+UID:pandascore-match-1378773@esport-ics
+DTSTART:20260302T090000Z
+DTEND:20260302T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 45 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket round 1 match 1: FOKUS vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
