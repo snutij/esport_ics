@@ -161,7 +161,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 45 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket quarterfinals match 2: MISA vs Imperial.A
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260228T120000Z
@@ -171,5 +171,16 @@ DTEND:20260228T124500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
 SUMMARY:ex-GANK Esports vs MISA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T090000Z
+UID:pandascore-match-1378773@esport-ics
+DTSTART:20260302T090000Z
+DTEND:20260302T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 45 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket round 1 match 1: FOKUS vs MISA
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

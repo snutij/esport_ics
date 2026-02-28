@@ -172,6 +172,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 45 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket quarterfinals match 2: MISA vs Imperial.A
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T090000Z
+UID:pandascore-match-1378765@esport-ics
+DTSTART:20260303T090000Z
+DTEND:20260303T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 45 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket semifinal 1: RT vs Imperial.A
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
