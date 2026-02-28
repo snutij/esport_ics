@@ -61,4 +61,14 @@ DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
  s
 SUMMARY:Lower bracket round 1 match 1: SE vs TA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T000000Z
+UID:pandascore-match-1368690@esport-ics
+DTSTART:20260301T000000Z
+DTEND:20260301T021500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
+ s
+SUMMARY:Lower bracket quarterfinal 1: TA vs TBD
+END:VEVENT
 END:VCALENDAR

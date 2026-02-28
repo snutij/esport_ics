@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Invitational 2026 - Playoffs\nWatch: https://www.twitch.t
  v/otplol_
 SUMMARY:Lower bracket quarterfinal 2: JL vs TLNP
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T170000Z
+UID:pandascore-match-1378737@esport-ics
+DTSTART:20260304T170000Z
+DTEND:20260304T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Invitational 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:Lower bracket semifinal: FF vs TLNP
 URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

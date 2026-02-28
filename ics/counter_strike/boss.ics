@@ -201,7 +201,8 @@ DTSTART:20260228T030000Z
 DTEND:20260228T051500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
- s
+ s\nWatch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Upper bracket semifinal 1: WC vs BOSS
+URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
 END:VEVENT
 END:VCALENDAR
