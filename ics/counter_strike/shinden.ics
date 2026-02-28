@@ -160,8 +160,10 @@ UID:pandascore-match-1377516@esport-ics
 DTSTART:20260228T130000Z
 DTEND:20260228T151500Z
 CLASS:PUBLIC
-DESCRIPTION:FiReCONTER - Season 2 2026 - Group A
+DESCRIPTION:FiReCONTER - Season 2 2026 - Group A\nWatch: https://www.youtub
+ e.com/@cronicatv/streams
 SUMMARY:Winners match: SHIN vs ISG
+URL;VALUE=URI:https://www.youtube.com/@cronicatv/streams
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260304T120000Z
