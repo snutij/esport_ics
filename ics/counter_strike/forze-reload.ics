@@ -157,4 +157,15 @@ DESCRIPTION:European Pro League - Series 5 2026 - Group A\nWatch: https://k
 SUMMARY:Decider match: ex-RUBY vs FORZE.R
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T120000Z
+UID:pandascore-match-1378845@esport-ics
+DTSTART:20260302T120000Z
+DTEND:20260302T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Playoffs\nWatch: https://kick.co
+ m/exort_en
+SUMMARY:Round of 16 match 2: FORZE.R vs URSA
+URL;VALUE=URI:https://kick.com/exort_en
+END:VEVENT
 END:VCALENDAR

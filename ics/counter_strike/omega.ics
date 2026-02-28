@@ -363,6 +363,17 @@ SUMMARY:Quarterfinal 1: OMG vs SASHI
 URL:https://www.twitch.tv/jbproleague
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260301T090000Z
+UID:pandascore-match-1373711@esport-ics
+DTSTART:20260301T090000Z
+DTEND:20260301T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 1: ex-RUBY vs OMG
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260301T113000Z
 UID:pandascore-match-1355938@esport-ics
 DTSTART:20260301T113000Z

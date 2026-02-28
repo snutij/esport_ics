@@ -133,6 +133,17 @@ CLASS:PUBLIC
 DESCRIPTION:De_Airport Masters - 2026 - Playoffs\nWatch: https://www.twitch
  .tv/landingzone_
 SUMMARY:Grand final: MZP vs ACE
-URL;VALUE=URI:https://www.twitch.tv/landingzone_
+URL:https://www.twitch.tv/landingzone_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T120000Z
+UID:pandascore-match-1373716@esport-ics
+DTSTART:20260302T120000Z
+DTEND:20260302T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 1: MZP vs LK
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

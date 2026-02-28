@@ -213,6 +213,17 @@ SUMMARY:Decider match: OMG vs ACE
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260302T090000Z
+UID:pandascore-match-1373715@esport-ics
+DTSTART:20260302T090000Z
+DTEND:20260302T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 1: ACE vs NVQ
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260307T140000Z
 UID:pandascore-match-1313601@esport-ics
 DTSTART:20260307T140000Z

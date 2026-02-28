@@ -214,6 +214,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #17 season 3 2026 - Playo
  ffs\nWatch: https://kick.com/cct_cs
 SUMMARY:URSA vs LK
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T120000Z
+UID:pandascore-match-1378845@esport-ics
+DTSTART:20260302T120000Z
+DTEND:20260302T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Playoffs\nWatch: https://kick.co
+ m/exort_en
+SUMMARY:Round of 16 match 2: FORZE.R vs URSA
+URL;VALUE=URI:https://kick.com/exort_en
 END:VEVENT
 END:VCALENDAR

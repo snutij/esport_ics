@@ -144,6 +144,17 @@ CLASS:PUBLIC
 DESCRIPTION:JB Pro League - Season 2 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/jbproleague
 SUMMARY:Quarterfinal 1: OMG vs SASHI
+URL:https://www.twitch.tv/jbproleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T110000Z
+UID:pandascore-match-1364613@esport-ics
+DTSTART:20260301T110000Z
+DTEND:20260301T131500Z
+CLASS:PUBLIC
+DESCRIPTION:JB Pro League - Season 2 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/jbproleague
+SUMMARY:Semifinal 1: LC vs SASHI
 URL;VALUE=URI:https://www.twitch.tv/jbproleague
 END:VEVENT
 END:VCALENDAR
