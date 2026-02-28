@@ -75,6 +75,16 @@ DTEND:20260228T193000Z
 CLASS:PUBLIC
 DESCRIPTION:LEC - Versus 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
 SUMMARY:Lower bracket final: MKOI vs KC
+URL:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T154500Z
+UID:pandascore-match-1350541@esport-ics
+DTSTART:20260301T154500Z
+DTEND:20260301T193000Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Versus 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
+SUMMARY:Grand final: G2 vs KC
 URL;VALUE=URI:https://www.twitch.tv/lec
 END:VEVENT
 END:VCALENDAR

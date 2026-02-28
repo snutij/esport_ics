@@ -215,6 +215,17 @@ SUMMARY:Quarterfinal 3: ECS vs KOL
 URL:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260302T120000Z
+UID:pandascore-match-1356299@esport-ics
+DTSTART:20260302T120000Z
+DTEND:20260302T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Playoffs\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 4: ECS vs WW
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260307T140000Z
 UID:pandascore-match-1313601@esport-ics
 DTSTART:20260307T140000Z

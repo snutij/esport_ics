@@ -34,4 +34,15 @@ CLASS:PUBLIC
 DESCRIPTION:FiReCONTER - Season 2 2026 - Group B
 SUMMARY:Decider match: Despedidos vs RTT100
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T204000Z
+UID:pandascore-match-1379956@esport-ics
+DTSTART:20260228T204000Z
+DTEND:20260228T225500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReCONTER - Season 2 2026 - Playoffs\nWatch: https://www.youtu
+ be.com/watch?v=1d9LiOHOflI
+SUMMARY:Upper bracket semifinal 2: SHIN vs Despe
+URL;VALUE=URI:https://www.youtube.com/watch?v=1d9LiOHOflI
+END:VEVENT
 END:VCALENDAR

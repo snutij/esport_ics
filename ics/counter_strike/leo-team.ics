@@ -177,6 +177,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 5: ASTRAL vs Leo
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T180000Z
+UID:pandascore-match-1356263@esport-ics
+DTSTART:20260303T180000Z
+DTEND:20260303T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Playoffs\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 5: BIG vs Leo
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

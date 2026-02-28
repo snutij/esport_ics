@@ -267,6 +267,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #16 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs2
 SUMMARY:Grand final: TDK vs WB
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T150000Z
+UID:pandascore-match-1356262@esport-ics
+DTSTART:20260303T150000Z
+DTEND:20260303T171500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Playoffs\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 2: MGC vs TDK
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
