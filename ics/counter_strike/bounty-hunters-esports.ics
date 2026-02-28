@@ -110,4 +110,14 @@ DESCRIPTION:PGL - Bucharest: South American Closed Qualifier 2026 - Playoff
  s
 SUMMARY:Upper Bracket Semifinals 2: MIBR vs BHE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T180000Z
+UID:pandascore-match-1373633@esport-ics
+DTSTART:20260228T180000Z
+DTEND:20260228T201500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: South American Closed Qualifier 2026 - Playoff
+ s
+SUMMARY:Lower bracket quarterfinal 1: IMP vs BHE
+END:VEVENT
 END:VCALENDAR
