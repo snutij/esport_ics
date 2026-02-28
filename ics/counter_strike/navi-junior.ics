@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 45 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Winners match: NAVI.J vs SNG
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T113000Z
+UID:pandascore-match-1378743@esport-ics
+DTSTART:20260301T113000Z
+DTEND:20260301T134500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 45 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinals match 4: NAVI.J vs STA
 END:VEVENT
 END:VCALENDAR

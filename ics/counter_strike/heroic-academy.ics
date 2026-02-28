@@ -36,6 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 45 2026 - Group B\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: Inner Circle Academy vs HERO.A
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T090000Z
+UID:pandascore-match-1378742@esport-ics
+DTSTART:20260301T090000Z
+DTEND:20260301T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 45 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinals match 3: LPH vs HERO.A
 END:VEVENT
 END:VCALENDAR

@@ -187,6 +187,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/exort_en
 SUMMARY:Round 4: MANA vs WW
+URL:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T150000Z
+UID:pandascore-match-1378746@esport-ics
+DTSTART:20260228T150000Z
+DTEND:20260228T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/exort_en
+SUMMARY:Round 5: MANA vs QWE
 URL;VALUE=URI:https://kick.com/exort_en
 END:VEVENT
 END:VCALENDAR
