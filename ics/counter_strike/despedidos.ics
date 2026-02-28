@@ -23,6 +23,15 @@ CLASS:PUBLIC
 DESCRIPTION:FiReCONTER - Season 2 2026 - Group B\nWatch: https://www.youtub
  e.com/watch?v=1d9LiOHOflI
 SUMMARY:Winners match: Despedidos vs PCY
-URL;VALUE=URI:https://www.youtube.com/watch?v=1d9LiOHOflI
+URL:https://www.youtube.com/watch?v=1d9LiOHOflI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T163000Z
+UID:pandascore-match-1377522@esport-ics
+DTSTART:20260228T163000Z
+DTEND:20260228T184500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReCONTER - Season 2 2026 - Group B
+SUMMARY:Decider match: Despedidos vs RTT100
 END:VEVENT
 END:VCALENDAR
