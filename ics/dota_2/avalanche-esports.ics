@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - South America Series  #3 season 2 2026 - Group B\nWatch: 
  https://kick.com/cct_dota
 SUMMARY:AVLNC vs AS
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T160000Z
+UID:pandascore-match-1357455@esport-ics
+DTSTART:20260301T160000Z
+DTEND:20260301T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - South America Series  #3 season 2 2026 - Group B\nWatch: 
+ https://kick.com/cct_dota
+SUMMARY:Elimination match: AVLNC vs TBD
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR

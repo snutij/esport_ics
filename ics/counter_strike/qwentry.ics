@@ -300,6 +300,17 @@ SUMMARY:Round 5: MANA vs QWE
 URL:https://kick.com/exort_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260301T120000Z
+UID:pandascore-match-1378848@esport-ics
+DTSTART:20260301T120000Z
+DTEND:20260301T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Playoffs\nWatch: https://kick.co
+ m/exort_en
+SUMMARY:Round of 16 match 5: BIG.E vs QWE
+URL;VALUE=URI:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260301T150000Z
 UID:pandascore-match-1373713@esport-ics
 DTSTART:20260301T150000Z
@@ -309,5 +320,14 @@ DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs
 SUMMARY:Round 1: PHA vs QWE
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T180000Z
+UID:pandascore-match-1379960@esport-ics
+DTSTART:20260301T180000Z
+DTEND:20260301T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
+SUMMARY:QWE vs aimclub
 END:VEVENT
 END:VCALENDAR
