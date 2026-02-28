@@ -156,6 +156,16 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
  s\nWatch: https://www.twitch.tv/bonamant
 SUMMARY:Upper bracket semifinal 2: LAG vs VOCA
-URL;VALUE=URI:https://www.twitch.tv/bonamant
+URL:https://www.twitch.tv/bonamant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T000000Z
+UID:pandascore-match-1368690@esport-ics
+DTSTART:20260301T000000Z
+DTEND:20260301T021500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
+ s
+SUMMARY:Lower bracket quarterfinal 1: TA vs LAG
 END:VEVENT
 END:VCALENDAR

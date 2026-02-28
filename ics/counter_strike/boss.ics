@@ -203,6 +203,16 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
  s\nWatch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Upper bracket semifinal 1: WC vs BOSS
-URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
+URL:https://www.twitch.tv/karmaflexxx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T000000Z
+UID:pandascore-match-1368691@esport-ics
+DTSTART:20260301T000000Z
+DTEND:20260301T021500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
+ s
+SUMMARY:Lower bracket quarterfinal 2: FC vs BOSS
 END:VEVENT
 END:VCALENDAR
