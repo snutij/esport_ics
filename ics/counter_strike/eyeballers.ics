@@ -80,6 +80,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/CS2_maincast
 SUMMARY:Upper bracket final: EYE vs FOKUS
-URL;VALUE=URI:https://www.twitch.tv/CS2_maincast
+URL:https://www.twitch.tv/CS2_maincast
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T110000Z
+UID:pandascore-match-1368681@esport-ics
+DTSTART:20260301T110000Z
+DTEND:20260301T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket final: EYE vs TBD
 END:VEVENT
 END:VCALENDAR
