@@ -201,7 +201,7 @@ CLASS:PUBLIC
 DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/a1gamingleague
 SUMMARY:Quarterfinal 1: ECS vs HS
-URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+URL:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260301T140000Z
@@ -213,5 +213,16 @@ DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/a1gamingleague
 SUMMARY:Quarterfinal 3: ECS vs KOL
 URL:https://www.twitch.tv/a1gamingleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T140000Z
+UID:pandascore-match-1313601@esport-ics
+DTSTART:20260307T140000Z
+DTEND:20260307T161500Z
+CLASS:PUBLIC
+DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/a1gamingleague
+SUMMARY:Semifinal 1: ECS vs TBD
+URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 END:VCALENDAR

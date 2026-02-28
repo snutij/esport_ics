@@ -61,14 +61,14 @@ SUMMARY:Lower bracket quarterfinal 2: FKS vs BJK
 URL:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260228T180000Z
+DTSTAMP:20260228T170000Z
 UID:pandascore-match-1344500@esport-ics
-DTSTART:20260228T180000Z
-DTEND:20260228T201500Z
+DTSTART:20260228T170000Z
+DTEND:20260228T191500Z
 CLASS:PUBLIC
 DESCRIPTION:VCL - DACH: Evolution Stage 1 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/valorantleague_dach
-SUMMARY:Lower bracket final: FKS vs TBD
+SUMMARY:Lower bracket final: FKS vs SGE
 URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
 END:VEVENT
 END:VCALENDAR
