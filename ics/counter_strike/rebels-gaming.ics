@@ -175,6 +175,17 @@ CLASS:PUBLIC
 DESCRIPTION:Master League Portugal - Season 18 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/rtparenacs
 SUMMARY:Semifinal 2: RBLS vs SAW
+URL:https://www.twitch.tv/rtparenacs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T140000Z
+UID:pandascore-match-1371197@esport-ics
+DTSTART:20260301T140000Z
+DTEND:20260301T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Master League Portugal - Season 18 2026 - Playoffs\nWatch: http
+ s://www.twitch.tv/rtparenacs
+SUMMARY:Grand final: FUZOS vs RBLS
 URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR

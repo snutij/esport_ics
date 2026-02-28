@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #1 2026 - Playoffs\nWatch: https://kick
  .com/cct-cs5
 SUMMARY:Upper bracket final: Atreides vs BL
-URL;VALUE=URI:https://kick.com/cct-cs5
+URL:https://kick.com/cct-cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T191500Z
+UID:pandascore-match-1376284@esport-ics
+DTSTART:20260301T191500Z
+DTEND:20260301T213000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #1 2026 - Playoffs\nWatch: https://www.
+ kick.com/cct-cs5
+SUMMARY:Grand final: Atreides vs TBD
+URL;VALUE=URI:https://www.kick.com/cct-cs5
 END:VEVENT
 END:VCALENDAR
