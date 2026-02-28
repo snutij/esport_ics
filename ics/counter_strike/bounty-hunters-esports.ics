@@ -117,7 +117,8 @@ DTSTART:20260228T180000Z
 DTEND:20260228T201500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: South American Closed Qualifier 2026 - Playoff
- s
+ s\nWatch: https://www.twitch.tv/tris_mara
 SUMMARY:Lower bracket quarterfinal 1: BHE vs IMP
+URL;VALUE=URI:https://www.twitch.tv/tris_mara
 END:VEVENT
 END:VCALENDAR

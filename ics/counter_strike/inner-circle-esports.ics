@@ -135,7 +135,9 @@ UID:pandascore-match-1368677@esport-ics
 DTSTART:20260228T120000Z
 DTEND:20260228T141500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs
+DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/CS2_maincast
 SUMMARY:Lower bracket quarterfinal 1: ICE vs TRI
+URL;VALUE=URI:https://www.twitch.tv/CS2_maincast
 END:VEVENT
 END:VCALENDAR
