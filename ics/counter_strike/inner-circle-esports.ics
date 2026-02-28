@@ -138,6 +138,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/watchfulTV
 SUMMARY:Lower bracket quarterfinal 1: ICE vs TRI
-URL;VALUE=URI:https://www.twitch.tv/watchfulTV
+URL:https://www.twitch.tv/watchfulTV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260228T180000Z
+UID:pandascore-match-1368679@esport-ics
+DTSTART:20260228T180000Z
+DTEND:20260228T201500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket semifinal: BB vs ICE
 END:VEVENT
 END:VCALENDAR

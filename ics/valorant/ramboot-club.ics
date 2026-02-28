@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Spain: Rising Stage 2 2026 - Group A\nWatch: https://www.
  twitch.tv/LVPes2
 SUMMARY:DSY vs RBT
+URL:https://www.twitch.tv/LVPes2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T130000Z
+UID:pandascore-match-1374917@esport-ics
+DTSTART:20260301T130000Z
+DTEND:20260301T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Spain: Rising Stage 2 2026 - Group A\nWatch: https://www.
+ twitch.tv/LVPes2
+SUMMARY:Elimination match: KPI vs RBT
 URL;VALUE=URI:https://www.twitch.tv/LVPes2
 END:VEVENT
 END:VCALENDAR
