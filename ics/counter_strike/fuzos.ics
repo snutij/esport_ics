@@ -170,4 +170,15 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #18 season 3 2026 - Group
 SUMMARY:FUZOS vs EF
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T150000Z
+UID:pandascore-match-1381419@esport-ics
+DTSTART:20260303T150000Z
+DTEND:20260303T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Season 1 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/bcgamemasters
+SUMMARY:Round 1: MEGO vs FUZOS
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
 END:VCALENDAR

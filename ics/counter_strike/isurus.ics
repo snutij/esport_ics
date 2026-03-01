@@ -92,6 +92,17 @@ SUMMARY:Lower bracket semifinal: ISG vs Despe
 URL:https://www.twitch.tv/tr3jou
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260301T163000Z
+UID:pandascore-match-1377525@esport-ics
+DTSTART:20260301T163000Z
+DTEND:20260301T184500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReCONTER - Season 2 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/forg1
+SUMMARY:Lower bracket final: PCY vs ISG
+URL;VALUE=URI:https://www.twitch.tv/forg1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260302T200000Z
 UID:pandascore-match-1380040@esport-ics
 DTSTART:20260302T200000Z
