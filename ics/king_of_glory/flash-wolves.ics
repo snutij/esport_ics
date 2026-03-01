@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Flash Wolves
+SLUG:flash-wolves
+BEGIN:VEVENT
+DTSTAMP:20260301T102500Z
+UID:pandascore-match-1380169@esport-ics
+DTSTART:20260301T102500Z
+DTEND:20260301T141000Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/watch?v=5ntb8tVCvP8
+SUMMARY:FW vs HKA
+URL;VALUE=URI:https://www.youtube.com/watch?v=5ntb8tVCvP8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T100000Z
+UID:pandascore-match-1380293@esport-ics
+DTSTART:20260307T100000Z
+DTEND:20260307T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:FW vs ANK Gaming
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T070000Z
+UID:pandascore-match-1380296@esport-ics
+DTSTART:20260313T070000Z
+DTEND:20260313T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:FW vs  LIT Team
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T100000Z
+UID:pandascore-match-1380299@esport-ics
+DTSTART:20260314T100000Z
+DTEND:20260314T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:FW vs DCG
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T100000Z
+UID:pandascore-match-1380303@esport-ics
+DTSTART:20260320T100000Z
+DTEND:20260320T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:FW vs ONE
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T100000Z
+UID:pandascore-match-1380305@esport-ics
+DTSTART:20260321T100000Z
+DTEND:20260321T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:BMG vs FW
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T100000Z
+UID:pandascore-match-1380329@esport-ics
+DTSTART:20260328T100000Z
+DTEND:20260328T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:ANK Gaming vs FW
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T070000Z
+UID:pandascore-match-1380334@esport-ics
+DTSTART:20260329T070000Z
+DTEND:20260329T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:HKA vs FW
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T070000Z
+UID:pandascore-match-1380338@esport-ics
+DTSTART:20260404T070000Z
+DTEND:20260404T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:ONE vs FW
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T070000Z
+UID:pandascore-match-1380342@esport-ics
+DTSTART:20260410T070000Z
+DTEND:20260410T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY: LIT Team vs FW
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T100000Z
+UID:pandascore-match-1380345@esport-ics
+DTSTART:20260411T100000Z
+DTEND:20260411T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:DCG vs FW
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+END:VCALENDAR

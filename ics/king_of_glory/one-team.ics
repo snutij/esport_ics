@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ONE Team
+SLUG:one-team
+BEGIN:VEVENT
+DTSTAMP:20260306T070000Z
+UID:pandascore-match-1380230@esport-ics
+DTSTART:20260306T070000Z
+DTEND:20260306T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:ONE vs  LIT Team
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T070000Z
+UID:pandascore-match-1380294@esport-ics
+DTSTART:20260308T070000Z
+DTEND:20260308T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:ONE vs DCG
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T070000Z
+UID:pandascore-match-1380300@esport-ics
+DTSTART:20260315T070000Z
+DTEND:20260315T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:HKA vs ONE
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T100000Z
+UID:pandascore-match-1380303@esport-ics
+DTSTART:20260320T100000Z
+DTEND:20260320T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:FW vs ONE
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T070000Z
+UID:pandascore-match-1380304@esport-ics
+DTSTART:20260321T070000Z
+DTEND:20260321T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:ONE vs ANK Gaming
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T100000Z
+UID:pandascore-match-1380309@esport-ics
+DTSTART:20260327T100000Z
+DTEND:20260327T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:ANK Gaming vs ONE
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T100000Z
+UID:pandascore-match-1380335@esport-ics
+DTSTART:20260329T100000Z
+DTEND:20260329T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:BMG vs ONE
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T070000Z
+UID:pandascore-match-1380338@esport-ics
+DTSTART:20260404T070000Z
+DTEND:20260404T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:ONE vs FW
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T070000Z
+UID:pandascore-match-1380340@esport-ics
+DTSTART:20260405T070000Z
+DTEND:20260405T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY: LIT Team vs ONE
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T100000Z
+UID:pandascore-match-1380343@esport-ics
+DTSTART:20260410T100000Z
+DTEND:20260410T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:DCG vs ONE
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T100000Z
+UID:pandascore-match-1380347@esport-ics
+DTSTART:20260412T100000Z
+DTEND:20260412T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:ONE vs HKA
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+END:VCALENDAR

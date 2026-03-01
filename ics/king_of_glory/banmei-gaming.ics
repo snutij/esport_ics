@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BanMei Gaming
+SLUG:banmei-gaming
+BEGIN:VEVENT
+DTSTAMP:20260306T100000Z
+UID:pandascore-match-1380231@esport-ics
+DTSTART:20260306T100000Z
+DTEND:20260306T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:DCG vs BMG
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T070000Z
+UID:pandascore-match-1380288@esport-ics
+DTSTART:20260307T070000Z
+DTEND:20260307T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:HKA vs BMG
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T070000Z
+UID:pandascore-match-1380298@esport-ics
+DTSTART:20260314T070000Z
+DTEND:20260314T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:BMG vs  LIT Team
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T100000Z
+UID:pandascore-match-1380301@esport-ics
+DTSTART:20260315T100000Z
+DTEND:20260315T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:ANK Gaming vs BMG
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T100000Z
+UID:pandascore-match-1380305@esport-ics
+DTSTART:20260321T100000Z
+DTEND:20260321T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:BMG vs FW
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T100000Z
+UID:pandascore-match-1380307@esport-ics
+DTSTART:20260322T100000Z
+DTEND:20260322T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:BMG vs HKA
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T100000Z
+UID:pandascore-match-1380335@esport-ics
+DTSTART:20260329T100000Z
+DTEND:20260329T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:BMG vs ONE
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T100000Z
+UID:pandascore-match-1380341@esport-ics
+DTSTART:20260405T100000Z
+DTEND:20260405T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:BMG vs DCG
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T070000Z
+UID:pandascore-match-1380344@esport-ics
+DTSTART:20260411T070000Z
+DTEND:20260411T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY: LIT Team vs BMG
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T070000Z
+UID:pandascore-match-1380346@esport-ics
+DTSTART:20260412T070000Z
+DTEND:20260412T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:ANK Gaming vs BMG
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hong Kong Attitude
+SLUG:hong-kong-attitude
+BEGIN:VEVENT
+DTSTAMP:20260301T102500Z
+UID:pandascore-match-1380169@esport-ics
+DTSTART:20260301T102500Z
+DTEND:20260301T141000Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/watch?v=5ntb8tVCvP8
+SUMMARY:FW vs HKA
+URL;VALUE=URI:https://www.youtube.com/watch?v=5ntb8tVCvP8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T070000Z
+UID:pandascore-match-1380288@esport-ics
+DTSTART:20260307T070000Z
+DTEND:20260307T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:HKA vs BMG
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T100000Z
+UID:pandascore-match-1380295@esport-ics
+DTSTART:20260308T100000Z
+DTEND:20260308T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:HKA vs ANK Gaming
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T100000Z
+UID:pandascore-match-1380297@esport-ics
+DTSTART:20260313T100000Z
+DTEND:20260313T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:HKA vs DCG
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T070000Z
+UID:pandascore-match-1380300@esport-ics
+DTSTART:20260315T070000Z
+DTEND:20260315T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:HKA vs ONE
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T100000Z
+UID:pandascore-match-1380307@esport-ics
+DTSTART:20260322T100000Z
+DTEND:20260322T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:BMG vs HKA
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T070000Z
+UID:pandascore-match-1380322@esport-ics
+DTSTART:20260328T070000Z
+DTEND:20260328T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY: LIT Team vs HKA
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T070000Z
+UID:pandascore-match-1380334@esport-ics
+DTSTART:20260329T070000Z
+DTEND:20260329T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:HKA vs FW
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T100000Z
+UID:pandascore-match-1380337@esport-ics
+DTSTART:20260403T100000Z
+DTEND:20260403T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:DCG vs HKA
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T100000Z
+UID:pandascore-match-1380339@esport-ics
+DTSTART:20260404T100000Z
+DTEND:20260404T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:ANK Gaming vs HKA
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T100000Z
+UID:pandascore-match-1380347@esport-ics
+DTSTART:20260412T100000Z
+DTEND:20260412T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@garenaaovtw/streams
+SUMMARY:ONE vs HKA
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Saigon Phantom
+SLUG:saigon-phantom
+BEGIN:VEVENT
+DTSTAMP:20260301T130000Z
+UID:pandascore-match-1380087@esport-ics
+DTSTART:20260301T130000Z
+DTEND:20260301T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:OSE vs SP
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+END:VCALENDAR
