@@ -14,6 +14,66 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
  w.youtube.com/watch?v=W9R6emG0Lsk
 SUMMARY:TF vs FPL
-URL;VALUE=URI:https://www.youtube.com/watch?v=W9R6emG0Lsk
+URL:https://www.youtube.com/watch?v=W9R6emG0Lsk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T123000Z
+UID:pandascore-match-1380425@esport-ics
+DTSTART:20260306T123000Z
+DTEND:20260306T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:TF vs SN
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T123000Z
+UID:pandascore-match-1380428@esport-ics
+DTSTART:20260307T123000Z
+DTEND:20260307T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:OSE vs TF
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T123000Z
+UID:pandascore-match-1380431@esport-ics
+DTSTART:20260308T123000Z
+DTEND:20260308T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:TF vs SP
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T100000Z
+UID:pandascore-match-1380436@esport-ics
+DTSTART:20260313T100000Z
+DTEND:20260313T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:GAM vs TF
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T123000Z
+UID:pandascore-match-1380440@esport-ics
+DTSTART:20260314T123000Z
+DTEND:20260314T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:TS vs TF
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
 END:VEVENT
 END:VCALENDAR
