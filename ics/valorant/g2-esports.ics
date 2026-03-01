@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Group Stage\nWatch: https://www.t
  witch.tv/valorant
 SUMMARY:Round 1: G2 vs PR
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T180000Z
+UID:pandascore-match-1368476@esport-ics
+DTSTART:20260303T180000Z
+DTEND:20260303T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters Santiago 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/valorant
+SUMMARY:Round 2: EDG vs G2
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

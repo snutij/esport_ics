@@ -103,4 +103,15 @@ DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
  s
 SUMMARY:Lower bracket final: WC vs LAG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T230000Z
+UID:pandascore-match-1368687@esport-ics
+DTSTART:20260301T230000Z
+DTEND:20260302T024500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
+ s\nWatch: https://www.twitch.tv/Trottah
+SUMMARY:Grand final: VOCA vs WC
+URL;VALUE=URI:https://www.twitch.tv/Trottah
+END:VEVENT
 END:VCALENDAR

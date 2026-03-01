@@ -147,7 +147,8 @@ DTSTART:20260301T230000Z
 DTEND:20260302T024500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
- s
-SUMMARY:Grand final: VOCA vs TBD
+ s\nWatch: https://www.twitch.tv/Trottah
+SUMMARY:Grand final: VOCA vs WC
+URL;VALUE=URI:https://www.twitch.tv/Trottah
 END:VEVENT
 END:VCALENDAR
