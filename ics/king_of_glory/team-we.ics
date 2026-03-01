@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Spring 2026 - Stage 2 Group A\nWatch: https:/
  /www.huya.com/660002
 SUMMARY:Hero vs WE
-URL;VALUE=URI:https://www.huya.com/660002
+URL:https://www.huya.com/660002
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T060000Z
+UID:pandascore-match-1381399@esport-ics
+DTSTART:20260303T060000Z
+DTEND:20260303T111500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Spring 2026 - Seat Decider A vs B\nWatch: htt
+ ps://www.douyu.com/998
+SUMMARY:WE vs ESP
+URL;VALUE=URI:https://www.douyu.com/998
 END:VEVENT
 END:VCALENDAR
