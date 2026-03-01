@@ -354,6 +354,15 @@ CLASS:PUBLIC
 DESCRIPTION:JB Pro League - Season 2 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/jbproleague
 SUMMARY:Round of 16 match 1: SASHI vs VP.P
-URL;VALUE=URI:https://www.twitch.tv/jbproleague
+URL:https://www.twitch.tv/jbproleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T100000Z
+UID:pandascore-match-1381486@esport-ics
+DTSTART:20260304T100000Z
+DTEND:20260304T121500Z
+CLASS:PUBLIC
+DESCRIPTION:IZI WEX - Season 1 2026 - Group D
+SUMMARY:VP.P vs OXUJI
 END:VEVENT
 END:VCALENDAR

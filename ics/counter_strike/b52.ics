@@ -36,6 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck StarPearl - Season 1 2026 - Group D\nWatch: https://www.t
  witch.tv/gluck_esports
 SUMMARY:Decider match: B52 vs TBD
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T100000Z
+UID:pandascore-match-1381477@esport-ics
+DTSTART:20260303T100000Z
+DTEND:20260303T121500Z
+CLASS:PUBLIC
+DESCRIPTION:IZI WEX - Season 1 2026 - Group B
+SUMMARY:WW vs B52
 END:VEVENT
 END:VCALENDAR

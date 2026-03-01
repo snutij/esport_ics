@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 1\nWatch: https://www.t
  witch.tv/ESLCS
 SUMMARY:Round 1: NIP vs LGC
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T180000Z
+UID:pandascore-match-1376203@esport-ics
+DTSTART:20260302T180000Z
+DTEND:20260302T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 1\nWatch: https://www.t
+ witch.tv/ESLCS
+SUMMARY:Round 2: G2 vs LGC
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
