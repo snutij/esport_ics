@@ -89,4 +89,15 @@ CLASS:PUBLIC
 DESCRIPTION:FiReCONTER - Season 2 2026 - Playoffs
 SUMMARY:Lower bracket semifinal: ISG vs Despe
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T200000Z
+UID:pandascore-match-1380040@esport-ics
+DTSTART:20260302T200000Z
+DTEND:20260302T221500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 1 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 1: ISG vs CRASH
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
 END:VCALENDAR

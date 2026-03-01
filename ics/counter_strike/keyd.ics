@@ -89,6 +89,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: South American Closed Qualifier 2026 - Playoff
  s\nWatch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Lower bracket quarterfinal 2: Keyd vs YAW
-URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
+URL:https://www.twitch.tv/karmaflexxx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T200000Z
+UID:pandascore-match-1380044@esport-ics
+DTSTART:20260303T200000Z
+DTEND:20260303T221500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 1 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 1: Keyd vs PLS
+URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR

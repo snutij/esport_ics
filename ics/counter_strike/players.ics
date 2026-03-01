@@ -172,4 +172,15 @@ DESCRIPTION:CCT South America - Series #9 season 3 2026 - Group Stage\nWatc
 SUMMARY:Round 5: PLS vs R2
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T200000Z
+UID:pandascore-match-1380044@esport-ics
+DTSTART:20260303T200000Z
+DTEND:20260303T221500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 1 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 1: Keyd vs PLS
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
 END:VCALENDAR
