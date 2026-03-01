@@ -77,6 +77,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - NORTH//EAST Stage 1 2026 - Playoffs\nWatch: https://www.t
  witch.tv/valorantleague_ne
 SUMMARY:Upper bracket quarterfinal 2: MIR vs VR2
+URL:https://www.twitch.tv/valorantleague_ne
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T160000Z
+UID:pandascore-match-1369894@esport-ics
+DTSTART:20260302T160000Z
+DTEND:20260302T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - NORTH//EAST Stage 1 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/valorantleague_ne
+SUMMARY:Lower bracket round 1 match 1: bonk vs MIR
 URL;VALUE=URI:https://www.twitch.tv/valorantleague_ne
 END:VEVENT
 END:VCALENDAR
