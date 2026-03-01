@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 3: ex-PeeP vs KSM
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T193000Z
+UID:pandascore-match-1379968@esport-ics
+DTSTART:20260302T193000Z
+DTEND:20260302T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 4: VP.F vs ex-PeeP
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

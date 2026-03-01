@@ -72,6 +72,17 @@ SUMMARY:Round 3: ex-PeeP vs KSM
 URL:https://kick.com/exort_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260301T163000Z
+UID:pandascore-match-1379964@esport-ics
+DTSTART:20260301T163000Z
+DTEND:20260301T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 4: ADP vs KSM
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260303T153000Z
 UID:pandascore-match-1372433@esport-ics
 DTSTART:20260303T153000Z
