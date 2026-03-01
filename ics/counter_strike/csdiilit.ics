@@ -379,6 +379,17 @@ SUMMARY:Round 2: Nordic Valor vs  CSDIILIT
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260304T120000Z
+UID:pandascore-match-1380884@esport-ics
+DTSTART:20260304T120000Z
+DTEND:20260304T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #18 season 3 2026 - Group
+  C\nWatch: https://kick.com/cct_cs2
+SUMMARY:FCF vs  CSDIILIT
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260309T180000Z
 UID:pandascore-match-1372436@esport-ics
 DTSTART:20260309T180000Z

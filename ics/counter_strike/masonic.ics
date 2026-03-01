@@ -341,4 +341,15 @@ DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
 SUMMARY:Round 4: MSC vs FOR
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T180000Z
+UID:pandascore-match-1380886@esport-ics
+DTSTART:20260304T180000Z
+DTEND:20260304T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #18 season 3 2026 - Group
+  D\nWatch: https://kick.com/cct_cs2
+SUMMARY:BMB vs MSC
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

@@ -86,8 +86,10 @@ UID:pandascore-match-1377523@esport-ics
 DTSTART:20260301T130000Z
 DTEND:20260301T151500Z
 CLASS:PUBLIC
-DESCRIPTION:FiReCONTER - Season 2 2026 - Playoffs
+DESCRIPTION:FiReCONTER - Season 2 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/tr3jou
 SUMMARY:Lower bracket semifinal: ISG vs Despe
+URL;VALUE=URI:https://www.twitch.tv/tr3jou
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260302T200000Z

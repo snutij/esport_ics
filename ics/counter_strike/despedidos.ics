@@ -51,8 +51,10 @@ UID:pandascore-match-1377523@esport-ics
 DTSTART:20260301T130000Z
 DTEND:20260301T151500Z
 CLASS:PUBLIC
-DESCRIPTION:FiReCONTER - Season 2 2026 - Playoffs
+DESCRIPTION:FiReCONTER - Season 2 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/tr3jou
 SUMMARY:Lower bracket semifinal: ISG vs Despe
+URL;VALUE=URI:https://www.twitch.tv/tr3jou
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260302T230000Z
@@ -63,6 +65,6 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 1 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 1: Despe vs PB
-URL;VALUE=URI:https://www.twitch.tv/dust2br
+URL:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR
