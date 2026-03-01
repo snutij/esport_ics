@@ -116,6 +116,17 @@ SUMMARY:Lower bracket final: RED vs 9z
 URL:https://www.twitch.tv/btsbrasilfps
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260301T230000Z
+UID:pandascore-match-1360794@esport-ics
+DTSTART:20260301T230000Z
+DTEND:20260302T024500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom RUSH B! - Summit season 2 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/btsbrasilfps
+SUMMARY:Grand final: SHK vs 9z
+URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260304T190000Z
 UID:pandascore-match-1378273@esport-ics
 DTSTART:20260304T190000Z

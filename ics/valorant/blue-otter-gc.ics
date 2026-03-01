@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers North America Kickoff 2026 - Playoffs\nWatc
  h: https://www.twitch.tv/valorant_americas
 SUMMARY:Lower bracket final: WAD vs BLUE
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T220000Z
+UID:pandascore-match-1356639@esport-ics
+DTSTART:20260301T220000Z
+DTEND:20260302T014500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers North America Kickoff 2026 - Playoffs\nWatc
+ h: https://www.twitch.tv/valorant_americas
+SUMMARY:Grand final: FLY.R vs BLUE
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR
