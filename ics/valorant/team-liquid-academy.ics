@@ -77,6 +77,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - NORTH//EAST Stage 1 2026 - Playoffs\nWatch: https://www.t
  witch.tv/valorantleague_ne
 SUMMARY:Upper bracket quarterfinal 4: TL.A vs EVO
+URL:https://www.twitch.tv/valorantleague_ne
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T183000Z
+UID:pandascore-match-1369898@esport-ics
+DTSTART:20260302T183000Z
+DTEND:20260302T204500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - NORTH//EAST Stage 1 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/valorantleague_ne
+SUMMARY:Upper bracket semifinal 2: FG vs TL.A
 URL;VALUE=URI:https://www.twitch.tv/valorantleague_ne
 END:VEVENT
 END:VCALENDAR
