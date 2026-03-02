@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alter Ego
+SLUG:alter-ego
+BEGIN:VEVENT
+DTSTAMP:20260311T080000Z
+UID:pandascore-match-1381530@esport-ics
+DTSTART:20260311T080000Z
+DTEND:20260311T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Southeast Asia: Split 1 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/valorant_pacific
+SUMMARY:AE vs TRN
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T060000Z
+UID:pandascore-match-1381531@esport-ics
+DTSTART:20260316T060000Z
+DTEND:20260316T081500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Southeast Asia: Split 1 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/valorant_pacific
+SUMMARY:MTV vs AE
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+END:VCALENDAR

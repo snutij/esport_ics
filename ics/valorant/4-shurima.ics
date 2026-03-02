@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:4 shurima
+SLUG:4-shurima
+BEGIN:VEVENT
+DTSTAMP:20260311T060000Z
+UID:pandascore-match-1381535@esport-ics
+DTSTART:20260311T060000Z
+DTEND:20260311T081500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Southeast Asia: Split 1 2026 - Group D\nWatch: https://ww
+ w.twitch.tv/valorant_pacific
+SUMMARY:OAS vs 4SHU
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T080000Z
+UID:pandascore-match-1381536@esport-ics
+DTSTART:20260312T080000Z
+DTEND:20260312T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Southeast Asia: Split 1 2026 - Group D\nWatch: https://ww
+ w.twitch.tv/valorant_pacific
+SUMMARY:SPE vs 4SHU
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+END:VCALENDAR
