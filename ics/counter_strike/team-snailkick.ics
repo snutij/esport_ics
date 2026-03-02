@@ -29,8 +29,10 @@ UID:pandascore-match-1374232@esport-ics
 DTSTART:20260302T134500Z
 DTEND:20260302T160000Z
 CLASS:PUBLIC
-DESCRIPTION:Winline Star Series - Season 2 2026 - Group A
+DESCRIPTION:Winline Star Series - Season 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/kartash0v
 SUMMARY:Team Lixxx vs Team SNAILKICK
+URL;VALUE=URI:https://www.twitch.tv/kartash0v
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260303T163000Z
@@ -38,7 +40,9 @@ UID:pandascore-match-1374234@esport-ics
 DTSTART:20260303T163000Z
 DTEND:20260303T184500Z
 CLASS:PUBLIC
-DESCRIPTION:Winline Star Series - Season 2 2026 - Group A
+DESCRIPTION:Winline Star Series - Season 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/kartash0v
 SUMMARY:Team Bratishkin vs Team SNAILKICK
+URL;VALUE=URI:https://www.twitch.tv/kartash0v
 END:VEVENT
 END:VCALENDAR
