@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #18 season 3 2026 - Group
   B\nWatch: https://kick.com/cct_cs2
 SUMMARY:BBP vs PGE
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T180000Z
+UID:pandascore-match-1380850@esport-ics
+DTSTART:20260303T180000Z
+DTEND:20260303T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #18 season 3 2026 - Group
+  B\nWatch: https://kick.com/cct_cs2
+SUMMARY:Winners match: zajezdzacze vs BBP
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
