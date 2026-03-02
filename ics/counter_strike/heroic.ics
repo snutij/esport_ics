@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 1\nWatch: https://www.t
  witch.tv/ESLCS
 SUMMARY:Round 2: HERO vs AST
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T103000Z
+UID:pandascore-match-1376206@esport-ics
+DTSTART:20260303T103000Z
+DTEND:20260303T124500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 1\nWatch: https://www.t
+ witch.tv/ESLCS
+SUMMARY:Round 3: HERO vs MNTE
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
