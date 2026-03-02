@@ -97,7 +97,9 @@ UID:pandascore-match-1381481@esport-ics
 DTSTART:20260304T070000Z
 DTEND:20260304T091500Z
 CLASS:PUBLIC
-DESCRIPTION:IZI WEX - Season 1 2026 - Group C
+DESCRIPTION:IZI WEX - Season 1 2026 - Group C\nWatch: https://www.twitch.tv
+ /izi_wex_cs
 SUMMARY:1WIN vs EP
+URL;VALUE=URI:https://www.twitch.tv/izi_wex_cs
 END:VEVENT
 END:VCALENDAR

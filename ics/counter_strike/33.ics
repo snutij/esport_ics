@@ -191,6 +191,17 @@ SUMMARY:Round of 16 match 1: 33 vs UNiTY
 URL:https://kick.com/exort_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260307T140000Z
+UID:pandascore-match-1313601@esport-ics
+DTSTART:20260307T140000Z
+DTEND:20260307T161500Z
+CLASS:PUBLIC
+DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/a1gamingleague
+SUMMARY:Semifinal 1: 33 vs ACE
+URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260307T163000Z
 UID:pandascore-match-1313602@esport-ics
 DTSTART:20260307T163000Z
@@ -199,6 +210,6 @@ CLASS:PUBLIC
 DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/a1gamingleague
 SUMMARY:Semifinal 2: NEMI vs 33
-URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+URL:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 END:VCALENDAR
