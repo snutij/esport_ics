@@ -155,6 +155,17 @@ CLASS:PUBLIC
 DESCRIPTION:JB Pro League - Season 2 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/jbproleague
 SUMMARY:Grand final: KOL vs LC
-URL;VALUE=URI:https://www.twitch.tv/jbproleague
+URL:https://www.twitch.tv/jbproleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T090000Z
+UID:pandascore-match-1355952@esport-ics
+DTSTART:20260305T090000Z
+DTEND:20260305T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Round of 16 match 5: KOL vs ACE
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

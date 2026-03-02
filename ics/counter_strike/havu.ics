@@ -205,6 +205,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs
 SUMMARY:Round 1: FAV vs HAVU
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T183000Z
+UID:pandascore-match-1382709@esport-ics
+DTSTART:20260303T183000Z
+DTEND:20260303T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 7: JUMBO vs HAVU
 END:VEVENT
 END:VCALENDAR

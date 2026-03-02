@@ -198,6 +198,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/exort_en
 SUMMARY:Round 5: MANA vs QWE
-URL;VALUE=URI:https://kick.com/exort_en
+URL:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T170000Z
+UID:pandascore-match-1382708@esport-ics
+DTSTART:20260303T170000Z
+DTEND:20260303T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 6: eLITenergy vs MANA
 END:VEVENT
 END:VCALENDAR

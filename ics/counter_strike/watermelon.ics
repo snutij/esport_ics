@@ -231,6 +231,15 @@ CLASS:PUBLIC
 DESCRIPTION:Myskill Pro League - Season 2 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/myskill_top
 SUMMARY:3rd Place match: WTRML0N vs HOTU
-URL;VALUE=URI:https://www.twitch.tv/myskill_top
+URL:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T183000Z
+UID:pandascore-match-1382713@esport-ics
+DTSTART:20260303T183000Z
+DTEND:20260303T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 11: UNiTY vs WTRML0N
 END:VEVENT
 END:VCALENDAR

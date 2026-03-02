@@ -103,6 +103,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/rustec_cs2
 SUMMARY:RUST vs JUMBO
-URL;VALUE=URI:https://www.twitch.tv/rustec_cs2
+URL:https://www.twitch.tv/rustec_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T183000Z
+UID:pandascore-match-1382718@esport-ics
+DTSTART:20260303T183000Z
+DTEND:20260303T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 16: RUST vs MEGO
 END:VEVENT
 END:VCALENDAR

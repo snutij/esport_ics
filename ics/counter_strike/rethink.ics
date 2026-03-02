@@ -145,4 +145,13 @@ DESCRIPTION:United21 - Season 45 2026 - Playoffs\nWatch: https://kick.com/u
 SUMMARY:Upper bracket semifinal 1: RT vs Imperial.A
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T183000Z
+UID:pandascore-match-1382711@esport-ics
+DTSTART:20260303T183000Z
+DTEND:20260303T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 9: BRUTE vs RT
+END:VEVENT
 END:VCALENDAR
