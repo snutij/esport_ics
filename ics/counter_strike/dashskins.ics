@@ -6,14 +6,14 @@ METHOD:PUBLISH
 X-WR-CALNAME:DashSkins
 SLUG:dashskins
 BEGIN:VEVENT
-DTSTAMP:20260302T140000Z
+DTSTAMP:20260302T143000Z
 UID:pandascore-match-1380038@esport-ics
-DTSTART:20260302T140000Z
-DTEND:20260302T161500Z
+DTSTART:20260302T143000Z
+DTEND:20260302T164500Z
 CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 1 2026 - Group Stage\nWatch: https://www
- .twitch.tv/dust2br
+ .youtube.com/watch?v=IilHX_4mrvk
 SUMMARY:Round 1: DS vs paiN.A
-URL;VALUE=URI:https://www.twitch.tv/dust2br
+URL;VALUE=URI:https://www.youtube.com/watch?v=IilHX_4mrvk
 END:VEVENT
 END:VCALENDAR
