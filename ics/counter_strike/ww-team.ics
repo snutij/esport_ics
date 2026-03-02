@@ -331,7 +331,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Playoffs\nWatch: https:/
  /kick.com/nodwin_cs2
 SUMMARY:Round of 16 match 4: ECS vs WW
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260302T150000Z
@@ -352,7 +352,7 @@ DTEND:20260303T111500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #18 season 3 2026 - Group
   A\nWatch: https://kick.com/cct_cs2
-SUMMARY:Elimination match: WW vs TBD
+SUMMARY:Elimination match: WW vs FUZOS
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
@@ -361,8 +361,10 @@ UID:pandascore-match-1381477@esport-ics
 DTSTART:20260303T100000Z
 DTEND:20260303T121500Z
 CLASS:PUBLIC
-DESCRIPTION:IZI WEX - Season 1 2026 - Group B
+DESCRIPTION:IZI WEX - Season 1 2026 - Group B\nWatch: https://www.twitch.tv
+ /izi_wex_cs
 SUMMARY:WW vs B52
+URL;VALUE=URI:https://www.twitch.tv/izi_wex_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260303T120000Z
