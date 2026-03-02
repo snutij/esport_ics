@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Kickoff 2026 - Playoffs - NA\nWatch: htt
  ps://www.twitch.tv/bababeast1
 SUMMARY:Upper bracket semifinal 2: RAAD vs 1M
-URL;VALUE=URI:https://www.twitch.tv/bababeast1
+URL:https://www.twitch.tv/bababeast1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T190000Z
+UID:pandascore-match-1337962@esport-ics
+DTSTART:20260304T190000Z
+DTEND:20260304T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Kickoff 2026 - Playoffs - NA\nWatch: htt
+ ps://www.twitch.tv/valorantesports_ar
+SUMMARY:Upper bracket final: GNGA vs 1M
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR
