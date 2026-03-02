@@ -149,17 +149,6 @@ SUMMARY:Grand final: FUZOS vs RBLS
 URL:https://www.twitch.tv/rtparenacs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260302T113000Z
-UID:pandascore-match-1355877@esport-ics
-DTSTART:20260302T113000Z
-DTEND:20260302T134500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Series 5 2026 - Group B\nWatch: https://k
- ick.com/eplcs_en
-SUMMARY:Decider match: FUZOS vs ECF
-URL;VALUE=URI:https://kick.com/eplcs_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260302T120000Z
 UID:pandascore-match-1380824@esport-ics
 DTSTART:20260302T120000Z
@@ -169,6 +158,17 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #18 season 3 2026 - Group
   A\nWatch: https://kick.com/cct_cs2
 SUMMARY:FUZOS vs EF
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T120000Z
+UID:pandascore-match-1355877@esport-ics
+DTSTART:20260302T120000Z
+DTEND:20260302T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 2026 - Group B\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Decider match: FUZOS vs ECF
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260303T150000Z
