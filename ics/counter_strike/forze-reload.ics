@@ -166,6 +166,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Meteor - Season 2 2026 - Playoffs\nWatch: https://kick.co
  m/exort_en
 SUMMARY:Round of 16 match 2: FORZE.R vs URSA
+URL:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T090000Z
+UID:pandascore-match-1378852@esport-ics
+DTSTART:20260303T090000Z
+DTEND:20260303T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Playoffs\nWatch: https://kick.co
+ m/exort_en
+SUMMARY:Quarterfinal 1: FORZE.R vs TBD
 URL;VALUE=URI:https://kick.com/exort_en
 END:VEVENT
 END:VCALENDAR

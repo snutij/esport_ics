@@ -44,6 +44,17 @@ DTEND:20260301T004500Z
 CLASS:PUBLIC
 DESCRIPTION:LCS - Lock In 2026 - Playoffs\nWatch: https://www.twitch.tv/lcs
 SUMMARY:Lower bracket final: SEN vs LY
+URL:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T000000Z
+UID:pandascore-match-1382626@esport-ics
+DTSTART:20260305T000000Z
+DTEND:20260305T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Americas Cup - 2026 - Playoffs\nWatch: https://www.twitch.tv/lc
+ s
+SUMMARY:Upper bracket semifinal 2: RED vs SEN
 URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR
