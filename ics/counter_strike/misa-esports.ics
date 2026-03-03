@@ -203,4 +203,13 @@ DESCRIPTION:United21 - Season 45 2026 - Playoffs\nWatch: https://kick.com/u
 SUMMARY:Lower bracket quarterfinal 1: MISA vs LPH
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T183000Z
+UID:pandascore-match-1382722@esport-ics
+DTSTART:20260305T183000Z
+DTEND:20260305T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 4: MISA vs TBD
+END:VEVENT
 END:VCALENDAR
