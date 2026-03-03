@@ -99,7 +99,9 @@ UID:pandascore-match-1369823@esport-ics
 DTSTART:20260303T130000Z
 DTEND:20260303T151500Z
 CLASS:PUBLIC
-DESCRIPTION:CCT South America - Series #9 season 3 2026 - Playoffs
+DESCRIPTION:CCT South America - Series #9 season 3 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs3
 SUMMARY:Round 16 match 5: ex-KRÜ Esports vs GH
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

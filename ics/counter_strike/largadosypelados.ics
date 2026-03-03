@@ -204,7 +204,9 @@ UID:pandascore-match-1369824@esport-ics
 DTSTART:20260303T160000Z
 DTEND:20260303T181500Z
 CLASS:PUBLIC
-DESCRIPTION:CCT South America - Series #9 season 3 2026 - Playoffs
+DESCRIPTION:CCT South America - Series #9 season 3 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs3
 SUMMARY:Round 16 match 6: YAW vs LDP
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
