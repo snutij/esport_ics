@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:x5 Gaming
+SLUG:x5-gaming
+BEGIN:VEVENT
+DTSTAMP:20260304T220000Z
+UID:pandascore-match-1357498@esport-ics
+DTSTART:20260304T220000Z
+DTEND:20260305T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - South America Series  #3 season 2 2026 - Playoffs\nWatch:
+  https://kick.com/cct_dota
+SUMMARY:Upper bracket quarterfinal 4: x5 vs EB
+URL;VALUE=URI:https://kick.com/cct_dota
+END:VEVENT
+END:VCALENDAR

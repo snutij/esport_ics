@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:GLYPH
+SLUG:glyph
+BEGIN:VEVENT
+DTSTAMP:20260306T070000Z
+UID:pandascore-match-1384108@esport-ics
+DTSTART:20260306T070000Z
+DTEND:20260306T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs GLYPH
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T040000Z
+UID:pandascore-match-1384131@esport-ics
+DTSTART:20260312T040000Z
+DTEND:20260312T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:GLYPH vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T040000Z
+UID:pandascore-match-1384133@esport-ics
+DTSTART:20260313T040000Z
+DTEND:20260313T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:ESS vs GLYPH
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T040000Z
+UID:pandascore-match-1384135@esport-ics
+DTSTART:20260314T040000Z
+DTEND:20260314T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:GLYPH vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T070000Z
+UID:pandascore-match-1384140@esport-ics
+DTSTART:20260316T070000Z
+DTEND:20260316T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs GLYPH
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T070000Z
+UID:pandascore-match-1384146@esport-ics
+DTSTART:20260319T070000Z
+DTEND:20260319T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:GLYPH vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T040000Z
+UID:pandascore-match-1384149@esport-ics
+DTSTART:20260321T040000Z
+DTEND:20260321T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs GLYPH
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+END:VCALENDAR

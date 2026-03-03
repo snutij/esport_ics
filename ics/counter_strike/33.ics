@@ -202,6 +202,17 @@ SUMMARY:Quarterfinal 1: 33 vs FORZE.R
 URL:https://kick.com/exort_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260304T120000Z
+UID:pandascore-match-1378857@esport-ics
+DTSTART:20260304T120000Z
+DTEND:20260304T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Meteor - Season 2 2026 - Playoffs\nWatch: https://kick.co
+ m/exort_en
+SUMMARY:Semifinal 1: 33 vs TBD
+URL;VALUE=URI:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260307T140000Z
 UID:pandascore-match-1313601@esport-ics
 DTSTART:20260307T140000Z

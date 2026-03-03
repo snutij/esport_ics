@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cloud Rising
+SLUG:cloud-rising
+BEGIN:VEVENT
+DTSTAMP:20260306T040000Z
+UID:pandascore-match-1384107@esport-ics
+DTSTART:20260306T040000Z
+DTEND:20260306T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CR vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T040000Z
+UID:pandascore-match-1384116@esport-ics
+DTSTART:20260307T040000Z
+DTEND:20260307T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T040000Z
+UID:pandascore-match-1384131@esport-ics
+DTSTART:20260312T040000Z
+DTEND:20260312T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:GLYPH vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T070000Z
+UID:pandascore-match-1384134@esport-ics
+DTSTART:20260313T070000Z
+DTEND:20260313T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CR vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T070000Z
+UID:pandascore-match-1384136@esport-ics
+DTSTART:20260314T070000Z
+DTEND:20260314T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T040000Z
+UID:pandascore-match-1384139@esport-ics
+DTSTART:20260316T040000Z
+DTEND:20260316T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CR vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T070000Z
+UID:pandascore-match-1384148@esport-ics
+DTSTART:20260320T070000Z
+DTEND:20260320T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CR vs ESS
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+END:VCALENDAR

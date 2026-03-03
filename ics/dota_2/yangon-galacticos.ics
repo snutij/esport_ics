@@ -124,6 +124,83 @@ CLASS:PUBLIC
 DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group A\nWatch: https://ww
  w.twitch.tv/cringestation_en
 SUMMARY:CARST vs YG
-URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+URL:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T070000Z
+UID:pandascore-match-1384100@esport-ics
+DTSTART:20260304T070000Z
+DTEND:20260304T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs YG
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T040000Z
+UID:pandascore-match-1384101@esport-ics
+DTSTART:20260305T040000Z
+DTEND:20260305T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T040000Z
+UID:pandascore-match-1384116@esport-ics
+DTSTART:20260307T040000Z
+DTEND:20260307T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T070000Z
+UID:pandascore-match-1384138@esport-ics
+DTSTART:20260315T070000Z
+DTEND:20260315T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:ESS vs YG
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T040000Z
+UID:pandascore-match-1384141@esport-ics
+DTSTART:20260317T040000Z
+DTEND:20260317T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs YG
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T040000Z
+UID:pandascore-match-1384143@esport-ics
+DTSTART:20260318T040000Z
+DTEND:20260318T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T040000Z
+UID:pandascore-match-1384149@esport-ics
+DTSTART:20260321T040000Z
+DTEND:20260321T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs GLYPH
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

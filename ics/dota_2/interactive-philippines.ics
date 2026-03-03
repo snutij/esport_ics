@@ -91,6 +91,83 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 12 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/n1cemickb
 SUMMARY:Lower bracket final: YG vs IAC
-URL;VALUE=URI:https://www.twitch.tv/n1cemickb
+URL:https://www.twitch.tv/n1cemickb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T040000Z
+UID:pandascore-match-1384099@esport-ics
+DTSTART:20260304T040000Z
+DTEND:20260304T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IVO vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T070000Z
+UID:pandascore-match-1384102@esport-ics
+DTSTART:20260305T070000Z
+DTEND:20260305T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T040000Z
+UID:pandascore-match-1384107@esport-ics
+DTSTART:20260306T040000Z
+DTEND:20260306T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CR vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T070000Z
+UID:pandascore-match-1384140@esport-ics
+DTSTART:20260316T070000Z
+DTEND:20260316T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs GLYPH
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T040000Z
+UID:pandascore-match-1384141@esport-ics
+DTSTART:20260317T040000Z
+DTEND:20260317T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs YG
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T040000Z
+UID:pandascore-match-1384145@esport-ics
+DTSTART:20260319T040000Z
+DTEND:20260319T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:ESS vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T040000Z
+UID:pandascore-match-1384147@esport-ics
+DTSTART:20260320T040000Z
+DTEND:20260320T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

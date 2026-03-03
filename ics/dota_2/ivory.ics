@@ -124,6 +124,83 @@ CLASS:PUBLIC
 DESCRIPTION:Lunar Snake Trophy - Season 6 2026 - Group B\nWatch: https://ww
  w.twitch.tv/cringestation_en
 SUMMARY:IVO vs VER
-URL;VALUE=URI:https://www.twitch.tv/cringestation_en
+URL:https://www.twitch.tv/cringestation_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T040000Z
+UID:pandascore-match-1384099@esport-ics
+DTSTART:20260304T040000Z
+DTEND:20260304T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IVO vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T040000Z
+UID:pandascore-match-1384101@esport-ics
+DTSTART:20260305T040000Z
+DTEND:20260305T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T070000Z
+UID:pandascore-match-1384132@esport-ics
+DTSTART:20260312T070000Z
+DTEND:20260312T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IVO vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T040000Z
+UID:pandascore-match-1384137@esport-ics
+DTSTART:20260315T040000Z
+DTEND:20260315T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CD vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T040000Z
+UID:pandascore-match-1384139@esport-ics
+DTSTART:20260316T040000Z
+DTEND:20260316T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CR vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T070000Z
+UID:pandascore-match-1384142@esport-ics
+DTSTART:20260317T070000Z
+DTEND:20260317T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:ESS vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T070000Z
+UID:pandascore-match-1384146@esport-ics
+DTSTART:20260319T070000Z
+DTEND:20260319T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:GLYPH vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR
