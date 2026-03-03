@@ -61,14 +61,25 @@ SUMMARY:Winners match: Serral vs ByuN
 URL:https://www.twitch.tv/x5_pig
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260305T130000Z
+DTSTAMP:20260305T133000Z
 UID:pandascore-match-1377485@esport-ics
-DTSTART:20260305T130000Z
-DTEND:20260305T151500Z
+DTSTART:20260305T133000Z
+DTEND:20260305T154500Z
 CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/wardiii
 SUMMARY:Upper bracket round 16 match 3: ByuN vs Gerald
 URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T100000Z
+UID:pandascore-match-1383687@esport-ics
+DTSTART:20260315T100000Z
+DTEND:20260315T121500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 4 2026 - Group D\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:ByuN vs SHIN
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR

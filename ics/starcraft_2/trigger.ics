@@ -69,7 +69,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Group D\nWatch: https://ww
  w.twitch.tv/wardiii
 SUMMARY:trigger vs Bunny
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260225T140000Z
@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Group D\nWatch: https://ww
  w.twitch.tv/wardiii
 SUMMARY:SHIN vs trigger
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T100000Z
+UID:pandascore-match-1383660@esport-ics
+DTSTART:20260308T100000Z
+DTEND:20260308T121500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 4 2026 - Group C\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:Classic vs trigger
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR

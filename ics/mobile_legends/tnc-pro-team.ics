@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TNC Pro Team
+SLUG:tnc-pro-team
+BEGIN:VEVENT
+DTSTAMP:20260321T090000Z
+UID:pandascore-match-1383233@esport-ics
+DTSTART:20260321T090000Z
+DTEND:20260321T111500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:AR vs TNCPT
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T090000Z
+UID:pandascore-match-1383235@esport-ics
+DTSTART:20260322T090000Z
+DTEND:20260322T111500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:TNCPT vs APBR
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T113000Z
+UID:pandascore-match-1383238@esport-ics
+DTSTART:20260327T113000Z
+DTEND:20260327T134500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:ONIC vs TNCPT
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T090000Z
+UID:pandascore-match-1383240@esport-ics
+DTSTART:20260328T090000Z
+DTEND:20260328T111500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:OE vs TNCPT
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T113000Z
+UID:pandascore-match-1383268@esport-ics
+DTSTART:20260411T113000Z
+DTEND:20260411T134500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:TNCPT vs TLPH
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T090000Z
+UID:pandascore-match-1383271@esport-ics
+DTSTART:20260417T090000Z
+DTEND:20260417T111500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:TNCPT vs Team Falcons PH
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T063000Z
+UID:pandascore-match-1383293@esport-ics
+DTSTART:20260418T063000Z
+DTEND:20260418T084500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:TNCPT vs TWPH
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T090000Z
+UID:pandascore-match-1383331@esport-ics
+DTSTART:20260425T090000Z
+DTEND:20260425T111500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:TNCPT vs AR
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T090000Z
+UID:pandascore-match-1383343@esport-ics
+DTSTART:20260426T090000Z
+DTEND:20260426T111500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:APBR vs TNCPT
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T113000Z
+UID:pandascore-match-1383357@esport-ics
+DTSTART:20260501T113000Z
+DTEND:20260501T134500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:TNCPT vs ONIC
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T090000Z
+UID:pandascore-match-1383359@esport-ics
+DTSTART:20260502T090000Z
+DTEND:20260502T111500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:TNCPT vs OE
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T113000Z
+UID:pandascore-match-1383400@esport-ics
+DTSTART:20260509T113000Z
+DTEND:20260509T134500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:TLPH vs TNCPT
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T090000Z
+UID:pandascore-match-1383419@esport-ics
+DTSTART:20260515T090000Z
+DTEND:20260515T111500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:Team Falcons PH vs TNCPT
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T063000Z
+UID:pandascore-match-1383431@esport-ics
+DTSTART:20260516T063000Z
+DTEND:20260516T084500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
+ ://www.youtube.com/@MLBBeSports/live
+SUMMARY:TWPH vs TNCPT
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+END:VCALENDAR

@@ -91,4 +91,26 @@ DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
 SUMMARY:Upper bracket round 16 match 7: Cure vs SHIN
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T100000Z
+UID:pandascore-match-1383687@esport-ics
+DTSTART:20260315T100000Z
+DTEND:20260315T121500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 4 2026 - Group D\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:ByuN vs SHIN
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T104500Z
+UID:pandascore-match-1383688@esport-ics
+DTSTART:20260315T104500Z
+DTEND:20260315T130000Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 4 2026 - Group D\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:Krystianer vs SHIN
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+END:VEVENT
 END:VCALENDAR
