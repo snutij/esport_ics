@@ -292,6 +292,17 @@ SUMMARY:Round of 16 match 4: SASHI vs ENCE.A
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260305T090000Z
+UID:pandascore-match-1381425@esport-ics
+DTSTART:20260305T090000Z
+DTEND:20260305T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Season 1 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/bcgamemasters
+SUMMARY:Round 2: LK vs ENCE.A
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260309T153000Z
 UID:pandascore-match-1372435@esport-ics
 DTSTART:20260309T153000Z

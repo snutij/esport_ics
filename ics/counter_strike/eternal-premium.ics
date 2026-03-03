@@ -106,4 +106,13 @@ DESCRIPTION:IZI WEX - Season 1 2026 - Group C\nWatch: https://www.twitch.tv
 SUMMARY:1WIN vs EP
 URL;VALUE=URI:https://www.twitch.tv/izi_wex_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T183000Z
+UID:pandascore-match-1382720@esport-ics
+DTSTART:20260305T183000Z
+DTEND:20260305T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 2: TNT vs EP
+END:VEVENT
 END:VCALENDAR
