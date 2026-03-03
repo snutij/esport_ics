@@ -28,14 +28,14 @@ SUMMARY:Elimination match: PG vs B52
 URL:https://www.twitch.tv/izi_wex_cs_b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260303T190000Z
+DTSTAMP:20260303T200000Z
 UID:pandascore-match-1381480@esport-ics
-DTSTART:20260303T190000Z
-DTEND:20260303T211500Z
+DTSTART:20260303T200000Z
+DTEND:20260303T221500Z
 CLASS:PUBLIC
 DESCRIPTION:IZI WEX - Season 1 2026 - Group B\nWatch: https://www.twitch.tv
- /izi_wex_cs
+ /izi_wex_cs_b
 SUMMARY:Decider match: WW vs PG
-URL;VALUE=URI:https://www.twitch.tv/izi_wex_cs
+URL;VALUE=URI:https://www.twitch.tv/izi_wex_cs_b
 END:VEVENT
 END:VCALENDAR
