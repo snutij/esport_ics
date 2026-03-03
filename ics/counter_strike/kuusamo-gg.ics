@@ -94,6 +94,17 @@ SUMMARY:Round 2: KSM vs BoyBand
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260303T193000Z
+UID:pandascore-match-1382761@esport-ics
+DTSTART:20260303T193000Z
+DTEND:20260303T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 5: KSM vs aAa
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260309T153000Z
 UID:pandascore-match-1372435@esport-ics
 DTSTART:20260309T153000Z

@@ -202,4 +202,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #9 season 3 2026 - Playoffs
 SUMMARY:Round 16 match 4: PCY vs FA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T160000Z
+UID:pandascore-match-1369828@esport-ics
+DTSTART:20260304T160000Z
+DTEND:20260304T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #9 season 3 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs3
+SUMMARY:Quarterfinal 2: FURIA.F vs FA
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR
