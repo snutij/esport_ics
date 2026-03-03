@@ -122,4 +122,15 @@ DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 1\nWatch: https://www.t
 SUMMARY:Round 3: paiN vs PSSN.UA
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T183000Z
+UID:pandascore-match-1382788@esport-ics
+DTSTART:20260305T183000Z
+DTEND:20260305T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 1: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 1: PSSN.UA vs FOKUS
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
 END:VCALENDAR

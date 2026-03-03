@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: European Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/watchfulTVc
 SUMMARY:Lower bracket final: EYE vs ICE
-URL;VALUE=URI:https://www.twitch.tv/watchfulTVc
+URL:https://www.twitch.tv/watchfulTVc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T133000Z
+UID:pandascore-match-1382794@esport-ics
+DTSTART:20260304T133000Z
+DTEND:20260304T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 1: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 7: EYE vs NEM
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
