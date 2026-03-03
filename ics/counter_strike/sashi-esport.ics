@@ -174,8 +174,10 @@ UID:pandascore-match-1384165@esport-ics
 DTSTART:20260308T123000Z
 DTEND:20260308T131500Z
 CLASS:PUBLIC
-DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group A
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
 SUMMARY:SASHI vs AAB
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260308T153000Z
@@ -183,8 +185,10 @@ UID:pandascore-match-1384170@esport-ics
 DTSTART:20260308T153000Z
 DTEND:20260308T161500Z
 CLASS:PUBLIC
-DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group A
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
 SUMMARY:SASHI vs 100T
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260308T170000Z
@@ -192,8 +196,10 @@ UID:pandascore-match-1384171@esport-ics
 DTSTART:20260308T170000Z
 DTEND:20260308T174500Z
 CLASS:PUBLIC
-DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group A
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
 SUMMARY:MSC vs SASHI
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260308T200000Z
@@ -201,8 +207,10 @@ UID:pandascore-match-1384175@esport-ics
 DTSTART:20260308T200000Z
 DTEND:20260308T204500Z
 CLASS:PUBLIC
-DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group A
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
 SUMMARY:EN vs SASHI
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260308T210000Z
@@ -210,7 +218,9 @@ UID:pandascore-match-1384177@esport-ics
 DTSTART:20260308T210000Z
 DTEND:20260308T214500Z
 CLASS:PUBLIC
-DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group A
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
 SUMMARY:JS vs SASHI
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR

@@ -58,6 +58,61 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Group A\nWatch
  : https://kick.com/challengerchampionship_d
 SUMMARY:Avanti Esport vs ECS
-URL;VALUE=URI:https://kick.com/challengerchampionship_d
+URL:https://kick.com/challengerchampionship_d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T110000Z
+UID:pandascore-match-1384179@esport-ics
+DTSTART:20260308T110000Z
+DTEND:20260308T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:Avanti Esport vs KOL
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T123000Z
+UID:pandascore-match-1384182@esport-ics
+DTSTART:20260308T123000Z
+DTEND:20260308T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:FOKUS vs Avanti Esport
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T140000Z
+UID:pandascore-match-1384183@esport-ics
+DTSTART:20260308T140000Z
+DTEND:20260308T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:AM vs Avanti Esport
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T170000Z
+UID:pandascore-match-1384187@esport-ics
+DTSTART:20260308T170000Z
+DTEND:20260308T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:Avanti Esport vs BCA
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T200000Z
+UID:pandascore-match-1384192@esport-ics
+DTSTART:20260308T200000Z
+DTEND:20260308T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:Avanti Esport vs VOCA
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR
