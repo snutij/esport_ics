@@ -118,7 +118,9 @@ UID:pandascore-match-1382703@esport-ics
 DTSTART:20260303T183000Z
 DTEND:20260303T204500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/tlrlive
 SUMMARY:Upper bracket round 1 match 1: TLR vs HASP
+URL;VALUE=URI:https://www.twitch.tv/tlrlive
 END:VEVENT
 END:VCALENDAR

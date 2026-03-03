@@ -109,6 +109,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Playoffs\nWatch: https:/
  /kick.com/nodwin_cs2
 SUMMARY:Round of 16 match 2: MGC vs TDK
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T090000Z
+UID:pandascore-match-1356342@esport-ics
+DTSTART:20260304T090000Z
+DTEND:20260304T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 5 2026 - Playoffs\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Quarterfinal 1: HOTU vs MGC
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
