@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Golden Lions
+SLUG:golden-lions
+BEGIN:VEVENT
+DTSTAMP:20260311T230000Z
+UID:pandascore-match-1384357@esport-ics
+DTSTART:20260311T230000Z
+DTEND:20260312T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:9ZG vs GL
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T200000Z
+UID:pandascore-match-1384358@esport-ics
+DTSTART:20260312T200000Z
+DTEND:20260312T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:7D vs GL
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T230000Z
+UID:pandascore-match-1384364@esport-ics
+DTSTART:20260324T230000Z
+DTEND:20260325T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:GL vs TUP
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T200000Z
+UID:pandascore-match-1384367@esport-ics
+DTSTART:20260331T200000Z
+DTEND:20260331T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:GL vs TNK
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T230000Z
+UID:pandascore-match-1384372@esport-ics
+DTSTART:20260407T230000Z
+DTEND:20260408T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:MG vs GL
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T200000Z
+UID:pandascore-match-1384375@esport-ics
+DTSTART:20260414T200000Z
+DTEND:20260414T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:VTC vs GL
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:9z Globant
+SLUG:9z-globant
+BEGIN:VEVENT
+DTSTAMP:20260311T230000Z
+UID:pandascore-match-1384357@esport-ics
+DTSTART:20260311T230000Z
+DTEND:20260312T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:9ZG vs GL
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T230000Z
+UID:pandascore-match-1384360@esport-ics
+DTSTART:20260312T230000Z
+DTEND:20260313T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:9ZG vs MAZ
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T230000Z
+UID:pandascore-match-1384365@esport-ics
+DTSTART:20260324T230000Z
+DTEND:20260325T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:9ZG vs VTC
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T200000Z
+UID:pandascore-match-1384366@esport-ics
+DTSTART:20260331T200000Z
+DTEND:20260331T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:9ZG vs MG
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T200000Z
+UID:pandascore-match-1384371@esport-ics
+DTSTART:20260407T200000Z
+DTEND:20260407T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:9ZG vs TUP
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T230000Z
+UID:pandascore-match-1384376@esport-ics
+DTSTART:20260414T230000Z
+DTEND:20260415T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:9ZG vs TNK
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+END:VCALENDAR

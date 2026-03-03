@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Kickoff 2026 - Playoffs - ME\nWatch: htt
  ps://www.twitch.tv/valorantesports_ar
 SUMMARY:Upper bracket final: STS vs QE
+URL:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T190000Z
+UID:pandascore-match-1337959@esport-ics
+DTSTART:20260306T190000Z
+DTEND:20260306T224500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Kickoff 2026 - Playoffs - ME\nWatch: htt
+ ps://www.twitch.tv/valorantesports_ar
+SUMMARY:Grand final: STS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR

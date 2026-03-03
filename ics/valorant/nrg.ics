@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Group Stage\nWatch: https://www.t
  witch.tv/valorant
 SUMMARY:Round 2: NRG vs TL
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T180000Z
+UID:pandascore-match-1368478@esport-ics
+DTSTART:20260304T180000Z
+DTEND:20260304T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters Santiago 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/valorant
+SUMMARY:Round 3: NRG vs TL
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

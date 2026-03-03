@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tu Papá Esports
+SLUG:tu-papa-esports
+BEGIN:VEVENT
+DTSTAMP:20260303T230000Z
+UID:pandascore-match-1384353@esport-ics
+DTSTART:20260303T230000Z
+DTEND:20260304T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:MG vs TUP
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T230000Z
+UID:pandascore-match-1384356@esport-ics
+DTSTART:20260311T230000Z
+DTEND:20260312T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:TUP vs TNK
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T230000Z
+UID:pandascore-match-1384361@esport-ics
+DTSTART:20260312T230000Z
+DTEND:20260313T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:VTC vs TUP
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T230000Z
+UID:pandascore-match-1384364@esport-ics
+DTSTART:20260324T230000Z
+DTEND:20260325T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:GL vs TUP
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T230000Z
+UID:pandascore-match-1384369@esport-ics
+DTSTART:20260331T230000Z
+DTEND:20260401T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:MAZ vs TUP
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T200000Z
+UID:pandascore-match-1384371@esport-ics
+DTSTART:20260407T200000Z
+DTEND:20260407T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:9ZG vs TUP
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T200000Z
+UID:pandascore-match-1384374@esport-ics
+DTSTART:20260414T200000Z
+DTEND:20260414T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolacelatam
+SUMMARY:7D vs TUP
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+END:VCALENDAR
