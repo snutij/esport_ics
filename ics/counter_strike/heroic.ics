@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 1\nWatch: https://www.t
  witch.tv/ESLCS
 SUMMARY:Round 4: HERO vs PSSN.UA
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T123000Z
+UID:pandascore-match-1376220@esport-ics
+DTSTART:20260305T123000Z
+DTEND:20260305T144500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 1\nWatch: https://www.t
+ witch.tv/ESLCS
+SUMMARY:Round 5: PRV vs HERO
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

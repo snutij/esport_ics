@@ -414,4 +414,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
 SUMMARY:Upper bracket round 2 match 6: Donstu Esports vs QWE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T090000Z
+UID:pandascore-match-1373731@esport-ics
+DTSTART:20260306T090000Z
+DTEND:20260306T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 3: LC vs QWE
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR

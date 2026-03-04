@@ -79,6 +79,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group A\nWatch: https://www
  .twitch.tv/vilacattv
 SUMMARY:Winners match: FXW7 vs TBD
+URL:https://www.twitch.tv/vilacattv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T130000Z
+UID:pandascore-match-1378271@esport-ics
+DTSTART:20260306T130000Z
+DTEND:20260306T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group A\nWatch: https://www
+ .twitch.tv/vilacattv
+SUMMARY:Decider match: SHIN vs FXW7
 URL;VALUE=URI:https://www.twitch.tv/vilacattv
 END:VEVENT
 END:VCALENDAR
