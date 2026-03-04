@@ -105,14 +105,25 @@ SUMMARY:Round 16 match 5: ex-KRÜ Esports vs GH
 URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260304T190000Z
+DTSTAMP:20260304T220000Z
 UID:pandascore-match-1369829@esport-ics
-DTSTART:20260304T190000Z
-DTEND:20260304T211500Z
+DTSTART:20260304T220000Z
+DTEND:20260305T001500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #9 season 3 2026 - Playoffs\nWatch: 
  https://kick.com/cct_cs3
-SUMMARY:Quarterfinal 3: ex-KRÜ Esports vs LDP
+SUMMARY:Quarterfinal 3: Keyd vs ex-KRÜ Esports
 URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T230000Z
+UID:pandascore-match-1380478@esport-ics
+DTSTART:20260305T230000Z
+DTEND:20260306T011500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 1 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 2: ex-KRÜ Esports vs DS
+URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR

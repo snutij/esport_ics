@@ -85,6 +85,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 22 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 5: PSY vs mix52
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T163000Z
+UID:pandascore-match-1384389@esport-ics
+DTSTART:20260304T163000Z
+DTEND:20260304T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: mix52 vs VP.F
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

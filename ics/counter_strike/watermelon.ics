@@ -242,4 +242,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 11: UNiTY vs WTRML0N
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T103000Z
+UID:pandascore-match-1384387@esport-ics
+DTSTART:20260304T103000Z
+DTEND:20260304T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: WTRML0N vs PAR
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
 END:VCALENDAR
