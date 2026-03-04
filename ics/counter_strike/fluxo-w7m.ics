@@ -68,6 +68,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group A\nWatch: https://www
  .twitch.tv/tris_mara
 SUMMARY:FXW7 vs SHIN
-URL;VALUE=URI:https://www.twitch.tv/tris_mara
+URL:https://www.twitch.tv/tris_mara
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T170000Z
+UID:pandascore-match-1378269@esport-ics
+DTSTART:20260304T170000Z
+DTEND:20260304T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group A\nWatch: https://www
+ .twitch.tv/vilacattv
+SUMMARY:Winners match: FXW7 vs TBD
+URL;VALUE=URI:https://www.twitch.tv/vilacattv
 END:VEVENT
 END:VCALENDAR
