@@ -47,6 +47,28 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Championship - Season 2 2026 - Playoffs\nWatch: https://kic
  k.com/epldota_en2
 SUMMARY:Grand final: LiXO eSports vs YeS
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T130000Z
+UID:pandascore-match-1384401@esport-ics
+DTSTART:20260304T130000Z
+DTEND:20260304T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:LiXO eSports vs NAVI.J
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T130000Z
+UID:pandascore-match-1384432@esport-ics
+DTSTART:20260317T130000Z
+DTEND:20260317T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:LiXO eSports vs VP.P
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

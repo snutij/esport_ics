@@ -47,6 +47,28 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Championship - Season 2 2026 - Playoffs\nWatch: https://kic
  k.com/epldota_en2
 SUMMARY:Lower bracket quarterfinal 2: DGS vs WB
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T160000Z
+UID:pandascore-match-1384402@esport-ics
+DTSTART:20260304T160000Z
+DTEND:20260304T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:DGS vs LVLUP
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T190000Z
+UID:pandascore-match-1384430@esport-ics
+DTSTART:20260316T190000Z
+DTEND:20260316T211500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:WB vs DGS
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
