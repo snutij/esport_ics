@@ -69,6 +69,105 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 22 2026 - Playoffs\nWatch: https://kick.c
  om/exort_en2
 SUMMARY:Round 1 match 3: SNG vs WAVE
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T190000Z
+UID:pandascore-match-1385722@esport-ics
+DTSTART:20260316T190000Z
+DTEND:20260316T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:REV vs WAVE
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T180000Z
+UID:pandascore-match-1385720@esport-ics
+DTSTART:20260330T180000Z
+DTEND:20260330T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:R4G vs WAVE
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T180000Z
+UID:pandascore-match-1385714@esport-ics
+DTSTART:20260401T180000Z
+DTEND:20260401T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:FROX vs WAVE
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T160000Z
+UID:pandascore-match-1385731@esport-ics
+DTSTART:20260408T160000Z
+DTEND:20260408T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:WAVE vs LEI
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T180000Z
+UID:pandascore-match-1385737@esport-ics
+DTSTART:20260415T180000Z
+DTEND:20260415T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:WAVE vs Ducks
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T160000Z
+UID:pandascore-match-1385740@esport-ics
+DTSTART:20260422T160000Z
+DTEND:20260422T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:WAVE vs BERG
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T180000Z
+UID:pandascore-match-1385747@esport-ics
+DTSTART:20260429T180000Z
+DTEND:20260429T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:OVS vs WAVE
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T180000Z
+UID:pandascore-match-1385752@esport-ics
+DTSTART:20260506T180000Z
+DTEND:20260506T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:WAVE vs HUSK
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T180000Z
+UID:pandascore-match-1385755@esport-ics
+DTSTART:20260511T180000Z
+DTEND:20260511T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:WAVE vs BIG.A
+URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 END:VCALENDAR

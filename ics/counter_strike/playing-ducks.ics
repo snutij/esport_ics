@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Playing Ducks
+SLUG:playing-ducks
+BEGIN:VEVENT
+DTSTAMP:20260311T190000Z
+UID:pandascore-match-1385718@esport-ics
+DTSTART:20260311T190000Z
+DTEND:20260311T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:FROX vs Ducks
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T190000Z
+UID:pandascore-match-1385724@esport-ics
+DTSTART:20260318T190000Z
+DTEND:20260318T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:BIG.A vs Ducks
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T180000Z
+UID:pandascore-match-1385730@esport-ics
+DTSTART:20260401T180000Z
+DTEND:20260401T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:Ducks vs BERG
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T180000Z
+UID:pandascore-match-1385737@esport-ics
+DTSTART:20260415T180000Z
+DTEND:20260415T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:WAVE vs Ducks
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T180000Z
+UID:pandascore-match-1385741@esport-ics
+DTSTART:20260422T180000Z
+DTEND:20260422T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:Ducks vs OVS
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T160000Z
+UID:pandascore-match-1385745@esport-ics
+DTSTART:20260429T160000Z
+DTEND:20260429T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:Ducks vs LEI
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T160000Z
+UID:pandascore-match-1385750@esport-ics
+DTSTART:20260506T160000Z
+DTEND:20260506T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:REV vs Ducks
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T180000Z
+UID:pandascore-match-1385757@esport-ics
+DTSTART:20260513T180000Z
+DTEND:20260513T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:Ducks vs HUSK
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+END:VCALENDAR
