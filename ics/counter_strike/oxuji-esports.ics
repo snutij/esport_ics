@@ -308,17 +308,6 @@ SUMMARY:Winners match: OXUJI vs EF
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260304T090000Z
-UID:pandascore-match-1355945@esport-ics
-DTSTART:20260304T090000Z
-DTEND:20260304T111500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Series 5 2026 - Playoffs\nWatch: https://
- kick.com/eplcs_en
-SUMMARY:Round of 16 match 3: PHA vs OXUJI
-URL;VALUE=URI:https://kick.com/eplcs_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260304T100000Z
 UID:pandascore-match-1381486@esport-ics
 DTSTART:20260304T100000Z
@@ -328,5 +317,16 @@ DESCRIPTION:IZI WEX - Season 1 2026 - Group D\nWatch: https://www.twitch.tv
  /izi_wex_cs
 SUMMARY:VP.P vs OXUJI
 URL;VALUE=URI:https://www.twitch.tv/izi_wex_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T143000Z
+UID:pandascore-match-1355945@esport-ics
+DTSTART:20260306T143000Z
+DTEND:20260306T164500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Round of 16 match 3: PHA vs OXUJI
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
