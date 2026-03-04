@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Group Stage\nWatch: https://www.t
  witch.tv/valorant
 SUMMARY:Round 3: NRG vs TL
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T200000Z
+UID:pandascore-match-1368483@esport-ics
+DTSTART:20260307T200000Z
+DTEND:20260307T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters Santiago 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/valorant
+SUMMARY:Upper bracket quarterfinal 4: BBL vs NRG
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

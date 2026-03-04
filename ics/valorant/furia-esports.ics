@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Kickoff 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant_americas
 SUMMARY:Upper bracket final: MIBR vs FUR
-URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T170000Z
+UID:pandascore-match-1368482@esport-ics
+DTSTART:20260307T170000Z
+DTEND:20260307T191500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters Santiago 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/valorant
+SUMMARY:Upper bracket quarterfinal 3: FUR vs PR
+URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR
