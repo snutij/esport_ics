@@ -33,6 +33,16 @@ DTEND:20260304T124500Z
 CLASS:PUBLIC
 DESCRIPTION:LPL - Split 1 2026 - Playoffs\nWatch: http://www.huya.com/lpl
 SUMMARY:Upper bracket final: JDG vs BLG
+URL:http://www.huya.com/lpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T090000Z
+UID:pandascore-match-1352805@esport-ics
+DTSTART:20260308T090000Z
+DTEND:20260308T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 1 2026 - Playoffs\nWatch: http://www.huya.com/lpl
+SUMMARY:Grand final: BLG vs TBD
 URL;VALUE=URI:http://www.huya.com/lpl
 END:VEVENT
 END:VCALENDAR
