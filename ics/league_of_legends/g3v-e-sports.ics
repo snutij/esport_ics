@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:G3V E-sports
+SLUG:g3v-e-sports
+BEGIN:VEVENT
+DTSTAMP:20260310T020000Z
+UID:pandascore-match-1384405@esport-ics
+DTSTART:20260310T020000Z
+DTEND:20260310T041500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:G3V vs ICON
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T230000Z
+UID:pandascore-match-1384408@esport-ics
+DTSTART:20260310T230000Z
+DTEND:20260311T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:G3V vs SDM
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T230000Z
+UID:pandascore-match-1384411@esport-ics
+DTSTART:20260323T230000Z
+DTEND:20260324T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:G3V vs Z5
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T020000Z
+UID:pandascore-match-1384418@esport-ics
+DTSTART:20260331T020000Z
+DTEND:20260331T041500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:PLS vs G3V
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T230000Z
+UID:pandascore-match-1384420@esport-ics
+DTSTART:20260406T230000Z
+DTEND:20260407T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:G3V vs FUE
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T020000Z
+UID:pandascore-match-1384425@esport-ics
+DTSTART:20260414T020000Z
+DTEND:20260414T041500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:G3V vs LYN.A
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+END:VCALENDAR

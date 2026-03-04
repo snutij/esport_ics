@@ -71,4 +71,37 @@ DESCRIPTION:European Pro League - Season 35 2026 - Group B\nWatch: https://
 SUMMARY:WB vs DGS
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T190000Z
+UID:pandascore-match-1384438@esport-ics
+DTSTART:20260318T190000Z
+DTEND:20260318T211500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ILL vs DGS
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T100000Z
+UID:pandascore-match-1384439@esport-ics
+DTSTART:20260319T100000Z
+DTEND:20260319T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs DGS
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T130000Z
+UID:pandascore-match-1384443@esport-ics
+DTSTART:20260320T130000Z
+DTEND:20260320T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:DGS vs RE
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
 END:VCALENDAR

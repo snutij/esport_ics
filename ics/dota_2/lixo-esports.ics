@@ -71,4 +71,37 @@ DESCRIPTION:European Pro League - Season 35 2026 - Group A\nWatch: https://
 SUMMARY:LiXO eSports vs VP.P
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T160000Z
+UID:pandascore-match-1384441@esport-ics
+DTSTART:20260319T160000Z
+DTEND:20260319T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:LYNX vs LiXO eSports
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T100000Z
+UID:pandascore-match-1384442@esport-ics
+DTSTART:20260320T100000Z
+DTEND:20260320T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Team Name vs LiXO eSports
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T190000Z
+UID:pandascore-match-1384457@esport-ics
+DTSTART:20260322T190000Z
+DTEND:20260322T211500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs LiXO eSports
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
 END:VCALENDAR

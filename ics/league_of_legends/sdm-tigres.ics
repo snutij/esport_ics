@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SDM Tigres
+SLUG:sdm-tigres
+BEGIN:VEVENT
+DTSTAMP:20260309T230000Z
+UID:pandascore-match-1384404@esport-ics
+DTSTART:20260309T230000Z
+DTEND:20260310T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:SDM vs Z5
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T230000Z
+UID:pandascore-match-1384408@esport-ics
+DTSTART:20260310T230000Z
+DTEND:20260311T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:G3V vs SDM
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T020000Z
+UID:pandascore-match-1384413@esport-ics
+DTSTART:20260324T020000Z
+DTEND:20260324T041500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:ICON vs SDM
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T020000Z
+UID:pandascore-match-1384417@esport-ics
+DTSTART:20260331T020000Z
+DTEND:20260331T041500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:SDM vs FUE
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T230000Z
+UID:pandascore-match-1384419@esport-ics
+DTSTART:20260406T230000Z
+DTEND:20260407T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:NCG  vs SDM
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T230000Z
+UID:pandascore-match-1384424@esport-ics
+DTSTART:20260413T230000Z
+DTEND:20260414T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:PLS vs SDM
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+END:VCALENDAR
