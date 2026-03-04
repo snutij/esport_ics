@@ -105,17 +105,6 @@ SUMMARY:IVO vs IAC
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260305T070000Z
-UID:pandascore-match-1384102@esport-ics
-DTSTART:20260305T070000Z
-DTEND:20260305T091500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:IAC vs CARST
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260306T040000Z
 UID:pandascore-match-1384107@esport-ics
 DTSTART:20260306T040000Z
@@ -168,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:IAC vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T040000Z
+UID:pandascore-match-1384102@esport-ics
+DTSTART:20260321T040000Z
+DTEND:20260321T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs CARST
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

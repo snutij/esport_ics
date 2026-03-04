@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 6 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/BLASTDota
 SUMMARY:Quarterfinal 2: TY vs HEROIC
-URL;VALUE=URI:https://www.twitch.tv/BLASTDota
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T170000Z
+UID:pandascore-match-1385675@esport-ics
+DTSTART:20260307T170000Z
+DTEND:20260307T191500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 7 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
+SUMMARY:Round 1: TY vs HEROIC
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR
