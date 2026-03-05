@@ -217,7 +217,9 @@ UID:pandascore-match-1382723@esport-ics
 DTSTART:20260305T183000Z
 DTEND:20260305T204500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/n1cemick
 SUMMARY:Upper bracket round 2 match 5: BRUTE vs  CSDIILIT
+URL;VALUE=URI:https://www.twitch.tv/n1cemick
 END:VEVENT
 END:VCALENDAR

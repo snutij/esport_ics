@@ -138,7 +138,9 @@ UID:pandascore-match-1382726@esport-ics
 DTSTART:20260305T183000Z
 DTEND:20260305T204500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/fyflo
 SUMMARY:Upper bracket round 2 match 8: AUR.YB vs MEGO
+URL;VALUE=URI:https://www.twitch.tv/fyflo
 END:VEVENT
 END:VCALENDAR

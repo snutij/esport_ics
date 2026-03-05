@@ -141,6 +141,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group C\nWatch: https://www
  .twitch.tv/tris_mara
 SUMMARY:Elimination match: MIBR.A vs YAW
-URL;VALUE=URI:https://www.twitch.tv/tris_mara
+URL:https://www.twitch.tv/tris_mara
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T190000Z
+UID:pandascore-match-1378281@esport-ics
+DTSTART:20260306T190000Z
+DTEND:20260306T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group C\nWatch: https://www
+ .twitch.tv/vilacattv
+SUMMARY:Decider match: YAW vs TBD
+URL;VALUE=URI:https://www.twitch.tv/vilacattv
 END:VEVENT
 END:VCALENDAR
