@@ -61,17 +61,6 @@ SUMMARY:Avanti Esport vs ECS
 URL:https://kick.com/challengerchampionship_d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260308T110000Z
-UID:pandascore-match-1384179@esport-ics
-DTSTART:20260308T110000Z
-DTEND:20260308T114500Z
-CLASS:PUBLIC
-DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group B\nWatch
- : https://kick.com/challengerchampionship
-SUMMARY:Avanti Esport vs KOL
-URL;VALUE=URI:https://kick.com/challengerchampionship
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260308T123000Z
 UID:pandascore-match-1384182@esport-ics
 DTSTART:20260308T123000Z
@@ -113,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group B\nWatch
  : https://kick.com/challengerchampionship
 SUMMARY:Avanti Esport vs VOCA
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T210000Z
+UID:pandascore-match-1384179@esport-ics
+DTSTART:20260308T210000Z
+DTEND:20260308T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:Avanti Esport vs KOL
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR
