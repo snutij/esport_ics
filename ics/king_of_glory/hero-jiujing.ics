@@ -55,8 +55,10 @@ UID:pandascore-match-1385769@esport-ics
 DTSTART:20260313T120000Z
 DTEND:20260313T154500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group A
+DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group A\nWatch: https:/
+ /www.youtube.com/@2019KPL/streams
 SUMMARY:Hero vs LGD
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260315T090000Z
@@ -84,7 +86,9 @@ UID:pandascore-match-1385785@esport-ics
 DTSTART:20260322T060000Z
 DTEND:20260322T094500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group A
+DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group A\nWatch: https:/
+ /www.youtube.com/@2019KPL/streams
 SUMMARY:Hero vs TES.A
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 END:VCALENDAR

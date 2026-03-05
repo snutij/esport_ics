@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group D\nWatch: https://www
  .twitch.tv/locomass22
 SUMMARY:RED vs GH
-URL;VALUE=URI:https://www.twitch.tv/locomass22
+URL:https://www.twitch.tv/locomass22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T223000Z
+UID:pandascore-match-1378285@esport-ics
+DTSTART:20260305T223000Z
+DTEND:20260306T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group D\nWatch: https://www
+ .twitch.tv/tris_mara
+SUMMARY:Elimination match: GH vs GLS
+URL;VALUE=URI:https://www.twitch.tv/tris_mara
 END:VEVENT
 END:VCALENDAR

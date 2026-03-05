@@ -367,14 +367,14 @@ SUMMARY:Upper bracket quarterfinal 4: VP.P vs WB
 URL:https://www.twitch.tv/izi_wex_cs_b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260305T220000Z
+DTSTAMP:20260305T223000Z
 UID:pandascore-match-1381496@esport-ics
-DTSTART:20260305T220000Z
-DTEND:20260306T001500Z
+DTSTART:20260305T223000Z
+DTEND:20260306T004500Z
 CLASS:PUBLIC
-DESCRIPTION:IZI WEX - Season 1 2026 - Playoffs\nWatch: https://www.twitch.t
- v/izi_wex_cs
+DESCRIPTION:IZI WEX - Season 1 2026 - Playoffs\nWatch: https://kick.com/exo
+ rt_ru4
 SUMMARY:Lower bracket round 1 match 2: TDK vs WB
-URL;VALUE=URI:https://www.twitch.tv/izi_wex_cs
+URL;VALUE=URI:https://kick.com/exort_ru4
 END:VEVENT
 END:VCALENDAR
