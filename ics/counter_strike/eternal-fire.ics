@@ -167,6 +167,17 @@ URL:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260306T090000Z
+UID:pandascore-match-1381429@esport-ics
+DTSTART:20260306T090000Z
+DTEND:20260306T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Season 1 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/bcgamemasters
+SUMMARY:Round 3: MEGO vs EF
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T090000Z
 UID:pandascore-match-1380851@esport-ics
 DTSTART:20260306T090000Z
 DTEND:20260306T111500Z

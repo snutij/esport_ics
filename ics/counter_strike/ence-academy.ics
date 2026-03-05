@@ -303,6 +303,17 @@ SUMMARY:Round 2: LK vs ENCE.A
 URL:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260306T120000Z
+UID:pandascore-match-1381430@esport-ics
+DTSTART:20260306T120000Z
+DTEND:20260306T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Season 1 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/bcgamemasters
+SUMMARY:Round 3: NVQ vs ENCE.A
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260309T153000Z
 UID:pandascore-match-1372435@esport-ics
 DTSTART:20260309T153000Z
