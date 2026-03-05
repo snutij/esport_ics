@@ -185,6 +185,17 @@ SUMMARY:Round of 16 match 1: PSSN.UA vs FOKUS
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260307T110000Z
+UID:pandascore-match-1382796@esport-ics
+DTSTART:20260307T110000Z
+DTEND:20260307T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 1: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Quarterfinal 1: FC vs FOKUS
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260308T110000Z
 UID:pandascore-match-1384180@esport-ics
 DTSTART:20260308T110000Z
