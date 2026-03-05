@@ -130,6 +130,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group C\nWatch: https://www
  .twitch.tv/circuitxofficial
 SUMMARY:ODK vs YAW
-URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T155000Z
+UID:pandascore-match-1378280@esport-ics
+DTSTART:20260305T155000Z
+DTEND:20260305T180500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group C\nWatch: https://www
+ .twitch.tv/tris_mara
+SUMMARY:Elimination match: MIBR.A vs YAW
+URL;VALUE=URI:https://www.twitch.tv/tris_mara
 END:VEVENT
 END:VCALENDAR

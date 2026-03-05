@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/wardiii
 SUMMARY:Upper bracket round 16 match 4: Clem vs Krystianer
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T160500Z
+UID:pandascore-match-1377492@esport-ics
+DTSTART:20260305T160500Z
+DTEND:20260305T182000Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/wardiii
+SUMMARY:Lower bracket round 1 match 2: Gerald vs Krystianer
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
