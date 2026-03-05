@@ -278,4 +278,15 @@ DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
 SUMMARY:Semifinal 1: 33 vs ACE
 URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T090000Z
+UID:pandascore-match-1356033@esport-ics
+DTSTART:20260308T090000Z
+DTEND:20260308T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 5 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Quarterfinal 3: ACE vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
