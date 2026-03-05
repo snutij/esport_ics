@@ -179,6 +179,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/fyflo
 SUMMARY:Upper bracket round 2 match 8: AUR.YB vs MEGO
-URL;VALUE=URI:https://www.twitch.tv/fyflo
+URL:https://www.twitch.tv/fyflo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T183000Z
+UID:pandascore-match-1382730@esport-ics
+DTSTART:20260307T183000Z
+DTEND:20260307T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 4: AUR.YB vs OLDBOYS-
 END:VEVENT
 END:VCALENDAR

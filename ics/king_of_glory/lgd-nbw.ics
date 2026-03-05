@@ -62,8 +62,10 @@ UID:pandascore-match-1385775@esport-ics
 DTSTART:20260315T120000Z
 DTEND:20260315T154500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group A
+DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group A\nWatch: https:/
+ /www.youtube.com/@2019KPL/streams
 SUMMARY:LGD vs TTG
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260320T120000Z
@@ -80,7 +82,9 @@ UID:pandascore-match-1385786@esport-ics
 DTSTART:20260322T090000Z
 DTEND:20260322T124500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group A
+DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group A\nWatch: https:/
+ /www.youtube.com/@2019KPL/streams
 SUMMARY:LGD vs Qing Jiu Club
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 END:VCALENDAR

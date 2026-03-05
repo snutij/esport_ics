@@ -55,8 +55,10 @@ UID:pandascore-match-1385763@esport-ics
 DTSTART:20260308T120000Z
 DTEND:20260308T154500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group S
+DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group S\nWatch: https:/
+ /www.youtube.com/@2019KPL/streams
 SUMMARY:JDG vs WOL
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260311T090000Z
@@ -64,8 +66,10 @@ UID:pandascore-match-1385764@esport-ics
 DTSTART:20260311T090000Z
 DTEND:20260311T124500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group S
+DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group S\nWatch: https:/
+ /www.youtube.com/@2019KPL/streams
 SUMMARY:JDG vs KSG
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260314T060000Z
@@ -73,8 +77,10 @@ UID:pandascore-match-1385770@esport-ics
 DTSTART:20260314T060000Z
 DTEND:20260314T094500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group S
+DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group S\nWatch: https:/
+ /www.youtube.com/@2019KPL/streams
 SUMMARY:WB vs JDG
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260318T120000Z
@@ -82,8 +88,10 @@ UID:pandascore-match-1385777@esport-ics
 DTSTART:20260318T120000Z
 DTEND:20260318T154500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group S
+DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group S\nWatch: https:/
+ /www.youtube.com/@2019KPL/streams
 SUMMARY:AG.SP vs JDG
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260321T090000Z
@@ -91,7 +99,9 @@ UID:pandascore-match-1385783@esport-ics
 DTSTART:20260321T090000Z
 DTEND:20260321T124500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group S
+DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group S\nWatch: https:/
+ /www.youtube.com/@2019KPL/streams
 SUMMARY:JDG vs DYG
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 END:VCALENDAR

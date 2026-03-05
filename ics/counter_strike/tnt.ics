@@ -126,6 +126,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/minicasterr
 SUMMARY:Upper bracket round 2 match 2: TNT vs EP
-URL;VALUE=URI:https://www.twitch.tv/minicasterr
+URL:https://www.twitch.tv/minicasterr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T183000Z
+UID:pandascore-match-1382727@esport-ics
+DTSTART:20260307T183000Z
+DTEND:20260307T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: TLR vs TNT
 END:VEVENT
 END:VCALENDAR

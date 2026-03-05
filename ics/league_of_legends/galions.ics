@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Invitational 2026 - Super Group\nWatch: http://www.twitch
  .tv/otplol_
 SUMMARY:Tiebreaker: GAL vs JL
-URL;VALUE=URI:http://www.twitch.tv/otplol_
+URL:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T170000Z
+UID:pandascore-match-1378739@esport-ics
+DTSTART:20260306T170000Z
+DTEND:20260306T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Invitational 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:Grand final: SLY vs GAL
+URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR
