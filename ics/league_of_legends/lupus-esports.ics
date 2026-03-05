@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:EBL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/fort
  una
 SUMMARY:Lower bracket final: LPS vs LLH
+URL:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T170000Z
+UID:pandascore-match-1356782@esport-ics
+DTSTART:20260306T170000Z
+DTEND:20260306T204500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/fort
+ una
+SUMMARY:Grand final: PS vs LPS
 URL;VALUE=URI:https://www.twitch.tv/fortuna
 END:VEVENT
 END:VCALENDAR

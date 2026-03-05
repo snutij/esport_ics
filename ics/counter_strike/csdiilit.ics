@@ -440,7 +440,18 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/n1cemick
 SUMMARY:Upper bracket round 2 match 5: BRUTE vs  CSDIILIT
-URL;VALUE=URI:https://www.twitch.tv/n1cemick
+URL:https://www.twitch.tv/n1cemick
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T150000Z
+UID:pandascore-match-1380936@esport-ics
+DTSTART:20260306T150000Z
+DTEND:20260306T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #18 season 3 2026 - Group
+  C\nWatch: https://kick.com/cct_cs2
+SUMMARY:Decider match: HERO.A vs  CSDIILIT
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260309T180000Z

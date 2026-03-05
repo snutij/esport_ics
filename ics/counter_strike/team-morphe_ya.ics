@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Winline Star Series - Season 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/kartash0v
 SUMMARY:Upper bracket semifinal 2: Team SNAILKICK vs Team Morphe_ya
+URL:https://www.twitch.tv/kartash0v
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T140000Z
+UID:pandascore-match-1385706@esport-ics
+DTSTART:20260306T140000Z
+DTEND:20260306T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Winline Star Series - Season 2 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/kartash0v
+SUMMARY:Lower bracket quarterfinal 1: Team CYBERSHOKE vs Team Morphe_ya
 URL;VALUE=URI:https://www.twitch.tv/kartash0v
 END:VEVENT
 END:VCALENDAR
