@@ -55,6 +55,17 @@ CLASS:PUBLIC
 DESCRIPTION:Americas Cup - 2026 - Playoffs\nWatch: https://www.twitch.tv/lc
  s
 SUMMARY:Upper bracket semifinal 2: RED vs SEN
+URL:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T210000Z
+UID:pandascore-match-1382628@esport-ics
+DTSTART:20260306T210000Z
+DTEND:20260307T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Americas Cup - 2026 - Playoffs\nWatch: https://www.twitch.tv/lc
+ s
+SUMMARY:Upper bracket final: FUR vs SEN
 URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR
