@@ -313,4 +313,15 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #18 season 3 2026 - Play-
 SUMMARY:OXUJI vs ex-Zero Tenacity
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T180000Z
+UID:pandascore-match-1373737@esport-ics
+DTSTART:20260307T180000Z
+DTEND:20260307T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 4: ex-Zero Tenacity vs HAVU
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR
