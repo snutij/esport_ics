@@ -174,6 +174,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #9 season 3 2026 - Playoffs\nWatch: 
  https://kick.com/cct_cs3
 SUMMARY:Semifinal 2: Keyd vs BHE
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T140000Z
+UID:pandascore-match-1380479@esport-ics
+DTSTART:20260306T140000Z
+DTEND:20260306T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 1 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 3: BHE vs DS
+URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR

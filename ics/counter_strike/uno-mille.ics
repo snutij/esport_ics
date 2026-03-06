@@ -76,6 +76,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 1 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 2: BHE vs UNO
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T170000Z
+UID:pandascore-match-1380508@esport-ics
+DTSTART:20260307T170000Z
+DTEND:20260307T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 1 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 3: ISG vs UNO
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR

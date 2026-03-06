@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 1: WTRML0N vs PAR
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T103000Z
+UID:pandascore-match-1387082@esport-ics
+DTSTART:20260306T103000Z
+DTEND:20260306T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 2: PAR vs ex-GANK Esports
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

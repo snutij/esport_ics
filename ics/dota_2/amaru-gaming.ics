@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - South America Series  #3 season 2 2026 - Playoffs\nWatch:
   https://kick.com/cct_dota
 SUMMARY:Upper bracket semifinal 2: Amaru Gaming vs x5
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T160000Z
+UID:pandascore-match-1357516@esport-ics
+DTSTART:20260306T160000Z
+DTEND:20260306T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - South America Series  #3 season 2 2026 - Playoffs\nWatch:
+  https://kick.com/cct_dota
+SUMMARY:Lower bracket quarterfinal 1: LGN.SA vs Amaru Gaming
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR

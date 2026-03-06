@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 1: XI vs ADP
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T163000Z
+UID:pandascore-match-1387088@esport-ics
+DTSTART:20260307T163000Z
+DTEND:20260307T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 2: ADP vs SASHI.A
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

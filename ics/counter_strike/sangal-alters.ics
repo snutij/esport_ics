@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 1: ex-GANK Esports vs SNG
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T133000Z
+UID:pandascore-match-1387087@esport-ics
+DTSTART:20260307T133000Z
+DTEND:20260307T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 2: KSM vs SNG
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
