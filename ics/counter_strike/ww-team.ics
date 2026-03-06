@@ -453,6 +453,17 @@ SUMMARY:Decider match: WW vs EF
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260306T120000Z
+UID:pandascore-match-1381499@esport-ics
+DTSTART:20260306T120000Z
+DTEND:20260306T141500Z
+CLASS:PUBLIC
+DESCRIPTION:IZI WEX - Season 1 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/izi_wex_cs
+SUMMARY:Upper bracket final: ARC vs WW
+URL;VALUE=URI:https://www.twitch.tv/izi_wex_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260307T150000Z
 UID:pandascore-match-1381435@esport-ics
 DTSTART:20260307T150000Z
