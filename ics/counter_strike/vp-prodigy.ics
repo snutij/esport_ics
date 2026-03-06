@@ -410,6 +410,17 @@ SUMMARY:Lower bracket quarterfinal 1: VP.P vs NTR
 URL:https://www.twitch.tv/izi_wex_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260306T150000Z
+UID:pandascore-match-1381500@esport-ics
+DTSTART:20260306T150000Z
+DTEND:20260306T171500Z
+CLASS:PUBLIC
+DESCRIPTION:IZI WEX - Season 1 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/izi_wex_cs
+SUMMARY:Lower bracket semifinal: VP.P vs TBD
+URL;VALUE=URI:https://www.twitch.tv/izi_wex_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260309T060000Z
 UID:pandascore-match-1387137@esport-ics
 DTSTART:20260309T060000Z
