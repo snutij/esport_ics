@@ -17,16 +17,15 @@ SUMMARY:OSE vs SP
 URL:https://www.youtube.com/watch?v=W9R6emG0Lsk
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260306T100000Z
+DTSTAMP:20260306T090000Z
 UID:pandascore-match-1380424@esport-ics
-DTSTART:20260306T100000Z
-DTEND:20260306T134500Z
+DTSTART:20260306T090000Z
+DTEND:20260306T124500Z
 CLASS:PUBLIC
 DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
- w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+ w.youtube.com/watch?v=MNY04j61xMs
 SUMMARY:TS vs OSE
-URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
- os
+URL;VALUE=URI:https://www.youtube.com/watch?v=MNY04j61xMs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260307T123000Z

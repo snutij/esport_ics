@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:GLYPH
 SLUG:glyph
 BEGIN:VEVENT
-DTSTAMP:20260306T070000Z
-UID:pandascore-match-1384108@esport-ics
-DTSTART:20260306T070000Z
-DTEND:20260306T091500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:CARST vs GLYPH
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260312T040000Z
 UID:pandascore-match-1384131@esport-ics
 DTSTART:20260312T040000Z
@@ -69,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:GLYPH vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T100000Z
+UID:pandascore-match-1384108@esport-ics
+DTSTART:20260320T100000Z
+DTEND:20260320T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs GLYPH
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
