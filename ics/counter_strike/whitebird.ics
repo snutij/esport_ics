@@ -383,7 +383,9 @@ UID:pandascore-match-1381498@esport-ics
 DTSTART:20260306T120000Z
 DTEND:20260306T141500Z
 CLASS:PUBLIC
-DESCRIPTION:IZI WEX - Season 1 2026 - Playoffs
+DESCRIPTION:IZI WEX - Season 1 2026 - Playoffs\nWatch: https://kick.com/exo
+ rt_ru4
 SUMMARY:Lower bracket quarterfinal 2: 1WIN vs WB
+URL;VALUE=URI:https://kick.com/exort_ru4
 END:VEVENT
 END:VCALENDAR
