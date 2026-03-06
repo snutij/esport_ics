@@ -58,6 +58,28 @@ CLASS:PUBLIC
 DESCRIPTION:LJL - Stage 1 Winter 2026 - Group A\nWatch: https://www.twitch.
  tv/leagueoflegendsjp
 SUMMARY:FNL vs RG
+URL:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T080000Z
+UID:pandascore-match-1387128@esport-ics
+DTSTART:20260313T080000Z
+DTEND:20260313T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Winter 2026 - Stage 2 - Group A\nWatch: https://www.twitc
+ h.tv/leagueoflegendsjp
+SUMMARY:VY vs FNL
+URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T110000Z
+UID:pandascore-match-1387133@esport-ics
+DTSTART:20260315T110000Z
+DTEND:20260315T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Winter 2026 - Stage 2 - Group A\nWatch: https://www.twitc
+ h.tv/leagueoflegendsjp
+SUMMARY:NOVEX vs FNL
 URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
 END:VEVENT
 END:VCALENDAR
