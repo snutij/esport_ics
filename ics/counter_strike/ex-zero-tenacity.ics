@@ -302,4 +302,15 @@ DESCRIPTION:BC Game Masters - Season 1 2026 - Group Stage\nWatch: https://w
 SUMMARY:Round 3: OMG vs ex-Zero Tenacity
 URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T150000Z
+UID:pandascore-match-1380945@esport-ics
+DTSTART:20260307T150000Z
+DTEND:20260307T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #18 season 3 2026 - Play-
+ In\nWatch: https://kick.com/cct_cs2
+SUMMARY:OXUJI vs ex-Zero Tenacity
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
