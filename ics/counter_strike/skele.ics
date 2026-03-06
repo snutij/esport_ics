@@ -107,6 +107,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs4
 SUMMARY:Lower bracket quarterfinal 2: Skele vs MF
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T000000Z
+UID:pandascore-match-1387200@esport-ics
+DTSTART:20260313T000000Z
+DTEND:20260313T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Dfrag - Wildcard LAN season 1 2026 - Group B
+SUMMARY:SFE vs Skele
 END:VEVENT
 END:VCALENDAR
