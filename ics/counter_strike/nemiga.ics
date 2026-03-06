@@ -188,4 +188,15 @@ DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
 SUMMARY:Semifinal 2: ECS vs NEMI
 URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T150000Z
+UID:pandascore-match-1387152@esport-ics
+DTSTART:20260310T150000Z
+DTEND:20260310T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 3 2026 - Group D\nWatch: https://
+ www.twitch.tv/MPKBK
+SUMMARY:NEMI vs SPARTA
+URL;VALUE=URI:https://www.twitch.tv/MPKBK
+END:VEVENT
 END:VCALENDAR
