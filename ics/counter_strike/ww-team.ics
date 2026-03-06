@@ -464,15 +464,15 @@ SUMMARY:Upper bracket final: ARC vs WW
 URL:https://www.twitch.tv/izi_wex_cs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260306T180000Z
+DTSTAMP:20260306T190000Z
 UID:pandascore-match-1381501@esport-ics
-DTSTART:20260306T180000Z
-DTEND:20260306T201500Z
+DTSTART:20260306T190000Z
+DTEND:20260306T211500Z
 CLASS:PUBLIC
-DESCRIPTION:IZI WEX - Season 1 2026 - Playoffs\nWatch: https://www.twitch.t
- v/izi_wex_cs
-SUMMARY:Lower bracket final: WW vs TBD
-URL;VALUE=URI:https://www.twitch.tv/izi_wex_cs
+DESCRIPTION:IZI WEX - Season 1 2026 - Playoffs\nWatch: https://kick.com/exo
+ rt_ru3
+SUMMARY:Lower bracket final: WW vs WB
+URL;VALUE=URI:https://kick.com/exort_ru3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260307T150000Z

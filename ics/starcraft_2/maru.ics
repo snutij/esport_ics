@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:PiG Sty Festival - Season 7 2026 - Playoffs\nWatch: https://www
  .youtube.com/watch?v=opL8K3w20mk
 SUMMARY:Grand final: Maru vs TBD
-URL;VALUE=URI:https://www.youtube.com/watch?v=opL8K3w20mk
+URL:https://www.youtube.com/watch?v=opL8K3w20mk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T104500Z
+UID:pandascore-match-1383688@esport-ics
+DTSTART:20260315T104500Z
+DTEND:20260315T130000Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 4 2026 - Group D\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:Krystianer vs Maru
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR
