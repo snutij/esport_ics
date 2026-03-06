@@ -152,6 +152,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group C\nWatch: https://www
  .twitch.tv/circuitxofficial
 SUMMARY:Decider match: YAW vs ODK
-URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T130000Z
+UID:pandascore-match-1378287@esport-ics
+DTSTART:20260307T130000Z
+DTEND:20260307T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/vilacattv
+SUMMARY:Quarterfinal 1: IMP vs YAW
+URL;VALUE=URI:https://www.twitch.tv/vilacattv
 END:VEVENT
 END:VCALENDAR

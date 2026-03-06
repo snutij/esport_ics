@@ -149,6 +149,17 @@ SUMMARY:Winners match: BST vs 9z
 URL:https://www.twitch.tv/vilacattv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260307T160000Z
+UID:pandascore-match-1378289@esport-ics
+DTSTART:20260307T160000Z
+DTEND:20260307T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/vilacattv
+SUMMARY:Quarterfinal 3: 9z vs TBD
+URL;VALUE=URI:https://www.twitch.tv/vilacattv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260319T183000Z
 UID:pandascore-match-1371049@esport-ics
 DTSTART:20260319T183000Z
