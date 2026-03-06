@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/wardiii
 SUMMARY:Upper bracket round 16 match 5: MaxPax vs Spirit
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T130000Z
+UID:pandascore-match-1377497@esport-ics
+DTSTART:20260306T130000Z
+DTEND:20260306T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/wardiii
+SUMMARY:Upper bracket quarterfinal 3: MaxPax vs TBD
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
