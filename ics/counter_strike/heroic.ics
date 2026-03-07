@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 2\nWatch: https://www.t
  witch.tv/ESLCSb
 SUMMARY:Round 2: FUT vs HERO
-URL;VALUE=URI:https://www.twitch.tv/ESLCSb
+URL:https://www.twitch.tv/ESLCSb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T180000Z
+UID:pandascore-match-1378882@esport-ics
+DTSTART:20260308T180000Z
+DTEND:20260308T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 2\nWatch: https://www.t
+ witch.tv/ESLCS
+SUMMARY:Round 3: FURIA vs HERO
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

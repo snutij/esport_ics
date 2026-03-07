@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 2\nWatch: https://www.t
  witch.tv/eslcsb
 SUMMARY:Round 2: MNTE vs LGC
-URL;VALUE=URI:https://www.twitch.tv/eslcsb
+URL:https://www.twitch.tv/eslcsb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T153000Z
+UID:pandascore-match-1378880@esport-ics
+DTSTART:20260308T153000Z
+DTEND:20260308T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 2\nWatch: https://www.t
+ witch.tv/ESLCS
+SUMMARY:Round 3: LGC vs AST
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
