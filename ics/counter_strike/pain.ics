@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 2\nWatch: https://www.t
  witch.tv/eslcsb
 SUMMARY:Round 1: MGLZ vs paiN
-URL;VALUE=URI:https://www.twitch.tv/eslcsb
+URL:https://www.twitch.tv/eslcsb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T103000Z
+UID:pandascore-match-1378868@esport-ics
+DTSTART:20260307T103000Z
+DTEND:20260307T124500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 2\nWatch: https://www.t
+ witch.tv/ESLCS
+SUMMARY:Round 2: paiN vs FaZe
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
