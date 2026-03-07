@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Spain: Rising Stage 2 2026 - Playoffs\nWatch: https://www
  .twitch.tv/LVPes2
 SUMMARY:Semifinal 2: BAR vs UCAM
+URL:https://www.twitch.tv/LVPes2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T100000Z
+UID:pandascore-match-1374938@esport-ics
+DTSTART:20260308T100000Z
+DTEND:20260308T134500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Spain: Rising Stage 2 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/LVPes2
+SUMMARY:Grand final: DSY vs BAR
 URL;VALUE=URI:https://www.twitch.tv/LVPes2
 END:VEVENT
 END:VCALENDAR
