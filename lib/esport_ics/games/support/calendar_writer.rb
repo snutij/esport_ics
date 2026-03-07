@@ -30,8 +30,8 @@ module EsportIcs
       calendars = Icalendar::Calendar.parse(File.read(file_path))
       return {} if calendars.nil? || calendars.empty?
 
-      calendars.first.events.each_with_object({}) do |event, hash|
-        hash[event.uid.to_s] = event
+      calendars.first.events.to_h do |event|
+        [event.uid.to_s, event]
       end
     rescue Errno::ENOENT, Errno::EACCES, ArgumentError => e
       $stderr.puts "Warning: could not read existing calendar #{file_path}: #{e.message}"
@@ -39,8 +39,8 @@ module EsportIcs
     end
 
     def merge_events(existing_events, new_calendar)
-      new_events_by_uid = new_calendar.events.each_with_object({}) do |event, hash|
-        hash[event.uid.to_s] = event
+      new_events_by_uid = new_calendar.events.to_h do |event|
+        [event.uid.to_s, event]
       end
 
       existing_events
