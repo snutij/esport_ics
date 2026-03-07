@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/rainbow6
 SUMMARY:Lower bracket round 1 match 3: Heretics vs OXG
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T120000Z
+UID:pandascore-match-1388454@esport-ics
+DTSTART:20260307T120000Z
+DTEND:20260307T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Challenger Series 2026 - Group Stage
+SUMMARY:Round 3: MYTH vs Heretics
 END:VEVENT
 END:VCALENDAR

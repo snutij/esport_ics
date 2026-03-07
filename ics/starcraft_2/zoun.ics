@@ -114,6 +114,17 @@ SUMMARY:Reynor vs Zoun
 URL:https://www.twitch.tv/tastelesstv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260307T113000Z
+UID:pandascore-match-1383632@esport-ics
+DTSTART:20260307T113000Z
+DTEND:20260307T134500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 4 2026 - Group A\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:Winners match: Zoun vs TBD
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260307T133000Z
 UID:pandascore-match-1377502@esport-ics
 DTSTART:20260307T133000Z
