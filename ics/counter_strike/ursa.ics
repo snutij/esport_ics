@@ -278,4 +278,26 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 2: URSA vs aimclub
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T150000Z
+UID:pandascore-match-1381089@esport-ics
+DTSTART:20260308T150000Z
+DTEND:20260308T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 1: OlyBet SB vs URSA
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T120000Z
+UID:pandascore-match-1381440@esport-ics
+DTSTART:20260309T120000Z
+DTEND:20260309T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Season 1 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/bcgamemasters
+SUMMARY:Round 4: URSA vs ENCE.A
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
 END:VCALENDAR

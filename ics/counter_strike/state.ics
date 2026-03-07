@@ -136,6 +136,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 45 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Lower bracket round 1 match 2: STA vs HERO.A
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T180000Z
+UID:pandascore-match-1381094@esport-ics
+DTSTART:20260309T180000Z
+DTEND:20260309T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 1: STA vs Hashiras
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
