@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - South America Series  #3 season 2 2026 - Playoffs\nWatch:
   https://kick.com/cct_dota
 SUMMARY:Lower bracket semifinal: EB vs Amaru Gaming
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T190000Z
+UID:pandascore-match-1357520@esport-ics
+DTSTART:20260307T190000Z
+DTEND:20260307T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - South America Series  #3 season 2 2026 - Playoffs\nWatch:
+  https://kick.com/cct_dota
+SUMMARY:Lower bracket final: INF vs EB
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR
