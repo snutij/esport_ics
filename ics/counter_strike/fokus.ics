@@ -218,6 +218,17 @@ SUMMARY:FOKUS vs Avanti Esport
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260308T150000Z
+UID:pandascore-match-1382800@esport-ics
+DTSTART:20260308T150000Z
+DTEND:20260308T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 1: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Semifinal 1: FOKUS vs TBD
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260308T153000Z
 UID:pandascore-match-1384185@esport-ics
 DTSTART:20260308T153000Z
