@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/kabrafps
 SUMMARY:Quarterfinal 4: SHK vs FXW7
-URL;VALUE=URI:https://www.twitch.tv/kabrafps
+URL:https://www.twitch.tv/kabrafps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T003000Z
+UID:pandascore-match-1378292@esport-ics
+DTSTART:20260308T003000Z
+DTEND:20260308T024500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/vilacattv
+SUMMARY:Semifinal 2: SHK vs TBD
+URL;VALUE=URI:https://www.twitch.tv/vilacattv
 END:VEVENT
 END:VCALENDAR

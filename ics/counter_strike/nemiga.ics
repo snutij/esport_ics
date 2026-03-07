@@ -189,6 +189,17 @@ SUMMARY:Semifinal 2: ECS vs NEMI
 URL:https://www.twitch.tv/a1gamingleague
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260308T170000Z
+UID:pandascore-match-1313603@esport-ics
+DTSTART:20260308T170000Z
+DTEND:20260308T191500Z
+CLASS:PUBLIC
+DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/a1gamingleague
+SUMMARY:Grand final: ACE vs NEMI
+URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260310T150000Z
 UID:pandascore-match-1387152@esport-ics
 DTSTART:20260310T150000Z
