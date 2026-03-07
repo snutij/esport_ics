@@ -76,6 +76,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/wardiii
 SUMMARY:Lower bracket round 2 match 3: Nicoract vs Bunny
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260307T140000Z
+UID:pandascore-match-1377506@esport-ics
+DTSTART:20260307T140000Z
+DTEND:20260307T161500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/wardiii
+SUMMARY:Lower bracket round 3 match 2: Bunny vs TBD
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
