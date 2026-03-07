@@ -243,6 +243,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs
 SUMMARY:Round 4: LC vs NVQ
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T180000Z
+UID:pandascore-match-1389620@esport-ics
+DTSTART:20260309T180000Z
+DTEND:20260309T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Play-In Group A\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:NVQ vs AIMC
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

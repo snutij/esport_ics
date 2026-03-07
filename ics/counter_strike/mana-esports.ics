@@ -227,4 +227,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 3: QWE vs MANA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T120000Z
+UID:pandascore-match-1389690@esport-ics
+DTSTART:20260312T120000Z
+DTEND:20260312T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Play-In Group C\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:MANA vs MSQ
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
