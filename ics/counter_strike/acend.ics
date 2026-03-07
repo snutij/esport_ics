@@ -290,6 +290,17 @@ SUMMARY:Quarterfinal 3: ACE vs NEM
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260308T170000Z
+UID:pandascore-match-1313603@esport-ics
+DTSTART:20260308T170000Z
+DTEND:20260308T191500Z
+CLASS:PUBLIC
+DESCRIPTION:A1 Gaming League - Season 11 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/a1gamingleague
+SUMMARY:Grand final: ACE vs TBD
+URL;VALUE=URI:https://www.twitch.tv/a1gamingleague
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260308T180000Z
 UID:pandascore-match-1373740@esport-ics
 DTSTART:20260308T180000Z
