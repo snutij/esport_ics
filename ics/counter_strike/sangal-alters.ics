@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 2: KSM vs SNG
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T163000Z
+UID:pandascore-match-1389705@esport-ics
+DTSTART:20260308T163000Z
+DTEND:20260308T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 3: SNG vs DNT
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

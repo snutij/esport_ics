@@ -177,6 +177,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/vilacattv
 SUMMARY:Semifinal 1: MARS vs IMP
-URL;VALUE=URI:https://www.twitch.tv/vilacattv
+URL:https://www.twitch.tv/vilacattv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T190000Z
+UID:pandascore-match-1378294@esport-ics
+DTSTART:20260308T190000Z
+DTEND:20260308T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/kabrafps
+SUMMARY:Grand final: MARS vs TBD
+URL;VALUE=URI:https://www.twitch.tv/kabrafps
 END:VEVENT
 END:VCALENDAR

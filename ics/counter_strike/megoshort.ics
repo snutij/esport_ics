@@ -155,6 +155,15 @@ SUMMARY:Round 3: MEGO vs EF
 URL:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260309T150000Z
+UID:pandascore-match-1382741@esport-ics
+DTSTART:20260309T150000Z
+DTEND:20260309T171500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 1: MEGO vs ME
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260309T180000Z
 UID:pandascore-match-1381442@esport-ics
 DTSTART:20260309T180000Z
@@ -164,14 +173,5 @@ DESCRIPTION:BC Game Masters - Season 1 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/bcgamemasters
 SUMMARY:Round 4: MEGO vs ex-Zero Tenacity
 URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260309T183000Z
-UID:pandascore-match-1382741@esport-ics
-DTSTART:20260309T183000Z
-DTEND:20260309T204500Z
-CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
-SUMMARY:Lower bracket round 2 match 1: MEGO vs ME
 END:VEVENT
 END:VCALENDAR

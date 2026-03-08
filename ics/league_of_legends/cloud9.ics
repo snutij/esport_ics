@@ -77,6 +77,17 @@ CLASS:PUBLIC
 DESCRIPTION:Americas Cup - 2026 - Playoffs\nWatch: https://www.twitch.tv/cb
  lol
 SUMMARY:Lower bracket final: SEN vs C9
-URL;VALUE=URI:https://www.twitch.tv/cblol
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T190000Z
+UID:pandascore-match-1382630@esport-ics
+DTSTART:20260308T190000Z
+DTEND:20260308T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Americas Cup - 2026 - Playoffs\nWatch: https://www.twitch.tv/lc
+ s
+SUMMARY:Grand final: FUR vs C9
+URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR
