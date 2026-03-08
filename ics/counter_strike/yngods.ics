@@ -91,7 +91,9 @@ UID:pandascore-match-1382728@esport-ics
 DTSTART:20260308T190000Z
 DTEND:20260308T211500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/spyhiddentv
 SUMMARY:Upper bracket quarterfinal 2: YNG vs MISA
+URL;VALUE=URI:https://www.twitch.tv/spyhiddentv
 END:VEVENT
 END:VCALENDAR
