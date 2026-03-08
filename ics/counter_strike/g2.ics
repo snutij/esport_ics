@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 2\nWatch: https://www.t
  witch.tv/ESLCS
 SUMMARY:Round 3: TS vs G2
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T173000Z
+UID:pandascore-match-1378887@esport-ics
+DTSTART:20260309T173000Z
+DTEND:20260309T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 2\nWatch: https://www.t
+ witch.tv/ESLCS
+SUMMARY:Round 4: G2 vs AUR
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
