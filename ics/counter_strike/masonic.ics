@@ -437,6 +437,17 @@ SUMMARY:MSC vs 100T
 URL:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260309T090000Z
+UID:pandascore-match-1384197@esport-ics
+DTSTART:20260309T090000Z
+DTEND:20260309T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Upper bracket quarterfinal 4: AM vs MSC
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260309T183000Z
 UID:pandascore-match-1382747@esport-ics
 DTSTART:20260309T183000Z
