@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:LIT - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/lito
  fficial
 SUMMARY:Grand final: HMBLE vs CG
-URL;VALUE=URI:https://www.twitch.tv/litofficial
+URL:https://www.twitch.tv/litofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T190000Z
+UID:pandascore-match-1390925@esport-ics
+DTSTART:20260309T190000Z
+DTEND:20260309T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Champions Round\nWatch: https://ww
+ w.twitch.tv/euniverse_tv
+SUMMARY:Qualification match 3: SLY vs HMBLE
+URL;VALUE=URI:https://www.twitch.tv/euniverse_tv
 END:VEVENT
 END:VCALENDAR

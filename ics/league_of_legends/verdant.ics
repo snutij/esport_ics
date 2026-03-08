@@ -78,6 +78,17 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
  ol
 SUMMARY:Grand final: AP vs VDN
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T160000Z
+UID:pandascore-match-1390924@esport-ics
+DTSTART:20260309T160000Z
+DTEND:20260309T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Champions Round\nWatch: https://ww
+ w.twitch.tv/euniverse_tv
+SUMMARY:Qualification match 2: VDN vs WLG
+URL;VALUE=URI:https://www.twitch.tv/euniverse_tv
 END:VEVENT
 END:VCALENDAR
