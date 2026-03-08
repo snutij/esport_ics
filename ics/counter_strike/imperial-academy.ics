@@ -225,4 +225,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 5: Imperial.A vs RT
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T183000Z
+UID:pandascore-match-1382745@esport-ics
+DTSTART:20260309T183000Z
+DTEND:20260309T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 5: HAVU vs Imperial.A
+END:VEVENT
 END:VCALENDAR

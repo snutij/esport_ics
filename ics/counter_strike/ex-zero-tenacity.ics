@@ -336,6 +336,17 @@ SUMMARY:Round 1: FAV vs ex-Zero Tenacity
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260309T150000Z
+UID:pandascore-match-1373742@esport-ics
+DTSTART:20260309T150000Z
+DTEND:20260309T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 5: ACE vs ex-Zero Tenacity
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260309T180000Z
 UID:pandascore-match-1381442@esport-ics
 DTSTART:20260309T180000Z
