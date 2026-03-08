@@ -87,7 +87,9 @@ UID:pandascore-match-1388381@esport-ics
 DTSTART:20260308T163000Z
 DTEND:20260308T184500Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs
+DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
+ .com/cct-cs6
 SUMMARY:Upper bracket round 1 match 7: EJ vs HASP
+URL;VALUE=URI:https://kick.com/cct-cs6
 END:VEVENT
 END:VCALENDAR
