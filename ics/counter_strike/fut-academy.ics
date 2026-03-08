@@ -76,7 +76,9 @@ UID:pandascore-match-1382736@esport-ics
 DTSTART:20260308T180000Z
 DTEND:20260308T201500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/jumboteamesports
 SUMMARY:Lower bracket round 1 match 4: FUT.A vs JUMBO
+URL;VALUE=URI:https://www.twitch.tv/jumboteamesports
 END:VEVENT
 END:VCALENDAR
