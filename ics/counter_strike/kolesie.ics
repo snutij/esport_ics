@@ -188,7 +188,7 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group B\nWatch
  : https://kick.com/challengerchampionship_b
 SUMMARY:VOCA vs KOL
-URL;VALUE=URI:https://kick.com/challengerchampionship_b
+URL:https://kick.com/challengerchampionship_b
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260308T170000Z
@@ -197,9 +197,9 @@ DTSTART:20260308T170000Z
 DTEND:20260308T174500Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Group B\nWatch
- : https://kick.com/challengerchampionship
+ : https://kick.com/challengerchampionship_b
 SUMMARY:FOKUS vs KOL
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260308T183000Z
