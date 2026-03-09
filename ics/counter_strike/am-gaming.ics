@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship_b
 SUMMARY:Lower bracket quarterfinal 2: AM vs 100T
-URL;VALUE=URI:https://kick.com/challengerchampionship_b
+URL:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T200000Z
+UID:pandascore-match-1384206@esport-ics
+DTSTART:20260309T200000Z
+DTEND:20260309T221500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Lower bracket semifinal: VOCA vs AM
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR
