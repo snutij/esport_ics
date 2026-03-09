@@ -102,6 +102,16 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - Series 7 season 2 2026 - Playoffs\nWatch: https://kick.co
  m/cct_dota
 SUMMARY:Lower bracket semifinal:  Pipsqueak+4 vs AVL
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T120000Z
+UID:pandascore-match-1383991@esport-ics
+DTSTART:20260312T120000Z
+DTEND:20260312T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - Season 8 2026 - Group A\nWatch: https://kick.com/cct_dota
+SUMMARY:AVL vs NAVI.J
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR
