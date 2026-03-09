@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant
 SUMMARY:Upper bracket semifinal 1: NS vs G2
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T210000Z
+UID:pandascore-match-1368491@esport-ics
+DTSTART:20260310T210000Z
+DTEND:20260310T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters Santiago 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/valorant
+SUMMARY:Lower bracket quarterfinal 2: G2 vs BBL
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

@@ -212,6 +212,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 7 2026 - Group Stage\nWatch: https://www
  .twitch.tv/pgl_dota2
 SUMMARY:Round 3: Xtreme vs BB
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T080000Z
+UID:pandascore-match-1385695@esport-ics
+DTSTART:20260310T080000Z
+DTEND:20260310T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 7 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
+SUMMARY:Round 4: BB vs YeS
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR
