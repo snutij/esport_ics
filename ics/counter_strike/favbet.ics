@@ -102,6 +102,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs2
 SUMMARY:Round 1: FAV vs ex-Zero Tenacity
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T120000Z
+UID:pandascore-match-1381140@esport-ics
+DTSTART:20260311T120000Z
+DTEND:20260311T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 2: FAV vs EF
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T150000Z
+UID:pandascore-match-1373750@esport-ics
+DTSTART:20260311T150000Z
+DTEND:20260311T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs
+SUMMARY:Round of 16 match 7: AM vs FAV
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

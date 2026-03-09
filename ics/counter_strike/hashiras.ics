@@ -28,6 +28,17 @@ SUMMARY:Round 1: STA vs Hashiras
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260310T090000Z
+UID:pandascore-match-1381103@esport-ics
+DTSTART:20260310T090000Z
+DTEND:20260310T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 2: RE vs Hashiras
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260310T150000Z
 UID:pandascore-match-1389663@esport-ics
 DTSTART:20260310T150000Z

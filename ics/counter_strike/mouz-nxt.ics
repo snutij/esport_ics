@@ -348,6 +348,17 @@ SUMMARY:Semifinal 2: NEM vs MOUZ.N
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260310T120000Z
+UID:pandascore-match-1373745@esport-ics
+DTSTART:20260310T120000Z
+DTEND:20260310T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs
+SUMMARY:Round of 16 match 2: NTR vs MOUZ.N
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260311T090000Z
 UID:pandascore-match-1356038@esport-ics
 DTSTART:20260311T090000Z

@@ -203,4 +203,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Play-In Group B\nWatch:
 SUMMARY:Winners match: QWE vs HERO.A
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T150000Z
+UID:pandascore-match-1381444@esport-ics
+DTSTART:20260310T150000Z
+DTEND:20260310T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Season 1 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/bcgamemasters
+SUMMARY:Round 5: ex-Zero Tenacity vs HERO.A
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
 END:VCALENDAR

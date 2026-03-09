@@ -298,6 +298,28 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Season 1 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/bcgamemasters
 SUMMARY:Round 4: URSA vs ENCE.A
+URL:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T120000Z
+UID:pandascore-match-1381443@esport-ics
+DTSTART:20260310T120000Z
+DTEND:20260310T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Season 1 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/bcgamemasters
+SUMMARY:Round 5: ex-Fingers Crossed vs URSA
 URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T150000Z
+UID:pandascore-match-1381141@esport-ics
+DTSTART:20260311T150000Z
+DTEND:20260311T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 2: OMG vs URSA
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
