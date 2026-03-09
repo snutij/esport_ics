@@ -58,6 +58,15 @@ CLASS:PUBLIC
 DESCRIPTION:META Cup - Season 4 2026 - Group A\nWatch: https://www.twitch.t
  v/meta_esports_kz
 SUMMARY:DEPO vs SNG
-URL;VALUE=URI:https://www.twitch.tv/meta_esports_kz
+URL:https://www.twitch.tv/meta_esports_kz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T060000Z
+UID:pandascore-match-1391058@esport-ics
+DTSTART:20260310T060000Z
+DTEND:20260310T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Championships - Closed Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 3: Blazing Beavers vs DEPO
 END:VEVENT
 END:VCALENDAR

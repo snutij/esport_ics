@@ -14,4 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:South America League - Challenger Series 2026 - Group Stage
 SUMMARY:Round 3: V7 vs ELV.AC
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T210000Z
+UID:pandascore-match-1391031@esport-ics
+DTSTART:20260312T210000Z
+DTEND:20260312T231500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Challenger Series 2026 - Playoffs\nWatch
+ : https://www.twitch.tv/rainbow6
+SUMMARY:Upper bracket quarterfinal 4: V7 vs AG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
 END:VCALENDAR

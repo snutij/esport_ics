@@ -429,6 +429,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 3 2026 - Group A\nWatch: https://
  www.twitch.tv/MPKBK
 SUMMARY:NTR vs VP.P
+URL:https://www.twitch.tv/MPKBK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T090000Z
+UID:pandascore-match-1387140@esport-ics
+DTSTART:20260309T090000Z
+DTEND:20260309T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/MPKBK
+SUMMARY:Winners match: 1WIN vs VP.P
 URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 END:VCALENDAR
