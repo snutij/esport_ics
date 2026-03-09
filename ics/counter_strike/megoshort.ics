@@ -172,6 +172,15 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Season 1 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/bcgamemasters
 SUMMARY:Round 4: MEGO vs ex-Zero Tenacity
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T183000Z
+UID:pandascore-match-1382749@esport-ics
+DTSTART:20260311T183000Z
+DTEND:20260311T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+SUMMARY:Lower bracket round 3 match 1: ex-GANK Esports vs MEGO
 END:VEVENT
 END:VCALENDAR
