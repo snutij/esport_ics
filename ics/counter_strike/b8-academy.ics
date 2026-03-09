@@ -88,4 +88,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
 SUMMARY:eLITenergy vs B8 Academy
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T113000Z
+UID:pandascore-match-1392364@esport-ics
+DTSTART:20260313T113000Z
+DTEND:20260313T134500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 46 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:B8 Academy vs KSM
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR

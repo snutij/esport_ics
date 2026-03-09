@@ -478,4 +478,13 @@ DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Play-In Group B\nWatch:
 SUMMARY:Winners match: QWE vs HERO.A
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T183000Z
+UID:pandascore-match-1382750@esport-ics
+DTSTART:20260311T183000Z
+DTEND:20260311T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+SUMMARY:Lower bracket round 3 match 2: QWE vs TBD
+END:VEVENT
 END:VCALENDAR
