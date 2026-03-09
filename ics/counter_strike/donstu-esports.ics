@@ -104,7 +104,9 @@ UID:pandascore-match-1391718@esport-ics
 DTSTART:20260310T191500Z
 DTEND:20260310T213000Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs
+DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
+ .com/cct-cs5
 SUMMARY:Upper bracket quarterfinal 1: DNT vs DAL
+URL;VALUE=URI:https://kick.com/cct-cs5
 END:VEVENT
 END:VCALENDAR
