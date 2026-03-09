@@ -241,6 +241,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship
 SUMMARY:Upper bracket semifinal 1: JS vs TBD
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T090000Z
+UID:pandascore-match-1384200@esport-ics
+DTSTART:20260310T090000Z
+DTEND:20260310T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Upper bracket final: BCA vs JS
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR

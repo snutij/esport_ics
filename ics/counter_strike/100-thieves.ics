@@ -212,6 +212,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship
 SUMMARY:Upper bracket quarterfinal 1: 100T vs FOKUS
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T170000Z
+UID:pandascore-match-1384205@esport-ics
+DTSTART:20260309T170000Z
+DTEND:20260309T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship_b
+SUMMARY:Lower bracket quarterfinal 2: AM vs 100T
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
 END:VEVENT
 END:VCALENDAR
