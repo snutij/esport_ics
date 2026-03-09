@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
  .com/cct-cs6
 SUMMARY:Upper bracket round 1 match 8: M33 vs ENJOY
-URL;VALUE=URI:https://kick.com/cct-cs6
+URL:https://kick.com/cct-cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T191500Z
+UID:pandascore-match-1391721@esport-ics
+DTSTART:20260309T191500Z
+DTEND:20260309T213000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
+ .com/cct-cs5
+SUMMARY:Upper bracket quarterfinal 4: EJ vs ENJOY
+URL;VALUE=URI:https://kick.com/cct-cs5
 END:VEVENT
 END:VCALENDAR

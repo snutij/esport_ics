@@ -217,6 +217,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 3 2026 - Group A\nWatch: https://
  www.twitch.tv/i_am_handy
 SUMMARY:Elimination match: DNT vs NTR
-URL;VALUE=URI:https://www.twitch.tv/i_am_handy
+URL:https://www.twitch.tv/i_am_handy
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T120000Z
+UID:pandascore-match-1387141@esport-ics
+DTSTART:20260309T120000Z
+DTEND:20260309T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/MPKBK
+SUMMARY:Decider match: NTR vs TBD
+URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 END:VCALENDAR

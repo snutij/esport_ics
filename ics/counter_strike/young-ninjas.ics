@@ -100,6 +100,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
  .com/CCT-CS6
 SUMMARY:Upper bracket round 1 match 5: YN vs Valtrion
-URL;VALUE=URI:https://kick.com/CCT-CS6
+URL:https://kick.com/CCT-CS6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T191500Z
+UID:pandascore-match-1391720@esport-ics
+DTSTART:20260309T191500Z
+DTEND:20260309T213000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
+ .com/cct-cs5
+SUMMARY:Upper bracket quarterfinal 3: YN vs Qual4
+URL;VALUE=URI:https://kick.com/cct-cs5
 END:VEVENT
 END:VCALENDAR
