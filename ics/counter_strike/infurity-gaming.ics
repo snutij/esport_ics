@@ -126,4 +126,15 @@ DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
 SUMMARY:Round 4: INF vs CYBERSHOKE Prospects
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T090000Z
+UID:pandascore-match-1392350@esport-ics
+DTSTART:20260314T090000Z
+DTEND:20260314T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 46 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Winners match: STA vs INF
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
