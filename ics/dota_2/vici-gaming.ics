@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 7 2026 - Group Stage\nWatch: https://www
  .twitch.tv/pgl_dota2
 SUMMARY:Round 4: VG vs FLC
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T080000Z
+UID:pandascore-match-1385699@esport-ics
+DTSTART:20260311T080000Z
+DTEND:20260311T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 7 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
+SUMMARY:Round 5: Xtreme vs VG
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

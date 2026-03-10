@@ -234,6 +234,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 7 2026 - Group Stage\nWatch: https://www
  .twitch.tv/pgl_dota2en2
 SUMMARY:Round 4: Tundra vs OG
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2en2
+URL:https://www.twitch.tv/pgl_dota2en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T140000Z
+UID:pandascore-match-1385701@esport-ics
+DTSTART:20260311T140000Z
+DTEND:20260311T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 7 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
+SUMMARY:Round 5: PARI vs Tundra
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

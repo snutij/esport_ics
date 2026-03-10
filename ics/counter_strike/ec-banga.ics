@@ -124,7 +124,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Play-In Group B\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Elimination match: Supernova vs EC BANGA
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260310T193000Z
@@ -136,5 +136,16 @@ DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 4: EC BANGA vs ex-GANK Esports
 URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T120000Z
+UID:pandascore-match-1389688@esport-ics
+DTSTART:20260311T120000Z
+DTEND:20260311T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Play-In Group B\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Decider match: HERO.A vs EC BANGA
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
