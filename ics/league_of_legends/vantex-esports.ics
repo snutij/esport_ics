@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group B\nWatch: https://www.twitch
  .tv/emeamasters
 SUMMARY:Upper Bracket Semifinals 1: GAL vs VE
+URL:https://www.twitch.tv/emeamasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T160000Z
+UID:pandascore-match-1393623@esport-ics
+DTSTART:20260312T160000Z
+DTEND:20260312T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group B\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Lower bracket semifinal: VE vs BW
 URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group D\nWatch: https://www.twitch
  .tv/emeamasters
 SUMMARY:Upper Bracket Semifinals 1: G2N vs LPS
+URL:https://www.twitch.tv/emeamasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T190000Z
+UID:pandascore-match-1393624@esport-ics
+DTSTART:20260312T190000Z
+DTEND:20260312T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group D\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Lower bracket semifinal: LPS vs BAM
 URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR
