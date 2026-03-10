@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Invitational 2026 - Playoffs\nWatch: https://www.twitch.t
  v/otplol_
 SUMMARY:Lower bracket final: GLS vs FF
-URL;VALUE=URI:https://www.twitch.tv/otplol_
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T190000Z
+UID:pandascore-match-1392377@esport-ics
+DTSTART:20260311T190000Z
+DTEND:20260311T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group 5\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Upper Bracket Semifinals 2: FF vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

@@ -34,6 +34,17 @@ CLASS:PUBLIC
 DESCRIPTION:LES - Kick-off 2026 - Playoffs\nWatch: https://www.twitch.tv/LE
  S
 SUMMARY:Semifinal 1: UCAM vs BAR
-URL;VALUE=URI:https://www.twitch.tv/LES
+URL:https://www.twitch.tv/LES
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T160000Z
+UID:pandascore-match-1392371@esport-ics
+DTSTART:20260310T160000Z
+DTEND:20260310T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group 2\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Upper Bracket Semifinals 2: UCAM vs BW
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:HLL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/hell
  eniclegends
 SUMMARY:Grand final: WLG vs TP
-URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+URL:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T160000Z
+UID:pandascore-match-1392382@esport-ics
+DTSTART:20260311T160000Z
+DTEND:20260311T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group 8\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Upper Bracket Semifinals 1: FN vs TP
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

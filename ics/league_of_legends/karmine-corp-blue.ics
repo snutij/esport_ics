@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:LEC - Versus 2026 - Regular Season\nWatch: https://www.twitch.t
  v/lec
 SUMMARY:KCB vs GX
-URL;VALUE=URI:https://www.twitch.tv/lec
+URL:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T160000Z
+UID:pandascore-match-1392369@esport-ics
+DTSTART:20260310T160000Z
+DTEND:20260310T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group 1\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Upper Bracket Semifinals 2: DMG vs KCB
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

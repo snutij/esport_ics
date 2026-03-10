@@ -28,14 +28,14 @@ SUMMARY:Lower bracket round 1 match 1: GM vs AG
 URL:https://www.twitch.tv/valorant
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260310T180000Z
+DTSTAMP:20260310T210000Z
 UID:pandascore-match-1368490@esport-ics
-DTSTART:20260310T180000Z
-DTEND:20260310T201500Z
+DTSTART:20260310T210000Z
+DTEND:20260310T231500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant
-SUMMARY:Lower bracket quarterfinal 1: AG vs TBD
+SUMMARY:Lower bracket quarterfinal 1: PR vs AG
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR
