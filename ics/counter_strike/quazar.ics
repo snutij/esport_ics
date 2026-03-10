@@ -130,6 +130,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 3 2026 - Group C\nWatch: https://
  www.twitch.tv/jay_tb
 SUMMARY:33 vs QUA
+URL:https://www.twitch.tv/jay_tb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T090000Z
+UID:pandascore-match-1387149@esport-ics
+DTSTART:20260310T090000Z
+DTEND:20260310T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/jay_tb
+SUMMARY:Elimination match: QUA vs TBD
 URL;VALUE=URI:https://www.twitch.tv/jay_tb
 END:VEVENT
 END:VCALENDAR
