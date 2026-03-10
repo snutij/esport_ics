@@ -61,6 +61,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - February 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/gamersclubcs
 SUMMARY:Grand final: paiN.A vs RED.A
-URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T210000Z
+UID:pandascore-match-1392435@esport-ics
+DTSTART:20260310T210000Z
+DTEND:20260310T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Aorus League - Brazil Open Qualifier 2026 - Playoffs
+SUMMARY:GLS vs RED.A
 END:VEVENT
 END:VCALENDAR

@@ -159,6 +159,17 @@ SUMMARY:Round 5: PUG vs R2
 URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260310T200000Z
+UID:pandascore-match-1392422@esport-ics
+DTSTART:20260310T200000Z
+DTEND:20260310T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Aorus League - LATAM 2026 - Group A\nWatch: https://www.twitch.
+ tv/aoruslatam
+SUMMARY:c0ki vs R2
+URL;VALUE=URI:https://www.twitch.tv/aoruslatam
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260311T200000Z
 UID:pandascore-match-1380592@esport-ics
 DTSTART:20260311T200000Z

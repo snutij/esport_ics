@@ -157,6 +157,15 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Group C\nWatch: https://www
  .twitch.tv/circuitxofficial
 SUMMARY:Decider match: YAW vs ODK
-URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T210000Z
+UID:pandascore-match-1392431@esport-ics
+DTSTART:20260310T210000Z
+DTEND:20260310T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Aorus League - Brazil Open Qualifier 2026 - Playoffs
+SUMMARY:ODK vs MW
 END:VEVENT
 END:VCALENDAR
