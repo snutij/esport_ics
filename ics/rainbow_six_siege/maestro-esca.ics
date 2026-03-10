@@ -23,4 +23,15 @@ CLASS:PUBLIC
 DESCRIPTION:Europe MENA League - Challenger Series 2026 - Group Stage
 SUMMARY:Round 4: GAP vs ME
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T180000Z
+UID:pandascore-match-1392458@esport-ics
+DTSTART:20260312T180000Z
+DTEND:20260312T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Challenger Series 2026 - Playoffs\nWatch: 
+ https://www.twitch.tv/rainbow6
+SUMMARY:Upper bracket quarterfinal 2: MYTH vs ME
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
 END:VCALENDAR
