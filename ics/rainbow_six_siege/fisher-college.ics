@@ -23,4 +23,13 @@ CLASS:PUBLIC
 DESCRIPTION:North America League - Challenger Series 2026 - Group Stage
 SUMMARY:Round 5: IoM vs FC
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T000000Z
+UID:pandascore-match-1393600@esport-ics
+DTSTART:20260313T000000Z
+DTEND:20260313T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Challenger Series 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 4: FLF vs FC
+END:VEVENT
 END:VCALENDAR
