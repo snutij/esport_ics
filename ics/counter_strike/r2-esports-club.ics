@@ -170,6 +170,17 @@ SUMMARY:c0ki vs R2
 URL:https://www.twitch.tv/aoruslatam
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260311T190000Z
+UID:pandascore-match-1392424@esport-ics
+DTSTART:20260311T190000Z
+DTEND:20260311T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Aorus League - LATAM 2026 - Group A\nWatch: https://www.twitch.
+ tv/aoruslatam
+SUMMARY:Elimination match: R2 vs TBD
+URL;VALUE=URI:https://www.twitch.tv/aoruslatam
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260311T200000Z
 UID:pandascore-match-1380592@esport-ics
 DTSTART:20260311T200000Z
