@@ -538,6 +538,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Season 1 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/piaskees
 SUMMARY:Round 5: LK vs WW
-URL;VALUE=URI:https://www.twitch.tv/piaskees
+URL:https://www.twitch.tv/piaskees
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T150000Z
+UID:pandascore-match-1387189@esport-ics
+DTSTART:20260311T150000Z
+DTEND:20260311T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 3 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/MPKBK
+SUMMARY:Quarterfinal 3: NTR vs WW
+URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 END:VCALENDAR

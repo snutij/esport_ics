@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group C\nWatch: https://www.twitch
  .tv/primeleague
 SUMMARY:Upper Bracket Semifinals 1: AP vs CG
-URL;VALUE=URI:https://www.twitch.tv/primeleague
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T190000Z
+UID:pandascore-match-1393628@esport-ics
+DTSTART:20260312T190000Z
+DTEND:20260312T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group C\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Lower bracket semifinal: CG vs NBS
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

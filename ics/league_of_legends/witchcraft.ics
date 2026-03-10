@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group D\nWatch: https://www.twitch
  .tv/obsess3
 SUMMARY:Upper Bracket Semifinals 2: BAM vs WT
-URL;VALUE=URI:https://www.twitch.tv/obsess3
+URL:https://www.twitch.tv/obsess3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T190000Z
+UID:pandascore-match-1393625@esport-ics
+DTSTART:20260312T190000Z
+DTEND:20260312T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group D\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Upper bracket final: G2N vs WT
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR
