@@ -126,4 +126,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Play-In Group B\nWatch:
 SUMMARY:Elimination match: home vs EC BANGA
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T193000Z
+UID:pandascore-match-1392394@esport-ics
+DTSTART:20260310T193000Z
+DTEND:20260310T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 4: EC BANGA vs ex-GANK Esports
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
 END:VCALENDAR
