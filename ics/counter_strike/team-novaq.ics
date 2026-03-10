@@ -276,6 +276,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Play-In Group A\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Elimination match: Hashiras vs NVQ
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T090000Z
+UID:pandascore-match-1389683@esport-ics
+DTSTART:20260311T090000Z
+DTEND:20260311T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Play-In Group A\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Decider match: AIMC vs NVQ
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
