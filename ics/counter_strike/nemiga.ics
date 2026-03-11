@@ -241,6 +241,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 3 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/MPKBK
 SUMMARY:Quarterfinal 4: 33 vs NEMI
-URL;VALUE=URI:https://www.twitch.tv/MPKBK
+URL:https://www.twitch.tv/MPKBK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T180000Z
+UID:pandascore-match-1381453@esport-ics
+DTSTART:20260313T180000Z
+DTEND:20260313T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Season 1 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/bcgamemasters
+SUMMARY:Round of 16 match 8: NEMI vs RE
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR

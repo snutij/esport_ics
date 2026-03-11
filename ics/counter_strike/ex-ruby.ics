@@ -316,6 +316,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs
 SUMMARY:Round of 16 match 8: JS vs ex-RUBY
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T120000Z
+UID:pandascore-match-1381447@esport-ics
+DTSTART:20260312T120000Z
+DTEND:20260312T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Season 1 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/bcgamemasters
+SUMMARY:Round of 16 match 2: ex-RUBY vs EF
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR

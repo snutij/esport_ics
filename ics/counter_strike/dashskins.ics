@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 1 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/dust2br
 SUMMARY:Quarterfinal 3: DS vs R2
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T230000Z
+UID:pandascore-match-1380595@esport-ics
+DTSTART:20260312T230000Z
+DTEND:20260313T011500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 1 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/dust2br
+SUMMARY:Semifinal 2: DS vs BHE
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR
