@@ -6,15 +6,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:Golden Lions
 SLUG:golden-lions
 BEGIN:VEVENT
-DTSTAMP:20260311T230000Z
+DTSTAMP:20260311T200000Z
 UID:pandascore-match-1384357@esport-ics
-DTSTART:20260311T230000Z
-DTEND:20260312T011500Z
+DTSTART:20260311T200000Z
+DTEND:20260311T221500Z
 CLASS:PUBLIC
-DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.twitch.tv/
- lolacelatam
+DESCRIPTION:LRS - Split 1 2026 - Group Stage\nWatch: https://www.youtube.co
+ m/watch?v=YmW8T3a-hqo
 SUMMARY:9ZG vs GL
-URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+URL;VALUE=URI:https://www.youtube.com/watch?v=YmW8T3a-hqo
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260312T200000Z
