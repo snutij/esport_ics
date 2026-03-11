@@ -78,6 +78,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Championships - Closed Qualifier 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/roman
 SUMMARY:Lower bracket round 3 match 2: RA vs FLY
-URL;VALUE=URI:https://www.twitch.tv/roman
+URL:https://www.twitch.tv/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T030000Z
+UID:pandascore-match-1391067@esport-ics
+DTSTART:20260312T030000Z
+DTEND:20260312T051500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Championships - Closed Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: AE vs FLY
 END:VEVENT
 END:VCALENDAR
