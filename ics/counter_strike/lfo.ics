@@ -94,7 +94,9 @@ UID:pandascore-match-1382752@esport-ics
 DTSTART:20260311T183000Z
 DTEND:20260311T204500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/theeb1ye
 SUMMARY:Lower bracket round 3 match 4: EP vs LFO
+URL;VALUE=URI:https://www.twitch.tv/theeb1ye
 END:VEVENT
 END:VCALENDAR

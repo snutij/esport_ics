@@ -88,7 +88,9 @@ UID:pandascore-match-1392381@esport-ics
 DTSTART:20260311T160000Z
 DTEND:20260311T181500Z
 CLASS:PUBLIC
-DESCRIPTION:EMEA Masters - Winter 2026 - Group G
+DESCRIPTION:EMEA Masters - Winter 2026 - Group G\nWatch: https://www.twitch
+ .tv/primeleague
 SUMMARY:Upper Bracket Semifinals 2: USE vs PS
+URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 END:VCALENDAR
