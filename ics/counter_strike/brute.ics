@@ -237,7 +237,9 @@ UID:pandascore-match-1382750@esport-ics
 DTSTART:20260311T183000Z
 DTEND:20260311T204500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/untalentedkid785
 SUMMARY:Lower bracket round 3 match 2: QWE vs BRUTE
+URL;VALUE=URI:https://www.twitch.tv/untalentedkid785
 END:VEVENT
 END:VCALENDAR
