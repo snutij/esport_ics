@@ -189,6 +189,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 1 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/dust2br
 SUMMARY:Quarterfinal 3: DS vs R2
-URL;VALUE=URI:https://www.twitch.tv/dust2br
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T190000Z
+UID:pandascore-match-1392425@esport-ics
+DTSTART:20260312T190000Z
+DTEND:20260312T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Aorus League - LATAM 2026 - Group A\nWatch: https://www.twitch.
+ tv/aoruslatam
+SUMMARY:Decider match: c0ki vs R2
+URL;VALUE=URI:https://www.twitch.tv/aoruslatam
 END:VEVENT
 END:VCALENDAR

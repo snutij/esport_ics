@@ -34,6 +34,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
  .com/cct-cs5
 SUMMARY:Lower bracket round 2 match 2: PAR vs DUG
+URL:https://kick.com/cct-cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T163000Z
+UID:pandascore-match-1392407@esport-ics
+DTSTART:20260312T163000Z
+DTEND:20260312T184500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
+ .com/cct-cs5
+SUMMARY:Lower bracket round 3 match 1: Inner Circle Academy vs DUG
 URL;VALUE=URI:https://kick.com/cct-cs5
 END:VEVENT
 END:VCALENDAR

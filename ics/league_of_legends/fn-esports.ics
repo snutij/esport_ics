@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group H\nWatch: https://www.twitch
  .tv/lolesports_ar
 SUMMARY:Upper Bracket Semifinals 1: FN vs TP
-URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T160000Z
+UID:pandascore-match-1394828@esport-ics
+DTSTART:20260313T160000Z
+DTEND:20260313T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group H\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Lower bracket semifinal: FN vs BOOM
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR
