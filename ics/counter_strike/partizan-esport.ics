@@ -105,17 +105,6 @@ SUMMARY:Upper bracket quarterfinal 2: PAR vs MISA
 URL:https://kick.com/cct-cs5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260311T163000Z
-UID:pandascore-match-1392404@esport-ics
-DTSTART:20260311T163000Z
-DTEND:20260311T184500Z
-CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
- .com/cct-cs5
-SUMMARY:Lower bracket round 2 match 2: DUG vs PAR
-URL;VALUE=URI:https://kick.com/cct-cs5
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260311T191500Z
 UID:pandascore-match-1392405@esport-ics
 DTSTART:20260311T191500Z
@@ -125,5 +114,16 @@ DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
  .com/cct-cs5
 SUMMARY:Lower bracket round 2 match 3: PAR vs TS.A
 URL:https://kick.com/cct-cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260311T191500Z
+UID:pandascore-match-1392404@esport-ics
+DTSTART:20260311T191500Z
+DTEND:20260311T213000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
+ .com/cct-cs5
+SUMMARY:Lower bracket round 2 match 2: PAR vs DUG
+URL;VALUE=URI:https://kick.com/cct-cs5
 END:VEVENT
 END:VCALENDAR
