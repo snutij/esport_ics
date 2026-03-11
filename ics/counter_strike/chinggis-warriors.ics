@@ -101,6 +101,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Championships - Closed Qualifier 2026 - Playoffs\nWatch: h
  ttps://www.huya.com/825802
 SUMMARY:Upper bracket semifinal 1: CW vs AE
-URL;VALUE=URI:https://www.huya.com/825802
+URL:https://www.huya.com/825802
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T060000Z
+UID:pandascore-match-1391055@esport-ics
+DTSTART:20260312T060000Z
+DTEND:20260312T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Championships - Closed Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket fianl: CW vs TYLOO
 END:VEVENT
 END:VCALENDAR
