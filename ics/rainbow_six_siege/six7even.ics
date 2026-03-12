@@ -23,4 +23,13 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Challenger Series: Asia 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 1: 67 vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T100000Z
+UID:pandascore-match-1394280@esport-ics
+DTSTART:20260314T100000Z
+DTEND:20260314T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Challenger Series: Asia 2026 - Playoffs
+SUMMARY:Upper bracket final: 67 vs TBD
+END:VEVENT
 END:VCALENDAR
