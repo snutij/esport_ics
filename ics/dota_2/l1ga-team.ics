@@ -145,6 +145,16 @@ DTEND:20260312T111500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT - Season 8 2026 - Group A\nWatch: https://kick.com/cct_dota
 SUMMARY:L1GA vs TS.A
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T150000Z
+UID:pandascore-match-1383993@esport-ics
+DTSTART:20260313T150000Z
+DTEND:20260313T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - Season 8 2026 - Group A\nWatch: https://kick.com/cct_dota
+SUMMARY:Winners match: L1GA vs TBD
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR

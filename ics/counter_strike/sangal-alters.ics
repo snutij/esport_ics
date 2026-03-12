@@ -225,4 +225,15 @@ DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
 SUMMARY:Round 5: SNG vs VP.F
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T113000Z
+UID:pandascore-match-1392361@esport-ics
+DTSTART:20260316T113000Z
+DTEND:20260316T134500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 46 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Elimination match: SNG vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR

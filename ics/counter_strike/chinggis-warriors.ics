@@ -115,12 +115,14 @@ SUMMARY:Upper bracket fianl: CW vs TYLOO
 URL:https://www.twitch.tv/Mikotohero
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260312T110000Z
+DTSTAMP:20260312T113000Z
 UID:pandascore-match-1391069@esport-ics
-DTSTART:20260312T110000Z
-DTEND:20260312T131500Z
+DTSTART:20260312T113000Z
+DTEND:20260312T134500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Championships - Closed Qualifier 2026 - Playoffs
-SUMMARY:Lower bracket final: CW vs TBD
+DESCRIPTION:Asia Championships - Closed Qualifier 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/xristcs
+SUMMARY:Lower bracket final: CW vs LVG
+URL;VALUE=URI:https://www.twitch.tv/xristcs
 END:VEVENT
 END:VCALENDAR
