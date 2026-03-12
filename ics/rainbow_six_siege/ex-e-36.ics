@@ -14,4 +14,13 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Challenger Series: North 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 1:  ex-E.36 vs OCSH
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T130000Z
+UID:pandascore-match-1394065@esport-ics
+DTSTART:20260312T130000Z
+DTEND:20260312T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Challenger Series: North 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 1:  ex-E.36 vs TBD
+END:VEVENT
 END:VCALENDAR

@@ -35,4 +35,14 @@ DESCRIPTION:Asia-Pacific League - Challenger Series: Oceania 2026 - Playoff
  s
 SUMMARY:Upper bracket semifinal 2: 6T vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T070000Z
+UID:pandascore-match-1393619@esport-ics
+DTSTART:20260313T070000Z
+DTEND:20260313T091500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Challenger Series: Oceania 2026 - Playoff
+ s
+SUMMARY:Lower bracket quarterfinal 1: KQRM vs 6T
+END:VEVENT
 END:VCALENDAR
