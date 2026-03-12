@@ -34,6 +34,17 @@ CLASS:PUBLIC
 DESCRIPTION:South America League - Challenger Series 2026 - Playoffs\nWatch
  : https://www.twitch.tv/rainbow6
 SUMMARY:Upper bracket quarterfinal 3: 2GAME vs IMP
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T000000Z
+UID:pandascore-match-1391033@esport-ics
+DTSTART:20260313T000000Z
+DTEND:20260313T021500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Challenger Series 2026 - Playoffs\nWatch
+ : https://www.twitch.tv/rainbow6
+SUMMARY:Upper bracket semifinal 2: V7 vs IMP
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
