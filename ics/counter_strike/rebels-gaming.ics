@@ -194,8 +194,10 @@ UID:pandascore-match-1389721@esport-ics
 DTSTART:20260312T111500Z
 DTEND:20260312T120000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group A
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/dred_
 SUMMARY:RBLS vs NIC
+URL;VALUE=URI:https://www.twitch.tv/dred_
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260312T123000Z
@@ -203,8 +205,10 @@ UID:pandascore-match-1389723@esport-ics
 DTSTART:20260312T123000Z
 DTEND:20260312T131500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group A
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/roman
 SUMMARY:RBLS vs JJH
+URL;VALUE=URI:https://www.twitch.tv/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260312T134500Z
@@ -221,8 +225,10 @@ UID:pandascore-match-1389724@esport-ics
 DTSTART:20260312T134500Z
 DTEND:20260312T143000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group A
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/roman
 SUMMARY:RBLS vs 9INE
+URL;VALUE=URI:https://www.twitch.tv/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260312T150000Z
@@ -239,7 +245,9 @@ UID:pandascore-match-1389726@esport-ics
 DTSTART:20260312T150000Z
 DTEND:20260312T154500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group A
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/roman
 SUMMARY:M80 vs RBLS
+URL;VALUE=URI:https://www.twitch.tv/roman
 END:VEVENT
 END:VCALENDAR
