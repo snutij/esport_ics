@@ -83,4 +83,15 @@ CLASS:PUBLIC
 DESCRIPTION:Dfrag - Wildcard LAN season 1 2026 - Group A
 SUMMARY:GZ vs RSTR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T080000Z
+UID:pandascore-match-1387199@esport-ics
+DTSTART:20260312T080000Z
+DTEND:20260312T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Dfrag - Wildcard LAN season 1 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/dfragtv
+SUMMARY:Decider match: RSTR vs TBD
+URL;VALUE=URI:https://www.twitch.tv/dfragtv
+END:VEVENT
 END:VCALENDAR
