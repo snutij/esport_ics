@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Death By Cabal
+SLUG:death-by-cabal
+BEGIN:VEVENT
+DTSTAMP:20260312T223000Z
+UID:pandascore-match-1396173@esport-ics
+DTSTART:20260312T223000Z
+DTEND:20260313T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty Challengers - North America Elite Stage 2 2026 - P
+ layoffs\nWatch: https://www.youtube.com/codchallengers/live
+SUMMARY:Upper bracket quarterfinal 2: FUN.F vs DBC
+URL;VALUE=URI:https://www.youtube.com/codchallengers/live
+END:VEVENT
+END:VCALENDAR
