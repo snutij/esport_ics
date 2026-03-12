@@ -47,6 +47,39 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - France: Revolution Stage 1 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/valorant_fr
 SUMMARY:Grand final: JL vs MDR
-URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+URL:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T160000Z
+UID:pandascore-match-1395550@esport-ics
+DTSTART:20260319T160000Z
+DTEND:20260319T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group D\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:MDR vs MIR
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T183000Z
+UID:pandascore-match-1395552@esport-ics
+DTSTART:20260321T183000Z
+DTEND:20260321T204500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group D\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:MDR vs GNGA
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T160000Z
+UID:pandascore-match-1395553@esport-ics
+DTSTART:20260322T160000Z
+DTEND:20260322T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group D\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:S2G vs MDR
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

@@ -47,6 +47,28 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Türkiye: Birlik Kickoff 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorant_tur
 SUMMARY:Grand final: MISA vs S2G
-URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+URL:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T183000Z
+UID:pandascore-match-1395516@esport-ics
+DTSTART:20260319T183000Z
+DTEND:20260319T204500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group A\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:MISA vs SGE
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T160000Z
+UID:pandascore-match-1395517@esport-ics
+DTSTART:20260320T160000Z
+DTEND:20260320T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group A\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:MISA vs TL.A
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

@@ -252,7 +252,9 @@ UID:pandascore-match-1387928@esport-ics
 DTSTART:20260314T100000Z
 DTEND:20260314T104500Z
 CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Group B
+DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Group B\nWatch: https://www.
+ twitch.tv/dust2tv
 SUMMARY:AAB vs FOR
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 END:VCALENDAR

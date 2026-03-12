@@ -229,7 +229,7 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Season 1 2026 - Playoffs\nWatch: https://www.
  twitch.tv/bcgamemasters
 SUMMARY:Round of 16 match 2: ex-RUBY vs EF
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260313T150000Z
@@ -241,5 +241,16 @@ DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs2
 SUMMARY:Round 3: ACE vs EF
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T090000Z
+UID:pandascore-match-1381454@esport-ics
+DTSTART:20260314T090000Z
+DTEND:20260314T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Season 1 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/bcgamemasters
+SUMMARY:Quarterfinal 1: EF vs TBD
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR

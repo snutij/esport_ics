@@ -262,7 +262,9 @@ UID:pandascore-match-1387924@esport-ics
 DTSTART:20260314T100000Z
 DTEND:20260314T104500Z
 CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Group A
+DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Group A\nWatch: https://www.
+ twitch.tv/dust2tv
 SUMMARY:MSC vs SASHI
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 END:VCALENDAR

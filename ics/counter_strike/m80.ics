@@ -152,13 +152,13 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group A\nWatch: https://ww
  w.twitch.tv/dred_
 SUMMARY:M80 vs JJH
-URL;VALUE=URI:https://www.twitch.tv/dred_
+URL:https://www.twitch.tv/dred_
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260312T150000Z
+DTSTAMP:20260312T152000Z
 UID:pandascore-match-1389726@esport-ics
-DTSTART:20260312T150000Z
-DTEND:20260312T154500Z
+DTSTART:20260312T152000Z
+DTEND:20260312T160500Z
 CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group A\nWatch: https://ww
  w.twitch.tv/roman

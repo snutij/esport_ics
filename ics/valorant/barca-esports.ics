@@ -47,6 +47,28 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Spain: Rising Stage 2 2026 - Playoffs\nWatch: https://www
  .twitch.tv/LVPes2
 SUMMARY:Grand final: DSY vs BAR
-URL;VALUE=URI:https://www.twitch.tv/LVPes2
+URL:https://www.twitch.tv/LVPes2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T160000Z
+UID:pandascore-match-1395541@esport-ics
+DTSTART:20260319T160000Z
+DTEND:20260319T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group B\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:EP vs BAR
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T183000Z
+UID:pandascore-match-1395543@esport-ics
+DTSTART:20260321T183000Z
+DTEND:20260321T204500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group B\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:BAR vs FKS
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
