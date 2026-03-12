@@ -31,8 +31,10 @@ UID:pandascore-match-1389752@esport-ics
 DTSTART:20260312T193000Z
 DTEND:20260312T201500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group B
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/vanfantv
 SUMMARY:EYE vs ledopieca
+URL;VALUE=URI:https://www.twitch.tv/vanfantv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260312T220000Z

@@ -121,8 +121,10 @@ UID:pandascore-match-1389754@esport-ics
 DTSTART:20260312T204500Z
 DTEND:20260312T213000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group B
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/roman
 SUMMARY:NIP vs SAW
+URL;VALUE=URI:https://www.twitch.tv/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260312T220000Z
@@ -130,8 +132,10 @@ UID:pandascore-match-1389756@esport-ics
 DTSTART:20260312T220000Z
 DTEND:20260312T224500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group B
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/Trottah
 SUMMARY:NIP vs VOCA
+URL;VALUE=URI:https://www.twitch.tv/Trottah
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260319T110000Z
