@@ -51,8 +51,10 @@ UID:pandascore-match-1391055@esport-ics
 DTSTART:20260312T060000Z
 DTEND:20260312T081500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Championships - Closed Qualifier 2026 - Playoffs
+DESCRIPTION:Asia Championships - Closed Qualifier 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/xristcs
 SUMMARY:Upper bracket fianl: CW vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/xristcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260318T183000Z
