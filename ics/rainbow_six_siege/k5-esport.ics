@@ -14,4 +14,13 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Challenger Series: Asia 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 3: K5 vs HW
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T110000Z
+UID:pandascore-match-1394284@esport-ics
+DTSTART:20260313T110000Z
+DTEND:20260313T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Challenger Series: Asia 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: 7H vs K5
+END:VEVENT
 END:VCALENDAR

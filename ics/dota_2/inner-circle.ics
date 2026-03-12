@@ -145,6 +145,16 @@ DTEND:20260312T171500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT - Season 8 2026 - Group B\nWatch: https://kick.com/cct_dota
 SUMMARY:IC vs Team Shpilit
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T120000Z
+UID:pandascore-match-1383997@esport-ics
+DTSTART:20260313T120000Z
+DTEND:20260313T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - Season 8 2026 - Group B\nWatch: https://kick.com/cct_dota
+SUMMARY:Elimination match: IC vs TBD
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR
