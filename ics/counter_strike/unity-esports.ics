@@ -240,6 +240,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 46 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:LPH vs UNiTY
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T090000Z
+UID:pandascore-match-1392360@esport-ics
+DTSTART:20260316T090000Z
+DTEND:20260316T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 46 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Winners match: Imperial.A vs UNiTY
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

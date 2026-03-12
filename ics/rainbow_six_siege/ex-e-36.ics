@@ -23,4 +23,13 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Challenger Series: North 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 1:  ex-E.36 vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T070000Z
+UID:pandascore-match-1394067@esport-ics
+DTSTART:20260314T070000Z
+DTEND:20260314T091500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Challenger Series: North 2026 - Playoffs
+SUMMARY:Upper bracket final: VITE vs  ex-E.36
+END:VEVENT
 END:VCALENDAR

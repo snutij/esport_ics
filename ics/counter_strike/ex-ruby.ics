@@ -351,4 +351,15 @@ DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Group Stage\nWatch: htt
 SUMMARY:Round 3: ex-RUBY vs LK
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T140000Z
+UID:pandascore-match-1373757@esport-ics
+DTSTART:20260313T140000Z
+DTEND:20260313T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs
+SUMMARY:Semifinal 2: CS vs ex-RUBY
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR
