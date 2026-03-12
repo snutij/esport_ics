@@ -202,4 +202,15 @@ DESCRIPTION:Aorus League - LATAM 2026 - Group A\nWatch: https://www.twitch.
 SUMMARY:Decider match: c0ki vs R2
 URL;VALUE=URI:https://www.twitch.tv/aoruslatam
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T220000Z
+UID:pandascore-match-1394890@esport-ics
+DTSTART:20260314T220000Z
+DTEND:20260315T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #10 season 3 2026 - Group Stage\nWat
+ ch: https://kick.com/cct_cs3
+SUMMARY:Round 1: CRASH vs R2
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,15 @@ DESCRIPTION:PGL - Bucharest: South American Open Qualifier season 2 2026 -
  Playoffs
 SUMMARY:Semifinal 1: Back to Back  vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T220000Z
+UID:pandascore-match-1394886@esport-ics
+DTSTART:20260313T220000Z
+DTEND:20260314T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #10 season 3 2026 - Group Stage\nWat
+ ch: https://kick.com/cct_cs3
+SUMMARY:Round 1: ISG vs Back to Back 
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR

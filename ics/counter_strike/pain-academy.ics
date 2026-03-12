@@ -182,6 +182,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 1 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/dust2br
 SUMMARY:Quarterfinal 4: Keyd vs paiN.A
-URL;VALUE=URI:https://www.twitch.tv/dust2br
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T160000Z
+UID:pandascore-match-1394884@esport-ics
+DTSTART:20260313T160000Z
+DTEND:20260313T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #10 season 3 2026 - Group Stage\nWat
+ ch: https://kick.com/cct_cs3
+SUMMARY:Round 1: MW vs paiN.A
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
