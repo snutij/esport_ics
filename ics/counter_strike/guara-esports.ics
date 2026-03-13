@@ -42,6 +42,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #10 season 3 2026 - Group Stage\nWat
  ch: https://kick.com/cct_cs3
 SUMMARY:Round 1: FA vs GE
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T210000Z
+UID:pandascore-match-1396965@esport-ics
+DTSTART:20260313T210000Z
+DTEND:20260313T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - March 2026 - Group D
+SUMMARY:MIBR.A vs GE
 END:VEVENT
 END:VCALENDAR

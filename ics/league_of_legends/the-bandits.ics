@@ -53,7 +53,9 @@ UID:pandascore-match-1394826@esport-ics
 DTSTART:20260313T160000Z
 DTEND:20260313T181500Z
 CLASS:PUBLIC
-DESCRIPTION:EMEA Masters - Winter 2026 - Group G
+DESCRIPTION:EMEA Masters - Winter 2026 - Group G\nWatch: https://www.twitch
+ .tv/ouat_tv
 SUMMARY:Lower bracket semifinal: BAN vs USE
+URL;VALUE=URI:https://www.twitch.tv/ouat_tv
 END:VEVENT
 END:VCALENDAR

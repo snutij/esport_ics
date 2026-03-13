@@ -218,7 +218,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #9 season 3 2026 - Playoffs\nWatch: 
  https://kick.com/cct_cs3
 SUMMARY:Quarterfinal 4: BHE vs LDP
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260304T190000Z
@@ -230,5 +230,14 @@ DESCRIPTION:CCT South America - Series #9 season 3 2026 - Playoffs\nWatch:
  https://kick.com/cct_cs3
 SUMMARY:Quarterfinal 3: ex-KRÜ Esports vs LDP
 URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T210000Z
+UID:pandascore-match-1396966@esport-ics
+DTSTART:20260313T210000Z
+DTEND:20260313T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - March 2026 - Group D
+SUMMARY:LDP vs Back to Back 
 END:VEVENT
 END:VCALENDAR
