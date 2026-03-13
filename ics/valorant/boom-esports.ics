@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Southeast Asia: Split 1 2026 - Group A\nWatch: https://ww
  w.twitch.tv/valorant_pacific
 SUMMARY:BOOM vs NAOS
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T060000Z
+UID:pandascore-match-1396268@esport-ics
+DTSTART:20260317T060000Z
+DTEND:20260317T081500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Southeast Asia: Split 1 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/valorant_pacific
+SUMMARY:Tiebreaker: BOOM vs Rival Esports
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR
