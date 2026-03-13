@@ -102,6 +102,15 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group G\nWatch: https://www.twitch
  .tv/ouat_tv
 SUMMARY:Lower bracket semifinal: BAN vs USE
-URL;VALUE=URI:https://www.twitch.tv/ouat_tv
+URL:https://www.twitch.tv/ouat_tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T160000Z
+UID:pandascore-match-1397486@esport-ics
+DTSTART:20260314T160000Z
+DTEND:20260314T173000Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group G
+SUMMARY:Lower bracket final: WLG vs USE
 END:VEVENT
 END:VCALENDAR

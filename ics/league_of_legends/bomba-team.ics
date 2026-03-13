@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group H\nWatch: https://www.twitch
  .tv/nervarien
 SUMMARY:Lower bracket semifinal: FN vs BOOM
-URL;VALUE=URI:https://www.twitch.tv/nervarien
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T160000Z
+UID:pandascore-match-1397488@esport-ics
+DTSTART:20260314T160000Z
+DTEND:20260314T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group H\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Lower bracket final: TP vs BOOM
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR
