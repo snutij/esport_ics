@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant
 SUMMARY:Upper bracket final: NS vs NRG
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T170000Z
+UID:pandascore-match-1368488@esport-ics
+DTSTART:20260314T170000Z
+DTEND:20260314T204500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters Santiago 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/valorant
+SUMMARY:Lower bracket final: NRG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR
