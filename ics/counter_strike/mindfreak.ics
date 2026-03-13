@@ -173,4 +173,13 @@ DESCRIPTION:Dfrag - Wildcard LAN season 1 2026 - Playoffs\nWatch: https://w
 SUMMARY:Upper bracket semifinal 1: THUNDER dOWNUNDER vs MF
 URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T233000Z
+UID:pandascore-match-1396270@esport-ics
+DTSTART:20260315T233000Z
+DTEND:20260316T001500Z
+CLASS:PUBLIC
+DESCRIPTION:ANZC Locals - Brisbane: Autumn 2026 - Group A
+SUMMARY:MF vs Abyssal
+END:VEVENT
 END:VCALENDAR

@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group C\nWatch: https://www.twitch
  .tv/toadamarillo
 SUMMARY:Upper bracket final: AP vs HRTS
-URL;VALUE=URI:https://www.twitch.tv/toadamarillo
+URL:https://www.twitch.tv/toadamarillo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T190000Z
+UID:pandascore-match-1396296@esport-ics
+DTSTART:20260313T190000Z
+DTEND:20260313T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group C\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Lower bracket final: AP vs NBS
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

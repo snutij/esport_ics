@@ -35,4 +35,15 @@ DESCRIPTION:Asia-Pacific League - Challenger Series: Oceania 2026 - Playoff
  s
 SUMMARY:Lower bracket quarterfinal 2: AA vs ANIOS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T100000Z
+UID:pandascore-match-1393621@esport-ics
+DTSTART:20260313T100000Z
+DTEND:20260313T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Challenger Series: Oceania 2026 - Playoff
+ s\nWatch: https://www.twitch.tv/dieanic
+SUMMARY:Lower bracket semifinal: ANIOS vs 6T
+URL;VALUE=URI:https://www.twitch.tv/dieanic
+END:VEVENT
 END:VCALENDAR

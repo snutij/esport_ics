@@ -77,6 +77,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group A\nWatch: https://www.twitch
  .tv/otplol_
 SUMMARY:Upper bracket final: BAR vs KCB
-URL;VALUE=URI:https://www.twitch.tv/otplol_
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T190000Z
+UID:pandascore-match-1396294@esport-ics
+DTSTART:20260313T190000Z
+DTEND:20260313T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group A\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Lower bracket final: BAR vs DMG
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

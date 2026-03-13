@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group D\nWatch: https://www.twitch
  .tv/fortuna
 SUMMARY:Lower bracket semifinal: LPS vs BAM
-URL;VALUE=URI:https://www.twitch.tv/fortuna
+URL:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T190000Z
+UID:pandascore-match-1396297@esport-ics
+DTSTART:20260313T190000Z
+DTEND:20260313T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group D\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Lower bracket final: WT vs BAM
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

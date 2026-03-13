@@ -92,6 +92,15 @@ CLASS:PUBLIC
 DESCRIPTION:Dfrag - Wildcard LAN season 1 2026 - Group A\nWatch: https://ww
  w.twitch.tv/dfragtv
 SUMMARY:Decider match: RSTR vs GZ
-URL;VALUE=URI:https://www.twitch.tv/dfragtv
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T033000Z
+UID:pandascore-match-1396285@esport-ics
+DTSTART:20260316T033000Z
+DTEND:20260316T041500Z
+CLASS:PUBLIC
+DESCRIPTION:ANZC Locals - Brisbane: Autumn 2026 - Group B
+SUMMARY:GZ vs RSTR
 END:VEVENT
 END:VCALENDAR
