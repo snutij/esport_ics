@@ -144,6 +144,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
  .com/cct-cs5
 SUMMARY:Lower bracket quarterfinal 2: YN vs ENJOY
+URL:https://kick.com/cct-cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T191500Z
+UID:pandascore-match-1392414@esport-ics
+DTSTART:20260314T191500Z
+DTEND:20260314T213000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
+ .com/cct-cs5
+SUMMARY:Lower bracket semifinal: MISA vs YN
 URL;VALUE=URI:https://kick.com/cct-cs5
 END:VEVENT
 END:VCALENDAR
