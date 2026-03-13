@@ -154,6 +154,17 @@ SUMMARY:ENCE.A vs LILMIX
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260313T120000Z
+UID:pandascore-match-1389692@esport-ics
+DTSTART:20260313T120000Z
+DTEND:20260313T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Play-In Group C\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Winners match: TLR vs LILMIX
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260313T180000Z
 UID:pandascore-match-1389697@esport-ics
 DTSTART:20260313T180000Z
@@ -162,6 +173,6 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Play-In Group D\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Winners match:  CSDIILIT vs LILMIX
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

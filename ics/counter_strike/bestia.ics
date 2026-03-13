@@ -99,8 +99,10 @@ UID:pandascore-match-1389729@esport-ics
 DTSTART:20260313T100000Z
 DTEND:20260313T104500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group C
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/roman
 SUMMARY:BST vs FCF
+URL;VALUE=URI:https://www.twitch.tv/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260313T111500Z
@@ -108,8 +110,10 @@ UID:pandascore-match-1389730@esport-ics
 DTSTART:20260313T111500Z
 DTEND:20260313T120000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group C
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/roman
 SUMMARY:TL vs BST
+URL;VALUE=URI:https://www.twitch.tv/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260313T123000Z
@@ -117,8 +121,10 @@ UID:pandascore-match-1389732@esport-ics
 DTSTART:20260313T123000Z
 DTEND:20260313T131500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group C
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/locomass22
 SUMMARY:BST vs OlyBet SB
+URL;VALUE=URI:https://www.twitch.tv/locomass22
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260313T134500Z
@@ -126,7 +132,9 @@ UID:pandascore-match-1389735@esport-ics
 DTSTART:20260313T134500Z
 DTEND:20260313T143000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group C
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/forg1
 SUMMARY:BST vs GG
+URL;VALUE=URI:https://www.twitch.tv/forg1
 END:VEVENT
 END:VCALENDAR

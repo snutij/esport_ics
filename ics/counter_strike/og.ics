@@ -60,8 +60,10 @@ UID:pandascore-match-1389743@esport-ics
 DTSTART:20260313T193000Z
 DTEND:20260313T201500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group D
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group D\nWatch: https://ww
+ w.twitch.tv/Trottah
 SUMMARY:OG vs NXS
+URL;VALUE=URI:https://www.twitch.tv/Trottah
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260313T204500Z
@@ -69,8 +71,10 @@ UID:pandascore-match-1389745@esport-ics
 DTSTART:20260313T204500Z
 DTEND:20260313T213000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group D
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group D\nWatch: https://ww
+ w.twitch.tv/masterpipe83
 SUMMARY:ALL vs OG
+URL;VALUE=URI:https://www.twitch.tv/masterpipe83
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260313T220000Z
@@ -78,7 +82,9 @@ UID:pandascore-match-1389746@esport-ics
 DTSTART:20260313T220000Z
 DTEND:20260313T224500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group D
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group D\nWatch: https://ww
+ w.twitch.tv/Trottah
 SUMMARY:BCG vs OG
+URL;VALUE=URI:https://www.twitch.tv/Trottah
 END:VEVENT
 END:VCALENDAR
