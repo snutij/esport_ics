@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group A\nWatch: https://ww
  w.twitch.tv/roman
 SUMMARY:RBLS vs 9INE
-URL;VALUE=URI:https://www.twitch.tv/roman
+URL:https://www.twitch.tv/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T183000Z
+UID:pandascore-match-1389761@esport-ics
+DTSTART:20260314T183000Z
+DTEND:20260314T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/rmncs
+SUMMARY:Quarterfinal 4: 9INE vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rmncs
 END:VEVENT
 END:VCALENDAR

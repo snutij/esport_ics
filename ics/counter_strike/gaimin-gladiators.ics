@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group C\nWatch: https://ww
  w.twitch.tv/roman
 SUMMARY:TL vs GG
-URL;VALUE=URI:https://www.twitch.tv/roman
+URL:https://www.twitch.tv/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T143000Z
+UID:pandascore-match-1389759@esport-ics
+DTSTART:20260314T143000Z
+DTEND:20260314T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/rmncs
+SUMMARY:Quarterfinal 2: GG vs NIP
+URL;VALUE=URI:https://www.twitch.tv/rmncs
 END:VEVENT
 END:VCALENDAR
