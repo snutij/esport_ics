@@ -127,6 +127,17 @@ SUMMARY:Quarterfinal 2: LGC vs AUR
 URL:https://www.twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260314T144500Z
+UID:pandascore-match-1378947@esport-ics
+DTSTART:20260314T144500Z
+DTEND:20260314T170000Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 23 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/eslcs
+SUMMARY:Semifinal 1: AUR vs TBD
+URL;VALUE=URI:https://www.twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260318T160000Z
 UID:pandascore-match-1371044@esport-ics
 DTSTART:20260318T160000Z
