@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty Challengers - North America Elite Stage 2 2026 - P
  layoffs\nWatch: https://www.youtube.com/codchallengers/live
 SUMMARY:Upper bracket quarterfinal 2: FUN.F vs DBC
-URL;VALUE=URI:https://www.youtube.com/codchallengers/live
+URL:https://www.youtube.com/codchallengers/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T023000Z
+UID:pandascore-match-1396176@esport-ics
+DTSTART:20260313T023000Z
+DTEND:20260313T061500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty Challengers - North America Elite Stage 2 2026 - P
+ layoffs\nWatch: https://www.youtube.com/watch?v=S3hJ-pgMLQk
+SUMMARY:Upper bracket semifinal 1: FUN.F vs BUSH
+URL;VALUE=URI:https://www.youtube.com/watch?v=S3hJ-pgMLQk
 END:VEVENT
 END:VCALENDAR
