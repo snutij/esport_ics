@@ -376,6 +376,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Season 1 2026 - Playoffs\nWatch: https://www.
  twitch.tv/bcgamemasters
 SUMMARY:Round of 16 match 5: ILWL vs URSA
+URL:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T150000Z
+UID:pandascore-match-1381456@esport-ics
+DTSTART:20260314T150000Z
+DTEND:20260314T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Season 1 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/bcgamemasters
+SUMMARY:Quarterfinal 3: NVQ vs ILWL
 URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR
