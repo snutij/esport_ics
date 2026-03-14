@@ -58,6 +58,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Brazil: Stage 1 2026 - Group A\nWatch: https://www.twitch
  .tv/gamersclubvalorant
 SUMMARY:REMO vs ELE
-URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+URL:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T200000Z
+UID:pandascore-match-1350519@esport-ics
+DTSTART:20260324T200000Z
+DTEND:20260324T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 1 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 1: ELE vs TBD
 END:VEVENT
 END:VCALENDAR

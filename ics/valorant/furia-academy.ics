@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Brazil: Stage 1 2026 - Group B\nWatch: https://www.twitch
  .tv/gamersclubvalorant
 SUMMARY:F4T vs FUR.A
+URL:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T230000Z
+UID:pandascore-match-1350350@esport-ics
+DTSTART:20260316T230000Z
+DTEND:20260317T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 1 2026 - Play-In\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:Upper bracket quarterfinal 2: INTZ vs FUR.A
 URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
 END:VEVENT
 END:VCALENDAR

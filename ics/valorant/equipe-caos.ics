@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Brazil: Stage 1 2026 - Group A\nWatch: https://www.youtub
  e.com/watch?v=pQ372wHIyac
 SUMMARY:EC vs MIBR.A
-URL;VALUE=URI:https://www.youtube.com/watch?v=pQ372wHIyac
+URL:https://www.youtube.com/watch?v=pQ372wHIyac
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T200000Z
+UID:pandascore-match-1350349@esport-ics
+DTSTART:20260316T200000Z
+DTEND:20260316T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 1 2026 - Play-In\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:Upper bracket quarterfinal 1: RED vs EC
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
 END:VEVENT
 END:VCALENDAR
