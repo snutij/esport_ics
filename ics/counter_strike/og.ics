@@ -96,6 +96,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/rmncs
 SUMMARY:Quarterfinal 2: JJH vs OG
+URL:https://www.twitch.tv/rmncs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T110000Z
+UID:pandascore-match-1389762@esport-ics
+DTSTART:20260315T110000Z
+DTEND:20260315T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/rmncs
+SUMMARY:Semifinal 1: TL vs OG
 URL;VALUE=URI:https://www.twitch.tv/rmncs
 END:VEVENT
 END:VCALENDAR
