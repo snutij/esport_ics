@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - Series 7 season 2 2026 - Playoffs\nWatch: https://kick.co
  m/cct_dota
 SUMMARY:Grand final: PR vs  Pipsqueak+4
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T150000Z
+UID:pandascore-match-1384002@esport-ics
+DTSTART:20260316T150000Z
+DTEND:20260316T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - Season 8 2026 - Playoffs\nWatch: https://kick.com/cct_dot
+ a
+SUMMARY:Upper bracket quarterfinal 3:  Pipsqueak+4 vs L1GA
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR
