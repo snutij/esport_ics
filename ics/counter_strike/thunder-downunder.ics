@@ -168,6 +168,17 @@ SUMMARY:Upper bracket semifinal 1: THUNDER dOWNUNDER vs MF
 URL:https://www.twitch.tv/dfragtv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260315T000000Z
+UID:pandascore-match-1387209@esport-ics
+DTSTART:20260315T000000Z
+DTEND:20260315T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Dfrag - Wildcard LAN season 1 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/dfragtv
+SUMMARY:Lower bracket final: THUNDER dOWNUNDER vs TBD
+URL;VALUE=URI:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260316T033000Z
 UID:pandascore-match-1396283@esport-ics
 DTSTART:20260316T033000Z
