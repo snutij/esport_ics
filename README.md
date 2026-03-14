@@ -1,80 +1,97 @@
-# EsportIcs
+<h1 align="center">Esport ICS</h1>
 
-This repository automates the generation and update of ICS files for esport events. Calendars are refreshed hourly and can be subscribed to in Google Calendar, Apple Calendar and Outlook.
+<p align="center">
+  ICS calendar subscriptions for esports teams.<br>
+  Updated hourly. Free & open source.
+</p>
 
-## Web Interface
+<p align="center">
+  <a href="https://esport-ics.pages.dev"><strong>Browse calendars &rarr;</strong></a>
+</p>
 
-Browse all calendars at: https://esport-ics.pages.dev
+<p align="center">
+  <a href="https://github.com/snutij/esport_ics/actions/workflows/update_ics.yml"><img src="https://github.com/snutij/esport_ics/actions/workflows/update_ics.yml/badge.svg" alt="Update ICS Calendar"></a>&nbsp;
+  <a href="LICENSE.txt"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>&nbsp;
+  <a href="https://pandascore.co/"><img src="https://img.shields.io/badge/data-PandaScore-orange.svg" alt="PandaScore"></a>
+</p>
+
+---
 
 ## Supported Games
 
-- [Call of Duty MW](ics/call_of_duty_mw/)
-- [Counter-Strike 2](ics/counter_strike/)
-- [Dota 2](ics/dota_2/)
-- [EA Sports FC](ics/ea_sports_fc/)
-- [King of Glory](ics/king_of_glory/)
-- [League of Legends](ics/league_of_legends/)
-- [League of Legends WildRift](ics/league_of_legends_wildrift/)
-- [Mobile Legends: Bang Bang](ics/mobile_legends/)
-- [Overwatch 2](ics/overwatch_2/)
-- [PUBG](ics/pubg/)
-- [Rainbow Six Siege](ics/rainbow_six_siege/)
-- [Rocket League](ics/rocket_league/)
-- [StarCraft 2](ics/starcraft_2/)
-- [StarCraft: Brood War](ics/starcraft_brood_war/)
-- [Valorant](ics/valorant/)
+- Call of Duty MW
+- Counter-Strike 2
+- Dota 2
+- EA Sports FC
+- King of Glory
+- League of Legends
+- League of Legends: Wild Rift
+- Mobile Legends: Bang Bang
+- Overwatch 2
+- PUBG
+- Rainbow Six Siege
+- Rocket League
+- StarCraft 2
+- StarCraft: Brood War
+- Valorant
 
-All games available on the [PandaScore API](https://pandascore.co/) are supported. If you'd like to see a new game added, please open an issue or submit a pull request.
+All games available on the [PandaScore API](https://pandascore.co/) are supported.
+Missing a game? [Open an issue](https://github.com/snutij/esport_ics/issues/new).
 
-## Subscribing to the ICS Calendar
+## Subscribe to a Calendar
 
-To subscribe to an ICS calendar, follow these steps:
+Grab the raw URL for any team's `.ics` file:
 
-1. **Get the URL of the ICS file:**
+```
+https://raw.githubusercontent.com/snutij/esport_ics/main/ics/league_of_legends/karmine-corp.ics
+```
 
-   Find in the `ics/league_of_legends` folder the ICS file for the team that you want to subscribe to, then click on the `raw` button, and pick the URL, e.g.:
+Or browse the full list on the [web interface](https://esport-ics.pages.dev) and copy the link from there.
 
-   ```
-   https://raw.githubusercontent.com/snutij/esport_ics/main/ics/league_of_legends/karmine-corp.ics
-   ```
+<details>
+<summary><strong>Google Calendar</strong></summary>
 
-2. **Subscribe using Google Calendar:**
+1. Click **+** next to "Other calendars"
+2. Select **From URL**
+3. Paste the `.ics` URL
+4. Click **Add calendar**
+</details>
 
-   - Open Google Calendar.
-   - On the left side, click the **+** next to "Other calendars".
-   - Select **From URL**.
-   - Paste the URL of the ICS file.
-   - Click **Add calendar**.
-   - You can rename it within calendar options
+<details>
+<summary><strong>Apple Calendar</strong></summary>
 
-3. **Subscribe using Apple Calendar:**
+1. **File → New Calendar Subscription**
+2. Paste the `.ics` URL
+3. Click **Subscribe**, adjust settings, **OK**
+</details>
 
-   - Open Apple Calendar.
-   - Go to **File > New Calendar Subscription**.
-   - Paste the URL of the ICS file.
-   - Click **Subscribe**.
-   - Adjust the settings as needed and click **OK**.
+<details>
+<summary><strong>Outlook</strong></summary>
 
-4. **Subscribe using Outlook:**
+1. **File → Account Settings → Account Settings**
+2. **Internet Calendars** tab → **New**
+3. Paste the `.ics` URL → **Add** → **OK**
+</details>
 
-   - Open Outlook.
-   - Go to **File > Account Settings > Account Settings**.
-   - Go to the **Internet Calendars** tab.
-   - Click **New**.
-   - Paste the URL of the ICS file.
-   - Click **Add**.
-   - Adjust the settings as needed and click **OK**.
+## How It Works
+
+A GitHub Actions cron job runs every hour:
+
+1. Fetches upcoming matches from the [PandaScore API](https://pandascore.co/)
+2. Generates one `.ics` file per team, per game
+3. Commits updated files to `ics/`
+4. The [web interface](https://esport-ics.pages.dev) is deployed on Cloudflare Pages
+
+The Ruby codebase lives in `lib/esport_ics/`. Run `bundle exec rake` for tests and linting.
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+Contributions welcome — open an issue or submit a PR.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+[MIT](LICENSE.txt)
 
 ## Disclaimer
 
-The data used to generate the ICS files comes from [pandascore](https://pandascore.co/). I am not responsible for any inaccuracies or errors in the information provided in the generated ICS files. Please verify the information independently if accuracy is critical.
-
-Btw, special thanks to them for offering a generous free tier, which has played a crucial role in the development of this project.
+Match data comes from [PandaScore](https://pandascore.co/). Verify independently if accuracy is critical. Special thanks to PandaScore for their generous free tier.
