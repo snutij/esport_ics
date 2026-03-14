@@ -393,6 +393,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 3 2026 - Group B\nWatch: https://
  www.twitch.tv/i_am_handy
 SUMMARY:Elimination match: MUERTA TEAM vs OXUJI
-URL;VALUE=URI:https://www.twitch.tv/i_am_handy
+URL:https://www.twitch.tv/i_am_handy
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T120000Z
+UID:pandascore-match-1398498@esport-ics
+DTSTART:20260316T120000Z
+DTEND:20260316T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Group
+  A\nWatch: https://kick.com/cct_cs
+SUMMARY:QWE vs OXUJI
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
