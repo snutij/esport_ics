@@ -287,6 +287,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 23 2026 - Playoffs\nWatch: https://kick.c
  om/exort_en2
 SUMMARY:Quarterfinal 3: 33 vs VP.F
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T163000Z
+UID:pandascore-match-1394881@esport-ics
+DTSTART:20260315T163000Z
+DTEND:20260315T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 23 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Semifinal 2: 33 vs TBD
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

@@ -47,6 +47,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Group Stage\nWatch: https://www.t
  witch.tv/valorant
 SUMMARY:Round 2: XLG vs T1
-URL;VALUE=URI:https://www.twitch.tv/valorant
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T110000Z
+UID:pandascore-match-1399042@esport-ics
+DTSTART:20260401T110000Z
+DTEND:20260401T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:DRG vs XLG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T090000Z
+UID:pandascore-match-1399049@esport-ics
+DTSTART:20260405T090000Z
+DTEND:20260405T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:TE vs XLG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T090000Z
+UID:pandascore-match-1399053@esport-ics
+DTSTART:20260408T090000Z
+DTEND:20260408T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:XLG vs NOVA
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T110000Z
+UID:pandascore-match-1399062@esport-ics
+DTSTART:20260412T110000Z
+DTEND:20260412T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:XLG vs WOL
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T110000Z
+UID:pandascore-match-1399068@esport-ics
+DTSTART:20260416T110000Z
+DTEND:20260416T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:EDG vs XLG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

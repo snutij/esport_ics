@@ -204,12 +204,14 @@ SUMMARY:Lower bracket round 4 match 3: AUR.YB vs HAVU
 URL:https://www.twitch.tv/theeb1ye
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260314T183000Z
+DTSTAMP:20260315T140000Z
 UID:pandascore-match-1382758@esport-ics
-DTSTART:20260314T183000Z
-DTEND:20260314T204500Z
+DTSTART:20260315T140000Z
+DTEND:20260315T161500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/dutchboycasts
 SUMMARY:Lower bracket quarterfinal 2: AUR.YB vs EP
+URL;VALUE=URI:https://www.twitch.tv/dutchboycasts
 END:VEVENT
 END:VCALENDAR

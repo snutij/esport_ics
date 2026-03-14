@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group F\nWatch: https://www.twitch
  .tv/riotgamesturkish
 SUMMARY:Lower bracket final: FEC vs S2G
-URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T160000Z
+UID:pandascore-match-1397485@esport-ics
+DTSTART:20260315T160000Z
+DTEND:20260315T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Group F\nWatch: https://www.twitch
+ .tv/emeamasters
+SUMMARY:Grand final: BIG vs S2G
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

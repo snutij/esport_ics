@@ -36,7 +36,7 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Group Stage\nWatch: https://www.t
  witch.tv/valorant
 SUMMARY:Round 2: T1 vs EDG
-URL;VALUE=URI:https://www.twitch.tv/valorant
+URL:https://www.twitch.tv/valorant
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260303T180000Z
@@ -47,6 +47,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Group Stage\nWatch: https://www.t
  witch.tv/valorant
 SUMMARY:Round 2: EDG vs G2
-URL;VALUE=URI:https://www.twitch.tv/valorant
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T110000Z
+UID:pandascore-match-1399040@esport-ics
+DTSTART:20260331T110000Z
+DTEND:20260331T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:NOVA vs EDG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T110000Z
+UID:pandascore-match-1399048@esport-ics
+DTSTART:20260404T110000Z
+DTEND:20260404T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:WOL vs EDG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T110000Z
+UID:pandascore-match-1399054@esport-ics
+DTSTART:20260408T110000Z
+DTEND:20260408T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:EDG vs TE
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T110000Z
+UID:pandascore-match-1399060@esport-ics
+DTSTART:20260411T110000Z
+DTEND:20260411T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:EDG vs DRG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T110000Z
+UID:pandascore-match-1399068@esport-ics
+DTSTART:20260416T110000Z
+DTEND:20260416T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:EDG vs XLG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

@@ -36,6 +36,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant
 SUMMARY:Lower bracket quarterfinal 1: PR vs AG
-URL;VALUE=URI:https://www.twitch.tv/valorant
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T090000Z
+UID:pandascore-match-1399039@esport-ics
+DTSTART:20260331T090000Z
+DTEND:20260331T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:TEC vs AG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T110000Z
+UID:pandascore-match-1399046@esport-ics
+DTSTART:20260403T110000Z
+DTEND:20260403T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:FPX vs AG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T090000Z
+UID:pandascore-match-1399055@esport-ics
+DTSTART:20260409T090000Z
+DTEND:20260409T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:JDG vs AG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T090000Z
+UID:pandascore-match-1399059@esport-ics
+DTSTART:20260411T090000Z
+DTEND:20260411T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:AG vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T110000Z
+UID:pandascore-match-1399066@esport-ics
+DTSTART:20260415T110000Z
+DTEND:20260415T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:AG vs BLG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

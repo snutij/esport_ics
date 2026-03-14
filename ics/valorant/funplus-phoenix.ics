@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FunPlus Phoenix
+SLUG:funplus-phoenix
+BEGIN:VEVENT
+DTSTAMP:20260401T090000Z
+UID:pandascore-match-1399041@esport-ics
+DTSTART:20260401T090000Z
+DTEND:20260401T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:JDG vs FPX
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T110000Z
+UID:pandascore-match-1399046@esport-ics
+DTSTART:20260403T110000Z
+DTEND:20260403T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:FPX vs AG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T090000Z
+UID:pandascore-match-1399051@esport-ics
+DTSTART:20260407T090000Z
+DTEND:20260407T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:FPX vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T110000Z
+UID:pandascore-match-1399058@esport-ics
+DTSTART:20260410T110000Z
+DTEND:20260410T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:FPX vs BLG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T090000Z
+UID:pandascore-match-1399065@esport-ics
+DTSTART:20260415T090000Z
+DTEND:20260415T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:TEC vs FPX
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+END:VCALENDAR

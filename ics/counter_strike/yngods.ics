@@ -113,8 +113,10 @@ UID:pandascore-match-1382757@esport-ics
 DTSTART:20260314T183000Z
 DTEND:20260314T204500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/GoYareGo
 SUMMARY:Lower bracket quarterfinal 1: QWE vs YNG
+URL;VALUE=URI:https://www.twitch.tv/GoYareGo
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260318T150000Z

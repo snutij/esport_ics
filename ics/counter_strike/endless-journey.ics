@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
  .com/cct-cs5
 SUMMARY:Upper bracket final: DNT vs EJ
+URL:https://kick.com/cct-cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T163000Z
+UID:pandascore-match-1392415@esport-ics
+DTSTART:20260315T163000Z
+DTEND:20260315T184500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
+ .com/cct-cs5
+SUMMARY:Lower bracket final: EJ vs TBD
 URL;VALUE=URI:https://kick.com/cct-cs5
 END:VEVENT
 END:VCALENDAR

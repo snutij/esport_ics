@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TYLOO
+SLUG:tyloo
+BEGIN:VEVENT
+DTSTAMP:20260402T110000Z
+UID:pandascore-match-1399044@esport-ics
+DTSTART:20260402T110000Z
+DTEND:20260402T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:BLG vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T090000Z
+UID:pandascore-match-1399047@esport-ics
+DTSTART:20260404T090000Z
+DTEND:20260404T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:TYLOO vs TEC
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T090000Z
+UID:pandascore-match-1399051@esport-ics
+DTSTART:20260407T090000Z
+DTEND:20260407T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:FPX vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T090000Z
+UID:pandascore-match-1399059@esport-ics
+DTSTART:20260411T090000Z
+DTEND:20260411T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:AG vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T090000Z
+UID:pandascore-match-1399063@esport-ics
+DTSTART:20260414T090000Z
+DTEND:20260414T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:TYLOO vs JDG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+END:VCALENDAR
