@@ -490,6 +490,17 @@ SUMMARY:Winners match: MSC vs ECS
 URL:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260314T150000Z
+UID:pandascore-match-1387927@esport-ics
+DTSTART:20260314T150000Z
+DTEND:20260314T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Group A\nWatch: https://www.
+ twitch.tv/dust2tv
+SUMMARY:Decider match: SASHI vs MSC
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260316T140000Z
 UID:pandascore-match-1398007@esport-ics
 DTSTART:20260316T140000Z
@@ -497,5 +508,16 @@ DTEND:20260316T161500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 4: MSC vs Supernova
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T180000Z
+UID:pandascore-match-1398767@esport-ics
+DTSTART:20260318T180000Z
+DTEND:20260318T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Group
+  D\nWatch: https://kick.com/cct_cs
+SUMMARY:MSC vs home
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

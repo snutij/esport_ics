@@ -249,4 +249,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 5: AIMC vs HS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T120000Z
+UID:pandascore-match-1398742@esport-ics
+DTSTART:20260318T120000Z
+DTEND:20260318T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Group
+  C\nWatch: https://kick.com/cct_cs
+SUMMARY: CSDIILIT vs AIMC
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR
