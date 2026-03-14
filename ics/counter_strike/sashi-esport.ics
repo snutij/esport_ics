@@ -265,6 +265,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Group A\nWatch: https://www.
  twitch.tv/d0kt0r3n
 SUMMARY:MSC vs SASHI
+URL:https://www.twitch.tv/d0kt0r3n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T113000Z
+UID:pandascore-match-1387925@esport-ics
+DTSTART:20260314T113000Z
+DTEND:20260314T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Group A\nWatch: https://www.
+ twitch.tv/d0kt0r3n
+SUMMARY:Elimination match: SASHI vs PRE
 URL;VALUE=URI:https://www.twitch.tv/d0kt0r3n
 END:VEVENT
 END:VCALENDAR

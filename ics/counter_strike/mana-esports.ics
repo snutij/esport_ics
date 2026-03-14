@@ -247,7 +247,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Play-In Group D\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Winners match: MANA vs  CSDIILIT
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260313T150000Z
@@ -259,5 +259,14 @@ DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Play-In Group C\nWatch:
  https://kick.com/nodwin_cs2
 SUMMARY:Winners match: TLR vs MANA
 URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T180000Z
+UID:pandascore-match-1398014@esport-ics
+DTSTART:20260316T180000Z
+DTEND:20260316T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 11: hindsight vs MANA
 END:VEVENT
 END:VCALENDAR

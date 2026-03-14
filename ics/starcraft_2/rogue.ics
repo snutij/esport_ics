@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 4 2026 - Group B\nWatch: https://www.twitc
  h.tv/tastelesstv
 SUMMARY:MaxPax vs Rogue
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260314T113000Z
+UID:pandascore-match-1383637@esport-ics
+DTSTART:20260314T113000Z
+DTEND:20260314T134500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 4 2026 - Group B\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:Winners match: Rogue vs TBD
 URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR

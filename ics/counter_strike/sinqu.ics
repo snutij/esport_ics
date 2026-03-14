@@ -36,6 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Meteor - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/exort_en
 SUMMARY:Round 3: OXUJI vs SINQU
-URL;VALUE=URI:https://kick.com/exort_en
+URL:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T180000Z
+UID:pandascore-match-1398013@esport-ics
+DTSTART:20260316T180000Z
+DTEND:20260316T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 10: Leo vs SINQU
 END:VEVENT
 END:VCALENDAR
