@@ -285,6 +285,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Season 1 2026 - Playoffs\nWatch: https://www.
  twitch.tv/bcgamemasters
 SUMMARY:Quarterfinal 2: NEMI vs MOUZ.N
+URL:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T110000Z
+UID:pandascore-match-1381458@esport-ics
+DTSTART:20260315T110000Z
+DTEND:20260315T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Season 1 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/bcgamemasters
+SUMMARY:Semifinal 1: NEMI vs TBD
 URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR

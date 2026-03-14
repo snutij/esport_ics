@@ -25,6 +25,16 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Oceania - Series #4 season 3 2026 - Group B\nWatch: https:/
  /kick.com/cct_cs4
 SUMMARY:Elimination match: JFT vs LE-LUX
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T110000Z
+UID:pandascore-match-1397987@esport-ics
+DTSTART:20260320T110000Z
+DTEND:20260320T131500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 51 2026 - Playoff
+ s
+SUMMARY:Upper bracket round 1 match 2: MnL vs JFT
 END:VEVENT
 END:VCALENDAR
