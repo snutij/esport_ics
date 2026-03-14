@@ -34,6 +34,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup 1 season 51 2026 - Pl
  ayoffs\nWatch: https://www.twitch.tv/fl0m
 SUMMARY:Lower bracket round 2 match 2: Mythic vs O49
-URL;VALUE=URI:https://www.twitch.tv/fl0m
+URL:https://www.twitch.tv/fl0m
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T020000Z
+UID:pandascore-match-1397691@esport-ics
+DTSTART:20260321T020000Z
+DTEND:20260321T041500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #2 season 51 2026 - P
+ layoffs
+SUMMARY:Upper bracket round 1 match 6: OverKnight vs Mythic
 END:VEVENT
 END:VCALENDAR
