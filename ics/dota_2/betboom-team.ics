@@ -267,6 +267,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 7 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/pgl_dota2
 SUMMARY:Upper bracket final: BB vs TY
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T090000Z
+UID:pandascore-match-1387101@esport-ics
+DTSTART:20260315T090000Z
+DTEND:20260315T111500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 7 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/pgl_dota2
+SUMMARY:Lower bracket final: BB vs TBD
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR
