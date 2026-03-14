@@ -263,6 +263,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs
 SUMMARY:Round of 16 match 8: JS vs ex-RUBY
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T110000Z
+UID:pandascore-match-1398101@esport-ics
+DTSTART:20260324T110000Z
+DTEND:20260324T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Journey - Spring 2026 - Group B\nWatch: https://www.twitch.tv/j
+ ourney_cs2
+SUMMARY:JS vs FCF
+URL;VALUE=URI:https://www.twitch.tv/journey_cs2
 END:VEVENT
 END:VCALENDAR

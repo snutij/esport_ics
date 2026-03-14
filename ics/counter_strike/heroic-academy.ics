@@ -256,4 +256,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 8: HERO.A vs ex-Zero Tenacity
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T110000Z
+UID:pandascore-match-1398104@esport-ics
+DTSTART:20260325T110000Z
+DTEND:20260325T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Journey - Spring 2026 - Group C\nWatch: https://www.twitch.tv/j
+ ourney_cs2
+SUMMARY:BCA vs HERO.A
+URL;VALUE=URI:https://www.twitch.tv/journey_cs2
+END:VEVENT
 END:VCALENDAR

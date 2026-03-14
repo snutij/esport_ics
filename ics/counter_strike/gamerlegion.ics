@@ -122,6 +122,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 1 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship
 SUMMARY:Grand final: GL vs ILWL
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T140000Z
+UID:pandascore-match-1398099@esport-ics
+DTSTART:20260323T140000Z
+DTEND:20260323T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Journey - Spring 2026 - Group A\nWatch: https://www.twitch.tv/j
+ ourney_cs2
+SUMMARY:Winners match: GL vs TBD
+URL;VALUE=URI:https://www.twitch.tv/journey_cs2
 END:VEVENT
 END:VCALENDAR

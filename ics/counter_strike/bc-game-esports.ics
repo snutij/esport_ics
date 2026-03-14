@@ -144,6 +144,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group D\nWatch: https://ww
  w.twitch.tv/Trottah
 SUMMARY:BCG vs OG
-URL;VALUE=URI:https://www.twitch.tv/Trottah
+URL:https://www.twitch.tv/Trottah
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T110000Z
+UID:pandascore-match-1398105@esport-ics
+DTSTART:20260325T110000Z
+DTEND:20260325T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Journey - Spring 2026 - Group C\nWatch: https://www.twitch.tv/j
+ ourney_cs2
+SUMMARY:BCG vs vsters
+URL;VALUE=URI:https://www.twitch.tv/journey_cs2
 END:VEVENT
 END:VCALENDAR

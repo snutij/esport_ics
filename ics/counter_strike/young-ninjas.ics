@@ -157,4 +157,15 @@ DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
 SUMMARY:Lower bracket semifinal: MISA vs YN
 URL;VALUE=URI:https://kick.com/cct-cs5
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T110000Z
+UID:pandascore-match-1398110@esport-ics
+DTSTART:20260326T110000Z
+DTEND:20260326T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Journey - Spring 2026 - Group D\nWatch: https://www.twitch.tv/j
+ ourney_cs2
+SUMMARY:EYE vs YN
+URL;VALUE=URI:https://www.twitch.tv/journey_cs2
+END:VEVENT
 END:VCALENDAR

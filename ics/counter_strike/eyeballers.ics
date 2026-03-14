@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/rmncs
 SUMMARY:Quarterfinal 1: EYE vs TL
-URL;VALUE=URI:https://www.twitch.tv/rmncs
+URL:https://www.twitch.tv/rmncs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T110000Z
+UID:pandascore-match-1398110@esport-ics
+DTSTART:20260326T110000Z
+DTEND:20260326T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Journey - Spring 2026 - Group D\nWatch: https://www.twitch.tv/j
+ ourney_cs2
+SUMMARY:EYE vs YN
+URL;VALUE=URI:https://www.twitch.tv/journey_cs2
 END:VEVENT
 END:VCALENDAR

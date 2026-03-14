@@ -248,6 +248,15 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group A\nWatch: https://ww
  w.twitch.tv/roman
 SUMMARY:M80 vs RBLS
-URL;VALUE=URI:https://www.twitch.tv/roman
+URL:https://www.twitch.tv/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T140000Z
+UID:pandascore-match-1398025@esport-ics
+DTSTART:20260317T140000Z
+DTEND:20260317T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match  6: RBLS vs TBD
 END:VEVENT
 END:VCALENDAR

@@ -335,6 +335,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/theeb1ye
 SUMMARY:Lower bracket round 4 match 3: AUR.YB vs HAVU
-URL;VALUE=URI:https://www.twitch.tv/theeb1ye
+URL:https://www.twitch.tv/theeb1ye
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T180000Z
+UID:pandascore-match-1398029@esport-ics
+DTSTART:20260317T180000Z
+DTEND:20260317T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 10: HAVU vs TBD
 END:VEVENT
 END:VCALENDAR
