@@ -138,6 +138,17 @@ SUMMARY:Round 1: GH vs MAG
 URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260316T220000Z
+UID:pandascore-match-1394898@esport-ics
+DTSTART:20260316T220000Z
+DTEND:20260317T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #10 season 3 2026 - Group Stage\nWat
+ ch: https://kick.com/cct_cs3
+SUMMARY:Round 2: GH vs paiN.A
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260320T220000Z
 UID:pandascore-match-1397648@esport-ics
 DTSTART:20260320T220000Z

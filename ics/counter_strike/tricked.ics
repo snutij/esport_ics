@@ -140,6 +140,15 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Group B\nWatch: https://www.
  twitch.tv/dust2tv
 SUMMARY:Decider match: TRI vs struggletony
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T103000Z
+UID:pandascore-match-1387933@esport-ics
+DTSTART:20260315T103000Z
+DTEND:20260315T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Playoffs
+SUMMARY:Semifinal 1: ECS vs TRI
 END:VEVENT
 END:VCALENDAR
