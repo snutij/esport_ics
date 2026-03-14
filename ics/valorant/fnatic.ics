@@ -36,6 +36,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Kickoff 2026 - Playoffs\nWatch: https://www.twitch.t
  v/valorant_emea
 SUMMARY:Lower bracket final: FNC vs TL
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T150000Z
+UID:pandascore-match-1399202@esport-ics
+DTSTART:20260401T150000Z
+DTEND:20260401T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:FNC vs ULF
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T150000Z
+UID:pandascore-match-1399210@esport-ics
+DTSTART:20260409T150000Z
+DTEND:20260409T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:FNC vs VIT
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T180000Z
+UID:pandascore-match-1399219@esport-ics
+DTSTART:20260417T180000Z
+DTEND:20260417T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:PCFIC vs FNC
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T150000Z
+UID:pandascore-match-1399222@esport-ics
+DTSTART:20260423T150000Z
+DTEND:20260423T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:GX vs FNC
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T180000Z
+UID:pandascore-match-1399229@esport-ics
+DTSTART:20260430T180000Z
+DTEND:20260430T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:BBL vs FNC
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
 END:VEVENT
 END:VCALENDAR

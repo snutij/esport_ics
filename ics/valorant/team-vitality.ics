@@ -58,6 +58,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Clash 2026 - Group Omega\nWatch: https://www.twitch.
  tv/valorant_emea
 SUMMARY:Grand final: VIT vs UCAM
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T150000Z
+UID:pandascore-match-1399204@esport-ics
+DTSTART:20260402T150000Z
+DTEND:20260402T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:VIT vs GX
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T150000Z
+UID:pandascore-match-1399210@esport-ics
+DTSTART:20260409T150000Z
+DTEND:20260409T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:FNC vs VIT
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T150000Z
+UID:pandascore-match-1399216@esport-ics
+DTSTART:20260416T150000Z
+DTEND:20260416T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:ULF vs VIT
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T180000Z
+UID:pandascore-match-1399225@esport-ics
+DTSTART:20260424T180000Z
+DTEND:20260424T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:BBL vs VIT
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T180000Z
+UID:pandascore-match-1399230@esport-ics
+DTSTART:20260429T180000Z
+DTEND:20260429T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:VIT vs PCFIC
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
 END:VEVENT
 END:VCALENDAR

@@ -47,6 +47,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant
 SUMMARY:Lower bracket quarterfinal 2: G2 vs BBL
-URL;VALUE=URI:https://www.twitch.tv/valorant
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T180000Z
+UID:pandascore-match-1399207@esport-ics
+DTSTART:20260403T180000Z
+DTEND:20260403T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:BBL vs PCFIC
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T180000Z
+UID:pandascore-match-1399209@esport-ics
+DTSTART:20260408T180000Z
+DTEND:20260408T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:BBL vs ULF
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T150000Z
+UID:pandascore-match-1399214@esport-ics
+DTSTART:20260415T150000Z
+DTEND:20260415T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:BBL vs GX
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T180000Z
+UID:pandascore-match-1399225@esport-ics
+DTSTART:20260424T180000Z
+DTEND:20260424T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:BBL vs VIT
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T180000Z
+UID:pandascore-match-1399229@esport-ics
+DTSTART:20260430T180000Z
+DTEND:20260430T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:BBL vs FNC
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
 END:VEVENT
 END:VCALENDAR

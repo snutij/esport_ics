@@ -47,6 +47,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Clash 2026 - Group Alpha\nWatch: https://www.twitch.
  tv/valorant_emea
 SUMMARY:Grand final: FUT vs EP
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T180000Z
+UID:pandascore-match-1399205@esport-ics
+DTSTART:20260402T180000Z
+DTEND:20260402T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:GM vs FUT
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T150000Z
+UID:pandascore-match-1399212@esport-ics
+DTSTART:20260410T150000Z
+DTEND:20260410T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:FUT vs NAVI
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T150000Z
+UID:pandascore-match-1399218@esport-ics
+DTSTART:20260417T150000Z
+DTEND:20260417T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:FUT vs TL
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T180000Z
+UID:pandascore-match-1399223@esport-ics
+DTSTART:20260423T180000Z
+DTEND:20260423T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:KC vs FUT
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T150000Z
+UID:pandascore-match-1399226@esport-ics
+DTSTART:20260429T150000Z
+DTEND:20260429T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:TH vs FUT
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
 END:VEVENT
 END:VCALENDAR

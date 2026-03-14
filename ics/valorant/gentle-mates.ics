@@ -80,6 +80,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant
 SUMMARY:Lower bracket round 1 match 1: GM vs AG
-URL;VALUE=URI:https://www.twitch.tv/valorant
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T180000Z
+UID:pandascore-match-1399205@esport-ics
+DTSTART:20260402T180000Z
+DTEND:20260402T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:GM vs FUT
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T180000Z
+UID:pandascore-match-1399213@esport-ics
+DTSTART:20260410T180000Z
+DTEND:20260410T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:GM vs KC
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T180000Z
+UID:pandascore-match-1399215@esport-ics
+DTSTART:20260415T180000Z
+DTEND:20260415T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:GM vs NAVI
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T180000Z
+UID:pandascore-match-1399221@esport-ics
+DTSTART:20260422T180000Z
+DTEND:20260422T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:GM vs TH
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T180000Z
+UID:pandascore-match-1399228@esport-ics
+DTSTART:20260501T180000Z
+DTEND:20260501T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:GM vs TL
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
 END:VEVENT
 END:VCALENDAR

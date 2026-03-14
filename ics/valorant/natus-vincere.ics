@@ -25,6 +25,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Clash 2026 - Group Alpha\nWatch: https://www.twitch.
  tv/valorant_emea
 SUMMARY:Lower bracket quarterfinal 1: NAVI vs UCAM
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T150000Z
+UID:pandascore-match-1399206@esport-ics
+DTSTART:20260403T150000Z
+DTEND:20260403T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:TH vs NAVI
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T150000Z
+UID:pandascore-match-1399212@esport-ics
+DTSTART:20260410T150000Z
+DTEND:20260410T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:FUT vs NAVI
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T180000Z
+UID:pandascore-match-1399215@esport-ics
+DTSTART:20260415T180000Z
+DTEND:20260415T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:GM vs NAVI
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T150000Z
+UID:pandascore-match-1399224@esport-ics
+DTSTART:20260424T150000Z
+DTEND:20260424T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:NAVI vs TL
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T150000Z
+UID:pandascore-match-1399227@esport-ics
+DTSTART:20260430T150000Z
+DTEND:20260430T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:NAVI vs KC
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
 END:VEVENT
 END:VCALENDAR

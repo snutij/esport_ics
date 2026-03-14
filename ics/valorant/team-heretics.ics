@@ -14,6 +14,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Kickoff 2026 - Playoffs\nWatch: https://www.twitch.t
  v/valorant_emea
 SUMMARY:Lower bracket quarterfinal: TH vs TL
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T150000Z
+UID:pandascore-match-1399206@esport-ics
+DTSTART:20260403T150000Z
+DTEND:20260403T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:TH vs NAVI
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T180000Z
+UID:pandascore-match-1399211@esport-ics
+DTSTART:20260409T180000Z
+DTEND:20260409T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:TL vs TH
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T180000Z
+UID:pandascore-match-1399217@esport-ics
+DTSTART:20260416T180000Z
+DTEND:20260416T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:KC vs TH
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T180000Z
+UID:pandascore-match-1399221@esport-ics
+DTSTART:20260422T180000Z
+DTEND:20260422T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:GM vs TH
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T150000Z
+UID:pandascore-match-1399226@esport-ics
+DTSTART:20260429T150000Z
+DTEND:20260429T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_fr
+SUMMARY:TH vs FUT
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
 END:VEVENT
 END:VCALENDAR

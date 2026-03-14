@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 23 2026 - Playoffs\nWatch: https://www.
  twitch.tv/eslcs
 SUMMARY:Semifinal 1: AUR vs AST
+URL:https://www.twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T123000Z
+UID:pandascore-match-1378981@esport-ics
+DTSTART:20260315T123000Z
+DTEND:20260315T144500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 23 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/eslcs
+SUMMARY:3rd Place match: FUT vs AST
 URL;VALUE=URI:https://www.twitch.tv/eslcs
 END:VEVENT
 END:VCALENDAR
