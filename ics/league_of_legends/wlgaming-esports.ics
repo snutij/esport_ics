@@ -97,8 +97,10 @@ UID:pandascore-match-1397580@esport-ics
 DTSTART:20260314T160000Z
 DTEND:20260314T181500Z
 CLASS:PUBLIC
-DESCRIPTION:EMEA Masters - Winter 2026 - Group G
+DESCRIPTION:EMEA Masters - Winter 2026 - Group G\nWatch: https://www.twitch
+ .tv/obsess3
 SUMMARY:Lower bracket final: WLG vs USE
+URL;VALUE=URI:https://www.twitch.tv/obsess3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260314T160000Z
