@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tokyo Ta1yo's
+SLUG:tokyo-ta1yo-s
+BEGIN:VEVENT
+DTSTAMP:20260316T120000Z
+UID:pandascore-match-1400512@esport-ics
+DTSTART:20260316T120000Z
+DTEND:20260316T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:Tokyo Ta1yo's vs VAR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T120000Z
+UID:pandascore-match-1400515@esport-ics
+DTSTART:20260317T120000Z
+DTEND:20260317T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:Tokyo Ta1yo's vs VAR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T103000Z
+UID:pandascore-match-1400517@esport-ics
+DTSTART:20260323T103000Z
+DTEND:20260323T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:Tokyo Ta1yo's vs 99D
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T103000Z
+UID:pandascore-match-1400520@esport-ics
+DTSTART:20260324T103000Z
+DTEND:20260324T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:Tokyo Ta1yo's vs PNHB
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T120000Z
+UID:pandascore-match-1400527@esport-ics
+DTSTART:20260331T120000Z
+DTEND:20260331T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:EF.36 vs Tokyo Ta1yo's
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T103000Z
+UID:pandascore-match-1400532@esport-ics
+DTSTART:20260407T103000Z
+DTEND:20260407T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:LAZ vs Tokyo Ta1yo's
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T133000Z
+UID:pandascore-match-1400537@esport-ics
+DTSTART:20260408T133000Z
+DTEND:20260408T154500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:Tokyo Ta1yo's vs TLM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+END:VCALENDAR

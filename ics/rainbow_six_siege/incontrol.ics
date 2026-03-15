@@ -40,7 +40,9 @@ UID:pandascore-match-1393609@esport-ics
 DTSTART:20260315T210000Z
 DTEND:20260315T231500Z
 CLASS:PUBLIC
-DESCRIPTION:North America League - Challenger Series 2026 - Playoffs
+DESCRIPTION:North America League - Challenger Series 2026 - Playoffs\nWatch
+ : https://www.twitch.tv/rainbow6
 SUMMARY:Lower bracket final: InC vs LAT
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

@@ -341,6 +341,17 @@ SUMMARY:Semifinal 2: NIP vs ALL
 URL:https://www.twitch.tv/bcgameesports
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260315T193000Z
+UID:pandascore-match-1389764@esport-ics
+DTSTART:20260315T193000Z
+DTEND:20260315T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/esportstudion
+SUMMARY:3rd Place match: TL vs ALL
+URL;VALUE=URI:https://www.twitch.tv/esportstudion
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260326T110000Z
 UID:pandascore-match-1398109@esport-ics
 DTSTART:20260326T110000Z

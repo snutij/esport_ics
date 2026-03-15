@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ENTER FORCE.36
+SLUG:enter-force-36
+BEGIN:VEVENT
+DTSTAMP:20260316T103000Z
+UID:pandascore-match-1400511@esport-ics
+DTSTART:20260316T103000Z
+DTEND:20260316T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:EF.36 vs NYAM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T120000Z
+UID:pandascore-match-1400518@esport-ics
+DTSTART:20260323T120000Z
+DTEND:20260323T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:VAR vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T120000Z
+UID:pandascore-match-1400521@esport-ics
+DTSTART:20260324T120000Z
+DTEND:20260324T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:99D vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T103000Z
+UID:pandascore-match-1400523@esport-ics
+DTSTART:20260330T103000Z
+DTEND:20260330T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:TLM vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T120000Z
+UID:pandascore-match-1400527@esport-ics
+DTSTART:20260331T120000Z
+DTEND:20260331T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:EF.36 vs Tokyo Ta1yo's
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T120000Z
+UID:pandascore-match-1400530@esport-ics
+DTSTART:20260406T120000Z
+DTEND:20260406T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:LAZ vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T090000Z
+UID:pandascore-match-1400534@esport-ics
+DTSTART:20260408T090000Z
+DTEND:20260408T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:PNHB vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+END:VCALENDAR

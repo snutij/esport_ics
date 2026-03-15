@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Please Not Hero Ban
+SLUG:please-not-hero-ban
+BEGIN:VEVENT
+DTSTAMP:20260316T090000Z
+UID:pandascore-match-1400510@esport-ics
+DTSTART:20260316T090000Z
+DTEND:20260316T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:PNHB vs TLM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T103000Z
+UID:pandascore-match-1400514@esport-ics
+DTSTART:20260317T103000Z
+DTEND:20260317T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:PNHB vs VAR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T090000Z
+UID:pandascore-match-1400516@esport-ics
+DTSTART:20260323T090000Z
+DTEND:20260323T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:PNHB vs LAZ
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T103000Z
+UID:pandascore-match-1400520@esport-ics
+DTSTART:20260324T103000Z
+DTEND:20260324T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:Tokyo Ta1yo's vs PNHB
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T090000Z
+UID:pandascore-match-1400522@esport-ics
+DTSTART:20260330T090000Z
+DTEND:20260330T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:99D vs PNHB
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T090000Z
+UID:pandascore-match-1400531@esport-ics
+DTSTART:20260407T090000Z
+DTEND:20260407T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:PNHB vs NYAM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T090000Z
+UID:pandascore-match-1400534@esport-ics
+DTSTART:20260408T090000Z
+DTEND:20260408T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:PNHB vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+END:VCALENDAR

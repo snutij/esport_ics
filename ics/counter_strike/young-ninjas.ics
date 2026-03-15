@@ -169,6 +169,17 @@ SUMMARY:Lower bracket final: EJ vs YN
 URL:https://kick.com/cct-cs5
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260315T191500Z
+UID:pandascore-match-1392416@esport-ics
+DTSTART:20260315T191500Z
+DTEND:20260315T213000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
+ .com/cct-cs5
+SUMMARY:Grand final: DNT vs YN
+URL;VALUE=URI:https://kick.com/cct-cs5
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260326T110000Z
 UID:pandascore-match-1398110@esport-ics
 DTSTART:20260326T110000Z

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nyam Gaming
+SLUG:nyam-gaming
+BEGIN:VEVENT
+DTSTAMP:20260316T103000Z
+UID:pandascore-match-1400511@esport-ics
+DTSTART:20260316T103000Z
+DTEND:20260316T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:EF.36 vs NYAM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T120000Z
+UID:pandascore-match-1400524@esport-ics
+DTSTART:20260330T120000Z
+DTEND:20260330T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:VAR vs NYAM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T103000Z
+UID:pandascore-match-1400526@esport-ics
+DTSTART:20260331T103000Z
+DTEND:20260331T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:TLM vs NYAM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T090000Z
+UID:pandascore-match-1400528@esport-ics
+DTSTART:20260406T090000Z
+DTEND:20260406T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:99D vs NYAM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T090000Z
+UID:pandascore-match-1400531@esport-ics
+DTSTART:20260407T090000Z
+DTEND:20260407T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:PNHB vs NYAM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T103000Z
+UID:pandascore-match-1400535@esport-ics
+DTSTART:20260408T103000Z
+DTEND:20260408T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:LAZ vs NYAM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+END:VCALENDAR
