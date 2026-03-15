@@ -94,6 +94,16 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest: Asian Closed Qualifier 2026 - Group Stage\nWat
  ch: https://kick.com/meta_mn
 SUMMARY:LEGION vs THUNDER dOWNUNDER
-URL;VALUE=URI:https://kick.com/meta_mn
+URL:https://kick.com/meta_mn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T140000Z
+UID:pandascore-match-1400103@esport-ics
+DTSTART:20260320T140000Z
+DTEND:20260320T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup 2 season 51 2026 - Pla
+ yoffs
+SUMMARY:Upper bracket round 16 match 7: LEGION vs BP
 END:VEVENT
 END:VCALENDAR
