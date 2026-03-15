@@ -107,6 +107,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/rmncs
 SUMMARY:Semifinal 1: TL vs OG
+URL:https://www.twitch.tv/rmncs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T173000Z
+UID:pandascore-match-1389765@esport-ics
+DTSTART:20260315T173000Z
+DTEND:20260315T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/rmncs
+SUMMARY:Grand final: OG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rmncs
 END:VEVENT
 END:VCALENDAR
