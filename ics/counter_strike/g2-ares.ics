@@ -223,4 +223,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 2: QWE vs G2.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T113000Z
+UID:pandascore-match-1392357@esport-ics
+DTSTART:20260318T113000Z
+DTEND:20260318T134500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 46 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider match: Inner Circle Academy vs G2.A
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
