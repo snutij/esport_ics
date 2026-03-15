@@ -263,7 +263,9 @@ UID:pandascore-match-1387934@esport-ics
 DTSTART:20260315T103000Z
 DTEND:20260315T124500Z
 CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Playoffs
+DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/d0kt0r3n
 SUMMARY:Semifinal 2: AAB vs SASHI
+URL;VALUE=URI:https://www.twitch.tv/d0kt0r3n
 END:VEVENT
 END:VCALENDAR
