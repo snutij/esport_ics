@@ -517,6 +517,17 @@ SUMMARY:Round 4: OMG vs EF
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260316T180000Z
+UID:pandascore-match-1381216@esport-ics
+DTSTART:20260316T180000Z
+DTEND:20260316T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 5: OMG vs ex-Zero Tenacity
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260317T140000Z
 UID:pandascore-match-1398023@esport-ics
 DTSTART:20260317T140000Z

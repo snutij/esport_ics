@@ -158,6 +158,17 @@ SUMMARY:Winners match: L1GA vs AVL
 URL:https://kick.com/cct_dota
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260316T080000Z
+UID:pandascore-match-1400573@esport-ics
+DTSTART:20260316T080000Z
+DTEND:20260316T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group B\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY:L1GA vs Nemiga
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260316T150000Z
 UID:pandascore-match-1384002@esport-ics
 DTSTART:20260316T150000Z
