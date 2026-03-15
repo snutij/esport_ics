@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America South Stage 1 2026 - Group Stage\nWatch: ht
  tps://www.twitch.tv/valorant_la
 SUMMARY:ALT vs MK
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T220000Z
+UID:pandascore-match-1399309@esport-ics
+DTSTART:20260320T220000Z
+DTEND:20260321T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South Stage 1 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/valorant_la
+SUMMARY:Upper bracket semifinal 2: MK vs OX
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR
