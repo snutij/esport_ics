@@ -312,14 +312,14 @@ SUMMARY:Winners match: MSC vs ECS
 URL:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260315T103000Z
+DTSTAMP:20260315T110000Z
 UID:pandascore-match-1387933@esport-ics
-DTSTART:20260315T103000Z
-DTEND:20260315T124500Z
+DTSTART:20260315T110000Z
+DTEND:20260315T131500Z
 CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Playoffs\nWatch: https://www
- .twitch.tv/dutchboycasts
+ .twitch.tv/dust2tv
 SUMMARY:Semifinal 1: ECS vs TRI
-URL;VALUE=URI:https://www.twitch.tv/dutchboycasts
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 END:VCALENDAR
