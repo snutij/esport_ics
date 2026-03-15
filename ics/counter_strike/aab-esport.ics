@@ -269,12 +269,14 @@ SUMMARY:Semifinal 2: AAB vs SASHI
 URL:https://www.twitch.tv/d0kt0r3n
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260315T143000Z
+DTSTAMP:20260315T144500Z
 UID:pandascore-match-1387935@esport-ics
-DTSTART:20260315T143000Z
-DTEND:20260315T164500Z
+DTSTART:20260315T144500Z
+DTEND:20260315T170000Z
 CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Playoffs
-SUMMARY:3rd place decider: AAB vs TBD
+DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/aabesport
+SUMMARY:3rd place decider: AAB vs ECS
+URL;VALUE=URI:https://www.twitch.tv/aabesport
 END:VEVENT
 END:VCALENDAR

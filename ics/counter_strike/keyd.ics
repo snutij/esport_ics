@@ -222,6 +222,17 @@ SUMMARY:Grand final: Keyd vs BHE
 URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260317T220000Z
+UID:pandascore-match-1400273@esport-ics
+DTSTART:20260317T220000Z
+DTEND:20260317T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Aorus League - Brazil Online Stage 2026 - Group B\nWatch: https
+ ://www.twitch.tv/aorusbr
+SUMMARY:BHE vs Keyd
+URL;VALUE=URI:https://www.twitch.tv/aorusbr
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260320T220000Z
 UID:pandascore-match-1397650@esport-ics
 DTSTART:20260320T220000Z

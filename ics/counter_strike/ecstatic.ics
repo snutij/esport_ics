@@ -320,6 +320,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Playoffs\nWatch: https://www
  .twitch.tv/dust2tv
 SUMMARY:Semifinal 1: ECS vs TRI
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260315T144500Z
+UID:pandascore-match-1387935@esport-ics
+DTSTART:20260315T144500Z
+DTEND:20260315T170000Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 31 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/aabesport
+SUMMARY:3rd place decider: AAB vs ECS
+URL;VALUE=URI:https://www.twitch.tv/aabesport
 END:VEVENT
 END:VCALENDAR

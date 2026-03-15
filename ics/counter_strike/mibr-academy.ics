@@ -87,4 +87,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - March 2026 - Group D
 SUMMARY:MIBR.A vs GE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T210000Z
+UID:pandascore-match-1400259@esport-ics
+DTSTART:20260317T210000Z
+DTEND:20260317T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Aorus League - Brazil Online Stage 2026 - Group B\nWatch: https
+ ://www.twitch.tv/aorusbr
+SUMMARY:GLS vs MIBR.A
+URL;VALUE=URI:https://www.twitch.tv/aorusbr
+END:VEVENT
 END:VCALENDAR

@@ -196,4 +196,15 @@ CLASS:PUBLIC
 DESCRIPTION:Aorus League - Brazil Open Qualifier 2026 - Playoffs
 SUMMARY:GLS vs RED.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T210000Z
+UID:pandascore-match-1400259@esport-ics
+DTSTART:20260317T210000Z
+DTEND:20260317T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Aorus League - Brazil Online Stage 2026 - Group B\nWatch: https
+ ://www.twitch.tv/aorusbr
+SUMMARY:GLS vs MIBR.A
+URL;VALUE=URI:https://www.twitch.tv/aorusbr
+END:VEVENT
 END:VCALENDAR
