@@ -61,6 +61,17 @@ SUMMARY:LiXO eSports vs NAVI.J
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260316T150000Z
+UID:pandascore-match-1401104@esport-ics
+DTSTART:20260316T150000Z
+DTEND:20260316T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Tennisi Stampede Champions - Season 2 2026 - Group Stage\nWatch
+ : https://www.twitch.tv/pingerpro
+SUMMARY:Round 1: LiXO eSports vs Peak
+URL;VALUE=URI:https://www.twitch.tv/pingerpro
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260317T130000Z
 UID:pandascore-match-1384432@esport-ics
 DTSTART:20260317T130000Z

@@ -89,6 +89,15 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Champions Round\nWatch: https://ww
  w.twitch.tv/tl_nero
 SUMMARY:Qualification match 2: VDN vs WLG
-URL;VALUE=URI:https://www.twitch.tv/tl_nero
+URL:https://www.twitch.tv/tl_nero
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T190000Z
+UID:pandascore-match-1397497@esport-ics
+DTSTART:20260324T190000Z
+DTEND:20260324T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 4: VDN vs TBD
 END:VEVENT
 END:VCALENDAR

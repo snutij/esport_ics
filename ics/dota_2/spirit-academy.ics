@@ -157,4 +157,15 @@ DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group B\nWatch: https://www.twi
 SUMMARY:TS.A vs Z10
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T180000Z
+UID:pandascore-match-1401105@esport-ics
+DTSTART:20260316T180000Z
+DTEND:20260316T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Tennisi Stampede Champions - Season 2 2026 - Group Stage\nWatch
+ : https://www.twitch.tv/pingerpro
+SUMMARY:Round 1: TS.A vs enjoy boys
+URL;VALUE=URI:https://www.twitch.tv/pingerpro
+END:VEVENT
 END:VCALENDAR

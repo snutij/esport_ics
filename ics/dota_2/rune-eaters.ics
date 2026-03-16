@@ -94,6 +94,17 @@ SUMMARY:ILL vs RE
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260317T150000Z
+UID:pandascore-match-1401106@esport-ics
+DTSTART:20260317T150000Z
+DTEND:20260317T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Tennisi Stampede Champions - Season 2 2026 - Group Stage\nWatch
+ : https://www.twitch.tv/pingerpro
+SUMMARY:Round 1: RE vs KZ
+URL;VALUE=URI:https://www.twitch.tv/pingerpro
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260318T100000Z
 UID:pandascore-match-1384435@esport-ics
 DTSTART:20260318T100000Z

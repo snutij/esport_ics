@@ -66,6 +66,15 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Champions Round\nWatch: https://ww
  w.twitch.tv/euniverse_tv
 SUMMARY:Qualification match 4: KOI.F vs FN
-URL;VALUE=URI:https://www.twitch.tv/euniverse_tv
+URL:https://www.twitch.tv/euniverse_tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T160000Z
+UID:pandascore-match-1397495@esport-ics
+DTSTART:20260324T160000Z
+DTEND:20260324T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 2: KOI.F vs TBD
 END:VEVENT
 END:VCALENDAR

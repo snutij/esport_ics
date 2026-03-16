@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pandora Kris
+SLUG:pandora-kris
+BEGIN:VEVENT
+DTSTAMP:20260317T180000Z
+UID:pandascore-match-1401107@esport-ics
+DTSTART:20260317T180000Z
+DTEND:20260317T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Tennisi Stampede Champions - Season 2 2026 - Group Stage\nWatch
+ : https://www.twitch.tv/pingerpro
+SUMMARY:Round 1: ILL vs Pandora Kris
+URL;VALUE=URI:https://www.twitch.tv/pingerpro
+END:VEVENT
+END:VCALENDAR

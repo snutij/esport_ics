@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:China Evolution Series - Act 1 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorantesports_cn
 SUMMARY:Round 1 match 1: WOL vs AQ
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T090000Z
+UID:pandascore-match-1400635@esport-ics
+DTSTART:20260318T090000Z
+DTEND:20260318T111500Z
+CLASS:PUBLIC
+DESCRIPTION:China Evolution Series - Act 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/valorantesports_cn
+SUMMARY:Quarterfinal 1: DRG vs AQ
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR
