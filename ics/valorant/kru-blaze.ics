@@ -50,17 +50,6 @@ SUMMARY:KRÜ vs UW
 URL:https://www.twitch.tv/valorant_la
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260318T220000Z
-UID:pandascore-match-1356809@esport-ics
-DTSTART:20260318T220000Z
-DTEND:20260319T001500Z
-CLASS:PUBLIC
-DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
- age\nWatch: https://www.twitch.tv/valorant_la
-SUMMARY:KRÜ vs Looking For Laburo
-URL;VALUE=URI:https://www.twitch.tv/valorant_la
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260323T220000Z
 UID:pandascore-match-1356810@esport-ics
 DTSTART:20260323T220000Z
@@ -70,5 +59,16 @@ DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
  age\nWatch: https://www.twitch.tv/valorant_la
 SUMMARY:KRÜ vs OG
 URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T220000Z
+UID:pandascore-match-1356809@esport-ics
+DTSTART:20260323T220000Z
+DTEND:20260324T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:KRÜ vs Looking For Laburo
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

@@ -50,25 +50,25 @@ SUMMARY:MYV.GC vs Contra GC
 URL:https://www.twitch.tv/valorant_la
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260317T010000Z
-UID:pandascore-match-1356792@esport-ics
-DTSTART:20260317T010000Z
-DTEND:20260317T031500Z
-CLASS:PUBLIC
-DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
- age\nWatch: https://www.twitch.tv/valorant_la
-SUMMARY:MYV.GC vs NSB
-URL;VALUE=URI:https://www.twitch.tv/valorant_la
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260326T010000Z
+DTSTAMP:20260318T010000Z
 UID:pandascore-match-1356797@esport-ics
-DTSTART:20260326T010000Z
-DTEND:20260326T031500Z
+DTSTART:20260318T010000Z
+DTEND:20260318T031500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
  age\nWatch: https://www.twitch.tv/valorant_la
 SUMMARY:MYV.GC vs FSN.X
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T010000Z
+UID:pandascore-match-1356792@esport-ics
+DTSTART:20260323T010000Z
+DTEND:20260323T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:MYV.GC vs NSB
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

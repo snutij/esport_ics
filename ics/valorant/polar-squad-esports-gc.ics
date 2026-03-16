@@ -39,25 +39,25 @@ SUMMARY:OG vs PSE.GC
 URL:https://www.twitch.tv/valorant_la
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260316T220000Z
-UID:pandascore-match-1356807@esport-ics
-DTSTART:20260316T220000Z
-DTEND:20260317T001500Z
-CLASS:PUBLIC
-DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
- age\nWatch: https://www.twitch.tv/jxavi_vt
-SUMMARY:LEV.F vs PSE.GC
-URL;VALUE=URI:https://www.twitch.tv/jxavi_vt
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260324T220000Z
+DTSTAMP:20260318T220000Z
 UID:pandascore-match-1356811@esport-ics
-DTSTART:20260324T220000Z
-DTEND:20260325T001500Z
+DTSTART:20260318T220000Z
+DTEND:20260319T001500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
  age\nWatch: https://www.twitch.tv/valorant_la
 SUMMARY:Looking For Laburo vs PSE.GC
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T220000Z
+UID:pandascore-match-1356807@esport-ics
+DTSTART:20260325T220000Z
+DTEND:20260326T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
+ age\nWatch: https://www.twitch.tv/jxavi_vt
+SUMMARY:LEV.F vs PSE.GC
+URL;VALUE=URI:https://www.twitch.tv/jxavi_vt
 END:VEVENT
 END:VCALENDAR

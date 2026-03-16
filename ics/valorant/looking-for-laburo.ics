@@ -40,24 +40,24 @@ URL:https://www.twitch.tv/valorant_la
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260318T220000Z
-UID:pandascore-match-1356809@esport-ics
+UID:pandascore-match-1356811@esport-ics
 DTSTART:20260318T220000Z
 DTEND:20260319T001500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
  age\nWatch: https://www.twitch.tv/valorant_la
-SUMMARY:KRÜ vs Looking For Laburo
+SUMMARY:Looking For Laburo vs PSE.GC
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260324T220000Z
-UID:pandascore-match-1356811@esport-ics
-DTSTART:20260324T220000Z
-DTEND:20260325T001500Z
+DTSTAMP:20260323T220000Z
+UID:pandascore-match-1356809@esport-ics
+DTSTART:20260323T220000Z
+DTEND:20260324T001500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Group St
  age\nWatch: https://www.twitch.tv/valorant_la
-SUMMARY:Looking For Laburo vs PSE.GC
+SUMMARY:KRÜ vs Looking For Laburo
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

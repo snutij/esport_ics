@@ -40,24 +40,24 @@ URL:https://www.twitch.tv/valorant_la
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260319T010000Z
-UID:pandascore-match-1356794@esport-ics
+UID:pandascore-match-1356796@esport-ics
 DTSTART:20260319T010000Z
 DTEND:20260319T031500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
  age\nWatch: https://www.twitch.tv/valorant_la
-SUMMARY:AEB vs Contra GC
+SUMMARY:Contra GC vs NSB
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260325T010000Z
-UID:pandascore-match-1356796@esport-ics
+UID:pandascore-match-1356794@esport-ics
 DTSTART:20260325T010000Z
 DTEND:20260325T031500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
  age\nWatch: https://www.twitch.tv/valorant_la
-SUMMARY:Contra GC vs NSB
+SUMMARY:AEB vs Contra GC
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

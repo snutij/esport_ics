@@ -40,24 +40,24 @@ URL:https://www.twitch.tv/benjytreex
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260318T010000Z
-UID:pandascore-match-1356793@esport-ics
+UID:pandascore-match-1356797@esport-ics
 DTSTART:20260318T010000Z
 DTEND:20260318T031500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
  age\nWatch: https://www.twitch.tv/valorant_la
-SUMMARY:FSN.X vs OWO
+SUMMARY:MYV.GC vs FSN.X
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260326T010000Z
-UID:pandascore-match-1356797@esport-ics
+UID:pandascore-match-1356793@esport-ics
 DTSTART:20260326T010000Z
 DTEND:20260326T031500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
  age\nWatch: https://www.twitch.tv/valorant_la
-SUMMARY:MYV.GC vs FSN.X
+SUMMARY:FSN.X vs OWO
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR
