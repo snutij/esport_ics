@@ -77,4 +77,37 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Regular Season
 SUMMARY:TNC vs HS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T120000Z
+UID:pandascore-match-1402006@esport-ics
+DTSTART:20260323T120000Z
+DTEND:20260323T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #3 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:PHA vs TNC
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T130000Z
+UID:pandascore-match-1402008@esport-ics
+DTSTART:20260323T130000Z
+DTEND:20260323T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #3 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:EC BANGA vs TNC
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T140000Z
+UID:pandascore-match-1402011@esport-ics
+DTSTART:20260323T140000Z
+DTEND:20260323T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #3 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:TNC vs KSM
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
 END:VCALENDAR

@@ -270,6 +270,39 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship
 SUMMARY:Upper bracket quarterfinal 1: 100T vs FOKUS
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T080000Z
+UID:pandascore-match-1402001@esport-ics
+DTSTART:20260323T080000Z
+DTEND:20260323T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #3 2026 - Group A\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:FOKUS vs GHY
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T090000Z
+UID:pandascore-match-1402002@esport-ics
+DTSTART:20260323T090000Z
+DTEND:20260323T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #3 2026 - Group A\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:FOKUS vs FOKUS REALITY
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T100000Z
+UID:pandascore-match-1402004@esport-ics
+DTSTART:20260323T100000Z
+DTEND:20260323T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #3 2026 - Group A\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:3DMAX vs FOKUS
+URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR

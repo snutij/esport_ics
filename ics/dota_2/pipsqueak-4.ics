@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - Season 8 2026 - Playoffs\nWatch: https://kick.com/cct_dot
  a
 SUMMARY:Upper bracket quarterfinal 3:  Pipsqueak+4 vs L1GA
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T120000Z
+UID:pandascore-match-1384013@esport-ics
+DTSTART:20260317T120000Z
+DTEND:20260317T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - Season 8 2026 - Playoffs\nWatch: https://kick.com/cct_dot
+ a
+SUMMARY:Lower bracket round 1 match 2:  Pipsqueak+4 vs TBD
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exilium
+SLUG:exilium
+BEGIN:VEVENT
+DTSTAMP:20260323T200000Z
+UID:pandascore-match-1402019@esport-ics
+DTSTART:20260323T200000Z
+DTEND:20260323T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #3 2026 - Group D\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:AAB vs Exilium
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T210000Z
+UID:pandascore-match-1402020@esport-ics
+DTSTART:20260323T210000Z
+DTEND:20260323T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #3 2026 - Group D\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:WC vs Exilium
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T220000Z
+UID:pandascore-match-1402023@esport-ics
+DTSTART:20260323T220000Z
+DTEND:20260323T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #3 2026 - Group D\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:Exilium vs BERG
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+END:VCALENDAR
