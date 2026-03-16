@@ -157,4 +157,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
 SUMMARY:Upper bracket round 2 match 7: G1 vs rottweilers
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T120000Z
+UID:pandascore-match-1389772@esport-ics
+DTSTART:20260318T120000Z
+DTEND:20260318T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 1: G1 vs MANA
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
