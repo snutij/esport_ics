@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Asterisk
+SLUG:asterisk
+BEGIN:VEVENT
+DTSTAMP:20260319T123000Z
+UID:pandascore-match-1402096@esport-ics
+DTSTART:20260319T123000Z
+DTEND:20260319T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:RXS vs AST
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T123000Z
+UID:pandascore-match-1402100@esport-ics
+DTSTART:20260321T123000Z
+DTEND:20260321T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:AST vs DXE
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T123000Z
+UID:pandascore-match-1402102@esport-ics
+DTSTART:20260322T123000Z
+DTEND:20260322T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:XC vs AST
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T093000Z
+UID:pandascore-match-1402107@esport-ics
+DTSTART:20260328T093000Z
+DTEND:20260328T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:AST vs RAD
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T093000Z
+UID:pandascore-match-1402109@esport-ics
+DTSTART:20260329T093000Z
+DTEND:20260329T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:GDR vs AST
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T093000Z
+UID:pandascore-match-1402115@esport-ics
+DTSTART:20260401T093000Z
+DTEND:20260401T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:S8UL vs AST
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+END:VCALENDAR

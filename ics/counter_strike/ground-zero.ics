@@ -201,8 +201,10 @@ UID:pandascore-match-1396288@esport-ics
 DTSTART:20260316T233000Z
 DTEND:20260317T001500Z
 CLASS:PUBLIC
-DESCRIPTION:ANZC Locals - Brisbane: Autumn 2026 - Playoffs
+DESCRIPTION:ANZC Locals - Brisbane: Autumn 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/dfragtv_cs2
 SUMMARY:Upper bracket semifinal 1: SFE vs GZ
+URL;VALUE=URI:https://www.twitch.tv/dfragtv_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260321T110000Z

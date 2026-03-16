@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gods Reign
+SLUG:gods-reign
+BEGIN:VEVENT
+DTSTAMP:20260317T093000Z
+UID:pandascore-match-1402091@esport-ics
+DTSTART:20260317T093000Z
+DTEND:20260317T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:GDR vs XC
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T093000Z
+UID:pandascore-match-1402093@esport-ics
+DTSTART:20260318T093000Z
+DTEND:20260318T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:DXE vs GDR
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T093000Z
+UID:pandascore-match-1402099@esport-ics
+DTSTART:20260321T093000Z
+DTEND:20260321T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:GDR vs S8UL
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T123000Z
+UID:pandascore-match-1402104@esport-ics
+DTSTART:20260326T123000Z
+DTEND:20260326T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:RAD vs GDR
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T123000Z
+UID:pandascore-match-1402106@esport-ics
+DTSTART:20260327T123000Z
+DTEND:20260327T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:GDR vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T093000Z
+UID:pandascore-match-1402109@esport-ics
+DTSTART:20260329T093000Z
+DTEND:20260329T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:GDR vs AST
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T123000Z
+UID:pandascore-match-1402116@esport-ics
+DTSTART:20260401T123000Z
+DTEND:20260401T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:LSE vs GDR
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+END:VCALENDAR

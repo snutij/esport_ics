@@ -180,6 +180,17 @@ SUMMARY:Upper bracket quarterfinal 3:  Pipsqueak+4 vs L1GA
 URL:https://kick.com/cct_dota
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260317T140000Z
+UID:pandascore-match-1400575@esport-ics
+DTSTART:20260317T140000Z
+DTEND:20260317T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group B\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY:Astini+5 vs L1GA
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260317T180000Z
 UID:pandascore-match-1384005@esport-ics
 DTSTART:20260317T180000Z

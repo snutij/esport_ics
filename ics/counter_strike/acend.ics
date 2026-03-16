@@ -353,6 +353,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs2
 SUMMARY:Round 3: ACE vs EF
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T120000Z
+UID:pandascore-match-1381265@esport-ics
+DTSTART:20260318T120000Z
+DTEND:20260318T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs2
+SUMMARY:Round 16 match 6: CS vs ACE
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

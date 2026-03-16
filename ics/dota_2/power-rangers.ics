@@ -83,6 +83,28 @@ SUMMARY:PR vs YeS
 URL:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260317T080000Z
+UID:pandascore-match-1400577@esport-ics
+DTSTART:20260317T080000Z
+DTEND:20260317T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group A\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY:PR vs Team Shpilit
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T110000Z
+UID:pandascore-match-1400578@esport-ics
+DTSTART:20260317T110000Z
+DTEND:20260317T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group A\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY:PR vs RE
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260317T150000Z
 UID:pandascore-match-1384004@esport-ics
 DTSTART:20260317T150000Z

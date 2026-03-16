@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Rad Syndicate
+SLUG:the-rad-syndicate
+BEGIN:VEVENT
+DTSTAMP:20260319T093000Z
+UID:pandascore-match-1402095@esport-ics
+DTSTART:20260319T093000Z
+DTEND:20260319T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:RAD vs LSE
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T093000Z
+UID:pandascore-match-1402097@esport-ics
+DTSTART:20260320T093000Z
+DTEND:20260320T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:XC vs RAD
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T123000Z
+UID:pandascore-match-1402104@esport-ics
+DTSTART:20260326T123000Z
+DTEND:20260326T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:RAD vs GDR
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T093000Z
+UID:pandascore-match-1402107@esport-ics
+DTSTART:20260328T093000Z
+DTEND:20260328T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:AST vs RAD
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T123000Z
+UID:pandascore-match-1402112@esport-ics
+DTSTART:20260330T123000Z
+DTEND:20260330T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:RAD vs S8UL
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T123000Z
+UID:pandascore-match-1402114@esport-ics
+DTSTART:20260331T123000Z
+DTEND:20260331T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:RAD vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+END:VCALENDAR

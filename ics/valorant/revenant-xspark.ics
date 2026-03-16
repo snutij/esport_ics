@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Revenant XSpark
+SLUG:revenant-xspark
+BEGIN:VEVENT
+DTSTAMP:20260317T123000Z
+UID:pandascore-match-1402092@esport-ics
+DTSTART:20260317T123000Z
+DTEND:20260317T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:RXS vs S8UL
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T123000Z
+UID:pandascore-match-1402096@esport-ics
+DTSTART:20260319T123000Z
+DTEND:20260319T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:RXS vs AST
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T123000Z
+UID:pandascore-match-1402098@esport-ics
+DTSTART:20260320T123000Z
+DTEND:20260320T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:LSE vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T093000Z
+UID:pandascore-match-1402103@esport-ics
+DTSTART:20260326T093000Z
+DTEND:20260326T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:RXS vs DXE
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T123000Z
+UID:pandascore-match-1402106@esport-ics
+DTSTART:20260327T123000Z
+DTEND:20260327T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:GDR vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T093000Z
+UID:pandascore-match-1402111@esport-ics
+DTSTART:20260330T093000Z
+DTEND:20260330T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:RXS vs XC
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T123000Z
+UID:pandascore-match-1402114@esport-ics
+DTSTART:20260331T123000Z
+DTEND:20260331T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
+ w.youtube.com/@NODWINgaming/live
+SUMMARY:RAD vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+END:VCALENDAR
