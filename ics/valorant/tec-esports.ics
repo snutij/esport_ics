@@ -6,6 +6,17 @@ METHOD:PUBLISH
 X-WR-CALNAME:TEC Esports
 SLUG:tec-esports
 BEGIN:VEVENT
+DTSTAMP:20260316T110000Z
+UID:pandascore-match-1400614@esport-ics
+DTSTART:20260316T110000Z
+DTEND:20260316T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China Evolution Series - Act 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/valorantesports_cn
+SUMMARY:Round 1 match 2: TEC vs World Sports Invictus Gaming
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260331T090000Z
 UID:pandascore-match-1399039@esport-ics
 DTSTART:20260331T090000Z
