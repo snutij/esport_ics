@@ -243,4 +243,15 @@ DESCRIPTION:United21 - Season 46 2026 - Group B\nWatch: https://kick.com/un
 SUMMARY:Decider match: Inner Circle Academy vs G2.A
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T090000Z
+UID:pandascore-match-1401477@esport-ics
+DTSTART:20260320T090000Z
+DTEND:20260320T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Elimination match: G2.A vs SINQU
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

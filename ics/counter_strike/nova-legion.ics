@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nova Legion
+SLUG:nova-legion
+BEGIN:VEVENT
+DTSTAMP:20260317T133000Z
+UID:pandascore-match-1401800@esport-ics
+DTSTART:20260317T133000Z
+DTEND:20260317T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 1: NP vs Nova Legion
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+END:VCALENDAR

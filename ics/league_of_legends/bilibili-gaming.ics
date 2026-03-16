@@ -54,6 +54,17 @@ CLASS:PUBLIC
 DESCRIPTION:First Stand - 2026 - Group A\nWatch: https://www.twitch.tv/riot
  games
 SUMMARY:BLG vs BFX
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T130000Z
+UID:pandascore-match-1384022@esport-ics
+DTSTART:20260318T130000Z
+DTEND:20260318T164500Z
+CLASS:PUBLIC
+DESCRIPTION:First Stand - 2026 - Group A\nWatch: https://www.twitch.tv/riot
+ games
+SUMMARY:Winners match: BLG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

@@ -32,7 +32,9 @@ DTSTART:20260316T180000Z
 DTEND:20260316T201500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/eslcs
 SUMMARY:Upper bracket round 1 match 14: URSA vs BIG.A
+URL;VALUE=URI:https://www.twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260317T090000Z
@@ -44,6 +46,17 @@ DESCRIPTION:United21 - Season 46 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Winners match: BIG.A vs B8 Academy
 URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T090000Z
+UID:pandascore-match-1401480@esport-ics
+DTSTART:20260318T090000Z
+DTEND:20260318T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:BIG.A vs Vexar
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260318T090000Z

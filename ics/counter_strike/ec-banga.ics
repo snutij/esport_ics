@@ -180,6 +180,28 @@ DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 12: EC BANGA vs AIRLYA
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260317T103000Z
+UID:pandascore-match-1401739@esport-ics
+DTSTART:20260317T103000Z
+DTEND:20260317T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 1: beha vs EC BANGA
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T113000Z
+UID:pandascore-match-1401546@esport-ics
+DTSTART:20260317T113000Z
+DTEND:20260317T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group B\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:EC BANGA vs Basement Bobs
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260317T180000Z
 UID:pandascore-match-1398031@esport-ics
 DTSTART:20260317T180000Z
