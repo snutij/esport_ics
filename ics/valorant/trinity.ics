@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Southeast Asia: Split 1 2026 - Group B\nWatch: https://ww
  w.twitch.tv/valorant_pacific
 SUMMARY:AE vs TRN
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T090000Z
+UID:pandascore-match-1401218@esport-ics
+DTSTART:20260317T090000Z
+DTEND:20260317T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Southeast Asia: Split 1 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/valorant_pacific
+SUMMARY:Tiebreaker: AE vs TRN
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR

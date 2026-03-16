@@ -17,6 +17,17 @@ SUMMARY:EF.36 vs NYAM
 URL:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260317T120000Z
+UID:pandascore-match-1400515@esport-ics
+DTSTART:20260317T120000Z
+DTEND:20260317T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:Tokyo Ta1yo's vs NYAM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260330T120000Z
 UID:pandascore-match-1400524@esport-ics
 DTSTART:20260330T120000Z
