@@ -269,4 +269,15 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Group
 SUMMARY:Winners match: BBP vs FUZOS
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T120000Z
+UID:pandascore-match-1398624@esport-ics
+DTSTART:20260320T120000Z
+DTEND:20260320T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Group
+  B\nWatch: https://kick.com/cct_cs
+SUMMARY:Decider match: 8S vs FUZOS
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR

@@ -157,7 +157,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/krl_stream
 SUMMARY:Upper bracket round 2 match 7: G1 vs rottweilers
-URL;VALUE=URI:https://www.twitch.tv/krl_stream
+URL:https://www.twitch.tv/krl_stream
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260318T120000Z
@@ -169,5 +169,14 @@ DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 1: G1 vs MANA
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T180000Z
+UID:pandascore-match-1398045@esport-ics
+DTSTART:20260318T180000Z
+DTEND:20260318T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 10: G1 vs SINQU
 END:VEVENT
 END:VCALENDAR

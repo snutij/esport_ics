@@ -210,7 +210,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/tavarescs2
 SUMMARY:Upper bracket round 2 match  6: RBLS vs RE
-URL;VALUE=URI:https://www.twitch.tv/tavarescs2
+URL:https://www.twitch.tv/tavarescs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260317T180000Z
@@ -230,6 +230,6 @@ DTSTART:20260318T180000Z
 DTEND:20260318T201500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
-SUMMARY:Lower bracket round 1 match 11: RE vs TBD
+SUMMARY:Lower bracket round 1 match 11: RE vs hindsight
 END:VEVENT
 END:VCALENDAR
