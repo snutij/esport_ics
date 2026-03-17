@@ -77,6 +77,83 @@ CLASS:PUBLIC
 DESCRIPTION:Americas Cup - 2026 - Playoffs\nWatch: https://www.twitch.tv/cb
  lol
 SUMMARY:Lower bracket final: SEN vs C9
-URL;VALUE=URI:https://www.twitch.tv/cblol
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T230000Z
+UID:pandascore-match-1402311@esport-ics
+DTSTART:20260404T230000Z
+DTEND:20260405T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Spring 2026 - Group Stage\nWatch: https://www.twitch.tv/l
+ cs
+SUMMARY:SEN vs DSG
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T230000Z
+UID:pandascore-match-1402337@esport-ics
+DTSTART:20260412T230000Z
+DTEND:20260413T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Spring 2026 - Group Stage\nWatch: https://www.twitch.tv/l
+ cs
+SUMMARY:SEN vs C9
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T230000Z
+UID:pandascore-match-1402339@esport-ics
+DTSTART:20260418T230000Z
+DTEND:20260419T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Spring 2026 - Group Stage\nWatch: https://www.twitch.tv/l
+ cs
+SUMMARY:SEN vs FLY
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T230000Z
+UID:pandascore-match-1402373@esport-ics
+DTSTART:20260426T230000Z
+DTEND:20260427T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Spring 2026 - Group Stage\nWatch: https://www.twitch.tv/l
+ cs
+SUMMARY:TL vs SEN
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T200000Z
+UID:pandascore-match-1402388@esport-ics
+DTSTART:20260503T200000Z
+DTEND:20260503T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Spring 2026 - Group Stage\nWatch: https://www.twitch.tv/l
+ cs
+SUMMARY:LY vs SEN
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T200000Z
+UID:pandascore-match-1402390@esport-ics
+DTSTART:20260509T200000Z
+DTEND:20260509T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Spring 2026 - Group Stage\nWatch: https://www.twitch.tv/l
+ cs
+SUMMARY:SR vs SEN
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T200000Z
+UID:pandascore-match-1402418@esport-ics
+DTSTART:20260517T200000Z
+DTEND:20260517T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Spring 2026 - Group Stage\nWatch: https://www.twitch.tv/l
+ cs
+SUMMARY:SEN vs DIG
+URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR
