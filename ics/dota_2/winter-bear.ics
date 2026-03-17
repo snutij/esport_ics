@@ -171,6 +171,17 @@ SUMMARY:WB vs DGS
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260317T100000Z
+UID:pandascore-match-1384444@esport-ics
+DTSTART:20260317T100000Z
+DTEND:20260317T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:WB vs LVLUP
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260318T100000Z
 UID:pandascore-match-1384435@esport-ics
 DTSTART:20260318T100000Z
@@ -179,17 +190,6 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 35 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:RE vs WB
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260320T160000Z
-UID:pandascore-match-1384444@esport-ics
-DTSTART:20260320T160000Z
-DTEND:20260320T181500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 35 2026 - Group B\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:LVLUP vs WB
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT

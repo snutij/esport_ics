@@ -25,6 +25,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Pacific Kickoff 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/valorant_pacific
 SUMMARY:Lower bracket semifinal: PR vs DFM
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T110000Z
+UID:pandascore-match-1402218@esport-ics
+DTSTART:20260404T110000Z
+DTEND:20260404T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Omega\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:FS vs DFM
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T090000Z
+UID:pandascore-match-1402221@esport-ics
+DTSTART:20260410T090000Z
+DTEND:20260410T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Omega\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:DFM vs T1
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T110000Z
+UID:pandascore-match-1402230@esport-ics
+DTSTART:20260418T110000Z
+DTEND:20260418T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Omega\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:ZETA vs DFM
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T110000Z
+UID:pandascore-match-1402236@esport-ics
+DTSTART:20260425T110000Z
+DTEND:20260425T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Omega\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:DFM vs VARREL
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T110000Z
+UID:pandascore-match-1402244@esport-ics
+DTSTART:20260503T110000Z
+DTEND:20260503T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Omega\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:RRQ vs DFM
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR

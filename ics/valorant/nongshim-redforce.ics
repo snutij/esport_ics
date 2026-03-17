@@ -58,6 +58,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant
 SUMMARY:Grand final: NS vs PR
-URL;VALUE=URI:https://www.twitch.tv/valorant
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T090000Z
+UID:pandascore-match-1402217@esport-ics
+DTSTART:20260404T090000Z
+DTEND:20260404T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:NS vs PR
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T110000Z
+UID:pandascore-match-1402222@esport-ics
+DTSTART:20260410T110000Z
+DTEND:20260410T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:NS vs DRX
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T110000Z
+UID:pandascore-match-1402232@esport-ics
+DTSTART:20260419T110000Z
+DTEND:20260419T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:NS vs Gen.G
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T110000Z
+UID:pandascore-match-1402238@esport-ics
+DTSTART:20260426T110000Z
+DTEND:20260426T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:NS vs TS
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T110000Z
+UID:pandascore-match-1402242@esport-ics
+DTSTART:20260502T110000Z
+DTEND:20260502T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:NS vs GE
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR
