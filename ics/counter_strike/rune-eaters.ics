@@ -199,7 +199,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs2
 SUMMARY:Round 16 match 4: ICE vs RE
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260317T140000Z
@@ -222,5 +222,14 @@ DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 1: Leo vs RE
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T180000Z
+UID:pandascore-match-1398046@esport-ics
+DTSTART:20260318T180000Z
+DTEND:20260318T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 11: RE vs TBD
 END:VEVENT
 END:VCALENDAR
