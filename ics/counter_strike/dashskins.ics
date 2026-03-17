@@ -83,6 +83,17 @@ SUMMARY:Round 2: DS vs Back to Back
 URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260318T220000Z
+UID:pandascore-match-1394906@esport-ics
+DTSTART:20260318T220000Z
+DTEND:20260319T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #10 season 3 2026 - Group Stage\nWat
+ ch: https://kick.com/cct_cs3
+SUMMARY:Round 3: DS vs CRASH
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260320T220000Z
 UID:pandascore-match-1397654@esport-ics
 DTSTART:20260320T220000Z
