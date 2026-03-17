@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs2
 SUMMARY:Round 16 match 8: FC vs ex-RUBY
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T180000Z
+UID:pandascore-match-1381291@esport-ics
+DTSTART:20260319T180000Z
+DTEND:20260319T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs2
+SUMMARY:Quarterfinal 4: FC vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

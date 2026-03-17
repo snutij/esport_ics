@@ -105,6 +105,17 @@ SUMMARY:ILL vs DGS
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260319T180000Z
+UID:pandascore-match-1401111@esport-ics
+DTSTART:20260319T180000Z
+DTEND:20260319T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Tennisi Stampede Champions - Season 2 2026 - Group Stage\nWatch
+ : https://www.twitch.tv/pingerpro
+SUMMARY:Round 2: TS.A vs ILL
+URL;VALUE=URI:https://www.twitch.tv/pingerpro
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260320T160000Z
 UID:pandascore-match-1384431@esport-ics
 DTSTART:20260320T160000Z

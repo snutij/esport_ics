@@ -177,6 +177,17 @@ CLASS:PUBLIC
 DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group B\nWatch: https://www.twi
  tch.tv/betboom_dota_ru
 SUMMARY:TS.A vs  Pipsqueak+4
-URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+URL:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T180000Z
+UID:pandascore-match-1401111@esport-ics
+DTSTART:20260319T180000Z
+DTEND:20260319T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Tennisi Stampede Champions - Season 2 2026 - Group Stage\nWatch
+ : https://www.twitch.tv/pingerpro
+SUMMARY:Round 2: TS.A vs ILL
+URL;VALUE=URI:https://www.twitch.tv/pingerpro
 END:VEVENT
 END:VCALENDAR
