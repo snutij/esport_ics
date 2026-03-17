@@ -268,6 +268,17 @@ SUMMARY:Round 2: ISG vs Charrados
 URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260317T190000Z
+UID:pandascore-match-1394901@esport-ics
+DTSTART:20260317T190000Z
+DTEND:20260317T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #10 season 3 2026 - Group Stage\nWat
+ ch: https://kick.com/cct_cs3
+SUMMARY:Round 3: ISG vs GE
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260320T220000Z
 UID:pandascore-match-1397653@esport-ics
 DTSTART:20260320T220000Z

@@ -302,6 +302,17 @@ SUMMARY:Round 2: FA vs HWGA
 URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260317T130000Z
+UID:pandascore-match-1394899@esport-ics
+DTSTART:20260317T130000Z
+DTEND:20260317T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #10 season 3 2026 - Group Stage\nWat
+ ch: https://kick.com/cct_cs3
+SUMMARY:Round 3: FA vs R2
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260320T220000Z
 UID:pandascore-match-1397649@esport-ics
 DTSTART:20260320T220000Z

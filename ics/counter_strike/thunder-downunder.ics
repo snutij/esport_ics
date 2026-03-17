@@ -216,6 +216,15 @@ CLASS:PUBLIC
 DESCRIPTION:ANZC Locals - Brisbane: Autumn 2026 - Playoffs\nWatch: https://
  www.twitch.tv/dfragtv
 SUMMARY:Upper bracket semifinal 2: THUNDER dOWNUNDER vs Arcade Esports
-URL;VALUE=URI:https://www.twitch.tv/dfragtv
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T073000Z
+UID:pandascore-match-1396293@esport-ics
+DTSTART:20260317T073000Z
+DTEND:20260317T094500Z
+CLASS:PUBLIC
+DESCRIPTION:ANZC Locals - Brisbane: Autumn 2026 - Playoffs
+SUMMARY:Grand final: THUNDER dOWNUNDER vs TBD
 END:VEVENT
 END:VCALENDAR
