@@ -118,6 +118,15 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/roman
 SUMMARY:Grand final: OG vs NIP
-URL;VALUE=URI:https://www.twitch.tv/roman
+URL:https://www.twitch.tv/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T113000Z
+UID:pandascore-match-1403629@esport-ics
+DTSTART:20260324T113000Z
+DTEND:20260324T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group D
+SUMMARY:ICE vs OG
 END:VEVENT
 END:VCALENDAR

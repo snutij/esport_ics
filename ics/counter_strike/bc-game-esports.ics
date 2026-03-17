@@ -157,4 +157,15 @@ DESCRIPTION:Journey - Spring 2026 - Group C\nWatch: https://www.twitch.tv/j
 SUMMARY:BCG vs vsters
 URL;VALUE=URI:https://www.twitch.tv/journey_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T140000Z
+UID:pandascore-match-1398107@esport-ics
+DTSTART:20260325T140000Z
+DTEND:20260325T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Journey - Spring 2026 - Group C\nWatch: https://www.twitch.tv/j
+ ourney_cs2
+SUMMARY:Elimination match: BCG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/journey_cs2
+END:VEVENT
 END:VCALENDAR
