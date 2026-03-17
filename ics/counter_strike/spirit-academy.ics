@@ -92,6 +92,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
  .com/cct-cs5
 SUMMARY:Lower bracket round 3 match 2: TS.A vs ENJOY
-URL;VALUE=URI:https://kick.com/cct-cs5
+URL:https://kick.com/cct-cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T193000Z
+UID:pandascore-match-1401802@esport-ics
+DTSTART:20260317T193000Z
+DTEND:20260317T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 1: EF.A vs TS.A
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

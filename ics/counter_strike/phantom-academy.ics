@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 22 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 5: Imperial.A vs  Phantom Academy
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T163000Z
+UID:pandascore-match-1401801@esport-ics
+DTSTART:20260317T163000Z
+DTEND:20260317T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 1: AK vs  Phantom Academy
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
