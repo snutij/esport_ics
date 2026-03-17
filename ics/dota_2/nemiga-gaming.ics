@@ -17,6 +17,17 @@ SUMMARY:L1GA vs Nemiga
 URL:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260318T110000Z
+UID:pandascore-match-1400591@esport-ics
+DTSTART:20260318T110000Z
+DTEND:20260318T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group B\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY:Z10 vs Nemiga
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260318T160000Z
 UID:pandascore-match-1384437@esport-ics
 DTSTART:20260318T160000Z
