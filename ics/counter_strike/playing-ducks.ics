@@ -17,17 +17,6 @@ SUMMARY:FROX vs Ducks
 URL:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260318T190000Z
-UID:pandascore-match-1385724@esport-ics
-DTSTART:20260318T190000Z
-DTEND:20260318T211500Z
-CLASS:PUBLIC
-DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
- ww.twitch.tv/dachcs
-SUMMARY:BIG.A vs Ducks
-URL;VALUE=URI:https://www.twitch.tv/dachcs
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260401T180000Z
 UID:pandascore-match-1385730@esport-ics
 DTSTART:20260401T180000Z
@@ -36,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/dachcs
 SUMMARY:Ducks vs BERG
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T180000Z
+UID:pandascore-match-1385724@esport-ics
+DTSTART:20260408T180000Z
+DTEND:20260408T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:BIG.A vs Ducks
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
