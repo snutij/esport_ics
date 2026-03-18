@@ -529,7 +529,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Group
   D\nWatch: https://kick.com/cct_cs
 SUMMARY:MSC vs Supernova
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260318T180000Z
@@ -539,5 +539,16 @@ DTEND:20260318T201500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 13: ENCE.A vs MSC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T120000Z
+UID:pandascore-match-1398769@esport-ics
+DTSTART:20260319T120000Z
+DTEND:20260319T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Group
+  D\nWatch: https://kick.com/cct_cs
+SUMMARY:Elimination match: MSC vs ex-Zero Tenacity
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
