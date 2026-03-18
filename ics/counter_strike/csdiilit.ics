@@ -590,7 +590,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Group
   C\nWatch: https://kick.com/cct_cs
 SUMMARY: CSDIILIT vs AIMC
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260318T140000Z
@@ -619,7 +619,18 @@ DTSTART:20260319T140000Z
 DTEND:20260319T161500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
-SUMMARY:Lower bracket round 2 match 1:  CSDIILIT vs TBD
+SUMMARY:Lower bracket round 2 match 1:  CSDIILIT vs UNiTY
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T150000Z
+UID:pandascore-match-1398743@esport-ics
+DTSTART:20260319T150000Z
+DTEND:20260319T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Group
+  C\nWatch: https://kick.com/cct_cs
+SUMMARY:Winners match: LILMIX vs  CSDIILIT
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260323T153000Z

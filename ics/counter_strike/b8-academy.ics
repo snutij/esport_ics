@@ -108,6 +108,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 46 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Winners match: BIG.A vs B8 Academy
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T113000Z
+UID:pandascore-match-1404787@esport-ics
+DTSTART:20260321T113000Z
+DTEND:20260321T134500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 46 2026 - Playoffs\nWatch: https://www.kick.c
+ om/united21_en
+SUMMARY:Upper bracket quarterfinal 4: TBD vs B8 Academy
+URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

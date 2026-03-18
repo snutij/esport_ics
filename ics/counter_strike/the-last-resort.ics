@@ -223,4 +223,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 8: TLR vs HERO.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T113000Z
+UID:pandascore-match-1401551@esport-ics
+DTSTART:20260319T113000Z
+DTEND:20260319T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group D\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:TLR vs Imperial.A
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

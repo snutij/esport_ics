@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Poker Face
+SLUG:poker-face
+BEGIN:VEVENT
+DTSTAMP:20260320T080000Z
+UID:pandascore-match-1404656@esport-ics
+DTSTART:20260320T080000Z
+DTEND:20260320T101500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:CB vs PF
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T060000Z
+UID:pandascore-match-1404662@esport-ics
+DTSTART:20260322T060000Z
+DTEND:20260322T081500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:PF vs NE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T093000Z
+UID:pandascore-match-1404666@esport-ics
+DTSTART:20260403T093000Z
+DTEND:20260403T114500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:PF vs ZETA
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T073000Z
+UID:pandascore-match-1404669@esport-ics
+DTSTART:20260404T073000Z
+DTEND:20260404T094500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:T1 vs PF
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T093000Z
+UID:pandascore-match-1404755@esport-ics
+DTSTART:20260410T093000Z
+DTEND:20260410T114500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:FAL vs PF
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T073000Z
+UID:pandascore-match-1404773@esport-ics
+DTSTART:20260412T073000Z
+DTEND:20260412T094500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:PF vs CR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T080000Z
+UID:pandascore-match-1404775@esport-ics
+DTSTART:20260417T080000Z
+DTEND:20260417T101500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:PF vs OSG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T060000Z
+UID:pandascore-match-1404781@esport-ics
+DTSTART:20260419T060000Z
+DTEND:20260419T081500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:ZAN vs PF
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+END:VCALENDAR

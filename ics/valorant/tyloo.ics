@@ -17,6 +17,17 @@ SUMMARY:Quarterfinal 2: TYLOO vs TEC
 URL:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260320T090000Z
+UID:pandascore-match-1400639@esport-ics
+DTSTART:20260320T090000Z
+DTEND:20260320T111500Z
+CLASS:PUBLIC
+DESCRIPTION:China Evolution Series - Act 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/valorantesports_cn
+SUMMARY:Semifinal 1: AQ vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260402T110000Z
 UID:pandascore-match-1399044@esport-ics
 DTSTART:20260402T110000Z

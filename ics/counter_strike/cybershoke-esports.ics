@@ -213,6 +213,17 @@ SUMMARY:Round 16 match 6: CS vs ACE
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260319T150000Z
+UID:pandascore-match-1381289@esport-ics
+DTSTART:20260319T150000Z
+DTEND:20260319T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs2
+SUMMARY:Quarterfinal 3: CS vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260324T113000Z
 UID:pandascore-match-1403624@esport-ics
 DTSTART:20260324T113000Z
