@@ -216,6 +216,17 @@ CLASS:PUBLIC
 DESCRIPTION:Aorus League - Brazil Online Stage 2026 - Group B\nWatch: https
  ://www.twitch.tv/aorusbr
 SUMMARY:Winners match: GLS vs BHE
+URL:https://www.twitch.tv/aorusbr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T213000Z
+UID:pandascore-match-1400316@esport-ics
+DTSTART:20260319T213000Z
+DTEND:20260319T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Aorus League - Brazil Online Stage 2026 - Group B\nWatch: https
+ ://www.twitch.tv/aorusbr
+SUMMARY:Decider match: GLS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/aorusbr
 END:VEVENT
 END:VCALENDAR
