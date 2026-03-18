@@ -105,6 +105,17 @@ SUMMARY:Upper bracket quarterfinal 2: FaZe vs AUR
 URL:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260320T133000Z
+UID:pandascore-match-1394935@esport-ics
+DTSTART:20260320T133000Z
+DTEND:20260320T154500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/BLASTPremier
+SUMMARY:Lower bracket quarterfinal 1: FaZe vs TBD
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260330T140000Z
 UID:pandascore-match-1403842@esport-ics
 DTSTART:20260330T140000Z
