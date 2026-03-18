@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 5 2026 - Group C\nWatch: https://kick.com/dra
  culancs
 SUMMARY:Elimination match: HEC vs INF
-URL;VALUE=URI:https://kick.com/draculancs
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T133000Z
+UID:pandascore-match-1403714@esport-ics
+DTSTART:20260318T133000Z
+DTEND:20260318T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 2: HEC vs VP.F
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
