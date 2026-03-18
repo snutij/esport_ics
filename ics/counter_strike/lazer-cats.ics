@@ -365,6 +365,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #17 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs
 SUMMARY:Round 4: LC vs NVQ
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T090000Z
+UID:pandascore-match-1403816@esport-ics
+DTSTART:20260329T090000Z
+DTEND:20260329T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Group A\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:LC vs AIMC
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR

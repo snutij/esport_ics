@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 23 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 5: PAR vs INF
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T090000Z
+UID:pandascore-match-1403820@esport-ics
+DTSTART:20260329T090000Z
+DTEND:20260329T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Group B\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:ICE vs PAR
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
