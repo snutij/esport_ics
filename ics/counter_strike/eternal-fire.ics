@@ -295,7 +295,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs2
 SUMMARY:Round 16 match 3: K27 vs EF
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260319T180000Z
@@ -314,5 +314,16 @@ DTEND:20260324T121500Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group C
 SUMMARY:CS vs EF
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T103000Z
+UID:pandascore-match-1403831@esport-ics
+DTSTART:20260329T103000Z
+DTEND:20260329T124500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Group D\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:EF vs DRAMA
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR

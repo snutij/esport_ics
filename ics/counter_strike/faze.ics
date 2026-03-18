@@ -104,4 +104,15 @@ DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Group A\nWatch: https://ww
 SUMMARY:Upper bracket quarterfinal 2: FaZe vs AUR
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T140000Z
+UID:pandascore-match-1403842@esport-ics
+DTSTART:20260330T140000Z
+DTEND:20260330T161500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Upper bracket round 1 match 7: FaZe vs TBD
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
 END:VCALENDAR

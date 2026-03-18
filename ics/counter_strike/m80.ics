@@ -176,4 +176,15 @@ DESCRIPTION:Journey - Spring 2026 - Group B\nWatch: https://www.twitch.tv/j
 SUMMARY:Winners match: M80 vs TBD
 URL;VALUE=URI:https://www.twitch.tv/journey_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T140000Z
+UID:pandascore-match-1403843@esport-ics
+DTSTART:20260330T140000Z
+DTEND:20260330T161500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Upper bracket round 1 match 8: TBD vs M80
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
 END:VCALENDAR

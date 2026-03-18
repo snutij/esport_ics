@@ -69,4 +69,15 @@ DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group A\nWatch: h
 SUMMARY:Elimination match: G2.A vs SINQU
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T103000Z
+UID:pandascore-match-1403827@esport-ics
+DTSTART:20260329T103000Z
+DTEND:20260329T124500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Group C\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:HAVU vs SINQU
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
 END:VCALENDAR
