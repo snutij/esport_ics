@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 1: 3DMAX.A vs EP
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T193000Z
+UID:pandascore-match-1404303@esport-ics
+DTSTART:20260319T193000Z
+DTEND:20260319T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 2: 3DMAX.A vs EF.A
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
