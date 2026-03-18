@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group C\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:BIG.A vs Vexar
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T090000Z
+UID:pandascore-match-1401515@esport-ics
+DTSTART:20260322T090000Z
+DTEND:20260322T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Elimination match: Supernova vs Vexar
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

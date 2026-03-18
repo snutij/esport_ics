@@ -39,6 +39,17 @@ SUMMARY:Lower bracket quartefinal 2: DRAMA vs YNG
 URL:https://www.kick.com/cct-cs5
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260326T183000Z
+UID:pandascore-match-1404877@esport-ics
+DTSTART:20260326T183000Z
+DTEND:20260326T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group D\nWat
+ ch: https://kick.com/starladder
+SUMMARY:HS vs DRAMA
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260329T103000Z
 UID:pandascore-match-1403831@esport-ics
 DTSTART:20260329T103000Z

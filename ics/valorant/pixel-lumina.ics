@@ -120,8 +120,10 @@ UID:pandascore-match-1395544@esport-ics
 DTSTART:20260319T183000Z
 DTEND:20260319T204500Z
 CLASS:PUBLIC
-DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group C
+DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group C\nWatch: https://www.twitch.t
+ v/valorant_emea
 SUMMARY:UCAM vs PL
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260321T160000Z
@@ -129,8 +131,10 @@ UID:pandascore-match-1395546@esport-ics
 DTSTART:20260321T160000Z
 DTEND:20260321T181500Z
 CLASS:PUBLIC
-DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group C
+DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group C\nWatch: https://www.twitch.t
+ v/valorant_emea
 SUMMARY:JL vs PL
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260322T160000Z
@@ -138,7 +142,9 @@ UID:pandascore-match-1395547@esport-ics
 DTSTART:20260322T160000Z
 DTEND:20260322T181500Z
 CLASS:PUBLIC
-DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group C
+DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group C\nWatch: https://www.twitch.t
+ v/valorant_emea
 SUMMARY:STS vs PL
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

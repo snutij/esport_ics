@@ -258,4 +258,15 @@ DESCRIPTION:United21 - Season 46 2026 - Group C\nWatch: https://kick.com/un
 SUMMARY:Decider match: Imperial.A vs LPH
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T183000Z
+UID:pandascore-match-1404865@esport-ics
+DTSTART:20260321T183000Z
+DTEND:20260321T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group B\nWat
+ ch: https://kick.com/starladder
+SUMMARY:ESC vs LPH
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
 END:VCALENDAR

@@ -36,7 +36,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
  .com/cct-cs5
 SUMMARY:Lower bracket round 2 match 1: Inner Circle Academy vs DAL
-URL;VALUE=URI:https://kick.com/cct-cs5
+URL:https://kick.com/cct-cs5
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260311T191500Z
@@ -48,5 +48,16 @@ DESCRIPTION:CCT Europe - Contenders #2 2026 - Playoffs\nWatch: https://kick
  .com/cct-cs5
 SUMMARY:Lower bracket round 2 match 4: M33 vs DAL
 URL:https://kick.com/cct-cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T160000Z
+UID:pandascore-match-1404876@esport-ics
+DTSTART:20260326T160000Z
+DTEND:20260326T181500Z
+CLASS:PUBLIC
+DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group D\nWat
+ ch: https://kick.com/starladder
+SUMMARY:ASTRAL vs DAL
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

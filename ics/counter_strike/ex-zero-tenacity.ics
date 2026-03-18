@@ -452,7 +452,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Group
   D\nWatch: https://kick.com/cct_cs
 SUMMARY:ex-Zero Tenacity vs YNG
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260318T180000Z
@@ -461,7 +461,9 @@ DTSTART:20260318T180000Z
 DTEND:20260318T201500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+ \nWatch: https://kick.com/r-nicolino
 SUMMARY:Lower bracket round 1 match 9: ex-Zero Tenacity vs PGE
+URL;VALUE=URI:https://kick.com/r-nicolino
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260318T180000Z

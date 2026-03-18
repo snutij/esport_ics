@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bigetron MY by VIT
+SLUG:bigetron-my-by-vit
+BEGIN:VEVENT
+DTSTAMP:20260404T063000Z
+UID:pandascore-match-1405013@esport-ics
+DTSTART:20260404T063000Z
+DTEND:20260404T084500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:IG vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T090000Z
+UID:pandascore-match-1405016@esport-ics
+DTSTART:20260405T090000Z
+DTEND:20260405T111500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:ACE vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T121500Z
+UID:pandascore-match-1405091@esport-ics
+DTSTART:20260410T121500Z
+DTEND:20260410T143000Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:SRG vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T090000Z
+UID:pandascore-match-1405126@esport-ics
+DTSTART:20260417T090000Z
+DTEND:20260417T111500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:FL vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T063000Z
+UID:pandascore-match-1405150@esport-ics
+DTSTART:20260418T063000Z
+DTEND:20260418T084500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:BTR vs REY
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T090000Z
+UID:pandascore-match-1405155@esport-ics
+DTSTART:20260424T090000Z
+DTEND:20260424T111500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:BTR vs VAM
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T121500Z
+UID:pandascore-match-1405199@esport-ics
+DTSTART:20260425T121500Z
+DTEND:20260425T143000Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:BTR vs RRQ.T
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T063000Z
+UID:pandascore-match-1405244@esport-ics
+DTSTART:20260502T063000Z
+DTEND:20260502T084500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:VAM vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T121500Z
+UID:pandascore-match-1405270@esport-ics
+DTSTART:20260508T121500Z
+DTEND:20260508T143000Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:RRQ.T vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T121500Z
+UID:pandascore-match-1405295@esport-ics
+DTSTART:20260510T121500Z
+DTEND:20260510T143000Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:BTR vs SRG
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T121500Z
+UID:pandascore-match-1405297@esport-ics
+DTSTART:20260515T121500Z
+DTEND:20260515T143000Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:BTR vs ACE
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T090000Z
+UID:pandascore-match-1405301@esport-ics
+DTSTART:20260517T090000Z
+DTEND:20260517T111500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:REY vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T090000Z
+UID:pandascore-match-1405303@esport-ics
+DTSTART:20260522T090000Z
+DTEND:20260522T111500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:BTR vs FL
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T121500Z
+UID:pandascore-match-1405307@esport-ics
+DTSTART:20260523T121500Z
+DTEND:20260523T143000Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:BTR vs IG
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+END:VCALENDAR
