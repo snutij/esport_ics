@@ -50,6 +50,17 @@ SUMMARY:Nemiga vs DGS
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260319T140000Z
+UID:pandascore-match-1400593@esport-ics
+DTSTART:20260319T140000Z
+DTEND:20260319T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group B\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY: Pipsqueak+4 vs Nemiga
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260320T190000Z
 UID:pandascore-match-1384445@esport-ics
 DTSTART:20260320T190000Z
