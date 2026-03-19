@@ -39,6 +39,17 @@ SUMMARY:Quarterfinal 4: BLG vs FPX
 URL:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260320T110000Z
+UID:pandascore-match-1400640@esport-ics
+DTSTART:20260320T110000Z
+DTEND:20260320T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China Evolution Series - Act 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/valorantesports_cn
+SUMMARY:Semifinal 2: JDG vs BLG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260402T110000Z
 UID:pandascore-match-1399044@esport-ics
 DTSTART:20260402T110000Z

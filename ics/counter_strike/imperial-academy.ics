@@ -267,7 +267,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 46 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: Imperial.A vs LPH
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260319T113000Z
@@ -278,6 +278,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group D\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:TLR vs Imperial.A
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T113000Z
+UID:pandascore-match-1401553@esport-ics
+DTSTART:20260323T113000Z
+DTEND:20260323T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group D\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Winners match: MANA vs Imperial.A
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

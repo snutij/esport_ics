@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 28 2026 - Stage 1 Group A\nWatch: https://
  www.twitch.tv/esl_dota2
 SUMMARY:PARI vs YB
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T120000Z
+UID:pandascore-match-1406209@esport-ics
+DTSTART:20260322T120000Z
+DTEND:20260322T133000Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group A\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:TY vs YB
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR
