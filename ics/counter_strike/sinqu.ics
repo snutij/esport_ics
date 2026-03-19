@@ -65,7 +65,9 @@ DTSTART:20260319T140000Z
 DTEND:20260319T161500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/titaanitv
 SUMMARY:Lower bracket round 2 match 5: SINQU vs ex-Zero Tenacity
+URL;VALUE=URI:https://www.twitch.tv/titaanitv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260320T090000Z
