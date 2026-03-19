@@ -175,6 +175,17 @@ DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 5: Imperial.A vs RT
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260321T191500Z
+UID:pandascore-match-1406911@esport-ics
+DTSTART:20260321T191500Z
+DTEND:20260321T213000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #3 2026 - Playoffs\nWatch: https://kick
+ .com/cct-cs5
+SUMMARY:Upper bracket round 1 match 7: NAVI.J vs RT
+URL;VALUE=URI:https://kick.com/cct-cs5
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260326T110000Z
 UID:pandascore-match-1398109@esport-ics
 DTSTART:20260326T110000Z

@@ -114,6 +114,17 @@ SUMMARY:Lower bracket round 2 match 7: ENCE.A vs BIG.A
 URL:https://www.twitch.tv/aes_daniel
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260320T090000Z
+UID:pandascore-match-1404784@esport-ics
+DTSTART:20260320T090000Z
+DTEND:20260320T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 46 2026 - Playoffs\nWatch: https://www.kick.c
+ om/united21_en
+SUMMARY:Upper bracket quarterfinal 1: INF vs BIG.A
+URL;VALUE=URI:https://www.kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260320T150000Z
 UID:pandascore-match-1398745@esport-ics
 DTSTART:20260320T150000Z

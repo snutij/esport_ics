@@ -149,6 +149,17 @@ SUMMARY:Upper bracket quarterfinal 3: TS vs TL
 URL:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260321T110000Z
+UID:pandascore-match-1394945@esport-ics
+DTSTART:20260321T110000Z
+DTEND:20260321T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/BLASTPremier
+SUMMARY:Lower bracket quarterfinal 2: NIP vs TL
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260330T110000Z
 UID:pandascore-match-1403839@esport-ics
 DTSTART:20260330T110000Z
