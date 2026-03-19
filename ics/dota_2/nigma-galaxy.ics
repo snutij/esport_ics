@@ -58,6 +58,83 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 3 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/esl_dota2
 SUMMARY:Lower bracket final: NGX vs Z10
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T171500Z
+UID:pandascore-match-1406296@esport-ics
+DTSTART:20260322T171500Z
+DTEND:20260322T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:OG vs NGX
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T194500Z
+UID:pandascore-match-1406301@esport-ics
+DTSTART:20260322T194500Z
+DTEND:20260322T211500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:NGX vs VP
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T171500Z
+UID:pandascore-match-1406304@esport-ics
+DTSTART:20260323T171500Z
+DTEND:20260323T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:AUR vs NGX
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T194500Z
+UID:pandascore-match-1406309@esport-ics
+DTSTART:20260323T194500Z
+DTEND:20260323T211500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:NGX vs FLC
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T171500Z
+UID:pandascore-match-1406313@esport-ics
+DTSTART:20260324T171500Z
+DTEND:20260324T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:NGX vs Xtreme
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T194500Z
+UID:pandascore-match-1406318@esport-ics
+DTSTART:20260324T194500Z
+DTEND:20260324T211500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:paiN vs NGX
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T144500Z
+UID:pandascore-match-1406321@esport-ics
+DTSTART:20260325T144500Z
+DTEND:20260325T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:TS vs NGX
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

@@ -302,4 +302,59 @@ DESCRIPTION:ESL One - Birmingham 2026 - Group A\nWatch: https://www.twitch.
 SUMMARY:Tundra vs BB
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T120000Z
+UID:pandascore-match-1406235@esport-ics
+DTSTART:20260323T120000Z
+DTEND:20260323T133000Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group A\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:PARI vs BB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T143000Z
+UID:pandascore-match-1406260@esport-ics
+DTSTART:20260323T143000Z
+DTEND:20260323T160000Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group A\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:MOUZ vs BB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T120000Z
+UID:pandascore-match-1406285@esport-ics
+DTSTART:20260324T120000Z
+DTEND:20260324T133000Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group A\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:YB vs BB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T143000Z
+UID:pandascore-match-1406288@esport-ics
+DTSTART:20260324T143000Z
+DTEND:20260324T160000Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group A\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:BB vs TY
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T120000Z
+UID:pandascore-match-1406292@esport-ics
+DTSTART:20260325T120000Z
+DTEND:20260325T133000Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group A\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:BB vs GL
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
 END:VCALENDAR

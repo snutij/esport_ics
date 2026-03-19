@@ -116,14 +116,91 @@ SUMMARY:Upper bracket final: 1WIN vs paiN
 URL:https://kick.com/cct_dota
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260319T150000Z
+DTSTAMP:20260319T160000Z
 UID:pandascore-match-1384008@esport-ics
-DTSTART:20260319T150000Z
-DTEND:20260319T171500Z
+DTSTART:20260319T160000Z
+DTEND:20260319T181500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT - Season 8 2026 - Playoffs\nWatch: https://kick.com/cct_dot
  a
 SUMMARY:Lower bracket final: paiN vs TBD
 URL;VALUE=URI:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T171500Z
+UID:pandascore-match-1406298@esport-ics
+DTSTART:20260322T171500Z
+DTEND:20260322T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:TS vs paiN
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T194500Z
+UID:pandascore-match-1406302@esport-ics
+DTSTART:20260322T194500Z
+DTEND:20260322T211500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:OG vs paiN
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T171500Z
+UID:pandascore-match-1406306@esport-ics
+DTSTART:20260323T171500Z
+DTEND:20260323T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:paiN vs Xtreme
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T194500Z
+UID:pandascore-match-1406310@esport-ics
+DTSTART:20260323T194500Z
+DTEND:20260323T211500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:VP vs paiN
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T171500Z
+UID:pandascore-match-1406314@esport-ics
+DTSTART:20260324T171500Z
+DTEND:20260324T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:paiN vs FLC
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T194500Z
+UID:pandascore-match-1406318@esport-ics
+DTSTART:20260324T194500Z
+DTEND:20260324T211500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:paiN vs NGX
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T144500Z
+UID:pandascore-match-1406323@esport-ics
+DTSTART:20260325T144500Z
+DTEND:20260325T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:AUR vs paiN
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

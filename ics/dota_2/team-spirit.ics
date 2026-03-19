@@ -168,6 +168,83 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 7 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/pgl_dota2
 SUMMARY:Lower bracket semifinal: Liquid vs TS
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T171500Z
+UID:pandascore-match-1406298@esport-ics
+DTSTART:20260322T171500Z
+DTEND:20260322T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:TS vs paiN
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T194500Z
+UID:pandascore-match-1406300@esport-ics
+DTSTART:20260322T194500Z
+DTEND:20260322T211500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:AUR vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T171500Z
+UID:pandascore-match-1406303@esport-ics
+DTSTART:20260323T171500Z
+DTEND:20260323T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:FLC vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T194500Z
+UID:pandascore-match-1406307@esport-ics
+DTSTART:20260323T194500Z
+DTEND:20260323T211500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:OG vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T171500Z
+UID:pandascore-match-1406312@esport-ics
+DTSTART:20260324T171500Z
+DTEND:20260324T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:VP vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T194500Z
+UID:pandascore-match-1406315@esport-ics
+DTSTART:20260324T194500Z
+DTEND:20260324T211500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:TS vs Xtreme
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T144500Z
+UID:pandascore-match-1406321@esport-ics
+DTSTART:20260325T144500Z
+DTEND:20260325T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
+ tv/esl_dota2
+SUMMARY:TS vs NGX
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR
