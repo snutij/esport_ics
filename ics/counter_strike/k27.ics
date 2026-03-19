@@ -311,7 +311,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/shemakaka
 SUMMARY:Upper bracket round 3 match 1: K27 vs G2.A
-URL;VALUE=URI:https://www.twitch.tv/shemakaka
+URL:https://www.twitch.tv/shemakaka
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260320T110000Z
@@ -321,7 +321,7 @@ DTEND:20260320T131500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs2
-SUMMARY:Semifinal 1: K27 vs URSA
+SUMMARY:Semifinal 1: URSA vs K27
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
