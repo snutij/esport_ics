@@ -292,6 +292,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/tavarescs2
 SUMMARY:Upper bracket round 3 match 3: RBLS vs TDK
-URL;VALUE=URI:https://www.twitch.tv/tavarescs2
+URL:https://www.twitch.tv/tavarescs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T180000Z
+UID:pandascore-match-1398062@esport-ics
+DTSTART:20260320T180000Z
+DTEND:20260320T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 3 match 3: MANA vs RBLS
 END:VEVENT
 END:VCALENDAR

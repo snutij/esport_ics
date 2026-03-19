@@ -329,6 +329,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/titaanitv
 SUMMARY:Upper bracket round 3 match 5: HAVU vs NEMI
-URL;VALUE=URI:https://www.twitch.tv/titaanitv
+URL:https://www.twitch.tv/titaanitv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T180000Z
+UID:pandascore-match-1398092@esport-ics
+DTSTART:20260321T180000Z
+DTEND:20260321T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 3: 1WIN vs NEMI
 END:VEVENT
 END:VCALENDAR
