@@ -73,8 +73,10 @@ UID:pandascore-match-1407081@esport-ics
 DTSTART:20260328T160000Z
 DTEND:20260328T181500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:LLL vs RED
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260404T160000Z
@@ -82,8 +84,10 @@ UID:pandascore-match-1407085@esport-ics
 DTSTART:20260404T160000Z
 DTEND:20260404T181500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:RED vs FXW7
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260406T190000Z
@@ -91,8 +95,10 @@ UID:pandascore-match-1407090@esport-ics
 DTSTART:20260406T190000Z
 DTEND:20260406T211500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:RED vs PNG
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260412T190000Z
@@ -100,8 +106,10 @@ UID:pandascore-match-1407094@esport-ics
 DTSTART:20260412T190000Z
 DTEND:20260412T211500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:LEV vs RED
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260420T190000Z
@@ -109,7 +117,31 @@ UID:pandascore-match-1407100@esport-ics
 DTSTART:20260420T190000Z
 DTEND:20260420T211500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:RED vs VKS
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T160000Z
+UID:pandascore-match-1407101@esport-ics
+DTSTART:20260425T160000Z
+DTEND:20260425T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:LOS vs RED
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T190000Z
+UID:pandascore-match-1407106@esport-ics
+DTSTART:20260502T190000Z
+DTEND:20260502T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:FUR vs RED
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

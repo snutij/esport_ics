@@ -193,6 +193,17 @@ SUMMARY:RE vs WB
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260320T160000Z
+UID:pandascore-match-1384451@esport-ics
+DTSTART:20260320T160000Z
+DTEND:20260320T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ILL vs WB
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260321T130000Z
 UID:pandascore-match-1384447@esport-ics
 DTSTART:20260321T130000Z
@@ -201,17 +212,6 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 35 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:WB vs Nemiga
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260322T130000Z
-UID:pandascore-match-1384451@esport-ics
-DTSTART:20260322T130000Z
-DTEND:20260322T151500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 35 2026 - Group B\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:ILL vs WB
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

@@ -179,6 +179,39 @@ CLASS:PUBLIC
 DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group A\nWatch: https://www.twi
  tch.tv/betboom_dota_ru
 SUMMARY:YeS vs Team Shpilit
+URL:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T110000Z
+UID:pandascore-match-1400584@esport-ics
+DTSTART:20260320T110000Z
+DTEND:20260320T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group A\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY:AVL vs YeS
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T080000Z
+UID:pandascore-match-1400589@esport-ics
+DTSTART:20260321T080000Z
+DTEND:20260321T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group A\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY:YeS vs RE
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T170000Z
+UID:pandascore-match-1400590@esport-ics
+DTSTART:20260321T170000Z
+DTEND:20260321T191500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group A\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY:VP.P vs YeS
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 END:VCALENDAR

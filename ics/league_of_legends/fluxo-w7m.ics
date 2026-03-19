@@ -11,8 +11,10 @@ UID:pandascore-match-1407084@esport-ics
 DTSTART:20260329T190000Z
 DTEND:20260329T211500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:FXW7 vs LEV
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260404T160000Z
@@ -20,8 +22,10 @@ UID:pandascore-match-1407085@esport-ics
 DTSTART:20260404T160000Z
 DTEND:20260404T181500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:RED vs FXW7
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260411T160000Z
@@ -29,8 +33,10 @@ UID:pandascore-match-1407091@esport-ics
 DTSTART:20260411T160000Z
 DTEND:20260411T181500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:VKS vs FXW7
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260418T190000Z
@@ -38,8 +44,10 @@ UID:pandascore-match-1407096@esport-ics
 DTSTART:20260418T190000Z
 DTEND:20260418T211500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:FXW7 vs LLL
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260419T160000Z
@@ -47,7 +55,31 @@ UID:pandascore-match-1407097@esport-ics
 DTSTART:20260419T160000Z
 DTEND:20260419T181500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:FXW7 vs FUR
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T190000Z
+UID:pandascore-match-1407102@esport-ics
+DTSTART:20260425T190000Z
+DTEND:20260425T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:PNG vs FXW7
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T160000Z
+UID:pandascore-match-1407107@esport-ics
+DTSTART:20260503T160000Z
+DTEND:20260503T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:FXW7 vs LOS
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

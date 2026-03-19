@@ -232,6 +232,39 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - Season 8 2026 - Playoffs\nWatch: https://kick.com/cct_dot
  a
 SUMMARY:Lower bracket final: paiN vs L1GA
-URL;VALUE=URI:https://kick.com/cct_dota
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T080000Z
+UID:pandascore-match-1400595@esport-ics
+DTSTART:20260320T080000Z
+DTEND:20260320T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group B\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY:L1GA vs Z10
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T113000Z
+UID:pandascore-match-1400596@esport-ics
+DTSTART:20260320T113000Z
+DTEND:20260320T134500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group B\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY:L1GA vs TS.A
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T130000Z
+UID:pandascore-match-1400599@esport-ics
+DTSTART:20260321T130000Z
+DTEND:20260321T151500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group B\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY:L1GA vs PIPS+4
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 END:VCALENDAR

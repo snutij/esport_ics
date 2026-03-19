@@ -41,8 +41,10 @@ UID:pandascore-match-1407084@esport-ics
 DTSTART:20260329T190000Z
 DTEND:20260329T211500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:FXW7 vs LEV
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260405T160000Z
@@ -50,8 +52,10 @@ UID:pandascore-match-1407087@esport-ics
 DTSTART:20260405T160000Z
 DTEND:20260405T181500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:LOS vs LEV
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260406T160000Z
@@ -59,8 +63,10 @@ UID:pandascore-match-1407089@esport-ics
 DTSTART:20260406T160000Z
 DTEND:20260406T181500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:FUR vs LEV
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260412T190000Z
@@ -68,8 +74,10 @@ UID:pandascore-match-1407094@esport-ics
 DTSTART:20260412T190000Z
 DTEND:20260412T211500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:LEV vs RED
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260420T160000Z
@@ -77,7 +85,31 @@ UID:pandascore-match-1407099@esport-ics
 DTSTART:20260420T160000Z
 DTEND:20260420T181500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 1 2026 - Regular Season
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
 SUMMARY:LLL vs LEV
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T190000Z
+UID:pandascore-match-1407104@esport-ics
+DTSTART:20260426T190000Z
+DTEND:20260426T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:LEV vs VKS
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T160000Z
+UID:pandascore-match-1407105@esport-ics
+DTSTART:20260502T160000Z
+DTEND:20260502T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:LEV vs PNG
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR
