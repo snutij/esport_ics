@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty Challengers - North America Elite Stage 2 2026 - P
  layoffs\nWatch: https://www.youtube.com/watch?v=_uA_d5doFRc
 SUMMARY:Upper bracket final: BUSH vs LVF
-URL;VALUE=URI:https://www.youtube.com/watch?v=_uA_d5doFRc
+URL:https://www.youtube.com/watch?v=_uA_d5doFRc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T000000Z
+UID:pandascore-match-1396185@esport-ics
+DTSTART:20260320T000000Z
+DTEND:20260320T051500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty Challengers - North America Elite Stage 2 2026 - P
+ layoffs\nWatch: https://www.youtube.com/codchallengers/live
+SUMMARY:Grand final: BUSH vs TBD
+URL;VALUE=URI:https://www.youtube.com/codchallengers/live
 END:VEVENT
 END:VCALENDAR

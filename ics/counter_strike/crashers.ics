@@ -244,4 +244,15 @@ DESCRIPTION:Aorus League - Brazil Online Stage 2026 - Group A\nWatch: https
 SUMMARY:Decider match: CRASH vs BST.A
 URL;VALUE=URI:https://www.twitch.tv/aorusbr
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T210000Z
+UID:pandascore-match-1394912@esport-ics
+DTSTART:20260320T210000Z
+DTEND:20260320T231500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #10 season 3 2026 - Group Stage\nWat
+ ch: https://kick.com/cct_cs3
+SUMMARY:Round 4: CRASH vs Back to Back 
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR

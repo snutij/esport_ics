@@ -233,6 +233,17 @@ DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 11: hindsight vs RE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260319T090000Z
+UID:pandascore-match-1389775@esport-ics
+DTSTART:20260319T090000Z
+DTEND:20260319T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 2: RE vs TLR
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260319T140000Z
 UID:pandascore-match-1398057@esport-ics
 DTSTART:20260319T140000Z

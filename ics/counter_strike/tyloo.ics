@@ -68,6 +68,17 @@ SUMMARY:Upper bracket quarterfinal 1: FURIA vs TYLOO
 URL:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260320T133000Z
+UID:pandascore-match-1394935@esport-ics
+DTSTART:20260320T133000Z
+DTEND:20260320T154500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/BLASTPremier
+SUMMARY:Lower bracket quarterfinal 1: FaZe vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260321T070000Z
 UID:pandascore-match-1400357@esport-ics
 DTSTART:20260321T070000Z
