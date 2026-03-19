@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gorilla's Disciples
+SLUG:gorilla-s-disciples
+BEGIN:VEVENT
+DTSTAMP:20260321T230000Z
+UID:pandascore-match-1406989@esport-ics
+DTSTART:20260321T230000Z
+DTEND:20260322T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 1 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:TL vs GODI
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T230000Z
+UID:pandascore-match-1406991@esport-ics
+DTSTART:20260322T230000Z
+DTEND:20260323T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 1 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:LUNEX vs GODI
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T230000Z
+UID:pandascore-match-1406993@esport-ics
+DTSTART:20260328T230000Z
+DTEND:20260329T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 1 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DIS vs GODI
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T213000Z
+UID:pandascore-match-1406995@esport-ics
+DTSTART:20260329T213000Z
+DTEND:20260329T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 1 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:SSG vs GODI
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T213000Z
+UID:pandascore-match-1407001@esport-ics
+DTSTART:20260405T213000Z
+DTEND:20260405T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 1 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs GODI
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+END:VCALENDAR

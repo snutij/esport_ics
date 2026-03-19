@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Twisted Minds
+SLUG:twisted-minds
+BEGIN:VEVENT
+DTSTAMP:20260321T183000Z
+UID:pandascore-match-1407004@esport-ics
+DTSTART:20260321T183000Z
+DTEND:20260321T204500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:TM vs PEPS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T170000Z
+UID:pandascore-match-1407005@esport-ics
+DTSTART:20260322T170000Z
+DTEND:20260322T191500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:TM vs GE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T183000Z
+UID:pandascore-match-1407009@esport-ics
+DTSTART:20260328T183000Z
+DTEND:20260328T204500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:TM vs AL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T170000Z
+UID:pandascore-match-1407013@esport-ics
+DTSTART:20260404T170000Z
+DTEND:20260404T191500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:Al Qadsiah vs TM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T170000Z
+UID:pandascore-match-1407016@esport-ics
+DTSTART:20260405T170000Z
+DTEND:20260405T191500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:VP vs TM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+END:VCALENDAR

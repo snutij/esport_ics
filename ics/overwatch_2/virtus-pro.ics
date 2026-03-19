@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Virtus.pro
+SLUG:virtus-pro
+BEGIN:VEVENT
+DTSTAMP:20260321T170000Z
+UID:pandascore-match-1407003@esport-ics
+DTSTART:20260321T170000Z
+DTEND:20260321T191500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:VP vs Al Qadsiah
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T183000Z
+UID:pandascore-match-1407006@esport-ics
+DTSTART:20260322T183000Z
+DTEND:20260322T204500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:VP vs AL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T200000Z
+UID:pandascore-match-1407010@esport-ics
+DTSTART:20260328T200000Z
+DTEND:20260328T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:VP vs PEPS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T200000Z
+UID:pandascore-match-1407015@esport-ics
+DTSTART:20260404T200000Z
+DTEND:20260404T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:VP vs GE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T170000Z
+UID:pandascore-match-1407016@esport-ics
+DTSTART:20260405T170000Z
+DTEND:20260405T191500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:VP vs TM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+END:VCALENDAR

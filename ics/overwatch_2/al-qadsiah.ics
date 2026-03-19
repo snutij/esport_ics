@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Al Qadsiah
+SLUG:al-qadsiah
+BEGIN:VEVENT
+DTSTAMP:20260321T170000Z
+UID:pandascore-match-1407003@esport-ics
+DTSTART:20260321T170000Z
+DTEND:20260321T191500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:VP vs Al Qadsiah
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T200000Z
+UID:pandascore-match-1407007@esport-ics
+DTSTART:20260322T200000Z
+DTEND:20260322T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:Al Qadsiah vs PEPS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T170000Z
+UID:pandascore-match-1407008@esport-ics
+DTSTART:20260328T170000Z
+DTEND:20260328T191500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:Al Qadsiah vs GE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T183000Z
+UID:pandascore-match-1407012@esport-ics
+DTSTART:20260329T183000Z
+DTEND:20260329T204500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:Al Qadsiah vs AL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T170000Z
+UID:pandascore-match-1407013@esport-ics
+DTSTART:20260404T170000Z
+DTEND:20260404T191500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:Al Qadsiah vs TM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+END:VCALENDAR

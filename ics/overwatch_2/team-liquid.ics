@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Liquid
+SLUG:team-liquid
+BEGIN:VEVENT
+DTSTAMP:20260321T230000Z
+UID:pandascore-match-1406989@esport-ics
+DTSTART:20260321T230000Z
+DTEND:20260322T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 1 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:TL vs GODI
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T213000Z
+UID:pandascore-match-1406992@esport-ics
+DTSTART:20260328T213000Z
+DTEND:20260328T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 1 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:TL vs DAL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T230000Z
+UID:pandascore-match-1406996@esport-ics
+DTSTART:20260329T230000Z
+DTEND:20260330T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 1 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DIS vs TL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T230000Z
+UID:pandascore-match-1406998@esport-ics
+DTSTART:20260404T230000Z
+DTEND:20260405T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 1 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:TL vs LUNEX
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T230000Z
+UID:pandascore-match-1407002@esport-ics
+DTSTART:20260405T230000Z
+DTEND:20260406T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 1 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:SSG vs TL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+END:VCALENDAR
