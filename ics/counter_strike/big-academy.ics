@@ -92,10 +92,10 @@ SUMMARY:Elimination match: BIG.A vs AIMC
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260319T113000Z
+DTSTAMP:20260319T120000Z
 UID:pandascore-match-1392367@esport-ics
-DTSTART:20260319T113000Z
-DTEND:20260319T134500Z
+DTSTART:20260319T120000Z
+DTEND:20260319T141500Z
 CLASS:PUBLIC
 DESCRIPTION:United21 - Season 46 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
@@ -112,6 +112,17 @@ DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/aes_daniel
 SUMMARY:Lower bracket round 2 match 7: ENCE.A vs BIG.A
 URL;VALUE=URI:https://www.twitch.tv/aes_daniel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T150000Z
+UID:pandascore-match-1398745@esport-ics
+DTSTART:20260320T150000Z
+DTEND:20260320T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Group
+  C\nWatch: https://kick.com/cct_cs
+SUMMARY:Decider match: BIG.A vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260322T113000Z
