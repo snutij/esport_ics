@@ -202,6 +202,17 @@ SUMMARY:L1GA vs TS.A
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260320T150000Z
+UID:pandascore-match-1401112@esport-ics
+DTSTART:20260320T150000Z
+DTEND:20260320T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Tennisi Stampede Champions - Season 2 2026 - Group Stage\nWatch
+ : https://www.twitch.tv/pingerpro
+SUMMARY:Round 3: Peak vs TS.A
+URL;VALUE=URI:https://www.twitch.tv/pingerpro
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260321T110000Z
 UID:pandascore-match-1400598@esport-ics
 DTSTART:20260321T110000Z
