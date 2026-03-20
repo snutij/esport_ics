@@ -65,6 +65,17 @@ CLASS:PUBLIC
 DESCRIPTION:First Stand - 2026 - Group A\nWatch: https://www.twitch.tv/riot
  games
 SUMMARY:Winners match: BLG vs G2
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T180000Z
+UID:pandascore-match-1384015@esport-ics
+DTSTART:20260321T180000Z
+DTEND:20260321T214500Z
+CLASS:PUBLIC
+DESCRIPTION:First Stand - 2026 - Playoffs\nWatch: https://www.twitch.tv/rio
+ tgames
+SUMMARY:Semifinal 2: BLG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR
