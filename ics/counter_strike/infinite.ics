@@ -50,6 +50,17 @@ SUMMARY:Lower bracket round 1 match 1: BCA vs INF
 URL:https://kick.com/draculancsc
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260323T090000Z
+UID:pandascore-match-1404788@esport-ics
+DTSTART:20260323T090000Z
+DTEND:20260323T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 46 2026 - Playoffs\nWatch: https://www.kick.c
+ om/united21_en
+SUMMARY:Upper bracket semifinal 1: BIG.A vs INF
+URL;VALUE=URI:https://www.kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260329T103000Z
 UID:pandascore-match-1403832@esport-ics
 DTSTART:20260329T103000Z
