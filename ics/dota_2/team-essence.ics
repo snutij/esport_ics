@@ -103,17 +103,6 @@ SUMMARY:CR vs ESS
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260320T100000Z
-UID:pandascore-match-1384144@esport-ics
-DTSTART:20260320T100000Z
-DTEND:20260320T121500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:ESS vs CARST
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260321T070000Z
 UID:pandascore-match-1384138@esport-ics
 DTSTART:20260321T070000Z
@@ -122,6 +111,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:ESS vs YG
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T070000Z
+UID:pandascore-match-1384144@esport-ics
+DTSTART:20260322T070000Z
+DTEND:20260322T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:ESS vs CARST
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

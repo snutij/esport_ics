@@ -253,6 +253,17 @@ DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 3: EC BANGA vs MANA
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260320T103000Z
+UID:pandascore-match-1407194@esport-ics
+DTSTART:20260320T103000Z
+DTEND:20260320T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 3: EC BANGA vs JUMBO
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260321T090000Z
 UID:pandascore-match-1401547@esport-ics
 DTSTART:20260321T090000Z
