@@ -141,6 +141,17 @@ SUMMARY:Winners match: YNG vs Supernova
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260321T150000Z
+UID:pandascore-match-1398802@esport-ics
+DTSTART:20260321T150000Z
+DTEND:20260321T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Play-
+ In\nWatch: https://kick.com/cct_cs
+SUMMARY:YNG vs QWE
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260322T163000Z
 UID:pandascore-match-1406905@esport-ics
 DTSTART:20260322T163000Z

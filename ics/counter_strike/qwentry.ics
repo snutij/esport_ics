@@ -626,6 +626,28 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 2 : MEGO vs QWE
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T150000Z
+UID:pandascore-match-1398802@esport-ics
+DTSTART:20260321T150000Z
+DTEND:20260321T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Play-
+ In\nWatch: https://kick.com/cct_cs
+SUMMARY:YNG vs QWE
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T120000Z
+UID:pandascore-match-1389788@esport-ics
+DTSTART:20260322T120000Z
+DTEND:20260322T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 3: RE vs QWE
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

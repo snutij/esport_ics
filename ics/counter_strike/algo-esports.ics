@@ -206,6 +206,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 2: RBLS vs ALGO
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T120000Z
+UID:pandascore-match-1389784@esport-ics
+DTSTART:20260321T120000Z
+DTEND:20260321T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 3: AM vs ALGO
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
