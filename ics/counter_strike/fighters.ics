@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group A\nWat
  ch: https://kick.com/starladder
 SUMMARY:KOL vs FGT
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T183000Z
+UID:pandascore-match-1404826@esport-ics
+DTSTART:20260322T183000Z
+DTEND:20260322T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group A\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Elimination match: Diamant Esports vs FGT
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
