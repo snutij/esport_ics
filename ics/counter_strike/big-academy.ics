@@ -147,6 +147,17 @@ SUMMARY:Winners match: EXSAD Gaming vs BIG.A
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260323T090000Z
+UID:pandascore-match-1404788@esport-ics
+DTSTART:20260323T090000Z
+DTEND:20260323T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 46 2026 - Playoffs\nWatch: https://www.kick.c
+ om/united21_en
+SUMMARY:Upper bracket semifinal 1: BIG.A vs TBD
+URL;VALUE=URI:https://www.kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260323T190000Z
 UID:pandascore-match-1385729@esport-ics
 DTSTART:20260323T190000Z
@@ -155,17 +166,6 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/dachcs
 SUMMARY:REV vs BIG.A
-URL;VALUE=URI:https://www.twitch.tv/dachcs
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260327T190000Z
-UID:pandascore-match-1385744@esport-ics
-DTSTART:20260327T190000Z
-DTEND:20260327T211500Z
-CLASS:PUBLIC
-DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
- ww.twitch.tv/dachcs
-SUMMARY:BIG.A vs HUSK
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
@@ -210,6 +210,17 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/dachcs
 SUMMARY:BIG.A vs R4G
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T180000Z
+UID:pandascore-match-1385744@esport-ics
+DTSTART:20260427T180000Z
+DTEND:20260427T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:BIG.A vs HUSK
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT

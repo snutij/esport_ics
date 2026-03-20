@@ -287,4 +287,15 @@ DESCRIPTION:United21 - Season 46 2026 - Playoffs\nWatch: https://www.kick.c
 SUMMARY:Upper bracket quarterfinal 3: UNiTY vs G2.A
 URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T090000Z
+UID:pandascore-match-1401479@esport-ics
+DTSTART:20260325T090000Z
+DTEND:20260325T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: G2.A vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
