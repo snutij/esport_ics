@@ -255,4 +255,15 @@ DESCRIPTION:CCT Europe - Contenders #3 2026 - Playoffs\nWatch: https://kick
 SUMMARY:Upper bracket round 1 match 4: XI vs BL
 URL;VALUE=URI:https://kick.com/cct-cs5
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T090000Z
+UID:pandascore-match-1401479@esport-ics
+DTSTART:20260325T090000Z
+DTEND:20260325T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: G2.A vs XI
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
