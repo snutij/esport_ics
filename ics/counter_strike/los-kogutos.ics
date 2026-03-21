@@ -553,6 +553,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/fabbelit0cs
 SUMMARY:Lower bracket round 4 match 4: LK vs STA
-URL;VALUE=URI:https://www.twitch.tv/fabbelit0cs
+URL:https://www.twitch.tv/fabbelit0cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T180000Z
+UID:pandascore-match-1398075@esport-ics
+DTSTART:20260322T180000Z
+DTEND:20260322T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 5 match 4: ex-RUBY vs LK
 END:VEVENT
 END:VCALENDAR
