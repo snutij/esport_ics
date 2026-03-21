@@ -272,7 +272,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group B\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Elimination match: MSQ vs EC BANGA
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260323T120000Z
@@ -306,5 +306,16 @@ DESCRIPTION:Urban Riga - Open #3 2026 - Group B\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:PHA vs EC BANGA
 URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T113000Z
+UID:pandascore-match-1401549@esport-ics
+DTSTART:20260325T113000Z
+DTEND:20260325T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group B\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: EC BANGA vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
