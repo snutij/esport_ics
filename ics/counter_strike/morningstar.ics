@@ -104,4 +104,14 @@ DESCRIPTION:ESL Challenger League - Asia-Pacific Cup 2 season 51 2026 - Pla
  yoffs
 SUMMARY:Upper bracket quarterfinal 1: MSTAR vs BMZ
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T140000Z
+UID:pandascore-match-1400156@esport-ics
+DTSTART:20260322T140000Z
+DTEND:20260322T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup 2 season 51 2026 - Pla
+ yoffs
+SUMMARY:Lower bracket round 2 match 4: RA vs MSTAR
+END:VEVENT
 END:VCALENDAR
