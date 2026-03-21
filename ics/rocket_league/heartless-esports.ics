@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS OC - Paris Major: Open 4 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/rocketleagueoce
 SUMMARY:Lower bracket round 1 match 1: YCYC vs Heartless
+URL:https://www.twitch.tv/rocketleagueoce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T070000Z
+UID:pandascore-match-1406900@esport-ics
+DTSTART:20260322T070000Z
+DTEND:20260322T121500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS OC - Paris Major: Open 4 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/rocketleagueoce
+SUMMARY:Lower bracket quarterfinal 1: Heartless vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rocketleagueoce
 END:VEVENT
 END:VCALENDAR
