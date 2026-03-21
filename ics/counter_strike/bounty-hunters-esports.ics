@@ -306,4 +306,14 @@ DESCRIPTION:ESL Challenger League - South America Cup #2 season 51 2026 - P
  layoffs
 SUMMARY:Lower bracket round 1 match 3: FURIA.F vs BHE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T220000Z
+UID:pandascore-match-1397678@esport-ics
+DTSTART:20260322T220000Z
+DTEND:20260323T001500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 51 2026 - P
+ layoffs
+SUMMARY:Lower bracket round 2 match 3: PLS vs BHE
+END:VEVENT
 END:VCALENDAR
