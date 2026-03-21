@@ -44,4 +44,14 @@ DESCRIPTION:ESL Challenger League - North America Cup #2 season 51 2026 - P
  layoffs
 SUMMARY:Upper bracket round 1 match 3: REGAIN vs F5
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T020000Z
+UID:pandascore-match-1397863@esport-ics
+DTSTART:20260322T020000Z
+DTEND:20260322T041500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #2 season 51 2026 - P
+ layoffs
+SUMMARY:Lower bracket round 1 match 2: Surge vs F5
+END:VEVENT
 END:VCALENDAR
