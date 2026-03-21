@@ -455,6 +455,17 @@ SUMMARY:Upper bracket quarterfinal 4: MSQ vs URSA
 URL:https://www.twitch.tv/GoYareGo
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260323T090000Z
+UID:pandascore-match-1398979@esport-ics
+DTSTART:20260323T090000Z
+DTEND:20260323T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #19 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 1: OBSB vs URSA
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260323T180000Z
 UID:pandascore-match-1398095@esport-ics
 DTSTART:20260323T180000Z

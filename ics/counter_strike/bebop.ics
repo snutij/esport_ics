@@ -322,6 +322,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Play-
  In\nWatch: https://kick.com/cct_cs
 SUMMARY:BBP vs BIG.A
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T120000Z
+UID:pandascore-match-1398976@esport-ics
+DTSTART:20260322T120000Z
+DTEND:20260322T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #19 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 1: MINLATE vs BBP
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
