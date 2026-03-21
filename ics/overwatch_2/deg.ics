@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 1 2026 - Group Stage\nWatch: https://live.bil
  ibili.com/23612045
 SUMMARY:Round 1: AG vs DEG
-URL;VALUE=URI:https://live.bilibili.com/23612045
+URL:https://live.bilibili.com/23612045
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T090000Z
+UID:pandascore-match-1408595@esport-ics
+DTSTART:20260322T090000Z
+DTEND:20260322T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 1 2026 - Group Stage\nWatch: https://www.douy
+ u.com/945572
+SUMMARY:Round 2: DEG vs SV
+URL;VALUE=URI:https://www.douyu.com/945572
 END:VEVENT
 END:VCALENDAR
