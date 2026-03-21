@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Guara Esports
+X-WR-CALNAME:Guará eSports
 SLUG:guara-esports
 BEGIN:VEVENT
 DTSTAMP:20260217T210000Z
@@ -96,6 +96,16 @@ DESCRIPTION:ESL Challenger League - South America Cup #2 season 51 2026 - P
  layoffs\nWatch: https://www.twitch.tv/locomass22
 SUMMARY:Upper bracket round 1 match 1: SHIN vs GE
 URL:https://www.twitch.tv/locomass22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T220000Z
+UID:pandascore-match-1397663@esport-ics
+DTSTART:20260321T220000Z
+DTEND:20260322T001500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 51 2026 - P
+ layoffs
+SUMMARY:Lower bracket round 1 match 1: VSC vs GE
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260322T190000Z
