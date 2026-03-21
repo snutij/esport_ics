@@ -283,7 +283,7 @@ CLASS:PUBLIC
 DESCRIPTION:Aorus League - Brazil Online Stage 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/aorusbr
 SUMMARY:Semifinal 2: BHE vs CRASH
-URL;VALUE=URI:https://www.twitch.tv/aorusbr
+URL:https://www.twitch.tv/aorusbr
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260321T190000Z
@@ -293,7 +293,7 @@ DTEND:20260321T211500Z
 CLASS:PUBLIC
 DESCRIPTION:Aorus League - Brazil Online Stage 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/vilacattv
-SUMMARY:Grand final: BHE vs TBD
+SUMMARY:Grand final: ODK vs BHE
 URL;VALUE=URI:https://www.twitch.tv/vilacattv
 END:VEVENT
 BEGIN:VEVENT
