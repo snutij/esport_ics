@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 3: HEC vs TS.A
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T103000Z
+UID:pandascore-match-1410072@esport-ics
+DTSTART:20260322T103000Z
+DTEND:20260322T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 4: HEC vs  Phantom Academy
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

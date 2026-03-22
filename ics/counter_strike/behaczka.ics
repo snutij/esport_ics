@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Behaczka
+X-WR-CALNAME:behaczka
 SLUG:behaczka
 BEGIN:VEVENT
 DTSTAMP:20260317T103000Z
@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 1: beha vs EC BANGA
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T133000Z
+UID:pandascore-match-1410075@esport-ics
+DTSTART:20260323T133000Z
+DTEND:20260323T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 4: behaczka vs VP.F
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
