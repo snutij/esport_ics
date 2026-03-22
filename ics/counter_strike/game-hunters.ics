@@ -201,7 +201,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 51 2026 - P
  layoffs\nWatch: https://www.twitch.tv/vilacattv
 SUMMARY:Lower bracket round 2 match 4: VEXA vs GH
-URL;VALUE=URI:https://www.twitch.tv/vilacattv
+URL:https://www.twitch.tv/vilacattv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260324T190000Z
@@ -213,5 +213,16 @@ DESCRIPTION:CCT South America - Series #10 season 3 2026 - Playoffs\nWatch:
   https://kick.com/cct_cs3
 SUMMARY:Quarterfinal 3: GH vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T200000Z
+UID:pandascore-match-1411774@esport-ics
+DTSTART:20260326T200000Z
+DTEND:20260326T221500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - 2026 - Group B\nWatch: https://www.twitch.tv/
+ ferjeeoficial
+SUMMARY:9z vs GH
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR

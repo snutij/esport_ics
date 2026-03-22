@@ -176,4 +176,15 @@ DESCRIPTION:CCT South America - Series #10 season 3 2026 - Playoffs\nWatch:
 SUMMARY:Round of 16 match 3: YAW vs Back to Back 
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T130000Z
+UID:pandascore-match-1411779@esport-ics
+DTSTART:20260327T130000Z
+DTEND:20260327T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - 2026 - Group C\nWatch: https://www.twitch.tv/
+ ferjeeoficial
+SUMMARY:LGC vs YAW
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
+END:VEVENT
 END:VCALENDAR

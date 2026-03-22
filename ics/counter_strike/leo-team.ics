@@ -341,6 +341,17 @@ SUMMARY:Round 3: Leo vs BIG.E
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260323T090000Z
+UID:pandascore-match-1389791@esport-ics
+DTSTART:20260323T090000Z
+DTEND:20260323T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 4: ASTRAL vs Leo
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260323T180000Z
 UID:pandascore-match-1398982@esport-ics
 DTSTART:20260323T180000Z

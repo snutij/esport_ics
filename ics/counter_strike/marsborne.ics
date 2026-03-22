@@ -188,6 +188,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/kabrafps
 SUMMARY:Grand final: MARS vs 9z
-URL;VALUE=URI:https://www.twitch.tv/kabrafps
+URL:https://www.twitch.tv/kabrafps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T200000Z
+UID:pandascore-match-1411775@esport-ics
+DTSTART:20260326T200000Z
+DTEND:20260326T221500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - 2026 - Group B\nWatch: https://www.twitch.tv/
+ ferjeeoficial
+SUMMARY:ODK vs MARS
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR

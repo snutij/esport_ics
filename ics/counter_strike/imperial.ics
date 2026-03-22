@@ -174,6 +174,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Playoffs\nWatch: https://ki
  ck.com/circuitx
 SUMMARY:3rd Place match: IMP vs SHK
-URL;VALUE=URI:https://kick.com/circuitx
+URL:https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T130000Z
+UID:pandascore-match-1411780@esport-ics
+DTSTART:20260327T130000Z
+DTEND:20260327T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - 2026 - Group C\nWatch: https://www.twitch.tv/
+ ferjeeoficial
+SUMMARY:IMP vs GLS
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR
