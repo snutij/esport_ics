@@ -79,15 +79,6 @@ SUMMARY:Round 4: CRASH vs Back to Back
 URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260322T190000Z
-UID:pandascore-match-1405828@esport-ics
-DTSTART:20260322T190000Z
-DTEND:20260322T211500Z
-CLASS:PUBLIC
-DESCRIPTION:Gamers Club Liga Série A - March 2026 - Group D
-SUMMARY:Elimination match: Back to Back  vs GE
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260323T220000Z
 UID:pandascore-match-1394923@esport-ics
 DTSTART:20260323T220000Z
@@ -97,5 +88,14 @@ DESCRIPTION:CCT South America - Series #10 season 3 2026 - Playoffs\nWatch:
   https://kick.com/cct_cs3
 SUMMARY:Round of 16 match 3: YAW vs Back to Back 
 URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T190000Z
+UID:pandascore-match-1405828@esport-ics
+DTSTART:20260324T190000Z
+DTEND:20260324T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - March 2026 - Group D
+SUMMARY:Elimination match: Back to Back  vs GE
 END:VEVENT
 END:VCALENDAR
