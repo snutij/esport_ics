@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group A\nWatch: https:/
  /www.youtube.com/watch?v=N99K_EE_OD0
 SUMMARY:LGD vs Qing Jiu Club
-URL;VALUE=URI:https://www.youtube.com/watch?v=N99K_EE_OD0
+URL:https://www.youtube.com/watch?v=N99K_EE_OD0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T110000Z
+UID:pandascore-match-1411629@esport-ics
+DTSTART:20260326T110000Z
+DTEND:20260326T161500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Spring 2026 - Playoffs\nWatch: https://live.b
+ ilibili.com/55
+SUMMARY:Lower bracket round 1 match 1: LGD vs Qing Jiu Club
+URL;VALUE=URI:https://live.bilibili.com/55
 END:VEVENT
 END:VCALENDAR
