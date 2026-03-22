@@ -163,6 +163,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/kabrafps
 SUMMARY:Quarterfinal 1: IMP vs YAW
-URL;VALUE=URI:https://www.twitch.tv/kabrafps
+URL:https://www.twitch.tv/kabrafps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T220000Z
+UID:pandascore-match-1394923@esport-ics
+DTSTART:20260323T220000Z
+DTEND:20260324T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #10 season 3 2026 - Playoffs\nWatch:
+  https://kick.com/cct_cs3
+SUMMARY:Round of 16 match 3: YAW vs Back to Back 
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
