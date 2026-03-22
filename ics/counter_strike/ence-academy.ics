@@ -444,6 +444,17 @@ SUMMARY:Round 5: Nordic Valor vs ENCE.A
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260325T180000Z
+UID:pandascore-match-1411717@esport-ics
+DTSTART:20260325T180000Z
+DTEND:20260325T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Group
+  D\nWatch: https://kick.com/cct_cs2
+SUMMARY:ENCE.A vs EC BANGA
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260331T143000Z
 UID:pandascore-match-1372449@esport-ics
 DTSTART:20260331T143000Z

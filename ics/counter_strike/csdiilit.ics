@@ -663,7 +663,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 3: MEGO vs  CSDIILIT
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260323T150000Z
@@ -686,6 +686,17 @@ DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
  s://www.twitch.tv/elisaviihdesport
 SUMMARY:Round 5: BOJONG vs  CSDIILIT
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T120000Z
+UID:pandascore-match-1411695@esport-ics
+DTSTART:20260325T120000Z
+DTEND:20260325T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Group
+  C\nWatch: https://kick.com/cct_cs2
+SUMMARY: CSDIILIT vs MANA
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260330T170000Z

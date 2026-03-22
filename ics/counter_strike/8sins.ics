@@ -153,6 +153,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #19 season 3 2026 - Play-
  In\nWatch: https://kick.com/cct_cs
 SUMMARY: CSDIILIT vs 8S
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T150000Z
+UID:pandascore-match-1411716@esport-ics
+DTSTART:20260325T150000Z
+DTEND:20260325T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Group
+  D\nWatch: https://kick.com/cct_cs2
+SUMMARY:BBP vs 8S
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

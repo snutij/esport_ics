@@ -87,6 +87,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group C\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Elimination match: Supernova vs Vexar
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T120000Z
+UID:pandascore-match-1411686@esport-ics
+DTSTART:20260323T120000Z
+DTEND:20260323T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Group
+  A\nWatch: https://kick.com/cct_cs2
+SUMMARY:MSC vs Supernova
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

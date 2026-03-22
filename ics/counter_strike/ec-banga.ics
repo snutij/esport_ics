@@ -318,4 +318,15 @@ DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group B\nWatch: h
 SUMMARY:Decider match: EC BANGA vs japczany
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T180000Z
+UID:pandascore-match-1411717@esport-ics
+DTSTART:20260325T180000Z
+DTEND:20260325T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Group
+  D\nWatch: https://kick.com/cct_cs2
+SUMMARY:ENCE.A vs EC BANGA
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
