@@ -91,24 +91,24 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #3 2026 - Group C\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:ASTRAL vs WAVE
-URL;VALUE=URI:https://kick.com/urbancontenders
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260323T170000Z
-UID:pandascore-match-1402014@esport-ics
-DTSTART:20260323T170000Z
-DTEND:20260323T174500Z
-CLASS:PUBLIC
-DESCRIPTION:Urban Riga - Open #3 2026 - Group C\nWatch: https://kick.com/ur
- bancontenders
-SUMMARY:Matrix vs WAVE
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260323T180000Z
-UID:pandascore-match-1402017@esport-ics
+UID:pandascore-match-1402014@esport-ics
 DTSTART:20260323T180000Z
 DTEND:20260323T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #3 2026 - Group C\nWatch: https://www.twitch.
+ tv/albi1985
+SUMMARY:Matrix vs WAVE
+URL;VALUE=URI:https://www.twitch.tv/albi1985
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T190000Z
+UID:pandascore-match-1402017@esport-ics
+DTSTART:20260323T190000Z
+DTEND:20260323T194500Z
 CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #3 2026 - Group C\nWatch: https://kick.com/ur
  bancontenders
