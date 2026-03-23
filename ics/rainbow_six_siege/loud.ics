@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LOUD
+SLUG:loud
+BEGIN:VEVENT
+DTSTAMP:20260331T233000Z
+UID:pandascore-match-1412340@esport-ics
+DTSTART:20260331T233000Z
+DTEND:20260401T001500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:Fluxo W7M vs LOUD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T194500Z
+UID:pandascore-match-1412343@esport-ics
+DTSTART:20260404T194500Z
+DTEND:20260404T203000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:LOUD vs INTZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T004500Z
+UID:pandascore-match-1412347@esport-ics
+DTSTART:20260408T004500Z
+DTEND:20260408T013000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:NIP vs LOUD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T194500Z
+UID:pandascore-match-1412349@esport-ics
+DTSTART:20260411T194500Z
+DTEND:20260411T203000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:LOUD vs FURIA
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+END:VCALENDAR

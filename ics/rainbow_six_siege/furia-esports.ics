@@ -47,6 +47,50 @@ CLASS:PUBLIC
 DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/rainbow6
 SUMMARY:Lower bracket quarterfinal 2: FURIA vs Fluxo W7M
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T004500Z
+UID:pandascore-match-1412341@esport-ics
+DTSTART:20260401T004500Z
+DTEND:20260401T013000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:FURIA vs NIP
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T194500Z
+UID:pandascore-match-1412345@esport-ics
+DTSTART:20260405T194500Z
+DTEND:20260405T203000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:Fluxo W7M vs FURIA
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T233000Z
+UID:pandascore-match-1412346@esport-ics
+DTSTART:20260407T233000Z
+DTEND:20260408T001500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:FURIA vs INTZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T194500Z
+UID:pandascore-match-1412349@esport-ics
+DTSTART:20260411T194500Z
+DTEND:20260411T203000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:LOUD vs FURIA
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

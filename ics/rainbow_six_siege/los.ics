@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LOS
+SLUG:los
+BEGIN:VEVENT
+DTSTAMP:20260331T210000Z
+UID:pandascore-match-1412330@esport-ics
+DTSTART:20260331T210000Z
+DTEND:20260331T214500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:FaZe vs LOS
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T171500Z
+UID:pandascore-match-1412333@esport-ics
+DTSTART:20260404T171500Z
+DTEND:20260404T180000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:LOS vs Liquid
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T160000Z
+UID:pandascore-match-1412334@esport-ics
+DTSTART:20260405T160000Z
+DTEND:20260405T164500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:IMP vs LOS
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T210000Z
+UID:pandascore-match-1412336@esport-ics
+DTSTART:20260407T210000Z
+DTEND:20260407T214500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:LOS vs BD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+END:VCALENDAR

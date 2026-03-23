@@ -64,4 +64,13 @@ DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
  s
 SUMMARY:Lower bracket quarterfinal 2: FC vs BOSS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T010000Z
+UID:pandascore-match-1412073@esport-ics
+DTSTART:20260324T010000Z
+DTEND:20260324T031500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: North American Open Qualifier #1 2026 - Playoffs
+SUMMARY:Quarterfinal 3: ClayMakers Reborn vs FC
+END:VEVENT
 END:VCALENDAR

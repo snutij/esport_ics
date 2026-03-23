@@ -123,6 +123,15 @@ SUMMARY:Upper bracket quarterfinal 2: REGAIN vs SportsBetExpert
 URL:https://www.twitch.tv/JTMythic
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260324T010000Z
+UID:pandascore-match-1412074@esport-ics
+DTSTART:20260324T010000Z
+DTEND:20260324T031500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: North American Open Qualifier #1 2026 - Playoffs
+SUMMARY:Quarterfinal 4: CCE vs SportsBetExpert
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260324T020000Z
 UID:pandascore-match-1397718@esport-ics
 DTSTART:20260324T020000Z

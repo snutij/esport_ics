@@ -225,4 +225,13 @@ DESCRIPTION:PGL - Bucharest: North American Closed Qualifier 2026 - Playoff
  s
 SUMMARY:Lower bracket semifinal: LAG vs BOSS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T010000Z
+UID:pandascore-match-1412071@esport-ics
+DTSTART:20260324T010000Z
+DTEND:20260324T031500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: North American Open Qualifier #1 2026 - Playoffs
+SUMMARY:Quarterfinal 1: BOSS vs FXT
+END:VEVENT
 END:VCALENDAR
