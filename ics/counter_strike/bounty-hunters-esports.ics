@@ -340,6 +340,17 @@ SUMMARY:Lower bracket round 3 match 2: BHE vs GH
 URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260324T220000Z
+UID:pandascore-match-1394927@esport-ics
+DTSTART:20260324T220000Z
+DTEND:20260325T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #10 season 3 2026 - Playoffs\nWatch:
+  https://kick.com/cct_cs3
+SUMMARY:Quarterfinal 4: BHE vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260327T200000Z
 UID:pandascore-match-1411784@esport-ics
 DTSTART:20260327T200000Z
