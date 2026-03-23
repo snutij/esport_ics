@@ -124,6 +124,15 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs\nWatch: https://www.youtu
  be.com/watch?v=yPZuL9sDT0U
 SUMMARY:Upper bracket round 1 match 2: ES vs GAL
-URL;VALUE=URI:https://www.youtube.com/watch?v=yPZuL9sDT0U
+URL:https://www.youtube.com/watch?v=yPZuL9sDT0U
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T160000Z
+UID:pandascore-match-1397499@esport-ics
+DTSTART:20260325T160000Z
+DTEND:20260325T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 2: ES vs TBD
 END:VEVENT
 END:VCALENDAR
