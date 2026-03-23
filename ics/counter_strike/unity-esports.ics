@@ -335,7 +335,7 @@ CLASS:PUBLIC
 DESCRIPTION:Journey - Spring 2026 - Group A\nWatch: https://www.twitch.tv/T
  ravCS
 SUMMARY:MZP vs UNiTY
-URL;VALUE=URI:https://www.twitch.tv/TravCS
+URL:https://www.twitch.tv/TravCS
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260323T113000Z
@@ -346,7 +346,18 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 46 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket semifinal 2: UNiTY vs STA
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T090000Z
+UID:pandascore-match-1404794@esport-ics
+DTSTART:20260324T090000Z
+DTEND:20260324T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 46 2026 - Playoffs\nWatch: https://www.kick.c
+ om/united21_en
+SUMMARY:Lower bracket quarterfinal 1: INF vs UNiTY
+URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260325T160000Z

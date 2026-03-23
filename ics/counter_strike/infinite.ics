@@ -70,6 +70,17 @@ DESCRIPTION:PGL - Astana: European Open Qualifier #1 2026 - Playoffs
 SUMMARY:Round of 16 match 1: INF vs QUA
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260325T090000Z
+UID:pandascore-match-1404790@esport-ics
+DTSTART:20260325T090000Z
+DTEND:20260325T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 46 2026 - Playoffs\nWatch: https://www.kick.c
+ om/united21_en
+SUMMARY:Upper bracket final: INF vs STA
+URL;VALUE=URI:https://www.kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260329T103000Z
 UID:pandascore-match-1403832@esport-ics
 DTSTART:20260329T103000Z

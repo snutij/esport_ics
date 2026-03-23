@@ -133,6 +133,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 51 2026 - Playoff
  s\nWatch: https://www.twitch.tv/bowser0
 SUMMARY:Upper bracket semifinal 1: RSTR vs SFE
-URL;VALUE=URI:https://www.twitch.tv/bowser0
+URL:https://www.twitch.tv/bowser0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T100000Z
+UID:pandascore-match-1398000@esport-ics
+DTSTART:20260324T100000Z
+DTEND:20260324T121500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 51 2026 - Playoff
+ s
+SUMMARY:Lower bracket quarterfinal 1: RSTR vs TBD
 END:VEVENT
 END:VCALENDAR
