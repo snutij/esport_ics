@@ -250,6 +250,15 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 3 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/strogo
 SUMMARY:Quarterfinal 3: NTR vs WW
-URL;VALUE=URI:https://www.twitch.tv/strogo
+URL:https://www.twitch.tv/strogo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T150000Z
+UID:pandascore-match-1411903@esport-ics
+DTSTART:20260323T150000Z
+DTEND:20260323T154500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: European Open Qualifier #1 2026 - Playoffs
+SUMMARY:Round of 16 match 7: NTR vs rhadamanthys
 END:VEVENT
 END:VCALENDAR

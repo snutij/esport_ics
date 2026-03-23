@@ -283,8 +283,9 @@ DTSTART:20260323T220000Z
 DTEND:20260324T001500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 51 2026 - P
- layoffs
+ layoffs\nWatch: https://www.twitch.tv/cmarty
 SUMMARY:Upper bracket semifinal 1: Keyd vs SHIN
+URL;VALUE=URI:https://www.twitch.tv/cmarty
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260324T160000Z

@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 2 Major Qualifiers 2026 - Qualifier
  s\nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs RIYF
-URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+URL:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T140000Z
+UID:pandascore-match-1411881@esport-ics
+DTSTART:20260327T140000Z
+DTEND:20260327T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Major 2 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/callofduty_esports
+SUMMARY:Play-In match 1: TOR vs VAN
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR
