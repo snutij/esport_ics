@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
  youtube.com/watch?v=N-S2D0DhaRk
 SUMMARY:BUE vs TEN
-URL;VALUE=URI:https://www.youtube.com/watch?v=N-S2D0DhaRk
+URL:https://www.youtube.com/watch?v=N-S2D0DhaRk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T050000Z
+UID:pandascore-match-1411833@esport-ics
+DTSTART:20260404T050000Z
+DTEND:20260404T101500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Summer 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/garena_rov_official
+SUMMARY:Upper bracket final: FS vs BUE
+URL;VALUE=URI:https://www.twitch.tv/garena_rov_official
 END:VEVENT
 END:VCALENDAR

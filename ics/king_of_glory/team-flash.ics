@@ -69,6 +69,90 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
  w.youtube.com/watch?v=Iy8frpDsjDw
 SUMMARY:TS vs TF
-URL;VALUE=URI:https://www.youtube.com/watch?v=Iy8frpDsjDw
+URL:https://www.youtube.com/watch?v=Iy8frpDsjDw
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T090000Z
+UID:pandascore-match-1380444@esport-ics
+DTSTART:20260328T090000Z
+DTEND:20260328T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:SN vs TF
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T090000Z
+UID:pandascore-match-1380447@esport-ics
+DTSTART:20260329T090000Z
+DTEND:20260329T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:BOX vs TF
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T090000Z
+UID:pandascore-match-1380452@esport-ics
+DTSTART:20260403T090000Z
+DTEND:20260403T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:FPL vs TF
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T123000Z
+UID:pandascore-match-1380456@esport-ics
+DTSTART:20260404T123000Z
+DTEND:20260404T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:SP vs TF
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T123000Z
+UID:pandascore-match-1380459@esport-ics
+DTSTART:20260405T123000Z
+DTEND:20260405T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:TF vs OSE
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T090000Z
+UID:pandascore-match-1380463@esport-ics
+DTSTART:20260410T090000Z
+DTEND:20260410T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:TF vs TS
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T123000Z
+UID:pandascore-match-1380467@esport-ics
+DTSTART:20260411T123000Z
+DTEND:20260411T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:TF vs GAM
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
 END:VEVENT
 END:VCALENDAR
