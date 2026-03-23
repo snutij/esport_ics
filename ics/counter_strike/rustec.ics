@@ -143,6 +143,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Group
   B\nWatch: https://www.twitch.tv/betboom_cs_ru3
 SUMMARY:Hashiras vs RUST
-URL;VALUE=URI:https://www.twitch.tv/betboom_cs_ru3
+URL:https://www.twitch.tv/betboom_cs_ru3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T180000Z
+UID:pandascore-match-1411693@esport-ics
+DTSTART:20260324T180000Z
+DTEND:20260324T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Group
+  B\nWatch: https://kick.com/cct_cs2
+SUMMARY:Winners match: OXUJI vs RUST
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
