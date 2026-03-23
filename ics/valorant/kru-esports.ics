@@ -3,61 +3,50 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Evil Geniuses
-SLUG:evil-geniuses
+X-WR-CALNAME:KRÜ Esports
+SLUG:kru-esports
 BEGIN:VEVENT
-DTSTAMP:20260207T125401Z
-UID:pandascore-match-1288594@esport-ics
-DTSTART:20260207T200000Z
-DTEND:20260207T221500Z
-CLASS:PUBLIC
-DESCRIPTION:VCT - Americas Kickoff 2026 - Playoffs\nWatch: https://www.twit
- ch.tv/valorant_americas
-SUMMARY:Lower bracket round 3 match 1: 100T vs EG
-URL:https://www.twitch.tv/valorant_americas
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260411T210000Z
-UID:pandascore-match-1411841@esport-ics
-DTSTART:20260411T210000Z
-DTEND:20260411T231500Z
+DTSTAMP:20260410T210000Z
+UID:pandascore-match-1411837@esport-ics
+DTSTART:20260410T210000Z
+DTEND:20260410T231500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 1 2026 - Group Omega\nWatch: https://www.t
  witch.tv/valorant_americas
-SUMMARY:100T vs EG
+SUMMARY:SEN vs KRÜ
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260418T000000Z
-UID:pandascore-match-1411845@esport-ics
-DTSTART:20260418T000000Z
-DTEND:20260418T021500Z
+DTSTAMP:20260419T210000Z
+UID:pandascore-match-1411846@esport-ics
+DTSTART:20260419T210000Z
+DTEND:20260419T231500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 1 2026 - Group Omega\nWatch: https://www.t
  witch.tv/valorant_americas
-SUMMARY:FUR vs EG
+SUMMARY:NRG vs KRÜ
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T210000Z
-UID:pandascore-match-1411855@esport-ics
-DTSTART:20260426T210000Z
-DTEND:20260426T231500Z
+DTSTAMP:20260425T210000Z
+UID:pandascore-match-1411853@esport-ics
+DTSTART:20260425T210000Z
+DTEND:20260425T231500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 1 2026 - Group Omega\nWatch: https://www.t
  witch.tv/valorant_americas
-SUMMARY:EG vs SEN
+SUMMARY:FUR vs KRÜ
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260501T210000Z
-UID:pandascore-match-1411857@esport-ics
-DTSTART:20260501T210000Z
-DTEND:20260501T231500Z
+DTSTAMP:20260502T210000Z
+UID:pandascore-match-1411859@esport-ics
+DTSTART:20260502T210000Z
+DTEND:20260502T231500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 1 2026 - Group Omega\nWatch: https://www.t
  witch.tv/valorant_americas
-SUMMARY:EG vs NRG
+SUMMARY:KRÜ vs 100T
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 BEGIN:VEVENT

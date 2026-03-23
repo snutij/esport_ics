@@ -36,6 +36,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Kickoff 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant_americas
 SUMMARY:Lower bracket semifinal: NRG vs 100T
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T210000Z
+UID:pandascore-match-1411841@esport-ics
+DTSTART:20260411T210000Z
+DTEND:20260411T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:100T vs EG
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T000000Z
+UID:pandascore-match-1411847@esport-ics
+DTSTART:20260420T000000Z
+DTEND:20260420T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:100T vs SEN
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T000000Z
+UID:pandascore-match-1411854@esport-ics
+DTSTART:20260426T000000Z
+DTEND:20260426T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:NRG vs 100T
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T210000Z
+UID:pandascore-match-1411859@esport-ics
+DTSTART:20260502T210000Z
+DTEND:20260502T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:KRÜ vs 100T
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T000000Z
+UID:pandascore-match-1411864@esport-ics
+DTSTART:20260509T000000Z
+DTEND:20260509T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:FUR vs 100T
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

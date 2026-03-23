@@ -113,6 +113,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters Santiago 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant
 SUMMARY:Lower bracket semifinal: PR vs G2
-URL;VALUE=URI:https://www.twitch.tv/valorant
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T000000Z
+UID:pandascore-match-1411838@esport-ics
+DTSTART:20260411T000000Z
+DTEND:20260411T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:G2 vs MIBR
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T210000Z
+UID:pandascore-match-1411848@esport-ics
+DTSTART:20260418T210000Z
+DTEND:20260418T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:G2 vs LEV
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T000000Z
+UID:pandascore-match-1411852@esport-ics
+DTSTART:20260425T000000Z
+DTEND:20260425T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:G2 vs LOUD
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T000000Z
+UID:pandascore-match-1411862@esport-ics
+DTSTART:20260504T000000Z
+DTEND:20260504T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:G2 vs NV
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T210000Z
+UID:pandascore-match-1411865@esport-ics
+DTSTART:20260509T210000Z
+DTEND:20260509T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:G2 vs C9
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

@@ -25,6 +25,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Kickoff 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant_americas
 SUMMARY:Lower bracket quarterfinal: 100T vs C9
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T210000Z
+UID:pandascore-match-1411843@esport-ics
+DTSTART:20260412T210000Z
+DTEND:20260412T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:C9 vs LEV
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T210000Z
+UID:pandascore-match-1411844@esport-ics
+DTSTART:20260417T210000Z
+DTEND:20260417T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:C9 vs NV
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T000000Z
+UID:pandascore-match-1411856@esport-ics
+DTSTART:20260427T000000Z
+DTEND:20260427T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:MIBR vs C9
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T210000Z
+UID:pandascore-match-1411861@esport-ics
+DTSTART:20260503T210000Z
+DTEND:20260503T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:LOUD vs C9
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T210000Z
+UID:pandascore-match-1411865@esport-ics
+DTSTART:20260509T210000Z
+DTEND:20260509T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:G2 vs C9
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

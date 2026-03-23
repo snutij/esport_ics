@@ -3,39 +3,28 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Leviatán Esports
-SLUG:leviatan-esports
+X-WR-CALNAME:Team Envy
+SLUG:team-envy
 BEGIN:VEVENT
-DTSTAMP:20260207T125401Z
-UID:pandascore-match-1288595@esport-ics
-DTSTART:20260207T230000Z
-DTEND:20260208T011500Z
-CLASS:PUBLIC
-DESCRIPTION:VCT - Americas Kickoff 2026 - Playoffs\nWatch: https://www.twit
- ch.tv/valorant_americas
-SUMMARY:Lower bracket round 3 match 2: C9 vs LEV
-URL:https://www.twitch.tv/valorant_americas
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260412T210000Z
-UID:pandascore-match-1411843@esport-ics
-DTSTART:20260412T210000Z
-DTEND:20260412T231500Z
+DTSTAMP:20260412T000000Z
+UID:pandascore-match-1411839@esport-ics
+DTSTART:20260412T000000Z
+DTEND:20260412T021500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
  witch.tv/valorant_americas
-SUMMARY:C9 vs LEV
+SUMMARY:NV vs LOUD
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260418T210000Z
-UID:pandascore-match-1411848@esport-ics
-DTSTART:20260418T210000Z
-DTEND:20260418T231500Z
+DTSTAMP:20260417T210000Z
+UID:pandascore-match-1411844@esport-ics
+DTSTART:20260417T210000Z
+DTEND:20260417T231500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
  witch.tv/valorant_americas
-SUMMARY:G2 vs LEV
+SUMMARY:C9 vs NV
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 BEGIN:VEVENT
@@ -50,25 +39,25 @@ SUMMARY:LEV vs NV
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260502T000000Z
-UID:pandascore-match-1411858@esport-ics
-DTSTART:20260502T000000Z
-DTEND:20260502T021500Z
+DTSTAMP:20260504T000000Z
+UID:pandascore-match-1411862@esport-ics
+DTSTART:20260504T000000Z
+DTEND:20260504T021500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
  witch.tv/valorant_americas
-SUMMARY:LEV vs MIBR
+SUMMARY:G2 vs NV
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260510T210000Z
-UID:pandascore-match-1411867@esport-ics
-DTSTART:20260510T210000Z
-DTEND:20260510T231500Z
+DTSTAMP:20260510T000000Z
+UID:pandascore-match-1411866@esport-ics
+DTSTART:20260510T000000Z
+DTEND:20260510T021500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 1 2026 - Group Alpha\nWatch: https://www.t
  witch.tv/valorant_americas
-SUMMARY:LOUD vs LEV
+SUMMARY:NV vs MIBR
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR
