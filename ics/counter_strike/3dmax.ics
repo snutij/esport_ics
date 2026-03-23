@@ -168,17 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #3 2026 - Group A\nWatch: https://www.twitch.
  tv/krl_stream
 SUMMARY:3DMAX vs GHY
-URL;VALUE=URI:https://www.twitch.tv/krl_stream
+URL:https://www.twitch.tv/krl_stream
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260323T100000Z
+DTSTAMP:20260323T101000Z
 UID:pandascore-match-1402004@esport-ics
-DTSTART:20260323T100000Z
-DTEND:20260323T104500Z
+DTSTART:20260323T101000Z
+DTEND:20260323T105500Z
 CLASS:PUBLIC
-DESCRIPTION:Urban Riga - Open #3 2026 - Group A\nWatch: https://kick.com/ur
- bancontenders
+DESCRIPTION:Urban Riga - Open #3 2026 - Group A\nWatch: https://www.twitch.
+ tv/krl_stream
 SUMMARY:3DMAX vs FOKUS
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL;VALUE=URI:https://www.twitch.tv/krl_stream
 END:VEVENT
 END:VCALENDAR
