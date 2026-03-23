@@ -204,17 +204,6 @@ SUMMARY:RE vs Nemiga
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260323T150000Z
-UID:pandascore-match-1401114@esport-ics
-DTSTART:20260323T150000Z
-DTEND:20260323T171500Z
-CLASS:PUBLIC
-DESCRIPTION:Tennisi Stampede Champions - Season 2 2026 - Playoffs\nWatch: h
- ttps://www.twitch.tv/pingerpro
-SUMMARY:Semifinal 1: RE vs TS.A
-URL;VALUE=URI:https://www.twitch.tv/pingerpro
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260323T160000Z
 UID:pandascore-match-1411800@esport-ics
 DTSTART:20260323T160000Z
@@ -224,5 +213,16 @@ DESCRIPTION:European Pro League - Season 35 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Upper bracket quarterfinal 4: RE vs LiXO eSports
 URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T150000Z
+UID:pandascore-match-1401114@esport-ics
+DTSTART:20260325T150000Z
+DTEND:20260325T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Tennisi Stampede Champions - Season 2 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/pingerpro
+SUMMARY:Semifinal 1: RE vs TS.A
+URL;VALUE=URI:https://www.twitch.tv/pingerpro
 END:VEVENT
 END:VCALENDAR

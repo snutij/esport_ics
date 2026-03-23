@@ -670,7 +670,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Group
   B\nWatch: https://kick.com/cct_cs2
 SUMMARY:QWE vs OXUJI
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260323T150000Z
@@ -681,6 +681,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 4: RBLS vs QWE
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T120000Z
+UID:pandascore-match-1411692@esport-ics
+DTSTART:20260324T120000Z
+DTEND:20260324T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Group
+  B\nWatch: https://kick.com/cct_cs2
+SUMMARY:Elimination match: QWE vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
