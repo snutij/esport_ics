@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Group A\nWatch: https://ww
  w.twitch.tv/BLASTPremier
 SUMMARY:Lower bracket final: FAL vs FURIA
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T173000Z
+UID:pandascore-match-1394950@esport-ics
+DTSTART:20260327T173000Z
+DTEND:20260327T194500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/BLASTPremier
+SUMMARY:Quarterfinal 2: FAL vs PRV
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

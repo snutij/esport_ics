@@ -580,4 +580,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: European Open Qualifier #1 2026 - Playoffs
 SUMMARY:Round of 16 match 6: OMG vs Inner Circle Academy
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T120000Z
+UID:pandascore-match-1398984@esport-ics
+DTSTART:20260324T120000Z
+DTEND:20260324T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #19 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 2: OMG vs ALGO
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR

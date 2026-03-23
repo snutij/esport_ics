@@ -182,6 +182,17 @@ SUMMARY:Upper bracket final: NAVI vs AUR
 URL:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260327T140000Z
+UID:pandascore-match-1394949@esport-ics
+DTSTART:20260327T140000Z
+DTEND:20260327T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/BLASTPremier
+SUMMARY:Quarterfinal 1: AUR vs MGLZ
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260330T140000Z
 UID:pandascore-match-1403840@esport-ics
 DTSTART:20260330T140000Z

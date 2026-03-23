@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Group B\nWatch: https://ww
  w.twitch.tv/BLASTPremier
 SUMMARY:Upper bracket final: PRV vs VIT
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T140000Z
+UID:pandascore-match-1394951@esport-ics
+DTSTART:20260328T140000Z
+DTEND:20260328T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/BLASTPremier
+SUMMARY:Semifinal 1: VIT vs TBD
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR
