@@ -14,6 +14,83 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  pacificen
 SUMMARY:Upper bracket quarterfinal 1: GAM vs SHG
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T113000Z
+UID:pandascore-match-1413527@esport-ics
+DTSTART:20260405T113000Z
+DTEND:20260405T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:TSW vs GAM
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T113000Z
+UID:pandascore-match-1413529@esport-ics
+DTSTART:20260411T113000Z
+DTEND:20260411T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:MVK vs GAM
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T113000Z
+UID:pandascore-match-1413535@esport-ics
+DTSTART:20260419T113000Z
+DTEND:20260419T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:GAM vs GZ
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T090000Z
+UID:pandascore-match-1413536@esport-ics
+DTSTART:20260425T090000Z
+DTEND:20260425T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:DFM vs GAM
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T113000Z
+UID:pandascore-match-1413541@esport-ics
+DTSTART:20260502T113000Z
+DTEND:20260502T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:GAM vs DCG
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T113000Z
+UID:pandascore-match-1413547@esport-ics
+DTSTART:20260510T113000Z
+DTEND:20260510T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:SHG vs GAM
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T113000Z
+UID:pandascore-match-1413552@esport-ics
+DTSTART:20260517T113000Z
+DTEND:20260517T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:GAM vs CFO
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR

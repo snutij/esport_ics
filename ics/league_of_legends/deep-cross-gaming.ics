@@ -47,6 +47,83 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Split 1 2026 - Playoffs\nWatch: https://www.youtube.com/w
  atch?v=USTy_5HCR0A
 SUMMARY:Grand final: TSW vs DCG
-URL;VALUE=URI:https://www.youtube.com/watch?v=USTy_5HCR0A
+URL:https://www.youtube.com/watch?v=USTy_5HCR0A
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T113000Z
+UID:pandascore-match-1413525@esport-ics
+DTSTART:20260404T113000Z
+DTEND:20260404T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:DCG vs MVK
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T113000Z
+UID:pandascore-match-1413531@esport-ics
+DTSTART:20260412T113000Z
+DTEND:20260412T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:DCG vs TSW
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T090000Z
+UID:pandascore-match-1413532@esport-ics
+DTSTART:20260418T090000Z
+DTEND:20260418T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:CFO vs DCG
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T090000Z
+UID:pandascore-match-1413538@esport-ics
+DTSTART:20260426T090000Z
+DTEND:20260426T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:SHG vs DCG
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T113000Z
+UID:pandascore-match-1413541@esport-ics
+DTSTART:20260502T113000Z
+DTEND:20260502T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:GAM vs DCG
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T090000Z
+UID:pandascore-match-1413546@esport-ics
+DTSTART:20260510T090000Z
+DTEND:20260510T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:DFM vs DCG
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T090000Z
+UID:pandascore-match-1413548@esport-ics
+DTSTART:20260516T090000Z
+DTEND:20260516T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolpacificen
+SUMMARY:DCG vs GZ
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR
