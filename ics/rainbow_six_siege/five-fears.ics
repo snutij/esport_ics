@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Five Fears
+SLUG:five-fears
+BEGIN:VEVENT
+DTSTAMP:20260401T210000Z
+UID:pandascore-match-1414472@esport-ics
+DTSTART:20260401T210000Z
+DTEND:20260401T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:100T vs 5F
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T210000Z
+UID:pandascore-match-1414476@esport-ics
+DTSTART:20260403T210000Z
+DTEND:20260403T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:M80 vs 5F
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T210000Z
+UID:pandascore-match-1414478@esport-ics
+DTSTART:20260409T210000Z
+DTEND:20260409T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:SR vs 5F
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T220000Z
+UID:pandascore-match-1414480@esport-ics
+DTSTART:20260410T220000Z
+DTEND:20260410T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:5F vs FLF
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+END:VCALENDAR

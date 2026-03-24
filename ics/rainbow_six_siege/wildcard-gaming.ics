@@ -36,6 +36,50 @@ CLASS:PUBLIC
 DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/rainbow6
 SUMMARY:Lower bracket quarterfinal 1: WCG vs Secret
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T000000Z
+UID:pandascore-match-1414483@esport-ics
+DTSTART:20260402T000000Z
+DTEND:20260402T004500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:WCG vs Trevmak n CO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T000000Z
+UID:pandascore-match-1414485@esport-ics
+DTSTART:20260403T000000Z
+DTEND:20260403T004500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:SSG vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T000000Z
+UID:pandascore-match-1414489@esport-ics
+DTSTART:20260410T000000Z
+DTEND:20260410T004500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:WCG vs DZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T210000Z
+UID:pandascore-match-1414490@esport-ics
+DTSTART:20260410T210000Z
+DTEND:20260410T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:WCG vs C9
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

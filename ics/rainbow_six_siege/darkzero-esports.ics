@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DarkZero Esports
+SLUG:darkzero-esports
+BEGIN:VEVENT
+DTSTAMP:20260401T230000Z
+UID:pandascore-match-1414482@esport-ics
+DTSTART:20260401T230000Z
+DTEND:20260401T234500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:SSG vs DZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T210000Z
+UID:pandascore-match-1414484@esport-ics
+DTSTART:20260402T210000Z
+DTEND:20260402T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:DZ vs C9
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T220000Z
+UID:pandascore-match-1414486@esport-ics
+DTSTART:20260403T220000Z
+DTEND:20260403T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:DZ vs Trevmak n CO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T000000Z
+UID:pandascore-match-1414489@esport-ics
+DTSTART:20260410T000000Z
+DTEND:20260410T004500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:WCG vs DZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+END:VCALENDAR

@@ -66,4 +66,13 @@ DESCRIPTION:Asia-Pacific League - Challenger Series: Oceania 2026 - Playoff
  s
 SUMMARY:Grand final: Shaiikademy vs ANIOS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T050000Z
+UID:pandascore-match-1414449@esport-ics
+DTSTART:20260329T050000Z
+DTEND:20260329T071500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 2: ANIOS vs CHF
+END:VEVENT
 END:VCALENDAR

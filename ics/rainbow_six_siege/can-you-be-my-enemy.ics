@@ -41,4 +41,13 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Challenger Series: North 2026 - Playoffs
 SUMMARY:Grand final:  ex-E.36 vs CYBME
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T040000Z
+UID:pandascore-match-1414433@esport-ics
+DTSTART:20260403T040000Z
+DTEND:20260403T061500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Kickoff: North 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 4: CYBME vs DK
+END:VEVENT
 END:VCALENDAR

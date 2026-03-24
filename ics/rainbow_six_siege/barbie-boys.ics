@@ -45,4 +45,13 @@ DESCRIPTION:Asia-Pacific League - Challenger Series: Oceania 2026 - Playoff
  s
 SUMMARY:Lower bracket final: BB vs ANIOS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T020000Z
+UID:pandascore-match-1414448@esport-ics
+DTSTART:20260329T020000Z
+DTEND:20260329T041500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: BB vs EP
+END:VEVENT
 END:VCALENDAR

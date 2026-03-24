@@ -274,6 +274,17 @@ CLASS:PUBLIC
 DESCRIPTION:Journey - Spring 2026 - Group B\nWatch: https://www.twitch.tv/j
  ourney_cs2
 SUMMARY:JS vs FCF
+URL:https://www.twitch.tv/journey_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T170000Z
+UID:pandascore-match-1398103@esport-ics
+DTSTART:20260324T170000Z
+DTEND:20260324T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Journey - Spring 2026 - Group B\nWatch: https://www.twitch.tv/j
+ ourney_cs2
+SUMMARY:Decider match: FCF vs JS
 URL;VALUE=URI:https://www.twitch.tv/journey_cs2
 END:VEVENT
 END:VCALENDAR

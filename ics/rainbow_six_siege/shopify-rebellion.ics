@@ -36,6 +36,50 @@ CLASS:PUBLIC
 DESCRIPTION:Six Invitational - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/rainbow6
 SUMMARY:Lower bracket round 2 match 4: SSG vs SR
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T220000Z
+UID:pandascore-match-1414473@esport-ics
+DTSTART:20260401T220000Z
+DTEND:20260401T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:SR vs FLF
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T220000Z
+UID:pandascore-match-1414474@esport-ics
+DTSTART:20260402T220000Z
+DTEND:20260402T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:SR vs 100T
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T210000Z
+UID:pandascore-match-1414478@esport-ics
+DTSTART:20260409T210000Z
+DTEND:20260409T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:SR vs 5F
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T230000Z
+UID:pandascore-match-1414481@esport-ics
+DTSTART:20260410T230000Z
+DTEND:20260410T234500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/rainbow6
+SUMMARY:M80 vs SR
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
