@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Group B\nWatch: https://ww
  w.twitch.tv/BLASTPremier
 SUMMARY:Lower bracket quarterfinal 2: NIP vs TL
-URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T173000Z
+UID:pandascore-match-1413388@esport-ics
+DTSTART:20260401T173000Z
+DTEND:20260401T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 1 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper Bracket Quarterfinal 4: M8 vs NIP
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

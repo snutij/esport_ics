@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 5 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/nolik_2k
 SUMMARY:Grand final: M8 vs HOTU
-URL;VALUE=URI:https://www.twitch.tv/nolik_2k
+URL:https://www.twitch.tv/nolik_2k
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T173000Z
+UID:pandascore-match-1413388@esport-ics
+DTSTART:20260401T173000Z
+DTEND:20260401T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 1 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper Bracket Quarterfinal 4: M8 vs NIP
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

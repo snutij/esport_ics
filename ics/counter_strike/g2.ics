@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 23 2026 - Stage 2\nWatch: https://www.t
  witch.tv/ESLCS
 SUMMARY:Round 5: G2 vs FUT
-URL;VALUE=URI:https://www.twitch.tv/ESLCS
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T100000Z
+UID:pandascore-match-1413385@esport-ics
+DTSTART:20260401T100000Z
+DTEND:20260401T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 1 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper Bracket Quarterfinal 1: G2 vs NEM
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

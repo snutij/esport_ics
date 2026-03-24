@@ -415,4 +415,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
 SUMMARY:Lower bracket quarterfinal 1: NEMI vs NEM
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T100000Z
+UID:pandascore-match-1413385@esport-ics
+DTSTART:20260401T100000Z
+DTEND:20260401T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 1 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper Bracket Quarterfinal 1: G2 vs NEM
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
 END:VCALENDAR

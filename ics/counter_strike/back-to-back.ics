@@ -90,6 +90,17 @@ SUMMARY:Round of 16 match 3: YAW vs Back to Back
 URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260324T160000Z
+UID:pandascore-match-1394925@esport-ics
+DTSTART:20260324T160000Z
+DTEND:20260324T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #10 season 3 2026 - Playoffs\nWatch:
+  https://kick.com/cct_cs3
+SUMMARY:Quarterfinal 2: Keyd vs Back to Back 
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260324T190000Z
 UID:pandascore-match-1405828@esport-ics
 DTSTART:20260324T190000Z

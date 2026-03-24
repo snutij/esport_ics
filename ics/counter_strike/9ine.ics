@@ -223,4 +223,15 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group D
 SUMMARY:9INE vs INF.T
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T150000Z
+UID:pandascore-match-1413387@esport-ics
+DTSTART:20260401T150000Z
+DTEND:20260401T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 1 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper Bracket Quarterfinal 3: GL vs 9INE
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
 END:VCALENDAR
