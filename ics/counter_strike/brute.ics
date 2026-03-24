@@ -240,6 +240,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/untalentedkid785
 SUMMARY:Lower bracket round 3 match 2: QWE vs BRUTE
-URL;VALUE=URI:https://www.twitch.tv/untalentedkid785
+URL:https://www.twitch.tv/untalentedkid785
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T103000Z
+UID:pandascore-match-1414587@esport-ics
+DTSTART:20260325T103000Z
+DTEND:20260325T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: BRUTE vs HEC
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

@@ -283,6 +283,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group D\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Elimination match: OS vs TLR
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T193000Z
+UID:pandascore-match-1414590@esport-ics
+DTSTART:20260325T193000Z
+DTEND:20260325T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: TLR vs NOVA
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

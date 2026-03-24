@@ -300,6 +300,17 @@ CLASS:PUBLIC
 DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group B\nWat
  ch: https://kick.com/starladder
 SUMMARY:Elimination match: m1x vs LPH
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T163000Z
+UID:pandascore-match-1414589@esport-ics
+DTSTART:20260325T163000Z
+DTEND:20260325T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: LPH vs ex-PeeP
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

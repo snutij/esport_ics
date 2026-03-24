@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #3 2026 - Group A\nWatch: https://www.twitch.
  tv/kleverrgg
 SUMMARY:FOKUS REALITY vs GHY
-URL;VALUE=URI:https://www.twitch.tv/kleverrgg
+URL:https://www.twitch.tv/kleverrgg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T103000Z
+UID:pandascore-match-1414591@esport-ics
+DTSTART:20260326T103000Z
+DTEND:20260326T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: FOKUS REALITY vs INF
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

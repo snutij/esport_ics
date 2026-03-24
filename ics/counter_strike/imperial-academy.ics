@@ -289,6 +289,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group D\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Winners match: MANA vs Imperial.A
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T133000Z
+UID:pandascore-match-1414588@esport-ics
+DTSTART:20260325T133000Z
+DTEND:20260325T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: Imperial.A vs EP
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

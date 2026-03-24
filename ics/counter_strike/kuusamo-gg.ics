@@ -248,6 +248,17 @@ SUMMARY:Round 5: KSM vs RGG
 URL:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260326T193000Z
+UID:pandascore-match-1414594@esport-ics
+DTSTART:20260326T193000Z
+DTEND:20260326T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: KSM vs INF
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260330T143000Z
 UID:pandascore-match-1372447@esport-ics
 DTSTART:20260330T143000Z
