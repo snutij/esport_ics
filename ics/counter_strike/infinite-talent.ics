@@ -6,14 +6,14 @@ METHOD:PUBLISH
 X-WR-CALNAME:INFINITE Talent
 SLUG:infinite-talent
 BEGIN:VEVENT
-DTSTAMP:20260324T113000Z
+DTSTAMP:20260324T122500Z
 UID:pandascore-match-1403628@esport-ics
-DTSTART:20260324T113000Z
-DTEND:20260324T121500Z
+DTSTART:20260324T122500Z
+DTEND:20260324T131000Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group D\nWatch: 
- https://www.twitch.tv/watchfulTVd
+ https://www.twitch.tv/bcgamemastersC
 SUMMARY:9INE vs INF.T
-URL;VALUE=URI:https://www.twitch.tv/watchfulTVd
+URL;VALUE=URI:https://www.twitch.tv/bcgamemastersC
 END:VEVENT
 END:VCALENDAR

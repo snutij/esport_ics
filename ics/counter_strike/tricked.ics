@@ -173,6 +173,15 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group B\nWatch: 
  https://www.twitch.tv/bcgamemastersC
 SUMMARY:BST vs TRI
-URL;VALUE=URI:https://www.twitch.tv/bcgamemastersC
+URL:https://www.twitch.tv/bcgamemastersC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T143000Z
+UID:pandascore-match-1403601@esport-ics
+DTSTART:20260324T143000Z
+DTEND:20260324T164500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group B
+SUMMARY:Elimination match: PSSN.UA vs TRI
 END:VEVENT
 END:VCALENDAR
