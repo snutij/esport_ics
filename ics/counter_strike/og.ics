@@ -126,7 +126,9 @@ UID:pandascore-match-1403629@esport-ics
 DTSTART:20260324T113000Z
 DTEND:20260324T121500Z
 CLASS:PUBLIC
-DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group D
+DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group D\nWatch: 
+ https://www.twitch.tv/watchfulTVb
 SUMMARY:ICE vs OG
+URL;VALUE=URI:https://www.twitch.tv/watchfulTVb
 END:VEVENT
 END:VCALENDAR

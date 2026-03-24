@@ -52,7 +52,8 @@ DTSTART:20260324T100000Z
 DTEND:20260324T121500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 51 2026 - Playoff
- s
+ s\nWatch: https://www.twitch.tv/dutchboycasts
 SUMMARY:Lower bracket quarterfinal 1: MF vs MnL
+URL;VALUE=URI:https://www.twitch.tv/dutchboycasts
 END:VEVENT
 END:VCALENDAR

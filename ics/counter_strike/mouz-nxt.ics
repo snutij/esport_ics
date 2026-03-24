@@ -408,8 +408,10 @@ UID:pandascore-match-1403534@esport-ics
 DTSTART:20260324T100000Z
 DTEND:20260324T104500Z
 CLASS:PUBLIC
-DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group A
+DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group A\nWatch: 
+ https://www.twitch.tv/muchapt
 SUMMARY:MOUZ.N vs NXS
+URL;VALUE=URI:https://www.twitch.tv/muchapt
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260329T090000Z
