@@ -219,7 +219,16 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group A\nWatch: 
  https://www.twitch.tv/bcgamemastersb
 SUMMARY:MOUZ.N vs NXS
-URL;VALUE=URI:https://www.twitch.tv/bcgamemastersb
+URL:https://www.twitch.tv/bcgamemastersb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T143000Z
+UID:pandascore-match-1403536@esport-ics
+DTSTART:20260324T143000Z
+DTEND:20260324T164500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group A
+SUMMARY:Elimination match: NXS vs TBD
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260329T090000Z

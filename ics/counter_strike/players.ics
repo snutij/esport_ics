@@ -301,6 +301,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 51 2026 - P
  layoffs\nWatch: https://www.twitch.tv/kronyii
 SUMMARY:Lower bracket round 2 match 3: PLS vs BHE
-URL;VALUE=URI:https://www.twitch.tv/kronyii
+URL:https://www.twitch.tv/kronyii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T160000Z
+UID:pandascore-match-1413558@esport-ics
+DTSTART:20260327T160000Z
+DTEND:20260327T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 1: PLS vs HWGA
+URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR

@@ -156,4 +156,15 @@ DESCRIPTION:ESL Challenger League - South America Cup #2 season 51 2026 - P
 SUMMARY:Lower bracket quarterfinal 2: MW vs BHE
 URL;VALUE=URI:https://www.twitch.tv/kronyii
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T160000Z
+UID:pandascore-match-1413554@esport-ics
+DTSTART:20260326T160000Z
+DTEND:20260326T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 1: MW vs Charrados
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
 END:VCALENDAR
