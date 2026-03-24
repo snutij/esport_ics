@@ -303,6 +303,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #3 2026 - Group A\nWatch: https://www.twitch.
  tv/krl_stream
 SUMMARY:3DMAX vs FOKUS
-URL;VALUE=URI:https://www.twitch.tv/krl_stream
+URL:https://www.twitch.tv/krl_stream
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T120000Z
+UID:pandascore-match-1403088@esport-ics
+DTSTART:20260324T120000Z
+DTEND:20260324T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #3 2026 - Playoffs\nWatch: https://kick.com/u
+ rbancontenders
+SUMMARY:Quarterfinal 3: FOKUS vs WC
+URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR

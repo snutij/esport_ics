@@ -209,6 +209,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 4: JUMBO vs CLS
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T103000Z
+UID:pandascore-match-1413399@esport-ics
+DTSTART:20260324T103000Z
+DTEND:20260324T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 5: EP vs JUMBO
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

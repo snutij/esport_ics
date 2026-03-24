@@ -145,6 +145,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #3 2026 - Group D\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:WC vs AAB
+URL:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T120000Z
+UID:pandascore-match-1403088@esport-ics
+DTSTART:20260324T120000Z
+DTEND:20260324T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #3 2026 - Playoffs\nWatch: https://kick.com/u
+ rbancontenders
+SUMMARY:Quarterfinal 3: FOKUS vs WC
 URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR

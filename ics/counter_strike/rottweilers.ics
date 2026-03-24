@@ -107,4 +107,15 @@ DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group A\nWat
 SUMMARY:Decider match: rottweilers vs Diamant Esports
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T090000Z
+UID:pandascore-match-1411689@esport-ics
+DTSTART:20260327T090000Z
+DTEND:20260327T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Group
+  A\nWatch: https://kick.com/cct_cs2
+SUMMARY:Decider match: rottweilers vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
