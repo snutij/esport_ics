@@ -375,6 +375,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #3 2026 - Playoffs\nWatch: https://kick.com/u
  rbancontenders
 SUMMARY:Semifinal 1: TBD vs PHA
+URL:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T203000Z
+UID:pandascore-match-1403092@esport-ics
+DTSTART:20260324T203000Z
+DTEND:20260324T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #3 2026 - Playoffs\nWatch: https://kick.com/u
+ rbancontenders
+SUMMARY:Grand final: FOKUS vs PHA
 URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR
