@@ -333,7 +333,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL One - Birmingham 2026 - Group A\nWatch: https://www.twitch.
  tv/esl_dota2
 SUMMARY:Tundra vs MOUZ
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260324T143000Z
@@ -342,9 +342,9 @@ DTSTART:20260324T143000Z
 DTEND:20260324T160000Z
 CLASS:PUBLIC
 DESCRIPTION:ESL One - Birmingham 2026 - Group A\nWatch: https://www.twitch.
- tv/esl_dota2
+ tv/esl_dota2storm
 SUMMARY:Tundra vs YB
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260325T120000Z

@@ -223,7 +223,16 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group D\nWatch: 
  https://www.twitch.tv/bcgamemastersC
 SUMMARY:9INE vs INF.T
-URL;VALUE=URI:https://www.twitch.tv/bcgamemastersC
+URL:https://www.twitch.tv/bcgamemastersC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260324T133000Z
+UID:pandascore-match-1403630@esport-ics
+DTSTART:20260324T133000Z
+DTEND:20260324T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Group D
+SUMMARY:Winners match: 9INE vs TBD
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260401T150000Z
