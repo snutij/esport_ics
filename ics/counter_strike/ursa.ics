@@ -497,6 +497,17 @@ SUMMARY:Lower bracket quarterfinal 2: TDK vs URSA
 URL:https://www.twitch.tv/watchfulTVd
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260325T120000Z
+UID:pandascore-match-1389798@esport-ics
+DTSTART:20260325T120000Z
+DTEND:20260325T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 5: RBLS vs URSA
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260325T150000Z
 UID:pandascore-match-1398989@esport-ics
 DTSTART:20260325T150000Z
@@ -506,5 +517,14 @@ DESCRIPTION:CCT Europe - Series #19 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs
 SUMMARY:Round 2: Leo vs URSA
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T180000Z
+UID:pandascore-match-1398080@esport-ics
+DTSTART:20260325T180000Z
+DTEND:20260325T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+SUMMARY:Lower bracket semifinal: URSA vs NEMI
 END:VEVENT
 END:VCALENDAR

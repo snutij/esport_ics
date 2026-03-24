@@ -363,6 +363,17 @@ SUMMARY:Round 1: Leo vs ALGO
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260325T090000Z
+UID:pandascore-match-1389797@esport-ics
+DTSTART:20260325T090000Z
+DTEND:20260325T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 5: Leo vs MANA
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260325T150000Z
 UID:pandascore-match-1398989@esport-ics
 DTSTART:20260325T150000Z
