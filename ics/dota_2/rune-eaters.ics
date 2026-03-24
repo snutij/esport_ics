@@ -236,4 +236,15 @@ DESCRIPTION:Tennisi Stampede Champions - Season 2 2026 - Playoffs\nWatch: h
 SUMMARY:Semifinal 1: RE vs TS.A
 URL;VALUE=URI:https://www.twitch.tv/pingerpro
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T200000Z
+UID:pandascore-match-1414494@esport-ics
+DTSTART:20260325T200000Z
+DTEND:20260325T221500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Lower bracket quarterfinal 1: RE vs TBD
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
 END:VCALENDAR

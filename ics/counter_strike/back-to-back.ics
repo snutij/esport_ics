@@ -109,4 +109,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - March 2026 - Group D
 SUMMARY:Elimination match: Back to Back  vs GE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T150000Z
+UID:pandascore-match-1394928@esport-ics
+DTSTART:20260325T150000Z
+DTEND:20260325T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #10 season 3 2026 - Playoffs\nWatch:
+  https://kick.com/cct_cs3
+SUMMARY:Semifinal 1: Back to Back  vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR

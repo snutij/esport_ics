@@ -105,12 +105,14 @@ SUMMARY:Qualification match 3: SLY vs HMBLE
 URL:https://www.twitch.tv/euniverse_tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260324T190000Z
+DTSTAMP:20260324T175500Z
 UID:pandascore-match-1397496@esport-ics
-DTSTART:20260324T190000Z
-DTEND:20260324T211500Z
+DTSTART:20260324T175500Z
+DTEND:20260324T201000Z
 CLASS:PUBLIC
-DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs
+DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/otplol_
 SUMMARY:Upper bracket quarterfinal 3: SLY vs BIG
+URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR
