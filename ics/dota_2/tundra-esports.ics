@@ -355,6 +355,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL One - Birmingham 2026 - Group A\nWatch: https://www.twitch.
  tv/esl_dota2
 SUMMARY:Tundra vs RNX
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T153000Z
+UID:pandascore-match-1406327@esport-ics
+DTSTART:20260326T153000Z
+DTEND:20260326T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/esl_dota2
+SUMMARY:Upper bracket semifinal 2: AUR vs Tundra
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR
