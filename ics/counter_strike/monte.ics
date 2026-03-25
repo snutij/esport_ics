@@ -152,8 +152,10 @@ UID:pandascore-match-1403636@esport-ics
 DTSTART:20260325T120000Z
 DTEND:20260325T141500Z
 CLASS:PUBLIC
-DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Playoffs
+DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/bcgamemastersb
 SUMMARY:Round of 16 match 4: MNTE vs 9INE
+URL;VALUE=URI:https://www.twitch.tv/bcgamemastersb
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260330T110000Z

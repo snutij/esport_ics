@@ -582,6 +582,15 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Season 1 2026 - Playoffs\nWatch: https://www.
  twitch.tv/bcgamemasters
 SUMMARY:Round of 16 match 7: NEM vs WW
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T150000Z
+UID:pandascore-match-1415176@esport-ics
+DTSTART:20260325T150000Z
+DTEND:20260325T154500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: European Open Qualifier #2 2026 - Playoffs
+SUMMARY:Round of 16 match 2: ex-RUBY vs WW
 END:VEVENT
 END:VCALENDAR

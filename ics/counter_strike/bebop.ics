@@ -357,4 +357,15 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Group
 SUMMARY:BBP vs 8S
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T090000Z
+UID:pandascore-match-1401471@esport-ics
+DTSTART:20260326T090000Z
+DTEND:20260326T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Play-In\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:BBP vs OS
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

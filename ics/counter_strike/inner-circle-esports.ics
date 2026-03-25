@@ -221,8 +221,10 @@ UID:pandascore-match-1403638@esport-ics
 DTSTART:20260325T150000Z
 DTEND:20260325T171500Z
 CLASS:PUBLIC
-DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Playoffs
+DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/bcgamemastersC
 SUMMARY:Round of 16 match 6: HOTU vs ICE
+URL;VALUE=URI:https://www.twitch.tv/bcgamemastersC
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260329T090000Z
