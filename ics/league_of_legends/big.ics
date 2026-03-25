@@ -157,6 +157,15 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/primeleague
 SUMMARY:Lower bracket round 1 match 2: ES vs BIG
-URL;VALUE=URI:https://www.twitch.tv/primeleague
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T150000Z
+UID:pandascore-match-1397502@esport-ics
+DTSTART:20260331T150000Z
+DTEND:20260331T171500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 1: G2N vs BIG
 END:VEVENT
 END:VCALENDAR
