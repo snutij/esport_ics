@@ -243,6 +243,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #18 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs2
 SUMMARY:Round 16 match 1: HOTU vs BBP
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T140000Z
+UID:pandascore-match-1403638@esport-ics
+DTSTART:20260325T140000Z
+DTEND:20260325T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Playoffs
+SUMMARY:Round of 16 match 6: HOTU vs ICE
 END:VEVENT
 END:VCALENDAR
