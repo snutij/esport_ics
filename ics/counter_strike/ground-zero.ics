@@ -234,7 +234,8 @@ DTSTART:20260325T100000Z
 DTEND:20260325T121500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 51 2026 - Playoff
- s
+ s\nWatch: https://www.twitch.tv/churchd0gg
 SUMMARY:Upper bracket final: SFE vs GZ
+URL;VALUE=URI:https://www.twitch.tv/churchd0gg
 END:VEVENT
 END:VCALENDAR
