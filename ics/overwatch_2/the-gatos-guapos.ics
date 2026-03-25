@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Gatos Guapos
+SLUG:the-gatos-guapos
+BEGIN:VEVENT
+DTSTAMP:20260326T123000Z
+UID:pandascore-match-1412696@esport-ics
+DTSTART:20260326T123000Z
+DTEND:20260326T144500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 1 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:MMY vs TGG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T110000Z
+UID:pandascore-match-1412701@esport-ics
+DTSTART:20260402T110000Z
+DTEND:20260402T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 1 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:FURY vs TGG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T123000Z
+UID:pandascore-match-1412705@esport-ics
+DTSTART:20260409T123000Z
+DTEND:20260409T144500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 1 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:TGG vs TS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T123000Z
+UID:pandascore-match-1412708@esport-ics
+DTSTART:20260416T123000Z
+DTEND:20260416T144500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 1 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:QUA vs TGG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T140000Z
+UID:pandascore-match-1412698@esport-ics
+DTSTART:20260423T140000Z
+DTEND:20260423T161500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 1 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:TGG vs RK
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+END:VCALENDAR

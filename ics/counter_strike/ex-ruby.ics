@@ -487,7 +487,9 @@ UID:pandascore-match-1415176@esport-ics
 DTSTART:20260325T150000Z
 DTEND:20260325T154500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Astana: European Open Qualifier #2 2026 - Playoffs
+DESCRIPTION:PGL - Astana: European Open Qualifier #2 2026 - Playoffs\nWatch
+ : https://www.twitch.tv/fyflo
 SUMMARY:Round of 16 match 2: ex-RUBY vs WW
+URL;VALUE=URI:https://www.twitch.tv/fyflo
 END:VEVENT
 END:VCALENDAR

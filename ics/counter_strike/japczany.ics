@@ -56,6 +56,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Group B\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Decider match: EC BANGA vs japczany
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T090000Z
+UID:pandascore-match-1401473@esport-ics
+DTSTART:20260327T090000Z
+DTEND:20260327T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Play-In\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:BIG.A vs japczany
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
