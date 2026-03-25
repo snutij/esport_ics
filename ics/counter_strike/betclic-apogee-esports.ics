@@ -188,6 +188,17 @@ CLASS:PUBLIC
 DESCRIPTION:Journey - Spring 2026 - Group C\nWatch: https://www.twitch.tv/b
  etclicapogee
 SUMMARY:BCA vs HERO.A
-URL;VALUE=URI:https://www.twitch.tv/betclicapogee
+URL:https://www.twitch.tv/betclicapogee
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T140000Z
+UID:pandascore-match-1398106@esport-ics
+DTSTART:20260325T140000Z
+DTEND:20260325T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Journey - Spring 2026 - Group C\nWatch: https://www.twitch.tv/j
+ ourney_cs2
+SUMMARY:Winners match: vsters vs BCA
+URL;VALUE=URI:https://www.twitch.tv/journey_cs2
 END:VEVENT
 END:VCALENDAR

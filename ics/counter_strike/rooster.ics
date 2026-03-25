@@ -166,4 +166,14 @@ DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 51 2026 - Playoff
  s
 SUMMARY:Lower bracket semifinal: MF vs RSTR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T100000Z
+UID:pandascore-match-1398003@esport-ics
+DTSTART:20260326T100000Z
+DTEND:20260326T121500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 51 2026 - Playoff
+ s
+SUMMARY:Lower bracket final: GZ vs RSTR
+END:VEVENT
 END:VCALENDAR

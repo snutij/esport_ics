@@ -106,7 +106,9 @@ UID:pandascore-match-1397498@esport-ics
 DTSTART:20260325T160000Z
 DTEND:20260325T181500Z
 CLASS:PUBLIC
-DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs
+DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/primeleague
 SUMMARY:Lower bracket round 1 match 1: G2N vs VDN
+URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 END:VCALENDAR
