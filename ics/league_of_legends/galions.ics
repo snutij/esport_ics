@@ -166,6 +166,15 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/otplol_
 SUMMARY:Upper bracket semifinal 1: FF vs GAL
-URL;VALUE=URI:https://www.twitch.tv/otplol_
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T150000Z
+UID:pandascore-match-1397509@esport-ics
+DTSTART:20260331T150000Z
+DTEND:20260331T184500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs
+SUMMARY:Upper bracket final: GAL vs TBD
 END:VEVENT
 END:VCALENDAR

@@ -270,13 +270,15 @@ SUMMARY:Round of 16 match 2: SIN vs BST
 URL:https://www.twitch.tv/bcgamemastersd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260325T180000Z
+DTSTAMP:20260325T190000Z
 UID:pandascore-match-1403641@esport-ics
-DTSTART:20260325T180000Z
-DTEND:20260325T201500Z
+DTSTART:20260325T190000Z
+DTEND:20260325T211500Z
 CLASS:PUBLIC
-DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Playoffs
+DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/watchfulTVb
 SUMMARY:Quarterfinal 1: G2 vs SIN
+URL;VALUE=URI:https://www.twitch.tv/watchfulTVb
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260329T090000Z
