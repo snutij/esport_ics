@@ -300,6 +300,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL One - Birmingham 2026 - Group B\nWatch: https://www.twitch.
  tv/esl_dota2storm
 SUMMARY:FLC vs VP
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
+URL:https://www.twitch.tv/esl_dota2storm
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T153000Z
+UID:pandascore-match-1406325@esport-ics
+DTSTART:20260327T153000Z
+DTEND:20260327T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL One - Birmingham 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/esl_dota2
+SUMMARY:Lower bracket round 1 match 2: FLC vs TBD
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR
