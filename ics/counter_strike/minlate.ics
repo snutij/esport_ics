@@ -253,6 +253,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 5: ALGO vs MINLATE
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T090000Z
+UID:pandascore-match-1398995@esport-ics
+DTSTART:20260327T090000Z
+DTEND:20260327T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #19 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 3: MINLATE vs Hashiras
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

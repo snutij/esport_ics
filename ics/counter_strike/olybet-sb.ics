@@ -276,7 +276,7 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #3 2026 - Playoffs\nWatch: https://kick.com/u
  rbancontenders
 SUMMARY:Semifinal 2: OBSB vs FOKUS
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260324T150000Z
@@ -287,6 +287,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #19 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs
 SUMMARY:Round 2: OBSB vs BBP
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T090000Z
+UID:pandascore-match-1398991@esport-ics
+DTSTART:20260326T090000Z
+DTEND:20260326T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #19 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs
+SUMMARY:Round 3: RE vs OBSB
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
