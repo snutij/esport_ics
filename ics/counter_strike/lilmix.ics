@@ -248,6 +248,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Group
   C\nWatch: https://kick.com/cct_cs2
 SUMMARY:LILMIX vs AHK
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T150000Z
+UID:pandascore-match-1411698@esport-ics
+DTSTART:20260326T150000Z
+DTEND:20260326T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Group
+  C\nWatch: https://kick.com/cct_cs2
+SUMMARY:Winners match: LILMIX vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

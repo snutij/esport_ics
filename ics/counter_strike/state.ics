@@ -330,4 +330,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: European Open Qualifier #2 2026 - Playoffs
 SUMMARY:Round of 16 match 5: AM vs STA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T090000Z
+UID:pandascore-match-1404797@esport-ics
+DTSTART:20260326T090000Z
+DTEND:20260326T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 46 2026 - Playoffs\nWatch: https://www.kick.c
+ om/united21_en
+SUMMARY:Lower bracket final: STA vs TBD
+URL;VALUE=URI:https://www.kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
