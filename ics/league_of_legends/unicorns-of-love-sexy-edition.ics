@@ -163,6 +163,39 @@ SUMMARY:Upper bracket semifinal 2: USE vs SLY
 URL:https://www.twitch.tv/otplol_
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260401T150000Z
+UID:pandascore-match-1416847@esport-ics
+DTSTART:20260401T150000Z
+DTEND:20260401T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:USE vs BIG
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T190000Z
+UID:pandascore-match-1416904@esport-ics
+DTSTART:20260402T190000Z
+DTEND:20260402T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:KHK vs USE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T190000Z
+UID:pandascore-match-1416933@esport-ics
+DTSTART:20260403T190000Z
+DTEND:20260403T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:SGE vs USE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260407T150000Z
 UID:pandascore-match-1397507@esport-ics
 DTSTART:20260407T150000Z
@@ -170,5 +203,71 @@ DTEND:20260407T171500Z
 CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs
 SUMMARY:Lower bracket quarterfinal 2: USE vs TBD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T170000Z
+UID:pandascore-match-1416936@esport-ics
+DTSTART:20260408T170000Z
+DTEND:20260408T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:G2N vs USE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T190000Z
+UID:pandascore-match-1416993@esport-ics
+DTSTART:20260409T190000Z
+DTEND:20260409T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:ES vs USE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T180000Z
+UID:pandascore-match-1416997@esport-ics
+DTSTART:20260410T180000Z
+DTEND:20260410T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:ROSS vs USE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T150000Z
+UID:pandascore-match-1416999@esport-ics
+DTSTART:20260415T150000Z
+DTEND:20260415T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:USE vs TOG
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T150000Z
+UID:pandascore-match-1417004@esport-ics
+DTSTART:20260416T150000Z
+DTEND:20260416T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:VFB vs USE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T160000Z
+UID:pandascore-match-1417010@esport-ics
+DTSTART:20260417T160000Z
+DTEND:20260417T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:EWI vs USE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 END:VCALENDAR

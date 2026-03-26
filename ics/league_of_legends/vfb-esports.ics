@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VfB eSports
+SLUG:vfb-esports
+BEGIN:VEVENT
+DTSTAMP:20260401T180000Z
+UID:pandascore-match-1416850@esport-ics
+DTSTART:20260401T180000Z
+DTEND:20260401T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:VFB vs ROSS
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T180000Z
+UID:pandascore-match-1416903@esport-ics
+DTSTART:20260402T180000Z
+DTEND:20260402T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:VFB vs SGE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T180000Z
+UID:pandascore-match-1416932@esport-ics
+DTSTART:20260403T180000Z
+DTEND:20260403T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:VFB vs TOG
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T180000Z
+UID:pandascore-match-1416950@esport-ics
+DTSTART:20260408T180000Z
+DTEND:20260408T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:VFB vs ES
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T180000Z
+UID:pandascore-match-1416992@esport-ics
+DTSTART:20260409T180000Z
+DTEND:20260409T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:VFB vs EWI
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T170000Z
+UID:pandascore-match-1416996@esport-ics
+DTSTART:20260410T170000Z
+DTEND:20260410T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:VFB vs G2N
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T180000Z
+UID:pandascore-match-1417002@esport-ics
+DTSTART:20260415T180000Z
+DTEND:20260415T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:VFB vs KHK
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T150000Z
+UID:pandascore-match-1417004@esport-ics
+DTSTART:20260416T150000Z
+DTEND:20260416T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:VFB vs USE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T180000Z
+UID:pandascore-match-1417012@esport-ics
+DTSTART:20260417T180000Z
+DTEND:20260417T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:VFB vs BIG
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+END:VCALENDAR

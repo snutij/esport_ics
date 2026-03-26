@@ -58,6 +58,105 @@ CLASS:PUBLIC
 DESCRIPTION:Prime League 1st Division - Winter 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/primeleague
 SUMMARY:Quarterfinal 3: USE vs KHK
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T190000Z
+UID:pandascore-match-1416875@esport-ics
+DTSTART:20260401T190000Z
+DTEND:20260401T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:KHK vs EWI
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T190000Z
+UID:pandascore-match-1416904@esport-ics
+DTSTART:20260402T190000Z
+DTEND:20260402T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:KHK vs USE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T160000Z
+UID:pandascore-match-1416906@esport-ics
+DTSTART:20260403T160000Z
+DTEND:20260403T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:KHK vs BIG
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T190000Z
+UID:pandascore-match-1416962@esport-ics
+DTSTART:20260408T190000Z
+DTEND:20260408T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:KHK vs TOG
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T170000Z
+UID:pandascore-match-1416991@esport-ics
+DTSTART:20260409T170000Z
+DTEND:20260409T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:KHK vs ROSS
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T190000Z
+UID:pandascore-match-1416998@esport-ics
+DTSTART:20260410T190000Z
+DTEND:20260410T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:KHK vs SGE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T180000Z
+UID:pandascore-match-1417002@esport-ics
+DTSTART:20260415T180000Z
+DTEND:20260415T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:VFB vs KHK
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T160000Z
+UID:pandascore-match-1417005@esport-ics
+DTSTART:20260416T160000Z
+DTEND:20260416T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:G2N vs KHK
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T150000Z
+UID:pandascore-match-1417009@esport-ics
+DTSTART:20260417T150000Z
+DTEND:20260417T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:KHK vs ES
 URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 END:VCALENDAR
