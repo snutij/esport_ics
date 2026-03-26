@@ -78,6 +78,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Brazil: Stage 1 2026 - Playoffs\nWatch: https://www.youtu
  be.com/watch?v=XDMdF5fdnjU
 SUMMARY:Lower bracket quarterfinal 1: TBK vs INTZ
-URL;VALUE=URI:https://www.youtube.com/watch?v=XDMdF5fdnjU
+URL:https://www.youtube.com/watch?v=XDMdF5fdnjU
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T200000Z
+UID:pandascore-match-1350524@esport-ics
+DTSTART:20260327T200000Z
+DTEND:20260327T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 1 2026 - Playoffs
+SUMMARY:Lower bracket semifinal: 2GAME vs TBK
 END:VEVENT
 END:VCALENDAR

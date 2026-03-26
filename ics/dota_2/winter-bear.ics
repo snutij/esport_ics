@@ -245,6 +245,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 35 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Lower bracket quarterfinal 1: RE vs WB
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T200000Z
+UID:pandascore-match-1416138@esport-ics
+DTSTART:20260326T200000Z
+DTEND:20260326T221500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Lower bracket semifinal: WB vs TBD
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
