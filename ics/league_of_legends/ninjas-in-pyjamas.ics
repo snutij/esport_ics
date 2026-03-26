@@ -34,6 +34,15 @@ DTEND:20260301T124500Z
 CLASS:PUBLIC
 DESCRIPTION:LPL - Split 1 2026 - Playoffs\nWatch: http://www.huya.com/lpl
 SUMMARY:Lower bracket round 1 match 2: IG vs NIP
-URL;VALUE=URI:http://www.huya.com/lpl
+URL:http://www.huya.com/lpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T080000Z
+UID:pandascore-match-1416687@esport-ics
+DTSTART:20260329T080000Z
+DTEND:20260329T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - China Qualifier 2026 - Phase 1
+SUMMARY:Round 3 match 1: NIP vs TBD
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Maryville University
+SLUG:maryville-university
+BEGIN:VEVENT
+DTSTAMP:20260327T020000Z
+UID:pandascore-match-1416640@esport-ics
+DTSTART:20260327T020000Z
+DTEND:20260327T041500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs CNV
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T230000Z
+UID:pandascore-match-1416644@esport-ics
+DTSTART:20260401T230000Z
+DTEND:20260402T011500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs BLUE
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T200000Z
+UID:pandascore-match-1416649@esport-ics
+DTSTART:20260408T200000Z
+DTEND:20260408T221500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs DOG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T230000Z
+UID:pandascore-match-1416654@esport-ics
+DTSTART:20260410T230000Z
+DTEND:20260411T011500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs NRG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T200000Z
+UID:pandascore-match-1416659@esport-ics
+DTSTART:20260417T200000Z
+DTEND:20260417T221500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs CTG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T230000Z
+UID:pandascore-match-1416668@esport-ics
+DTSTART:20260429T230000Z
+DTEND:20260430T011500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs CCG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T200000Z
+UID:pandascore-match-1416671@esport-ics
+DTSTART:20260501T200000Z
+DTEND:20260501T221500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs AMI
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200000Z
+UID:pandascore-match-1416677@esport-ics
+DTSTART:20260508T200000Z
+DTEND:20260508T221500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs WU
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T200000Z
+UID:pandascore-match-1416679@esport-ics
+DTSTART:20260514T200000Z
+DTEND:20260514T221500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs SN
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+END:VCALENDAR

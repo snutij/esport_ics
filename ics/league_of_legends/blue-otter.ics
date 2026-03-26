@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Blue Otter
+SLUG:blue-otter
+BEGIN:VEVENT
+DTSTAMP:20260326T230000Z
+UID:pandascore-match-1416639@esport-ics
+DTSTART:20260326T230000Z
+DTEND:20260327T011500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:DOG vs BLUE
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T230000Z
+UID:pandascore-match-1416644@esport-ics
+DTSTART:20260401T230000Z
+DTEND:20260402T011500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs BLUE
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T200000Z
+UID:pandascore-match-1416653@esport-ics
+DTSTART:20260410T200000Z
+DTEND:20260410T221500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:CTG vs BLUE
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T200000Z
+UID:pandascore-match-1416657@esport-ics
+DTSTART:20260416T200000Z
+DTEND:20260416T221500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:CCG vs BLUE
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T230000Z
+UID:pandascore-match-1416660@esport-ics
+DTSTART:20260417T230000Z
+DTEND:20260418T011500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:NRG vs BLUE
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T200000Z
+UID:pandascore-match-1416663@esport-ics
+DTSTART:20260423T200000Z
+DTEND:20260423T221500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:AMI vs BLUE
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T200000Z
+UID:pandascore-match-1416665@esport-ics
+DTSTART:20260424T200000Z
+DTEND:20260424T221500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:WU vs BLUE
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T230000Z
+UID:pandascore-match-1416672@esport-ics
+DTSTART:20260501T230000Z
+DTEND:20260502T011500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:SN vs BLUE
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T200000Z
+UID:pandascore-match-1416675@esport-ics
+DTSTART:20260507T200000Z
+DTEND:20260507T221500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:CNV vs BLUE
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+END:VCALENDAR

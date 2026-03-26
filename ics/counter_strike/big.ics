@@ -154,8 +154,10 @@ UID:pandascore-match-1403646@esport-ics
 DTSTART:20260326T120000Z
 DTEND:20260326T141500Z
 CLASS:PUBLIC
-DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Playoffs
+DESCRIPTION:BC Game Masters Championship - Season 1 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/Trottah
 SUMMARY:Semifinal 2: HOTU vs BIG
+URL;VALUE=URI:https://www.twitch.tv/Trottah
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260329T090000Z

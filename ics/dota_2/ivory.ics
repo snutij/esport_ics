@@ -234,6 +234,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Playoffs\nWa
  tch: https://kick.com/epldota_en1
 SUMMARY:Lower bracket final: YG vs IVO
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T083000Z
+UID:pandascore-match-1411192@esport-ics
+DTSTART:20260326T083000Z
+DTEND:20260326T104500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Grand final: GLYPH vs IVO
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

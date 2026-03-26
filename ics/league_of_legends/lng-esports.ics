@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:LPL - Split 1 2026 - Knights Rivals\nWatch: https://www.huya.co
  m/lpl
 SUMMARY:Round 3 match 2: WE vs LNG
-URL;VALUE=URI:https://www.huya.com/lpl
+URL:https://www.huya.com/lpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T110000Z
+UID:pandascore-match-1416686@esport-ics
+DTSTART:20260328T110000Z
+DTEND:20260328T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - China Qualifier 2026 - Phase 1
+SUMMARY:Round 2 match 2: LNG vs TBD
 END:VEVENT
 END:VCALENDAR
