@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KaBuM! Ilha das Lendas
+SLUG:kabum-ilha-das-lendas
+BEGIN:VEVENT
+DTSTAMP:20260330T200000Z
+UID:pandascore-match-1416693@esport-ics
+DTSTART:20260330T200000Z
+DTEND:20260330T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:NERD vs KBM
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T230000Z
+UID:pandascore-match-1416701@esport-ics
+DTSTART:20260331T230000Z
+DTEND:20260331T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:ITZ vs KBM
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T220000Z
+UID:pandascore-match-1416705@esport-ics
+DTSTART:20260401T220000Z
+DTEND:20260401T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:RMD vs KBM
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T000000Z
+UID:pandascore-match-1416712@esport-ics
+DTSTART:20260407T000000Z
+DTEND:20260407T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:KBM vs PNG.A
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T000000Z
+UID:pandascore-match-1416717@esport-ics
+DTSTART:20260408T000000Z
+DTEND:20260408T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:KBM vs RED.A
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T220000Z
+UID:pandascore-match-1416720@esport-ics
+DTSTART:20260408T220000Z
+DTEND:20260408T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:KBM vs 7REX
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T220000Z
+UID:pandascore-match-1416725@esport-ics
+DTSTART:20260420T220000Z
+DTEND:20260420T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:KBM vs TS
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T200000Z
+UID:pandascore-match-1416728@esport-ics
+DTSTART:20260421T200000Z
+DTEND:20260421T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:EST vs KBM
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T200000Z
+UID:pandascore-match-1416733@esport-ics
+DTSTART:20260422T200000Z
+DTEND:20260422T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:VKS.A vs KBM
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+END:VCALENDAR

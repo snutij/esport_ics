@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RMD Gaming
+SLUG:rmd-gaming
+BEGIN:VEVENT
+DTSTAMP:20260330T220000Z
+UID:pandascore-match-1416695@esport-ics
+DTSTART:20260330T220000Z
+DTEND:20260330T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:EST vs RMD
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T210000Z
+UID:pandascore-match-1416699@esport-ics
+DTSTART:20260331T210000Z
+DTEND:20260331T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:TS vs RMD
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T220000Z
+UID:pandascore-match-1416705@esport-ics
+DTSTART:20260401T220000Z
+DTEND:20260401T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:RMD vs KBM
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T200000Z
+UID:pandascore-match-1416708@esport-ics
+DTSTART:20260406T200000Z
+DTEND:20260406T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:RMD vs ITZ
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T210000Z
+UID:pandascore-match-1416714@esport-ics
+DTSTART:20260407T210000Z
+DTEND:20260407T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:RMD vs NERD
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T230000Z
+UID:pandascore-match-1416721@esport-ics
+DTSTART:20260408T230000Z
+DTEND:20260408T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:RMD vs RED.A
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T000000Z
+UID:pandascore-match-1416727@esport-ics
+DTSTART:20260421T000000Z
+DTEND:20260421T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:RMD vs VKS.A
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T230000Z
+UID:pandascore-match-1416731@esport-ics
+DTSTART:20260421T230000Z
+DTEND:20260421T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:PNG.A vs RMD
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T220000Z
+UID:pandascore-match-1416735@esport-ics
+DTSTART:20260422T220000Z
+DTEND:20260422T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
+ ps://www.twitch.tv/cblol
+SUMMARY:7REX vs RMD
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+END:VCALENDAR

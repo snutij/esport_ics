@@ -97,6 +97,15 @@ CLASS:PUBLIC
 DESCRIPTION:First Stand - 2026 - Playoffs\nWatch: https://www.twitch.tv/rio
  tgames
 SUMMARY:Semifinal 2: BLG vs JDG
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T100000Z
+UID:pandascore-match-1416690@esport-ics
+DTSTART:20260331T100000Z
+DTEND:20260331T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - China Qualifier 2026 - Phase 2
+SUMMARY:Upper bracket quarterfinal 2: JDG vs TBD
 END:VEVENT
 END:VCALENDAR
