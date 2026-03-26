@@ -320,6 +320,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 35 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Upper bracket final: Z10 vs LYNX
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T133000Z
+UID:pandascore-match-1417811@esport-ics
+DTSTART:20260327T133000Z
+DTEND:20260327T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 35 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Grand final: LYNX vs TBD
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

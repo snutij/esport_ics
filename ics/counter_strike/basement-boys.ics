@@ -342,6 +342,17 @@ SUMMARY:BMB vs BND
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260328T183000Z
+UID:pandascore-match-1404874@esport-ics
+DTSTART:20260328T183000Z
+DTEND:20260328T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group C\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Elimination match: Qual4 vs BMB
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260329T090000Z
 UID:pandascore-match-1403821@esport-ics
 DTSTART:20260329T090000Z

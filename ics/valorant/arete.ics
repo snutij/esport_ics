@@ -76,6 +76,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
  youtube.com/@ValorantEsportsKR/live
 SUMMARY:ART vs OSG
+URL:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T100000Z
+UID:pandascore-match-1417615@esport-ics
+DTSTART:20260401T100000Z
+DTEND:20260401T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Playoffs\nWatch: https://www.youtub
+ e.com/@ValorantEsportsKR/live
+SUMMARY:Upper bracket quarterfinal 2: GEN.A vs ART
 URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
 END:VEVENT
 END:VCALENDAR

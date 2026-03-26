@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Group St
  age\nWatch: https://www.twitch.tv/rexijp
 SUMMARY:FSN.X vs OWO
-URL;VALUE=URI:https://www.twitch.tv/rexijp
+URL:https://www.twitch.tv/rexijp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T010000Z
+UID:pandascore-match-1417708@esport-ics
+DTSTART:20260331T010000Z
+DTEND:20260331T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:Upper bracket semifinal 1: AEB vs FSN.X
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

@@ -199,6 +199,17 @@ CLASS:PUBLIC
 DESCRIPTION:Journey - Spring 2026 - Group D\nWatch: https://www.twitch.tv/j
  ourney_cs2
 SUMMARY:Elimination match: YN vs TBD
+URL:https://www.twitch.tv/journey_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T173000Z
+UID:pandascore-match-1398137@esport-ics
+DTSTART:20260326T173000Z
+DTEND:20260326T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Journey - Spring 2026 - Group D\nWatch: https://www.twitch.tv/j
+ ourney_cs2
+SUMMARY:Decider match: YN vs ALL
 URL;VALUE=URI:https://www.twitch.tv/journey_cs2
 END:VEVENT
 END:VCALENDAR
