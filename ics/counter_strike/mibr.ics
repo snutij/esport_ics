@@ -132,6 +132,17 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - 2026 - Group A\nWatch: https://www.twitch.tv/
  ferjeeoficial
 SUMMARY:Winners match: MIBR vs TBD
+URL:https://www.twitch.tv/ferjeeoficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T170000Z
+UID:pandascore-match-1411773@esport-ics
+DTSTART:20260328T170000Z
+DTEND:20260328T191500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - 2026 - Group A\nWatch: https://www.twitch.tv/
+ ferjeeoficial
+SUMMARY:Decider match: MIBR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR
