@@ -395,6 +395,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/eslcs
 SUMMARY:Lower bracket final: K27 vs NEMI
-URL;VALUE=URI:https://www.twitch.tv/eslcs
+URL:https://www.twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T180000Z
+UID:pandascore-match-1398097@esport-ics
+DTSTART:20260327T180000Z
+DTEND:20260327T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
+SUMMARY:Grand final: 1WIN vs NEMI
 END:VEVENT
 END:VCALENDAR
