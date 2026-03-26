@@ -63,4 +63,48 @@ CLASS:PUBLIC
 DESCRIPTION:Europe MENA League - Challenger Series 2026 - Playoffs
 SUMMARY:Lower bracket semifinal: Heretics vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T160000Z
+UID:pandascore-match-1414452@esport-ics
+DTSTART:20260330T160000Z
+DTEND:20260330T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Kickoff 2026 - Group A\nWatch: https://www
+ .twitch.tv/rainbow6
+SUMMARY:Shifters vs Heretics
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T160000Z
+UID:pandascore-match-1414454@esport-ics
+DTSTART:20260331T160000Z
+DTEND:20260331T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Kickoff 2026 - Group A\nWatch: https://www
+ .twitch.tv/rainbow6
+SUMMARY:FNC vs Heretics
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T160000Z
+UID:pandascore-match-1414456@esport-ics
+DTSTART:20260406T160000Z
+DTEND:20260406T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Kickoff 2026 - Group A\nWatch: https://www
+ .twitch.tv/rainbow6
+SUMMARY:Heretics vs G2
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T190000Z
+UID:pandascore-match-1414459@esport-ics
+DTSTART:20260407T190000Z
+DTEND:20260407T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Kickoff 2026 - Group A\nWatch: https://www
+ .twitch.tv/rainbow6
+SUMMARY:VP vs Heretics
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
 END:VCALENDAR
