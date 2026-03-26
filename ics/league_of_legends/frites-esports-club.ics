@@ -47,6 +47,83 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group F\nWatch: https://www.twitch
  .tv/riotgamesturkish
 SUMMARY:Lower bracket final: FEC vs S2G
-URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T170000Z
+UID:pandascore-match-1416771@esport-ics
+DTSTART:20260402T170000Z
+DTEND:20260402T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:SEC vs FEC
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T180000Z
+UID:pandascore-match-1416774@esport-ics
+DTSTART:20260407T180000Z
+DTEND:20260407T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:OUAT vs FEC
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T170000Z
+UID:pandascore-match-1416811@esport-ics
+DTSTART:20260416T170000Z
+DTEND:20260416T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:FEC vs ZNT
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T180000Z
+UID:pandascore-match-1416816@esport-ics
+DTSTART:20260423T180000Z
+DTEND:20260423T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:FEC vs DYN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T170000Z
+UID:pandascore-match-1416817@esport-ics
+DTSTART:20260428T170000Z
+DTEND:20260428T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:FEC vs BAN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T180000Z
+UID:pandascore-match-1416824@esport-ics
+DTSTART:20260507T180000Z
+DTEND:20260507T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:MYTH vs FEC
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T170000Z
+UID:pandascore-match-1416825@esport-ics
+DTSTART:20260512T170000Z
+DTEND:20260512T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:FEC vs MCN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 END:VCALENDAR

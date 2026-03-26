@@ -36,6 +36,83 @@ CLASS:PUBLIC
 DESCRIPTION:HLL - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
  v/helleniclegends
 SUMMARY:ALMO vs IN5
+URL:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T130000Z
+UID:pandascore-match-1416741@esport-ics
+DTSTART:20260331T130000Z
+DTEND:20260331T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:ALMO vs TP
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T150000Z
+UID:pandascore-match-1416748@esport-ics
+DTSTART:20260408T150000Z
+DTEND:20260408T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:ALMO vs SPAR
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T130000Z
+UID:pandascore-match-1416751@esport-ics
+DTSTART:20260416T130000Z
+DTEND:20260416T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:ALMO vs GOAL
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T150000Z
+UID:pandascore-match-1416756@esport-ics
+DTSTART:20260422T150000Z
+DTEND:20260422T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:ALMO vs WLG
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T150000Z
+UID:pandascore-match-1416758@esport-ics
+DTSTART:20260423T150000Z
+DTEND:20260423T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:ALMO vs IN5
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T150000Z
+UID:pandascore-match-1416764@esport-ics
+DTSTART:20260430T150000Z
+DTEND:20260430T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:ALMO vs GSMC
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T150000Z
+UID:pandascore-match-1416766@esport-ics
+DTSTART:20260505T150000Z
+DTEND:20260505T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:ALMO vs TPX
 URL;VALUE=URI:https://www.twitch.tv/helleniclegends
 END:VEVENT
 END:VCALENDAR

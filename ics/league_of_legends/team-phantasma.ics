@@ -91,6 +91,83 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group H\nWatch: https://www.twitch
  .tv/primeleague
 SUMMARY:Grand final: ES vs TP
-URL;VALUE=URI:https://www.twitch.tv/primeleague
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T130000Z
+UID:pandascore-match-1416741@esport-ics
+DTSTART:20260331T130000Z
+DTEND:20260331T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:ALMO vs TP
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T130000Z
+UID:pandascore-match-1416745@esport-ics
+DTSTART:20260407T130000Z
+DTEND:20260407T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:GSMC vs TP
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T130000Z
+UID:pandascore-match-1416749@esport-ics
+DTSTART:20260414T130000Z
+DTEND:20260414T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:SPAR vs TP
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T130000Z
+UID:pandascore-match-1416753@esport-ics
+DTSTART:20260421T130000Z
+DTEND:20260421T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:TPX vs TP
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T130000Z
+UID:pandascore-match-1416755@esport-ics
+DTSTART:20260422T130000Z
+DTEND:20260422T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:IN5 vs TP
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T130000Z
+UID:pandascore-match-1416759@esport-ics
+DTSTART:20260428T130000Z
+DTEND:20260428T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:GOAL vs TP
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T220000Z
+UID:pandascore-match-1416767@esport-ics
+DTSTART:20260506T220000Z
+DTEND:20260506T233000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:WLG vs TP
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
 END:VEVENT
 END:VCALENDAR

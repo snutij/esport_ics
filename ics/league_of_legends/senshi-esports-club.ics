@@ -14,6 +14,83 @@ CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Winter 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/road_of_legends
 SUMMARY:Semifinal: SEC vs BAN
+URL:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T170000Z
+UID:pandascore-match-1416771@esport-ics
+DTSTART:20260402T170000Z
+DTEND:20260402T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:SEC vs FEC
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T180000Z
+UID:pandascore-match-1416808@esport-ics
+DTSTART:20260409T180000Z
+DTEND:20260409T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:MYTH vs SEC
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T180000Z
+UID:pandascore-match-1416810@esport-ics
+DTSTART:20260414T180000Z
+DTEND:20260414T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:SEC vs MCN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T170000Z
+UID:pandascore-match-1416813@esport-ics
+DTSTART:20260421T170000Z
+DTEND:20260421T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:SEC vs BAN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T170000Z
+UID:pandascore-match-1416819@esport-ics
+DTSTART:20260430T170000Z
+DTEND:20260430T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:SEC vs ZNT
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T170000Z
+UID:pandascore-match-1416823@esport-ics
+DTSTART:20260507T170000Z
+DTEND:20260507T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:OUAT vs SEC
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T180000Z
+UID:pandascore-match-1416826@esport-ics
+DTSTART:20260512T180000Z
+DTEND:20260512T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:SEC vs DYN
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 END:VCALENDAR

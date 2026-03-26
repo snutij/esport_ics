@@ -3,83 +3,61 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:ZennIT
-SLUG:zennit
+X-WR-CALNAME:Dynasty
+SLUG:dynasty
 BEGIN:VEVENT
-DTSTAMP:20260210T131833Z
-UID:pandascore-match-1350003@esport-ics
-DTSTART:20260210T170000Z
-DTEND:20260210T204500Z
-CLASS:PUBLIC
-DESCRIPTION:Road Of Legends - Winter 2026 - Playoffs\nWatch: https://www.tw
- itch.tv/road_of_legends
-SUMMARY:Last Chance Qualifier: ZNT vs MCN
-URL:https://www.twitch.tv/road_of_legends
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260212T170000Z
-UID:pandascore-match-1350004@esport-ics
-DTSTART:20260212T170000Z
-DTEND:20260212T204500Z
-CLASS:PUBLIC
-DESCRIPTION:Road Of Legends - Winter 2026 - Playoffs\nWatch: https://www.tw
- itch.tv/road_of_legends
-SUMMARY:Quarterfinal: BAN vs ZNT
-URL:https://www.twitch.tv/road_of_legends
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260331T180000Z
-UID:pandascore-match-1416770@esport-ics
-DTSTART:20260331T180000Z
-DTEND:20260331T201500Z
+DTSTAMP:20260331T170000Z
+UID:pandascore-match-1416769@esport-ics
+DTSTART:20260331T170000Z
+DTEND:20260331T191500Z
 CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
  www.twitch.tv/road_of_legends
-SUMMARY:MCN vs ZNT
+SUMMARY:BAN vs DYN
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T170000Z
-UID:pandascore-match-1416773@esport-ics
-DTSTART:20260407T170000Z
-DTEND:20260407T191500Z
+DTSTAMP:20260409T170000Z
+UID:pandascore-match-1416807@esport-ics
+DTSTART:20260409T170000Z
+DTEND:20260409T191500Z
 CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
  www.twitch.tv/road_of_legends
-SUMMARY:ZNT vs BAN
+SUMMARY:MCN vs DYN
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260416T170000Z
-UID:pandascore-match-1416811@esport-ics
-DTSTART:20260416T170000Z
-DTEND:20260416T191500Z
+DTSTAMP:20260414T170000Z
+UID:pandascore-match-1416809@esport-ics
+DTSTART:20260414T170000Z
+DTEND:20260414T191500Z
 CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
  www.twitch.tv/road_of_legends
-SUMMARY:FEC vs ZNT
+SUMMARY:MYTH vs DYN
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260421T180000Z
-UID:pandascore-match-1416814@esport-ics
-DTSTART:20260421T180000Z
-DTEND:20260421T201500Z
+DTSTAMP:20260423T180000Z
+UID:pandascore-match-1416816@esport-ics
+DTSTART:20260423T180000Z
+DTEND:20260423T201500Z
 CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
  www.twitch.tv/road_of_legends
-SUMMARY:MYTH vs ZNT
+SUMMARY:FEC vs DYN
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T170000Z
-UID:pandascore-match-1416819@esport-ics
-DTSTART:20260430T170000Z
-DTEND:20260430T191500Z
+DTSTAMP:20260428T180000Z
+UID:pandascore-match-1416818@esport-ics
+DTSTART:20260428T180000Z
+DTEND:20260428T201500Z
 CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
  www.twitch.tv/road_of_legends
-SUMMARY:SEC vs ZNT
+SUMMARY:OUAT vs DYN
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 BEGIN:VEVENT
@@ -94,14 +72,14 @@ SUMMARY:ZNT vs DYN
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260514T180000Z
-UID:pandascore-match-1416828@esport-ics
-DTSTART:20260514T180000Z
-DTEND:20260514T201500Z
+DTSTAMP:20260512T180000Z
+UID:pandascore-match-1416826@esport-ics
+DTSTART:20260512T180000Z
+DTEND:20260512T201500Z
 CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
  www.twitch.tv/road_of_legends
-SUMMARY:OUAT vs ZNT
+SUMMARY:SEC vs DYN
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 END:VCALENDAR

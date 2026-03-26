@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ROUNDS
+SLUG:rounds
+BEGIN:VEVENT
+DTSTAMP:20260326T133000Z
+UID:pandascore-match-1414592@esport-ics
+DTSTART:20260326T133000Z
+DTEND:20260326T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: RGG vs  Phantom Academy
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T170000Z
+UID:pandascore-match-1372450@esport-ics
+DTSTART:20260331T170000Z
+DTEND:20260331T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 6: Nordic Valor vs RGG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T170000Z
+UID:pandascore-match-1372452@esport-ics
+DTSTART:20260406T170000Z
+DTEND:20260406T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 7: RGG vs BoyBand
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+END:VCALENDAR

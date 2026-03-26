@@ -36,6 +36,83 @@ CLASS:PUBLIC
 DESCRIPTION:HLL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/hell
  eniclegends
 SUMMARY:Semifinal 2: TP vs IN5
+URL:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T150000Z
+UID:pandascore-match-1416742@esport-ics
+DTSTART:20260331T150000Z
+DTEND:20260331T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:IN5 vs GSMC
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T130000Z
+UID:pandascore-match-1416747@esport-ics
+DTSTART:20260408T130000Z
+DTEND:20260408T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:TPX vs IN5
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T150000Z
+UID:pandascore-match-1416752@esport-ics
+DTSTART:20260416T150000Z
+DTEND:20260416T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:WLG vs IN5
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T130000Z
+UID:pandascore-match-1416755@esport-ics
+DTSTART:20260422T130000Z
+DTEND:20260422T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:IN5 vs TP
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T150000Z
+UID:pandascore-match-1416758@esport-ics
+DTSTART:20260423T150000Z
+DTEND:20260423T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:ALMO vs IN5
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T130000Z
+UID:pandascore-match-1416763@esport-ics
+DTSTART:20260430T130000Z
+DTEND:20260430T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:SPAR vs IN5
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T130000Z
+UID:pandascore-match-1416765@esport-ics
+DTSTART:20260505T130000Z
+DTEND:20260505T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:GOAL vs IN5
 URL;VALUE=URI:https://www.twitch.tv/helleniclegends
 END:VEVENT
 END:VCALENDAR

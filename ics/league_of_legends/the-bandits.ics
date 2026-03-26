@@ -56,6 +56,83 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group G\nWatch: https://www.twitch
  .tv/ouat_tv
 SUMMARY:Lower bracket semifinal: BAN vs USE
-URL;VALUE=URI:https://www.twitch.tv/ouat_tv
+URL:https://www.twitch.tv/ouat_tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T170000Z
+UID:pandascore-match-1416769@esport-ics
+DTSTART:20260331T170000Z
+DTEND:20260331T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:BAN vs DYN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T170000Z
+UID:pandascore-match-1416773@esport-ics
+DTSTART:20260407T170000Z
+DTEND:20260407T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:ZNT vs BAN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T180000Z
+UID:pandascore-match-1416812@esport-ics
+DTSTART:20260416T180000Z
+DTEND:20260416T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:OUAT vs BAN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T170000Z
+UID:pandascore-match-1416813@esport-ics
+DTSTART:20260421T170000Z
+DTEND:20260421T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:SEC vs BAN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T170000Z
+UID:pandascore-match-1416817@esport-ics
+DTSTART:20260428T170000Z
+DTEND:20260428T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:FEC vs BAN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T180000Z
+UID:pandascore-match-1416822@esport-ics
+DTSTART:20260505T180000Z
+DTEND:20260505T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:MCN vs BAN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T170000Z
+UID:pandascore-match-1416827@esport-ics
+DTSTART:20260514T170000Z
+DTEND:20260514T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:MYTH vs BAN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 END:VCALENDAR
