@@ -157,6 +157,28 @@ CLASS:PUBLIC
 DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group A\nWatch: https://www.twi
  tch.tv/betboom_dota_ru2
 SUMMARY:PR vs AVL
-URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru2
+URL:https://www.twitch.tv/betboom_dota_ru2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T070000Z
+UID:pandascore-match-1417892@esport-ics
+DTSTART:20260330T070000Z
+DTEND:20260330T091500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group A\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY:PR vs VP.P
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T130000Z
+UID:pandascore-match-1417894@esport-ics
+DTSTART:20260330T130000Z
+DTEND:20260330T151500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group A\nWatch: https://www.twi
+ tch.tv/betboom_dota_ru
+SUMMARY:PR vs RE
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 END:VCALENDAR
