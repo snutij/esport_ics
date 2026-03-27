@@ -190,6 +190,61 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #3 2026 - Playoffs\nWatch: https://www.twitch
  .tv/krl_stream
 SUMMARY:Quarterfinal 4: AAB vs 3DMAX
-URL;VALUE=URI:https://www.twitch.tv/krl_stream
+URL:https://www.twitch.tv/krl_stream
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T110000Z
+UID:pandascore-match-1418628@esport-ics
+DTSTART:20260331T110000Z
+DTEND:20260331T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:3DMAX vs SASHI.A
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T123000Z
+UID:pandascore-match-1418631@esport-ics
+DTSTART:20260331T123000Z
+DTEND:20260331T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:3DMAX vs Falcons Force
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T140000Z
+UID:pandascore-match-1418633@esport-ics
+DTSTART:20260331T140000Z
+DTEND:20260331T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:Atputies vs 3DMAX
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T153000Z
+UID:pandascore-match-1418634@esport-ics
+DTSTART:20260331T153000Z
+DTEND:20260331T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:BST vs 3DMAX
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T183000Z
+UID:pandascore-match-1418639@esport-ics
+DTSTART:20260331T183000Z
+DTEND:20260331T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:3DMAX vs AAB
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
 END:VEVENT
 END:VCALENDAR

@@ -206,4 +206,59 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group A
 SUMMARY:BST vs SNG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T153000Z
+UID:pandascore-match-1418634@esport-ics
+DTSTART:20260331T153000Z
+DTEND:20260331T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:BST vs 3DMAX
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T170000Z
+UID:pandascore-match-1418636@esport-ics
+DTSTART:20260331T170000Z
+DTEND:20260331T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:BST vs SASHI.A
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T183000Z
+UID:pandascore-match-1418638@esport-ics
+DTSTART:20260331T183000Z
+DTEND:20260331T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:BST vs Falcons Force
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T200000Z
+UID:pandascore-match-1418640@esport-ics
+DTSTART:20260331T200000Z
+DTEND:20260331T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:BST vs AAB
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T210000Z
+UID:pandascore-match-1418642@esport-ics
+DTSTART:20260331T210000Z
+DTEND:20260331T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:BST vs Atputies
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
 END:VCALENDAR

@@ -105,6 +105,61 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Meteor - Season 2 2026 - Playoffs\nWatch: https://kick.co
  m/exort_en
 SUMMARY:Round of 16 match 8: JJH vs Falcons Force
-URL;VALUE=URI:https://kick.com/exort_en
+URL:https://kick.com/exort_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T110000Z
+UID:pandascore-match-1418629@esport-ics
+DTSTART:20260331T110000Z
+DTEND:20260331T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:AAB vs Falcons Force
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T123000Z
+UID:pandascore-match-1418631@esport-ics
+DTSTART:20260331T123000Z
+DTEND:20260331T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:3DMAX vs Falcons Force
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T140000Z
+UID:pandascore-match-1418632@esport-ics
+DTSTART:20260331T140000Z
+DTEND:20260331T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:SASHI.A vs Falcons Force
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T170000Z
+UID:pandascore-match-1418637@esport-ics
+DTSTART:20260331T170000Z
+DTEND:20260331T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:Atputies vs Falcons Force
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T183000Z
+UID:pandascore-match-1418638@esport-ics
+DTSTART:20260331T183000Z
+DTEND:20260331T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:BST vs Falcons Force
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
 END:VEVENT
 END:VCALENDAR

@@ -3,83 +3,50 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:WAZABI
-SLUG:wazabi
-BEGIN:VEVENT
-DTSTAMP:20260219T160000Z
-UID:pandascore-match-1356434@esport-ics
-DTSTART:20260219T160000Z
-DTEND:20260219T181500Z
-CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
- \nWatch: https://www.twitch.tv/dust2tv
-SUMMARY:Round 3: struggletony vs WAZ
-URL:https://www.twitch.tv/dust2tv
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260226T190000Z
-UID:pandascore-match-1368666@esport-ics
-DTSTART:20260226T190000Z
-DTEND:20260226T211500Z
-CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
- \nWatch: https://www.twitch.tv/dust2tv
-SUMMARY:Round 4: WAZ vs CUT
-URL:https://www.twitch.tv/dust2tv
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260305T190000Z
-UID:pandascore-match-1382763@esport-ics
-DTSTART:20260305T190000Z
-DTEND:20260305T211500Z
-CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Closed Qualifier season 31 2026 - Group Stage
- \nWatch: https://www.twitch.tv/dust2tv
-SUMMARY:Round 5: PRE vs WAZ
-URL:https://www.twitch.tv/dust2tv
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260331T110000Z
-UID:pandascore-match-1418613@esport-ics
-DTSTART:20260331T110000Z
-DTEND:20260331T114500Z
-CLASS:PUBLIC
-DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group A\nWatch
- : https://kick.com/challengerchampionship
-SUMMARY:PHA vs WAZ
-URL;VALUE=URI:https://kick.com/challengerchampionship
-END:VEVENT
+X-WR-CALNAME:Z7 Esports
+SLUG:z7-esports
 BEGIN:VEVENT
 DTSTAMP:20260331T123000Z
-UID:pandascore-match-1418616@esport-ics
+UID:pandascore-match-1418614@esport-ics
 DTSTART:20260331T123000Z
 DTEND:20260331T131500Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group A\nWatch
  : https://kick.com/challengerchampionship
-SUMMARY:B8 vs WAZ
+SUMMARY:AM vs Z7
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T140000Z
+UID:pandascore-match-1418617@esport-ics
+DTSTART:20260331T140000Z
+DTEND:20260331T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:maquinas vs Z7
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260331T153000Z
-UID:pandascore-match-1418620@esport-ics
+UID:pandascore-match-1418619@esport-ics
 DTSTART:20260331T153000Z
 DTEND:20260331T161500Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group A\nWatch
  : https://kick.com/challengerchampionship
-SUMMARY:WAZ vs AM
+SUMMARY:B8 vs Z7
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260331T183000Z
-UID:pandascore-match-1418624@esport-ics
+UID:pandascore-match-1418623@esport-ics
 DTSTART:20260331T183000Z
 DTEND:20260331T191500Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group A\nWatch
  : https://kick.com/challengerchampionship
-SUMMARY:WAZ vs maquinas
+SUMMARY:Z7 vs PHA
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT

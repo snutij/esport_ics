@@ -91,6 +91,61 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 23 2026 - Playoffs\nWatch: https://kick.c
  om/exort_en2
 SUMMARY:Round 1 match 4: LPH vs SASHI.A
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T110000Z
+UID:pandascore-match-1418628@esport-ics
+DTSTART:20260331T110000Z
+DTEND:20260331T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:3DMAX vs SASHI.A
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T140000Z
+UID:pandascore-match-1418632@esport-ics
+DTSTART:20260331T140000Z
+DTEND:20260331T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:SASHI.A vs Falcons Force
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T153000Z
+UID:pandascore-match-1418635@esport-ics
+DTSTART:20260331T153000Z
+DTEND:20260331T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:SASHI.A vs AAB
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T170000Z
+UID:pandascore-match-1418636@esport-ics
+DTSTART:20260331T170000Z
+DTEND:20260331T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:BST vs SASHI.A
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T200000Z
+UID:pandascore-match-1418641@esport-ics
+DTSTART:20260331T200000Z
+DTEND:20260331T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_c
+SUMMARY:SASHI.A vs Atputies
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
 END:VEVENT
 END:VCALENDAR
