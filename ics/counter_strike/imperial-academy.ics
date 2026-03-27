@@ -313,4 +313,15 @@ DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Play-In\nWatch: h
 SUMMARY:Imperial.A vs G2.A
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T193000Z
+UID:pandascore-match-1418459@esport-ics
+DTSTART:20260327T193000Z
+DTEND:20260327T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 2: Imperial.A vs Y.TigeRES
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
 END:VCALENDAR

@@ -210,6 +210,17 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - 2026 - Group B\nWatch: https://www.twitch.tv/
  ferjeeoficial
 SUMMARY:Winners match: MARS vs TBD
+URL:https://www.twitch.tv/ferjeeoficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T010000Z
+UID:pandascore-match-1411778@esport-ics
+DTSTART:20260329T010000Z
+DTEND:20260329T031500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - 2026 - Group B\nWatch: https://www.twitch.tv/
+ ferjeeoficial
+SUMMARY:Decider match: MARS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR

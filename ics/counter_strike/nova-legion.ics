@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 1: TLR vs NOVA
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T163000Z
+UID:pandascore-match-1418463@esport-ics
+DTSTART:20260328T163000Z
+DTEND:20260328T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 2: NOVA vs  Phantom Academy
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
