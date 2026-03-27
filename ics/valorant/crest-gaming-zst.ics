@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Japan: Split 1 2026 - Phase 1\nWatch: https://www.twitch.
  tv/valorant_jpn
 SUMMARY:Upper bracket semifinal 2: CGZ vs FL
+URL:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T100000Z
+UID:pandascore-match-1401891@esport-ics
+DTSTART:20260328T100000Z
+DTEND:20260328T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Japan: Split 1 2026 - Phase 1\nWatch: https://www.twitch.
+ tv/valorant_jpn
+SUMMARY:Upper bracket final: QTD vs CGZ
 URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
 END:VEVENT
 END:VCALENDAR
