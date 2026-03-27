@@ -185,6 +185,17 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - 2026 - Group C\nWatch: https://www.twitch.tv/
  ferjeeoficial
 SUMMARY:LGC vs YAW
+URL:https://www.twitch.tv/ferjeeoficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T130000Z
+UID:pandascore-match-1411782@esport-ics
+DTSTART:20260328T130000Z
+DTEND:20260328T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - 2026 - Group C\nWatch: https://www.twitch.tv/
+ ferjeeoficial
+SUMMARY:Elimination match: IMP vs YAW
 URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR

@@ -390,6 +390,17 @@ CLASS:PUBLIC
 DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group C\nWat
  ch: https://kick.com/starladder
 SUMMARY:Winners match: UNiTY vs BND
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T150000Z
+UID:pandascore-match-1404875@esport-ics
+DTSTART:20260329T150000Z
+DTEND:20260329T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group C\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Decider match: UNiTY vs TBD
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

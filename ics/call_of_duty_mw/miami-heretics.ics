@@ -127,14 +127,14 @@ SUMMARY:MH vs BOS
 URL:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260327T153000Z
+DTSTAMP:20260327T155000Z
 UID:pandascore-match-1411886@esport-ics
-DTSTART:20260327T153000Z
-DTEND:20260327T191500Z
+DTSTART:20260327T155000Z
+DTEND:20260327T193500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 2 2026 - Playoffs\nWatch: https://w
- ww.twitch.tv/callofduty_esports
-SUMMARY:Upper bracket quarterfinal 4: MH vs TBD
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+ ww.youtube.com/watch?v=MENf-FbJYgU
+SUMMARY:Upper bracket quarterfinal 4: MH vs PAR
+URL;VALUE=URI:https://www.youtube.com/watch?v=MENf-FbJYgU
 END:VEVENT
 END:VCALENDAR
