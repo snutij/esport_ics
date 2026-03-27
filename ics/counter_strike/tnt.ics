@@ -155,6 +155,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 56 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/theeb1ye
 SUMMARY:Lower bracket semifinal 2: TNT vs AUR.YB
-URL;VALUE=URI:https://www.twitch.tv/theeb1ye
+URL:https://www.twitch.tv/theeb1ye
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T183000Z
+UID:pandascore-match-1418467@esport-ics
+DTSTART:20260327T183000Z
+DTEND:20260327T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - European Finals season 56 2026 - Playoffs
+SUMMARY:Quarterfinal 4: TNT vs  Phantom Academy
 END:VEVENT
 END:VCALENDAR

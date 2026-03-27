@@ -87,6 +87,83 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/riotgamesturkish
 SUMMARY:Lower bracket round 1 match 4: HRTS vs ME
-URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T150000Z
+UID:pandascore-match-1418514@esport-ics
+DTSTART:20260409T150000Z
+DTEND:20260409T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LES - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LES
+SUMMARY:HRTS vs LUA
+URL;VALUE=URI:https://www.twitch.tv/LES
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T180000Z
+UID:pandascore-match-1418517@esport-ics
+DTSTART:20260415T180000Z
+DTEND:20260415T201500Z
+CLASS:PUBLIC
+DESCRIPTION:LES - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LES
+SUMMARY:UCAM vs HRTS
+URL;VALUE=URI:https://www.twitch.tv/LES
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T180000Z
+UID:pandascore-match-1418524@esport-ics
+DTSTART:20260423T180000Z
+DTEND:20260423T201500Z
+CLASS:PUBLIC
+DESCRIPTION:LES - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LES
+SUMMARY:GX.P vs HRTS
+URL;VALUE=URI:https://www.twitch.tv/LES
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T150000Z
+UID:pandascore-match-1418525@esport-ics
+DTSTART:20260429T150000Z
+DTEND:20260429T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LES - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LES
+SUMMARY:HRTS vs FLK
+URL;VALUE=URI:https://www.twitch.tv/LES
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T180000Z
+UID:pandascore-match-1418532@esport-ics
+DTSTART:20260507T180000Z
+DTEND:20260507T201500Z
+CLASS:PUBLIC
+DESCRIPTION:LES - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LES
+SUMMARY:KOI.F vs HRTS
+URL;VALUE=URI:https://www.twitch.tv/LES
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T180000Z
+UID:pandascore-match-1418534@esport-ics
+DTSTART:20260513T180000Z
+DTEND:20260513T201500Z
+CLASS:PUBLIC
+DESCRIPTION:LES - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LES
+SUMMARY:HRTS vs UB
+URL;VALUE=URI:https://www.twitch.tv/LES
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T180000Z
+UID:pandascore-match-1418538@esport-ics
+DTSTART:20260520T180000Z
+DTEND:20260520T201500Z
+CLASS:PUBLIC
+DESCRIPTION:LES - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LES
+SUMMARY:BAR vs HRTS
+URL;VALUE=URI:https://www.twitch.tv/LES
 END:VEVENT
 END:VCALENDAR

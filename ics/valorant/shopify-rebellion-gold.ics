@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 2 Swiss Stage 2026 - Group Stage\nWa
  tch: https://www.twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Round 2: PGS vs SRG
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T200000Z
+UID:pandascore-match-1418505@esport-ics
+DTSTART:20260330T200000Z
+DTEND:20260330T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 2 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Round 3: SRG vs SaD
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR

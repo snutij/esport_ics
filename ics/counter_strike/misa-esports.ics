@@ -318,6 +318,15 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 46 2026 - Group B\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Elimination match: G2.A vs MISA
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T183000Z
+UID:pandascore-match-1418466@esport-ics
+DTSTART:20260327T183000Z
+DTEND:20260327T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - European Finals season 56 2026 - Playoffs
+SUMMARY:Quarterfinal 3: MISA vs RGG
 END:VEVENT
 END:VCALENDAR
