@@ -3,94 +3,72 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Galions
-SLUG:galions
+X-WR-CALNAME:Nuxeria Esport
+SLUG:nuxeria-esport
 BEGIN:VEVENT
-DTSTAMP:20260207T125401Z
-UID:pandascore-match-1309577@esport-ics
-DTSTART:20260207T190000Z
-DTEND:20260207T211500Z
-CLASS:PUBLIC
-DESCRIPTION:VCL - France: Revolution Stage 1 2026 - Playoffs\nWatch: https:
- //www.twitch.tv/valorant_fr
-SUMMARY:Upper bracket semifinal 2: MDR vs Galions
-URL:https://www.twitch.tv/valorant_fr
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260208T125451Z
-UID:pandascore-match-1309581@esport-ics
-DTSTART:20260208T190000Z
-DTEND:20260208T211500Z
-CLASS:PUBLIC
-DESCRIPTION:VCL - France: Revolution Stage 1 2026 - Playoffs\nWatch: https:
- //www.twitch.tv/valorant_fr
-SUMMARY:Lower bracket semifinal: WIP vs Galions
-URL:https://www.twitch.tv/valorant_fr
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260404T130000Z
-UID:pandascore-match-1418573@esport-ics
-DTSTART:20260404T130000Z
-DTEND:20260404T151500Z
+DTSTAMP:20260404T190000Z
+UID:pandascore-match-1418575@esport-ics
+DTSTART:20260404T190000Z
+DTEND:20260404T211500Z
 CLASS:PUBLIC
 DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/valorant_fr
-SUMMARY:MDR vs Galions
+SUMMARY:WIP vs NUX
 URL;VALUE=URI:https://www.twitch.tv/valorant_fr
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260405T190000Z
-UID:pandascore-match-1418578@esport-ics
-DTSTART:20260405T190000Z
-DTEND:20260405T211500Z
+DTSTAMP:20260406T190000Z
+UID:pandascore-match-1418580@esport-ics
+DTSTART:20260406T190000Z
+DTEND:20260406T211500Z
 CLASS:PUBLIC
 DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/valorant_fr
-SUMMARY:Galions vs WIP
+SUMMARY:NUX vs F9
 URL;VALUE=URI:https://www.twitch.tv/valorant_fr
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260411T190000Z
-UID:pandascore-match-1418583@esport-ics
-DTSTART:20260411T190000Z
-DTEND:20260411T211500Z
+DTSTAMP:20260411T130000Z
+UID:pandascore-match-1418581@esport-ics
+DTSTART:20260411T130000Z
+DTEND:20260411T151500Z
 CLASS:PUBLIC
 DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/valorant_fr
-SUMMARY:ES vs Galions
+SUMMARY:NUX vs MDR
 URL;VALUE=URI:https://www.twitch.tv/valorant_fr
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260412T190000Z
-UID:pandascore-match-1418586@esport-ics
-DTSTART:20260412T190000Z
-DTEND:20260412T211500Z
+DTSTAMP:20260412T130000Z
+UID:pandascore-match-1418584@esport-ics
+DTSTART:20260412T130000Z
+DTEND:20260412T151500Z
 CLASS:PUBLIC
 DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/valorant_fr
-SUMMARY:F9 vs Galions
+SUMMARY:CAL vs NUX
 URL;VALUE=URI:https://www.twitch.tv/valorant_fr
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260418T190000Z
-UID:pandascore-match-1418591@esport-ics
-DTSTART:20260418T190000Z
-DTEND:20260418T211500Z
+DTSTAMP:20260418T130000Z
+UID:pandascore-match-1418589@esport-ics
+DTSTART:20260418T130000Z
+DTEND:20260418T151500Z
 CLASS:PUBLIC
 DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/valorant_fr
-SUMMARY:Galions vs CAL
+SUMMARY:ES vs NUX
 URL;VALUE=URI:https://www.twitch.tv/valorant_fr
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260425T190000Z
-UID:pandascore-match-1418597@esport-ics
-DTSTART:20260425T190000Z
-DTEND:20260425T211500Z
+DTSTAMP:20260419T160000Z
+UID:pandascore-match-1418593@esport-ics
+DTSTART:20260419T160000Z
+DTEND:20260419T181500Z
 CLASS:PUBLIC
 DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/valorant_fr
-SUMMARY:JL vs Galions
+SUMMARY:NUX vs JL
 URL;VALUE=URI:https://www.twitch.tv/valorant_fr
 END:VEVENT
 BEGIN:VEVENT

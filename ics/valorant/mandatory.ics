@@ -104,4 +104,81 @@ DESCRIPTION:VCL - EMEA: Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
 SUMMARY:Lower bracket semifinal: MDR vs MISA
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T130000Z
+UID:pandascore-match-1418573@esport-ics
+DTSTART:20260404T130000Z
+DTEND:20260404T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/valorant_fr
+SUMMARY:MDR vs Galions
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T130000Z
+UID:pandascore-match-1418576@esport-ics
+DTSTART:20260405T130000Z
+DTEND:20260405T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/valorant_fr
+SUMMARY:ES vs MDR
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T130000Z
+UID:pandascore-match-1418581@esport-ics
+DTSTART:20260411T130000Z
+DTEND:20260411T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/valorant_fr
+SUMMARY:NUX vs MDR
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T160000Z
+UID:pandascore-match-1418587@esport-ics
+DTSTART:20260413T160000Z
+DTEND:20260413T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/valorant_fr
+SUMMARY:WIP vs MDR
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T190000Z
+UID:pandascore-match-1418594@esport-ics
+DTSTART:20260419T190000Z
+DTEND:20260419T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/valorant_fr
+SUMMARY:MDR vs F9
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T130000Z
+UID:pandascore-match-1418595@esport-ics
+DTSTART:20260425T130000Z
+DTEND:20260425T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/valorant_fr
+SUMMARY:CAL vs MDR
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T190000Z
+UID:pandascore-match-1418600@esport-ics
+DTSTART:20260426T190000Z
+DTEND:20260426T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/valorant_fr
+SUMMARY:MDR vs JL
+URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+END:VEVENT
 END:VCALENDAR

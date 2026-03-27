@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 4 2026 - Group D\nWatch: https://www.twitc
  h.tv/tastelesstv
 SUMMARY:Elimination match: ByuN vs Krystianer
-URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T180000Z
+UID:pandascore-match-1418608@esport-ics
+DTSTART:20260327T180000Z
+DTEND:20260327T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Basilisk Big Brain Bouts - Season 110 2026 - Playoffs\nWatch: h
+ ttps://twitch.tv/rotterdam08
+SUMMARY:youngYakov vs Krystianer
+URL;VALUE=URI:https://twitch.tv/rotterdam08
 END:VEVENT
 END:VCALENDAR
