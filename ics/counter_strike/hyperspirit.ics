@@ -381,4 +381,15 @@ DESCRIPTION:DraculaN - Season 6 2026 - Group D\nWatch: https://kick.com/dra
 SUMMARY:HS vs INF
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T173000Z
+UID:pandascore-match-1404909@esport-ics
+DTSTART:20260329T173000Z
+DTEND:20260329T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group D\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Decider match: HS vs TBD
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
 END:VCALENDAR

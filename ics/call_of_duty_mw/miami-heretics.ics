@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 2 2026 - Playoffs\nWatch: https://w
  ww.youtube.com/watch?v=MENf-FbJYgU
 SUMMARY:Upper bracket quarterfinal 4: MH vs PAR
-URL;VALUE=URI:https://www.youtube.com/watch?v=MENf-FbJYgU
+URL:https://www.youtube.com/watch?v=MENf-FbJYgU
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T183000Z
+UID:pandascore-match-1411891@esport-ics
+DTSTART:20260327T183000Z
+DTEND:20260327T221500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Major 2 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/callofduty_esports
+SUMMARY:Lower bracket round 1 match 2: MH vs LAT
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR
