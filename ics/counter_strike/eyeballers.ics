@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:Journey - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/
  journey_cs2
 SUMMARY:Quarterfinal 4: EYE vs MZP
+URL:https://www.twitch.tv/journey_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T140000Z
+UID:pandascore-match-1398241@esport-ics
+DTSTART:20260328T140000Z
+DTEND:20260328T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Journey - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/
+ journey_cs2
+SUMMARY:Semifinal 2: HERO.A vs EYE
 URL;VALUE=URI:https://www.twitch.tv/journey_cs2
 END:VEVENT
 END:VCALENDAR

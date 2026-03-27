@@ -67,6 +67,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 Play-In 2026 - Play-In\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:BIG.A vs japczany
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T103000Z
+UID:pandascore-match-1400835@esport-ics
+DTSTART:20260330T103000Z
+DTEND:20260330T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Group C\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:ex-Zero Tenacity vs japczany
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

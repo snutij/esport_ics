@@ -604,4 +604,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: European Open Qualifier #2 2026 - Playoffs
 SUMMARY:Grand final: AKPO6ATbI vs WW
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T113000Z
+UID:pandascore-match-1400824@esport-ics
+DTSTART:20260328T113000Z
+DTEND:20260328T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Group A\nWatch: https://w
+ ww.kick.com/eplcs_en
+SUMMARY:WW vs MEGO
+URL;VALUE=URI:https://www.kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

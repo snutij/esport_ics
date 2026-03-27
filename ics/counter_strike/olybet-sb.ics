@@ -298,6 +298,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #19 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs
 SUMMARY:Round 3: RE vs OBSB
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T080000Z
+UID:pandascore-match-1400834@esport-ics
+DTSTART:20260330T080000Z
+DTEND:20260330T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Group C\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:STA vs OBSB
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

@@ -324,6 +324,17 @@ SUMMARY:Quarterfinal 4: AAB vs 3DMAX
 URL:https://www.twitch.tv/krl_stream
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260329T080000Z
+UID:pandascore-match-1400829@esport-ics
+DTSTART:20260329T080000Z
+DTEND:20260329T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Group B\nWatch: https://w
+ ww.kick.com/eplcs_en
+SUMMARY:AAB vs LILMIX
+URL;VALUE=URI:https://www.kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260331T100000Z
 UID:pandascore-match-1418629@esport-ics
 DTSTART:20260331T100000Z
