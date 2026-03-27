@@ -276,6 +276,17 @@ CLASS:PUBLIC
 DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group A\nWat
  ch: https://kick.com/starladder
 SUMMARY:Winners match: rottweilers vs KOL
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T170000Z
+UID:pandascore-match-1389803@esport-ics
+DTSTART:20260330T170000Z
+DTEND:20260330T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Playoffs\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 4: KOL vs G1
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
