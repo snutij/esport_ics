@@ -736,4 +736,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - European Finals season 56 2026 - Playoffs
 SUMMARY:Quarterfinal 2: QWE vs BG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T090000Z
+UID:pandascore-match-1413510@esport-ics
+DTSTART:20260328T090000Z
+DTEND:20260328T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #20 season 3 2026 - Play-
+ In\nWatch: https://kick.com/cct_cs2
+SUMMARY:Qualification match 1:  CSDIILIT vs QWE
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
