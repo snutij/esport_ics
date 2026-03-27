@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/valorant_emea
 SUMMARY:Upper bracket final: EP vs UCAM
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T160000Z
+UID:pandascore-match-1396302@esport-ics
+DTSTART:20260328T160000Z
+DTEND:20260328T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Lower bracket final: MDR vs UCAM
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
