@@ -131,8 +131,10 @@ UID:pandascore-match-1413607@esport-ics
 DTSTART:20260328T181500Z
 DTEND:20260328T190000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group B
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group B\nWatch: https://ki
+ ck.com/cosiq
 SUMMARY:FXW7 vs ASC
+URL;VALUE=URI:https://kick.com/cosiq
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260328T193000Z
@@ -151,8 +153,10 @@ UID:pandascore-match-1413611@esport-ics
 DTSTART:20260328T204500Z
 DTEND:20260328T213000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group B
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group B\nWatch: https://ki
+ ck.com/cosiq
 SUMMARY:CS vs FXW7
+URL;VALUE=URI:https://kick.com/cosiq
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260328T220000Z
@@ -160,7 +164,9 @@ UID:pandascore-match-1413612@esport-ics
 DTSTART:20260328T220000Z
 DTEND:20260328T224500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group B
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group B\nWatch: https://ki
+ ck.com/roman
 SUMMARY:HERO vs FXW7
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR
