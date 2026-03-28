@@ -36,6 +36,61 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - China Qualifier 2026 - Phase 1\nWatch: http
  s://live.bilibili.com/1989948419
 SUMMARY:Round 2 match 2: LNG vs TT
-URL;VALUE=URI:https://live.bilibili.com/1989948419
+URL:https://live.bilibili.com/1989948419
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T090000Z
+UID:pandascore-match-1420888@esport-ics
+DTSTART:20260410T090000Z
+DTEND:20260410T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:LNG vs EDG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T090000Z
+UID:pandascore-match-1420917@esport-ics
+DTSTART:20260424T090000Z
+DTEND:20260424T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:OMG vs LNG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T090000Z
+UID:pandascore-match-1420935@esport-ics
+DTSTART:20260503T090000Z
+DTEND:20260503T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:TT vs LNG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T090000Z
+UID:pandascore-match-1420941@esport-ics
+DTSTART:20260508T090000Z
+DTEND:20260508T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:UP vs LNG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T090000Z
+UID:pandascore-match-1420951@esport-ics
+DTSTART:20260514T090000Z
+DTEND:20260514T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:LNG vs LGD
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
 END:VEVENT
 END:VCALENDAR

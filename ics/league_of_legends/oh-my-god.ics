@@ -47,4 +47,59 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - China Qualifier 2026 - Phase 1
 SUMMARY:Round 3 match 1: NIP vs OMG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T090000Z
+UID:pandascore-match-1420892@esport-ics
+DTSTART:20260412T090000Z
+DTEND:20260412T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:OMG vs LGD
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T090000Z
+UID:pandascore-match-1420907@esport-ics
+DTSTART:20260417T090000Z
+DTEND:20260417T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:TT vs OMG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T090000Z
+UID:pandascore-match-1420917@esport-ics
+DTSTART:20260424T090000Z
+DTEND:20260424T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:OMG vs LNG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T090000Z
+UID:pandascore-match-1420949@esport-ics
+DTSTART:20260513T090000Z
+DTEND:20260513T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:OMG vs EDG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T090000Z
+UID:pandascore-match-1420953@esport-ics
+DTSTART:20260515T090000Z
+DTEND:20260515T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:UP vs OMG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
 END:VCALENDAR

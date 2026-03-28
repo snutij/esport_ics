@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Southeast Asia: Split 1 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/valorant_pacific
 SUMMARY:Lower bracket final: MTV vs 555
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T110000Z
+UID:pandascore-match-1403069@esport-ics
+DTSTART:20260329T110000Z
+DTEND:20260329T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Southeast Asia: Split 1 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/valorant_pacific
+SUMMARY:Grand final: SPE vs MTV
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR

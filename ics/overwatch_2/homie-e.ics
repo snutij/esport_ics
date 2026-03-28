@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 1 2026 - Group Stage\nWatch: https://live.bil
  ibili.com/23612045
 SUMMARY:Round 3: HE vs SV
-URL;VALUE=URI:https://live.bilibili.com/23612045
+URL:https://live.bilibili.com/23612045
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T070000Z
+UID:pandascore-match-1408600@esport-ics
+DTSTART:20260329T070000Z
+DTEND:20260329T091500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 1 2026 - Group Stage\nWatch: https://www.douy
+ u.com/945572
+SUMMARY:Round 4: HE vs MT
+URL;VALUE=URI:https://www.douyu.com/945572
 END:VEVENT
 END:VCALENDAR

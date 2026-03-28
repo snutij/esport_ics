@@ -51,8 +51,10 @@ UID:pandascore-match-1420881@esport-ics
 DTSTART:20260404T110000Z
 DTEND:20260404T131500Z
 CLASS:PUBLIC
-DESCRIPTION:LPL - Split 2 2026 - Group Ascend
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
 SUMMARY:WE vs NIP
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260408T090000Z
@@ -60,7 +62,141 @@ UID:pandascore-match-1420884@esport-ics
 DTSTART:20260408T090000Z
 DTEND:20260408T111500Z
 CLASS:PUBLIC
-DESCRIPTION:LPL - Split 2 2026 - Group Ascend
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
 SUMMARY:NIP vs IG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T090000Z
+UID:pandascore-match-1420886@esport-ics
+DTSTART:20260409T090000Z
+DTEND:20260409T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:WB vs NIP
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T110000Z
+UID:pandascore-match-1420908@esport-ics
+DTSTART:20260417T110000Z
+DTEND:20260417T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:NIP vs JDG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T110000Z
+UID:pandascore-match-1420914@esport-ics
+DTSTART:20260422T110000Z
+DTEND:20260422T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:NIP vs AL
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T110000Z
+UID:pandascore-match-1420916@esport-ics
+DTSTART:20260423T110000Z
+DTEND:20260423T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:NIP vs BLG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T070000Z
+UID:pandascore-match-1420919@esport-ics
+DTSTART:20260425T070000Z
+DTEND:20260425T091500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:TES vs NIP
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T090000Z
+UID:pandascore-match-1420926@esport-ics
+DTSTART:20260429T090000Z
+DTEND:20260429T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:NIP vs JDG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T110000Z
+UID:pandascore-match-1420936@esport-ics
+DTSTART:20260503T110000Z
+DTEND:20260503T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:NIP vs BLG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T110000Z
+UID:pandascore-match-1420940@esport-ics
+DTSTART:20260507T110000Z
+DTEND:20260507T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:NIP vs AL
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T090000Z
+UID:pandascore-match-1420943@esport-ics
+DTSTART:20260509T090000Z
+DTEND:20260509T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:NIP vs IG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T090000Z
+UID:pandascore-match-1420945@esport-ics
+DTSTART:20260510T090000Z
+DTEND:20260510T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:WB vs NIP
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T090000Z
+UID:pandascore-match-1420947@esport-ics
+DTSTART:20260512T090000Z
+DTEND:20260512T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:TES vs NIP
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T110000Z
+UID:pandascore-match-1420956@esport-ics
+DTSTART:20260516T110000Z
+DTEND:20260516T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:WE vs NIP
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
 END:VEVENT
 END:VCALENDAR
