@@ -219,7 +219,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group A\nWatch: https://ki
  ck.com/watchfultv
 SUMMARY:BB vs WC
-URL;VALUE=URI:https://kick.com/watchfultv
+URL:https://kick.com/watchfultv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260328T150000Z
@@ -228,9 +228,9 @@ DTSTART:20260328T150000Z
 DTEND:20260328T154500Z
 CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group A\nWatch: https://ki
- ck.com/bopomo
+ ck.com/roman
 SUMMARY:BB vs SNG
-URL;VALUE=URI:https://kick.com/bopomo
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260401T123000Z
