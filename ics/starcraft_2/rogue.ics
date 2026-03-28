@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 4 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/tastelesstv
 SUMMARY:Lower bracket round 1 match 2: herO vs Rogue
-URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T113000Z
+UID:pandascore-match-1402124@esport-ics
+DTSTART:20260403T113000Z
+DTEND:20260403T151500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 4 2026 - Playoffs\nWatch: https://www.kick
+ .com/tastelesstv
+SUMMARY:Lower bracket quarterfinal 2: Rogue vs TBD
+URL;VALUE=URI:https://www.kick.com/tastelesstv
 END:VEVENT
 END:VCALENDAR
