@@ -33,7 +33,9 @@ UID:pandascore-match-1416686@esport-ics
 DTSTART:20260328T110000Z
 DTEND:20260328T131500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - China Qualifier 2026 - Phase 1
+DESCRIPTION:Esports World Cup - China Qualifier 2026 - Phase 1\nWatch: http
+ s://live.bilibili.com/1989948419
 SUMMARY:Round 2 match 2: LNG vs TT
+URL;VALUE=URI:https://live.bilibili.com/1989948419
 END:VEVENT
 END:VCALENDAR

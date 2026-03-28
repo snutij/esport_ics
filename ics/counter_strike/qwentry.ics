@@ -753,8 +753,10 @@ UID:pandascore-match-1418468@esport-ics
 DTSTART:20260328T183000Z
 DTEND:20260328T204500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - European Finals season 56 2026 - Playoffs
+DESCRIPTION:ESEA - European Finals season 56 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/byalli
 SUMMARY:Semifinal 1: OLDBOYS- vs QWE
+URL;VALUE=URI:https://www.twitch.tv/byalli
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260329T140000Z
@@ -777,5 +779,14 @@ DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Playoffs\nWatch: https:/
  /kick.com/nodwin_cs2
 SUMMARY:Round of 16 match 8: NEM vs QWE
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T170000Z
+UID:pandascore-match-1420009@esport-ics
+DTSTART:20260330T170000Z
+DTEND:20260330T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 12: QWE vs TBD
 END:VEVENT
 END:VCALENDAR

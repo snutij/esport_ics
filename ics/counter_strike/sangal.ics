@@ -339,8 +339,10 @@ UID:pandascore-match-1413597@esport-ics
 DTSTART:20260328T111500Z
 DTEND:20260328T120000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group A
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group A\nWatch: https://ki
+ ck.com/ga-aleks
 SUMMARY:SNG vs NOMERCY
+URL;VALUE=URI:https://kick.com/ga-aleks
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260328T123000Z
@@ -348,8 +350,10 @@ UID:pandascore-match-1413599@esport-ics
 DTSTART:20260328T123000Z
 DTEND:20260328T131500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group A
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group A\nWatch: https://ki
+ ck.com/trottah
 SUMMARY:SNG vs WC
+URL;VALUE=URI:https://kick.com/trottah
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260328T134500Z
@@ -357,8 +361,10 @@ UID:pandascore-match-1413601@esport-ics
 DTSTART:20260328T134500Z
 DTEND:20260328T143000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group A
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group A\nWatch: https://ki
+ ck.com/bopomo
 SUMMARY:BST vs SNG
+URL;VALUE=URI:https://kick.com/bopomo
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260328T150000Z
@@ -366,7 +372,9 @@ UID:pandascore-match-1413602@esport-ics
 DTSTART:20260328T150000Z
 DTEND:20260328T154500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group A
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group A\nWatch: https://ki
+ ck.com/bopomo
 SUMMARY:BB vs SNG
+URL;VALUE=URI:https://kick.com/bopomo
 END:VEVENT
 END:VCALENDAR

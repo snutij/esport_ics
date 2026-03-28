@@ -78,6 +78,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Korea: Split 1 2026 - Regular Season\nWatch: https://www.
  youtube.com/watch?v=OFr3aTuj8-A
 SUMMARY:DK vs FOX
-URL;VALUE=URI:https://www.youtube.com/watch?v=OFr3aTuj8-A
+URL:https://www.youtube.com/watch?v=OFr3aTuj8-A
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T080000Z
+UID:pandascore-match-1420071@esport-ics
+DTSTART:20260402T080000Z
+DTEND:20260402T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Playoffs\nWatch: https://www.youtub
+ e.com/@ValorantEsportsKR/live
+SUMMARY:Upper bracket semifinal 1: DK vs TBD
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
 END:VEVENT
 END:VCALENDAR

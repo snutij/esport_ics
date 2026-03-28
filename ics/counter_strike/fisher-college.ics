@@ -73,4 +73,13 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: North American Open Qualifier #1 2026 - Playoffs
 SUMMARY:Quarterfinal 3: ClayMakers Reborn vs FC
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T130000Z
+UID:pandascore-match-1419986@esport-ics
+DTSTART:20260329T130000Z
+DTEND:20260329T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 1: FC vs rottweilers
+END:VEVENT
 END:VCALENDAR

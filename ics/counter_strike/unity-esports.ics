@@ -403,4 +403,13 @@ DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group C\nWat
 SUMMARY:Decider match: UNiTY vs TBD
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T130000Z
+UID:pandascore-match-1420002@esport-ics
+DTSTART:20260330T130000Z
+DTEND:20260330T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 5: UNiTY vs TBD
+END:VEVENT
 END:VCALENDAR
