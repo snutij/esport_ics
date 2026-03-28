@@ -17,12 +17,14 @@ SUMMARY:Lower bracket round 1 match 2: DK vs DAY
 URL:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260328T100000Z
+DTSTAMP:20260328T070000Z
 UID:pandascore-match-1414445@esport-ics
-DTSTART:20260328T100000Z
-DTEND:20260328T121500Z
+DTSTART:20260328T070000Z
+DTEND:20260328T091500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs
+DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/rainbow6
 SUMMARY:Upper bracket quarterfinal 2: SHE vs DAY
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
