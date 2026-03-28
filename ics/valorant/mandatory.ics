@@ -116,6 +116,17 @@ SUMMARY:Lower bracket final: MDR vs UCAM
 URL:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260329T150000Z
+UID:pandascore-match-1396303@esport-ics
+DTSTART:20260329T150000Z
+DTEND:20260329T184500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Grand final: EP vs MDR
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260404T130000Z
 UID:pandascore-match-1418573@esport-ics
 DTSTART:20260404T130000Z

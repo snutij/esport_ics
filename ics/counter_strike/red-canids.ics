@@ -212,6 +212,15 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - 2026 - Group D\nWatch: https://www.twitch.tv/
  ferjeeoficial
 SUMMARY:Elimination match: RED vs BHE
-URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
+URL:https://www.twitch.tv/ferjeeoficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T214000Z
+UID:pandascore-match-1411788@esport-ics
+DTSTART:20260328T214000Z
+DTEND:20260328T235500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - 2026 - Group D
+SUMMARY:Decider match: DS vs RED
 END:VEVENT
 END:VCALENDAR
