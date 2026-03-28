@@ -155,6 +155,17 @@ SUMMARY:Round 4: TNC vs Hashiras
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260329T140000Z
+UID:pandascore-match-1406931@esport-ics
+DTSTART:20260329T140000Z
+DTEND:20260329T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Group Stage\nWatch: htt
+ ps://www.kick.com/cct_cs
+SUMMARY:Round 1: RE vs TNC
+URL;VALUE=URI:https://www.kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260330T170000Z
 UID:pandascore-match-1420013@esport-ics
 DTSTART:20260330T170000Z

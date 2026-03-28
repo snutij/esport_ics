@@ -421,6 +421,17 @@ CLASS:PUBLIC
 DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Group D\nWat
  ch: https://kick.com/starladder
 SUMMARY:Winners match: ASTRAL vs HS
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T170000Z
+UID:pandascore-match-1406932@esport-ics
+DTSTART:20260329T170000Z
+DTEND:20260329T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Group Stage\nWatch: htt
+ ps://www.kick.com/cct_cs
+SUMMARY:Round 1: ASTRAL vs ENCE.A
+URL;VALUE=URI:https://www.kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

@@ -374,4 +374,15 @@ DESCRIPTION:European Pro League - Series 6 2026 - Group C\nWatch: https://k
 SUMMARY:STA vs OBSB
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T170000Z
+UID:pandascore-match-1406936@esport-ics
+DTSTART:20260330T170000Z
+DTEND:20260330T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Group Stage\nWatch: htt
+ ps://www.kick.com/cct_cs
+SUMMARY:Round 1: STA vs BBP
+URL;VALUE=URI:https://www.kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR
