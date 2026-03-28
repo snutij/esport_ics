@@ -36,6 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - China Qualifier 2026 - Phase 1\nWatch: http
  s://live.bilibili.com/1989948419
 SUMMARY:Round 2 match 1: OMG vs UP
-URL;VALUE=URI:https://live.bilibili.com/1989948419
+URL:https://live.bilibili.com/1989948419
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T080000Z
+UID:pandascore-match-1416687@esport-ics
+DTSTART:20260329T080000Z
+DTEND:20260329T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - China Qualifier 2026 - Phase 1
+SUMMARY:Round 3 match 1: NIP vs OMG
 END:VEVENT
 END:VCALENDAR
