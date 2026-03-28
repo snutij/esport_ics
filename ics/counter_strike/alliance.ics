@@ -407,6 +407,17 @@ SUMMARY:Semifinal 1: ALL vs JS
 URL:https://www.twitch.tv/journey_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260328T170000Z
+UID:pandascore-match-1398242@esport-ics
+DTSTART:20260328T170000Z
+DTEND:20260328T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Journey - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/
+ journey_cs2
+SUMMARY:Grand final: ALL vs TBD
+URL;VALUE=URI:https://www.twitch.tv/journey_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260330T110000Z
 UID:pandascore-match-1403836@esport-ics
 DTSTART:20260330T110000Z
