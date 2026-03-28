@@ -234,13 +234,13 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group B\nWatch: https://ki
  ck.com/watchfultv
 SUMMARY:HERO vs SAW
-URL;VALUE=URI:https://kick.com/watchfultv
+URL:https://kick.com/watchfultv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260328T220000Z
+DTSTAMP:20260328T230000Z
 UID:pandascore-match-1413612@esport-ics
-DTSTART:20260328T220000Z
-DTEND:20260328T224500Z
+DTSTART:20260328T230000Z
+DTEND:20260328T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group B\nWatch: https://ki
  ck.com/roman

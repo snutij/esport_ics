@@ -279,6 +279,15 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 6 2026 - Group B\nWatch: https://ww
  w.twitch.tv/Trottah
 SUMMARY:NIP vs VOCA
-URL;VALUE=URI:https://www.twitch.tv/Trottah
+URL:https://www.twitch.tv/Trottah
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T000000Z
+UID:pandascore-match-1421024@esport-ics
+DTSTART:20260329T000000Z
+DTEND:20260329T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Fragadelphia - York 2026 - Playoffs
+SUMMARY:Quarterfinal 1: VOCA vs F5
 END:VEVENT
 END:VCALENDAR
