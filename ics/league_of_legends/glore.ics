@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:GLORE
+SLUG:glore
+BEGIN:VEVENT
+DTSTAMP:20260401T173000Z
+UID:pandascore-match-1420093@esport-ics
+DTSTART:20260401T173000Z
+DTEND:20260401T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:GLR vs BCE
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T173000Z
+UID:pandascore-match-1420095@esport-ics
+DTSTART:20260407T173000Z
+DTEND:20260407T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:GLR vs AE
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T150000Z
+UID:pandascore-match-1420098@esport-ics
+DTSTART:20260414T150000Z
+DTEND:20260414T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:GLR vs DOC
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T150000Z
+UID:pandascore-match-1420104@esport-ics
+DTSTART:20260422T150000Z
+DTEND:20260422T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:GLR vs FSK
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T150000Z
+UID:pandascore-match-1420108@esport-ics
+DTSTART:20260506T150000Z
+DTEND:20260506T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:GLR vs DV1
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T150000Z
+UID:pandascore-match-1420110@esport-ics
+DTSTART:20260507T150000Z
+DTEND:20260507T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:GLR vs BOOM
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T150000Z
+UID:pandascore-match-1420115@esport-ics
+DTSTART:20260520T150000Z
+DTEND:20260520T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:GLR vs LDS
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+END:VCALENDAR

@@ -135,6 +135,83 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group E\nWatch: https://www.twitch
  .tv/otplol_
 SUMMARY:Grand final: FF vs BCE
-URL;VALUE=URI:https://www.twitch.tv/otplol_
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T173000Z
+UID:pandascore-match-1420093@esport-ics
+DTSTART:20260401T173000Z
+DTEND:20260401T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:GLR vs BCE
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T150000Z
+UID:pandascore-match-1420094@esport-ics
+DTSTART:20260407T150000Z
+DTEND:20260407T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:BCE vs DOC
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T173000Z
+UID:pandascore-match-1420101@esport-ics
+DTSTART:20260415T173000Z
+DTEND:20260415T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:BCE vs LDS
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T173000Z
+UID:pandascore-match-1420105@esport-ics
+DTSTART:20260422T173000Z
+DTEND:20260422T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:BCE vs AE
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T173000Z
+UID:pandascore-match-1420109@esport-ics
+DTSTART:20260506T173000Z
+DTEND:20260506T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:BCE vs BOOM
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T150000Z
+UID:pandascore-match-1420112@esport-ics
+DTSTART:20260519T150000Z
+DTEND:20260519T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:BCE vs FSK
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T173000Z
+UID:pandascore-match-1420118@esport-ics
+DTSTART:20260521T173000Z
+DTEND:20260521T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:BCE vs DV1
+URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR

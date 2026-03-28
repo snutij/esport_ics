@@ -91,6 +91,83 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group H\nWatch: https://www.twitch
  .tv/nervarien
 SUMMARY:Lower bracket final: TP vs BOOM
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T150000Z
+UID:pandascore-match-1420090@esport-ics
+DTSTART:20260331T150000Z
+DTEND:20260331T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:DV1 vs BOOM
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T150000Z
+UID:pandascore-match-1420096@esport-ics
+DTSTART:20260408T150000Z
+DTEND:20260408T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:LDS vs BOOM
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T173000Z
+UID:pandascore-match-1420099@esport-ics
+DTSTART:20260414T173000Z
+DTEND:20260414T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:FSK vs BOOM
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T173000Z
+UID:pandascore-match-1420103@esport-ics
+DTSTART:20260421T173000Z
+DTEND:20260421T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:DOC vs BOOM
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T173000Z
+UID:pandascore-match-1420109@esport-ics
+DTSTART:20260506T173000Z
+DTEND:20260506T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:BCE vs BOOM
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T150000Z
+UID:pandascore-match-1420110@esport-ics
+DTSTART:20260507T150000Z
+DTEND:20260507T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:GLR vs BOOM
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T173000Z
+UID:pandascore-match-1420116@esport-ics
+DTSTART:20260520T173000Z
+DTEND:20260520T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:AE vs BOOM
 URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR
