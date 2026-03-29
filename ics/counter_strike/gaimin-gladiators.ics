@@ -127,6 +127,17 @@ SUMMARY:Quarterfinal 4: GG vs DS
 URL:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260330T000000Z
+UID:pandascore-match-1411794@esport-ics
+DTSTART:20260330T000000Z
+DTEND:20260330T021500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /ferjeeoficial
+SUMMARY:Semifinal 2: GG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260402T190000Z
 UID:pandascore-match-1421565@esport-ics
 DTSTART:20260402T190000Z

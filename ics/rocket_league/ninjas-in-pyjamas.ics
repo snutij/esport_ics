@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS EU - Paris Major: Open 4 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/rocketleague
 SUMMARY:Semifinal 2: NIP vs KC
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T190000Z
+UID:pandascore-match-1421685@esport-ics
+DTSTART:20260329T190000Z
+DTEND:20260330T001500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS EU - Paris Major: Open 4 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/rocketleague
+SUMMARY:Grand final: NIP vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR
