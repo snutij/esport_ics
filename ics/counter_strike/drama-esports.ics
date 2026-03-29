@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Group D\nWatch: https://kick.com/dra
  culancsb
 SUMMARY:Elimination match: HS vs DRAMA
-URL;VALUE=URI:https://kick.com/draculancsb
+URL:https://kick.com/draculancsb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T173000Z
+UID:pandascore-match-1403835@esport-ics
+DTSTART:20260329T173000Z
+DTEND:20260329T194500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Group D\nWatch: https://kick.com/dra
+ culancsc
+SUMMARY:Decider match: INF vs DRAMA
+URL;VALUE=URI:https://kick.com/draculancsc
 END:VEVENT
 END:VCALENDAR

@@ -404,14 +404,14 @@ SUMMARY:HAVU vs SINQU
 URL:https://kick.com/draculancsb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260329T170000Z
+DTSTAMP:20260329T173000Z
 UID:pandascore-match-1403830@esport-ics
-DTSTART:20260329T170000Z
-DTEND:20260329T191500Z
+DTSTART:20260329T173000Z
+DTEND:20260329T194500Z
 CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Group C\nWatch: https://kick.com/dra
- culancs
-SUMMARY:Decider match: HAVU vs TBD
-URL;VALUE=URI:https://kick.com/draculancs
+ culancsd
+SUMMARY:Decider match: HAVU vs Strael-Bora
+URL;VALUE=URI:https://kick.com/draculancsd
 END:VEVENT
 END:VCALENDAR
