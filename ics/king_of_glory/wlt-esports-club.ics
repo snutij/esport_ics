@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:KPL Growth League - Spring 2026 - Group Stage\nWatch: https://l
  ive.bilibili.com/21654762
 SUMMARY:WLT vs KLG
+URL:https://live.bilibili.com/21654762
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T070000Z
+UID:pandascore-match-1413514@esport-ics
+DTSTART:20260404T070000Z
+DTEND:20260404T121500Z
+CLASS:PUBLIC
+DESCRIPTION:KPL Growth League - Spring 2026 - Playoffs\nWatch: https://live
+ .bilibili.com/21654762
+SUMMARY:Lower bracket round 1 match 1: WLT vs XQG
 URL;VALUE=URI:https://live.bilibili.com/21654762
 END:VEVENT
 END:VCALENDAR
