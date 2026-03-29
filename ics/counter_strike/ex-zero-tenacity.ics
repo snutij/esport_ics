@@ -570,8 +570,10 @@ UID:pandascore-match-1419996@esport-ics
 DTSTART:20260329T170000Z
 DTEND:20260329T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/eslcs
 SUMMARY:Upper bracket round 1 match 11: ex-Zero Tenacity vs RT
+URL;VALUE=URI:https://www.twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260330T103000Z
