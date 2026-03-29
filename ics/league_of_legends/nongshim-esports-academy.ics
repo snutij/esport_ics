@@ -150,8 +150,10 @@ UID:pandascore-match-1417051@esport-ics
 DTSTART:20260424T050000Z
 DTEND:20260424T071500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2\nWatch: https://play
+ -origin.sooplive.com/afchall
 SUMMARY:NS.EA vs DNS.C
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260427T070000Z
@@ -170,8 +172,10 @@ UID:pandascore-match-1417061@esport-ics
 DTSTART:20260430T050000Z
 DTEND:20260430T071500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2\nWatch: https://play
+ -origin.sooplive.com/afchall
 SUMMARY:NS.EA vs BRO
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T080000Z
@@ -179,8 +183,10 @@ UID:pandascore-match-1417067@esport-ics
 DTSTART:20260505T080000Z
 DTEND:20260505T101500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2\nWatch: https://play
+ -origin.sooplive.com/afchall
 SUMMARY:FOX.Y vs NS.EA
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260507T050000Z
