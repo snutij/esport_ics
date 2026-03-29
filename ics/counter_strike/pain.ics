@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - 2026 - Group D\nWatch: https://www.twitch.tv/
  ferjeeoficial
 SUMMARY:paiN vs BHE
+URL:https://www.twitch.tv/ferjeeoficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T130000Z
+UID:pandascore-match-1411789@esport-ics
+DTSTART:20260329T130000Z
+DTEND:20260329T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /ferjeeoficial
+SUMMARY:Quarterfinal 1: paiN vs SHIN
 URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR

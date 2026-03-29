@@ -317,6 +317,17 @@ DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 8: DNT vs TLR
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260330T093000Z
+UID:pandascore-match-1421527@esport-ics
+DTSTART:20260330T093000Z
+DTEND:20260330T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 3: BRUTE vs TLR
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260331T140000Z
 UID:pandascore-match-1389805@esport-ics
 DTSTART:20260331T140000Z

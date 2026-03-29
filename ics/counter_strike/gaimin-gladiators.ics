@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - 2026 - Group A\nWatch: https://www.twitch.tv/
  forg1
 SUMMARY:GG vs SHIN
-URL;VALUE=URI:https://www.twitch.tv/forg1
+URL:https://www.twitch.tv/forg1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T170000Z
+UID:pandascore-match-1411792@esport-ics
+DTSTART:20260329T170000Z
+DTEND:20260329T191500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /ferjeeoficial
+SUMMARY:Quarterfinal 4: GG vs DS
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR

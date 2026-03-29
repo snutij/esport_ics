@@ -325,6 +325,17 @@ SUMMARY:Round 2: Imperial.A vs Y.TigeRES
 URL:https://kick.com/exort_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260329T183000Z
+UID:pandascore-match-1421526@esport-ics
+DTSTART:20260329T183000Z
+DTEND:20260329T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 3: INF vs Imperial.A
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260331T080000Z
 UID:pandascore-match-1400861@esport-ics
 DTSTART:20260331T080000Z
