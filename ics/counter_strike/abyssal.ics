@@ -109,6 +109,15 @@ CLASS:PUBLIC
 DESCRIPTION:ANZC Locals - Brisbane: Autumn 2026 - Group A\nWatch: https://w
  ww.twitch.tv/dfragtv
 SUMMARY:MF vs Abyssal
-URL;VALUE=URI:https://www.twitch.tv/dfragtv
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T100000Z
+UID:pandascore-match-1421639@esport-ics
+DTSTART:20260403T100000Z
+DTEND:20260403T121500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 2: Arcade Esports vs Abyssal
 END:VEVENT
 END:VCALENDAR

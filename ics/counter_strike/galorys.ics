@@ -271,6 +271,15 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - 2026 - Group C\nWatch: https://www.twitch.tv/
  ferjeeoficial_b
 SUMMARY:Decider match: GLS vs IMP
-URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial_b
+URL:https://www.twitch.tv/ferjeeoficial_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T120000Z
+UID:pandascore-match-1421550@esport-ics
+DTSTART:20260401T120000Z
+DTEND:20260401T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Group A
+SUMMARY:MARS vs GLS
 END:VEVENT
 END:VCALENDAR

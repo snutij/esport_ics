@@ -775,8 +775,10 @@ UID:pandascore-match-1418470@esport-ics
 DTSTART:20260329T183000Z
 DTEND:20260329T204500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - European Finals season 56 2026 - Playoffs
+DESCRIPTION:ESEA - European Finals season 56 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/theeb1ye
 SUMMARY:Grand final: TNT vs QWE
+URL;VALUE=URI:https://www.twitch.tv/theeb1ye
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260330T080000Z

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ex-SportsBetExpert
+SLUG:ex-sportsbetexpert
+BEGIN:VEVENT
+DTSTAMP:20260403T010000Z
+UID:pandascore-match-1421612@esport-ics
+DTSTART:20260403T010000Z
+DTEND:20260403T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 6: Reign Above vs ex-SportsBetExpert
+END:VEVENT
+END:VCALENDAR

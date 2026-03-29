@@ -11,8 +11,10 @@ UID:pandascore-match-1413621@esport-ics
 DTSTART:20260329T140000Z
 DTEND:20260329T144500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group D
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group D\nWatch: https://ki
+ ck.com/luffastream
 SUMMARY:ESC vs cswalkers
+URL;VALUE=URI:https://kick.com/luffastream
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260329T163000Z
@@ -20,8 +22,10 @@ UID:pandascore-match-1413625@esport-ics
 DTSTART:20260329T163000Z
 DTEND:20260329T171500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group D
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group D\nWatch: https://ki
+ ck.com/watchfultvb
 SUMMARY:ACE vs cswalkers
+URL;VALUE=URI:https://kick.com/watchfultvb
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260329T174500Z
@@ -29,8 +33,10 @@ UID:pandascore-match-1413626@esport-ics
 DTSTART:20260329T174500Z
 DTEND:20260329T183000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group D
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group D\nWatch: https://ki
+ ck.com/roman
 SUMMARY:G2 vs cswalkers
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260329T190000Z
@@ -38,7 +44,9 @@ UID:pandascore-match-1413629@esport-ics
 DTSTART:20260329T190000Z
 DTEND:20260329T194500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group D
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group D\nWatch: https://ki
+ ck.com/watchfultvb
 SUMMARY:cswalkers vs CarritoSpain
+URL;VALUE=URI:https://kick.com/watchfultvb
 END:VEVENT
 END:VCALENDAR

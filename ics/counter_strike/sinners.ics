@@ -308,8 +308,10 @@ UID:pandascore-match-1413615@esport-ics
 DTSTART:20260329T090000Z
 DTEND:20260329T094500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group C
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group C\nWatch: https://ki
+ ck.com/roman
 SUMMARY:SIN vs OG
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260329T101500Z
@@ -317,8 +319,10 @@ UID:pandascore-match-1413616@esport-ics
 DTSTART:20260329T101500Z
 DTEND:20260329T110000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group C
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group C\nWatch: https://ki
+ ck.com/roman
 SUMMARY:BIG vs SIN
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260329T113000Z
@@ -326,7 +330,9 @@ UID:pandascore-match-1413619@esport-ics
 DTSTART:20260329T113000Z
 DTEND:20260329T121500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group C
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group C\nWatch: https://ki
+ ck.com/watchfultvb
 SUMMARY:SIN vs JJH
+URL;VALUE=URI:https://kick.com/watchfultvb
 END:VEVENT
 END:VCALENDAR

@@ -392,6 +392,15 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - 2026 - Group D\nWatch: https://www.twitch.tv/
  ferjeeoficial
 SUMMARY:Elimination match: RED vs BHE
-URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
+URL:https://www.twitch.tv/ferjeeoficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T120000Z
+UID:pandascore-match-1421560@esport-ics
+DTSTART:20260402T120000Z
+DTEND:20260402T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Group C
+SUMMARY:SHIN vs BHE
 END:VEVENT
 END:VCALENDAR

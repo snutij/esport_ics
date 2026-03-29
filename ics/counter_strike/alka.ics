@@ -54,4 +54,13 @@ DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
 SUMMARY:Round 2: Keyd vs ALKAa
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T120000Z
+UID:pandascore-match-1421549@esport-ics
+DTSTART:20260401T120000Z
+DTEND:20260401T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Group A
+SUMMARY:paiN vs ALKAa
+END:VEVENT
 END:VCALENDAR
