@@ -125,6 +125,17 @@ SUMMARY:HS vs INF
 URL:https://kick.com/draculancsc
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260329T163000Z
+UID:pandascore-match-1403835@esport-ics
+DTSTART:20260329T163000Z
+DTEND:20260329T184500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Group D\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:Decider match: INF vs TBD
+URL;VALUE=URI:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260329T183000Z
 UID:pandascore-match-1421526@esport-ics
 DTSTART:20260329T183000Z

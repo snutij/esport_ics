@@ -138,4 +138,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 1: FC vs rottweilers
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T130000Z
+UID:pandascore-match-1419998@esport-ics
+DTSTART:20260330T130000Z
+DTEND:20260330T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 1: JS vs rottweilers
+END:VEVENT
 END:VCALENDAR
