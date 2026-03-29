@@ -171,14 +171,14 @@ SUMMARY:Lower bracket semifinal 2: TL vs MGLZ
 URL:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260330T110000Z
+DTSTAMP:20260330T140000Z
 UID:pandascore-match-1403839@esport-ics
-DTSTART:20260330T110000Z
-DTEND:20260330T131500Z
+DTSTART:20260330T140000Z
+DTEND:20260330T161500Z
 CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancs
-SUMMARY:Upper bracket round 1 match 4: TBD vs TL
+SUMMARY:Upper bracket round 1 match 4: TL vs ICE
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR

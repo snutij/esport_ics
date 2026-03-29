@@ -144,6 +144,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
  .com/exort-en2
 SUMMARY:Round 3: INF vs Imperial.A
-URL;VALUE=URI:https://kick.com/exort-en2
+URL:https://kick.com/exort-en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T140000Z
+UID:pandascore-match-1403840@esport-ics
+DTSTART:20260330T140000Z
+DTEND:20260330T161500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Upper bracket round 1 match 5: AUR vs INF
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR

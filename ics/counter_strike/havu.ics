@@ -412,6 +412,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Group C\nWatch: https://kick.com/dra
  culancsd
 SUMMARY:Decider match: HAVU vs Strael-Bora
-URL;VALUE=URI:https://kick.com/draculancsd
+URL:https://kick.com/draculancsd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T110000Z
+UID:pandascore-match-1403837@esport-ics
+DTSTART:20260330T110000Z
+DTEND:20260330T131500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Upper bracket round 1 match 2: MNTE vs HAVU
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR

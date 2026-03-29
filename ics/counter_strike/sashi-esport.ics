@@ -320,6 +320,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Group C\nWatch: https://kick.com/dra
  culancsd
 SUMMARY:SASHI vs Strael-Bora
-URL;VALUE=URI:https://kick.com/draculancsd
+URL:https://kick.com/draculancsd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T140000Z
+UID:pandascore-match-1403841@esport-ics
+DTSTART:20260330T140000Z
+DTEND:20260330T161500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Upper bracket round 1 match 6: FNC vs SASHI
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
