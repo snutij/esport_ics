@@ -39,6 +39,17 @@ SUMMARY:Exilium vs BERG
 URL:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260330T180000Z
+UID:pandascore-match-1385716@esport-ics
+DTSTART:20260330T180000Z
+DTEND:20260330T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:BERG vs REV
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260401T180000Z
 UID:pandascore-match-1385730@esport-ics
 DTSTART:20260401T180000Z
@@ -47,17 +58,6 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/dachcs
 SUMMARY:Ducks vs BERG
-URL;VALUE=URI:https://www.twitch.tv/dachcs
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260408T180000Z
-UID:pandascore-match-1385716@esport-ics
-DTSTART:20260408T180000Z
-DTEND:20260408T201500Z
-CLASS:PUBLIC
-DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
- ww.twitch.tv/dachcs
-SUMMARY:BERG vs REV
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
