@@ -307,7 +307,9 @@ UID:pandascore-match-1421030@esport-ics
 DTSTART:20260329T230000Z
 DTEND:20260330T024500Z
 CLASS:PUBLIC
-DESCRIPTION:Fragadelphia - York 2026 - Playoffs
+DESCRIPTION:Fragadelphia - York 2026 - Playoffs\nWatch: https://kick.com/fr
+ ag
 SUMMARY:Grand final: VOCA vs FC
+URL;VALUE=URI:https://kick.com/frag
 END:VEVENT
 END:VCALENDAR
