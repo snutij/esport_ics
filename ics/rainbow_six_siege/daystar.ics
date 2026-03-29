@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/rainbow6
 SUMMARY:Upper bracket quarterfinal 2: SHE vs DAY
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T090000Z
+UID:pandascore-match-1422214@esport-ics
+DTSTART:20260404T090000Z
+DTEND:20260404T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 1: FURY vs DAY
 END:VEVENT
 END:VCALENDAR

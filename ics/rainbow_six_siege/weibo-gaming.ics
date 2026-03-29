@@ -47,4 +47,13 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 1: WBG vs FURY
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T060000Z
+UID:pandascore-match-1422206@esport-ics
+DTSTART:20260404T060000Z
+DTEND:20260404T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 1: WBG vs SHE
+END:VEVENT
 END:VCALENDAR

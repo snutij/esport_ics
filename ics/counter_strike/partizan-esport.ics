@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Group B\nWatch: https://kick.com/dra
  culancs
 SUMMARY:Winners match: PAR vs BMB
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260329T163000Z
+UID:pandascore-match-1403824@esport-ics
+DTSTART:20260329T163000Z
+DTEND:20260329T184500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Group B\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:Decider match: PAR vs TBD
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
