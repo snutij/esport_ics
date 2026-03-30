@@ -223,6 +223,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 2 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship_b
 SUMMARY:Lower bracket quarterfinal 2: AM vs 100T
-URL;VALUE=URI:https://kick.com/challengerchampionship_b
+URL:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T140000Z
+UID:pandascore-match-1403896@esport-ics
+DTSTART:20260331T140000Z
+DTEND:20260331T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: European Closed Qualifier 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/PGL
+SUMMARY:Upper bracket quarterfinal 3: 100T vs MGC
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR
