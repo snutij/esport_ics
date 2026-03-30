@@ -89,4 +89,13 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Championships - Closed Qualifier 2026 - Playoffs
 SUMMARY:Lower bracket quarterfinal 2: AE vs FLY
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T030000Z
+UID:pandascore-match-1423192@esport-ics
+DTSTART:20260401T030000Z
+DTEND:20260401T051500Z
+CLASS:PUBLIC
+DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: FLY vs UR
+END:VEVENT
 END:VCALENDAR
