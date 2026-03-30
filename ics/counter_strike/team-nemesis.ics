@@ -429,6 +429,17 @@ SUMMARY:Round of 16 match 8: NEM vs QWE
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260331T080000Z
+UID:pandascore-match-1399008@esport-ics
+DTSTART:20260331T080000Z
+DTEND:20260331T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #19 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs
+SUMMARY:Round of 16 match 1: NEM vs STA
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260401T100000Z
 UID:pandascore-match-1413385@esport-ics
 DTSTART:20260401T100000Z

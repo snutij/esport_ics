@@ -264,8 +264,10 @@ UID:pandascore-match-1413636@esport-ics
 DTSTART:20260330T214000Z
 DTEND:20260330T235500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Playoffs
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Playoffs\nWatch: https://k
+ ick.com/trottah
 SUMMARY:3rd Place match: G2 vs ACE
+URL;VALUE=URI:https://kick.com/trottah
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260401T100000Z

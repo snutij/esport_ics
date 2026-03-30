@@ -812,6 +812,17 @@ DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket round 2 match 12: QWE vs GRIND
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260331T110000Z
+UID:pandascore-match-1399009@esport-ics
+DTSTART:20260331T110000Z
+DTEND:20260331T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #19 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs
+SUMMARY:Round of 16 match 2: JS vs QWE
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260401T170000Z
 UID:pandascore-match-1420019@esport-ics
 DTSTART:20260401T170000Z

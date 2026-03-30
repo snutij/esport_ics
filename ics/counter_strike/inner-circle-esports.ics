@@ -279,6 +279,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancsc
 SUMMARY:Lower bracket round 1 match 2: ICE vs BMB
-URL;VALUE=URI:https://kick.com/draculancsc
+URL:https://kick.com/draculancsc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T130000Z
+UID:pandascore-match-1403857@esport-ics
+DTSTART:20260331T130000Z
+DTEND:20260331T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Lower bracket round 2 match 2: ICE vs TBD
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
