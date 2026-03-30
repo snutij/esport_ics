@@ -558,9 +558,9 @@ DTSTART:20260330T110000Z
 DTEND:20260330T131500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Group Stage\nWatch: htt
- ps://www.kick.com/cct_cs
+ ps://kick.com/cct_cs
 SUMMARY:Round 1: OMG vs URSA
-URL;VALUE=URI:https://www.kick.com/cct_cs
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260330T170000Z
@@ -568,8 +568,10 @@ UID:pandascore-match-1420011@esport-ics
 DTSTART:20260330T170000Z
 DTEND:20260330T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/karmaflexxx
 SUMMARY:Upper bracket round 2 match 14: URSA vs ex-Zero Tenacity
+URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260401T103000Z

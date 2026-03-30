@@ -216,6 +216,26 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/eslcs
 SUMMARY:Upper bracket round 1 match 11: ex-Zero Tenacity vs RT
-URL;VALUE=URI:https://www.twitch.tv/eslcs
+URL:https://www.twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T103000Z
+UID:pandascore-match-1423178@esport-ics
+DTSTART:20260331T103000Z
+DTEND:20260331T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 47 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:RT vs Inner Circle Academy
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T170000Z
+UID:pandascore-match-1420068@esport-ics
+DTSTART:20260331T170000Z
+DTEND:20260331T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 10: TBD vs RT
 END:VEVENT
 END:VCALENDAR

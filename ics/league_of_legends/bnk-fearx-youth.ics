@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2\nWatch: https://play
  -origin.sooplive.com/afchall
 SUMMARY:FOX.Y vs HLE
-URL;VALUE=URI:https://play-origin.sooplive.com/afchall
+URL:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260403T050000Z
@@ -22,8 +22,10 @@ UID:pandascore-match-1417021@esport-ics
 DTSTART:20260403T050000Z
 DTEND:20260403T071500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2\nWatch: https://play
+ -origin.sooplive.com/afchall
 SUMMARY:NS.EA vs FOX.Y
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260406T050000Z
@@ -141,8 +143,10 @@ UID:pandascore-match-1417076@esport-ics
 DTSTART:20260511T090000Z
 DTEND:20260511T111500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2\nWatch: https://play
+ -origin.sooplive.com/afchall
 SUMMARY:FOX.Y vs DNS.C
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260514T050000Z
@@ -161,8 +165,10 @@ UID:pandascore-match-1417087@esport-ics
 DTSTART:20260519T080000Z
 DTEND:20260519T101500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2\nWatch: https://play
+ -origin.sooplive.com/afchall
 SUMMARY:FOX.Y vs BRO
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260522T050000Z
@@ -181,8 +187,10 @@ UID:pandascore-match-1417195@esport-ics
 DTSTART:20260525T070000Z
 DTEND:20260525T091500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2\nWatch: https://play
+ -origin.sooplive.com/afchall
 SUMMARY:FOX.Y vs T1.A
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260528T050000Z

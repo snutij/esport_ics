@@ -238,8 +238,10 @@ UID:pandascore-match-1413631@esport-ics
 DTSTART:20260330T080000Z
 DTEND:20260330T101500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Playoffs
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Playoffs\nWatch: https://k
+ ick.com/bladeito
 SUMMARY:Quarterfinal 2: SIN vs BB
+URL;VALUE=URI:https://kick.com/bladeito
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260401T123000Z
