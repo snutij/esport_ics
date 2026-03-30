@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Spring 2026 - Playoffs\nWatch: https://live.b
  ilibili.com/55
 SUMMARY:Lower bracket round 2 match 1: WB vs LGD
+URL:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T103000Z
+UID:pandascore-match-1411659@esport-ics
+DTSTART:20260401T103000Z
+DTEND:20260401T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Spring 2026 - Playoffs\nWatch: https://live.b
+ ilibili.com/55
+SUMMARY:Lower bracket quarterfinal 1: KSG vs WB
 URL;VALUE=URI:https://live.bilibili.com/55
 END:VEVENT
 END:VCALENDAR
