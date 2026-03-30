@@ -419,6 +419,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Playoffs\nWatch: https://k
  ick.com/watchfultvb
 SUMMARY:Quarterfinal 4: HERO vs ACE
+URL:https://kick.com/watchfultvb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T173000Z
+UID:pandascore-match-1413635@esport-ics
+DTSTART:20260330T173000Z
+DTEND:20260330T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Playoffs\nWatch: https://k
+ ick.com/watchfultvb
+SUMMARY:Semifinal 2: BST vs ACE
 URL;VALUE=URI:https://kick.com/watchfultvb
 END:VEVENT
 END:VCALENDAR
