@@ -430,6 +430,15 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Playoffs\nWatch: https://k
  ick.com/watchfultvb
 SUMMARY:Semifinal 2: BST vs ACE
-URL;VALUE=URI:https://kick.com/watchfultvb
+URL:https://kick.com/watchfultvb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T214000Z
+UID:pandascore-match-1413636@esport-ics
+DTSTART:20260330T214000Z
+DTEND:20260330T235500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Playoffs
+SUMMARY:3rd Place match: G2 vs ACE
 END:VEVENT
 END:VCALENDAR

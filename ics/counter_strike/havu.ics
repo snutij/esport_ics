@@ -434,6 +434,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancsd
 SUMMARY:Lower bracket round 1 match 3: LC vs HAVU
-URL;VALUE=URI:https://kick.com/draculancsd
+URL:https://kick.com/draculancsd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T130000Z
+UID:pandascore-match-1403858@esport-ics
+DTSTART:20260331T130000Z
+DTEND:20260331T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Lower bracket round 2 match 3: HAVU vs TBD
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
