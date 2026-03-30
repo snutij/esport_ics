@@ -196,6 +196,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancsc
 SUMMARY:Upper bracket round 1 match 3: M80 vs BMB
-URL;VALUE=URI:https://kick.com/draculancsc
+URL:https://kick.com/draculancsc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T100000Z
+UID:pandascore-match-1403845@esport-ics
+DTSTART:20260331T100000Z
+DTEND:20260331T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Upper bracket quarterfinal 2: TL vs M80
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
