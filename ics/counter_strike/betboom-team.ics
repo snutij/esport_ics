@@ -244,6 +244,17 @@ SUMMARY:Quarterfinal 2: SIN vs BB
 URL:https://kick.com/bladeito
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260330T140000Z
+UID:pandascore-match-1413634@esport-ics
+DTSTART:20260330T140000Z
+DTEND:20260330T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Playoffs\nWatch: https://k
+ ick.com/watchfultv
+SUMMARY:Semifinal 1: BB vs G2
+URL;VALUE=URI:https://kick.com/watchfultv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260401T123000Z
 UID:pandascore-match-1413386@esport-ics
 DTSTART:20260401T123000Z

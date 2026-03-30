@@ -423,6 +423,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancsd
 SUMMARY:Upper bracket round 1 match 5: MNTE vs HAVU
-URL;VALUE=URI:https://kick.com/draculancsd
+URL:https://kick.com/draculancsd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T170000Z
+UID:pandascore-match-1403854@esport-ics
+DTSTART:20260330T170000Z
+DTEND:20260330T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Lower bracket round 1 match 3: LC vs HAVU
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR

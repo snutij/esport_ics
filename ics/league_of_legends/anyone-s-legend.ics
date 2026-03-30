@@ -90,6 +90,17 @@ SUMMARY:JDG vs AL
 URL;VALUE=URI:https://www.twitch.tv/lplenglish
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260414T080000Z
+UID:pandascore-match-1418492@esport-ics
+DTSTART:20260414T080000Z
+DTEND:20260414T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - China Qualifier 2026 - Phase 2\nWatch: http
+ s://www.douyu.com/424559
+SUMMARY:Upper bracket semifinal 2: WB vs AL
+URL;VALUE=URI:https://www.douyu.com/424559
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260416T090000Z
 UID:pandascore-match-1420905@esport-ics
 DTSTART:20260416T090000Z
