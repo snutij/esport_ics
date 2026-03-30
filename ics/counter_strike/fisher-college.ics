@@ -113,4 +113,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 1: TBD vs FC
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T230000Z
+UID:pandascore-match-1404165@esport-ics
+DTSTART:20260331T230000Z
+DTEND:20260401T011500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: North American Closed Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 2: ZOMB vs FC
+END:VEVENT
 END:VCALENDAR

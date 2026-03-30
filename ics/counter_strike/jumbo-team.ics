@@ -220,6 +220,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 5: EP vs JUMBO
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T060000Z
+UID:pandascore-match-1423145@esport-ics
+DTSTART:20260402T060000Z
+DTEND:20260402T081500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 4 2026 - Group A\nWatch: https://
+ www.twitch.tv/mpkbk
+SUMMARY:1WIN vs JUMBO
+URL;VALUE=URI:https://www.twitch.tv/mpkbk
 END:VEVENT
 END:VCALENDAR

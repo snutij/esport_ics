@@ -302,6 +302,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #3 2026 - Playoffs\nWatch: https://kick
  .com/cct-cs5
 SUMMARY:Lower bracket semifinal: bankaPEPSI vs CYBERSHOKE Prospects
-URL;VALUE=URI:https://kick.com/cct-cs5
+URL:https://kick.com/cct-cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T150000Z
+UID:pandascore-match-1423149@esport-ics
+DTSTART:20260402T150000Z
+DTEND:20260402T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 4 2026 - Group D\nWatch: https://
+ www.twitch.tv/mpkbk
+SUMMARY:SPARTA vs CYBERSHOKE Prospects
+URL;VALUE=URI:https://www.twitch.tv/mpkbk
 END:VEVENT
 END:VCALENDAR

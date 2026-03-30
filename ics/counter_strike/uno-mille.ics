@@ -324,6 +324,17 @@ SUMMARY:Round 2: UNO vs paiN.A
 URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260330T230000Z
+UID:pandascore-match-1413572@esport-ics
+DTSTART:20260330T230000Z
+DTEND:20260331T011500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 3: MIBR.A vs UNO
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260402T210000Z
 UID:pandascore-match-1421578@esport-ics
 DTSTART:20260402T210000Z

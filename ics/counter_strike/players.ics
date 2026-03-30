@@ -323,6 +323,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 2: PLS vs MAG
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T140000Z
+UID:pandascore-match-1413569@esport-ics
+DTSTART:20260330T140000Z
+DTEND:20260330T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 3: FDB vs PLS
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR

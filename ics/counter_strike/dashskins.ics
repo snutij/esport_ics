@@ -235,6 +235,17 @@ SUMMARY:Quarterfinal 4: GG vs DS
 URL:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260331T140000Z
+UID:pandascore-match-1404068@esport-ics
+DTSTART:20260331T140000Z
+DTEND:20260331T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/PGL
+SUMMARY:Upper bracket quarterfinal 1: DS vs Keyd
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260401T190000Z
 UID:pandascore-match-1421555@esport-ics
 DTSTART:20260401T190000Z

@@ -275,6 +275,17 @@ SUMMARY:Elimination match: ODK vs GH
 URL:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260331T200000Z
+UID:pandascore-match-1404070@esport-ics
+DTSTART:20260331T200000Z
+DTEND:20260331T221500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/PGL
+SUMMARY:Upper bracket quarterfinal 3: FDB vs GH
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260402T190000Z
 UID:pandascore-match-1421564@esport-ics
 DTSTART:20260402T190000Z

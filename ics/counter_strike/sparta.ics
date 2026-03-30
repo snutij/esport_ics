@@ -153,4 +153,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: European Open Qualifier #2 2026 - Playoffs
 SUMMARY:Round of 16 match 1: SPARTA vs PRE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T150000Z
+UID:pandascore-match-1423149@esport-ics
+DTSTART:20260402T150000Z
+DTEND:20260402T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 4 2026 - Group D\nWatch: https://
+ www.twitch.tv/mpkbk
+SUMMARY:SPARTA vs CYBERSHOKE Prospects
+URL;VALUE=URI:https://www.twitch.tv/mpkbk
+END:VEVENT
 END:VCALENDAR

@@ -419,4 +419,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Playoffs\nWatch: https:/
 SUMMARY:Round of 16 match 7: NEMI vs ALGO
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T060000Z
+UID:pandascore-match-1423154@esport-ics
+DTSTART:20260403T060000Z
+DTEND:20260403T081500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/mpkbk
+SUMMARY:NEMI vs 5Actors
+URL;VALUE=URI:https://www.twitch.tv/mpkbk
+END:VEVENT
 END:VCALENDAR

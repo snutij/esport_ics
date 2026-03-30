@@ -213,4 +213,26 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - March 2026 - Group D
 SUMMARY:Decider match: MIBR.A vs GE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T230000Z
+UID:pandascore-match-1413572@esport-ics
+DTSTART:20260330T230000Z
+DTEND:20260331T011500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 3: MIBR.A vs UNO
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T170000Z
+UID:pandascore-match-1404069@esport-ics
+DTSTART:20260331T170000Z
+DTEND:20260331T191500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/PGL
+SUMMARY:Upper bracket quarterfinal 2: ODK vs MIBR.A
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
 END:VCALENDAR

@@ -386,6 +386,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/watchfulTVd
 SUMMARY:Lower bracket quarterfinal 2: TDK vs URSA
-URL;VALUE=URI:https://www.twitch.tv/watchfulTVd
+URL:https://www.twitch.tv/watchfulTVd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T150000Z
+UID:pandascore-match-1423150@esport-ics
+DTSTART:20260402T150000Z
+DTEND:20260402T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 4 2026 - Group D\nWatch: https://
+ www.twitch.tv/mpkbk
+SUMMARY:TDK vs EP
+URL;VALUE=URI:https://www.twitch.tv/mpkbk
 END:VEVENT
 END:VCALENDAR

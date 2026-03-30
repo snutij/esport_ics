@@ -341,6 +341,28 @@ SUMMARY:Round 2: Keyd vs ALKAa
 URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260331T140000Z
+UID:pandascore-match-1404068@esport-ics
+DTSTART:20260331T140000Z
+DTEND:20260331T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/PGL
+SUMMARY:Upper bracket quarterfinal 1: DS vs Keyd
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T230000Z
+UID:pandascore-match-1413576@esport-ics
+DTSTART:20260331T230000Z
+DTEND:20260401T011500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 3: Keyd vs VSC
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260402T210000Z
 UID:pandascore-match-1421582@esport-ics
 DTSTART:20260402T210000Z
