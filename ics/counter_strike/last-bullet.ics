@@ -127,6 +127,17 @@ DESCRIPTION:MaceMedia VOID Cup - Spring 2026 - Playoffs
 SUMMARY:Lower bracket final: RA vs LB
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260401T080000Z
+UID:pandascore-match-1424615@esport-ics
+DTSTART:20260401T080000Z
+DTEND:20260401T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Yuqilin - Pinnacle of Battle season 3 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/narodcast
+SUMMARY:Elimination match: Chaos Gaming vs LB
+URL;VALUE=URI:https://www.twitch.tv/narodcast
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260402T130000Z
 UID:pandascore-match-1421658@esport-ics
 DTSTART:20260402T130000Z

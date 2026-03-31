@@ -159,6 +159,17 @@ DESCRIPTION:MaceMedia VOID Cup - Spring 2026 - Playoffs
 SUMMARY:Grand final: MSTAR vs RA
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260331T083000Z
+UID:pandascore-match-1424607@esport-ics
+DTSTART:20260331T083000Z
+DTEND:20260331T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Yuqilin - Pinnacle of Battle season 3 2026 - Group B\nWatch: ht
+ tps://www.twitch.tv/narodcast
+SUMMARY:BP vs RA
+URL;VALUE=URI:https://www.twitch.tv/narodcast
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260401T030000Z
 UID:pandascore-match-1423193@esport-ics
 DTSTART:20260401T030000Z

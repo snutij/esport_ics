@@ -14,4 +14,13 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: Oceania Closed Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 2: MF vs 11mins
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T080000Z
+UID:pandascore-match-1424596@esport-ics
+DTSTART:20260331T080000Z
+DTEND:20260331T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: Oceania Closed Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket final: 11mins vs TBD
+END:VEVENT
 END:VCALENDAR

@@ -210,7 +210,9 @@ UID:pandascore-match-1420068@esport-ics
 DTSTART:20260331T170000Z
 DTEND:20260331T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/kevindoruk
 SUMMARY:Lower bracket round 1 match 10: TNT vs RT
+URL;VALUE=URI:https://www.twitch.tv/kevindoruk
 END:VEVENT
 END:VCALENDAR
