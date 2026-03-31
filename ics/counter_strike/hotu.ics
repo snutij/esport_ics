@@ -301,6 +301,17 @@ SUMMARY:Upper bracket quarterfinal 4: HOTU vs ACROBATS
 URL:https://www.twitch.tv/Trottah
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260401T110000Z
+UID:pandascore-match-1403899@esport-ics
+DTSTART:20260401T110000Z
+DTEND:20260401T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: European Closed Qualifier 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/PGL
+SUMMARY:Lower bracket round 1 match 2: 100T vs HOTU
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260403T150000Z
 UID:pandascore-match-1423159@esport-ics
 DTSTART:20260403T150000Z

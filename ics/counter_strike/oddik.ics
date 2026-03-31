@@ -268,6 +268,17 @@ SUMMARY:Upper bracket quarterfinal 2: ODK vs MIBR.A
 URL:https://www.twitch.tv/karmaflexxx
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260401T200000Z
+UID:pandascore-match-1404094@esport-ics
+DTSTART:20260401T200000Z
+DTEND:20260401T221500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/PGL
+SUMMARY:Upper bracket semifinal 1: Keyd vs ODK
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260402T190000Z
 UID:pandascore-match-1421564@esport-ics
 DTSTART:20260402T190000Z

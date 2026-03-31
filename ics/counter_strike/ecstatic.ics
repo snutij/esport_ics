@@ -406,4 +406,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 6 2026 - Playoffs\nWatch: https:/
 SUMMARY:Quarterfinal 3: ECS vs JS
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T140000Z
+UID:pandascore-match-1399018@esport-ics
+DTSTART:20260402T140000Z
+DTEND:20260402T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #19 season 3 2026 - Playoffs\nWatch: https:
+ //kick.com/cct_cs
+SUMMARY:Quarterfinal 3: ECS vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR
