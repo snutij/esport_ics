@@ -574,6 +574,17 @@ SUMMARY:Upper bracket round 2 match 14: URSA vs ex-Zero Tenacity
 URL:https://www.twitch.tv/karmaflexxx
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260331T140000Z
+UID:pandascore-match-1406939@esport-ics
+DTSTART:20260331T140000Z
+DTEND:20260331T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Group Stage\nWatch: htt
+ ps://www.kick.com/cct_cs
+SUMMARY:Round 2: MEGO vs URSA
+URL;VALUE=URI:https://www.kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260401T103000Z
 UID:pandascore-match-1400825@esport-ics
 DTSTART:20260401T103000Z

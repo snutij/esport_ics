@@ -158,6 +158,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 3: RGG vs TS.A
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T123000Z
+UID:pandascore-match-1424588@esport-ics
+DTSTART:20260331T123000Z
+DTEND:20260331T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 4: BRUTE vs TS.A
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

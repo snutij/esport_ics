@@ -341,6 +341,17 @@ DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 7: OBSB vs DNT
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260331T170000Z
+UID:pandascore-match-1406940@esport-ics
+DTSTART:20260331T170000Z
+DTEND:20260331T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Group Stage\nWatch: htt
+ ps://www.kick.com/cct_cs
+SUMMARY:Round 2: OMG vs OBSB
+URL;VALUE=URI:https://www.kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260403T080000Z
 UID:pandascore-match-1400859@esport-ics
 DTSTART:20260403T080000Z
