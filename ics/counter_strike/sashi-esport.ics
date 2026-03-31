@@ -364,6 +364,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancs
 SUMMARY:Lower bracket round 3 match 2: TL vs SASHI
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T130000Z
+UID:pandascore-match-1403863@esport-ics
+DTSTART:20260401T130000Z
+DTEND:20260401T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Lower bracket quarterfinal 2: SASHI vs TBD
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
