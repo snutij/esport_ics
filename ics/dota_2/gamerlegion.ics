@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL One - Birmingham 2026 - Group A\nWatch: https://www.twitch.
  tv/esl_dota2
 SUMMARY:Tiebreaker: GL vs PARI
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T190000Z
+UID:pandascore-match-1419657@esport-ics
+DTSTART:20260404T190000Z
+DTEND:20260404T211500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Group A\nWatch: https://www.twitch.tv/b
+ etboom_dota_ru
+SUMMARY:GL vs Z10
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 END:VCALENDAR

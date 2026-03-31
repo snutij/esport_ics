@@ -72,6 +72,17 @@ SUMMARY:OMG vs LGD
 URL;VALUE=URI:https://www.twitch.tv/lplenglish
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260413T060000Z
+UID:pandascore-match-1418489@esport-ics
+DTSTART:20260413T060000Z
+DTEND:20260413T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - China Qualifier 2026 - Phase 2\nWatch: http
+ s://www.douyu.com/424559
+SUMMARY:Lower bracket round 1 match 1: WE vs OMG
+URL;VALUE=URI:https://www.douyu.com/424559
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260417T090000Z
 UID:pandascore-match-1420907@esport-ics
 DTSTART:20260417T090000Z

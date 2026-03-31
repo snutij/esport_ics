@@ -91,6 +91,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - Season 8 2026 - Playoffs\nWatch: https://kick.com/cct_dot
  a
 SUMMARY:Grand final: 1WIN vs paiN
-URL;VALUE=URI:https://kick.com/cct_dota
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T060000Z
+UID:pandascore-match-1419656@esport-ics
+DTSTART:20260401T060000Z
+DTEND:20260401T081500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Group A\nWatch: https://www.twitch.tv/b
+ etboom_dota_ru
+SUMMARY:1WIN vs YeS
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T070000Z
+UID:pandascore-match-1419634@esport-ics
+DTSTART:20260404T070000Z
+DTEND:20260404T091500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Group A\nWatch: https://www.twitch.tv/b
+ etboom_dota_ru
+SUMMARY:1WIN vs VP.P
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 END:VCALENDAR

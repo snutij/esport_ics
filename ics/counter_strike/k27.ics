@@ -391,6 +391,17 @@ SUMMARY:Upper bracket quarterfinal 1: K27 vs WW
 URL:https://www.twitch.tv/watchfulTVb
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260401T140000Z
+UID:pandascore-match-1403902@esport-ics
+DTSTART:20260401T140000Z
+DTEND:20260401T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: European Closed Qualifier 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/PGL
+SUMMARY:Upper bracket semifinal 1: Lavked vs K27
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260402T060000Z
 UID:pandascore-match-1423144@esport-ics
 DTSTART:20260402T060000Z

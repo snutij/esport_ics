@@ -105,4 +105,15 @@ DESCRIPTION:CCT Europe - Series #19 season 3 2026 - Playoffs\nWatch: https:
 SUMMARY:Round of 16 match 5: ex-RUBY vs Lavked
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T140000Z
+UID:pandascore-match-1403902@esport-ics
+DTSTART:20260401T140000Z
+DTEND:20260401T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: European Closed Qualifier 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/PGL
+SUMMARY:Upper bracket semifinal 1: Lavked vs K27
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
 END:VCALENDAR
