@@ -229,7 +229,18 @@ DTEND:20260331T124500Z
 CLASS:PUBLIC
 DESCRIPTION:United21 - Season 47 2026 - Group B\nWatch: https://kick.com/un
  ited21_en
-SUMMARY:RT vs Inner Circle Academy
+SUMMARY:RT vs IC.A
 URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T173000Z
+UID:pandascore-match-1404922@esport-ics
+DTSTART:20260406T173000Z
+DTEND:20260406T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Play-In\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Upper bracket quarterfinal 2: IC.A vs UNiTY
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

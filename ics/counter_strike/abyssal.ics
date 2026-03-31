@@ -121,6 +121,15 @@ DESCRIPTION:PGL - Astana: Oceania Closed Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 1: GZ vs Abyssal
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260401T050000Z
+UID:pandascore-match-1424598@esport-ics
+DTSTART:20260401T050000Z
+DTEND:20260401T071500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: Oceania Closed Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket final: Abyssal vs TBD
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260403T100000Z
 UID:pandascore-match-1421639@esport-ics
 DTSTART:20260403T100000Z
