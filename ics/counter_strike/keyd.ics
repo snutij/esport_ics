@@ -349,7 +349,7 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
  Watch: https://www.twitch.tv/kabrafps
 SUMMARY:Upper bracket quarterfinal 1: DS vs Keyd
-URL;VALUE=URI:https://www.twitch.tv/kabrafps
+URL:https://www.twitch.tv/kabrafps
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260331T230000Z
@@ -361,6 +361,17 @@ DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 3: Keyd vs VSC
 URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T200000Z
+UID:pandascore-match-1404094@esport-ics
+DTSTART:20260401T200000Z
+DTEND:20260401T221500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/PGL
+SUMMARY:Upper bracket semifinal 1: Keyd vs TBD
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260402T210000Z

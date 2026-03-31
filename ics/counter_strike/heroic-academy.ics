@@ -362,4 +362,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket round 3 match 8: HERO.A vs TNC
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T103000Z
+UID:pandascore-match-1400931@esport-ics
+DTSTART:20260404T103000Z
+DTEND:20260404T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Group D\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Winners match: Hashiras vs HERO.A
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

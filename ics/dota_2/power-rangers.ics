@@ -214,4 +214,15 @@ DESCRIPTION:PREMIER SERIES - 2026 - Group B\nWatch: https://www.twitch.tv/b
 SUMMARY:NGX vs PR
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T130000Z
+UID:pandascore-match-1419662@esport-ics
+DTSTART:20260407T130000Z
+DTEND:20260407T151500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Group B\nWatch: https://www.twitch.tv/b
+ etboom_dota_ru2
+SUMMARY:PIPS+4 vs PR
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru2
+END:VEVENT
 END:VCALENDAR

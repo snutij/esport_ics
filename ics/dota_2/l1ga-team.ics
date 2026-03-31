@@ -289,4 +289,26 @@ DESCRIPTION:PREMIER SERIES - 2026 - Group B\nWatch: https://www.twitch.tv/b
 SUMMARY:VP vs L1GA
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T070000Z
+UID:pandascore-match-1419654@esport-ics
+DTSTART:20260406T070000Z
+DTEND:20260406T091500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Group B\nWatch: https://www.twitch.tv/b
+ etboom_dota_ru2
+SUMMARY:L1GA vs PIPS+4
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T160000Z
+UID:pandascore-match-1419663@esport-ics
+DTSTART:20260407T160000Z
+DTEND:20260407T181500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Group B\nWatch: https://www.twitch.tv/b
+ etboom_dota_ru2
+SUMMARY:NGX vs L1GA
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru2
+END:VEVENT
 END:VCALENDAR

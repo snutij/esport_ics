@@ -115,4 +115,26 @@ DESCRIPTION:PREMIER SERIES - 2026 - Group A\nWatch: https://www.twitch.tv/b
 SUMMARY:1WIN vs VP.P
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T100000Z
+UID:pandascore-match-1419643@esport-ics
+DTSTART:20260406T100000Z
+DTEND:20260406T121500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Group A\nWatch: https://www.twitch.tv/b
+ etboom_dota_ru
+SUMMARY:1WIN vs Z10
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T100000Z
+UID:pandascore-match-1419659@esport-ics
+DTSTART:20260407T100000Z
+DTEND:20260407T121500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Group A\nWatch: https://www.twitch.tv/b
+ etboom_dota_ru
+SUMMARY:GL vs 1WIN
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
 END:VCALENDAR

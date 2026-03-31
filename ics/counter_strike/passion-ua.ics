@@ -187,6 +187,17 @@ SUMMARY:Upper bracket quarterfinal 4: PSSN.UA vs FaZe
 URL:https://kick.com/draculancs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260331T173000Z
+UID:pandascore-match-1403849@esport-ics
+DTSTART:20260331T173000Z
+DTEND:20260331T194500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancsc
+SUMMARY:Upper bracket semifinal 2: MNTE vs PSSN.UA
+URL;VALUE=URI:https://kick.com/draculancsc
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260404T093000Z
 UID:pandascore-match-1421695@esport-ics
 DTSTART:20260404T093000Z
