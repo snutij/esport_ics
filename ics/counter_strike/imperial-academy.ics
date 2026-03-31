@@ -368,4 +368,15 @@ DESCRIPTION:United21 - Season 47 2026 - Group A\nWatch: https://kick.com/un
 SUMMARY:Winners match: SNG vs Imperial.A
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T080000Z
+UID:pandascore-match-1400932@esport-ics
+DTSTART:20260404T080000Z
+DTEND:20260404T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Group D\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Elimination match: Imperial.A vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

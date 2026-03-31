@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group B\nWatch: https://www.twitch.t
  v/valorantleague_dach
 SUMMARY:BAR vs FKS
-URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+URL:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T150000Z
+UID:pandascore-match-1424699@esport-ics
+DTSTART:20260406T150000Z
+DTEND:20260406T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Spain: Rising Phase 1 Stage 3 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/LVPes2
+SUMMARY:Upper bracket quarterfinal 1: BAR vs TBD
+URL;VALUE=URI:https://www.twitch.tv/LVPes2
 END:VEVENT
 END:VCALENDAR
