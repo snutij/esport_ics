@@ -119,6 +119,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/iikka_artturi
 SUMMARY:Lower bracket round 1 match 11: ROTTW vs AHK
-URL;VALUE=URI:https://www.twitch.tv/iikka_artturi
+URL:https://www.twitch.tv/iikka_artturi
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T130000Z
+UID:pandascore-match-1420058@esport-ics
+DTSTART:20260401T130000Z
+DTEND:20260401T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 8: PGE vs AHK
 END:VEVENT
 END:VCALENDAR
