@@ -56,9 +56,9 @@ DTSTART:20260403T180000Z
 DTEND:20260403T201500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
- h.tv/valorant_fr
+ h.tv/valorant_emea
 SUMMARY:BBL vs PCFIC
-URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260408T180000Z
@@ -78,9 +78,9 @@ DTSTART:20260415T150000Z
 DTEND:20260415T171500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
- h.tv/valorant_fr
+ h.tv/valorant_emea
 SUMMARY:BBL vs GX
-URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260424T180000Z
@@ -89,9 +89,9 @@ DTSTART:20260424T180000Z
 DTEND:20260424T201500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
- h.tv/valorant_fr
+ h.tv/valorant_emea
 SUMMARY:BBL vs VIT
-URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260430T180000Z
@@ -100,8 +100,8 @@ DTSTART:20260430T180000Z
 DTEND:20260430T201500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Omega\nWatch: https://www.twitc
- h.tv/valorant_fr
+ h.tv/valorant_emea
 SUMMARY:BBL vs FNC
-URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

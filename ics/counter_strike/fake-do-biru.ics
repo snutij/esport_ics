@@ -237,6 +237,17 @@ SUMMARY:Upper bracket quarterfinal 3: FDB vs GH
 URL:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260401T230000Z
+UID:pandascore-match-1404100@esport-ics
+DTSTART:20260401T230000Z
+DTEND:20260402T011500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/PGL
+SUMMARY:Upper bracket semifinal 2: FDB vs TBD
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260402T210000Z
 UID:pandascore-match-1421581@esport-ics
 DTSTART:20260402T210000Z

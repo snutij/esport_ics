@@ -34,9 +34,9 @@ DTSTART:20260403T150000Z
 DTEND:20260403T171500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
- h.tv/valorant_fr
+ h.tv/valorant_emea
 SUMMARY:TH vs NAVI
-URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260410T150000Z
@@ -45,9 +45,9 @@ DTSTART:20260410T150000Z
 DTEND:20260410T171500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
- h.tv/valorant_fr
+ h.tv/valorant_emea
 SUMMARY:FUT vs NAVI
-URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260415T180000Z
@@ -56,9 +56,9 @@ DTSTART:20260415T180000Z
 DTEND:20260415T201500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
- h.tv/valorant_fr
+ h.tv/valorant_emea
 SUMMARY:GM vs NAVI
-URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260424T150000Z
@@ -67,9 +67,9 @@ DTSTART:20260424T150000Z
 DTEND:20260424T171500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
- h.tv/valorant_fr
+ h.tv/valorant_emea
 SUMMARY:NAVI vs TL
-URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260430T150000Z
@@ -78,8 +78,8 @@ DTSTART:20260430T150000Z
 DTEND:20260430T171500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 1 2026 - Group Alpha\nWatch: https://www.twitc
- h.tv/valorant_fr
+ h.tv/valorant_emea
 SUMMARY:NAVI vs KC
-URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

@@ -301,6 +301,15 @@ SUMMARY:BST vs Atputies
 URL:https://kick.com/challengerchampionship_b
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260401T080000Z
+UID:pandascore-match-1419473@esport-ics
+DTSTART:20260401T080000Z
+DTEND:20260401T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 4: BST vs PHA
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260403T093000Z
 UID:pandascore-match-1421690@esport-ics
 DTSTART:20260403T093000Z
