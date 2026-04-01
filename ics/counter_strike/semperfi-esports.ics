@@ -212,6 +212,15 @@ CLASS:PUBLIC
 DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/aferatv
 SUMMARY:Upper bracket quarterfinal 3: TYLOO vs SFE
-URL;VALUE=URI:https://www.twitch.tv/aferatv
+URL:https://www.twitch.tv/aferatv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T030000Z
+UID:pandascore-match-1423196@esport-ics
+DTSTART:20260402T030000Z
+DTEND:20260402T051500Z
+CLASS:PUBLIC
+DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 1: FLY vs SFE
 END:VEVENT
 END:VCALENDAR

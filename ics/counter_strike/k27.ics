@@ -412,4 +412,15 @@ DESCRIPTION:CIS LAN Championship - Season 4 2026 - Group A\nWatch: https://
 SUMMARY:K27 vs NVQ
 URL;VALUE=URI:https://www.twitch.tv/mpkbk
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T090000Z
+UID:pandascore-match-1423146@esport-ics
+DTSTART:20260402T090000Z
+DTEND:20260402T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 4 2026 - Group A\nWatch: https://
+ www.twitch.tv/mpkbk
+SUMMARY:Winners match: K27 vs TBD
+URL;VALUE=URI:https://www.twitch.tv/mpkbk
+END:VEVENT
 END:VCALENDAR

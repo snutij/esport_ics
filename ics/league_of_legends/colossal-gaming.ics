@@ -47,6 +47,83 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group C\nWatch: https://www.twitch
  .tv/hitpointcz
 SUMMARY:Lower bracket semifinal: CG vs NBS
-URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+URL:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T160000Z
+UID:pandascore-match-1426136@esport-ics
+DTSTART:20260401T160000Z
+DTEND:20260401T164500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:CG vs SHE
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T170000Z
+UID:pandascore-match-1426141@esport-ics
+DTSTART:20260402T170000Z
+DTEND:20260402T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:HMBLE vs CG
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T180000Z
+UID:pandascore-match-1426146@esport-ics
+DTSTART:20260403T180000Z
+DTEND:20260403T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:CG vs TTS
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T190000Z
+UID:pandascore-match-1426160@esport-ics
+DTSTART:20260409T190000Z
+DTEND:20260409T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:CG vs AE
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T190000Z
+UID:pandascore-match-1426173@esport-ics
+DTSTART:20260410T190000Z
+DTEND:20260410T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:ZENA vs CG
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T180000Z
+UID:pandascore-match-1426176@esport-ics
+DTSTART:20260416T180000Z
+DTEND:20260416T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:EKO vs CG
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T170000Z
+UID:pandascore-match-1426179@esport-ics
+DTSTART:20260417T170000Z
+DTEND:20260417T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:GMB vs CG
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
 END:VEVENT
 END:VCALENDAR

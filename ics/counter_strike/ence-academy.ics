@@ -516,7 +516,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs2
 SUMMARY:Round 2: MZP vs ENCE.A
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260401T170000Z
@@ -524,8 +524,10 @@ UID:pandascore-match-1420017@esport-ics
 DTSTART:20260401T170000Z
 DTEND:20260401T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/GoYareGo
 SUMMARY:Upper bracket round 3 match 4: ENCE.A vs QUA
+URL;VALUE=URI:https://www.twitch.tv/GoYareGo
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260407T170000Z

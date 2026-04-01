@@ -58,6 +58,83 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group E\nWatch: https://www.twitch
  .tv/emeamasters
 SUMMARY:Lower bracket final: BCE vs HMBLE
-URL;VALUE=URI:https://www.twitch.tv/emeamasters
+URL:https://www.twitch.tv/emeamasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T190000Z
+UID:pandascore-match-1426139@esport-ics
+DTSTART:20260401T190000Z
+DTEND:20260401T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:GMB vs HMBLE
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T170000Z
+UID:pandascore-match-1426141@esport-ics
+DTSTART:20260402T170000Z
+DTEND:20260402T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:HMBLE vs CG
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T190000Z
+UID:pandascore-match-1426156@esport-ics
+DTSTART:20260403T190000Z
+DTEND:20260403T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:HMBLE vs AE
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T170000Z
+UID:pandascore-match-1426158@esport-ics
+DTSTART:20260409T170000Z
+DTEND:20260409T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:HMBLE vs EKO
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T180000Z
+UID:pandascore-match-1426172@esport-ics
+DTSTART:20260410T180000Z
+DTEND:20260410T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:HMBLE vs SHE
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T160000Z
+UID:pandascore-match-1426174@esport-ics
+DTSTART:20260416T160000Z
+DTEND:20260416T164500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:HMBLE vs TTS
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T160000Z
+UID:pandascore-match-1426178@esport-ics
+DTSTART:20260417T160000Z
+DTEND:20260417T164500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:HMBLE vs ZENA
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
 END:VEVENT
 END:VCALENDAR

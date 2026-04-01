@@ -300,7 +300,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 47 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:KSM vs YN
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260401T123000Z
@@ -312,6 +312,17 @@ DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 4: KSM vs ex-PeeP
 URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T103000Z
+UID:pandascore-match-1423185@esport-ics
+DTSTART:20260405T103000Z
+DTEND:20260405T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 47 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Elimination match: KSM vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260406T143000Z

@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs\nWatch: https://www.huya
  .com/480391
 SUMMARY:Upper bracket quarterfinal 4: THE vs XDM
-URL;VALUE=URI:https://www.huya.com/480391
+URL:https://www.huya.com/480391
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T060000Z
+UID:pandascore-match-1423199@esport-ics
+DTSTART:20260402T060000Z
+DTEND:20260402T081500Z
+CLASS:PUBLIC
+DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 2: RA vs XDM
 END:VEVENT
 END:VCALENDAR
