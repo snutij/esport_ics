@@ -268,6 +268,17 @@ SUMMARY:L1GA vs PIPS+4
 URL:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260402T170000Z
+UID:pandascore-match-1426133@esport-ics
+DTSTART:20260402T170000Z
+DTEND:20260402T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Europe Closed Qualifier season 7 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/rlg_dota2
+SUMMARY:Quarterfinal 4: Na`Vi vs L1GA
+URL;VALUE=URI:https://www.twitch.tv/rlg_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260405T100000Z
 UID:pandascore-match-1419650@esport-ics
 DTSTART:20260405T100000Z

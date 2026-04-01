@@ -421,6 +421,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL One - Birmingham 2026 - Playoffs\nWatch: https://www.twitch
  .tv/esl_dota2
 SUMMARY:Lower bracket quarterfinal 2: AUR vs PARI
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T080000Z
+UID:pandascore-match-1426130@esport-ics
+DTSTART:20260402T080000Z
+DTEND:20260402T101500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Europe Closed Qualifier season 7 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/rlg_dota2
+SUMMARY:Quarterfinal 1: AUR vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rlg_dota2
 END:VEVENT
 END:VCALENDAR

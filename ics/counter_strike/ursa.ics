@@ -585,17 +585,6 @@ SUMMARY:Round 2: MEGO vs URSA
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260401T103000Z
-UID:pandascore-match-1400825@esport-ics
-DTSTART:20260401T103000Z
-DTEND:20260401T124500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Series 6 2026 - Group A\nWatch: https://w
- ww.kick.com/eplcs_en
-SUMMARY:Winners match: MEGO vs URSA
-URL;VALUE=URI:https://www.kick.com/eplcs_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260401T110000Z
 UID:pandascore-match-1399013@esport-ics
 DTSTART:20260401T110000Z
@@ -614,5 +603,16 @@ DTEND:20260401T191500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket round 3 match 7: Just Players vs URSA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T103000Z
+UID:pandascore-match-1400825@esport-ics
+DTSTART:20260402T103000Z
+DTEND:20260402T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Group A\nWatch: https://w
+ ww.kick.com/eplcs_en
+SUMMARY:Winners match: MEGO vs URSA
+URL;VALUE=URI:https://www.kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

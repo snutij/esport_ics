@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NGNB
+SLUG:ngnb
+BEGIN:VEVENT
+DTSTAMP:20260402T110000Z
+UID:pandascore-match-1426126@esport-ics
+DTSTART:20260402T110000Z
+DTEND:20260402T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - China Closed Qualifier season 7 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/betboom_dota_ru4
+SUMMARY:Quarterfinal 4: YB vs NGNB
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru4
+END:VEVENT
+END:VCALENDAR
