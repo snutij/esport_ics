@@ -622,7 +622,7 @@ DTSTART:20260402T170000Z
 DTEND:20260402T191500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
-SUMMARY:Lower bracket round 3 match 2: ex-Zero Tenacity vs TBD
+SUMMARY:Lower bracket round 3 match 2: ex-Zero Tenacity vs RUST
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260403T103000Z
@@ -634,5 +634,27 @@ DESCRIPTION:European Pro League - Series 6 2026 - Group C\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Winners match: STA vs ex-Zero Tenacity
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T153000Z
+UID:pandascore-match-1427058@esport-ics
+DTSTART:20260403T153000Z
+DTEND:20260403T174500Z
+CLASS:PUBLIC
+DESCRIPTION:HLC Belgrade Pro - 2026 - Group B\nWatch: https://kick.com/rlgc
+ s
+SUMMARY:ex-Zero Tenacity vs DEO
+URL;VALUE=URI:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T203000Z
+UID:pandascore-match-1427060@esport-ics
+DTSTART:20260403T203000Z
+DTEND:20260403T224500Z
+CLASS:PUBLIC
+DESCRIPTION:HLC Belgrade Pro - 2026 - Group B\nWatch: https://kick.com/rlgc
+ s
+SUMMARY:ILWL vs ex-Zero Tenacity
+URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR

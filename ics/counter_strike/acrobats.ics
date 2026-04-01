@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: European Closed Qualifier 2026 - Playoffs\nWatch:
   https://www.twitch.tv/PGL
 SUMMARY:Upper bracket semifinal 2: MGC vs ACROBATS
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T110000Z
+UID:pandascore-match-1403900@esport-ics
+DTSTART:20260402T110000Z
+DTEND:20260402T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: European Closed Qualifier 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/PGL
+SUMMARY:Lower bracket quarterfinal 1: WW vs ACROBATS
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

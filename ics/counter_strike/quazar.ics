@@ -192,6 +192,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/GoYareGo
 SUMMARY:Upper bracket round 3 match 4: ENCE.A vs QUA
-URL;VALUE=URI:https://www.twitch.tv/GoYareGo
+URL:https://www.twitch.tv/GoYareGo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T170000Z
+UID:pandascore-match-1420046@esport-ics
+DTSTART:20260402T170000Z
+DTEND:20260402T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket round 3 match 4:  CSDIILIT vs QUA
 END:VEVENT
 END:VCALENDAR

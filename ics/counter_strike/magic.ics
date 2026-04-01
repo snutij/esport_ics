@@ -182,6 +182,50 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: European Closed Qualifier 2026 - Playoffs\nWatch:
   https://www.twitch.tv/PGL
 SUMMARY:Upper bracket semifinal 2: MGC vs ACROBATS
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T140000Z
+UID:pandascore-match-1403904@esport-ics
+DTSTART:20260402T140000Z
+DTEND:20260402T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: European Closed Qualifier 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/PGL
+SUMMARY:Upper bracket final: K27 vs MGC
 URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T070000Z
+UID:pandascore-match-1427061@esport-ics
+DTSTART:20260404T070000Z
+DTEND:20260404T091500Z
+CLASS:PUBLIC
+DESCRIPTION:HLC Belgrade Pro - 2026 - Group D\nWatch: https://kick.com/rlgc
+ s
+SUMMARY:MGC vs Re Di
+URL;VALUE=URI:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T093000Z
+UID:pandascore-match-1427063@esport-ics
+DTSTART:20260404T093000Z
+DTEND:20260404T114500Z
+CLASS:PUBLIC
+DESCRIPTION:HLC Belgrade Pro - 2026 - Group D\nWatch: https://kick.com/rlgc
+ s
+SUMMARY:MGC vs PIVOSQUAD
+URL;VALUE=URI:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T120000Z
+UID:pandascore-match-1427065@esport-ics
+DTSTART:20260404T120000Z
+DTEND:20260404T141500Z
+CLASS:PUBLIC
+DESCRIPTION:HLC Belgrade Pro - 2026 - Group D\nWatch: https://kick.com/rlgc
+ s
+SUMMARY:MGC vs CS
+URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR

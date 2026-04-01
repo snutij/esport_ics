@@ -446,6 +446,17 @@ SUMMARY:Round 2: ASTR vs RUST
 URL:https://www.kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260402T140000Z
+UID:pandascore-match-1406947@esport-ics
+DTSTART:20260402T140000Z
+DTEND:20260402T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Group Stage\nWatch: htt
+ ps://www.kick.com/cct_cs
+SUMMARY:Round 3: ASTR vs MEGO
+URL;VALUE=URI:https://www.kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260404T093000Z
 UID:pandascore-match-1421696@esport-ics
 DTSTART:20260404T093000Z

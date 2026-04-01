@@ -256,6 +256,17 @@ SUMMARY:Lower bracket round 1 match 1: DS vs MIBR.A
 URL:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260401T210000Z
+UID:pandascore-match-1426183@esport-ics
+DTSTART:20260401T210000Z
+DTEND:20260401T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - March 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/gamersclubcs
+SUMMARY:Semifinal 2: Alzon vs MIBR.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260401T230000Z
 UID:pandascore-match-1413581@esport-ics
 DTSTART:20260401T230000Z
@@ -265,14 +276,5 @@ DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 4: MIBR.A vs BST.A
 URL;VALUE=URI:https://www.twitch.tv/dust2br
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260402T213000Z
-UID:pandascore-match-1426183@esport-ics
-DTSTART:20260402T213000Z
-DTEND:20260402T234500Z
-CLASS:PUBLIC
-DESCRIPTION:Gamers Club Liga Série A - March 2026 - Playoffs
-SUMMARY:Semifinal 2: TBD vs MIBR.A
 END:VEVENT
 END:VCALENDAR
