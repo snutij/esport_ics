@@ -206,6 +206,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/JohnnySpeeds
 SUMMARY:Upper bracket round 3 match 1: JS vs 8S
-URL;VALUE=URI:https://www.twitch.tv/JohnnySpeeds
+URL:https://www.twitch.tv/JohnnySpeeds
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T170000Z
+UID:pandascore-match-1420043@esport-ics
+DTSTART:20260402T170000Z
+DTEND:20260402T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket round 3 match 1: YNG vs 8S
 END:VEVENT
 END:VCALENDAR
