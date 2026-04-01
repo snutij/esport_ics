@@ -117,6 +117,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
  Watch: https://www.twitch.tv/PGL
 SUMMARY:Upper bracket quarterfinal 4: 9z vs RED.A
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T170000Z
+UID:pandascore-match-1404082@esport-ics
+DTSTART:20260401T170000Z
+DTEND:20260401T191500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/PGL
+SUMMARY:Lower bracket round 1 match 2: GH vs RED.A
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

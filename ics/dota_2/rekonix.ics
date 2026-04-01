@@ -80,6 +80,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL One - Birmingham 2026 - Group A\nWatch: https://www.twitch.
  tv/esl_dota2
 SUMMARY:Tundra vs RNX
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T010000Z
+UID:pandascore-match-1426084@esport-ics
+DTSTART:20260402T010000Z
+DTEND:20260402T031500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 7 2026 - Pl
+ ayoffs
+SUMMARY:Quarterfinals match 1: RNX vs TBD
 END:VEVENT
 END:VCALENDAR
