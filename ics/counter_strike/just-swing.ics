@@ -96,6 +96,17 @@ SUMMARY:Elimination match: JS vs BP
 URL:https://www.twitch.tv/narodcast
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260402T103000Z
+UID:pandascore-match-1424610@esport-ics
+DTSTART:20260402T103000Z
+DTEND:20260402T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Yuqilin - Pinnacle of Battle season 3 2026 - Group B\nWatch: ht
+ tps://www.twitch.tv/narodcast
+SUMMARY:Decider match: RA vs JS
+URL;VALUE=URI:https://www.twitch.tv/narodcast
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260402T130000Z
 UID:pandascore-match-1421654@esport-ics
 DTSTART:20260402T130000Z
