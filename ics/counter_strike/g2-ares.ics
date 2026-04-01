@@ -344,7 +344,9 @@ UID:pandascore-match-1420018@esport-ics
 DTSTART:20260401T170000Z
 DTEND:20260401T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/xristcs
 SUMMARY:Upper bracket round 3 match 5: G2.A vs eLITenergy
+URL;VALUE=URI:https://www.twitch.tv/xristcs
 END:VEVENT
 END:VCALENDAR

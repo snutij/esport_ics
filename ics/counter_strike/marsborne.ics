@@ -232,4 +232,15 @@ CLASS:PUBLIC
 DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Group A
 SUMMARY:MARS vs GLS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T170000Z
+UID:pandascore-match-1421552@esport-ics
+DTSTART:20260401T170000Z
+DTEND:20260401T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/tris_mara
+SUMMARY:Elimination match: ALKA vs MARS
+URL;VALUE=URI:https://www.twitch.tv/tris_mara
+END:VEVENT
 END:VCALENDAR

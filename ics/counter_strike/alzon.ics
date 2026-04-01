@@ -140,7 +140,9 @@ UID:pandascore-match-1425489@esport-ics
 DTSTART:20260401T183000Z
 DTEND:20260401T204500Z
 CLASS:PUBLIC
-DESCRIPTION:Gamers Club Liga Série A - March 2026 - Playoffs
+DESCRIPTION:Gamers Club Liga Série A - March 2026 - Playoffs\nWatch: https
+ ://www.youtube.com/@GamersClubCS/streams
 SUMMARY:Quarterfinal 3: ALKA vs Alzon
+URL;VALUE=URI:https://www.youtube.com/@GamersClubCS/streams
 END:VEVENT
 END:VCALENDAR

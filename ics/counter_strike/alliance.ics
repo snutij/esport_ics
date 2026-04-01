@@ -470,6 +470,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancs
 SUMMARY:Lower bracket quarterfinal 1: AUR vs ALL
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T170000Z
+UID:pandascore-match-1403864@esport-ics
+DTSTART:20260401T170000Z
+DTEND:20260401T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancs
+SUMMARY:Lower bracket semifinal: PSSN.UA vs ALL
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR

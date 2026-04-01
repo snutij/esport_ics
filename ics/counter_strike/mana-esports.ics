@@ -498,7 +498,9 @@ UID:pandascore-match-1420015@esport-ics
 DTSTART:20260401T170000Z
 DTEND:20260401T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/dutchboycasts
 SUMMARY:Upper bracket round 3 match 2: RUST vs MANA
+URL;VALUE=URI:https://www.twitch.tv/dutchboycasts
 END:VEVENT
 END:VCALENDAR

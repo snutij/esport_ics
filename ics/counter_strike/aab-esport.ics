@@ -404,8 +404,10 @@ UID:pandascore-match-1419478@esport-ics
 DTSTART:20260401T180000Z
 DTEND:20260401T201500Z
 CLASS:PUBLIC
-DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Playoffs
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
 SUMMARY:Lower bracket quarterfinal 1: Falcons Force vs AAB
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260402T103000Z
