@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 2 2026 - Group Stage\nWatch: https:/
  /www.youtube.com/watch?v=Q72myHgq_0o
 SUMMARY:Round 3: NBG vs AG
-URL;VALUE=URI:https://www.youtube.com/watch?v=Q72myHgq_0o
+URL:https://www.youtube.com/watch?v=Q72myHgq_0o
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T230000Z
+UID:pandascore-match-1426093@esport-ics
+DTSTART:20260406T230000Z
+DTEND:20260407T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 2 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Round 4: NBG vs PGS
+URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR

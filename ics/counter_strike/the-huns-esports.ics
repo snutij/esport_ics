@@ -153,8 +153,10 @@ UID:pandascore-match-1423195@esport-ics
 DTSTART:20260401T060000Z
 DTEND:20260401T081500Z
 CLASS:PUBLIC
-DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs
+DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs\nWatch: https://www.huya
+ .com/480391
 SUMMARY:Upper bracket quarterfinal 4: THE vs XDM
+URL;VALUE=URI:https://www.huya.com/480391
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260401T080000Z

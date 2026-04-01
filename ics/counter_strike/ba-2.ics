@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: North American Closed Qualifier 2026 - Playoffs\n
  Watch: https://www.twitch.tv/endiezcasts
 SUMMARY:Upper bracket quarterfinal 4: LAG vs BA 2
-URL;VALUE=URI:https://www.twitch.tv/endiezcasts
+URL:https://www.twitch.tv/endiezcasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T230000Z
+UID:pandascore-match-1404169@esport-ics
+DTSTART:20260401T230000Z
+DTEND:20260402T011500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: North American Closed Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 2: BA 2 vs O49
 END:VEVENT
 END:VCALENDAR

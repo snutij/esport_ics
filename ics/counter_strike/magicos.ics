@@ -103,6 +103,17 @@ SUMMARY:Round 3: MAG vs BST.A
 URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260401T230000Z
+UID:pandascore-match-1413582@esport-ics
+DTSTART:20260401T230000Z
+DTEND:20260402T011500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 4: MAG vs MW
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260402T210000Z
 UID:pandascore-match-1421584@esport-ics
 DTSTART:20260402T210000Z
