@@ -779,8 +779,10 @@ UID:pandascore-match-1420054@esport-ics
 DTSTART:20260401T130000Z
 DTEND:20260401T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/iikka_artturi
 SUMMARY:Lower bracket round 2 match 4:  CSDIILIT vs m1x
+URL;VALUE=URI:https://www.twitch.tv/iikka_artturi
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260407T170000Z
