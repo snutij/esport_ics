@@ -461,6 +461,15 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship_b
 SUMMARY:Lower bracket round 1 match 2: PHA vs TBD
-URL;VALUE=URI:https://kick.com/challengerchampionship_b
+URL:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T180000Z
+UID:pandascore-match-1419479@esport-ics
+DTSTART:20260401T180000Z
+DTEND:20260401T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: PHA vs TBD
 END:VEVENT
 END:VCALENDAR

@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Unreal Nightmare
-SLUG:unreal-nightmare
+X-WR-CALNAME:Team Orchid
+SLUG:team-orchid
 BEGIN:VEVENT
 DTSTAMP:20260404T040000Z
 UID:pandascore-match-1414447@esport-ics

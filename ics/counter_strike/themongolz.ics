@@ -190,6 +190,15 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/BLASTPremier
 SUMMARY:Quarterfinal 1: AUR vs MGLZ
-URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T130000Z
+UID:pandascore-match-1426981@esport-ics
+DTSTART:20260404T130000Z
+DTEND:20260404T151500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest 2026 - Group Stage
+SUMMARY:Round 1: MGLZ vs BCG
 END:VEVENT
 END:VCALENDAR

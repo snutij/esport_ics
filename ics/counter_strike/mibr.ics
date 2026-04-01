@@ -143,6 +143,15 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - 2026 - Group A\nWatch: https://www.twitch.tv/
  ferjeeoficial
 SUMMARY:Decider match: MIBR vs SHIN
-URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
+URL:https://www.twitch.tv/ferjeeoficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T130000Z
+UID:pandascore-match-1426982@esport-ics
+DTSTART:20260404T130000Z
+DTEND:20260404T151500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest 2026 - Group Stage
+SUMMARY:Round 1: AST vs MIBR
 END:VEVENT
 END:VCALENDAR
