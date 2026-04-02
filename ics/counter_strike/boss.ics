@@ -284,13 +284,15 @@ SUMMARY:Upper bracket quarterfinal 3: O49 vs BOSS
 URL:https://www.twitch.tv/bonamant
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T020000Z
+DTSTAMP:20260402T022500Z
 UID:pandascore-match-1404171@esport-ics
-DTSTART:20260402T020000Z
-DTEND:20260402T041500Z
+DTSTART:20260402T022500Z
+DTEND:20260402T044000Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Astana: North American Closed Qualifier 2026 - Playoffs
+DESCRIPTION:PGL - Astana: North American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/bonamant
 SUMMARY:Upper bracket semifinal 2: LAG vs BOSS
+URL;VALUE=URI:https://www.twitch.tv/bonamant
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260403T010000Z
