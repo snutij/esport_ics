@@ -366,6 +366,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - China Closed Qualifier season 7 2026 - Playoffs\nW
  atch: https://www.twitch.tv/betboom_dota_ru4
 SUMMARY:Quarterfinal 3: Xtreme vs CR
+URL:https://www.twitch.tv/betboom_dota_ru4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T050000Z
+UID:pandascore-match-1426127@esport-ics
+DTSTART:20260403T050000Z
+DTEND:20260403T071500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - China Closed Qualifier season 7 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/betboom_dota_ru4
+SUMMARY:Semifinal 1: Roar vs Xtreme
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru4
 END:VEVENT
 END:VCALENDAR
