@@ -123,6 +123,17 @@ CLASS:PUBLIC
 DESCRIPTION:LOOP Cup - Season 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/aferatv
 SUMMARY:Grand final: LVG vs RA
-URL;VALUE=URI:https://www.twitch.tv/aferatv
+URL:https://www.twitch.tv/aferatv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T060000Z
+UID:pandascore-match-1424617@esport-ics
+DTSTART:20260403T060000Z
+DTEND:20260403T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Yuqilin - Pinnacle of Battle season 3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/narodcast
+SUMMARY:Upper bracket semifinal 1: LVG vs RA
+URL;VALUE=URI:https://www.twitch.tv/narodcast
 END:VEVENT
 END:VCALENDAR

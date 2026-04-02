@@ -151,4 +151,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Lower bracket round 3 match 3: GRIND vs Atreides
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T170000Z
+UID:pandascore-match-1420040@esport-ics
+DTSTART:20260403T170000Z
+DTEND:20260403T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket round 4 match 2: Atreides vs TBD
+END:VEVENT
 END:VCALENDAR

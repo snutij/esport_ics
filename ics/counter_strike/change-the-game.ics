@@ -157,6 +157,17 @@ DESCRIPTION:ESL Challenger League - Asia Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 3: ERUPT vs CTG
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260403T083000Z
+UID:pandascore-match-1424618@esport-ics
+DTSTART:20260403T083000Z
+DTEND:20260403T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Yuqilin - Pinnacle of Battle season 3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/narodcast
+SUMMARY:Upper bracket semifinal 2: TYLOO vs CTG
+URL;VALUE=URI:https://www.twitch.tv/narodcast
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260403T130000Z
 UID:pandascore-match-1421661@esport-ics
 DTSTART:20260403T130000Z
