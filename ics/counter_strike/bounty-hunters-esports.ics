@@ -403,6 +403,17 @@ CLASS:PUBLIC
 DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Group C\nWatch: ht
  tps://www.twitch.tv/locomass22
 SUMMARY:SHIN vs BHE
-URL;VALUE=URI:https://www.twitch.tv/locomass22
+URL:https://www.twitch.tv/locomass22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T163000Z
+UID:pandascore-match-1421561@esport-ics
+DTSTART:20260402T163000Z
+DTEND:20260402T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Group C\nWatch: ht
+ tps://kick.com/circuitx
+SUMMARY:Winners match: IMP vs BHE
+URL;VALUE=URI:https://kick.com/circuitx
 END:VEVENT
 END:VCALENDAR
