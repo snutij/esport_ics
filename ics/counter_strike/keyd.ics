@@ -393,7 +393,7 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
  Watch: https://www.twitch.tv/PGL
 SUMMARY:Lower bracket quarterfinal 2: Keyd vs GH
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260402T210000Z
@@ -403,5 +403,16 @@ DTEND:20260402T231500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 6: Keyd vs BST.A
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T230000Z
+UID:pandascore-match-1404161@esport-ics
+DTSTART:20260402T230000Z
+DTEND:20260403T011500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/PGL
+SUMMARY:Lower bracket semifinal: Keyd vs TBD
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR
