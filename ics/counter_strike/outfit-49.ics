@@ -215,4 +215,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 3: O49 vs OverKnight
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T013000Z
+UID:pandascore-match-1427598@esport-ics
+DTSTART:20260403T013000Z
+DTEND:20260403T034500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.us - Eagle Masters season 7 2026 - Group Stage
+SUMMARY:Round 2: O49 vs Reign Above
+END:VEVENT
 END:VCALENDAR

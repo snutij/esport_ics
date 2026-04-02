@@ -165,6 +165,61 @@ DTEND:20260314T143000Z
 CLASS:PUBLIC
 DESCRIPTION:CCT - Season 8 2026 - Group B\nWatch: https://kick.com/cct_dota
 SUMMARY:Decider match: IC vs Team Shpilit
-URL;VALUE=URI:https://kick.com/cct_dota
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T120000Z
+UID:pandascore-match-1428017@esport-ics
+DTSTART:20260406T120000Z
+DTEND:20260406T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:MODUS vs IC
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T150000Z
+UID:pandascore-match-1428018@esport-ics
+DTSTART:20260406T150000Z
+DTEND:20260406T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:IC vs RE
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T120000Z
+UID:pandascore-match-1428019@esport-ics
+DTSTART:20260407T120000Z
+DTEND:20260407T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:TS.A vs IC
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T180000Z
+UID:pandascore-match-1428022@esport-ics
+DTSTART:20260409T180000Z
+DTEND:20260409T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:VP.P vs IC
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T120000Z
+UID:pandascore-match-1428023@esport-ics
+DTSTART:20260411T120000Z
+DTEND:20260411T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:AVE vs IC
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

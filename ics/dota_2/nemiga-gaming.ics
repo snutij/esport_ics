@@ -168,6 +168,50 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 35 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Lower bracket final: Z10 vs Nemiga
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T150000Z
+UID:pandascore-match-1427947@esport-ics
+DTSTART:20260403T150000Z
+DTEND:20260403T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:LYNX vs Nemiga
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T120000Z
+UID:pandascore-match-1427972@esport-ics
+DTSTART:20260404T120000Z
+DTEND:20260404T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T150000Z
+UID:pandascore-match-1427975@esport-ics
+DTSTART:20260405T150000Z
+DTEND:20260405T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs NAVI.J
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T180000Z
+UID:pandascore-match-1428005@esport-ics
+DTSTART:20260407T180000Z
+DTEND:20260407T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs YeS
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

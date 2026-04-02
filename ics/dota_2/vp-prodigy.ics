@@ -301,6 +301,17 @@ SUMMARY:VP.P vs RE
 URL:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260403T090000Z
+UID:pandascore-match-1428011@esport-ics
+DTSTART:20260403T090000Z
+DTEND:20260403T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:RE vs VP.P
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260404T070000Z
 UID:pandascore-match-1419634@esport-ics
 DTSTART:20260404T070000Z
@@ -312,6 +323,17 @@ SUMMARY:1WIN vs VP.P
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260404T150000Z
+UID:pandascore-match-1428014@esport-ics
+DTSTART:20260404T150000Z
+DTEND:20260404T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:TS.A vs VP.P
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260405T070000Z
 UID:pandascore-match-1419638@esport-ics
 DTSTART:20260405T070000Z
@@ -321,6 +343,17 @@ DESCRIPTION:PREMIER SERIES - 2026 - Group A\nWatch: https://www.twitch.tv/b
  etboom_dota_ru
 SUMMARY:YeS vs VP.P
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T090000Z
+UID:pandascore-match-1428016@esport-ics
+DTSTART:20260406T090000Z
+DTEND:20260406T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:VP.P vs AVE
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260406T130000Z
@@ -343,5 +376,27 @@ DESCRIPTION:PREMIER SERIES - 2026 - Group A\nWatch: https://www.twitch.tv/b
  etboom_dota_ru
 SUMMARY:VP.P vs Z10
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T150000Z
+UID:pandascore-match-1428020@esport-ics
+DTSTART:20260407T150000Z
+DTEND:20260407T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:VP.P vs MODUS
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T180000Z
+UID:pandascore-match-1428022@esport-ics
+DTSTART:20260409T180000Z
+DTEND:20260409T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:VP.P vs IC
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

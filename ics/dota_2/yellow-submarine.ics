@@ -237,6 +237,17 @@ SUMMARY:YeS vs Z10
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260404T180000Z
+UID:pandascore-match-1427973@esport-ics
+DTSTART:20260404T180000Z
+DTEND:20260404T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:YeS vs NAVI.J
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260405T070000Z
 UID:pandascore-match-1419638@esport-ics
 DTSTART:20260405T070000Z
@@ -248,6 +259,17 @@ SUMMARY:YeS vs VP.P
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260405T180000Z
+UID:pandascore-match-1427976@esport-ics
+DTSTART:20260405T180000Z
+DTEND:20260405T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:YeS vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260406T190000Z
 UID:pandascore-match-1419645@esport-ics
 DTSTART:20260406T190000Z
@@ -257,5 +279,38 @@ DESCRIPTION:PREMIER SERIES - 2026 - Group A\nWatch: https://www.twitch.tv/b
  etboom_dota_ru
 SUMMARY:GL vs YeS
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T180000Z
+UID:pandascore-match-1428005@esport-ics
+DTSTART:20260407T180000Z
+DTEND:20260407T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs YeS
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T120000Z
+UID:pandascore-match-1428007@esport-ics
+DTSTART:20260409T120000Z
+DTEND:20260409T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:LYNX vs YeS
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T090000Z
+UID:pandascore-match-1428008@esport-ics
+DTSTART:20260411T090000Z
+DTEND:20260411T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:BALU vs YeS
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

@@ -278,6 +278,61 @@ CLASS:PUBLIC
 DESCRIPTION:PREMIER SERIES - 2026 - Play-In Group A\nWatch: https://www.twi
  tch.tv/betboom_dota_ru
 SUMMARY:PR vs RE
-URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+URL:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T150000Z
+UID:pandascore-match-1428009@esport-ics
+DTSTART:20260402T150000Z
+DTEND:20260402T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:MODUS vs RE
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T090000Z
+UID:pandascore-match-1428011@esport-ics
+DTSTART:20260403T090000Z
+DTEND:20260403T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:RE vs VP.P
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T090000Z
+UID:pandascore-match-1428013@esport-ics
+DTSTART:20260404T090000Z
+DTEND:20260404T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:RE vs AVE
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T150000Z
+UID:pandascore-match-1428018@esport-ics
+DTSTART:20260406T150000Z
+DTEND:20260406T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:IC vs RE
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T150000Z
+UID:pandascore-match-1428021@esport-ics
+DTSTART:20260409T150000Z
+DTEND:20260409T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:RE vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

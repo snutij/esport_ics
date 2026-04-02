@@ -157,6 +157,61 @@ CLASS:PUBLIC
 DESCRIPTION:Tennisi Stampede Champions - Season 2 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/pingerpro
 SUMMARY:Semifinal 2: ILL vs enjoy boys
-URL;VALUE=URI:https://www.twitch.tv/pingerpro
+URL:https://www.twitch.tv/pingerpro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T120000Z
+UID:pandascore-match-1427921@esport-ics
+DTSTART:20260402T120000Z
+DTEND:20260402T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ILL vs NAVI.J
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T120000Z
+UID:pandascore-match-1427946@esport-ics
+DTSTART:20260403T120000Z
+DTEND:20260403T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:LYNX vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T120000Z
+UID:pandascore-match-1427972@esport-ics
+DTSTART:20260404T120000Z
+DTEND:20260404T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T180000Z
+UID:pandascore-match-1427976@esport-ics
+DTSTART:20260405T180000Z
+DTEND:20260405T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:YeS vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T090000Z
+UID:pandascore-match-1428002@esport-ics
+DTSTART:20260407T090000Z
+DTEND:20260407T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ILL vs BALU
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

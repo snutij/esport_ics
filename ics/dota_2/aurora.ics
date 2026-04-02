@@ -432,6 +432,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Europe Closed Qualifier season 7 2026 - Playoffs\n
  Watch: https://www.twitch.tv/rlg_dota2
 SUMMARY:Quarterfinal 1: AUR vs LYNX
+URL:https://www.twitch.tv/rlg_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T080000Z
+UID:pandascore-match-1426134@esport-ics
+DTSTART:20260403T080000Z
+DTEND:20260403T101500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Europe Closed Qualifier season 7 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/rlg_dota2
+SUMMARY:Semifinal 1: AUR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rlg_dota2
 END:VEVENT
 END:VCALENDAR

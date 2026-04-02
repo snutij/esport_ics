@@ -243,6 +243,61 @@ CLASS:PUBLIC
 DESCRIPTION:Tennisi Stampede Champions - Season 2 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/pingerpro
 SUMMARY:Semifinal 1: RE vs TS.A
-URL;VALUE=URI:https://www.twitch.tv/pingerpro
+URL:https://www.twitch.tv/pingerpro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T180000Z
+UID:pandascore-match-1428010@esport-ics
+DTSTART:20260402T180000Z
+DTEND:20260402T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:AVE vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T150000Z
+UID:pandascore-match-1428014@esport-ics
+DTSTART:20260404T150000Z
+DTEND:20260404T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:TS.A vs VP.P
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T090000Z
+UID:pandascore-match-1428015@esport-ics
+DTSTART:20260405T090000Z
+DTEND:20260405T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:TS.A vs MODUS
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T120000Z
+UID:pandascore-match-1428019@esport-ics
+DTSTART:20260407T120000Z
+DTEND:20260407T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:TS.A vs IC
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T150000Z
+UID:pandascore-match-1428021@esport-ics
+DTSTART:20260409T150000Z
+DTEND:20260409T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:RE vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

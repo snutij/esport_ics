@@ -402,4 +402,15 @@ DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Group Stage\nWatch: htt
 SUMMARY:Round 3: RE vs OMG
 URL;VALUE=URI:https://www.kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T103000Z
+UID:pandascore-match-1400833@esport-ics
+DTSTART:20260406T103000Z
+DTEND:20260406T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Group B\nWatch: https://w
+ ww.kick.com/eplcs_en
+SUMMARY:Decider match: RE vs TBD
+URL;VALUE=URI:https://www.kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

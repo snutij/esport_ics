@@ -176,6 +176,61 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 35 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:LYNX vs NAVI.J
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T120000Z
+UID:pandascore-match-1427921@esport-ics
+DTSTART:20260402T120000Z
+DTEND:20260402T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ILL vs NAVI.J
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T180000Z
+UID:pandascore-match-1427973@esport-ics
+DTSTART:20260404T180000Z
+DTEND:20260404T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:YeS vs NAVI.J
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T150000Z
+UID:pandascore-match-1427975@esport-ics
+DTSTART:20260405T150000Z
+DTEND:20260405T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs NAVI.J
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T180000Z
+UID:pandascore-match-1427977@esport-ics
+DTSTART:20260406T180000Z
+DTEND:20260406T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:NAVI.J vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T090000Z
+UID:pandascore-match-1428006@esport-ics
+DTSTART:20260409T090000Z
+DTEND:20260409T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:NAVI.J vs BALU
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
