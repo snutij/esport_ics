@@ -72,14 +72,12 @@ SUMMARY:Upper bracket semifinal 1: AEB vs FSN.X
 URL:https://www.twitch.tv/valorant_la
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260404T010000Z
+DTSTAMP:20260403T010000Z
 UID:pandascore-match-1417711@esport-ics
-DTSTART:20260404T010000Z
-DTEND:20260404T031500Z
+DTSTART:20260403T010000Z
+DTEND:20260403T031500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Playoffs
- \nWatch: https://www.twitch.tv/valorant_la
 SUMMARY:Lower bracket semifinal: FSN.X vs NSB
-URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

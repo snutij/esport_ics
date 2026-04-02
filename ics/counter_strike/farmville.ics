@@ -111,12 +111,14 @@ SUMMARY:Upper bracket semifinal 1: FC vs FV
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260402T223000Z
-UID:pandascore-match-1427595@esport-ics
+UID:pandascore-match-1404296@esport-ics
 DTSTART:20260402T223000Z
 DTEND:20260403T004500Z
 CLASS:PUBLIC
-DESCRIPTION:Dust2.us - Eagle Masters season 7 2026 - Group Stage
-SUMMARY:Round 2: FV vs AKIMBO
+DESCRIPTION:PGL - Astana: North American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/karmaflexxx
+SUMMARY:Upper bracket final: FV vs LAG
+URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260403T010000Z
@@ -128,12 +130,12 @@ DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 4: F5 vs FV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260403T020000Z
-UID:pandascore-match-1404296@esport-ics
-DTSTART:20260403T020000Z
-DTEND:20260403T041500Z
+DTSTAMP:20260404T223000Z
+UID:pandascore-match-1427595@esport-ics
+DTSTART:20260404T223000Z
+DTEND:20260405T004500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Astana: North American Closed Qualifier 2026 - Playoffs
-SUMMARY:Upper bracket final: FV vs LAG
+DESCRIPTION:Dust2.us - Eagle Masters season 7 2026 - Group Stage
+SUMMARY:Round 2: FV vs AKIMBO
 END:VEVENT
 END:VCALENDAR
