@@ -276,7 +276,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 5: EP vs ex-PeeP
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260402T150000Z
@@ -285,8 +285,8 @@ DTSTART:20260402T150000Z
 DTEND:20260402T171500Z
 CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 4 2026 - Group D\nWatch: https://
- www.twitch.tv/mpkbk
+ www.twitch.tv/jay_tb
 SUMMARY:TDK vs EP
-URL;VALUE=URI:https://www.twitch.tv/mpkbk
+URL;VALUE=URI:https://www.twitch.tv/jay_tb
 END:VEVENT
 END:VCALENDAR

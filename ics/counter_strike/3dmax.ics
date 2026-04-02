@@ -282,7 +282,9 @@ UID:pandascore-match-1426978@esport-ics
 DTSTART:20260404T070000Z
 DTEND:20260404T091500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest 2026 - Group Stage
+DESCRIPTION:PGL - Bucharest 2026 - Group Stage\nWatch: https://www.twitch.t
+ v/PGL
 SUMMARY:Round 1: 3DMAX vs FOKUS
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

@@ -214,8 +214,10 @@ UID:pandascore-match-1419494@esport-ics
 DTSTART:20260402T140000Z
 DTEND:20260402T161500Z
 CLASS:PUBLIC
-DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Playoffs
+DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
 SUMMARY:Lower bracket final: B8 vs TBD
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260404T100000Z
@@ -223,7 +225,9 @@ UID:pandascore-match-1426979@esport-ics
 DTSTART:20260404T100000Z
 DTEND:20260404T121500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest 2026 - Group Stage
+DESCRIPTION:PGL - Bucharest 2026 - Group Stage\nWatch: https://www.twitch.t
+ v/PGL
 SUMMARY:Round 1: B8 vs WC
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR
