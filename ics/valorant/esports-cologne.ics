@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:eSports Cologne
+SLUG:esports-cologne
+BEGIN:VEVENT
+DTSTAMP:20260404T180000Z
+UID:pandascore-match-1428569@esport-ics
+DTSTART:20260404T180000Z
+DTEND:20260404T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:ECO vs RZN
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T190000Z
+UID:pandascore-match-1428575@esport-ics
+DTSTART:20260407T190000Z
+DTEND:20260407T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:ECO vs DOR
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T150000Z
+UID:pandascore-match-1428578@esport-ics
+DTSTART:20260412T150000Z
+DTEND:20260412T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:ECO vs ATTAX
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T190000Z
+UID:pandascore-match-1428583@esport-ics
+DTSTART:20260414T190000Z
+DTEND:20260414T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:ECO vs CGN
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T150000Z
+UID:pandascore-match-1428584@esport-ics
+DTSTART:20260418T150000Z
+DTEND:20260418T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:AH vs ECO
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T160000Z
+UID:pandascore-match-1428588@esport-ics
+DTSTART:20260421T160000Z
+DTEND:20260421T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:ECO vs SGE
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T180000Z
+UID:pandascore-match-1428595@esport-ics
+DTSTART:20260426T180000Z
+DTEND:20260426T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:ECO vs FKS
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+END:VCALENDAR

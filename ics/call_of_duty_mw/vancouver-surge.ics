@@ -135,6 +135,61 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 2 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/callofduty_esports
 SUMMARY:Play-In match 1: TOR vs VAN
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+URL:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T220000Z
+UID:pandascore-match-1428601@esport-ics
+DTSTART:20260417T220000Z
+DTEND:20260418T014500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 3 Major Qualifiers 2026 - Qualifier
+ s\nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:VAN vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T233000Z
+UID:pandascore-match-1428605@esport-ics
+DTSTART:20260418T233000Z
+DTEND:20260419T031500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 3 Major Qualifiers 2026 - Qualifier
+ s\nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:VAN vs CRR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T220000Z
+UID:pandascore-match-1428614@esport-ics
+DTSTART:20260502T220000Z
+DTEND:20260503T014500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 3 Major Qualifiers 2026 - Qualifier
+ s\nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:VAN vs RIYF
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T190000Z
+UID:pandascore-match-1428616@esport-ics
+DTSTART:20260503T190000Z
+DTEND:20260503T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 3 Major Qualifiers 2026 - Qualifier
+ s\nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:VAN vs LAT
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T220000Z
+UID:pandascore-match-1428621@esport-ics
+DTSTART:20260508T220000Z
+DTEND:20260509T014500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 3 Major Qualifiers 2026 - Qualifier
+ s\nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:VAN vs TOR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 END:VCALENDAR

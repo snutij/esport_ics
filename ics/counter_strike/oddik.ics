@@ -296,8 +296,19 @@ DTSTART:20260402T200000Z
 DTEND:20260402T221500Z
 CLASS:PUBLIC
 DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Group D\nWatch: ht
- tps://www.twitch.tv/vanfantv
+ tps://kick.com/r-nicolino
 SUMMARY:ODK vs GH
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL;VALUE=URI:https://kick.com/r-nicolino
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T160000Z
+UID:pandascore-match-1404162@esport-ics
+DTSTART:20260403T160000Z
+DTEND:20260403T181500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/PGL
+SUMMARY:Lower bracket final: ODK vs TBD
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

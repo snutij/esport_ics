@@ -91,6 +91,50 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/valorant_emea
 SUMMARY:Lower bracket semifinal: MDR vs MISA
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T143000Z
+UID:pandascore-match-1428548@esport-ics
+DTSTART:20260404T143000Z
+DTEND:20260404T164500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:MISA vs SCA
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T173000Z
+UID:pandascore-match-1428553@esport-ics
+DTSTART:20260406T173000Z
+DTEND:20260406T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:MISA vs Eternal Fire Passion
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T143000Z
+UID:pandascore-match-1428558@esport-ics
+DTSTART:20260412T143000Z
+DTEND:20260412T164500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:BW vs MISA
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T173000Z
+UID:pandascore-match-1428565@esport-ics
+DTSTART:20260419T173000Z
+DTEND:20260419T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:BJK vs MISA
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
 END:VEVENT
 END:VCALENDAR

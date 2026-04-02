@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ghosts
+SLUG:ghosts
+BEGIN:VEVENT
+DTSTAMP:20260405T173000Z
+UID:pandascore-match-1428551@esport-ics
+DTSTART:20260405T173000Z
+DTEND:20260405T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:RBN vs GOS
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T173000Z
+UID:pandascore-match-1428555@esport-ics
+DTSTART:20260407T173000Z
+DTEND:20260407T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:GOS vs GS
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T143000Z
+UID:pandascore-match-1428556@esport-ics
+DTSTART:20260411T143000Z
+DTEND:20260411T164500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:GOS vs FF
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T173000Z
+UID:pandascore-match-1428563@esport-ics
+DTSTART:20260418T173000Z
+DTEND:20260418T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:GOS vs FUT.A
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+END:VCALENDAR

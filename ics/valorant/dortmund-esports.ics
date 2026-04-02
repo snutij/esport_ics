@@ -36,6 +36,83 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - DACH: Evolution Stage 1 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/valorantleague_dach
 SUMMARY:Lower bracket semifinal: SGE vs DOR
+URL:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T150000Z
+UID:pandascore-match-1428570@esport-ics
+DTSTART:20260405T150000Z
+DTEND:20260405T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:DOR vs SGE
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T190000Z
+UID:pandascore-match-1428575@esport-ics
+DTSTART:20260407T190000Z
+DTEND:20260407T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:ECO vs DOR
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T150000Z
+UID:pandascore-match-1428576@esport-ics
+DTSTART:20260411T150000Z
+DTEND:20260411T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:DOR vs CGN
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T160000Z
+UID:pandascore-match-1428580@esport-ics
+DTSTART:20260414T160000Z
+DTEND:20260414T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:DOR vs FKS
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T180000Z
+UID:pandascore-match-1428587@esport-ics
+DTSTART:20260419T180000Z
+DTEND:20260419T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:DOR vs ATTAX
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T190000Z
+UID:pandascore-match-1428589@esport-ics
+DTSTART:20260421T190000Z
+DTEND:20260421T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:AH vs DOR
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T150000Z
+UID:pandascore-match-1428592@esport-ics
+DTSTART:20260426T150000Z
+DTEND:20260426T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Group Stage\nWatch: https:
+ //www.twitch.tv/valorantleague_dach
+SUMMARY:DOR vs RZN
 URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
 END:VEVENT
 END:VCALENDAR

@@ -25,6 +25,50 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Türkiye: Birlik Kickoff 2026 - Regular Season\nWatch: ht
  tps://www.twitch.tv/valorant_tur
 SUMMARY:FUT.A vs BW
+URL:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T143000Z
+UID:pandascore-match-1428550@esport-ics
+DTSTART:20260405T143000Z
+DTEND:20260405T164500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:GS vs FUT.A
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T173000Z
+UID:pandascore-match-1428559@esport-ics
+DTSTART:20260412T173000Z
+DTEND:20260412T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:RBN vs FUT.A
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T173000Z
+UID:pandascore-match-1428563@esport-ics
+DTSTART:20260418T173000Z
+DTEND:20260418T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:GOS vs FUT.A
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T173000Z
+UID:pandascore-match-1428567@esport-ics
+DTSTART:20260420T173000Z
+DTEND:20260420T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:FF vs FUT.A
 URL;VALUE=URI:https://www.twitch.tv/valorant_tur
 END:VEVENT
 END:VCALENDAR
