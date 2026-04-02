@@ -111,7 +111,9 @@ UID:pandascore-match-1427078@esport-ics
 DTSTART:20260402T050000Z
 DTEND:20260402T071500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Astana: Asia Closed Qualifier 2026 - Playoffs
+DESCRIPTION:PGL - Astana: Asia Closed Qualifier 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/mikotohero
 SUMMARY:Round 1: GZ vs DEPO
+URL;VALUE=URI:https://www.twitch.tv/mikotohero
 END:VEVENT
 END:VCALENDAR

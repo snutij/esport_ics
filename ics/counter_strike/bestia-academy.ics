@@ -199,6 +199,17 @@ SUMMARY:Round 4: MIBR.A vs BST.A
 URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260402T170000Z
+UID:pandascore-match-1413583@esport-ics
+DTSTART:20260402T170000Z
+DTEND:20260402T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 5: BST.A vs ALKA
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260402T210000Z
 UID:pandascore-match-1421582@esport-ics
 DTSTART:20260402T210000Z

@@ -300,7 +300,7 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: North American Closed Qualifier 2026 - Playoffs\n
  Watch: https://www.twitch.tv/bonamant
 SUMMARY:Upper bracket semifinal 2: LAG vs BOSS
-URL;VALUE=URI:https://www.twitch.tv/bonamant
+URL:https://www.twitch.tv/bonamant
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260403T010000Z
@@ -310,5 +310,14 @@ DTEND:20260403T031500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 1: LAG vs Club 333
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T020000Z
+UID:pandascore-match-1404296@esport-ics
+DTSTART:20260403T020000Z
+DTEND:20260403T041500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: North American Closed Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket final: FV vs LAG
 END:VEVENT
 END:VCALENDAR
