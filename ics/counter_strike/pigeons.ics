@@ -347,7 +347,9 @@ UID:pandascore-match-1420050@esport-ics
 DTSTART:20260402T170000Z
 DTEND:20260402T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/xristcs
 SUMMARY:Lower bracket round 3 match 8: PGE vs HERO.A
+URL;VALUE=URI:https://www.twitch.tv/xristcs
 END:VEVENT
 END:VCALENDAR

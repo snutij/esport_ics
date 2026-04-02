@@ -329,7 +329,9 @@ UID:pandascore-match-1421579@esport-ics
 DTSTART:20260402T210000Z
 DTEND:20260402T231500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/kronyii
 SUMMARY:Upper bracket round 1 match 3: GH vs R2
+URL;VALUE=URI:https://www.twitch.tv/kronyii
 END:VEVENT
 END:VCALENDAR

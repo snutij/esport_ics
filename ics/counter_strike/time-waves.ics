@@ -118,7 +118,9 @@ UID:pandascore-match-1421637@esport-ics
 DTSTART:20260402T090000Z
 DTEND:20260402T111500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs\nWatch: 
+ https://www.twitch.tv/churchd0gg
 SUMMARY:Upper bracket round 1: BBBMBCBS vs Time Waves
+URL;VALUE=URI:https://www.twitch.tv/churchd0gg
 END:VEVENT
 END:VCALENDAR

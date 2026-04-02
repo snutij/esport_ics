@@ -327,8 +327,10 @@ UID:pandascore-match-1421559@esport-ics
 DTSTART:20260402T130000Z
 DTEND:20260402T151500Z
 CLASS:PUBLIC
-DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Group C
+DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/vanfantv
 SUMMARY:IMP vs CRASH
+URL;VALUE=URI:https://www.twitch.tv/vanfantv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260402T210000Z

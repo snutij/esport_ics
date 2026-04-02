@@ -191,8 +191,10 @@ UID:pandascore-match-1421656@esport-ics
 DTSTART:20260402T130000Z
 DTEND:20260402T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Asia Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Asia Cup #3 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/kevindoruk
 SUMMARY:Upper bracket round 1 match 4: CW vs 5S
+URL;VALUE=URI:https://www.twitch.tv/kevindoruk
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260404T060000Z
