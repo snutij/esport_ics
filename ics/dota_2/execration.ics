@@ -91,6 +91,16 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 7 2026 - Pl
  ayoffs\nWatch: https://www.twitch.tv/rlg_dota2_b
 SUMMARY:Quarterfinals match 2: XctN vs IVO
-URL;VALUE=URI:https://www.twitch.tv/rlg_dota2_b
+URL:https://www.twitch.tv/rlg_dota2_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T010000Z
+UID:pandascore-match-1426088@esport-ics
+DTSTART:20260403T010000Z
+DTEND:20260403T031500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 7 2026 - Pl
+ ayoffs
+SUMMARY:Semifinals match 1: RNX vs XctN
 END:VEVENT
 END:VCALENDAR

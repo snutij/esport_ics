@@ -109,6 +109,15 @@ CLASS:PUBLIC
 DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/bowser0
 SUMMARY:Upper bracket semifinal 1: FLY vs SFE
-URL;VALUE=URI:https://www.twitch.tv/bowser0
+URL:https://www.twitch.tv/bowser0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T060000Z
+UID:pandascore-match-1423204@esport-ics
+DTSTART:20260404T060000Z
+DTEND:20260404T081500Z
+CLASS:PUBLIC
+DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs
+SUMMARY:Upper bracket final: FLY vs CW
 END:VEVENT
 END:VCALENDAR

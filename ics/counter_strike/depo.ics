@@ -114,6 +114,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: Asia Closed Qualifier 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/mikotohero
 SUMMARY:Round 1: GZ vs DEPO
-URL;VALUE=URI:https://www.twitch.tv/mikotohero
+URL:https://www.twitch.tv/mikotohero
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T080000Z
+UID:pandascore-match-1427079@esport-ics
+DTSTART:20260402T080000Z
+DTEND:20260402T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: Asia Closed Qualifier 2026 - Playoffs
+SUMMARY:Round 2: THE vs DEPO
 END:VEVENT
 END:VCALENDAR
