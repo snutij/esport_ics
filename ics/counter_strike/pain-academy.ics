@@ -312,4 +312,13 @@ DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
 SUMMARY:Round 5: paiN.A vs MAG
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T210000Z
+UID:pandascore-match-1421586@esport-ics
+DTSTART:20260403T210000Z
+DTEND:20260403T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 2: R2 vs paiN.A
+END:VEVENT
 END:VCALENDAR

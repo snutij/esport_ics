@@ -281,14 +281,14 @@ SUMMARY:Lower Bracket Round 1 Match 1: NEM vs HERO
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260403T100000Z
+DTSTAMP:20260403T123000Z
 UID:pandascore-match-1413391@esport-ics
-DTSTART:20260403T100000Z
-DTEND:20260403T121500Z
+DTSTART:20260403T123000Z
+DTEND:20260403T144500Z
 CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 1 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
-SUMMARY:Lower Bracket Semifinal 1: HERO vs TBD
+SUMMARY:Lower Bracket Semifinal 1: HERO vs NIP
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

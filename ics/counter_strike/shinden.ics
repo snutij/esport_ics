@@ -403,7 +403,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs\nW
  atch: https://www.twitch.tv/tr3jou
 SUMMARY:Upper bracket round 1 match 1: SHIN vs Charrados
-URL;VALUE=URI:https://www.twitch.tv/tr3jou
+URL:https://www.twitch.tv/tr3jou
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T210000Z
+UID:pandascore-match-1421585@esport-ics
+DTSTART:20260403T210000Z
+DTEND:20260403T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: SHIN vs TBD
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260403T210000Z
