@@ -100,6 +100,83 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - China Closed Qualifier season 7 2026 - Playoffs\nW
  atch: https://www.twitch.tv/betboom_dota_ru4
 SUMMARY:Quarterfinal 1: VG vs CD
-URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru4
+URL:https://www.twitch.tv/betboom_dota_ru4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T030000Z
+UID:pandascore-match-1430003@esport-ics
+DTSTART:20260406T030000Z
+DTEND:20260406T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CD vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T030000Z
+UID:pandascore-match-1430005@esport-ics
+DTSTART:20260407T030000Z
+DTEND:20260407T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Satan vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T030000Z
+UID:pandascore-match-1430007@esport-ics
+DTSTART:20260409T030000Z
+DTEND:20260409T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CD vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T030000Z
+UID:pandascore-match-1430013@esport-ics
+DTSTART:20260413T030000Z
+DTEND:20260413T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CD vs ESS
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T030000Z
+UID:pandascore-match-1430015@esport-ics
+DTSTART:20260414T030000Z
+DTEND:20260414T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:WinteR vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T060000Z
+UID:pandascore-match-1430018@esport-ics
+DTSTART:20260415T060000Z
+DTEND:20260415T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CD vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T060000Z
+UID:pandascore-match-1430020@esport-ics
+DTSTART:20260416T060000Z
+DTEND:20260416T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

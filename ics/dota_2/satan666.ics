@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Satan666
+SLUG:satan666
+BEGIN:VEVENT
+DTSTAMP:20260404T060000Z
+UID:pandascore-match-1430000@esport-ics
+DTSTART:20260404T060000Z
+DTEND:20260404T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:ESS vs Satan
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T060000Z
+UID:pandascore-match-1430002@esport-ics
+DTSTART:20260405T060000Z
+DTEND:20260405T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Satan vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T030000Z
+UID:pandascore-match-1430005@esport-ics
+DTSTART:20260407T030000Z
+DTEND:20260407T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Satan vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T060000Z
+UID:pandascore-match-1430008@esport-ics
+DTSTART:20260409T060000Z
+DTEND:20260409T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs Satan
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T060000Z
+UID:pandascore-match-1430010@esport-ics
+DTSTART:20260411T060000Z
+DTEND:20260411T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:WinteR vs Satan
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T060000Z
+UID:pandascore-match-1430012@esport-ics
+DTSTART:20260412T060000Z
+DTEND:20260412T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Satan vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+END:VCALENDAR

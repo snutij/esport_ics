@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WinteR SquadronS
+SLUG:winter-squadrons
+BEGIN:VEVENT
+DTSTAMP:20260411T060000Z
+UID:pandascore-match-1430010@esport-ics
+DTSTART:20260411T060000Z
+DTEND:20260411T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:WinteR vs Satan
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T030000Z
+UID:pandascore-match-1430011@esport-ics
+DTSTART:20260412T030000Z
+DTEND:20260412T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:WinteR vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T060000Z
+UID:pandascore-match-1430014@esport-ics
+DTSTART:20260413T060000Z
+DTEND:20260413T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:WinteR vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T030000Z
+UID:pandascore-match-1430015@esport-ics
+DTSTART:20260414T030000Z
+DTEND:20260414T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:WinteR vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T030000Z
+UID:pandascore-match-1430017@esport-ics
+DTSTART:20260415T030000Z
+DTEND:20260415T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:WinteR vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T030000Z
+UID:pandascore-match-1430021@esport-ics
+DTSTART:20260417T030000Z
+DTEND:20260417T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:ESS vs WinteR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T030000Z
+UID:pandascore-match-1430023@esport-ics
+DTSTART:20260418T030000Z
+DTEND:20260418T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs WinteR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+END:VCALENDAR

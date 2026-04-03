@@ -223,6 +223,72 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 13 2026 - Playoffs\nWa
  tch: https://kick.com/epldota_en1
 SUMMARY:Lower bracket quarterfinal 1: CARST vs IVO
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T030000Z
+UID:pandascore-match-1429999@esport-ics
+DTSTART:20260404T030000Z
+DTEND:20260404T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IVO vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T060000Z
+UID:pandascore-match-1430002@esport-ics
+DTSTART:20260405T060000Z
+DTEND:20260405T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Satan vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T030000Z
+UID:pandascore-match-1430007@esport-ics
+DTSTART:20260409T030000Z
+DTEND:20260409T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CD vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T030000Z
+UID:pandascore-match-1430009@esport-ics
+DTSTART:20260411T030000Z
+DTEND:20260411T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T030000Z
+UID:pandascore-match-1430017@esport-ics
+DTSTART:20260415T030000Z
+DTEND:20260415T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:WinteR vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T060000Z
+UID:pandascore-match-1430024@esport-ics
+DTSTART:20260418T060000Z
+DTEND:20260418T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs CR
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS OC - Paris Major: Open 5 2026 - Group A\nWatch: https://ww
  w.twitch.tv/rocketleagueoce
 SUMMARY:Upper bracket quarterfinal 3: ATE vs Take Flyte
+URL:https://www.twitch.tv/rocketleagueoce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T080000Z
+UID:pandascore-match-1407073@esport-ics
+DTSTART:20260404T080000Z
+DTEND:20260404T131500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS OC - Paris Major: Open 5 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/rocketleagueoce
+SUMMARY:Upper bracket quarterfinal 2: WC vs ATE
 URL;VALUE=URI:https://www.twitch.tv/rocketleagueoce
 END:VEVENT
 END:VCALENDAR
