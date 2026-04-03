@@ -144,7 +144,9 @@ UID:pandascore-match-1421639@esport-ics
 DTSTART:20260403T090000Z
 DTEND:20260403T111500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs\nWatch: 
+ https://www.twitch.tv/churchd0gg
 SUMMARY:Upper bracket quarterfinal 2: Arcade Esports vs Abyssal
+URL;VALUE=URI:https://www.twitch.tv/churchd0gg
 END:VEVENT
 END:VCALENDAR

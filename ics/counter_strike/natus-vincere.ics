@@ -212,6 +212,16 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/BLASTPremier
 SUMMARY:Grand final: VIT vs NAVI
-URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T140000Z
+UID:pandascore-match-1429130@esport-ics
+DTSTART:20260413T140000Z
+DTEND:20260413T161500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Rio 2026 - Group B\nWatch: https://www.twitch.tv/ESLCS
+SUMMARY:Upper bracket quarterfinal 2: B8 vs NAVI
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
