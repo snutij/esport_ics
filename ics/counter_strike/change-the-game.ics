@@ -198,4 +198,13 @@ DESCRIPTION:Yuqilin - Pinnacle of Battle season 3 2026 - Playoffs\nWatch: h
 SUMMARY:Lower bracket final: CTG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/narodcast
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T130000Z
+UID:pandascore-match-1421676@esport-ics
+DTSTART:20260404T130000Z
+DTEND:20260404T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 3: CTG vs 5S
+END:VEVENT
 END:VCALENDAR
