@@ -248,7 +248,9 @@ UID:pandascore-match-1421563@esport-ics
 DTSTART:20260403T210000Z
 DTEND:20260403T231500Z
 CLASS:PUBLIC
-DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Group C
+DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/circuitxofficial
 SUMMARY:Decider match: SHIN vs IMP
+URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR
