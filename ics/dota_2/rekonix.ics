@@ -102,4 +102,14 @@ DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 7 2026 - Pl
  ayoffs
 SUMMARY:Semifinals match 1: RNX vs XctN
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T070000Z
+UID:pandascore-match-1426090@esport-ics
+DTSTART:20260403T070000Z
+DTEND:20260403T091500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 7 2026 - Pl
+ ayoffs
+SUMMARY:Grand final: RNX vs TBD
+END:VEVENT
 END:VCALENDAR

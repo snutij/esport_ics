@@ -142,4 +142,13 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: North American Closed Qualifier 2026 - Playoffs
 SUMMARY:Lower bracket quarterfinal 2: BA 2 vs FC
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T190000Z
+UID:pandascore-match-1404298@esport-ics
+DTSTART:20260403T190000Z
+DTEND:20260403T211500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: North American Closed Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket final: FV vs FC
+END:VEVENT
 END:VCALENDAR

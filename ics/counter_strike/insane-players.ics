@@ -15,6 +15,15 @@ DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 6: Reign Above vs IP
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260404T010000Z
+UID:pandascore-match-1421635@esport-ics
+DTSTART:20260404T010000Z
+DTEND:20260404T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 3: Surge vs IP
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260405T020000Z
 UID:pandascore-match-1427623@esport-ics
 DTSTART:20260405T020000Z
