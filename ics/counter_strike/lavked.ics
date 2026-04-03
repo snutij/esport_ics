@@ -158,4 +158,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Lower bracket round 3 match 5: Lavked vs G2.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T153000Z
+UID:pandascore-match-1430028@esport-ics
+DTSTART:20260404T153000Z
+DTEND:20260404T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Quarterfinal 3: Lavked vs PHTM.Ac
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
 END:VCALENDAR

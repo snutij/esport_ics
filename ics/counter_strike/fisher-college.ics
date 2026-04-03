@@ -151,4 +151,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: North American Closed Qualifier 2026 - Playoffs
 SUMMARY:Lower bracket final: FV vs FC
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T223000Z
+UID:pandascore-match-1404299@esport-ics
+DTSTART:20260403T223000Z
+DTEND:20260404T021500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: North American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/bonamant
+SUMMARY:Grand final: LAG vs FC
+URL;VALUE=URI:https://www.twitch.tv/bonamant
+END:VEVENT
 END:VCALENDAR

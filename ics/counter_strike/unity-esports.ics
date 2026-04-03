@@ -433,6 +433,17 @@ DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 2: UNiTY vs ENCE.A
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260404T123000Z
+UID:pandascore-match-1430026@esport-ics
+DTSTART:20260404T123000Z
+DTEND:20260404T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Quarterfinal 2: UNiTY vs Y.TigeRES
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260404T170000Z
 UID:pandascore-match-1420038@esport-ics
 DTSTART:20260404T170000Z
