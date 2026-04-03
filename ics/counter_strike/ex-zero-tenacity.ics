@@ -638,10 +638,10 @@ SUMMARY:Winners match: STA vs ex-Zero Tenacity
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260403T153000Z
+DTSTAMP:20260403T131500Z
 UID:pandascore-match-1427058@esport-ics
-DTSTART:20260403T153000Z
-DTEND:20260403T174500Z
+DTSTART:20260403T131500Z
+DTEND:20260403T153000Z
 CLASS:PUBLIC
 DESCRIPTION:HLC Belgrade Pro - 2026 - Group B\nWatch: https://kick.com/rlgc
  s
@@ -658,5 +658,16 @@ DESCRIPTION:HLC Belgrade Pro - 2026 - Group B\nWatch: https://kick.com/rlgc
  s
 SUMMARY:ILWL vs ex-Zero Tenacity
 URL;VALUE=URI:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T080000Z
+UID:pandascore-match-1400860@esport-ics
+DTSTART:20260405T080000Z
+DTEND:20260405T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Group C\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Decider match: zajezdzacze vs ex-Zero Tenacity
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

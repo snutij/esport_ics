@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Spring 2026 - Playoffs\nWatch: https://live.b
  ilibili.com/55
 SUMMARY:Upper bracket final: AG.SP vs WOL
+URL:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T093000Z
+UID:pandascore-match-1411664@esport-ics
+DTSTART:20260411T093000Z
+DTEND:20260411T144500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Spring 2026 - Playoffs\nWatch: https://live.b
+ ilibili.com/55
+SUMMARY:Grand final: WOL vs TBD
 URL;VALUE=URI:https://live.bilibili.com/55
 END:VEVENT
 END:VCALENDAR
