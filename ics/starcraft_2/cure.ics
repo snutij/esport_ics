@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 4 2026 - Playoffs\nWatch: https://kick.com
  /tastelesstv
 SUMMARY:Lower bracket quarterfinal 1: trigger vs Cure
-URL;VALUE=URI:https://kick.com/tastelesstv
+URL:https://kick.com/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T070000Z
+UID:pandascore-match-1402122@esport-ics
+DTSTART:20260405T070000Z
+DTEND:20260405T104500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 4 2026 - Playoffs\nWatch: https://www.kick
+ .com/tastelesstv
+SUMMARY:Lower bracket semifinal: Cure vs TBD
+URL;VALUE=URI:https://www.kick.com/tastelesstv
 END:VEVENT
 END:VCALENDAR

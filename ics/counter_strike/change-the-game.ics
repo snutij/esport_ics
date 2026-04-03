@@ -176,7 +176,7 @@ CLASS:PUBLIC
 DESCRIPTION:Yuqilin - Pinnacle of Battle season 3 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/krat0ntv
 SUMMARY:Lower bracket semifinal: RA vs CTG
-URL;VALUE=URI:https://www.twitch.tv/krat0ntv
+URL:https://www.twitch.tv/krat0ntv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260403T130000Z
@@ -186,5 +186,16 @@ DTEND:20260403T151500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 2: CTG vs FDG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T103000Z
+UID:pandascore-match-1424621@esport-ics
+DTSTART:20260404T103000Z
+DTEND:20260404T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Yuqilin - Pinnacle of Battle season 3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/narodcast
+SUMMARY:Lower bracket final: CTG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/narodcast
 END:VEVENT
 END:VCALENDAR

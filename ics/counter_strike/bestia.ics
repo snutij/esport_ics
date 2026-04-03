@@ -347,6 +347,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #4 2026 - Group B\nWatch: https://www.twitch.
  tv/zonixxcs
 SUMMARY:BST vs BIG.A
-URL;VALUE=URI:https://www.twitch.tv/zonixxcs
+URL:https://www.twitch.tv/zonixxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T120000Z
+UID:pandascore-match-1421692@esport-ics
+DTSTART:20260403T120000Z
+DTEND:20260403T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #4 2026 - Group B\nWatch: https://www.twitch.
+ tv/forg1
+SUMMARY:Winners match: TRI vs BST
+URL;VALUE=URI:https://www.twitch.tv/forg1
 END:VEVENT
 END:VCALENDAR
