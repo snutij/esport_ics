@@ -54,7 +54,7 @@ CLASS:PUBLIC
 DESCRIPTION:FiReCONTER - Season 2 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/tr3jou
 SUMMARY:Lower bracket semifinal: ISG vs Despe
-URL;VALUE=URI:https://www.twitch.tv/tr3jou
+URL:https://www.twitch.tv/tr3jou
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260302T230000Z
@@ -66,5 +66,16 @@ DESCRIPTION:BetBoom Storm - Season 1 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 1: Despe vs PB
 URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T173000Z
+UID:pandascore-match-1429163@esport-ics
+DTSTART:20260403T173000Z
+DTEND:20260403T194500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReCONTER - Season 3 2026 - Group B\nWatch: https://www.youtub
+ e.com/cronicatv/streams
+SUMMARY:Despe vs RGE
+URL;VALUE=URI:https://www.youtube.com/cronicatv/streams
 END:VEVENT
 END:VCALENDAR

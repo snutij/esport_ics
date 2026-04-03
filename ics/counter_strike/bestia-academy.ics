@@ -221,6 +221,17 @@ SUMMARY:Upper bracket round 1 match 6: Keyd vs BST.A
 URL:https://www.twitch.tv/dutchboycasts
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260403T173000Z
+UID:pandascore-match-1429158@esport-ics
+DTSTART:20260403T173000Z
+DTEND:20260403T194500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReCONTER - Season 3 2026 - Group A\nWatch: https://www.youtub
+ e.com/cronicatv/streams
+SUMMARY:BST.A vs LYN
+URL;VALUE=URI:https://www.youtube.com/cronicatv/streams
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260403T210000Z
 UID:pandascore-match-1421605@esport-ics
 DTSTART:20260403T210000Z

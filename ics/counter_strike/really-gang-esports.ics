@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Really Gang Esports
+SLUG:really-gang-esports
+BEGIN:VEVENT
+DTSTAMP:20260403T173000Z
+UID:pandascore-match-1429163@esport-ics
+DTSTART:20260403T173000Z
+DTEND:20260403T194500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReCONTER - Season 3 2026 - Group B\nWatch: https://www.youtub
+ e.com/cronicatv/streams
+SUMMARY:Despe vs RGE
+URL;VALUE=URI:https://www.youtube.com/cronicatv/streams
+END:VEVENT
+END:VCALENDAR
