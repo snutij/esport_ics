@@ -279,6 +279,17 @@ SUMMARY:Lower bracket semifinal: Keyd vs FDB
 URL:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260403T160000Z
+UID:pandascore-match-1404162@esport-ics
+DTSTART:20260403T160000Z
+DTEND:20260403T181500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana: South American Closed Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/PGL
+SUMMARY:Lower bracket final: ODK vs FDB
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260403T210000Z
 UID:pandascore-match-1421587@esport-ics
 DTSTART:20260403T210000Z
