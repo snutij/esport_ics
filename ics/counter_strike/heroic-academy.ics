@@ -381,8 +381,10 @@ UID:pandascore-match-1420042@esport-ics
 DTSTART:20260403T170000Z
 DTEND:20260403T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/kevindoruk
 SUMMARY:Lower bracket round 4 match 4: HERO.A vs TNT
+URL;VALUE=URI:https://www.twitch.tv/kevindoruk
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260404T103000Z

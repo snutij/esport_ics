@@ -177,6 +177,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 1 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Upper Bracket Final: G2 vs GL
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T130000Z
+UID:pandascore-match-1413397@esport-ics
+DTSTART:20260404T130000Z
+DTEND:20260404T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 1 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Consolidation final: GL vs TBD
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
