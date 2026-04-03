@@ -254,6 +254,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 5: Y.TigeRES vs HEC
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T153000Z
+UID:pandascore-match-1429104@esport-ics
+DTSTART:20260403T153000Z
+DTEND:20260403T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Quarterfinal 2: Imperial.A vs Y.TigeRES
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

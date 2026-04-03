@@ -126,14 +126,14 @@ SUMMARY:Grand final: LVG vs RA
 URL:https://www.twitch.tv/aferatv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260403T060000Z
+DTSTAMP:20260403T070000Z
 UID:pandascore-match-1424617@esport-ics
-DTSTART:20260403T060000Z
-DTEND:20260403T081500Z
+DTSTART:20260403T070000Z
+DTEND:20260403T091500Z
 CLASS:PUBLIC
 DESCRIPTION:Yuqilin - Pinnacle of Battle season 3 2026 - Playoffs\nWatch: h
- ttps://www.twitch.tv/narodcast
+ ttps://www.twitch.tv/krat0ntv
 SUMMARY:Upper bracket semifinal 1: LVG vs RA
-URL;VALUE=URI:https://www.twitch.tv/narodcast
+URL;VALUE=URI:https://www.twitch.tv/krat0ntv
 END:VEVENT
 END:VCALENDAR

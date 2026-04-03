@@ -113,6 +113,16 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - Rotterdam Spring 2026 - Group B\nWatch: https://ww
  w.twitch.tv/BLASTPremier
 SUMMARY:Lower bracket final: MGLZ vs TS
-URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T140000Z
+UID:pandascore-match-1429127@esport-ics
+DTSTART:20260413T140000Z
+DTEND:20260413T161500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Rio 2026 - Group A\nWatch: https://www.twitch.tv/ESLCS
+SUMMARY:Upper bracket quarterfinal 3: TS vs TL
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 24 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 5: EP vs ex-PeeP
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T093000Z
+UID:pandascore-match-1429106@esport-ics
+DTSTART:20260403T093000Z
+DTEND:20260403T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Quarterfinal 4: LPH vs ex-PeeP
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
