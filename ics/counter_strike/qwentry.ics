@@ -876,6 +876,17 @@ DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 3: eLITenergy vs QWE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260405T110000Z
+UID:pandascore-match-1406956@esport-ics
+DTSTART:20260405T110000Z
+DTEND:20260405T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Group Stage\nWatch: htt
+ ps://www.kick.com/cct_cs
+SUMMARY:Round 4: MINLATE vs QWE
+URL;VALUE=URI:https://www.kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260405T170000Z
 UID:pandascore-match-1420027@esport-ics
 DTSTART:20260405T170000Z
