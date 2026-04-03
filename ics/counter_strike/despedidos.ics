@@ -76,6 +76,17 @@ CLASS:PUBLIC
 DESCRIPTION:FiReCONTER - Season 3 2026 - Group B\nWatch: https://www.youtub
  e.com/watch?v=FAsnOEKUjOU
 SUMMARY:Despe vs RGE
-URL;VALUE=URI:https://www.youtube.com/watch?v=FAsnOEKUjOU
+URL:https://www.youtube.com/watch?v=FAsnOEKUjOU
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T140000Z
+UID:pandascore-match-1429165@esport-ics
+DTSTART:20260404T140000Z
+DTEND:20260404T161500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReCONTER - Season 3 2026 - Group B\nWatch: https://www.youtub
+ e.com/cronicatv/streams
+SUMMARY:Winners match: ISG vs Despe
+URL;VALUE=URI:https://www.youtube.com/cronicatv/streams
 END:VEVENT
 END:VCALENDAR

@@ -76,6 +76,17 @@ CLASS:PUBLIC
 DESCRIPTION:FiReCONTER - Season 3 2026 - Group A\nWatch: https://www.youtub
  e.com/watch?v=9fYxfY8OWZE
 SUMMARY:BST.A vs LYN
-URL;VALUE=URI:https://www.youtube.com/watch?v=9fYxfY8OWZE
+URL:https://www.youtube.com/watch?v=9fYxfY8OWZE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T210000Z
+UID:pandascore-match-1429159@esport-ics
+DTSTART:20260403T210000Z
+DTEND:20260403T231500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReCONTER - Season 3 2026 - Group A\nWatch: https://www.youtub
+ e.com/cronicatv/streams
+SUMMARY:Elimination match: RIP ARG vs LYN
+URL;VALUE=URI:https://www.youtube.com/cronicatv/streams
 END:VEVENT
 END:VCALENDAR

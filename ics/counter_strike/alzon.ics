@@ -162,7 +162,9 @@ UID:pandascore-match-1426184@esport-ics
 DTSTART:20260403T183000Z
 DTEND:20260403T204500Z
 CLASS:PUBLIC
-DESCRIPTION:Gamers Club Liga Série A - March 2026 - Playoffs
+DESCRIPTION:Gamers Club Liga Série A - March 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/gamersclubcs
 SUMMARY:Grand final: RED.A vs Alzon
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR
