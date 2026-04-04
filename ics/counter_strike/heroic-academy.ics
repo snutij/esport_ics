@@ -403,7 +403,20 @@ UID:pandascore-match-1420038@esport-ics
 DTSTART:20260404T170000Z
 DTEND:20260404T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/eslcs
 SUMMARY:Lower bracket round 5 match 3: MANA vs HERO.A
+URL;VALUE=URI:https://www.twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T103000Z
+UID:pandascore-match-1400933@esport-ics
+DTSTART:20260405T103000Z
+DTEND:20260405T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Group D\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Decider match: Imperial.A vs HERO.A
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
