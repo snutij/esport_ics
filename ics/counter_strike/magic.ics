@@ -229,14 +229,14 @@ SUMMARY:MGC vs PIVOSQUAD
 URL:https://kick.com/rlgcs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260404T120000Z
+DTSTAMP:20260404T103000Z
 UID:pandascore-match-1427065@esport-ics
-DTSTART:20260404T120000Z
-DTEND:20260404T141500Z
+DTSTART:20260404T103000Z
+DTEND:20260404T124500Z
 CLASS:PUBLIC
-DESCRIPTION:HLC Belgrade Pro - 2026 - Group D\nWatch: https://kick.com/rlgc
- s
+DESCRIPTION:HLC Belgrade Pro - 2026 - Group D\nWatch: https://www.twitch.tv
+ /cybershoke_tv
 SUMMARY:MGC vs CS
-URL;VALUE=URI:https://kick.com/rlgcs
+URL;VALUE=URI:https://www.twitch.tv/cybershoke_tv
 END:VEVENT
 END:VCALENDAR

@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Boston 2026 - Group B\nWatch: https://www.twitch.t
  v/rocketleague
 SUMMARY:FURIA vs VP
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T200000Z
+UID:pandascore-match-1430539@esport-ics
+DTSTART:20260404T200000Z
+DTEND:20260405T011500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS NA - Major: Open Qualifier 5 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/rocketleague
+SUMMARY:Upper bracket quarterfinal 1: VP vs SSG
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR
