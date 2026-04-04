@@ -130,7 +130,9 @@ UID:pandascore-match-1430772@esport-ics
 DTSTART:20260404T153000Z
 DTEND:20260404T174500Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs
+DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs6
 SUMMARY:Upper bracket round 1 match 5: ENJOY vs LFO
+URL;VALUE=URI:https://kick.com/cct_cs6
 END:VEVENT
 END:VCALENDAR
