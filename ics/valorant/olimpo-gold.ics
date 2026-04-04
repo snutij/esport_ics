@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Playoffs
  \nWatch: https://www.twitch.tv/valorant_la
 SUMMARY:Upper bracket final: KRÜ vs OG
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T190000Z
+UID:pandascore-match-1417890@esport-ics
+DTSTART:20260406T190000Z
+DTEND:20260406T224500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Stage 1 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:Grand final: OG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

@@ -323,6 +323,17 @@ SUMMARY:HOTU vs WW
 URL:https://www.twitch.tv/mpkbk
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260404T120000Z
+UID:pandascore-match-1423165@esport-ics
+DTSTART:20260404T120000Z
+DTEND:20260404T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 4 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/mpkbk
+SUMMARY:Quarterfinal 2: 33 vs HOTU
+URL;VALUE=URI:https://www.twitch.tv/mpkbk
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260413T140000Z
 UID:pandascore-match-1429131@esport-ics
 DTSTART:20260413T140000Z

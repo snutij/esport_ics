@@ -24,4 +24,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 3: Surge vs IP
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T010000Z
+UID:pandascore-match-1421631@esport-ics
+DTSTART:20260405T010000Z
+DTEND:20260405T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 3: Surge vs TBD
+END:VEVENT
 END:VCALENDAR
