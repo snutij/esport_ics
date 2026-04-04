@@ -306,6 +306,17 @@ CLASS:PUBLIC
 DESCRIPTION:FiReCONTER - Season 3 2026 - Playoffs\nWatch: https://www.youtu
  be.com/watch?v=fn2sJnapLl0
 SUMMARY:Upper bracket semifinal 1: PCY vs ISG
-URL;VALUE=URI:https://www.youtube.com/watch?v=fn2sJnapLl0
+URL:https://www.youtube.com/watch?v=fn2sJnapLl0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T140000Z
+UID:pandascore-match-1429170@esport-ics
+DTSTART:20260405T140000Z
+DTEND:20260405T161500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReCONTER - Season 3 2026 - Playoffs\nWatch: https://www.youtu
+ be.com/cronicatv/streams
+SUMMARY:Lower bracket semifinal: BST.A vs PCY
+URL;VALUE=URI:https://www.youtube.com/cronicatv/streams
 END:VEVENT
 END:VCALENDAR
