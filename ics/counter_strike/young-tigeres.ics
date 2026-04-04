@@ -276,6 +276,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 24 2026 - Playoffs\nWatch: https://kick.c
  om/exort_en2
 SUMMARY:Quarterfinal 2: UNiTY vs Y.TigeRES
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T153000Z
+UID:pandascore-match-1430771@esport-ics
+DTSTART:20260405T153000Z
+DTEND:20260405T174500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 4: Y.TigeRES vs MJX
 END:VEVENT
 END:VCALENDAR

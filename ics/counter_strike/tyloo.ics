@@ -202,4 +202,15 @@ CLASS:PUBLIC
 DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs
 SUMMARY:Lower bracket final: TYLOO vs CW
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T090000Z
+UID:pandascore-match-1424622@esport-ics
+DTSTART:20260405T090000Z
+DTEND:20260405T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Yuqilin - Pinnacle of Battle season 3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/narodcast
+SUMMARY:Grand final: LVG vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/narodcast
+END:VEVENT
 END:VCALENDAR

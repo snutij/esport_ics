@@ -14,4 +14,13 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana: European Open Qualifier #1 2026 - Playoffs
 SUMMARY:Round of 16 match 7: NTR vs rhadamanthys
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T153000Z
+UID:pandascore-match-1430768@esport-ics
+DTSTART:20260404T153000Z
+DTEND:20260404T174500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 1: Vexar vs rhadamanthys
+END:VEVENT
 END:VCALENDAR
