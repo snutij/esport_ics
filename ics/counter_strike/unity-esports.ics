@@ -464,6 +464,17 @@ SUMMARY:Lower bracket round 5 match 4: UNiTY vs G2.A
 URL;VALUE=URI:https://www.twitch.tv/kevindoruk
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260405T123000Z
+UID:pandascore-match-1431357@esport-ics
+DTSTART:20260405T123000Z
+DTEND:20260405T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Semifinal 1: UNiTY vs TBD
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260406T173000Z
 UID:pandascore-match-1404922@esport-ics
 DTSTART:20260406T173000Z
