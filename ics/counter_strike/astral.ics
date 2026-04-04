@@ -462,8 +462,10 @@ UID:pandascore-match-1421696@esport-ics
 DTSTART:20260404T093000Z
 DTEND:20260404T114500Z
 CLASS:PUBLIC
-DESCRIPTION:Urban Riga - Open #4 2026 - Group A
+DESCRIPTION:Urban Riga - Open #4 2026 - Group A\nWatch: https://kick.com/ur
+ bancontenders
 SUMMARY:SNG vs ASTR
+URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260405T170000Z

@@ -123,7 +123,9 @@ UID:pandascore-match-1421673@esport-ics
 DTSTART:20260404T130000Z
 DTEND:20260404T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Asia Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Asia Cup #3 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/kevindoruk
 SUMMARY:Lower bracket round 2 match 1: QUBE vs BP
+URL;VALUE=URI:https://www.twitch.tv/kevindoruk
 END:VEVENT
 END:VCALENDAR
