@@ -252,6 +252,17 @@ SUMMARY:Winners match: PCY vs BST.A
 URL:https://www.youtube.com/watch?v=fn2sJnapLl0
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260404T173000Z
+UID:pandascore-match-1429161@esport-ics
+DTSTART:20260404T173000Z
+DTEND:20260404T194500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReCONTER - Season 3 2026 - Group A\nWatch: https://www.youtub
+ e.com/watch?v=fn2sJnapLl0
+SUMMARY:Decider match: LYN vs BST.A
+URL;VALUE=URI:https://www.youtube.com/watch?v=fn2sJnapLl0
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260404T210000Z
 UID:pandascore-match-1421601@esport-ics
 DTSTART:20260404T210000Z

@@ -211,6 +211,15 @@ CLASS:PUBLIC
 DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/tris_mara
 SUMMARY:Quarterfinal 2: ODK vs FXW7
-URL;VALUE=URI:https://www.twitch.tv/tris_mara
+URL:https://www.twitch.tv/tris_mara
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T193000Z
+UID:pandascore-match-1421573@esport-ics
+DTSTART:20260404T193000Z
+DTEND:20260404T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Playoffs
+SUMMARY:Semifinal 1: paiN vs FXW7
 END:VEVENT
 END:VCALENDAR

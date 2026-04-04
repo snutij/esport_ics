@@ -154,6 +154,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia Cup #3 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/kevindoruk
 SUMMARY:Lower bracket round 2 match 1: QUBE vs BP
-URL;VALUE=URI:https://www.twitch.tv/kevindoruk
+URL:https://www.twitch.tv/kevindoruk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T130000Z
+UID:pandascore-match-1421671@esport-ics
+DTSTART:20260405T130000Z
+DTEND:20260405T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket round 3 match 1: JS vs QUBE
 END:VEVENT
 END:VCALENDAR

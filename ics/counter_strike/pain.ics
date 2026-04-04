@@ -201,6 +201,15 @@ CLASS:PUBLIC
 DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Playoffs\nWatch: h
  ttps://kick.com/r-nicolino
 SUMMARY:Quarterfinal 1: paiN vs SHIN
-URL;VALUE=URI:https://kick.com/r-nicolino
+URL:https://kick.com/r-nicolino
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T193000Z
+UID:pandascore-match-1421573@esport-ics
+DTSTART:20260404T193000Z
+DTEND:20260404T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Playoffs
+SUMMARY:Semifinal 1: paiN vs FXW7
 END:VEVENT
 END:VCALENDAR

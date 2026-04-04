@@ -257,17 +257,6 @@ SUMMARY:AVE vs TS.A
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260404T150000Z
-UID:pandascore-match-1428014@esport-ics
-DTSTART:20260404T150000Z
-DTEND:20260404T171500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:TS.A vs VP.P
-URL:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260405T090000Z
 UID:pandascore-match-1428015@esport-ics
 DTSTART:20260405T090000Z
@@ -298,6 +287,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:RE vs TS.A
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T150000Z
+UID:pandascore-match-1428014@esport-ics
+DTSTART:20260409T150000Z
+DTEND:20260409T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:TS.A vs VP.P
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
