@@ -126,7 +126,9 @@ UID:pandascore-match-1423205@esport-ics
 DTSTART:20260405T060000Z
 DTEND:20260405T081500Z
 CLASS:PUBLIC
-DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs
+DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/aferatv
 SUMMARY:Grand final: FLY vs TBD
+URL;VALUE=URI:https://www.twitch.tv/aferatv
 END:VEVENT
 END:VCALENDAR

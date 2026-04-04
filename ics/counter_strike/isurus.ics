@@ -372,6 +372,17 @@ CLASS:PUBLIC
 DESCRIPTION:FiReCONTER - Season 3 2026 - Group B\nWatch: https://www.youtub
  e.com/watch?v=_FxfhsYtiwg
 SUMMARY:Decider match: RGE vs ISG
-URL;VALUE=URI:https://www.youtube.com/watch?v=_FxfhsYtiwg
+URL:https://www.youtube.com/watch?v=_FxfhsYtiwg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T210000Z
+UID:pandascore-match-1429167@esport-ics
+DTSTART:20260404T210000Z
+DTEND:20260404T231500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReCONTER - Season 3 2026 - Playoffs\nWatch: https://www.youtu
+ be.com/watch?v=fn2sJnapLl0
+SUMMARY:Upper bracket semifinal 1: PCY vs ISG
+URL;VALUE=URI:https://www.youtube.com/watch?v=fn2sJnapLl0
 END:VEVENT
 END:VCALENDAR

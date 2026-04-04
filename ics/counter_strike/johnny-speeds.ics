@@ -401,7 +401,9 @@ UID:pandascore-match-1420026@esport-ics
 DTSTART:20260405T170000Z
 DTEND:20260405T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/titaanitv
 SUMMARY:Upper bracket semifinal 1: JS vs ENCE.A
+URL;VALUE=URI:https://www.twitch.tv/titaanitv
 END:VEVENT
 END:VCALENDAR
