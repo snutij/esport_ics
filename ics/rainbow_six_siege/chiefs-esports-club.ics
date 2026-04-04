@@ -20,7 +20,9 @@ UID:pandascore-match-1422533@esport-ics
 DTSTART:20260405T090000Z
 DTEND:20260405T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Playoffs
+DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Playoffs\nWatch: 
+ https://www.twitch.tv/rainbow6
 SUMMARY:Lower bracket round 1 match 1: BB vs CHF
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

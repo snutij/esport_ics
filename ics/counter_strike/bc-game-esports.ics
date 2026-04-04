@@ -177,6 +177,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest 2026 - Group Stage\nWatch: https://www.twitch.t
  v/PGL
 SUMMARY:Round 1: MGLZ vs BCG
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T100000Z
+UID:pandascore-match-1426987@esport-ics
+DTSTART:20260405T100000Z
+DTEND:20260405T121500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest 2026 - Group Stage\nWatch: https://www.twitch.t
+ v/PGL
+SUMMARY:Round 2: BCG vs MIBR
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

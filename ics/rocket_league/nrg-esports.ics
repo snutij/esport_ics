@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS NA - Major: Open Qualifier 5 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/rocketleague
 SUMMARY:Lower bracket round 1 match 1: NRG vs Strictly Business
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T180000Z
+UID:pandascore-match-1430543@esport-ics
+DTSTART:20260405T180000Z
+DTEND:20260405T231500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS NA - Major: Open Qualifier 5 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/rocketleague
+SUMMARY:Lower bracket quarterfinal 1: NRG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

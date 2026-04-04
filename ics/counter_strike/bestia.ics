@@ -369,6 +369,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #4 2026 - Group B\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:Decider match: BIG.A vs BST
+URL:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T123000Z
+UID:pandascore-match-1421701@esport-ics
+DTSTART:20260405T123000Z
+DTEND:20260405T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #4 2026 - Playoffs\nWatch: https://kick.com/u
+ rbancontenders
+SUMMARY:Semifinal 2: PSSN.UA vs BST
 URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR

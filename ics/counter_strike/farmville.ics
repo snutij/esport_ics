@@ -153,8 +153,10 @@ UID:pandascore-match-1427595@esport-ics
 DTSTART:20260404T223000Z
 DTEND:20260405T004500Z
 CLASS:PUBLIC
-DESCRIPTION:Dust2.us - Eagle Masters season 7 2026 - Group Stage
+DESCRIPTION:Dust2.us - Eagle Masters season 7 2026 - Group Stage\nWatch: ht
+ tps://www.youtube.com/@CoreLiveBC/streams
 SUMMARY:Round 2: FV vs AKIMBO
+URL;VALUE=URI:https://www.youtube.com/@CoreLiveBC/streams
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260405T010000Z
@@ -162,7 +164,9 @@ UID:pandascore-match-1421630@esport-ics
 DTSTART:20260405T010000Z
 DTEND:20260405T031500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs\nW
+ atch: https://kick.com/frag
 SUMMARY:Lower bracket round 2 match 2: FV vs Reign Above
+URL;VALUE=URI:https://kick.com/frag
 END:VEVENT
 END:VCALENDAR

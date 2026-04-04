@@ -345,7 +345,9 @@ UID:pandascore-match-1421632@esport-ics
 DTSTART:20260405T010000Z
 DTEND:20260405T031500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/iamfusiion
 SUMMARY:Lower bracket round 2 match 4: LAG vs BOSS
+URL;VALUE=URI:https://www.twitch.tv/iamfusiion
 END:VEVENT
 END:VCALENDAR

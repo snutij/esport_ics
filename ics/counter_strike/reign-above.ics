@@ -107,7 +107,9 @@ UID:pandascore-match-1421630@esport-ics
 DTSTART:20260405T010000Z
 DTEND:20260405T031500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs\nW
+ atch: https://kick.com/frag
 SUMMARY:Lower bracket round 2 match 2: FV vs Reign Above
+URL;VALUE=URI:https://kick.com/frag
 END:VEVENT
 END:VCALENDAR
