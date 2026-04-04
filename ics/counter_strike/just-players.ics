@@ -23,4 +23,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 4: Just Players vs TNC
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T170000Z
+UID:pandascore-match-1420035@esport-ics
+DTSTART:20260404T170000Z
+DTEND:20260404T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket round 5 match 1: Just Players vs YNG
+END:VEVENT
 END:VCALENDAR

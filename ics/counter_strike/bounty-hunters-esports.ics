@@ -414,6 +414,15 @@ CLASS:PUBLIC
 DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Group C\nWatch: ht
  tps://kick.com/circuitx
 SUMMARY:Winners match: IMP vs BHE
-URL;VALUE=URI:https://kick.com/circuitx
+URL:https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T140000Z
+UID:pandascore-match-1421572@esport-ics
+DTSTART:20260404T140000Z
+DTEND:20260404T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Betboom Circuit X Mayhem - São Paulo 2026 - Playoffs
+SUMMARY:Quarterfinal 4: BHE vs GLS
 END:VEVENT
 END:VCALENDAR
