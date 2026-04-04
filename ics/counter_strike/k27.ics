@@ -454,6 +454,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 4 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/mpkbk
 SUMMARY:Quarterfinal 1: K27 vs CYBERSHOKE Prospects
+URL:https://www.twitch.tv/mpkbk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T090000Z
+UID:pandascore-match-1423168@esport-ics
+DTSTART:20260405T090000Z
+DTEND:20260405T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 4 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/mpkbk
+SUMMARY:Semifinal 1: K27 vs TBD
 URL;VALUE=URI:https://www.twitch.tv/mpkbk
 END:VEVENT
 END:VCALENDAR
