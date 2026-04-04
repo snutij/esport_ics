@@ -486,6 +486,17 @@ CLASS:PUBLIC
 DESCRIPTION:HLC Belgrade Pro - 2026 - Group B\nWatch: https://kick.com/rlgc
  s
 SUMMARY:ILWL vs ex-Zero Tenacity
-URL;VALUE=URI:https://kick.com/rlgcs
+URL:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T110000Z
+UID:pandascore-match-1427073@esport-ics
+DTSTART:20260405T110000Z
+DTEND:20260405T131500Z
+CLASS:PUBLIC
+DESCRIPTION:HLC Belgrade Pro - 2026 - Playoffs\nWatch: https://kick.com/rlg
+ cs_b
+SUMMARY:Quarterfinal 2: ILWL vs BCA
+URL;VALUE=URI:https://kick.com/rlgcs_b
 END:VEVENT
 END:VCALENDAR
