@@ -14,4 +14,13 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 4: TO vs UN
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T030000Z
+UID:pandascore-match-1422215@esport-ics
+DTSTART:20260411T030000Z
+DTEND:20260411T051500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 2: UN vs TBD
+END:VEVENT
 END:VCALENDAR
