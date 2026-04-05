@@ -243,8 +243,8 @@ DTSTART:20260405T150000Z
 DTEND:20260405T171500Z
 CLASS:PUBLIC
 DESCRIPTION:HLC Belgrade Pro - 2026 - Playoffs\nWatch: https://kick.com/rlg
- cs
+ cs_b
 SUMMARY:Semifinal 2: MGC vs BIG
-URL;VALUE=URI:https://kick.com/rlgcs
+URL;VALUE=URI:https://kick.com/rlgcs_b
 END:VEVENT
 END:VCALENDAR
