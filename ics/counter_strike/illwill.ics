@@ -497,6 +497,17 @@ CLASS:PUBLIC
 DESCRIPTION:HLC Belgrade Pro - 2026 - Playoffs\nWatch: https://kick.com/rlg
  cs_b
 SUMMARY:Quarterfinal 2: ILWL vs BCA
-URL;VALUE=URI:https://kick.com/rlgcs_b
+URL:https://kick.com/rlgcs_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T150000Z
+UID:pandascore-match-1427074@esport-ics
+DTSTART:20260405T150000Z
+DTEND:20260405T171500Z
+CLASS:PUBLIC
+DESCRIPTION:HLC Belgrade Pro - 2026 - Playoffs\nWatch: https://kick.com/rlg
+ cs
+SUMMARY:Semifinal 1: FaZe vs ILWL
+URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR
