@@ -145,4 +145,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 1: BBBMBCBS vs Skele
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T090000Z
+UID:pandascore-match-1421648@esport-ics
+DTSTART:20260406T090000Z
+DTEND:20260406T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: Skele vs TBD
+END:VEVENT
 END:VCALENDAR

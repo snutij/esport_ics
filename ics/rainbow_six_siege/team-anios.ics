@@ -84,6 +84,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Playoffs\nWatch: 
  https://www.twitch.tv/rainbow6
 SUMMARY:Upper bracket semifinal 1: EP vs ANIOS
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T090000Z
+UID:pandascore-match-1422536@esport-ics
+DTSTART:20260412T090000Z
+DTEND:20260412T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: ANIOS vs TBD
 END:VEVENT
 END:VCALENDAR
