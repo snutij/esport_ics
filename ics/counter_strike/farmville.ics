@@ -185,4 +185,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
 SUMMARY:Lower bracket round 3 match 1: FV vs Club 333
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T213000Z
+UID:pandascore-match-1431970@esport-ics
+DTSTART:20260406T213000Z
+DTEND:20260406T234500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT North America - Series #4 season 3 2026 - Group A\nWatch: h
+ ttps://kick.com/cct_cs3
+SUMMARY:FV vs AKIMBO
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR
