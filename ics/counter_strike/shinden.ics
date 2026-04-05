@@ -454,4 +454,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs
 SUMMARY:Lower bracket round 3 match 2: R2 vs SHIN
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T210000Z
+UID:pandascore-match-1421596@esport-ics
+DTSTART:20260406T210000Z
+DTEND:20260406T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: SHIN vs TBD
+END:VEVENT
 END:VCALENDAR
