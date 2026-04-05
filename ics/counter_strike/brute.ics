@@ -330,4 +330,15 @@ DESCRIPTION:United21 - Season 47 2026 - Group C\nWatch: https://kick.com/un
 SUMMARY:Winners match: YN vs BRUTE
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T110000Z
+UID:pandascore-match-1431898@esport-ics
+DTSTART:20260406T110000Z
+DTEND:20260406T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group A\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:RE vs BRUTE
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

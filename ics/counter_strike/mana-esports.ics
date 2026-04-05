@@ -541,4 +541,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Lower bracket round 6 match 2: UNiTY vs MANA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T080000Z
+UID:pandascore-match-1431902@esport-ics
+DTSTART:20260409T080000Z
+DTEND:20260409T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group C\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:MANA vs FCF
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

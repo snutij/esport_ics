@@ -229,6 +229,17 @@ CLASS:PUBLIC
 DESCRIPTION:Journey - Spring 2026 - Group B\nWatch: https://www.twitch.tv/j
  ourney_cs2
 SUMMARY:Decider match: FCF vs JS
-URL;VALUE=URI:https://www.twitch.tv/journey_cs2
+URL:https://www.twitch.tv/journey_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T080000Z
+UID:pandascore-match-1431902@esport-ics
+DTSTART:20260409T080000Z
+DTEND:20260409T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group C\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:MANA vs FCF
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

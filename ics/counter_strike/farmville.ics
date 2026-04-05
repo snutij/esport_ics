@@ -165,6 +165,24 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs\nW
  atch: https://kick.com/frag
 SUMMARY:Lower bracket round 2 match 2: FV vs Reign Above
-URL;VALUE=URI:https://kick.com/frag
+URL:https://kick.com/frag
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T000000Z
+UID:pandascore-match-1431892@esport-ics
+DTSTART:20260406T000000Z
+DTEND:20260406T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.us - Eagle Masters season 7 2026 - Group Stage
+SUMMARY:Round 3: EMP vs FV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T010000Z
+UID:pandascore-match-1421627@esport-ics
+DTSTART:20260406T010000Z
+DTEND:20260406T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket round 3 match 1: FV vs Club 333
 END:VEVENT
 END:VCALENDAR
