@@ -484,6 +484,17 @@ DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Lower bracket round 6 match 2: UNiTY vs MANA
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260405T193000Z
+UID:pandascore-match-1431359@esport-ics
+DTSTART:20260405T193000Z
+DTEND:20260405T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 24 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Grand final: UNiTY vs TBD
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260406T173000Z
 UID:pandascore-match-1404922@esport-ics
 DTSTART:20260406T173000Z
