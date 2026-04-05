@@ -239,4 +239,13 @@ DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group A\nWatch:
 SUMMARY:Leo vs eLITenergy
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T170000Z
+UID:pandascore-match-1420031@esport-ics
+DTSTART:20260406T170000Z
+DTEND:20260406T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: eLITenergy vs TBD
+END:VEVENT
 END:VCALENDAR
