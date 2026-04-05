@@ -404,6 +404,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/titaanitv
 SUMMARY:Upper bracket semifinal 1: JS vs ENCE.A
-URL;VALUE=URI:https://www.twitch.tv/titaanitv
+URL:https://www.twitch.tv/titaanitv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T170000Z
+UID:pandascore-match-1420028@esport-ics
+DTSTART:20260407T170000Z
+DTEND:20260407T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+SUMMARY:Upper bracket final: JS vs TBD
 END:VEVENT
 END:VCALENDAR

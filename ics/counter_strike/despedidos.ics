@@ -109,6 +109,17 @@ CLASS:PUBLIC
 DESCRIPTION:FiReCONTER - Season 3 2026 - Playoffs\nWatch: https://www.youtu
  be.com/watch?v=gQ9kYMYrW7s
 SUMMARY:Lower bracket final: Despe vs BST.A
-URL;VALUE=URI:https://www.youtube.com/watch?v=gQ9kYMYrW7s
+URL:https://www.youtube.com/watch?v=gQ9kYMYrW7s
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T203000Z
+UID:pandascore-match-1429172@esport-ics
+DTSTART:20260405T203000Z
+DTEND:20260405T224500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReCONTER - Season 3 2026 - Playoffs\nWatch: https://www.youtu
+ be.com/watch?v=RawR4hBbaiQ
+SUMMARY:Grand final: ISG vs Despe
+URL;VALUE=URI:https://www.youtube.com/watch?v=RawR4hBbaiQ
 END:VEVENT
 END:VCALENDAR
