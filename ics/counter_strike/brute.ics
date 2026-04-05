@@ -341,4 +341,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group A\nWatch:
 SUMMARY:RE vs BRUTE
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T080000Z
+UID:pandascore-match-1423186@esport-ics
+DTSTART:20260408T080000Z
+DTEND:20260408T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 47 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider match: BRUTE vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
