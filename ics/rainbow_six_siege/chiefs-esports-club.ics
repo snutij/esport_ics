@@ -23,6 +23,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Playoffs\nWatch: 
  https://www.twitch.tv/rainbow6
 SUMMARY:Lower bracket round 1 match 1: BB vs CHF
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T030000Z
+UID:pandascore-match-1422535@esport-ics
+DTSTART:20260419T030000Z
+DTEND:20260419T051500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: CHF vs TBD
 END:VEVENT
 END:VCALENDAR
