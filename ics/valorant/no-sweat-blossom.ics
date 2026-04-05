@@ -89,6 +89,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Playoffs
  \nWatch: https://www.twitch.tv/valorant_la
 SUMMARY:Lower bracket final: MYV.GC vs NSB
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T220000Z
+UID:pandascore-match-1417714@esport-ics
+DTSTART:20260407T220000Z
+DTEND:20260408T014500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Stage 1 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:Grand final: AEB vs NSB
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR
