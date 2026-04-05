@@ -572,6 +572,17 @@ SUMMARY:Upper bracket semifinal 1: JS vs ENCE.A
 URL:https://www.twitch.tv/titaanitv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260406T140000Z
+UID:pandascore-match-1406965@esport-ics
+DTSTART:20260406T140000Z
+DTEND:20260406T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Group Stage\nWatch: htt
+ ps://www.kick.com/cct_cs
+SUMMARY:Round 5: STA vs ENCE.A
+URL;VALUE=URI:https://www.kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260406T170000Z
 UID:pandascore-match-1420032@esport-ics
 DTSTART:20260406T170000Z
