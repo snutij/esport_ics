@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest 2026 - Group Stage\nWatch: https://www.twitch.t
  v/pgl_cs2
 SUMMARY:Round 2: FaZe vs WC
-URL;VALUE=URI:https://www.twitch.tv/pgl_cs2
+URL:https://www.twitch.tv/pgl_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T190000Z
+UID:pandascore-match-1427077@esport-ics
+DTSTART:20260405T190000Z
+DTEND:20260405T211500Z
+CLASS:PUBLIC
+DESCRIPTION:HLC Belgrade Pro - 2026 - Playoffs\nWatch: https://kick.com/rlg
+ cs
+SUMMARY:Grand final: FaZe vs BIG
+URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR

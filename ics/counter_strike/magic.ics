@@ -259,6 +259,17 @@ CLASS:PUBLIC
 DESCRIPTION:HLC Belgrade Pro - 2026 - Playoffs\nWatch: https://kick.com/rlg
  cs_b
 SUMMARY:Semifinal 2: MGC vs BIG
-URL;VALUE=URI:https://kick.com/rlgcs_b
+URL:https://kick.com/rlgcs_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T190000Z
+UID:pandascore-match-1427076@esport-ics
+DTSTART:20260405T190000Z
+DTEND:20260405T211500Z
+CLASS:PUBLIC
+DESCRIPTION:HLC Belgrade Pro - 2026 - Playoffs\nWatch: https://kick.com/rlg
+ cs
+SUMMARY:3rd Place match: ILWL vs MGC
+URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR
