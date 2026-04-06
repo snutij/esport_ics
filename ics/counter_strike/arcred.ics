@@ -274,6 +274,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 4 2026 - Group C\nWatch: https://
  www.twitch.tv/mpkbk
 SUMMARY:Decider match: ARC vs WW
-URL;VALUE=URI:https://www.twitch.tv/mpkbk
+URL:https://www.twitch.tv/mpkbk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T080000Z
+UID:pandascore-match-1400934@esport-ics
+DTSTART:20260408T080000Z
+DTEND:20260408T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Round of 16 match 1: ARC vs AAB
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group B\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:PG vs EC BANGA
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T170000Z
+UID:pandascore-match-1406966@esport-ics
+DTSTART:20260406T170000Z
+DTEND:20260406T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Group Stage\nWatch: htt
+ ps://kick.com/cct_cs2
+SUMMARY:Round 5: PG vs BBP
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

@@ -530,7 +530,7 @@ DTEND:20260406T191500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Group Stage\nWatch: htt
  ps://kick.com/cct_cs2
-SUMMARY:Round 5: ex-MINLATE vs BBP
+SUMMARY:Round 5: PG vs BBP
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
@@ -543,5 +543,16 @@ DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group B\nWatch:
  https://kick.com/nodwin_cs2
 SUMMARY:Winners match: BBP vs TBD
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T103000Z
+UID:pandascore-match-1400937@esport-ics
+DTSTART:20260409T103000Z
+DTEND:20260409T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Round of 16 match 4: ESC vs BBP
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
