@@ -191,15 +191,6 @@ SUMMARY:Decider match: zajezdzacze vs ex-Zero Tenacity
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260406T180000Z
-UID:pandascore-match-1433392@esport-ics
-DTSTART:20260406T180000Z
-DTEND:20260406T184500Z
-CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
-SUMMARY:TLR vs zajezdzacze
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260408T103000Z
 UID:pandascore-match-1400935@esport-ics
 DTSTART:20260408T103000Z
@@ -209,5 +200,14 @@ DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Round of 16 match 2: MOUZ.N vs zajezdzacze
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T170000Z
+UID:pandascore-match-1433392@esport-ics
+DTSTART:20260410T170000Z
+DTEND:20260410T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:TLR vs zajezdzacze
 END:VEVENT
 END:VCALENDAR
