@@ -896,6 +896,17 @@ DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 2: QWE vs TNC
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260407T140000Z
+UID:pandascore-match-1406974@esport-ics
+DTSTART:20260407T140000Z
+DTEND:20260407T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
+ //www.kick.com/cct_cs
+SUMMARY:Round of 16 match 3: ECS vs QWE
+URL;VALUE=URI:https://www.kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260407T170000Z
 UID:pandascore-match-1420028@esport-ics
 DTSTART:20260407T170000Z

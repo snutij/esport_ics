@@ -545,6 +545,17 @@ SUMMARY:Winners match: BBP vs PG
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260408T170000Z
+UID:pandascore-match-1406979@esport-ics
+DTSTART:20260408T170000Z
+DTEND:20260408T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
+ //www.kick.com/cct_cs
+SUMMARY:Round of 16 match 1: BIG vs BBP
+URL;VALUE=URI:https://www.kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260409T103000Z
 UID:pandascore-match-1400937@esport-ics
 DTSTART:20260409T103000Z

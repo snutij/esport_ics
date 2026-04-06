@@ -510,6 +510,17 @@ SUMMARY:Upper bracket quarterfinal 4: ASTR vs ROTTW
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260408T080000Z
+UID:pandascore-match-1406976@esport-ics
+DTSTART:20260408T080000Z
+DTEND:20260408T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
+ //www.kick.com/cct_cs
+SUMMARY:Round of 16 match 4: ex-ENCE vs ASTR
+URL;VALUE=URI:https://www.kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260409T110000Z
 UID:pandascore-match-1431904@esport-ics
 DTSTART:20260409T110000Z

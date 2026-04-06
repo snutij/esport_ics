@@ -559,6 +559,17 @@ SUMMARY:Round 4: ex-RUBY vs STA
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260408T110000Z
+UID:pandascore-match-1406977@esport-ics
+DTSTART:20260408T110000Z
+DTEND:20260408T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
+ //www.kick.com/cct_cs
+SUMMARY:Round of 16 match 8: TRI vs ex-RUBY
+URL;VALUE=URI:https://www.kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260411T080000Z
 UID:pandascore-match-1400940@esport-ics
 DTSTART:20260411T080000Z

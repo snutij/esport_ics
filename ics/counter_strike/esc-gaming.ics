@@ -138,6 +138,17 @@ SUMMARY:Grand final: ESC vs NEM
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260407T080000Z
+UID:pandascore-match-1406972@esport-ics
+DTSTART:20260407T080000Z
+DTEND:20260407T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
+ //www.kick.com/cct_cs
+SUMMARY:Round of 16 match 7: ESC vs STA
+URL;VALUE=URI:https://www.kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260409T103000Z
 UID:pandascore-match-1400937@esport-ics
 DTSTART:20260409T103000Z
