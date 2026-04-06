@@ -323,6 +323,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest 2026 - Group Stage\nWatch: https://www.twitch.t
  v/pgl_cs2
 SUMMARY:Round 3: ICE vs FaZe
-URL;VALUE=URI:https://www.twitch.tv/pgl_cs2
+URL:https://www.twitch.tv/pgl_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T100000Z
+UID:pandascore-match-1427003@esport-ics
+DTSTART:20260407T100000Z
+DTEND:20260407T121500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest 2026 - Group Stage\nWatch: https://www.twitch.t
+ v/PGL
+SUMMARY:Round 4: B8 vs ICE
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

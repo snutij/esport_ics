@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest 2026 - Group Stage\nWatch: https://www.twitch.t
  v/pgl_cs2
 SUMMARY:Round 3: NRG vs EYE
-URL;VALUE=URI:https://www.twitch.tv/pgl_cs2
+URL:https://www.twitch.tv/pgl_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T070000Z
+UID:pandascore-match-1427001@esport-ics
+DTSTART:20260407T070000Z
+DTEND:20260407T091500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest 2026 - Group Stage\nWatch: https://www.twitch.t
+ v/PGL
+SUMMARY:Round 4: NRG vs LGC
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR
