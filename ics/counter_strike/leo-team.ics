@@ -437,6 +437,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group A\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Leo vs eLITe
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T140000Z
+UID:pandascore-match-1431907@esport-ics
+DTSTART:20260407T140000Z
+DTEND:20260407T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group A\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Winners match: BRUTE vs Leo
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

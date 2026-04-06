@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Spain: Rising Phase 1 Stage 3 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/LVPes2
 SUMMARY:Upper bracket quarterfinal 2: NOVO vs OTK
+URL:https://www.twitch.tv/LVPes2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T150000Z
+UID:pandascore-match-1424707@esport-ics
+DTSTART:20260407T150000Z
+DTEND:20260407T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Spain: Rising Phase 1 Stage 3 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/LVPes2
+SUMMARY:Upper bracket semifinal 1: BAR vs OTK
 URL;VALUE=URI:https://www.twitch.tv/LVPes2
 END:VEVENT
 END:VCALENDAR

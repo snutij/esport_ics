@@ -237,7 +237,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group A\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Leo vs eLITe
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260406T170000Z
@@ -248,7 +248,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/kevindoruk
 SUMMARY:Lower bracket quarterfinal 1: ENCE.A vs eLITe
-URL;VALUE=URI:https://www.twitch.tv/kevindoruk
+URL:https://www.twitch.tv/kevindoruk
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260406T180000Z
@@ -258,5 +258,16 @@ DTEND:20260406T184500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:GE vs eLITe
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T080000Z
+UID:pandascore-match-1431906@esport-ics
+DTSTART:20260407T080000Z
+DTEND:20260407T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group A\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Elimination match: RE vs eLITe
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
