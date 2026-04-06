@@ -104,7 +104,9 @@ UID:pandascore-match-1421649@esport-ics
 DTSTART:20260406T090000Z
 DTEND:20260406T111500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs
-SUMMARY:Lower bracket quarterfinal 2: MF vs Arcade Esports
+DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs\nWatch: 
+ https://www.twitch.tv/shemakaka
+SUMMARY:Lower bracket quarterfinal 2: MF vs ARC
+URL;VALUE=URI:https://www.twitch.tv/shemakaka
 END:VEVENT
 END:VCALENDAR

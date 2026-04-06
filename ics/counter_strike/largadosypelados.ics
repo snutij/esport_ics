@@ -336,7 +336,9 @@ UID:pandascore-match-1421596@esport-ics
 DTSTART:20260406T210000Z
 DTEND:20260406T231500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/lorranbs_
 SUMMARY:Lower bracket quarterfinal 2: LDP vs SHIN
+URL;VALUE=URI:https://www.twitch.tv/lorranbs_
 END:VEVENT
 END:VCALENDAR
