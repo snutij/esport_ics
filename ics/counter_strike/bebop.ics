@@ -509,7 +509,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group B\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:BBP vs MSC
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260406T080000Z
@@ -520,7 +520,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 2026 - Group A\nWatch: https://w
  ww.kick.com/eplcs_en
 SUMMARY:Decider match: MEGO vs BBP
-URL;VALUE=URI:https://www.kick.com/eplcs_en
+URL:https://www.kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260406T170000Z

@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 24 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 5: HEC vs EF.A
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T183000Z
+UID:pandascore-match-1433377@esport-ics
+DTSTART:20260407T183000Z
+DTEND:20260407T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 1: CLS vs EF.A
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
