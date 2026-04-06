@@ -186,21 +186,23 @@ DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 2: ZOMB vs REGAIN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T000000Z
-UID:pandascore-match-1431894@esport-ics
-DTSTART:20260407T000000Z
-DTEND:20260407T021500Z
-CLASS:PUBLIC
-DESCRIPTION:Dust2.us - Eagle Masters season 7 2026 - Group Stage
-SUMMARY:Round 3: ZOMB vs IP
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260407T010000Z
 UID:pandascore-match-1421626@esport-ics
 DTSTART:20260407T010000Z
 DTEND:20260407T031500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/eslcs
 SUMMARY:Lower bracket quarterfinal 2: ZOMB vs LAG
+URL;VALUE=URI:https://www.twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T220000Z
+UID:pandascore-match-1431894@esport-ics
+DTSTART:20260409T220000Z
+DTEND:20260410T001500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.us - Eagle Masters season 7 2026 - Group Stage
+SUMMARY:Round 3: ZOMB vs IP
 END:VEVENT
 END:VCALENDAR

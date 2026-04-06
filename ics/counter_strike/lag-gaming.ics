@@ -379,8 +379,10 @@ UID:pandascore-match-1421626@esport-ics
 DTSTART:20260407T010000Z
 DTEND:20260407T031500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/eslcs
 SUMMARY:Lower bracket quarterfinal 2: ZOMB vs LAG
+URL;VALUE=URI:https://www.twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260407T220000Z
