@@ -374,6 +374,15 @@ DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
 SUMMARY:Lower bracket round 3 match 2: Surge vs LAG
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260407T010000Z
+UID:pandascore-match-1421626@esport-ics
+DTSTART:20260407T010000Z
+DTEND:20260407T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: LAG vs ZOMB
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260407T220000Z
 UID:pandascore-match-1431893@esport-ics
 DTSTART:20260407T220000Z
