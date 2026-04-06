@@ -102,6 +102,39 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Invitational 2026 - Playoffs\nWatch: https://www.twitch.t
  v/otplol_
 SUMMARY:Lower bracket quarterfinal 2: JL vs TLNP
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T170000Z
+UID:pandascore-match-1433430@esport-ics
+DTSTART:20260408T170000Z
+DTEND:20260408T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:JL vs ES
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T190000Z
+UID:pandascore-match-1433437@esport-ics
+DTSTART:20260409T190000Z
+DTEND:20260409T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:JL vs KCB
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T190000Z
+UID:pandascore-match-1433442@esport-ics
+DTSTART:20260410T190000Z
+DTEND:20260410T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:JL vs SLY
 URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

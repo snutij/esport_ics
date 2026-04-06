@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ici Japon Corp. Esport
+SLUG:ici-japon-corp-esport
+BEGIN:VEVENT
+DTSTAMP:20260408T180000Z
+UID:pandascore-match-1433431@esport-ics
+DTSTART:20260408T180000Z
+DTEND:20260408T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:IJC vs ZYB
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T200000Z
+UID:pandascore-match-1433438@esport-ics
+DTSTART:20260409T200000Z
+DTEND:20260409T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:IJC vs GAL
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T170000Z
+UID:pandascore-match-1433440@esport-ics
+DTSTART:20260410T170000Z
+DTEND:20260410T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:IJC vs TLNP
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+END:VCALENDAR

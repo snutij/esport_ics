@@ -91,4 +91,37 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 2: KCB vs ME
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T200000Z
+UID:pandascore-match-1433433@esport-ics
+DTSTART:20260408T200000Z
+DTEND:20260408T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:TLNP vs KCB
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T190000Z
+UID:pandascore-match-1433437@esport-ics
+DTSTART:20260409T190000Z
+DTEND:20260409T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:JL vs KCB
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T180000Z
+UID:pandascore-match-1433441@esport-ics
+DTSTART:20260410T180000Z
+DTEND:20260410T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:ES vs KCB
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
 END:VCALENDAR

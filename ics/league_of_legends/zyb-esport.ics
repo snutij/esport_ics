@@ -69,6 +69,39 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Invitational 2026 - Super Group\nWatch: http://www.twitch
  .tv/otplol_
 SUMMARY:VIT.B vs ZYB
-URL;VALUE=URI:http://www.twitch.tv/otplol_
+URL:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T180000Z
+UID:pandascore-match-1433431@esport-ics
+DTSTART:20260408T180000Z
+DTEND:20260408T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:IJC vs ZYB
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T170000Z
+UID:pandascore-match-1433435@esport-ics
+DTSTART:20260409T170000Z
+DTEND:20260409T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:VIT.B vs ZYB
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T160000Z
+UID:pandascore-match-1433439@esport-ics
+DTSTART:20260410T160000Z
+DTEND:20260410T164500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:SC vs ZYB
+URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

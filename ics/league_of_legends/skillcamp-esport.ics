@@ -80,6 +80,39 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Invitational 2026 - Playoffs\nWatch: https://www.twitch.t
  v/otplol_
 SUMMARY:Lower bracket quarterfinal 1: FF vs SC
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T160000Z
+UID:pandascore-match-1433429@esport-ics
+DTSTART:20260408T160000Z
+DTEND:20260408T164500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:SC vs VIT.B
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T160000Z
+UID:pandascore-match-1433434@esport-ics
+DTSTART:20260409T160000Z
+DTEND:20260409T164500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:SC vs ES
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T160000Z
+UID:pandascore-match-1433439@esport-ics
+DTSTART:20260410T160000Z
+DTEND:20260410T164500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:SC vs ZYB
 URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR
