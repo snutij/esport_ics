@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Japan: Split 1 2026 - Phase 2\nWatch: https://www.twitch.
  tv/valorant_jpn
 SUMMARY:Upper bracket semifinal 2: FL vs MRG
+URL:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T100000Z
+UID:pandascore-match-1422199@esport-ics
+DTSTART:20260408T100000Z
+DTEND:20260408T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Japan: Split 1 2026 - Phase 2\nWatch: https://www.twitch.
+ tv/valorant_jpn
+SUMMARY:Upper bracket final: RC vs FL
 URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
 END:VEVENT
 END:VCALENDAR

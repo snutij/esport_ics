@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:KPL Growth League - Spring 2026 - Playoffs\nWatch: https://live
  .bilibili.com/21654762
 SUMMARY:Lower bracket quarterfinal 2: SYGaming vs XYG
+URL:https://live.bilibili.com/21654762
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T110000Z
+UID:pandascore-match-1413520@esport-ics
+DTSTART:20260407T110000Z
+DTEND:20260407T161500Z
+CLASS:PUBLIC
+DESCRIPTION:KPL Growth League - Spring 2026 - Playoffs\nWatch: https://live
+ .bilibili.com/21654762
+SUMMARY:Lower bracket semifinal: WLT vs SYGaming
 URL;VALUE=URI:https://live.bilibili.com/21654762
 END:VEVENT
 END:VCALENDAR
