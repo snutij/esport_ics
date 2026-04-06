@@ -309,6 +309,17 @@ CLASS:PUBLIC
 DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Play-In\nWat
  ch: https://kick.com/starladder
 SUMMARY:Upper bracket quarterfinal 1: KOL vs HS
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T150000Z
+UID:pandascore-match-1404947@esport-ics
+DTSTART:20260408T150000Z
+DTEND:20260408T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Play-In\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Lower bracket quarterfinal 1: KOL vs TBD
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
