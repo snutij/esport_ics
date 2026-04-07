@@ -320,6 +320,17 @@ CLASS:PUBLIC
 DESCRIPTION:PREMIER SERIES - 2026 - Group B\nWatch: https://www.twitch.tv/b
  etboom_dota_ru
 SUMMARY:NGX vs L1GA
+URL:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T181000Z
+UID:pandascore-match-1435734@esport-ics
+DTSTART:20260407T181000Z
+DTEND:20260407T202500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Group Stage Decider\nWatch: https://www
+ .twitch.tv/betboom_dota_ru
+SUMMARY:YeS vs L1GA
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 END:VCALENDAR
