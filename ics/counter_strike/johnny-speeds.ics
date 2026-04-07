@@ -426,6 +426,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/JohnnySpeeds
 SUMMARY:Upper bracket final: JS vs QWE
-URL;VALUE=URI:https://www.twitch.tv/JohnnySpeeds
+URL:https://www.twitch.tv/JohnnySpeeds
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T170000Z
+UID:pandascore-match-1420029@esport-ics
+DTSTART:20260409T170000Z
+DTEND:20260409T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+SUMMARY:Grand final: JS vs TBD
 END:VEVENT
 END:VCALENDAR
