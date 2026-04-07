@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Kickoff 2026 - Playoffs - NA\nWatch: htt
  ps://www.twitch.tv/bababeast1
 SUMMARY:Lower bracket semifinal: GLS vs RAAD
-URL;VALUE=URI:https://www.twitch.tv/bababeast1
+URL:https://www.twitch.tv/bababeast1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T183000Z
+UID:pandascore-match-1435133@esport-ics
+DTSTART:20260412T183000Z
+DTEND:20260412T204500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Pulse Stage North AfricaEast 2026 - Grou
+ p Stage\nWatch: https://www.twitch.tv/valorantesports_ar
+SUMMARY:Round 2: GMX vs RAAD
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR

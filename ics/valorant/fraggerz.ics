@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Kickoff 2026 - Playoffs - ME\nWatch: htt
  ps://www.twitch.tv/valorantesports_ar
 SUMMARY:Grand final: STS vs FRAG
+URL:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T160000Z
+UID:pandascore-match-1435006@esport-ics
+DTSTART:20260418T160000Z
+DTEND:20260418T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Pulse Stage Middle East 2026 - Group Sta
+ ge\nWatch: https://www.twitch.tv/valorantesports_ar
+SUMMARY:Round 2: FRAG vs AXE
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR

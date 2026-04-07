@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spire Esports
+SLUG:spire-esports
+BEGIN:VEVENT
+DTSTAMP:20260411T160000Z
+UID:pandascore-match-1435004@esport-ics
+DTSTART:20260411T160000Z
+DTEND:20260411T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Pulse Stage Middle East 2026 - Group Sta
+ ge\nWatch: https://www.twitch.tv/valorantesports_ar
+SUMMARY:Round 2: STS vs SPR
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+END:VCALENDAR

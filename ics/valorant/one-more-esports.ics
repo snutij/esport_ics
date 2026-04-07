@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Kickoff 2026 - Playoffs - NA\nWatch: htt
  ps://www.twitch.tv/valorantesports_ar
 SUMMARY:Grand final: 1M vs GNGA
+URL:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T160000Z
+UID:pandascore-match-1435134@esport-ics
+DTSTART:20260419T160000Z
+DTEND:20260419T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Pulse Stage North AfricaEast 2026 - Grou
+ p Stage\nWatch: https://www.twitch.tv/valorantesports_ar
+SUMMARY:Round 2: 1M vs RAF
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR

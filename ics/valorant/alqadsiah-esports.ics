@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Kickoff 2026 - Playoffs - ME\nWatch: htt
  ps://www.twitch.tv/valorantesports_ar
 SUMMARY:Lower bracket final: QE vs FRAG
+URL:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T183000Z
+UID:pandascore-match-1435005@esport-ics
+DTSTART:20260411T183000Z
+DTEND:20260411T204500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Pulse Stage Middle East 2026 - Group Sta
+ ge\nWatch: https://www.twitch.tv/valorantesports_ar
+SUMMARY:Round 2: QE vs VIA
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR

@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 1 2026 - Group D\nWatch: https://www.twitch.t
  v/valorant_tur
 SUMMARY:S2G vs GNGA
-URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+URL:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T160000Z
+UID:pandascore-match-1435112@esport-ics
+DTSTART:20260412T160000Z
+DTEND:20260412T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Pulse Stage North AfricaEast 2026 - Grou
+ p Stage\nWatch: https://www.twitch.tv/valorantesports_ar
+SUMMARY:Round 2: BAAM vs GNGA
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR
