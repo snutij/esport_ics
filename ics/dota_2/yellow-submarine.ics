@@ -281,17 +281,6 @@ SUMMARY:GL vs YeS
 URL:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T180000Z
-UID:pandascore-match-1428005@esport-ics
-DTSTART:20260407T180000Z
-DTEND:20260407T201500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:Nemiga vs YeS
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260409T120000Z
 UID:pandascore-match-1428007@esport-ics
 DTSTART:20260409T120000Z
@@ -311,6 +300,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:BALU vs YeS
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T180000Z
+UID:pandascore-match-1428005@esport-ics
+DTSTART:20260411T180000Z
+DTEND:20260411T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs YeS
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

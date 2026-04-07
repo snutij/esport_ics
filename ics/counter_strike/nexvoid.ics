@@ -106,6 +106,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/dutchboycasts
 SUMMARY:Lower bracket semifinal: NEXVOID vs BMZ
-URL;VALUE=URI:https://www.twitch.tv/dutchboycasts
+URL:https://www.twitch.tv/dutchboycasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T130000Z
+UID:pandascore-match-1421668@esport-ics
+DTSTART:20260408T130000Z
+DTEND:20260408T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket final: NEXVOID vs TBD
 END:VEVENT
 END:VCALENDAR
