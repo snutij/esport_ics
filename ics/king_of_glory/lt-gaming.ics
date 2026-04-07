@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:KPL Growth League - Spring 2026 - Playoffs\nWatch: https://live
  .bilibili.com/21654762
 SUMMARY:Upper bracket final: LTG vs WST
+URL:https://live.bilibili.com/21654762
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T110000Z
+UID:pandascore-match-1413522@esport-ics
+DTSTART:20260408T110000Z
+DTEND:20260408T161500Z
+CLASS:PUBLIC
+DESCRIPTION:KPL Growth League - Spring 2026 - Playoffs\nWatch: https://live
+ .bilibili.com/21654762
+SUMMARY:Lower bracket final: LTG vs TBD
 URL;VALUE=URI:https://live.bilibili.com/21654762
 END:VEVENT
 END:VCALENDAR

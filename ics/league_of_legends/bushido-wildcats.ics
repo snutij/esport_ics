@@ -80,6 +80,83 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group B\nWatch: https://www.twitch
  .tv/riotgamesturkish
 SUMMARY:Lower bracket final: UCAM vs BW
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T173000Z
+UID:pandascore-match-1434827@esport-ics
+DTSTART:20260410T173000Z
+DTEND:20260410T194500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:BW vs PHX
+URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T173000Z
+UID:pandascore-match-1434829@esport-ics
+DTSTART:20260416T173000Z
+DTEND:20260416T194500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:BW vs SU
+URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T143000Z
+UID:pandascore-match-1434832@esport-ics
+DTSTART:20260422T143000Z
+DTEND:20260422T164500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:BW vs BGT
+URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T143000Z
+UID:pandascore-match-1434838@esport-ics
+DTSTART:20260501T143000Z
+DTEND:20260501T164500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:BW vs OZO
+URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T143000Z
+UID:pandascore-match-1434840@esport-ics
+DTSTART:20260505T143000Z
+DTEND:20260505T164500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:BW vs DP
+URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T173000Z
+UID:pandascore-match-1434845@esport-ics
+DTSTART:20260507T173000Z
+DTEND:20260507T194500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:PCIFIC  vs BW
+URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T143000Z
+UID:pandascore-match-1434848@esport-ics
+DTSTART:20260514T143000Z
+DTEND:20260514T164500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:ME vs BW
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 END:VCALENDAR

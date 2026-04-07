@@ -3,61 +3,39 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Dark Passage
-SLUG:dark-passage
+X-WR-CALNAME:Team Phoenix
+SLUG:team-phoenix
 BEGIN:VEVENT
-DTSTAMP:20260209T131340Z
-UID:pandascore-match-1351407@esport-ics
-DTSTART:20260209T143000Z
-DTEND:20260209T164500Z
-CLASS:PUBLIC
-DESCRIPTION:TCL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
- gamesturkish
-SUMMARY:Upper bracket quarterfinal 1: DP vs SU
-URL:https://www.twitch.tv/riotgamesturkish
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260212T150000Z
-UID:pandascore-match-1351411@esport-ics
-DTSTART:20260212T150000Z
-DTEND:20260212T184500Z
-CLASS:PUBLIC
-DESCRIPTION:TCL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
- gamesturkish
-SUMMARY:Lower bracket quarterfinal 1: DP vs BW
-URL:https://www.twitch.tv/riotgamesturkish
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260410T143000Z
-UID:pandascore-match-1434826@esport-ics
-DTSTART:20260410T143000Z
-DTEND:20260410T164500Z
+DTSTAMP:20260410T173000Z
+UID:pandascore-match-1434827@esport-ics
+DTSTART:20260410T173000Z
+DTEND:20260410T194500Z
 CLASS:PUBLIC
 DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/riotgamesturkish
-SUMMARY:DP vs SU
+SUMMARY:BW vs PHX
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260417T143000Z
-UID:pandascore-match-1434830@esport-ics
-DTSTART:20260417T143000Z
-DTEND:20260417T164500Z
+DTSTAMP:20260416T143000Z
+UID:pandascore-match-1434828@esport-ics
+DTSTART:20260416T143000Z
+DTEND:20260416T164500Z
 CLASS:PUBLIC
 DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/riotgamesturkish
-SUMMARY:DP vs BGT
+SUMMARY:ME vs PHX
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260422T173000Z
-UID:pandascore-match-1434833@esport-ics
-DTSTART:20260422T173000Z
-DTEND:20260422T194500Z
+DTSTAMP:20260423T143000Z
+UID:pandascore-match-1434834@esport-ics
+DTSTART:20260423T143000Z
+DTEND:20260423T164500Z
 CLASS:PUBLIC
 DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/riotgamesturkish
-SUMMARY:DP vs OZO
+SUMMARY:PCIFIC  vs PHX
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 BEGIN:VEVENT
@@ -72,36 +50,36 @@ SUMMARY:DP vs PHX
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T143000Z
-UID:pandascore-match-1434840@esport-ics
-DTSTART:20260505T143000Z
-DTEND:20260505T164500Z
+DTSTAMP:20260506T143000Z
+UID:pandascore-match-1434842@esport-ics
+DTSTART:20260506T143000Z
+DTEND:20260506T164500Z
 CLASS:PUBLIC
 DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/riotgamesturkish
-SUMMARY:BW vs DP
+SUMMARY:PHX vs SU
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260507T143000Z
-UID:pandascore-match-1434844@esport-ics
-DTSTART:20260507T143000Z
-DTEND:20260507T164500Z
+DTSTAMP:20260513T173000Z
+UID:pandascore-match-1434847@esport-ics
+DTSTART:20260513T173000Z
+DTEND:20260513T194500Z
 CLASS:PUBLIC
 DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/riotgamesturkish
-SUMMARY:ME vs DP
+SUMMARY:BGT vs PHX
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260514T173000Z
-UID:pandascore-match-1434849@esport-ics
-DTSTART:20260514T173000Z
-DTEND:20260514T194500Z
+DTSTAMP:20260515T143000Z
+UID:pandascore-match-1434850@esport-ics
+DTSTART:20260515T143000Z
+DTEND:20260515T164500Z
 CLASS:PUBLIC
 DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/riotgamesturkish
-SUMMARY:PCIFIC  vs DP
+SUMMARY:OZO vs PHX
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 END:VCALENDAR

@@ -25,6 +25,83 @@ CLASS:PUBLIC
 DESCRIPTION:TCL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
  gamesturkish
 SUMMARY:Lower bracket quarterfinal 2: PCIFIC  vs SU
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T143000Z
+UID:pandascore-match-1434824@esport-ics
+DTSTART:20260409T143000Z
+DTEND:20260409T164500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:PCIFIC  vs BGT
+URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T173000Z
+UID:pandascore-match-1434831@esport-ics
+DTSTART:20260417T173000Z
+DTEND:20260417T194500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:PCIFIC  vs OZO
+URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T143000Z
+UID:pandascore-match-1434834@esport-ics
+DTSTART:20260423T143000Z
+DTEND:20260423T164500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:PCIFIC  vs PHX
+URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T143000Z
+UID:pandascore-match-1434836@esport-ics
+DTSTART:20260430T143000Z
+DTEND:20260430T164500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:PCIFIC  vs SU
+URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T173000Z
+UID:pandascore-match-1434841@esport-ics
+DTSTART:20260505T173000Z
+DTEND:20260505T194500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:PCIFIC  vs ME
+URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T173000Z
+UID:pandascore-match-1434845@esport-ics
+DTSTART:20260507T173000Z
+DTEND:20260507T194500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:PCIFIC  vs BW
+URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T173000Z
+UID:pandascore-match-1434849@esport-ics
+DTSTART:20260514T173000Z
+DTEND:20260514T194500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesturkish
+SUMMARY:PCIFIC  vs DP
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 END:VCALENDAR
