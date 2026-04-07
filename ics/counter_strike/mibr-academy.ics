@@ -286,6 +286,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 2 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/dust2br
 SUMMARY:Quarterfinal 3: MIBR.A vs PLS
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T230000Z
+UID:pandascore-match-1413592@esport-ics
+DTSTART:20260408T230000Z
+DTEND:20260409T011500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 2 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/dust2br
+SUMMARY:Semifinal 2: MIBR.A vs TBD
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR
