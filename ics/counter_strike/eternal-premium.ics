@@ -329,6 +329,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 1: 3DMAX.A vs EP
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T110000Z
+UID:pandascore-match-1434767@esport-ics
+DTSTART:20260407T110000Z
+DTEND:20260407T131500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck SixSeven - Season 1 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/GLuck_Esports
+SUMMARY:Lower bracket final: PG vs EP
+URL;VALUE=URI:https://www.twitch.tv/GLuck_Esports
 END:VEVENT
 END:VCALENDAR

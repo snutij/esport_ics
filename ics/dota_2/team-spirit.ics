@@ -267,7 +267,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL One - Birmingham 2026 - Playoffs\nWatch: https://www.twitch
  .tv/esl_dota2
 SUMMARY:Lower bracket quarterfinal 1: TS vs Xtreme
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260328T120000Z
@@ -279,5 +279,16 @@ DESCRIPTION:ESL One - Birmingham 2026 - Playoffs\nWatch: https://www.twitch
  .tv/esl_dota2
 SUMMARY:Lower bracket quarterfinal 2: TS vs TBD
 URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T110000Z
+UID:pandascore-match-1419665@esport-ics
+DTSTART:20260408T110000Z
+DTEND:20260408T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Playoffs\nWatch: https://www.twitch.tv/
+ betboom_dota_ru
+SUMMARY:Upper bracket quarterfinal 2: TS vs TBD
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 END:VCALENDAR

@@ -225,4 +225,15 @@ DESCRIPTION:PREMIER SERIES - 2026 - Group A\nWatch: https://www.twitch.tv/b
 SUMMARY:GL vs 1WIN
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T080000Z
+UID:pandascore-match-1419664@esport-ics
+DTSTART:20260408T080000Z
+DTEND:20260408T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Playoffs\nWatch: https://www.twitch.tv/
+ betboom_dota_ru
+SUMMARY:Upper bracket quarterfinal 1: PARI vs GL
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
 END:VCALENDAR

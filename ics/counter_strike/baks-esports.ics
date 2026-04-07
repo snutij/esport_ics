@@ -53,7 +53,9 @@ UID:pandascore-match-1433303@esport-ics
 DTSTART:20260407T153000Z
 DTEND:20260407T174500Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs
+DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs6
 SUMMARY:Lower bracket round 1 match 4: bankaPEPSI vs BAKS
+URL;VALUE=URI:https://kick.com/cct_cs6
 END:VEVENT
 END:VCALENDAR

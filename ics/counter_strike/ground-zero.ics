@@ -302,7 +302,9 @@ UID:pandascore-match-1421644@esport-ics
 DTSTART:20260407T090000Z
 DTEND:20260407T111500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs\nWatch: 
+ https://www.twitch.tv/flamboyantttt
 SUMMARY:Upper bracket final: Abyssal vs GZ
+URL;VALUE=URI:https://www.twitch.tv/flamboyantttt
 END:VEVENT
 END:VCALENDAR

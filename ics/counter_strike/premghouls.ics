@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:IZI WEX - Season 1 2026 - Group B\nWatch: https://www.twitch.tv
  /izi_wex_cs_b
 SUMMARY:Decider match: WW vs PG
-URL;VALUE=URI:https://www.twitch.tv/izi_wex_cs_b
+URL:https://www.twitch.tv/izi_wex_cs_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T110000Z
+UID:pandascore-match-1434767@esport-ics
+DTSTART:20260407T110000Z
+DTEND:20260407T131500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck SixSeven - Season 1 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/GLuck_Esports
+SUMMARY:Lower bracket final: PG vs EP
+URL;VALUE=URI:https://www.twitch.tv/GLuck_Esports
 END:VEVENT
 END:VCALENDAR
