@@ -91,6 +91,83 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group E\nWatch: https://www.twitch
  .tv/emeamasters
 SUMMARY:Lower bracket semifinal: HMBLE vs 3BL
-URL;VALUE=URI:https://www.twitch.tv/emeamasters
+URL:https://www.twitch.tv/emeamasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T160000Z
+UID:pandascore-match-1434853@esport-ics
+DTSTART:20260410T160000Z
+DTEND:20260410T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:ANB vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T183000Z
+UID:pandascore-match-1434858@esport-ics
+DTSTART:20260415T183000Z
+DTEND:20260415T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:3BL vs JSK
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T160000Z
+UID:pandascore-match-1434861@esport-ics
+DTSTART:20260416T160000Z
+DTEND:20260416T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:3BL vs FN
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T183000Z
+UID:pandascore-match-1434866@esport-ics
+DTSTART:20260417T183000Z
+DTEND:20260417T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:ONE vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T183000Z
+UID:pandascore-match-1434871@esport-ics
+DTSTART:20260422T183000Z
+DTEND:20260422T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:3BL vs DRG
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T160000Z
+UID:pandascore-match-1434872@esport-ics
+DTSTART:20260423T160000Z
+DTEND:20260423T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:BAM vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T160000Z
+UID:pandascore-match-1434876@esport-ics
+DTSTART:20260424T160000Z
+DTEND:20260424T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:3BL vs GNG
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

@@ -36,6 +36,83 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Winter 2026 - Elimination Phase\nWatch: https:
  //www.twitch.tv/lolesports_ar
 SUMMARY:Lower bracket final: BAAM vs ONE
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T183000Z
+UID:pandascore-match-1434854@esport-ics
+DTSTART:20260410T183000Z
+DTEND:20260410T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:BAM vs ONE
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T183000Z
+UID:pandascore-match-1434859@esport-ics
+DTSTART:20260415T183000Z
+DTEND:20260415T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:ONE vs GNG
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T160000Z
+UID:pandascore-match-1434860@esport-ics
+DTSTART:20260416T160000Z
+DTEND:20260416T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:ANB vs ONE
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T183000Z
+UID:pandascore-match-1434866@esport-ics
+DTSTART:20260417T183000Z
+DTEND:20260417T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:ONE vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T160000Z
+UID:pandascore-match-1434868@esport-ics
+DTSTART:20260422T160000Z
+DTEND:20260422T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:FN vs ONE
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T183000Z
+UID:pandascore-match-1434875@esport-ics
+DTSTART:20260423T183000Z
+DTEND:20260423T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:ONE vs JSK
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T160000Z
+UID:pandascore-match-1434877@esport-ics
+DTSTART:20260424T160000Z
+DTEND:20260424T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:ONE vs DRG
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

@@ -58,6 +58,83 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Winter 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/lolesports_ar
 SUMMARY:Lower bracket quarterfinal 2: ANB vs GNG
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T183000Z
+UID:pandascore-match-1434855@esport-ics
+DTSTART:20260410T183000Z
+DTEND:20260410T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:GNG vs FN
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T183000Z
+UID:pandascore-match-1434859@esport-ics
+DTSTART:20260415T183000Z
+DTEND:20260415T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:ONE vs GNG
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T183000Z
+UID:pandascore-match-1434862@esport-ics
+DTSTART:20260416T183000Z
+DTEND:20260416T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:GNG vs DRG
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T160000Z
+UID:pandascore-match-1434864@esport-ics
+DTSTART:20260417T160000Z
+DTEND:20260417T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:BAM vs GNG
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T160000Z
+UID:pandascore-match-1434869@esport-ics
+DTSTART:20260422T160000Z
+DTEND:20260422T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:JSK vs GNG
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T160000Z
+UID:pandascore-match-1434873@esport-ics
+DTSTART:20260423T160000Z
+DTEND:20260423T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:GNG vs ANB
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T160000Z
+UID:pandascore-match-1434876@esport-ics
+DTSTART:20260424T160000Z
+DTEND:20260424T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:3BL vs GNG
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

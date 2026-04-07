@@ -423,7 +423,9 @@ UID:pandascore-match-1420028@esport-ics
 DTSTART:20260407T170000Z
 DTEND:20260407T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/JohnnySpeeds
 SUMMARY:Upper bracket final: JS vs QWE
+URL;VALUE=URI:https://www.twitch.tv/JohnnySpeeds
 END:VEVENT
 END:VCALENDAR

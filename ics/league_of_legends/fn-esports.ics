@@ -102,6 +102,83 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group H\nWatch: https://www.twitch
  .tv/nervarien
 SUMMARY:Lower bracket semifinal: FN vs BOOM
-URL;VALUE=URI:https://www.twitch.tv/nervarien
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T183000Z
+UID:pandascore-match-1434855@esport-ics
+DTSTART:20260410T183000Z
+DTEND:20260410T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:GNG vs FN
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T160000Z
+UID:pandascore-match-1434856@esport-ics
+DTSTART:20260415T160000Z
+DTEND:20260415T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:FN vs ANB
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T160000Z
+UID:pandascore-match-1434861@esport-ics
+DTSTART:20260416T160000Z
+DTEND:20260416T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:3BL vs FN
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T160000Z
+UID:pandascore-match-1434865@esport-ics
+DTSTART:20260417T160000Z
+DTEND:20260417T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:FN vs JSK
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T160000Z
+UID:pandascore-match-1434868@esport-ics
+DTSTART:20260422T160000Z
+DTEND:20260422T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:FN vs ONE
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T183000Z
+UID:pandascore-match-1434874@esport-ics
+DTSTART:20260423T183000Z
+DTEND:20260423T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:DRG vs FN
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T183000Z
+UID:pandascore-match-1434879@esport-ics
+DTSTART:20260424T183000Z
+DTEND:20260424T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
+ ww.twitch.tv/lolesports_ar
+SUMMARY:FN vs BAM
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

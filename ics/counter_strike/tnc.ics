@@ -273,7 +273,9 @@ UID:pandascore-match-1420079@esport-ics
 DTSTART:20260407T170000Z
 DTEND:20260407T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/tncesport
 SUMMARY:Lower bracket semifinal: eLITe vs TNC
+URL;VALUE=URI:https://www.twitch.tv/tncesport
 END:VEVENT
 END:VCALENDAR
