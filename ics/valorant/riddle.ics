@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Japan: Split 1 2026 - Phase 2\nWatch: https://www.twitch.
  tv/valorant_jpn
 SUMMARY:Lower bracket round 1 match 2: WEC C vs RDL
+URL:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T070000Z
+UID:pandascore-match-1422203@esport-ics
+DTSTART:20260408T070000Z
+DTEND:20260408T091500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Japan: Split 1 2026 - Phase 2\nWatch: https://www.twitch.
+ tv/valorant_jpn
+SUMMARY:Lower bracket quarterfinal 2: AGL vs RDL
 URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
 END:VEVENT
 END:VCALENDAR

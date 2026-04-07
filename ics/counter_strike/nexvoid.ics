@@ -98,12 +98,14 @@ DESCRIPTION:ESL Challenger League - Asia Cup #3 2026 - Playoffs
 SUMMARY:Lower bracket quarterfinal 2: NEXVOID vs NSN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T130000Z
+DTSTAMP:20260407T132500Z
 UID:pandascore-match-1421675@esport-ics
-DTSTART:20260407T130000Z
-DTEND:20260407T151500Z
+DTSTART:20260407T132500Z
+DTEND:20260407T154000Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/dutchboycasts
 SUMMARY:Lower bracket semifinal: NEXVOID vs BMZ
+URL;VALUE=URI:https://www.twitch.tv/dutchboycasts
 END:VEVENT
 END:VCALENDAR
