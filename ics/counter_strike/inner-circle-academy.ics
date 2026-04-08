@@ -263,6 +263,17 @@ CLASS:PUBLIC
 DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Play-In\nWat
  ch: https://kick.com/starladder
 SUMMARY:Lower bracket quarterfinal 2: IC.A vs ROTTW
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T103000Z
+UID:pandascore-match-1437368@esport-ics
+DTSTART:20260409T103000Z
+DTEND:20260409T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 47 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket quarterfinal 2: IC.A vs BRUTE
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

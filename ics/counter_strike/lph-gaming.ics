@@ -377,6 +377,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 47 2026 - Group A\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: SNG vs LPH
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T103000Z
+UID:pandascore-match-1437370@esport-ics
+DTSTART:20260410T103000Z
+DTEND:20260410T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 47 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket quarterfinal 4: MISA vs LPH
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

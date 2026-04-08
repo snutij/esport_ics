@@ -410,4 +410,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:BG vs IMP.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T080000Z
+UID:pandascore-match-1437367@esport-ics
+DTSTART:20260409T080000Z
+DTEND:20260409T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 47 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket quarterfinal 1: IMP.A vs INF
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
