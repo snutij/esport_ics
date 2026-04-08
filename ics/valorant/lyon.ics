@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America North Stage 1 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/valorant_la
 SUMMARY:Grand final: LYON vs BBB
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T220000Z
+UID:pandascore-match-1436344@esport-ics
+DTSTART:20260413T220000Z
+DTEND:20260414T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North ACE Masters 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/valorant_la
+SUMMARY:LYON vs STA
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

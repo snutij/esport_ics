@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:University War
+SLUG:university-war
+BEGIN:VEVENT
+DTSTAMP:20260409T220000Z
+UID:pandascore-match-1436349@esport-ics
+DTSTART:20260409T220000Z
+DTEND:20260410T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: ACE Masters 2026 - Group B\nWatch: h
+ ttps://www.twitch.tv/valorant_la
+SUMMARY:KRÜ Spark vs UW
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+END:VCALENDAR

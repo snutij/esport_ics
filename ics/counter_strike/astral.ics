@@ -518,7 +518,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs2
 SUMMARY:Round of 16 match 4: ex-ENCE vs ASTR
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260409T110000Z
@@ -530,6 +530,17 @@ DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group D\nWatch:
  https://kick.com/nodwin_cs2
 SUMMARY:ASTR vs URSA
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T110000Z
+UID:pandascore-match-1406981@esport-ics
+DTSTART:20260409T110000Z
+DTEND:20260409T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
+ //www.kick.com/cct_cs
+SUMMARY:Quarterfinal 2: QWE vs ASTR
+URL;VALUE=URI:https://www.kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260409T173000Z

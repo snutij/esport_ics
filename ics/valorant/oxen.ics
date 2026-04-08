@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America South Stage 1 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/valorant_la
 SUMMARY:Lower bracket semifinal: LEV vs OX
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T190000Z
+UID:pandascore-match-1436347@esport-ics
+DTSTART:20260409T190000Z
+DTEND:20260409T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: ACE Masters 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/valorant_la
+SUMMARY:OX vs 9z
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

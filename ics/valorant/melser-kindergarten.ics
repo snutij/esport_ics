@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America South Stage 1 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/valorant_la
 SUMMARY:Grand final: ShindeN vs MK
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T190000Z
+UID:pandascore-match-1436348@esport-ics
+DTSTART:20260414T190000Z
+DTEND:20260414T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: ACE Masters 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/valorant_la
+SUMMARY:MK vs LEV
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR
