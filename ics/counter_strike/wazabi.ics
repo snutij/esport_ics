@@ -111,6 +111,50 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 3 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship
 SUMMARY:Lower bracket round 1 match 1: Falcons Force vs WAZ
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T110000Z
+UID:pandascore-match-1437295@esport-ics
+DTSTART:20260410T110000Z
+DTEND:20260410T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 4 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:WAZ vs SASHI.A
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T123000Z
+UID:pandascore-match-1437296@esport-ics
+DTSTART:20260410T123000Z
+DTEND:20260410T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 4 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:ImmuNe vs WAZ
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T140000Z
+UID:pandascore-match-1437298@esport-ics
+DTSTART:20260410T140000Z
+DTEND:20260410T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 4 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:WAZ vs AAB
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T153000Z
+UID:pandascore-match-1437301@esport-ics
+DTSTART:20260410T153000Z
+DTEND:20260410T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 4 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:Entropy vs WAZ
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR

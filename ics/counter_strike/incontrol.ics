@@ -166,8 +166,10 @@ UID:pandascore-match-1421623@esport-ics
 DTSTART:20260409T010000Z
 DTEND:20260409T031500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/eslcs
 SUMMARY:Lower bracket final: InC vs REGAIN
+URL;VALUE=URI:https://www.twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260409T213000Z

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pleaze Gaming
+SLUG:pleaze-gaming
+BEGIN:VEVENT
+DTSTAMP:20260409T160000Z
+UID:pandascore-match-1437285@esport-ics
+DTSTART:20260409T160000Z
+DTEND:20260409T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - South America Series  #4 season 2 2026 - Group A\nWatch: 
+ https://kick.com/cct_dota
+SUMMARY:EE vs Pleaze
+URL;VALUE=URI:https://kick.com/cct_dota
+END:VEVENT
+END:VCALENDAR

@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - South Asia: Split 1 2026 - Playoffs\nWatch: https://www.y
  outube.com/watch?v=Bhp2ktysKig
 SUMMARY:Semifinal 2: RXS vs GDR
-URL;VALUE=URI:https://www.youtube.com/watch?v=Bhp2ktysKig
+URL:https://www.youtube.com/watch?v=Bhp2ktysKig
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T093000Z
+UID:pandascore-match-1428632@esport-ics
+DTSTART:20260409T093000Z
+DTEND:20260409T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 1 2026 - Playoffs\nWatch: https://www.y
+ outube.com/@NODWINgaming/live
+SUMMARY:Grand final: S8UL vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
 END:VEVENT
 END:VCALENDAR

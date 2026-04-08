@@ -122,4 +122,48 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group B
 SUMMARY:SAW vs ASC
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T123000Z
+UID:pandascore-match-1437307@esport-ics
+DTSTART:20260410T123000Z
+DTEND:20260410T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 4 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:SAW vs LAG
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T140000Z
+UID:pandascore-match-1437308@esport-ics
+DTSTART:20260410T140000Z
+DTEND:20260410T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 4 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:Ølgod vs SAW
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T153000Z
+UID:pandascore-match-1437310@esport-ics
+DTSTART:20260410T153000Z
+DTEND:20260410T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 4 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:SAW vs Eclipse
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T170000Z
+UID:pandascore-match-1437313@esport-ics
+DTSTART:20260410T170000Z
+DTEND:20260410T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 4 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:GBL vs SAW
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
 END:VCALENDAR
