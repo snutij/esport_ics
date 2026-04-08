@@ -405,4 +405,13 @@ DESCRIPTION:BetBoom Storm - Season 2 2026 - Playoffs\nWatch: https://www.tw
 SUMMARY:Semifinal 1: UNO vs Keyd
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T210000Z
+UID:pandascore-match-1421593@esport-ics
+DTSTART:20260408T210000Z
+DTEND:20260408T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs
+SUMMARY:Lower bracket final: SHIN vs UNO
+END:VEVENT
 END:VCALENDAR
