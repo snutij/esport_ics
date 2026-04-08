@@ -482,7 +482,9 @@ UID:pandascore-match-1421593@esport-ics
 DTSTART:20260408T210000Z
 DTEND:20260408T231500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/eslcs
 SUMMARY:Lower bracket final: SHIN vs UNO
+URL;VALUE=URI:https://www.twitch.tv/eslcs
 END:VEVENT
 END:VCALENDAR

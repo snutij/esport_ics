@@ -119,7 +119,9 @@ UID:pandascore-match-1436315@esport-ics
 DTSTART:20260408T153000Z
 DTEND:20260408T174500Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs
+DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
 SUMMARY:Lower bracket round 2 match 1: Vexar vs Players
+URL;VALUE=URI:https://kick.com/cct_cs5
 END:VEVENT
 END:VCALENDAR

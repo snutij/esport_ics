@@ -477,6 +477,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Round of 16 match 2: MOUZ.N vs zajezdzacze
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T080000Z
+UID:pandascore-match-1400942@esport-ics
+DTSTART:20260412T080000Z
+DTEND:20260412T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Quarterfinal 1: ARC vs MOUZ.N
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
