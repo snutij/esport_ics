@@ -175,7 +175,9 @@ UID:pandascore-match-1421646@esport-ics
 DTSTART:20260408T090000Z
 DTEND:20260408T111500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs\nWatch: 
+ https://www.twitch.tv/eslcs
 SUMMARY:Lower bracket final: Abyssal vs RSTR
+URL;VALUE=URI:https://www.twitch.tv/eslcs
 END:VEVENT
 END:VCALENDAR
