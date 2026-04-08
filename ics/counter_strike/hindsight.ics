@@ -99,4 +99,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 51 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 11: hindsight vs RE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T180000Z
+UID:pandascore-match-1436244@esport-ics
+DTSTART:20260408T180000Z
+DTEND:20260408T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:TLR vs hindsight
+END:VEVENT
 END:VCALENDAR

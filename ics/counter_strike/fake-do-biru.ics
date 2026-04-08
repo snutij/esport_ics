@@ -332,6 +332,17 @@ SUMMARY:Quarterfinal 4: FDB vs paiN.A
 URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260408T230000Z
+UID:pandascore-match-1413592@esport-ics
+DTSTART:20260408T230000Z
+DTEND:20260409T011500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 2 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/dust2br
+SUMMARY:Semifinal 2: MIBR.A vs FDB
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260409T210000Z
 UID:pandascore-match-1421592@esport-ics
 DTSTART:20260409T210000Z

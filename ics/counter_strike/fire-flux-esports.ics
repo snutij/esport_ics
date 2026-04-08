@@ -89,6 +89,15 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 47 2026 - Group B\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: FF vs XI
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T160000Z
+UID:pandascore-match-1436236@esport-ics
+DTSTART:20260408T160000Z
+DTEND:20260408T164500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:FF vs RGG
 END:VEVENT
 END:VCALENDAR

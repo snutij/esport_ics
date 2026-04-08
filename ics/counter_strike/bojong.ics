@@ -89,6 +89,26 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
  s://www.twitch.tv/elisaviihdesport
 SUMMARY:Round 7: BOJONG vs EK
+URL:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T180000Z
+UID:pandascore-match-1436245@esport-ics
+DTSTART:20260408T180000Z
+DTEND:20260408T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:B8.A vs BOJONG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T170000Z
+UID:pandascore-match-1436294@esport-ics
+DTSTART:20260410T170000Z
+DTEND:20260410T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/elisaviihdesport
+SUMMARY:Upper Bracket Semifinals 2:  CSDIILIT vs BOJONG
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 END:VCALENDAR

@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 1: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round of 16 match 4: FNC vs ENCE
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T143000Z
+UID:pandascore-match-1436293@esport-ics
+DTSTART:20260410T143000Z
+DTEND:20260410T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/elisaviihdesport
+SUMMARY:Upper Bracket Semifinals 1: ENCE vs KSM
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 END:VCALENDAR
