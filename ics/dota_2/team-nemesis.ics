@@ -58,4 +58,14 @@ DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 7 2026 - Pl
  ayoffs
 SUMMARY:Semifinals match 2: Nem vs GLYPH
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T080000Z
+UID:pandascore-match-1437329@esport-ics
+DTSTART:20260409T080000Z
+DTEND:20260409T101500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Southeast Asia Open Qualifier 1 season 29 2026 - 
+ Playoffs
+SUMMARY:Semifinal 2: PlayTime vs Nem
+END:VEVENT
 END:VCALENDAR
