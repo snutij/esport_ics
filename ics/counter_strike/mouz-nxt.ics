@@ -490,4 +490,15 @@ DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
 SUMMARY:Quarterfinal 1: ARC vs MOUZ.N
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T170000Z
+UID:pandascore-match-1438489@esport-ics
+DTSTART:20260413T170000Z
+DTEND:20260413T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/playzonecz
+SUMMARY:Round 1: MOUZ.N vs Clutchain
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
 END:VCALENDAR

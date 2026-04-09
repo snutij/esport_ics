@@ -47,6 +47,27 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - South America Series  #4 season 2 2026 - Group A\nWatch: 
  https://kick.com/cct_dota
 SUMMARY:Outsiders vs EG
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T210000Z
+UID:pandascore-match-1438527@esport-ics
+DTSTART:20260409T210000Z
+DTEND:20260409T231500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - South America Open Qualifier 1 season 29 2026 - P
+ layoffs
+SUMMARY:Semifinal 1: EG vs HKR
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T130000Z
+UID:pandascore-match-1437286@esport-ics
+DTSTART:20260410T130000Z
+DTEND:20260410T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - South America Series  #4 season 2 2026 - Group A\nWatch: 
+ https://kick.com/cct_dota
+SUMMARY:Elimination match: EG vs TBD
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR

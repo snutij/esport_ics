@@ -111,6 +111,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Korea: Split 1 2026 - Playoffs\nWatch: https://www.youtub
  e.com/watch?v=Qw7LGKQnqiA
 SUMMARY:Lower bracket semifinal: T1.A vs DK
-URL;VALUE=URI:https://www.youtube.com/watch?v=Qw7LGKQnqiA
+URL:https://www.youtube.com/watch?v=Qw7LGKQnqiA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T080000Z
+UID:pandascore-match-1420075@esport-ics
+DTSTART:20260415T080000Z
+DTEND:20260415T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Playoffs\nWatch: https://www.youtub
+ e.com/@ValorantEsportsKR/live
+SUMMARY:Lower bracket final: GEN.A vs T1.A
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
 END:VEVENT
 END:VCALENDAR

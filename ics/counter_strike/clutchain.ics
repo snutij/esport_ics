@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Clutchain
+SLUG:clutchain
+BEGIN:VEVENT
+DTSTAMP:20260413T170000Z
+UID:pandascore-match-1438489@esport-ics
+DTSTART:20260413T170000Z
+DTEND:20260413T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/playzonecz
+SUMMARY:Round 1: MOUZ.N vs Clutchain
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+END:VCALENDAR

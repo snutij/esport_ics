@@ -404,6 +404,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs\nW
  atch: https://www.twitch.tv/bonamant
 SUMMARY:Lower bracket semifinal: InC vs LAG
-URL;VALUE=URI:https://www.twitch.tv/bonamant
+URL:https://www.twitch.tv/bonamant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T000000Z
+UID:pandascore-match-1438475@esport-ics
+DTSTART:20260411T000000Z
+DTEND:20260411T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.us - Eagle Masters season 7 2026 - Group Stage
+SUMMARY:Round 4: LAG vs mouse
 END:VEVENT
 END:VCALENDAR

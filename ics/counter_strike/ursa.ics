@@ -677,7 +677,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
  //www.kick.com/cct_cs
 SUMMARY:Quarterfinal 1: URSA vs BIG
-URL;VALUE=URI:https://www.kick.com/cct_cs
+URL:https://www.kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260410T080000Z
@@ -689,5 +689,16 @@ DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Round of 16 match 5: PHA vs URSA
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T110000Z
+UID:pandascore-match-1431915@esport-ics
+DTSTART:20260410T110000Z
+DTEND:20260410T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group D\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Elimination match: URSA vs TBD
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

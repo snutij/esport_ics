@@ -157,7 +157,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Round of 16 match 4: ESC vs BBP
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260409T110000Z
@@ -168,6 +168,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
  //www.kick.com/cct_cs
 SUMMARY:Quarterfinal 4: ESC vs TRI
+URL:https://www.kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T130000Z
+UID:pandascore-match-1406985@esport-ics
+DTSTART:20260410T130000Z
+DTEND:20260410T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
+ //www.kick.com/cct_cs
+SUMMARY:Semifinal 2: ESC vs TBD
 URL;VALUE=URI:https://www.kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T150000Z
+UID:pandascore-match-1438487@esport-ics
+DTSTART:20260413T150000Z
+DTEND:20260413T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/playzonecz
+SUMMARY:Round 1: ESC vs Qual4
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR
