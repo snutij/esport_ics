@@ -105,7 +105,9 @@ UID:pandascore-match-1436320@esport-ics
 DTSTART:20260409T181500Z
 DTEND:20260409T203000Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs
+DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs6
 SUMMARY:Upper bracket semifinal 2: ENJOY vs ZOTIX
+URL;VALUE=URI:https://kick.com/cct_cs6
 END:VEVENT
 END:VCALENDAR

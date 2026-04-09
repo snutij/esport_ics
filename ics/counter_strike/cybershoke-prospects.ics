@@ -416,7 +416,9 @@ UID:pandascore-match-1436319@esport-ics
 DTSTART:20260409T181500Z
 DTEND:20260409T203000Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs
+DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
 SUMMARY:Upper bracket semifinal 1: CYBERSHOKE Prospects vs Y.TigeRES
+URL;VALUE=URI:https://kick.com/cct_cs5
 END:VEVENT
 END:VCALENDAR

@@ -130,7 +130,9 @@ UID:pandascore-match-1436321@esport-ics
 DTSTART:20260409T153000Z
 DTEND:20260409T174500Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs
+DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs
 SUMMARY:Lower bracket round 3 match 1: MJX vs Vexar
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
