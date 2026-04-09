@@ -111,6 +111,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Korea: Split 1 2026 - Playoffs\nWatch: https://www.youtub
  e.com/@ValorantEsportsKR/live
 SUMMARY:Upper bracket final: OSG vs GEN.A
+URL:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T080000Z
+UID:pandascore-match-1420074@esport-ics
+DTSTART:20260416T080000Z
+DTEND:20260416T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 1 2026 - Playoffs\nWatch: https://www.youtub
+ e.com/@ValorantEsportsKR/live
+SUMMARY:Grand final: OSG vs TBD
 URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
 END:VEVENT
 END:VCALENDAR

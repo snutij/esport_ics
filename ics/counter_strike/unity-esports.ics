@@ -508,6 +508,17 @@ SUMMARY:Upper bracket quarterfinal 2: IC.A vs UNiTY
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260409T150000Z
+UID:pandascore-match-1404946@esport-ics
+DTSTART:20260409T150000Z
+DTEND:20260409T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Play-In\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Upper bracket semifinal 2: UNiTY vs ASTR
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260409T170000Z
 UID:pandascore-match-1431903@esport-ics
 DTSTART:20260409T170000Z
@@ -517,16 +528,5 @@ DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group C\nWatch:
  https://kick.com/nodwin_cs2
 SUMMARY:UNiTY vs Hashiras
 URL;VALUE=URI:https://kick.com/nodwin_cs2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260409T173000Z
-UID:pandascore-match-1404946@esport-ics
-DTSTART:20260409T173000Z
-DTEND:20260409T194500Z
-CLASS:PUBLIC
-DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Play-In\nWat
- ch: https://kick.com/starladder
-SUMMARY:Upper bracket semifinal 2: UNiTY vs ASTR
-URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
