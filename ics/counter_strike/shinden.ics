@@ -493,7 +493,9 @@ UID:pandascore-match-1421592@esport-ics
 DTSTART:20260409T210000Z
 DTEND:20260409T231500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/eslcs
 SUMMARY:Grand final: SHIN vs FDB
+URL;VALUE=URI:https://www.twitch.tv/eslcs
 END:VEVENT
 END:VCALENDAR

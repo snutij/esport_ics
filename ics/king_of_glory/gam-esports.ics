@@ -116,16 +116,15 @@ SUMMARY:SN vs GAM
 URL:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T090000Z
+DTSTAMP:20260409T091000Z
 UID:pandascore-match-1380460@esport-ics
-DTSTART:20260409T090000Z
-DTEND:20260409T124500Z
+DTSTART:20260409T091000Z
+DTEND:20260409T125500Z
 CLASS:PUBLIC
 DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
- w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+ w.youtube.com/watch?v=348yH4UTml4
 SUMMARY:TS vs GAM
-URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
- os
+URL;VALUE=URI:https://www.youtube.com/watch?v=348yH4UTml4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260410T123000Z

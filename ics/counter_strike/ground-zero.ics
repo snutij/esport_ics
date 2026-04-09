@@ -313,7 +313,9 @@ UID:pandascore-match-1421645@esport-ics
 DTSTART:20260409T090000Z
 DTEND:20260409T111500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs\nWatch: 
+ https://www.twitch.tv/eslcs
 SUMMARY:Grand final: GZ vs RSTR
+URL;VALUE=URI:https://www.twitch.tv/eslcs
 END:VEVENT
 END:VCALENDAR
