@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America North ACE Masters 2026 - Group B\nWatch: ht
  tps://www.twitch.tv/valorant_la
 SUMMARY:AB3 vs FEO
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T010000Z
+UID:pandascore-match-1438063@esport-ics
+DTSTART:20260421T010000Z
+DTEND:20260421T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North ACE Masters 2026 - Group B\nWatch: ht
+ tps://www.twitch.tv/valorant_la
+SUMMARY:Elimination match: TBD vs FEO
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

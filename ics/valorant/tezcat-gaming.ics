@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America North ACE Masters 2026 - Group A\nWatch: ht
  tps://www.twitch.tv/valorant_la
 SUMMARY:CHE vs TZC
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T220000Z
+UID:pandascore-match-1438064@esport-ics
+DTSTART:20260415T220000Z
+DTEND:20260416T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North ACE Masters 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/valorant_la
+SUMMARY:Winners match: TBD vs TZC
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR
