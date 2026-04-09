@@ -182,4 +182,13 @@ DESCRIPTION:CCT North America - Series #4 season 3 2026 - Group A\nWatch: h
 SUMMARY:Elimination match: AKIMBO vs InC
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T010000Z
+UID:pandascore-match-1421622@esport-ics
+DTSTART:20260410T010000Z
+DTEND:20260410T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #3 2026 - Playoffs
+SUMMARY:Grand final: F5 vs InC
+END:VEVENT
 END:VCALENDAR
