@@ -191,4 +191,15 @@ DESCRIPTION:IEM - Rio 2026 - Group B\nWatch: https://www.twitch.tv/ESLCS
 SUMMARY:Upper bracket quarterfinal 1: FURIA vs PSSN.UA
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T223000Z
+UID:pandascore-match-1438856@esport-ics
+DTSTART:20260429T223000Z
+DTEND:20260430T004500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Spring 2026 - Group B\nWatch: https://www.twitch
+ .tv/blastpremier
+SUMMARY:Upper bracket semifinal 2: FURIA vs GL
+URL;VALUE=URI:https://www.twitch.tv/blastpremier
+END:VEVENT
 END:VCALENDAR

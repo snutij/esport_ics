@@ -432,6 +432,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group D\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Lavked vs MEGO
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T110000Z
+UID:pandascore-match-1431915@esport-ics
+DTSTART:20260410T110000Z
+DTEND:20260410T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group D\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Elimination match: URSA vs MEGO
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

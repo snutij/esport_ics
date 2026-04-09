@@ -188,6 +188,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 1 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Consolidation final: GL vs BB
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T223000Z
+UID:pandascore-match-1438856@esport-ics
+DTSTART:20260429T223000Z
+DTEND:20260430T004500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Spring 2026 - Group B\nWatch: https://www.twitch
+ .tv/blastpremier
+SUMMARY:Upper bracket semifinal 2: FURIA vs GL
+URL;VALUE=URI:https://www.twitch.tv/blastpremier
 END:VEVENT
 END:VCALENDAR

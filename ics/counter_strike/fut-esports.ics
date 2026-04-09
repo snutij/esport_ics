@@ -223,6 +223,28 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest 2026 - Playoffs\nWatch: https://www.twitch.tv/p
  gl
 SUMMARY:Quarterfinal 3: FUT vs B8
+URL:https://www.twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T170000Z
+UID:pandascore-match-1427016@esport-ics
+DTSTART:20260410T170000Z
+DTEND:20260410T191500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest 2026 - Playoffs\nWatch: https://www.twitch.tv/p
+ gl
+SUMMARY:Semifinal 2: FUT vs TBD
 URL;VALUE=URI:https://www.twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T150000Z
+UID:pandascore-match-1438555@esport-ics
+DTSTART:20260429T150000Z
+DTEND:20260429T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Spring 2026 - Group A\nWatch: https://www.twitch
+ .tv/blastpremier
+SUMMARY:Upper bracket semifinal 1: VIT vs FUT
+URL;VALUE=URI:https://www.twitch.tv/blastpremier
 END:VEVENT
 END:VCALENDAR

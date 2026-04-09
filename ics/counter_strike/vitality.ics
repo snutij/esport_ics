@@ -158,4 +158,15 @@ DESCRIPTION:IEM - Rio 2026 - Group A\nWatch: https://www.twitch.tv/ESLCS
 SUMMARY:Upper bracket quarterfinal 1: VIT vs RED
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T150000Z
+UID:pandascore-match-1438555@esport-ics
+DTSTART:20260429T150000Z
+DTEND:20260429T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Spring 2026 - Group A\nWatch: https://www.twitch
+ .tv/blastpremier
+SUMMARY:Upper bracket semifinal 1: VIT vs FUT
+URL;VALUE=URI:https://www.twitch.tv/blastpremier
+END:VEVENT
 END:VCALENDAR

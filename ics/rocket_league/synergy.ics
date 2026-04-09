@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS EU - Paris Major: Open 4 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/rocketleague
 SUMMARY:Quarterfinal 2: SNG vs MCE
-URL;VALUE=URI:https://www.twitch.tv/rocketleague
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T150000Z
+UID:pandascore-match-1438968@esport-ics
+DTSTART:20260410T150000Z
+DTEND:20260410T184500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Paris: Europe Open 5 2026 - Group A
+SUMMARY:Upper bracket quarterfinal 1: M8 vs SNG
 END:VEVENT
 END:VCALENDAR
