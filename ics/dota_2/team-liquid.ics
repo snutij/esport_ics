@@ -333,6 +333,17 @@ CLASS:PUBLIC
 DESCRIPTION:PREMIER SERIES - 2026 - Playoffs\nWatch: https://www.twitch.tv/
  betboom_dota_ru
 SUMMARY:Upper bracket quarterfinal 3: Liquid vs L1GA
+URL:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T140000Z
+UID:pandascore-match-1419677@esport-ics
+DTSTART:20260409T140000Z
+DTEND:20260409T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PREMIER SERIES - 2026 - Playoffs\nWatch: https://www.twitch.tv/
+ betboom_dota_ru
+SUMMARY:Lower bracket round 1 match 2: Liquid vs HEROIC
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
 END:VEVENT
 END:VCALENDAR

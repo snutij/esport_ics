@@ -658,17 +658,6 @@ SUMMARY:Round of 16 match 2: JS vs URSA
 URL:https://www.kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T080000Z
-UID:pandascore-match-1406980@esport-ics
-DTSTART:20260409T080000Z
-DTEND:20260409T101500Z
-CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
- //www.kick.com/cct_cs
-SUMMARY:Quarterfinal 1: URSA vs TBD
-URL;VALUE=URI:https://www.kick.com/cct_cs
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260409T110000Z
 UID:pandascore-match-1431904@esport-ics
 DTSTART:20260409T110000Z
@@ -678,6 +667,17 @@ DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group D\nWatch:
  https://kick.com/nodwin_cs2
 SUMMARY:ASTR vs URSA
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T140000Z
+UID:pandascore-match-1406980@esport-ics
+DTSTART:20260409T140000Z
+DTEND:20260409T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
+ //www.kick.com/cct_cs
+SUMMARY:Quarterfinal 1: URSA vs BIG
+URL;VALUE=URI:https://www.kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260410T080000Z

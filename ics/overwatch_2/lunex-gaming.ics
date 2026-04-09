@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - North America Stage 1 2026 - Group Stage\nWatch: https://
  www.twitch.tv/ow_esports
 SUMMARY:DIS vs LUNEX
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T200000Z
+UID:pandascore-match-1437424@esport-ics
+DTSTART:20260410T200000Z
+DTEND:20260410T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 1 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/ow_esports
+SUMMARY:Upper bracket semifinal 1: DAL vs LUNEX
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

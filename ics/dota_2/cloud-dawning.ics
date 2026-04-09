@@ -125,17 +125,6 @@ SUMMARY:Satan vs CD
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T030000Z
-UID:pandascore-match-1430007@esport-ics
-DTSTART:20260409T030000Z
-DTEND:20260409T051500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:CD vs CARST
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260413T030000Z
 UID:pandascore-match-1430013@esport-ics
 DTSTART:20260413T030000Z
@@ -177,6 +166,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:IAC vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T030000Z
+UID:pandascore-match-1430007@esport-ics
+DTSTART:20260419T030000Z
+DTEND:20260419T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CD vs CARST
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

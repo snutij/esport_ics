@@ -399,4 +399,14 @@ DESCRIPTION:European Pro League - Season 36 2026 - Group A\nWatch: https://
 SUMMARY:LYNX vs YeS
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T140000Z
+UID:pandascore-match-1437416@esport-ics
+DTSTART:20260409T140000Z
+DTEND:20260409T161500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Western Europe Open Qualifier 1 season 29 2026 - 
+ Playoffs
+SUMMARY:Final: LYNX vs BALU
+END:VEVENT
 END:VCALENDAR

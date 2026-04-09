@@ -466,6 +466,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 2 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/dust2br
 SUMMARY:Semifinal 1: UNO vs Keyd
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T180000Z
+UID:pandascore-match-1413593@esport-ics
+DTSTART:20260409T180000Z
+DTEND:20260409T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 2 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/dust2br
+SUMMARY:Grand final: Keyd vs FDB
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR
