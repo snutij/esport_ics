@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ex-100 Thieves GC
+SLUG:ex-100-thieves-gc
+BEGIN:VEVENT
+DTSTAMP:20260415T210000Z
+UID:pandascore-match-1439765@esport-ics
+DTSTART:20260415T210000Z
+DTEND:20260415T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers North America Stage 1 2026 - Group Stage\nW
+ atch: https://www.twitch.tv/valorant_americas
+SUMMARY:Round 1: Ex-100 Thieves GC vs MVSK
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Frost White
+SLUG:frost-white
+BEGIN:VEVENT
+DTSTAMP:20260415T233000Z
+UID:pandascore-match-1439768@esport-ics
+DTSTART:20260415T233000Z
+DTEND:20260416T014500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers North America Stage 1 2026 - Group Stage\nW
+ atch: https://www.twitch.tv/valorant_americas
+SUMMARY:Round 1: SRG vs FRST
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+END:VCALENDAR
