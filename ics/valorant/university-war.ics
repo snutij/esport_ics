@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America South: ACE Masters 2026 - Group B\nWatch: h
  ttps://www.twitch.tv/valorant_la
 SUMMARY:KRÜ Spark vs UW
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T220000Z
+UID:pandascore-match-1440508@esport-ics
+DTSTART:20260421T220000Z
+DTEND:20260422T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: ACE Masters 2026 - Group B\nWatch: h
+ ttps://www.twitch.tv/valorant_la
+SUMMARY:Elimination match: UW vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America South: ACE Masters 2026 - Group A\nWatch: h
  ttps://www.twitch.tv/valorant_la
 SUMMARY:OX vs 9z
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T190000Z
+UID:pandascore-match-1440511@esport-ics
+DTSTART:20260421T190000Z
+DTEND:20260421T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: ACE Masters 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/valorant_la
+SUMMARY:Elimination match: OX vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR
