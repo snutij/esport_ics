@@ -154,7 +154,9 @@ UID:pandascore-match-1436324@esport-ics
 DTSTART:20260410T181500Z
 DTEND:20260410T203000Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs
+DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs\nWatch: https://kick
+ .com/CCT_CS5
 SUMMARY:Lower bracket quarterfinal 2: ZOTIX vs bankaPEPSI
+URL;VALUE=URI:https://kick.com/CCT_CS5
 END:VEVENT
 END:VCALENDAR

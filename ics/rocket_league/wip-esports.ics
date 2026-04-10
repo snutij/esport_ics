@@ -14,4 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Group A
 SUMMARY:Upper bracket quarterfinal 3: WIP vs PCSS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T160000Z
+UID:pandascore-match-1438973@esport-ics
+DTSTART:20260410T160000Z
+DTEND:20260410T194500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Group A\nWatch: https://www.twit
+ ch.tv/the_real_jar
+SUMMARY:Upper bracket semifinal 2: MAG vs WIP
+URL;VALUE=URI:https://www.twitch.tv/the_real_jar
+END:VEVENT
 END:VCALENDAR
