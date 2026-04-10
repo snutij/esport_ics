@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Group B\nWatch: https://www.twit
  ch.tv/kamet0
 SUMMARY:Upper bracket quarterfinal 2: KC vs KALO
-URL;VALUE=URI:https://www.twitch.tv/kamet0
+URL:https://www.twitch.tv/kamet0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T180000Z
+UID:pandascore-match-1438999@esport-ics
+DTSTART:20260411T180000Z
+DTEND:20260411T231500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/rocketleague
+SUMMARY:Upper bracket quarterfinal 1: KC vs M8
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

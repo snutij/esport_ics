@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Group B\nWatch: https://www.twit
  ch.tv/tito3697
 SUMMARY:Upper bracket quarterfinal 3: VIT vs GHT
-URL;VALUE=URI:https://www.twitch.tv/tito3697
+URL:https://www.twitch.tv/tito3697
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T160000Z
+UID:pandascore-match-1439001@esport-ics
+DTSTART:20260411T160000Z
+DTEND:20260411T211500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/rocketleague
+SUMMARY:Lower bracket round 1 match 1: KDC vs VIT
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Group B\nWatch: https://www.twit
  ch.tv/widow
 SUMMARY:Upper bracket quarterfinal 4: NIP vs TOAD
-URL;VALUE=URI:https://www.twitch.tv/widow
+URL:https://www.twitch.tv/widow
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T170000Z
+UID:pandascore-match-1439000@esport-ics
+DTSTART:20260411T170000Z
+DTEND:20260411T221500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/rocketleague
+SUMMARY:Upper bracket quarterfinal 2: NIP vs WIP
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

@@ -23,6 +23,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Group A\nWatch: https://www.twit
  ch.tv/the_real_jar
 SUMMARY:Upper bracket semifinal 2: MAG vs WIP
-URL;VALUE=URI:https://www.twitch.tv/the_real_jar
+URL:https://www.twitch.tv/the_real_jar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T170000Z
+UID:pandascore-match-1439000@esport-ics
+DTSTART:20260411T170000Z
+DTEND:20260411T221500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/rocketleague
+SUMMARY:Upper bracket quarterfinal 2: NIP vs WIP
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR
