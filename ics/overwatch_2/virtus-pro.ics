@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - EMEA Stage 1 2026 - Playoffs\nWatch: https://www.twitch.t
  v/ow_esports
 SUMMARY:Upper bracket semifinal 2: VP vs GE
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T170000Z
+UID:pandascore-match-1437423@esport-ics
+DTSTART:20260411T170000Z
+DTEND:20260411T191500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 1 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/ow_esports
+SUMMARY:Lower bracket semifinal: Al Qadsiah vs VP
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR
