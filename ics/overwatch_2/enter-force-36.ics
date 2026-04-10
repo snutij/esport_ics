@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Japan Stage 1 2026 - Regular Season\nWatch: https://www.t
  witch.tv/ow_esports_jp
 SUMMARY:PNHB vs EF.36
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T090000Z
+UID:pandascore-match-1439684@esport-ics
+DTSTART:20260413T090000Z
+DTEND:20260413T120000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ow_esports_jp
+SUMMARY:Semifinal 1: EF.36 vs PNHB
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR
