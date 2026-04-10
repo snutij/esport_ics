@@ -23,6 +23,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Group A\nWatch: https://www.twit
  ch.tv/nimea_rl
 SUMMARY:Lower bracket quarterfinal 2: KDC vs PCSS
-URL;VALUE=URI:https://www.twitch.tv/nimea_rl
+URL:https://www.twitch.tv/nimea_rl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T170000Z
+UID:pandascore-match-1438977@esport-ics
+DTSTART:20260410T170000Z
+DTEND:20260410T204500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Group A\nWatch: https://www.twit
+ ch.tv/geekayesports
+SUMMARY:Lower bracket semifinal 2: KDC vs GEE
+URL;VALUE=URI:https://www.twitch.tv/geekayesports
 END:VEVENT
 END:VCALENDAR
