@@ -309,6 +309,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs5
 SUMMARY:Upper bracket semifinal 1: CYBERSHOKE Prospects vs Y.TigeRES
-URL;VALUE=URI:https://kick.com/cct_cs5
+URL:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T153000Z
+UID:pandascore-match-1436323@esport-ics
+DTSTART:20260410T153000Z
+DTEND:20260410T174500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: Y.TigeRES vs Vexar
 END:VEVENT
 END:VCALENDAR

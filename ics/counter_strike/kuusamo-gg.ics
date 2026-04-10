@@ -368,4 +368,15 @@ DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Playoffs\nWatch: https://ww
 SUMMARY:Upper Bracket Semifinals 1: ENCE vs KSM
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T093000Z
+UID:pandascore-match-1439596@esport-ics
+DTSTART:20260411T093000Z
+DTEND:20260411T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 3: VP.F vs KSM
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
 END:VCALENDAR

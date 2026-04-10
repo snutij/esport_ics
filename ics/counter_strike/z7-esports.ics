@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 2: WAVE vs Z7
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T153000Z
+UID:pandascore-match-1439594@esport-ics
+DTSTART:20260410T153000Z
+DTEND:20260410T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 3: PLT vs Z7
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
