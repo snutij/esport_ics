@@ -56,6 +56,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: North 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/rainbow6
 SUMMARY:Upper bracket semifinal 2: CAG vs DK
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T040000Z
+UID:pandascore-match-1414441@esport-ics
+DTSTART:20260417T040000Z
+DTEND:20260417T061500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Kickoff: North 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: ex-PSG vs DK
 END:VEVENT
 END:VCALENDAR
