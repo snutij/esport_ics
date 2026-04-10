@@ -25,4 +25,14 @@ DESCRIPTION:DreamLeague - Southeast Asia Open Qualifier 1 season 29 2026 -
  Playoffs
 SUMMARY:Semifinal 2: PlayTime vs Nem
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T080000Z
+UID:pandascore-match-1439693@esport-ics
+DTSTART:20260411T080000Z
+DTEND:20260411T101500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Southeast Asia Open Qualifier 2 season 29 2026 - 
+ Playoffs
+SUMMARY:Grand final: TBD vs PlayTime
+END:VEVENT
 END:VCALENDAR
