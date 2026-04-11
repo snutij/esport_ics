@@ -127,6 +127,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dfrag - Open Series #4 2026 - Group A\nWatch: https://www.twitc
  h.tv/dfragtv
 SUMMARY:ARC vs MGLBROS
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T044000Z
+UID:pandascore-match-1438954@esport-ics
+DTSTART:20260411T044000Z
+DTEND:20260411T065500Z
+CLASS:PUBLIC
+DESCRIPTION:Dfrag - Open Series #4 2026 - Group A\nWatch: https://www.twitc
+ h.tv/dfragtv
+SUMMARY:Winners match: ARC vs Abyssal
 URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR
