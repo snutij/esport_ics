@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dark Passage
+SLUG:dark-passage
+BEGIN:VEVENT
+DTSTAMP:20260418T143000Z
+UID:pandascore-match-1428562@esport-ics
+DTSTART:20260418T143000Z
+DTEND:20260418T164500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:DP vs BW
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T143000Z
+UID:pandascore-match-1428566@esport-ics
+DTSTART:20260420T143000Z
+DTEND:20260420T164500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/valorant_tur
+SUMMARY:Eternal Fire Passion vs DP
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+END:VCALENDAR
