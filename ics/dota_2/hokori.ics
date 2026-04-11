@@ -15,4 +15,15 @@ DESCRIPTION:DreamLeague - South America Open Qualifier 1 season 29 2026 - P
  layoffs
 SUMMARY:Semifinal 1: EG vs HKR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T170000Z
+UID:pandascore-match-1442132@esport-ics
+DTSTART:20260412T170000Z
+DTEND:20260412T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - South America Closed Qualifier season 29 2026 - P
+ layoffs\nWatch: https://www.twitch.tv/esl_dota2sange
+SUMMARY:Upper bracket quarterfinal 2: BTC vs HKR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2sange
+END:VEVENT
 END:VCALENDAR

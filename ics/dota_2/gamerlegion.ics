@@ -267,6 +267,17 @@ CLASS:PUBLIC
 DESCRIPTION:PREMIER SERIES - 2026 - Playoffs\nWatch: https://www.twitch.tv/
  betboom_dota_ru
 SUMMARY:Lower bracket semifinal: GL vs NGX
-URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+URL:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T160000Z
+UID:pandascore-match-1442145@esport-ics
+DTSTART:20260412T160000Z
+DTEND:20260412T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - North America Closed Qualifier season 29 2026 - P
+ layoffs\nWatch: https://www.twitch.tv/esl_dota2salve
+SUMMARY:Upper bracket semifinal 1: GL vs TBD
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2salve
 END:VEVENT
 END:VCALENDAR

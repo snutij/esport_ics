@@ -70,4 +70,15 @@ DESCRIPTION:DreamLeague - North America Open Qualifier 1 season 29 2026 - P
  layoffs
 SUMMARY:Semifinal 2: Amaru Gaming vs Eoka
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T200000Z
+UID:pandascore-match-1442146@esport-ics
+DTSTART:20260412T200000Z
+DTEND:20260412T221500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - North America Closed Qualifier season 29 2026 - P
+ layoffs\nWatch: https://www.twitch.tv/esl_dota2salve
+SUMMARY:Upper bracket semifinal 2: DarkStorm vs Amaru Gaming
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2salve
+END:VEVENT
 END:VCALENDAR

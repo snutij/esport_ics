@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:PREMIER SERIES - 2026 - Playoffs\nWatch: https://www.twitch.tv/
  betboom_dota_ru
 SUMMARY:Lower bracket round 1 match 2: Liquid vs HEROIC
-URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+URL:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T210000Z
+UID:pandascore-match-1442134@esport-ics
+DTSTART:20260412T210000Z
+DTEND:20260412T231500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - South America Closed Qualifier season 29 2026 - P
+ layoffs\nWatch: https://www.twitch.tv/esl_dota2sange
+SUMMARY:Upper bracket quarterfinal 4: HEROIC vs TBD
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2sange
 END:VEVENT
 END:VCALENDAR
