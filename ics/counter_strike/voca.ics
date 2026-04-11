@@ -343,6 +343,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest 2026 - Group Stage\nWatch: https://www.twitch.t
  v/pgl_cs2
 SUMMARY:Round 3: BCG vs VOCA
-URL;VALUE=URI:https://www.twitch.tv/pgl_cs2
+URL:https://www.twitch.tv/pgl_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T213000Z
+UID:pandascore-match-1431980@esport-ics
+DTSTART:20260411T213000Z
+DTEND:20260411T234500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT North America - Series #4 season 3 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs3
+SUMMARY:Quarterfinal 1: VOCA vs AKIMBO
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
