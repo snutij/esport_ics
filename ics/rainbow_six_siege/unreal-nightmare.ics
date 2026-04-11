@@ -23,4 +23,13 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 2: UN vs HL tauri Esports
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T040000Z
+UID:pandascore-match-1422213@esport-ics
+DTSTART:20260418T040000Z
+DTEND:20260418T061500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: SHE vs UN
+END:VEVENT
 END:VCALENDAR

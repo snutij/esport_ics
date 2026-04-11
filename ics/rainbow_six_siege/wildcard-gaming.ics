@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:North America League - Kickoff 2026 - Group B\nWatch: https://w
  ww.twitch.tv/rainbow6
 SUMMARY:WCG vs C9
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T210000Z
+UID:pandascore-match-1441142@esport-ics
+DTSTART:20260420T210000Z
+DTEND:20260420T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/rainbow6
+SUMMARY:Upper bracket quarterfinal 2: M80 vs WCG
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

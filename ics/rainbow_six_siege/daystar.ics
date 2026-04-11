@@ -44,7 +44,9 @@ UID:pandascore-match-1422212@esport-ics
 DTSTART:20260411T100000Z
 DTEND:20260411T121500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs
+DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs\nWatch: htt
+ ps://www.youtube.com/watch?v=_gC-5PDOcs4
 SUMMARY:Lower bracket quarterfinal 1: DAY vs TBD
+URL;VALUE=URI:https://www.youtube.com/watch?v=_gC-5PDOcs4
 END:VEVENT
 END:VCALENDAR
