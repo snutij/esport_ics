@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group B\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Decider match: MSC vs PG
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T080000Z
+UID:pandascore-match-1431918@esport-ics
+DTSTART:20260412T080000Z
+DTEND:20260412T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In\nWatch: https://
+ kick.com/nodwin_cs2
+SUMMARY:MANA vs PG
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
