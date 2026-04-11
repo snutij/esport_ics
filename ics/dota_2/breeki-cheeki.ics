@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Eastern Europe Open Qualifier 2 season 29 2026 - 
  Playoffs\nWatch: https://www.twitch.tv/pro_cast2
 SUMMARY:Grand final: CB vs enjoy boys
-URL;VALUE=URI:https://www.twitch.tv/pro_cast2
+URL:https://www.twitch.tv/pro_cast2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T090000Z
+UID:pandascore-match-1442089@esport-ics
+DTSTART:20260412T090000Z
+DTEND:20260412T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Eastern Europe Closed Qualifier season 29 2026 - 
+ Playoffs\nWatch: https://www.twitch.tv/esl_dota2earth
+SUMMARY:Upper bracket quarterfinal 1: BB vs CB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2earth
 END:VEVENT
 END:VCALENDAR

@@ -103,4 +103,15 @@ DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 7 2026 - Pl
  ayoffs
 SUMMARY:Semifinals match 1: RNX vs XctN
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T080000Z
+UID:pandascore-match-1442119@esport-ics
+DTSTART:20260412T080000Z
+DTEND:20260412T101500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Southeast Asia Closed Qualifier season 29 2026 - 
+ Playoffs\nWatch: https://www.twitch.tv/esl_dota2storm
+SUMMARY:Upper bracket quarterfinal 3: XctN vs CARST
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
+END:VEVENT
 END:VCALENDAR

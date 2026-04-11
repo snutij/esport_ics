@@ -68,4 +68,15 @@ DESCRIPTION:DreamLeague - Southeast Asia Open Qualifier 1 season 29 2026 -
  Playoffs
 SUMMARY:Semifinal 2: PlayTime vs Nem
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T080000Z
+UID:pandascore-match-1442120@esport-ics
+DTSTART:20260412T080000Z
+DTEND:20260412T101500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Southeast Asia Closed Qualifier season 29 2026 - 
+ Playoffs\nWatch: https://www.twitch.tv/esl_dota2storm
+SUMMARY:Upper bracket quarterfinal 4: RNX vs Nem
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
+END:VEVENT
 END:VCALENDAR

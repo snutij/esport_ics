@@ -144,6 +144,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Southeast Asia Open Qualifier 2 season 29 2026 - 
  Playoffs\nWatch: https://www.twitch.tv/pro_cast2
 SUMMARY:Grand final: GLYPH vs PlayTime
-URL;VALUE=URI:https://www.twitch.tv/pro_cast2
+URL:https://www.twitch.tv/pro_cast2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T040000Z
+UID:pandascore-match-1442117@esport-ics
+DTSTART:20260412T040000Z
+DTEND:20260412T061500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Southeast Asia Closed Qualifier season 29 2026 - 
+ Playoffs\nWatch: https://www.twitch.tv/esl_dota2storm
+SUMMARY:Upper bracket quarterfinal 1: OG vs GLYPH
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
 END:VEVENT
 END:VCALENDAR
