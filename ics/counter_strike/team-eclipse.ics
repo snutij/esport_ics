@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 4 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship
 SUMMARY:Upper bracket quarterfinal 1: SASHI.A vs Eclipse
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T110000Z
+UID:pandascore-match-1437320@esport-ics
+DTSTART:20260411T110000Z
+DTEND:20260411T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 4 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Lower bracket round 1 match 1: LAG vs Eclipse
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR
