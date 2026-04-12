@@ -24,6 +24,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - North America Closed Qualifier season 29 2026 - P
  layoffs\nWatch: https://www.youtube.com/watch?v=FfBJaS5kkyw
 SUMMARY:Upper bracket semifinal 1: GL vs not
-URL;VALUE=URI:https://www.youtube.com/watch?v=FfBJaS5kkyw
+URL:https://www.youtube.com/watch?v=FfBJaS5kkyw
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T200000Z
+UID:pandascore-match-1442150@esport-ics
+DTSTART:20260413T200000Z
+DTEND:20260413T221500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - North America Closed Qualifier season 29 2026 - P
+ layoffs\nWatch: https://www.twitch.tv/esl_dota2salve
+SUMMARY:Lower bracket semifinal: not vs TBD
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2salve
 END:VEVENT
 END:VCALENDAR
