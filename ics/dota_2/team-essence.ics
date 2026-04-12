@@ -169,6 +169,17 @@ SUMMARY:CD vs ESS
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260413T060000Z
+UID:pandascore-match-1430021@esport-ics
+DTSTART:20260413T060000Z
+DTEND:20260413T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:ESS vs WinteR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260416T030000Z
 UID:pandascore-match-1430019@esport-ics
 DTSTART:20260416T030000Z
@@ -177,17 +188,6 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:ESS vs CR
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260417T030000Z
-UID:pandascore-match-1430021@esport-ics
-DTSTART:20260417T030000Z
-DTEND:20260417T051500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:ESS vs WinteR
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:South America League - Kickoff 2026 - Group B\nWatch: https://w
  ww.twitch.tv/rainbow6
 SUMMARY:LOUD vs FURIA
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T190000Z
+UID:pandascore-match-1443556@esport-ics
+DTSTART:20260418T190000Z
+DTEND:20260418T211500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/rainbow6
+SUMMARY:Upper bracket semifinal 2: FURIA vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

@@ -325,6 +325,17 @@ SUMMARY:Upper bracket semifinal 1: OG vs IVO
 URL:https://www.twitch.tv/esl_dota2storm
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260413T120000Z
+UID:pandascore-match-1442123@esport-ics
+DTSTART:20260413T120000Z
+DTEND:20260413T141500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Southeast Asia Closed Qualifier season 29 2026 - 
+ Playoffs\nWatch: https://www.twitch.tv/esl_dota2storm
+SUMMARY:Upper bracket final: IVO vs Nem
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260414T060000Z
 UID:pandascore-match-1430016@esport-ics
 DTSTART:20260414T060000Z

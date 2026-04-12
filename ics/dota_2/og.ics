@@ -245,6 +245,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Southeast Asia Closed Qualifier season 29 2026 - 
  Playoffs\nWatch: https://www.twitch.tv/esl_dota2storm
 SUMMARY:Upper bracket semifinal 1: OG vs IVO
+URL:https://www.twitch.tv/esl_dota2storm
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T080000Z
+UID:pandascore-match-1442128@esport-ics
+DTSTART:20260413T080000Z
+DTEND:20260413T101500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Southeast Asia Closed Qualifier season 29 2026 - 
+ Playoffs\nWatch: https://www.twitch.tv/esl_dota2storm
+SUMMARY:Lower bracket round 2 match 2: OG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
 END:VEVENT
 END:VCALENDAR
