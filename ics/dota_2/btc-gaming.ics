@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - South America Closed Qualifier season 29 2026 - P
  layoffs\nWatch: https://www.twitch.tv/esl_dota2sange
 SUMMARY:Upper bracket quarterfinal 2: BTC vs HKR
+URL:https://www.twitch.tv/esl_dota2sange
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T010000Z
+UID:pandascore-match-1442135@esport-ics
+DTSTART:20260413T010000Z
+DTEND:20260413T031500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - South America Closed Qualifier season 29 2026 - P
+ layoffs\nWatch: https://www.twitch.tv/esl_dota2sange
+SUMMARY:Upper bracket semifinal 1: paiN vs BTC
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2sange
 END:VEVENT
 END:VCALENDAR
