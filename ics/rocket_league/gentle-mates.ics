@@ -122,6 +122,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/rocketleague
 SUMMARY:Semifinal 2: M8 vs MCE
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T190000Z
+UID:pandascore-match-1439007@esport-ics
+DTSTART:20260412T190000Z
+DTEND:20260413T001500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/rocketleague
+SUMMARY:Grand final: M8 vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

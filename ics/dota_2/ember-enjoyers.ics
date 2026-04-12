@@ -35,6 +35,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - South America Series  #4 season 2 2026 - Group A\nWatch: 
  https://kick.com/cct_dota
 SUMMARY:Winners match: Outsiders vs EE
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T130000Z
+UID:pandascore-match-1437331@esport-ics
+DTSTART:20260413T130000Z
+DTEND:20260413T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - South America Series  #4 season 2 2026 - Playoffs\nWatch:
+  https://kick.com/cct_dota
+SUMMARY:Upper bracket quarterfinal 2: TA vs EE
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR
