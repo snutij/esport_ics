@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 4 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship
 SUMMARY:Lower bracket final: Entropy vs WAZ
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T170000Z
+UID:pandascore-match-1437327@esport-ics
+DTSTART:20260412T170000Z
+DTEND:20260412T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 4 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Grand final: AAB vs Entropy
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR

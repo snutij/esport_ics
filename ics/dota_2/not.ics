@@ -16,14 +16,14 @@ DESCRIPTION:DreamLeague - North America Open Qualifier 2 season 29 2026 - P
 SUMMARY:Grand final: not vs the bug
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260412T160000Z
+DTSTAMP:20260412T170000Z
 UID:pandascore-match-1442145@esport-ics
-DTSTART:20260412T160000Z
-DTEND:20260412T181500Z
+DTSTART:20260412T170000Z
+DTEND:20260412T191500Z
 CLASS:PUBLIC
 DESCRIPTION:DreamLeague - North America Closed Qualifier season 29 2026 - P
- layoffs\nWatch: https://www.twitch.tv/esl_dota2salve
+ layoffs\nWatch: https://www.youtube.com/watch?v=FfBJaS5kkyw
 SUMMARY:Upper bracket semifinal 1: GL vs not
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2salve
+URL;VALUE=URI:https://www.youtube.com/watch?v=FfBJaS5kkyw
 END:VEVENT
 END:VCALENDAR

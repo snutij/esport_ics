@@ -837,6 +837,17 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/elisaviihdesport
 SUMMARY:Lower bracket final:  CSDIILIT vs KSM
+URL:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260412T170000Z
+UID:pandascore-match-1436298@esport-ics
+DTSTART:20260412T170000Z
+DTEND:20260412T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/elisaviihdesport
+SUMMARY:Grand final: ENCE vs  CSDIILIT
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 END:VCALENDAR
