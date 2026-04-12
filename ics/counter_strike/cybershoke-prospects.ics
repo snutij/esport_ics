@@ -438,7 +438,9 @@ UID:pandascore-match-1436327@esport-ics
 DTSTART:20260412T153000Z
 DTEND:20260412T174500Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs
+DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs\nWatch: https://kick
+ .com/CCT_CS5
 SUMMARY:Lower bracket final: CYBERSHOKE Prospects vs Vexar
+URL;VALUE=URI:https://kick.com/CCT_CS5
 END:VEVENT
 END:VCALENDAR
