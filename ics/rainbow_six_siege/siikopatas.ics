@@ -11,8 +11,10 @@ UID:pandascore-match-1441741@esport-ics
 DTSTART:20260412T170000Z
 DTEND:20260412T174500Z
 CLASS:PUBLIC
-DESCRIPTION:R6 North Rainbow Rumble - 2026 - Group B
+DESCRIPTION:R6 North Rainbow Rumble - 2026 - Group B\nWatch: https://www.tw
+ itch.tv/rainbow6bravo
 SUMMARY:PCW vs SII
+URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260412T180000Z
@@ -20,8 +22,10 @@ UID:pandascore-match-1441742@esport-ics
 DTSTART:20260412T180000Z
 DTEND:20260412T184500Z
 CLASS:PUBLIC
-DESCRIPTION:R6 North Rainbow Rumble - 2026 - Group B
+DESCRIPTION:R6 North Rainbow Rumble - 2026 - Group B\nWatch: https://www.tw
+ itch.tv/rainbow6bravo
 SUMMARY:SII vs MYD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260419T140000Z
