@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WANIN Flash Wolves
+SLUG:wanin-flash-wolves
+BEGIN:VEVENT
+DTSTAMP:20260418T090000Z
+UID:pandascore-match-1443563@esport-ics
+DTSTART:20260418T090000Z
+DTEND:20260418T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Playoffs\nWatch: https
+ ://www.youtube.com/@garenaaovtw/streams
+SUMMARY:Upper bracket final: FW vs DCG
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+END:VCALENDAR
