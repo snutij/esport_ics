@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
  tps://www.youtube.com/@garenaaovtw/streams
 SUMMARY:ANK Gaming vs BMG
+URL:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T090000Z
+UID:pandascore-match-1444099@esport-ics
+DTSTART:20260419T090000Z
+DTEND:20260419T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Spring 2026 - Playoffs\nWatch: https
+ ://www.youtube.com/@garenaaovtw/streams
+SUMMARY:Lower bracket semifinal: ANK Gaming vs BMG
 URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
 END:VEVENT
 END:VCALENDAR
