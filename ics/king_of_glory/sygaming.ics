@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:KPL Growth League - Spring 2026 - Playoffs\nWatch: https://live
  .bilibili.com/21654762
 SUMMARY:Grand final: WST vs SYGaming
-URL;VALUE=URI:https://live.bilibili.com/21654762
+URL:https://live.bilibili.com/21654762
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T110000Z
+UID:pandascore-match-1444168@esport-ics
+DTSTART:20260415T110000Z
+DTEND:20260415T161500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Spring 2026 - Promotion\nWatch: https://www.h
+ uya.com/660002
+SUMMARY:Grand final: SYG vs TBD
+URL;VALUE=URI:https://www.huya.com/660002
 END:VEVENT
 END:VCALENDAR
