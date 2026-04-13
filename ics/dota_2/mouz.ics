@@ -355,6 +355,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Western Europe Closed Qualifier season 29 2026 - 
  Playoffs\nWatch: https://www.twitch.tv/esl_dota2
 SUMMARY:Upper bracket round 2 match 2: VP vs MOUZ
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T100000Z
+UID:pandascore-match-1442086@esport-ics
+DTSTART:20260414T100000Z
+DTEND:20260414T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Western Europe Closed Qualifier season 29 2026 - 
+ Playoffs\nWatch: https://www.twitch.tv/esl_dota2
+SUMMARY:Lower bracket round 2 match 1: MOUZ vs AVE
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

@@ -271,6 +271,16 @@ DTEND:20260413T231500Z
 CLASS:PUBLIC
 DESCRIPTION:IEM - Rio 2026 - Group B\nWatch: https://www.twitch.tv/ESLCS
 SUMMARY:Upper bracket quarterfinal 1: FURIA vs PSSN.UA
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T180000Z
+UID:pandascore-match-1436304@esport-ics
+DTSTART:20260414T180000Z
+DTEND:20260414T201500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Rio 2026 - Group B\nWatch: https://www.twitch.tv/ESLCS
+SUMMARY:Lower bracket quarterfinal 1: B8 vs PSSN.UA
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
