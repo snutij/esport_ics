@@ -443,6 +443,15 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group D\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Elimination match: URSA vs MEGO
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T180000Z
+UID:pandascore-match-1444153@esport-ics
+DTSTART:20260413T180000Z
+DTEND:20260413T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:MEGO vs hindsight
 END:VEVENT
 END:VCALENDAR

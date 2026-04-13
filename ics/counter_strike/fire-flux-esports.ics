@@ -133,4 +133,13 @@ DESCRIPTION:United21 - Season 47 2026 - Playoffs\nWatch: https://kick.com/u
 SUMMARY:Lower bracket quarterfinal 2: IMP.A vs FF
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T180000Z
+UID:pandascore-match-1444106@esport-ics
+DTSTART:20260413T180000Z
+DTEND:20260413T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:DGK vs FF
+END:VEVENT
 END:VCALENDAR

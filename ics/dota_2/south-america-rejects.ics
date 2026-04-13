@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:South America Rejects
+SLUG:south-america-rejects
+BEGIN:VEVENT
+DTSTAMP:20260414T010000Z
+UID:pandascore-match-1442137@esport-ics
+DTSTART:20260414T010000Z
+DTEND:20260414T031500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - South America Closed Qualifier season 29 2026 - P
+ layoffs\nWatch: https://www.twitch.tv/esl_dota2sange
+SUMMARY:Upper bracket final: SAR vs HEROIC
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2sange
+END:VEVENT
+END:VCALENDAR

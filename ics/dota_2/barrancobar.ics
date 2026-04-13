@@ -24,6 +24,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - South America Closed Qualifier season 29 2026 - P
  layoffs\nWatch: https://www.twitch.tv/esl_dota2sange
 SUMMARY:Upper bracket quarterfinal 3: EB vs BarrancoBar
+URL:https://www.twitch.tv/esl_dota2sange
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T210000Z
+UID:pandascore-match-1442141@esport-ics
+DTSTART:20260413T210000Z
+DTEND:20260413T231500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - South America Closed Qualifier season 29 2026 - P
+ layoffs\nWatch: https://www.twitch.tv/esl_dota2sange
+SUMMARY:Lower bracket round 2 match 1: BarrancoBar vs TBD
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2sange
 END:VEVENT
 END:VCALENDAR

@@ -257,4 +257,15 @@ DESCRIPTION:DreamLeague - Eastern Europe Closed Qualifier season 29 2026 -
 SUMMARY:Upper bracket final: L1GA vs Nemiga
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2earth
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T180000Z
+UID:pandascore-match-1444162@esport-ics
+DTSTART:20260413T180000Z
+DTEND:20260413T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Upper bracket quarterfinal 3: Nemiga vs RE
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
 END:VCALENDAR
