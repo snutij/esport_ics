@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:KPL Growth League - Spring 2026 - Playoffs\nWatch: https://live
  .bilibili.com/21654762
 SUMMARY:Lower bracket final: LTG vs SYGaming
-URL;VALUE=URI:https://live.bilibili.com/21654762
+URL:https://live.bilibili.com/21654762
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T110000Z
+UID:pandascore-match-1444166@esport-ics
+DTSTART:20260413T110000Z
+DTEND:20260413T161500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Spring 2026 - Promotion\nWatch: https://www.h
+ uya.com/660002
+SUMMARY:Lower bracket semifinal: TCG vs LTG
+URL;VALUE=URI:https://www.huya.com/660002
 END:VEVENT
 END:VCALENDAR
