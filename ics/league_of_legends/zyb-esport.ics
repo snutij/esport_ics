@@ -102,6 +102,39 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/otplol_
 SUMMARY:SC vs ZYB
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T180000Z
+UID:pandascore-match-1445096@esport-ics
+DTSTART:20260415T180000Z
+DTEND:20260415T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:ZYB vs GAL
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T180000Z
+UID:pandascore-match-1445101@esport-ics
+DTSTART:20260416T180000Z
+DTEND:20260416T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:ZYB vs TLNP
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T190000Z
+UID:pandascore-match-1445107@esport-ics
+DTSTART:20260417T190000Z
+DTEND:20260417T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:ZYB vs JL
 URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

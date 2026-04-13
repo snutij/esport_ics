@@ -507,4 +507,15 @@ DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
 SUMMARY:Semifinal 2: PHA vs MZP
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T140000Z
+UID:pandascore-match-1431924@esport-ics
+DTSTART:20260414T140000Z
+DTEND:20260414T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 1: ex-RUBY vs PHA
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

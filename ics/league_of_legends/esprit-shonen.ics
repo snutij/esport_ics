@@ -36,6 +36,39 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/otplol_
 SUMMARY:ES vs KCB
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T170000Z
+UID:pandascore-match-1445095@esport-ics
+DTSTART:20260415T170000Z
+DTEND:20260415T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:ES vs SLY
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T160000Z
+UID:pandascore-match-1445099@esport-ics
+DTSTART:20260416T160000Z
+DTEND:20260416T164500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:ES vs IJC
+URL;VALUE=URI:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T200000Z
+UID:pandascore-match-1445108@esport-ics
+DTSTART:20260417T200000Z
+DTEND:20260417T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:ES vs VIT.B
 URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

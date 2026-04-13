@@ -499,6 +499,17 @@ CLASS:PUBLIC
 DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
  tps://www.twitch.tv/playzonecz
 SUMMARY:Round 1: MOUZ.N vs Clutchain
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T080000Z
+UID:pandascore-match-1431922@esport-ics
+DTSTART:20260414T080000Z
+DTEND:20260414T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 1: MOUZ.N vs G1
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

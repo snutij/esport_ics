@@ -127,6 +127,17 @@ SUMMARY:Lower bracket round 1 match 2: Chandogs vs EB
 URL:https://www.twitch.tv/esl_dota2sange
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260413T210000Z
+UID:pandascore-match-1442142@esport-ics
+DTSTART:20260413T210000Z
+DTEND:20260413T231500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - South America Closed Qualifier season 29 2026 - P
+ layoffs\nWatch: https://www.twitch.tv/esl_dota2sange
+SUMMARY:Lower bracket round 2 match 2: BTC vs EB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2sange
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260414T130000Z
 UID:pandascore-match-1437336@esport-ics
 DTSTART:20260414T130000Z

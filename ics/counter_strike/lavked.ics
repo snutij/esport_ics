@@ -246,4 +246,15 @@ DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
 SUMMARY:Semifinal 1: ARC vs Lavked
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T110000Z
+UID:pandascore-match-1431923@esport-ics
+DTSTART:20260414T110000Z
+DTEND:20260414T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 1: NTR vs Lavked
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

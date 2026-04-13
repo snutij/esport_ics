@@ -397,6 +397,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Eastern Europe Closed Qualifier season 29 2026 - 
  Playoffs\nWatch: https://www.twitch.tv/esl_dota2earth
 SUMMARY:Upper bracket final: L1GA vs Nemiga
+URL:https://www.twitch.tv/esl_dota2earth
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T130000Z
+UID:pandascore-match-1442096@esport-ics
+DTSTART:20260414T130000Z
+DTEND:20260414T164500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Eastern Europe Closed Qualifier season 29 2026 - 
+ Playoffs\nWatch: https://www.twitch.tv/esl_dota2earth
+SUMMARY:Grand final: L1GA vs TBD
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2earth
 END:VEVENT
 END:VCALENDAR
