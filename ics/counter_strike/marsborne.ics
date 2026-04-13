@@ -272,6 +272,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT North America - Series #4 season 3 2026 - Playoffs\nWatch: 
  https://kick.com/cct_cs3
 SUMMARY:Semifinal 2: MARS vs TA
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T233000Z
+UID:pandascore-match-1431986@esport-ics
+DTSTART:20260414T233000Z
+DTEND:20260415T014500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT North America - Series #4 season 3 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs3
+SUMMARY:Grand final: MARS vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
