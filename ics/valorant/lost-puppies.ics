@@ -60,8 +60,10 @@ UID:pandascore-match-1424681@esport-ics
 DTSTART:20260413T150000Z
 DTEND:20260413T171500Z
 CLASS:PUBLIC
-DESCRIPTION:VCL - NORTH//EAST Stage 2 2026 - Group A
+DESCRIPTION:VCL - NORTH//EAST Stage 2 2026 - Group A\nWatch: https://www.tw
+ itch.tv/lendothlive
 SUMMARY:bonk vs LP
+URL;VALUE=URI:https://www.twitch.tv/lendothlive
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260414T173000Z
