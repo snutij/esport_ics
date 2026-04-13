@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
  tps://www.twitch.tv/playzonecz
 SUMMARY:Round 1: MOUZ.N vs Clutchain
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T150000Z
+UID:pandascore-match-1438495@esport-ics
+DTSTART:20260415T150000Z
+DTEND:20260415T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/playzonecz
+SUMMARY:Round 2: Clutchain vs SIN
 URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR
