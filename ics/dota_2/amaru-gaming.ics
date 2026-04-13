@@ -90,6 +90,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - North America Closed Qualifier season 29 2026 - P
  layoffs\nWatch: https://www.twitch.tv/esl_dota2salve
 SUMMARY:Upper bracket final: GL vs Amaru Gaming
+URL:https://www.twitch.tv/esl_dota2salve
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T160000Z
+UID:pandascore-match-1442149@esport-ics
+DTSTART:20260414T160000Z
+DTEND:20260414T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - North America Closed Qualifier season 29 2026 - P
+ layoffs\nWatch: https://www.twitch.tv/esl_dota2salve
+SUMMARY:Lower bracket final: Amaru Gaming vs TBD
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2salve
 END:VEVENT
 END:VCALENDAR
