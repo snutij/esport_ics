@@ -113,7 +113,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - South America Series  #4 season 2 2026 - Playoffs\nWatch:
   https://kick.com/cct_dota
 SUMMARY:Upper bracket quarterfinal 1: EB vs RnS
-URL;VALUE=URI:https://kick.com/cct_dota
+URL:https://kick.com/cct_dota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260413T170000Z
@@ -134,7 +134,7 @@ DTEND:20260414T151500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT - South America Series  #4 season 2 2026 - Playoffs\nWatch:
   https://kick.com/cct_dota
-SUMMARY:Lower bracket round 1 match 1: EB vs TBD
+SUMMARY:Lower bracket round 1 match 1: EB vs EE
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR

@@ -46,6 +46,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - South America Series  #4 season 2 2026 - Playoffs\nWatch:
   https://kick.com/cct_dota
 SUMMARY:Upper bracket quarterfinal 2: TA vs EE
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T130000Z
+UID:pandascore-match-1437336@esport-ics
+DTSTART:20260414T130000Z
+DTEND:20260414T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - South America Series  #4 season 2 2026 - Playoffs\nWatch:
+  https://kick.com/cct_dota
+SUMMARY:Lower bracket round 1 match 1: EB vs EE
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR

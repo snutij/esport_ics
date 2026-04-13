@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Challengers #1 2026 - Playoffs\nWatch: http
  s://kick.com/cct_cs6
 SUMMARY:Upper bracket round 1 match 7: VSC vs ALKA
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T210000Z
+UID:pandascore-match-1444720@esport-ics
+DTSTART:20260414T210000Z
+DTEND:20260414T231500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Challengers #1 2026 - Playoffs\nWatch: http
+ s://kick.com/cct_cs6
+SUMMARY:Lower bracket round 1 match 4: ALKA vs HWGA
 URL;VALUE=URI:https://kick.com/cct_cs6
 END:VEVENT
 END:VCALENDAR

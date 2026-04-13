@@ -373,6 +373,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Challengers #1 2026 - Playoffs\nWatch: http
  s://kick.com/cct_cs6
 SUMMARY:Upper bracket round 1 match 1: FDB vs QUIN
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T210000Z
+UID:pandascore-match-1444717@esport-ics
+DTSTART:20260414T210000Z
+DTEND:20260414T231500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Challengers #1 2026 - Playoffs\nWatch: http
+ s://kick.com/cct_cs6
+SUMMARY:Lower bracket round 1 match 1: FDB vs paiN.A
 URL;VALUE=URI:https://kick.com/cct_cs6
 END:VEVENT
 END:VCALENDAR
