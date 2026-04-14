@@ -146,6 +146,17 @@ SUMMARY:TES vs IG
 URL;VALUE=URI:https://www.twitch.tv/lplenglish
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260420T080000Z
+UID:pandascore-match-1418494@esport-ics
+DTSTART:20260420T080000Z
+DTEND:20260420T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - China Qualifier 2026 - Phase 2\nWatch: http
+ s://www.douyu.com/424559
+SUMMARY:Lower bracket quarterfinal 2: BLG vs IG
+URL;VALUE=URI:https://www.douyu.com/424559
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260424T110000Z
 UID:pandascore-match-1420918@esport-ics
 DTSTART:20260424T110000Z

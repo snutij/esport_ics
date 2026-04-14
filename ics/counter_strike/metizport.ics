@@ -364,6 +364,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Semifinal 2: PHA vs MZP
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T080000Z
+UID:pandascore-match-1400949@esport-ics
+DTSTART:20260416T080000Z
+DTEND:20260416T114500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Grand final: ARC vs MZP
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
