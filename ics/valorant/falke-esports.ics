@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Spain: Rising Phase 1 Stage 3 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/LVPes2
 SUMMARY:Lower bracket semifinal: OTK vs FLK
+URL:https://www.twitch.tv/LVPes2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T150000Z
+UID:pandascore-match-1424713@esport-ics
+DTSTART:20260420T150000Z
+DTEND:20260420T184500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Spain: Rising Phase 1 Stage 3 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/LVPes2
+SUMMARY:Lower bracket final: BAR vs FLK
 URL;VALUE=URI:https://www.twitch.tv/LVPes2
 END:VEVENT
 END:VCALENDAR

@@ -234,7 +234,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/spyhiddentv
 SUMMARY:MISA vs AUR.YB
-URL;VALUE=URI:https://www.twitch.tv/spyhiddentv
+URL:https://www.twitch.tv/spyhiddentv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260414T170000Z
@@ -242,7 +242,9 @@ UID:pandascore-match-1433391@esport-ics
 DTSTART:20260414T170000Z
 DTEND:20260414T174500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/byalli
 SUMMARY:OLDB vs AUR.YB
+URL;VALUE=URI:https://www.twitch.tv/byalli
 END:VEVENT
 END:VCALENDAR
