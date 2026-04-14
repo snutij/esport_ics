@@ -303,6 +303,16 @@ DTEND:20260414T201500Z
 CLASS:PUBLIC
 DESCRIPTION:IEM - Rio 2026 - Group B\nWatch: https://www.twitch.tv/ESLCSb
 SUMMARY:Lower bracket quarterfinal 1: B8 vs PSSN.UA
-URL;VALUE=URI:https://www.twitch.tv/ESLCSb
+URL:https://www.twitch.tv/ESLCSb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T153000Z
+UID:pandascore-match-1436309@esport-ics
+DTSTART:20260415T153000Z
+DTEND:20260415T174500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Rio 2026 - Group B\nWatch: https://www.twitch.tv/ESLCS
+SUMMARY:Lower bracket semifinal 1: B8 vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
