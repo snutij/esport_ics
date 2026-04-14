@@ -257,4 +257,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Group Stage\nWatch: http
 SUMMARY:Round 1: NTR vs Lavked
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T080000Z
+UID:pandascore-match-1400948@esport-ics
+DTSTART:20260415T080000Z
+DTEND:20260415T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:3rd Place match: Lavked vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

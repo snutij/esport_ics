@@ -405,6 +405,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 47 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket final: BRUTE vs YN
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T080000Z
+UID:pandascore-match-1438949@esport-ics
+DTSTART:20260415T080000Z
+DTEND:20260415T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 47 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket final: BRUTE vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
