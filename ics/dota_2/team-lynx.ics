@@ -451,6 +451,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 36 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Upper bracket quarterfinal 2: LYNX vs MODUS
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T090000Z
+UID:pandascore-match-1446600@esport-ics
+DTSTART:20260415T090000Z
+DTEND:20260415T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 36 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Upper bracket semifinal 1: YeS vs LYNX
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
