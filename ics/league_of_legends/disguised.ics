@@ -64,8 +64,10 @@ UID:pandascore-match-1445630@esport-ics
 DTSTART:20260415T210000Z
 DTEND:20260415T231500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - North America Qualifier 2026 - Playoffs
+DESCRIPTION:Esports World Cup - North America Qualifier 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/ewclol2026
 SUMMARY:Upper bracket quarterfinal 4: SEN vs DSG
+URL;VALUE=URI:https://www.twitch.tv/ewclol2026
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260418T200000Z

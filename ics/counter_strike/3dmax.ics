@@ -371,6 +371,16 @@ DTEND:20260414T183000Z
 CLASS:PUBLIC
 DESCRIPTION:IEM - Rio 2026 - Group A\nWatch: https://www.twitch.tv/ESLCSb
 SUMMARY:Lower bracket quarterfinal 2: TL vs 3DMAX
-URL;VALUE=URI:https://www.twitch.tv/ESLCSb
+URL:https://www.twitch.tv/ESLCSb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T130000Z
+UID:pandascore-match-1436308@esport-ics
+DTSTART:20260415T130000Z
+DTEND:20260415T151500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Rio 2026 - Group A\nWatch: https://www.twitch.tv/ESLCS
+SUMMARY:Lower bracket semifinal 2: G2 vs 3DMAX
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

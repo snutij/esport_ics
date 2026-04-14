@@ -122,6 +122,16 @@ DTEND:20260414T184500Z
 CLASS:PUBLIC
 DESCRIPTION:IEM - Rio 2026 - Group A\nWatch: https://www.twitch.tv/ESLCS
 SUMMARY:Upper bracket semifinal 2: TS vs FAL
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T180000Z
+UID:pandascore-match-1436311@esport-ics
+DTSTART:20260415T180000Z
+DTEND:20260415T201500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Rio 2026 - Group A\nWatch: https://www.twitch.tv/ESLCS
+SUMMARY:Upper bracket final: VIT vs FAL
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
