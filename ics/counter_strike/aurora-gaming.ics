@@ -265,6 +265,16 @@ DTEND:20260414T232500Z
 CLASS:PUBLIC
 DESCRIPTION:IEM - Rio 2026 - Group B\nWatch: https://www.twitch.tv/ESLCS
 SUMMARY:Upper bracket semifinal 2: MOUZ vs AUR
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T153000Z
+UID:pandascore-match-1436309@esport-ics
+DTSTART:20260415T153000Z
+DTEND:20260415T174500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Rio 2026 - Group B\nWatch: https://www.twitch.tv/ESLCS
+SUMMARY:Lower bracket semifinal 1: B8 vs AUR
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
