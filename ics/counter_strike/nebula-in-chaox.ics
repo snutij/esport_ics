@@ -89,6 +89,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 4: CSGOPOSITIVE vs NIC
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T123000Z
+UID:pandascore-match-1445607@esport-ics
+DTSTART:20260414T123000Z
+DTEND:20260414T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 5: KSM vs NIC
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

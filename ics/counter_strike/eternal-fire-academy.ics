@@ -199,6 +199,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 4: EF.A vs NP
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T153000Z
+UID:pandascore-match-1445605@esport-ics
+DTSTART:20260414T153000Z
+DTEND:20260414T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 5: VP.F vs EF.A
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
