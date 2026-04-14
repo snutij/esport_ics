@@ -154,6 +154,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Southeast Asia Closed Qualifier season 29 2026 - 
  Playoffs\nWatch: https://www.twitch.tv/esl_dota2storm
 SUMMARY:Lower bracket final: Nem vs RNX
+URL:https://www.twitch.tv/esl_dota2storm
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T080000Z
+UID:pandascore-match-1442124@esport-ics
+DTSTART:20260414T080000Z
+DTEND:20260414T114500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Southeast Asia Closed Qualifier season 29 2026 - 
+ Playoffs\nWatch: https://www.twitch.tv/esl_dota2storm
+SUMMARY:Grand final: IVO vs RNX
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
 END:VEVENT
 END:VCALENDAR
