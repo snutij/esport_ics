@@ -108,6 +108,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs6
 SUMMARY:Upper bracket round 1 match 5: ENJOY vs LFO
-URL;VALUE=URI:https://kick.com/cct_cs6
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T180000Z
+UID:pandascore-match-1447120@esport-ics
+DTSTART:20260415T180000Z
+DTEND:20260415T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:OBSB vs LFO
 END:VEVENT
 END:VCALENDAR
