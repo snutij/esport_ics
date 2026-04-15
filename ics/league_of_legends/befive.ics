@@ -58,6 +58,61 @@ CLASS:PUBLIC
 DESCRIPTION:EBL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/fort
  una
 SUMMARY:Lower bracket quarterfinal 1: LLH vs B5
+URL:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T180000Z
+UID:pandascore-match-1447240@esport-ics
+DTSTART:20260416T180000Z
+DTEND:20260416T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:LPS vs B5
+URL;VALUE=URI:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T160000Z
+UID:pandascore-match-1447241@esport-ics
+DTSTART:20260417T160000Z
+DTEND:20260417T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:B5 vs CROA
+URL;VALUE=URI:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T160000Z
+UID:pandascore-match-1447243@esport-ics
+DTSTART:20260422T160000Z
+DTEND:20260422T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:B5 vs TSC
+URL;VALUE=URI:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T160000Z
+UID:pandascore-match-1447249@esport-ics
+DTSTART:20260429T160000Z
+DTEND:20260429T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:B5 vs PS
+URL;VALUE=URI:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T180000Z
+UID:pandascore-match-1447250@esport-ics
+DTSTART:20260429T180000Z
+DTEND:20260429T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:SPK vs B5
 URL;VALUE=URI:https://www.twitch.tv/fortuna
 END:VEVENT
 END:VCALENDAR

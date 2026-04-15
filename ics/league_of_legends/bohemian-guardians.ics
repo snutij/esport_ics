@@ -3,50 +3,28 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Meavedron
-SLUG:meavedron
+X-WR-CALNAME:Bohemian Guardians
+SLUG:bohemian-guardians
 BEGIN:VEVENT
-DTSTAMP:20260212T150000Z
-UID:pandascore-match-1351420@esport-ics
-DTSTART:20260212T150000Z
-DTEND:20260212T184500Z
-CLASS:PUBLIC
-DESCRIPTION:Hitpoint Masters - Winter 2026 - Playoffs\nWatch: https://www.t
- witch.tv/hitpointcz
-SUMMARY:Upper bracket quarterfinal 3: NBS vs MVE
-URL:https://www.twitch.tv/hitpointcz
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260218T160000Z
-UID:pandascore-match-1351423@esport-ics
-DTSTART:20260218T160000Z
-DTEND:20260218T194500Z
-CLASS:PUBLIC
-DESCRIPTION:Hitpoint Masters - Winter 2026 - Playoffs\nWatch: https://www.t
- witch.tv/hitpointcz
-SUMMARY:Lower bracket round 1 match 2: MVE vs EXE
-URL:https://www.twitch.tv/hitpointcz
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260418T113000Z
-UID:pandascore-match-1447214@esport-ics
-DTSTART:20260418T113000Z
-DTEND:20260418T134500Z
+DTSTAMP:20260417T140000Z
+UID:pandascore-match-1447211@esport-ics
+DTSTART:20260417T140000Z
+DTEND:20260417T161500Z
 CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
  /www.twitch.tv/hitpointcz
-SUMMARY:MVE vs NBS
+SUMMARY:Bohemian Guardians vs ESB
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260419T113000Z
-UID:pandascore-match-1447216@esport-ics
-DTSTART:20260419T113000Z
-DTEND:20260419T134500Z
+DTSTAMP:20260419T090000Z
+UID:pandascore-match-1447215@esport-ics
+DTSTART:20260419T090000Z
+DTEND:20260419T111500Z
 CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
  /www.twitch.tv/hitpointcz
-SUMMARY:MVE vs BRT
+SUMMARY:Bohemian Guardians vs OT
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 BEGIN:VEVENT
@@ -61,47 +39,47 @@ SUMMARY:MVE vs Bohemian Guardians
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260502T090000Z
-UID:pandascore-match-1447221@esport-ics
-DTSTART:20260502T090000Z
-DTEND:20260502T111500Z
+DTSTAMP:20260503T090000Z
+UID:pandascore-match-1447223@esport-ics
+DTSTART:20260503T090000Z
+DTEND:20260503T111500Z
 CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
  /www.twitch.tv/hitpointcz
-SUMMARY:CKZ vs MVE
+SUMMARY:Bohemian Guardians vs BRT
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T140000Z
-UID:pandascore-match-1447225@esport-ics
-DTSTART:20260505T140000Z
-DTEND:20260505T161500Z
+DTSTAMP:20260505T163000Z
+UID:pandascore-match-1447226@esport-ics
+DTSTART:20260505T163000Z
+DTEND:20260505T184500Z
 CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
  /www.twitch.tv/hitpointcz
-SUMMARY:MVE vs ESB
+SUMMARY:Bohemian Guardians vs EXE
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260516T150000Z
-UID:pandascore-match-1447231@esport-ics
-DTSTART:20260516T150000Z
-DTEND:20260516T171500Z
+DTSTAMP:20260516T100000Z
+UID:pandascore-match-1447229@esport-ics
+DTSTART:20260516T100000Z
+DTEND:20260516T121500Z
 CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
  /www.twitch.tv/hitpointcz
-SUMMARY:MVE vs OT
+SUMMARY:CKZ vs Bohemian Guardians
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260517T173000Z
-UID:pandascore-match-1447236@esport-ics
-DTSTART:20260517T173000Z
-DTEND:20260517T194500Z
+DTSTAMP:20260517T123000Z
+UID:pandascore-match-1447234@esport-ics
+DTSTART:20260517T123000Z
+DTEND:20260517T144500Z
 CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
  /www.twitch.tv/hitpointcz
-SUMMARY:MVE vs EXE
+SUMMARY:Bohemian Guardians vs NBS
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 END:VCALENDAR

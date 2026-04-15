@@ -174,4 +174,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - NORTH//EAST Stage 2 2026 - Group A
 SUMMARY:NAVI.J vs FG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T153000Z
+UID:pandascore-match-1447253@esport-ics
+DTSTART:20260418T153000Z
+DTEND:20260418T174500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - NORTH//EAST Stage 2 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/valorantleague_ne
+SUMMARY:Upper bracket round 1 match 2: MIR vs FG
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_ne
+END:VEVENT
 END:VCALENDAR

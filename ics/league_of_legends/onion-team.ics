@@ -69,6 +69,83 @@ CLASS:PUBLIC
 DESCRIPTION:Rift Legends - Winter 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/nervarien
 SUMMARY:Lower bracket quarterfinal 2: OT vs OA
-URL;VALUE=URI:https://www.twitch.tv/nervarien
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T140000Z
+UID:pandascore-match-1447209@esport-ics
+DTSTART:20260416T140000Z
+DTEND:20260416T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:NBS vs OT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T090000Z
+UID:pandascore-match-1447215@esport-ics
+DTSTART:20260419T090000Z
+DTEND:20260419T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:Bohemian Guardians vs OT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T163000Z
+UID:pandascore-match-1447220@esport-ics
+DTSTART:20260501T163000Z
+DTEND:20260501T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:EXE vs OT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T113000Z
+UID:pandascore-match-1447224@esport-ics
+DTSTART:20260503T113000Z
+DTEND:20260503T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:ESB vs OT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T163000Z
+UID:pandascore-match-1447228@esport-ics
+DTSTART:20260506T163000Z
+DTEND:20260506T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:BRT vs OT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T150000Z
+UID:pandascore-match-1447231@esport-ics
+DTSTART:20260516T150000Z
+DTEND:20260516T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:MVE vs OT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T100000Z
+UID:pandascore-match-1447233@esport-ics
+DTSTART:20260517T100000Z
+DTEND:20260517T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:CKZ vs OT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 END:VCALENDAR

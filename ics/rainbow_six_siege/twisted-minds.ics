@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Europe MENA League - Kickoff 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/rainbow6
 SUMMARY:Upper bracket quarterfinal 1: TM vs FNC
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T180000Z
+UID:pandascore-match-1447123@esport-ics
+DTSTART:20260416T180000Z
+DTEND:20260416T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Kickoff 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/rainbow6
+SUMMARY:Upper bracket semifinal 1: G2 vs TM
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

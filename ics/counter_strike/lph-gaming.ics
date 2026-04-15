@@ -399,6 +399,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 47 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Lower bracket round 1 match 2: FF vs LPH
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T183000Z
+UID:pandascore-match-1447127@esport-ics
+DTSTART:20260415T183000Z
+DTEND:20260415T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: LPH vs EF.A
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

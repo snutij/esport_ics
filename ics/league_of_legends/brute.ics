@@ -80,6 +80,83 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group A\nWatch: https://www.twitch
  .tv/hitpointcz
 SUMMARY:Lower bracket semifinal: BRT vs DMG
+URL:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T163000Z
+UID:pandascore-match-1447212@esport-ics
+DTSTART:20260417T163000Z
+DTEND:20260417T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:CKZ vs BRT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T113000Z
+UID:pandascore-match-1447216@esport-ics
+DTSTART:20260419T113000Z
+DTEND:20260419T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:MVE vs BRT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T163000Z
+UID:pandascore-match-1447218@esport-ics
+DTSTART:20260430T163000Z
+DTEND:20260430T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:NBS vs BRT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T090000Z
+UID:pandascore-match-1447223@esport-ics
+DTSTART:20260503T090000Z
+DTEND:20260503T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:Bohemian Guardians vs BRT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T163000Z
+UID:pandascore-match-1447228@esport-ics
+DTSTART:20260506T163000Z
+DTEND:20260506T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:BRT vs OT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T123000Z
+UID:pandascore-match-1447230@esport-ics
+DTSTART:20260516T123000Z
+DTEND:20260516T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:EXE vs BRT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T150000Z
+UID:pandascore-match-1447235@esport-ics
+DTSTART:20260517T150000Z
+DTEND:20260517T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:BRT vs ESB
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 END:VCALENDAR

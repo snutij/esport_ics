@@ -91,6 +91,61 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Group D\nWatch: https://www.twitch
  .tv/fortuna
 SUMMARY:Lower bracket semifinal: LPS vs BAM
+URL:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T160000Z
+UID:pandascore-match-1447237@esport-ics
+DTSTART:20260415T160000Z
+DTEND:20260415T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:LPS vs PS
+URL;VALUE=URI:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T180000Z
+UID:pandascore-match-1447240@esport-ics
+DTSTART:20260416T180000Z
+DTEND:20260416T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:LPS vs B5
+URL;VALUE=URI:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T180000Z
+UID:pandascore-match-1447244@esport-ics
+DTSTART:20260422T180000Z
+DTEND:20260422T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:LPS vs CROA
+URL;VALUE=URI:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T180000Z
+UID:pandascore-match-1447246@esport-ics
+DTSTART:20260423T180000Z
+DTEND:20260423T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:SPK vs LPS
+URL;VALUE=URI:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T180000Z
+UID:pandascore-match-1447248@esport-ics
+DTSTART:20260424T180000Z
+DTEND:20260424T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:LPS vs TSC
 URL;VALUE=URI:https://www.twitch.tv/fortuna
 END:VEVENT
 END:VCALENDAR

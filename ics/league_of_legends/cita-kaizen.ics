@@ -58,6 +58,83 @@ CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Winter 2026 - Playoffs\nWatch: https://www.t
  witch.tv/hitpointcz
 SUMMARY:Lower bracket final: BRT vs CKZ
+URL:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T163000Z
+UID:pandascore-match-1447210@esport-ics
+DTSTART:20260416T163000Z
+DTEND:20260416T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:CKZ vs EXE
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T163000Z
+UID:pandascore-match-1447212@esport-ics
+DTSTART:20260417T163000Z
+DTEND:20260417T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:CKZ vs BRT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T140000Z
+UID:pandascore-match-1447217@esport-ics
+DTSTART:20260430T140000Z
+DTEND:20260430T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:CKZ vs ESB
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T090000Z
+UID:pandascore-match-1447221@esport-ics
+DTSTART:20260502T090000Z
+DTEND:20260502T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:CKZ vs MVE
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T140000Z
+UID:pandascore-match-1447227@esport-ics
+DTSTART:20260506T140000Z
+DTEND:20260506T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:CKZ vs NBS
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T100000Z
+UID:pandascore-match-1447229@esport-ics
+DTSTART:20260516T100000Z
+DTEND:20260516T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:CKZ vs Bohemian Guardians
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T100000Z
+UID:pandascore-match-1447233@esport-ics
+DTSTART:20260517T100000Z
+DTEND:20260517T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:CKZ vs OT
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 END:VCALENDAR

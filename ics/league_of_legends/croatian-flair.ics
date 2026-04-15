@@ -47,6 +47,61 @@ CLASS:PUBLIC
 DESCRIPTION:EBL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/fort
  una
 SUMMARY:Lower bracket semifinal: CROA vs LLH
+URL:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T180000Z
+UID:pandascore-match-1447238@esport-ics
+DTSTART:20260415T180000Z
+DTEND:20260415T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:TSC vs CROA
+URL;VALUE=URI:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T160000Z
+UID:pandascore-match-1447241@esport-ics
+DTSTART:20260417T160000Z
+DTEND:20260417T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:B5 vs CROA
+URL;VALUE=URI:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T180000Z
+UID:pandascore-match-1447244@esport-ics
+DTSTART:20260422T180000Z
+DTEND:20260422T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:LPS vs CROA
+URL;VALUE=URI:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T160000Z
+UID:pandascore-match-1447247@esport-ics
+DTSTART:20260424T160000Z
+DTEND:20260424T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:SPK vs CROA
+URL;VALUE=URI:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T160000Z
+UID:pandascore-match-1447252@esport-ics
+DTSTART:20260430T160000Z
+DTEND:20260430T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:PS vs CROA
 URL;VALUE=URI:https://www.twitch.tv/fortuna
 END:VEVENT
 END:VCALENDAR
