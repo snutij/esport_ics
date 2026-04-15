@@ -102,7 +102,7 @@ CLASS:PUBLIC
 DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/fortuna
 SUMMARY:LPS vs PS
-URL;VALUE=URI:https://www.twitch.tv/fortuna
+URL:https://www.twitch.tv/fortuna
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260416T180000Z
@@ -112,7 +112,7 @@ DTEND:20260416T201500Z
 CLASS:PUBLIC
 DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/fortuna
-SUMMARY:LPS vs B5
+SUMMARY:LPS vs MGZ
 URL;VALUE=URI:https://www.twitch.tv/fortuna
 END:VEVENT
 BEGIN:VEVENT

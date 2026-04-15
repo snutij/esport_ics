@@ -237,8 +237,10 @@ UID:pandascore-match-1447122@esport-ics
 DTSTART:20260415T180000Z
 DTEND:20260415T184500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/popilop
 SUMMARY:BIG.E vs BRAWLSTARS
+URL;VALUE=URI:https://www.twitch.tv/popilop
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260420T160000Z

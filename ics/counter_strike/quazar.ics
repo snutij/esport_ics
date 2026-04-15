@@ -247,7 +247,9 @@ UID:pandascore-match-1447116@esport-ics
 DTSTART:20260415T180000Z
 DTEND:20260415T184500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/theeb1ye
 SUMMARY:QUA vs PURE
+URL;VALUE=URI:https://www.twitch.tv/theeb1ye
 END:VEVENT
 END:VCALENDAR
