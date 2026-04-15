@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Beasts From Beyond
+SLUG:the-beasts-from-beyond
+BEGIN:VEVENT
+DTSTAMP:20260417T071000Z
+UID:pandascore-match-1407129@esport-ics
+DTSTART:20260417T071000Z
+DTEND:20260417T105500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS OC - Paris Major: Open 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/rocketleagueoce
+SUMMARY:Upper bracket quarterfinal 1: C-B Bulldogs vs The Beasts From Beyon
+ d
+URL;VALUE=URI:https://www.twitch.tv/rocketleagueoce
+END:VEVENT
+END:VCALENDAR

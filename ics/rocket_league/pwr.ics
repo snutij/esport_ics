@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS OC - Paris Major: Open 5 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/rocketleagueoce
 SUMMARY:Semifinal 1: WC vs PWR
+URL:https://www.twitch.tv/rocketleagueoce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T071000Z
+UID:pandascore-match-1407131@esport-ics
+DTSTART:20260417T071000Z
+DTEND:20260417T105500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS OC - Paris Major: Open 6 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/rocketleagueoce
+SUMMARY:Upper bracket quarterfinal 3: PWR vs nozzy
 URL;VALUE=URI:https://www.twitch.tv/rocketleagueoce
 END:VEVENT
 END:VCALENDAR

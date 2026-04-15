@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:SaD GC
-SLUG:sad-gc
+X-WR-CALNAME:SEN Otters
+SLUG:sen-otters
 BEGIN:VEVENT
 DTSTAMP:20260415T233000Z
-UID:pandascore-match-1439770@esport-ics
+UID:pandascore-match-1439767@esport-ics
 DTSTART:20260415T233000Z
 DTEND:20260416T014500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers North America Stage 1 2026 - Group Stage\nW
  atch: https://www.twitch.tv/valorant_americas
-SUMMARY:Round 1: SaD vs EMPIRE GC
+SUMMARY:Round 1: SEN vs TV
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR
