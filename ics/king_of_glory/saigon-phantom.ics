@@ -157,6 +157,66 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
  w.youtube.com/watch?v=K1eLhhzD140
 SUMMARY:TS vs SP
-URL;VALUE=URI:https://www.youtube.com/watch?v=K1eLhhzD140
+URL:https://www.youtube.com/watch?v=K1eLhhzD140
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T090000Z
+UID:pandascore-match-1447832@esport-ics
+DTSTART:20260420T090000Z
+DTEND:20260420T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:SP vs GAM
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T123000Z
+UID:pandascore-match-1447836@esport-ics
+DTSTART:20260421T123000Z
+DTEND:20260421T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:SP vs OSE
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T123000Z
+UID:pandascore-match-1447839@esport-ics
+DTSTART:20260422T123000Z
+DTEND:20260422T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:TF vs SP
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T090000Z
+UID:pandascore-match-1447841@esport-ics
+DTSTART:20260423T090000Z
+DTEND:20260423T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:SP vs FPL
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T123000Z
+UID:pandascore-match-1447845@esport-ics
+DTSTART:20260424T123000Z
+DTEND:20260424T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:SP vs BOX
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
 END:VEVENT
 END:VCALENDAR

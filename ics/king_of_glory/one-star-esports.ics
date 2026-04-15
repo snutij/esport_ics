@@ -146,6 +146,66 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 1\nWatch: https://ww
  w.youtube.com/watch?v=K1eLhhzD140
 SUMMARY:OSE vs BOX
-URL;VALUE=URI:https://www.youtube.com/watch?v=K1eLhhzD140
+URL:https://www.youtube.com/watch?v=K1eLhhzD140
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T123000Z
+UID:pandascore-match-1447833@esport-ics
+DTSTART:20260420T123000Z
+DTEND:20260420T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:TF vs OSE
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T123000Z
+UID:pandascore-match-1447836@esport-ics
+DTSTART:20260421T123000Z
+DTEND:20260421T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:SP vs OSE
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T090000Z
+UID:pandascore-match-1447838@esport-ics
+DTSTART:20260422T090000Z
+DTEND:20260422T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:OSE vs BOX
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T060000Z
+UID:pandascore-match-1447840@esport-ics
+DTSTART:20260423T060000Z
+DTEND:20260423T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:OSE vs GAM
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T060000Z
+UID:pandascore-match-1447843@esport-ics
+DTSTART:20260424T060000Z
+DTEND:20260424T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:OSE vs FPL
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
 END:VEVENT
 END:VCALENDAR
