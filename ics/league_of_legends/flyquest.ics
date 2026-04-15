@@ -81,6 +81,17 @@ SUMMARY:SEN vs FLY
 URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260421T180000Z
+UID:pandascore-match-1446605@esport-ics
+DTSTART:20260421T180000Z
+DTEND:20260421T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - North America Qualifier 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/ewclol2026
+SUMMARY:Upper bracket semifinal 1: LY vs FLY
+URL;VALUE=URI:https://www.twitch.tv/ewclol2026
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260425T200000Z
 UID:pandascore-match-1402370@esport-ics
 DTSTART:20260425T200000Z
