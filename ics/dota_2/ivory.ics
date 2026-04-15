@@ -347,15 +347,15 @@ SUMMARY:Grand final: IVO vs RNX
 URL:https://www.twitch.tv/esl_dota2storm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260415T090000Z
+DTSTAMP:20260416T030000Z
 UID:pandascore-match-1430011@esport-ics
-DTSTART:20260415T090000Z
-DTEND:20260415T111500Z
+DTSTART:20260416T030000Z
+DTEND:20260416T051500Z
 CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
+ nWatch: https://www.twitch.tv/home_commentator
 SUMMARY:WinteR vs IVO
-URL:https://kick.com/epldota_en1
+URL;VALUE=URI:https://www.twitch.tv/home_commentator
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260418T090000Z
