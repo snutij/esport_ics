@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 2 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Round 5: M80 vs ADG
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T200000Z
+UID:pandascore-match-1447846@esport-ics
+DTSTART:20260421T200000Z
+DTEND:20260421T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 2 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Round 6: QoR vs ADG
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR

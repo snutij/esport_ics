@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 2 2026 - Group Stage\nWatch: https:/
  /www.youtube.com/watch?v=bEkiVTGbvHs
 SUMMARY:Round 5: AG vs QoR
-URL;VALUE=URI:https://www.youtube.com/watch?v=bEkiVTGbvHs
+URL:https://www.youtube.com/watch?v=bEkiVTGbvHs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T200000Z
+UID:pandascore-match-1447846@esport-ics
+DTSTART:20260421T200000Z
+DTEND:20260421T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 2 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Round 6: QoR vs ADG
+URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR
