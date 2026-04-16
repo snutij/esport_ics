@@ -410,6 +410,15 @@ CLASS:PUBLIC
 DESCRIPTION:PREMIER SERIES - 2026 - Playoffs\nWatch: https://www.twitch.tv/
  betboom_dota_ru
 SUMMARY:Grand final: PARI vs NGX
-URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru
+URL:https://www.twitch.tv/betboom_dota_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T140000Z
+UID:pandascore-match-1449769@esport-ics
+DTSTART:20260418T140000Z
+DTEND:20260418T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 8 2026 - Group Stage
+SUMMARY:Round 1: PARI vs MOUZ
 END:VEVENT
 END:VCALENDAR

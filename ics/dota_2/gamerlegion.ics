@@ -300,6 +300,15 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - North America Closed Qualifier season 29 2026 - P
  layoffs\nWatch: https://www.twitch.tv/esl_dota2salve
 SUMMARY:Grand final: GL vs AMR.FME
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2salve
+URL:https://www.twitch.tv/esl_dota2salve
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T110000Z
+UID:pandascore-match-1449767@esport-ics
+DTSTART:20260418T110000Z
+DTEND:20260418T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 8 2026 - Group Stage
+SUMMARY:Round 1: Liquid vs GL
 END:VEVENT
 END:VCALENDAR
