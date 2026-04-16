@@ -221,6 +221,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 1: LPH vs EF.A
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T153000Z
+UID:pandascore-match-1449858@esport-ics
+DTSTART:20260417T153000Z
+DTEND:20260417T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 2: EF.A vs CSGOPOSITIVE
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
