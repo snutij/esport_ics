@@ -53,7 +53,9 @@ UID:pandascore-match-1448721@esport-ics
 DTSTART:20260416T170000Z
 DTEND:20260416T174500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/cspuregg
 SUMMARY:PURE vs ENRAGE
+URL;VALUE=URI:https://www.twitch.tv/cspuregg
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kiwoom DRX
+SLUG:kiwoom-drx
+BEGIN:VEVENT
+DTSTAMP:20260418T080000Z
+UID:pandascore-match-1402229@esport-ics
+DTSTART:20260418T080000Z
+DTEND:20260418T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:KRX vs GE
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T080000Z
+UID:pandascore-match-1402235@esport-ics
+DTSTART:20260425T080000Z
+DTEND:20260425T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:Gen.G vs KRX
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T080000Z
+UID:pandascore-match-1402243@esport-ics
+DTSTART:20260503T080000Z
+DTEND:20260503T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:PR vs KRX
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+END:VCALENDAR
