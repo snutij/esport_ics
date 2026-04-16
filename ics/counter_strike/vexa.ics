@@ -96,6 +96,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Challengers #1 2026 - Playoffs\nWatch: http
  s://kick.com/cct_cs7
 SUMMARY:Lower bracket round 2 match 2: MW vs VEXA
-URL;VALUE=URI:https://kick.com/cct_cs7
+URL:https://kick.com/cct_cs7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T210000Z
+UID:pandascore-match-1447262@esport-ics
+DTSTART:20260416T210000Z
+DTEND:20260416T231500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Challengers #1 2026 - Playoffs\nWatch: http
+ s://kick.com/cct_cs6
+SUMMARY:Lower bracket round 3 match 1: VEXA vs paiN.A
+URL;VALUE=URI:https://kick.com/cct_cs6
 END:VEVENT
 END:VCALENDAR

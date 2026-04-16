@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - South America Series  #4 season 2 2026 - Playoffs\nWatch:
   https://kick.com/cct_dota
 SUMMARY:Upper bracket final: TA vs ZG
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T190000Z
+UID:pandascore-match-1437342@esport-ics
+DTSTART:20260416T190000Z
+DTEND:20260416T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT - South America Series  #4 season 2 2026 - Playoffs\nWatch:
+  https://kick.com/cct_dota
+SUMMARY:Lower bracket final: ZG vs TBD
 URL;VALUE=URI:https://kick.com/cct_dota
 END:VEVENT
 END:VCALENDAR
