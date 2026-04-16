@@ -243,6 +243,61 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 47 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Lower bracket round 1 match 1: INF vs IC.A
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T100000Z
+UID:pandascore-match-1448789@esport-ics
+DTSTART:20260418T100000Z
+DTEND:20260418T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:INF vs XI
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T130000Z
+UID:pandascore-match-1448793@esport-ics
+DTSTART:20260418T130000Z
+DTEND:20260418T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:INF vs zajezdzacze
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T160000Z
+UID:pandascore-match-1448796@esport-ics
+DTSTART:20260418T160000Z
+DTEND:20260418T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:ELITEN vs INF
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T173000Z
+UID:pandascore-match-1448798@esport-ics
+DTSTART:20260418T173000Z
+DTEND:20260418T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:PHTM.Ac vs INF
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T190000Z
+UID:pandascore-match-1448800@esport-ics
+DTSTART:20260418T190000Z
+DTEND:20260418T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:AAB vs INF
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR

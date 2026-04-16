@@ -47,6 +47,61 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 4 2026 - Group A\nWatch
  : https://kick.com/challengerchampionship
 SUMMARY:ImmuNe vs AAB
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T100000Z
+UID:pandascore-match-1448803@esport-ics
+DTSTART:20260418T100000Z
+DTEND:20260418T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:RBLS vs ImmuNe
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T130000Z
+UID:pandascore-match-1448807@esport-ics
+DTSTART:20260418T130000Z
+DTEND:20260418T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:ImmuNe vs Z7
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T160000Z
+UID:pandascore-match-1448811@esport-ics
+DTSTART:20260418T160000Z
+DTEND:20260418T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:ImmuNe vs TNC
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T173000Z
+UID:pandascore-match-1448814@esport-ics
+DTSTART:20260418T173000Z
+DTEND:20260418T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:Dua Lipa vs ImmuNe
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T190000Z
+UID:pandascore-match-1448816@esport-ics
+DTSTART:20260418T190000Z
+DTEND:20260418T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:SASHI.A vs ImmuNe
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
 END:VEVENT
 END:VCALENDAR

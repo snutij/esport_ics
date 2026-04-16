@@ -413,6 +413,61 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #19 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs
 SUMMARY:Quarterfinal 4: NEM vs RBLS
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T100000Z
+UID:pandascore-match-1448803@esport-ics
+DTSTART:20260418T100000Z
+DTEND:20260418T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:RBLS vs ImmuNe
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T113000Z
+UID:pandascore-match-1448806@esport-ics
+DTSTART:20260418T113000Z
+DTEND:20260418T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:RBLS vs Dua Lipa
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T143000Z
+UID:pandascore-match-1448809@esport-ics
+DTSTART:20260418T143000Z
+DTEND:20260418T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:RBLS vs Z7
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T160000Z
+UID:pandascore-match-1448812@esport-ics
+DTSTART:20260418T160000Z
+DTEND:20260418T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:RBLS vs SASHI.A
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T190000Z
+UID:pandascore-match-1448815@esport-ics
+DTSTART:20260418T190000Z
+DTEND:20260418T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:RBLS vs TNC
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
 END:VEVENT
 END:VCALENDAR

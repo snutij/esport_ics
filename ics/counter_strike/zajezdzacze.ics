@@ -228,4 +228,59 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:TEAM_COPH9K vs zajezdzacze
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T113000Z
+UID:pandascore-match-1448790@esport-ics
+DTSTART:20260418T113000Z
+DTEND:20260418T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:zajezdzacze vs PHTM.Ac
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T130000Z
+UID:pandascore-match-1448793@esport-ics
+DTSTART:20260418T130000Z
+DTEND:20260418T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:INF vs zajezdzacze
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T143000Z
+UID:pandascore-match-1448795@esport-ics
+DTSTART:20260418T143000Z
+DTEND:20260418T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:XI vs zajezdzacze
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T160000Z
+UID:pandascore-match-1448797@esport-ics
+DTSTART:20260418T160000Z
+DTEND:20260418T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:AAB vs zajezdzacze
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T190000Z
+UID:pandascore-match-1448801@esport-ics
+DTSTART:20260418T190000Z
+DTEND:20260418T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:zajezdzacze vs ELITEN
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
 END:VCALENDAR

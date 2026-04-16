@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dua Lipa Enjoyers
+SLUG:dua-lipa-enjoyers
+BEGIN:VEVENT
+DTSTAMP:20260418T100000Z
+UID:pandascore-match-1448804@esport-ics
+DTSTART:20260418T100000Z
+DTEND:20260418T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:TNC vs Dua Lipa
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T113000Z
+UID:pandascore-match-1448806@esport-ics
+DTSTART:20260418T113000Z
+DTEND:20260418T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:RBLS vs Dua Lipa
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T143000Z
+UID:pandascore-match-1448810@esport-ics
+DTSTART:20260418T143000Z
+DTEND:20260418T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:Dua Lipa vs SASHI.A
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T173000Z
+UID:pandascore-match-1448814@esport-ics
+DTSTART:20260418T173000Z
+DTEND:20260418T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:Dua Lipa vs ImmuNe
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T200000Z
+UID:pandascore-match-1448817@esport-ics
+DTSTART:20260418T200000Z
+DTEND:20260418T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:Z7 vs Dua Lipa
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+END:VCALENDAR

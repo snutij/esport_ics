@@ -124,6 +124,61 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 4: VP.F vs Z7
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T113000Z
+UID:pandascore-match-1448805@esport-ics
+DTSTART:20260418T113000Z
+DTEND:20260418T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:SASHI.A vs Z7
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T130000Z
+UID:pandascore-match-1448807@esport-ics
+DTSTART:20260418T130000Z
+DTEND:20260418T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:ImmuNe vs Z7
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T143000Z
+UID:pandascore-match-1448809@esport-ics
+DTSTART:20260418T143000Z
+DTEND:20260418T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:RBLS vs Z7
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T173000Z
+UID:pandascore-match-1448813@esport-ics
+DTSTART:20260418T173000Z
+DTEND:20260418T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:Z7 vs TNC
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T200000Z
+UID:pandascore-match-1448817@esport-ics
+DTSTART:20260418T200000Z
+DTEND:20260418T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship_b
+SUMMARY:Z7 vs Dua Lipa
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
 END:VEVENT
 END:VCALENDAR
