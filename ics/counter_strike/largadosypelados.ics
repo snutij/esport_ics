@@ -339,6 +339,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 2026 - Playoffs\nW
  atch: https://www.twitch.tv/lorranbs_
 SUMMARY:Lower bracket quarterfinal 2: LDP vs SHIN
-URL;VALUE=URI:https://www.twitch.tv/lorranbs_
+URL:https://www.twitch.tv/lorranbs_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T210000Z
+UID:pandascore-match-1448771@esport-ics
+DTSTART:20260420T210000Z
+DTEND:20260420T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - April 2026 - Group D
+SUMMARY:LDP vs 9daplug
 END:VEVENT
 END:VCALENDAR
