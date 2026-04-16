@@ -519,6 +519,28 @@ CLASS:PUBLIC
 DESCRIPTION:HLC Belgrade Pro - 2026 - Playoffs\nWatch: https://kick.com/rlg
  cs
 SUMMARY:3rd Place match: ILWL vs MGC
-URL;VALUE=URI:https://kick.com/rlgcs
+URL:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T090000Z
+UID:pandascore-match-1449753@esport-ics
+DTSTART:20260423T090000Z
+DTEND:20260423T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Global Finals - Season 3 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs
+SUMMARY:Upper bracket quarterfinal 3: HERO vs ILWL
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T110000Z
+UID:pandascore-match-1449755@esport-ics
+DTSTART:20260424T110000Z
+DTEND:20260424T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Global Finals - Season 3 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs
+SUMMARY:Lower bracket round 1 match 2: ILWL vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - China Stage 1 2026 - Group Alpha\nWatch: https://www.twit
  ch.tv/valorantesports_cn
 SUMMARY:AG vs BLG
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T110000Z
+UID:pandascore-match-1399071@esport-ics
+DTSTART:20260419T110000Z
+DTEND:20260419T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Ranking Matches\nWatch: https://www.
+ twitch.tv/valorantesports_cn
+SUMMARY:Qualification match 1: AG vs XLG
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

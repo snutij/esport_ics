@@ -243,6 +243,17 @@ CLASS:PUBLIC
 DESCRIPTION:HLC Belgrade Pro - 2026 - Playoffs\nWatch: https://kick.com/rlg
  cs_b
 SUMMARY:Quarterfinal 2: ILWL vs BCA
-URL;VALUE=URI:https://kick.com/rlgcs_b
+URL:https://kick.com/rlgcs_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T120000Z
+UID:pandascore-match-1449750@esport-ics
+DTSTART:20260423T120000Z
+DTEND:20260423T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Global Finals - Season 3 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs
+SUMMARY:Upper bracket quarterfinal 1: MNTE vs BCA
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

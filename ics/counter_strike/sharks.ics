@@ -223,6 +223,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Pantanal Cuiabá 2026 - Playoffs\nWatch: https://ki
  ck.com/circuitx
 SUMMARY:3rd Place match: IMP vs SHK
-URL;VALUE=URI:https://kick.com/circuitx
+URL:https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T180000Z
+UID:pandascore-match-1449751@esport-ics
+DTSTART:20260423T180000Z
+DTEND:20260423T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Global Finals - Season 3 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs
+SUMMARY:Upper bracket quarterfinal 2: NIP vs SHK
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

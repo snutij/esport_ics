@@ -41,6 +41,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/torycs
 SUMMARY:CC.FE vs BG
-URL;VALUE=URI:https://www.twitch.tv/torycs
+URL:https://www.twitch.tv/torycs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T110000Z
+UID:pandascore-match-1449720@esport-ics
+DTSTART:20260418T110000Z
+DTEND:20260418T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
+ ://kick.com/cct_cs2
+SUMMARY:Upper bracket round 1 match 8: CC.FE vs Atreides
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

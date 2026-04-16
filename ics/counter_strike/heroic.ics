@@ -300,6 +300,28 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 1 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Lower Bracket Final : BB vs HERO
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T090000Z
+UID:pandascore-match-1449753@esport-ics
+DTSTART:20260423T090000Z
+DTEND:20260423T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Global Finals - Season 3 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs
+SUMMARY:Upper bracket quarterfinal 3: HERO vs ILWL
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T170000Z
+UID:pandascore-match-1449758@esport-ics
+DTSTART:20260424T170000Z
+DTEND:20260424T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Global Finals - Season 3 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs
+SUMMARY:Upper bracket semifinal 2: TBD vs HERO
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
