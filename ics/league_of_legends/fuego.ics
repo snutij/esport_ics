@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
  tv/lolacelatam
 SUMMARY:ICON vs FUE
+URL:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T200000Z
+UID:pandascore-match-1384378@esport-ics
+DTSTART:20260421T200000Z
+DTEND:20260421T234500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ acelatam
+SUMMARY:Upper bracket semifinal 1: FUE vs Z5
 URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR

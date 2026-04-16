@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:LRN - Split 1 2026 - Regular Season\nWatch: https://www.twitch.
  tv/lolacelatam
 SUMMARY:PLS vs SDM
+URL:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T200000Z
+UID:pandascore-match-1384380@esport-ics
+DTSTART:20260505T200000Z
+DTEND:20260505T234500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ acelatam
+SUMMARY:Lower bracket quarterfinal 1: TBD vs PLS
 URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR
