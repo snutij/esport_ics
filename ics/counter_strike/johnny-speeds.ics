@@ -459,6 +459,17 @@ CLASS:PUBLIC
 DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
  tps://www.twitch.tv/playzonecz
 SUMMARY:Round 2: ECS vs JS
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T150000Z
+UID:pandascore-match-1438505@esport-ics
+DTSTART:20260421T150000Z
+DTEND:20260421T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/playzonecz
+SUMMARY:Round 3: TRI vs JS
 URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR

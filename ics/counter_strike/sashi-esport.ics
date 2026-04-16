@@ -397,6 +397,17 @@ CLASS:PUBLIC
 DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
  tps://www.twitch.tv/playzoneup
 SUMMARY:Round 2: TNC vs SASHI
-URL;VALUE=URI:https://www.twitch.tv/playzoneup
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T150000Z
+UID:pandascore-match-1438503@esport-ics
+DTSTART:20260420T150000Z
+DTEND:20260420T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/playzonecz
+SUMMARY:Round 3: SIN vs SASHI
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR

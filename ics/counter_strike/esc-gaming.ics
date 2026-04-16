@@ -225,4 +225,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Group Stage\nWatch: http
 SUMMARY:Round 2: ESC vs URSA
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T160000Z
+UID:pandascore-match-1438500@esport-ics
+DTSTART:20260419T160000Z
+DTEND:20260419T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/playzonecz
+SUMMARY:Round 3: ESC vs ECS
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
 END:VCALENDAR
