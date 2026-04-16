@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers North America Stage 1 2026 - Group Stage\nW
  atch: https://www.twitch.tv/raidiant_glow
 SUMMARY:Round 1: :3 vs GG.GC
-URL;VALUE=URI:https://www.twitch.tv/raidiant_glow
+URL:https://www.twitch.tv/raidiant_glow
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T210000Z
+UID:pandascore-match-1448837@esport-ics
+DTSTART:20260423T210000Z
+DTEND:20260423T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers North America Stage 1 2026 - Group Stage\nW
+ atch: https://www.twitch.tv/valorant_americas
+SUMMARY:Round 2: GG.GC vs MVSK
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR
