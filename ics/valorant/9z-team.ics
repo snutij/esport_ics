@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America South: ACE Masters 2026 - Group A\nWatch: h
  ttps://www.twitch.tv/valorant_la
 SUMMARY:Winners match: 9z vs LEV
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T190000Z
+UID:pandascore-match-1440513@esport-ics
+DTSTART:20260423T190000Z
+DTEND:20260423T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: ACE Masters 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/valorant_la
+SUMMARY:Decider match: 9z vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

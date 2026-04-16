@@ -92,6 +92,17 @@ SUMMARY:DSG vs C9
 URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260422T210000Z
+UID:pandascore-match-1446608@esport-ics
+DTSTART:20260422T210000Z
+DTEND:20260422T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - North America Qualifier 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/ewclol2026
+SUMMARY:Lower bracket quarterfinal 2: DSG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ewclol2026
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260426T200000Z
 UID:pandascore-match-1402372@esport-ics
 DTSTART:20260426T200000Z
