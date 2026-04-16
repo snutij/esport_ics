@@ -403,6 +403,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Challengers #1 2026 - Playoffs\nWatch: http
  s://kick.com/cct_cs6
 SUMMARY:Lower bracket round 3 match 1: paiN.A vs VEXA
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T210000Z
+UID:pandascore-match-1447269@esport-ics
+DTSTART:20260417T210000Z
+DTEND:20260417T231500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Challengers #1 2026 - Playoffs\nWatch: http
+ s://kick.com/cct_cs6
+SUMMARY:Lower bracket quarterfinal 1: paiN.A vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs6
 END:VEVENT
 END:VCALENDAR
