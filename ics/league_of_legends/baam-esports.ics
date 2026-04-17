@@ -158,15 +158,15 @@ SUMMARY:JSK vs BAM
 URL:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260417T160000Z
+DTSTAMP:20260417T183000Z
 UID:pandascore-match-1434864@esport-ics
-DTSTART:20260417T160000Z
-DTEND:20260417T181500Z
+DTSTART:20260417T183000Z
+DTEND:20260417T204500Z
 CLASS:PUBLIC
 DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
- ww.twitch.tv/lolesports_ar
+ ww.twitch.tv/gngtn
 SUMMARY:BAM vs GNG
-URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+URL;VALUE=URI:https://www.twitch.tv/gngtn
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260422T183000Z
