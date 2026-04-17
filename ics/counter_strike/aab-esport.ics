@@ -629,4 +629,15 @@ DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
 SUMMARY:AAB vs INF
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T080000Z
+UID:pandascore-match-1451288@esport-ics
+DTSTART:20260421T080000Z
+DTEND:20260421T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Elimination match: AAB vs SNG
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
