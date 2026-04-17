@@ -402,12 +402,14 @@ SUMMARY:Lower bracket round 3: Liquid vs MOUZ
 URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260418T110000Z
+DTSTAMP:20260418T100000Z
 UID:pandascore-match-1449767@esport-ics
-DTSTART:20260418T110000Z
-DTEND:20260418T131500Z
+DTSTART:20260418T100000Z
+DTEND:20260418T121500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Wallachia season 8 2026 - Group Stage
+DESCRIPTION:PGL - Wallachia season 8 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
 SUMMARY:Round 1: Liquid vs GL
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

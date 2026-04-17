@@ -314,12 +314,14 @@ SUMMARY:Lower bracket round 1 match 2: FLC vs PARI
 URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260418T170000Z
+DTSTAMP:20260418T160000Z
 UID:pandascore-match-1449771@esport-ics
-DTSTART:20260418T170000Z
-DTEND:20260418T191500Z
+DTSTART:20260418T160000Z
+DTEND:20260418T181500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Wallachia season 8 2026 - Group Stage
+DESCRIPTION:PGL - Wallachia season 8 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
 SUMMARY:Round 1: TY vs FLC
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR
