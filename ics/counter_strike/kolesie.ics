@@ -366,4 +366,15 @@ DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
 SUMMARY:Round 3: KOL vs ALL
 URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T180000Z
+UID:pandascore-match-1450338@esport-ics
+DTSTART:20260425T180000Z
+DTEND:20260425T201500Z
+CLASS:PUBLIC
+DESCRIPTION:LORGAR RANKINGS - 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /starladder_cs_en
+SUMMARY:Quarterfinal 2: FOKUS vs KOL
+URL;VALUE=URI:https://www.twitch.tv/starladder_cs_en
+END:VEVENT
 END:VCALENDAR

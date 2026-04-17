@@ -29,7 +29,9 @@ UID:pandascore-match-1414435@esport-ics
 DTSTART:20260417T070000Z
 DTEND:20260417T091500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia-Pacific League - Kickoff: North 2026 - Playoffs
+DESCRIPTION:Asia-Pacific League - Kickoff: North 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/rainbow6
 SUMMARY:Upper bracket final: KNT vs CAG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

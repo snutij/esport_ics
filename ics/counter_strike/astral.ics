@@ -573,6 +573,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Play-In Group D\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Decider match: ASTR vs URSA
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T150000Z
+UID:pandascore-match-1450340@esport-ics
+DTSTART:20260425T150000Z
+DTEND:20260425T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LORGAR RANKINGS - 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /starladder_cs_en
+SUMMARY:Quarterfinal 4: M8 vs ASTR
+URL;VALUE=URI:https://www.twitch.tv/starladder_cs_en
 END:VEVENT
 END:VCALENDAR

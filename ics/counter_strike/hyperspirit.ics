@@ -423,6 +423,17 @@ CLASS:PUBLIC
 DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Play-In\nWat
  ch: https://kick.com/starladder
 SUMMARY:Upper bracket semifinal 1: HS vs BND
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T090000Z
+UID:pandascore-match-1450339@esport-ics
+DTSTART:20260425T090000Z
+DTEND:20260425T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LORGAR RANKINGS - 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /starladder_cs_en
+SUMMARY:Quarterfinal 3: 9INE vs HS
+URL;VALUE=URI:https://www.twitch.tv/starladder_cs_en
 END:VEVENT
 END:VCALENDAR

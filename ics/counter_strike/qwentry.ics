@@ -948,6 +948,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs2
 SUMMARY:Semifinal 1: QWE vs BIG
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T150000Z
+UID:pandascore-match-1450336@esport-ics
+DTSTART:20260417T150000Z
+DTEND:20260417T154500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:QWE vs TLR
 END:VEVENT
 END:VCALENDAR
