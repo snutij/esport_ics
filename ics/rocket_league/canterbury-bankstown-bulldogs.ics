@@ -103,6 +103,17 @@ DESCRIPTION:RLCS OC - Paris Major: Open 6 2026 - Group B\nWatch: https://ww
  w.twitch.tv/rocketleagueoce
 SUMMARY:Upper bracket quarterfinal 1: C-B Bulldogs vs The Beasts From Beyon
  d
+URL:https://www.twitch.tv/rocketleagueoce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T090000Z
+UID:pandascore-match-1407166@esport-ics
+DTSTART:20260418T090000Z
+DTEND:20260418T141500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS OC - Paris Major: Open 6 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/rocketleagueoce
+SUMMARY:Upper bracket quarterfinal 2: C-B Bulldogs vs NOKAR
 URL;VALUE=URI:https://www.twitch.tv/rocketleagueoce
 END:VEVENT
 END:VCALENDAR
