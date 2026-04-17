@@ -36,6 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: North 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/rainbow6
 SUMMARY:Upper bracket final: KNT vs CAG
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T080000Z
+UID:pandascore-match-1414437@esport-ics
+DTSTART:20260424T080000Z
+DTEND:20260424T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Kickoff: North 2026 - Playoffs
+SUMMARY:Grand final: CAG vs TBD
 END:VEVENT
 END:VCALENDAR
