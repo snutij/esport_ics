@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Spring 2026 - Seat Decider A vs B\nWatch: htt
  ps://www.douyu.com/998
 SUMMARY:WE vs ESP
-URL;VALUE=URI:https://www.douyu.com/998
+URL:https://www.douyu.com/998
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T040000Z
+UID:pandascore-match-1450929@esport-ics
+DTSTART:20260427T040000Z
+DTEND:20260427T074500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
+ www.youtube.com/@2019KPL/streams
+SUMMARY:Round 1 match 3: ESP vs GE
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 END:VCALENDAR

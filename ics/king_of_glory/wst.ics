@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:KPL Growth League - Spring 2026 - Playoffs\nWatch: https://live
  .bilibili.com/21654762
 SUMMARY:Grand final: WST vs SYGaming
-URL;VALUE=URI:https://live.bilibili.com/21654762
+URL:https://live.bilibili.com/21654762
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T103000Z
+UID:pandascore-match-1450931@esport-ics
+DTSTART:20260425T103000Z
+DTEND:20260425T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
+ www.youtube.com/@2019KPL/streams
+SUMMARY:Round 1 match 5: CKU vs WST
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 END:VCALENDAR

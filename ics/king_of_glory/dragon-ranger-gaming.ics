@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Spring 2026 - Stage 2 Group B\nWatch: https:/
  /www.huya.com/660002
 SUMMARY:ESP vs DRG
-URL;VALUE=URI:https://www.huya.com/660002
+URL:https://www.huya.com/660002
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T103000Z
+UID:pandascore-match-1450928@esport-ics
+DTSTART:20260428T103000Z
+DTEND:20260428T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
+ www.youtube.com/@2019KPL/streams
+SUMMARY:Round 1 match 2: 吵一吵 vs DRG
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 END:VCALENDAR

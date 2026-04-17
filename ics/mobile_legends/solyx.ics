@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SOLYX
+SLUG:solyx
+BEGIN:VEVENT
+DTSTAMP:20260418T120000Z
+UID:pandascore-match-1451245@esport-ics
+DTSTART:20260418T120000Z
+DTEND:20260418T141500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 1 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/mlbbth/live
+SUMMARY:KOG vs SLX
+URL;VALUE=URI:https://www.youtube.com/mlbbth/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T080000Z
+UID:pandascore-match-1451247@esport-ics
+DTSTART:20260419T080000Z
+DTEND:20260419T101500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 1 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/mlbbth/live
+SUMMARY:TEN vs SLX
+URL;VALUE=URI:https://www.youtube.com/mlbbth/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T120000Z
+UID:pandascore-match-1451253@esport-ics
+DTSTART:20260425T120000Z
+DTEND:20260425T141500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 1 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/mlbbth/live
+SUMMARY:EAR vs SLX
+URL;VALUE=URI:https://www.youtube.com/mlbbth/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T100000Z
+UID:pandascore-match-1451260@esport-ics
+DTSTART:20260502T100000Z
+DTEND:20260502T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 1 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/mlbbth/live
+SUMMARY:BT vs SLX
+URL;VALUE=URI:https://www.youtube.com/mlbbth/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T120000Z
+UID:pandascore-match-1451269@esport-ics
+DTSTART:20260508T120000Z
+DTEND:20260508T141500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 1 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/mlbbth/live
+SUMMARY:FS vs SLX
+URL;VALUE=URI:https://www.youtube.com/mlbbth/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T060000Z
+UID:pandascore-match-1451270@esport-ics
+DTSTART:20260509T060000Z
+DTEND:20260509T081500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 1 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/mlbbth/live
+SUMMARY:VTE vs SLX
+URL;VALUE=URI:https://www.youtube.com/mlbbth/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T100000Z
+UID:pandascore-match-1451276@esport-ics
+DTSTART:20260510T100000Z
+DTEND:20260510T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 1 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/mlbbth/live
+SUMMARY:HE vs SLX
+URL;VALUE=URI:https://www.youtube.com/mlbbth/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T100000Z
+UID:pandascore-match-1451282@esport-ics
+DTSTART:20260516T100000Z
+DTEND:20260516T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 1 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/mlbbth/live
+SUMMARY:BUR vs SLX
+URL;VALUE=URI:https://www.youtube.com/mlbbth/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T100000Z
+UID:pandascore-match-1451285@esport-ics
+DTSTART:20260517T100000Z
+DTEND:20260517T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 1 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/mlbbth/live
+SUMMARY:ACT vs SLX
+URL;VALUE=URI:https://www.youtube.com/mlbbth/live
+END:VEVENT
+END:VCALENDAR

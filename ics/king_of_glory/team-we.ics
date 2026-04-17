@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Spring 2026 - Stage 3 Group A\nWatch: https:/
  /www.youtube.com/watch?v=N99K_EE_OD0
 SUMMARY:WE vs TTG
-URL;VALUE=URI:https://www.youtube.com/watch?v=N99K_EE_OD0
+URL:https://www.youtube.com/watch?v=N99K_EE_OD0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T063000Z
+UID:pandascore-match-1450940@esport-ics
+DTSTART:20260428T063000Z
+DTEND:20260428T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
+ www.youtube.com/@2019KPL/streams
+SUMMARY:Round 1 match 14: WE vs JDG
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 END:VCALENDAR

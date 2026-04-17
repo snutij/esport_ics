@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alibaba PKQ
+SLUG:alibaba-pkq
+BEGIN:VEVENT
+DTSTAMP:20260425T130000Z
+UID:pandascore-match-1450933@esport-ics
+DTSTART:20260425T130000Z
+DTEND:20260425T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
+ www.youtube.com/@2019KPL/streams
+SUMMARY:Round 1 match 7: Alibaba PKQ vs LGD
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
+END:VEVENT
+END:VCALENDAR

@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Spring 2026 - Playoffs\nWatch: https://live.b
  ilibili.com/55
 SUMMARY:Lower bracket round 2 match 2: DYG vs TTG
-URL;VALUE=URI:https://live.bilibili.com/55
+URL:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T040000Z
+UID:pandascore-match-1450927@esport-ics
+DTSTART:20260425T040000Z
+DTEND:20260425T074500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
+ www.youtube.com/@2019KPL/streams
+SUMMARY:Round 1 match 1: KSG vs TTG
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 END:VCALENDAR
