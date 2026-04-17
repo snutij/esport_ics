@@ -421,6 +421,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 5: KSM vs NIC
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T080000Z
+UID:pandascore-match-1451291@esport-ics
+DTSTART:20260420T080000Z
+DTEND:20260420T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group D\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:KSM vs FF
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

@@ -470,4 +470,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:GE vs IMP.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T080000Z
+UID:pandascore-match-1451290@esport-ics
+DTSTART:20260419T080000Z
+DTEND:20260419T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:PRE vs IMP.A
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
