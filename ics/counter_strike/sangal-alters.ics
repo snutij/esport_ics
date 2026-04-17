@@ -267,6 +267,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 47 2026 - Group A\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: SNG vs LPH
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T103000Z
+UID:pandascore-match-1450386@esport-ics
+DTSTART:20260417T103000Z
+DTEND:20260417T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:XI vs SNG
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

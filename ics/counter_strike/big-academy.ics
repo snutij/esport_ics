@@ -299,6 +299,17 @@ SUMMARY:TAZ vs BIG.A
 URL:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260417T080000Z
+UID:pandascore-match-1450385@esport-ics
+DTSTART:20260417T080000Z
+DTEND:20260417T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:AAB vs BIG.A
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260420T180000Z
 UID:pandascore-match-1385739@esport-ics
 DTSTART:20260420T180000Z

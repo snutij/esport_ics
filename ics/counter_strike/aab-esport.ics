@@ -564,6 +564,17 @@ SUMMARY:Grand final: AAB vs Entropy
 URL:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260417T080000Z
+UID:pandascore-match-1450385@esport-ics
+DTSTART:20260417T080000Z
+DTEND:20260417T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:AAB vs BIG.A
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260418T100000Z
 UID:pandascore-match-1448788@esport-ics
 DTSTART:20260418T100000Z

@@ -324,6 +324,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Challengers #1 2026 - Playoffs\nWatch: http
  s://kick.com/cct_cs6
 SUMMARY:Lower bracket round 2 match 3: BST.A vs R2
-URL;VALUE=URI:https://kick.com/cct_cs6
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T230000Z
+UID:pandascore-match-1450344@esport-ics
+DTSTART:20260420T230000Z
+DTEND:20260420T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - April 2026 - Group A
+SUMMARY:BST.A vs Red Feet
 END:VEVENT
 END:VCALENDAR
