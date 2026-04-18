@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 2: PAR vs NIC
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T093000Z
+UID:pandascore-match-1452824@esport-ics
+DTSTART:20260419T093000Z
+DTEND:20260419T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 3: PAR vs AIMC
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
