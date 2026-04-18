@@ -321,6 +321,17 @@ SUMMARY:BIG.A vs R4G
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260421T103000Z
+UID:pandascore-match-1451840@esport-ics
+DTSTART:20260421T103000Z
+DTEND:20260421T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Winners match: BIG.A vs XI
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260427T180000Z
 UID:pandascore-match-1385744@esport-ics
 DTSTART:20260427T180000Z

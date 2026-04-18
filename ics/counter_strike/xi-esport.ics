@@ -375,9 +375,9 @@ DTSTART:20260418T100000Z
 DTEND:20260418T104500Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
- : https://kick.com/challengerchampionship
+ : https://kick.com/challengerchampionship_c
 SUMMARY:INF vs XI
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260418T113000Z
@@ -397,9 +397,9 @@ DTSTART:20260418T143000Z
 DTEND:20260418T151500Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
- : https://kick.com/challengerchampionship
+ : https://kick.com/challengerchampionship_c
 SUMMARY:XI vs zajezdzacze
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260418T173000Z
@@ -408,9 +408,9 @@ DTSTART:20260418T173000Z
 DTEND:20260418T181500Z
 CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group A\nWatch
- : https://kick.com/challengerchampionship
+ : https://kick.com/challengerchampionship_c
 SUMMARY:XI vs ELITEN
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL;VALUE=URI:https://kick.com/challengerchampionship_c
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260418T200000Z
@@ -433,5 +433,16 @@ DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group Stage\nWatch: https://
  www.twitch.tv/dust2tv
 SUMMARY:Round 1: XI vs Eclipse
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T103000Z
+UID:pandascore-match-1451840@esport-ics
+DTSTART:20260421T103000Z
+DTEND:20260421T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Winners match: BIG.A vs XI
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

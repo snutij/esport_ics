@@ -42,7 +42,9 @@ UID:pandascore-match-1422211@esport-ics
 DTSTART:20260418T100000Z
 DTEND:20260418T121500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs
-SUMMARY:Lower bracket semifinal: SHE vs TBD
+DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/rainbow6
+SUMMARY:Lower bracket semifinal: SHE vs DAY
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

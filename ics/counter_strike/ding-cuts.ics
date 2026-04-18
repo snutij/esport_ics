@@ -65,6 +65,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dfrag - Open Series #4 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/dfragtv
 SUMMARY:Upper bracket semifinal 2: DXA vs Ding Cuts
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T043000Z
+UID:pandascore-match-1438966@esport-ics
+DTSTART:20260419T043000Z
+DTEND:20260419T064500Z
+CLASS:PUBLIC
+DESCRIPTION:Dfrag - Open Series #4 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/dfragtv
+SUMMARY:Lower bracket final: Ding Cuts vs Abyssal
 URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR
