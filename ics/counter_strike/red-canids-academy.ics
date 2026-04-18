@@ -148,6 +148,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - March 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/gamersclubcs
 SUMMARY:Grand final: RED.A vs Alzon
-URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T190000Z
+UID:pandascore-match-1451798@esport-ics
+DTSTART:20260420T190000Z
+DTEND:20260420T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - April 2026 - Group A
+SUMMARY:RED.A vs QUIN
 END:VEVENT
 END:VCALENDAR

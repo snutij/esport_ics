@@ -458,6 +458,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Challengers #1 2026 - Playoffs\nWatch: http
  s://kick.com/cct_cs6
 SUMMARY:Lower bracket quarterfinal 2: UNO vs ALKA
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T234500Z
+UID:pandascore-match-1447264@esport-ics
+DTSTART:20260418T234500Z
+DTEND:20260419T020000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Challengers #1 2026 - Playoffs\nWatch: http
+ s://kick.com/cct_cs6
+SUMMARY:Lower bracket semifinal: PCY vs UNO
 URL;VALUE=URI:https://kick.com/cct_cs6
 END:VEVENT
 END:VCALENDAR
