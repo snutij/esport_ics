@@ -450,6 +450,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
  ://kick.com/cct_cs3
 SUMMARY:Upper bracket round 1 match 4: HERO.A vs TLR
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T110000Z
+UID:pandascore-match-1449729@esport-ics
+DTSTART:20260420T110000Z
+DTEND:20260420T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
+ ://kick.com/cct_cs2
+SUMMARY:Lower bracket round 1 match 2: HERO.A vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
