@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS NA - Paris Major: Open 6 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/rocketleague
 SUMMARY:Upper bracket quarterfinal 1: SSG vs VP
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T180000Z
+UID:pandascore-match-1447304@esport-ics
+DTSTART:20260419T180000Z
+DTEND:20260419T231500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS NA - Paris Major: Open 6 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/rocketleague
+SUMMARY:Lower bracket quarterfinal 1: DIG vs VP
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

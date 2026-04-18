@@ -102,6 +102,83 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - South America Closed Qualifier season 29 2026 - P
  layoffs\nWatch: https://www.twitch.tv/esl_dota2sange
 SUMMARY:Lower bracket round 2 match 2: BTC vs EB
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2sange
+URL:https://www.twitch.tv/esl_dota2sange
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T150000Z
+UID:pandascore-match-1452724@esport-ics
+DTSTART:20260419T150000Z
+DTEND:20260419T171500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:CB vs BTC
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T180000Z
+UID:pandascore-match-1452728@esport-ics
+DTSTART:20260419T180000Z
+DTEND:20260419T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:BTC vs PR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T150000Z
+UID:pandascore-match-1452731@esport-ics
+DTSTART:20260420T150000Z
+DTEND:20260420T171500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:EB vs BTC
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T180000Z
+UID:pandascore-match-1452733@esport-ics
+DTSTART:20260420T180000Z
+DTEND:20260420T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:L1GA vs BTC
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T180000Z
+UID:pandascore-match-1452761@esport-ics
+DTSTART:20260421T180000Z
+DTEND:20260421T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:BTC vs AVE
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T180000Z
+UID:pandascore-match-1452766@esport-ics
+DTSTART:20260422T180000Z
+DTEND:20260422T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:BTC vs SAR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T120000Z
+UID:pandascore-match-1452771@esport-ics
+DTSTART:20260423T120000Z
+DTEND:20260423T141500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Z10 vs BTC
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

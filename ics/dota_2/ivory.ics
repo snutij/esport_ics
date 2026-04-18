@@ -366,6 +366,83 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:IVO vs CR
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T090000Z
+UID:pandascore-match-1452719@esport-ics
+DTSTART:20260419T090000Z
+DTEND:20260419T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:MODUS vs IVO
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T120000Z
+UID:pandascore-match-1452721@esport-ics
+DTSTART:20260419T120000Z
+DTEND:20260419T141500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:1WIN vs IVO
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T090000Z
+UID:pandascore-match-1452736@esport-ics
+DTSTART:20260420T090000Z
+DTEND:20260420T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:LYNX vs IVO
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T120000Z
+UID:pandascore-match-1452740@esport-ics
+DTSTART:20260420T120000Z
+DTEND:20260420T141500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Roar vs IVO
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T090000Z
+UID:pandascore-match-1452742@esport-ics
+DTSTART:20260421T090000Z
+DTEND:20260421T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:IVO vs RE
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T090000Z
+UID:pandascore-match-1452747@esport-ics
+DTSTART:20260422T090000Z
+DTEND:20260422T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:IVO vs Nemiga
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T090000Z
+UID:pandascore-match-1452753@esport-ics
+DTSTART:20260423T090000Z
+DTEND:20260423T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:NGX vs IVO
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

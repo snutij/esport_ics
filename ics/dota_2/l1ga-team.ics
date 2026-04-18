@@ -408,6 +408,83 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Eastern Europe Closed Qualifier season 29 2026 - 
  Playoffs\nWatch: https://www.twitch.tv/esl_dota2earth
 SUMMARY:Grand final: L1GA vs TBD
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2earth
+URL:https://www.twitch.tv/esl_dota2earth
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T180000Z
+UID:pandascore-match-1452727@esport-ics
+DTSTART:20260419T180000Z
+DTEND:20260419T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:L1GA vs EB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T180000Z
+UID:pandascore-match-1452733@esport-ics
+DTSTART:20260420T180000Z
+DTEND:20260420T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:L1GA vs BTC
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T150000Z
+UID:pandascore-match-1452757@esport-ics
+DTSTART:20260421T150000Z
+DTEND:20260421T171500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Z10 vs L1GA
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T180000Z
+UID:pandascore-match-1452760@esport-ics
+DTSTART:20260421T180000Z
+DTEND:20260421T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:SAR vs L1GA
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T150000Z
+UID:pandascore-match-1452763@esport-ics
+DTSTART:20260422T150000Z
+DTEND:20260422T171500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PR vs L1GA
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T180000Z
+UID:pandascore-match-1452767@esport-ics
+DTSTART:20260422T180000Z
+DTEND:20260422T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:CB vs L1GA
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T120000Z
+UID:pandascore-match-1452770@esport-ics
+DTSTART:20260423T120000Z
+DTEND:20260423T141500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:AVE vs L1GA
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

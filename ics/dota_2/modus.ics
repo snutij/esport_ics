@@ -113,6 +113,83 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 36 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Lower bracket quarterfinal 1: IC vs MODUS
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T090000Z
+UID:pandascore-match-1452719@esport-ics
+DTSTART:20260419T090000Z
+DTEND:20260419T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:MODUS vs IVO
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T090000Z
+UID:pandascore-match-1452737@esport-ics
+DTSTART:20260420T090000Z
+DTEND:20260420T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:MODUS vs Roar
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T090000Z
+UID:pandascore-match-1452743@esport-ics
+DTSTART:20260421T090000Z
+DTEND:20260421T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:MODUS vs LYNX
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T120000Z
+UID:pandascore-match-1452745@esport-ics
+DTSTART:20260421T120000Z
+DTEND:20260421T141500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:1WIN vs MODUS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T090000Z
+UID:pandascore-match-1452749@esport-ics
+DTSTART:20260422T090000Z
+DTEND:20260422T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:RE vs MODUS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T120000Z
+UID:pandascore-match-1452750@esport-ics
+DTSTART:20260422T120000Z
+DTEND:20260422T141500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:NGX vs MODUS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T090000Z
+UID:pandascore-match-1452755@esport-ics
+DTSTART:20260423T090000Z
+DTEND:20260423T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:MODUS vs Nemiga
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

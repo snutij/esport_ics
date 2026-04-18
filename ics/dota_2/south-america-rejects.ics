@@ -47,6 +47,83 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 8 2026 - Group Stage\nWatch: https://www
  .twitch.tv/pgl_dota2en2
 SUMMARY:Round 1: AUR vs SAR
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2en2
+URL:https://www.twitch.tv/pgl_dota2en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T180000Z
+UID:pandascore-match-1452726@esport-ics
+DTSTART:20260419T180000Z
+DTEND:20260419T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:SAR vs Z10
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T180000Z
+UID:pandascore-match-1452734@esport-ics
+DTSTART:20260420T180000Z
+DTEND:20260420T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:SAR vs EB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T150000Z
+UID:pandascore-match-1452758@esport-ics
+DTSTART:20260421T150000Z
+DTEND:20260421T171500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PR vs SAR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T180000Z
+UID:pandascore-match-1452760@esport-ics
+DTSTART:20260421T180000Z
+DTEND:20260421T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:SAR vs L1GA
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T150000Z
+UID:pandascore-match-1452765@esport-ics
+DTSTART:20260422T150000Z
+DTEND:20260422T171500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:SAR vs AVE
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T180000Z
+UID:pandascore-match-1452766@esport-ics
+DTSTART:20260422T180000Z
+DTEND:20260422T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:BTC vs SAR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T120000Z
+UID:pandascore-match-1452769@esport-ics
+DTSTART:20260423T120000Z
+DTEND:20260423T141500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:SAR vs CB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR
