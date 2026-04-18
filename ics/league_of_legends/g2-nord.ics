@@ -241,6 +241,50 @@ CLASS:PUBLIC
 DESCRIPTION:Prime League 1st Division - Spring 2026 - Regular Season\nWatch
  : https://www.twitch.tv/primeleague
 SUMMARY:G2N vs SGE
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T150000Z
+UID:pandascore-match-1452792@esport-ics
+DTSTART:20260422T150000Z
+DTEND:20260422T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:ES vs G2N
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T150000Z
+UID:pandascore-match-1452795@esport-ics
+DTSTART:20260427T150000Z
+DTEND:20260427T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:G2N vs EWI
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T150000Z
+UID:pandascore-match-1452804@esport-ics
+DTSTART:20260506T150000Z
+DTEND:20260506T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:VFB vs G2N
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T150000Z
+UID:pandascore-match-1452808@esport-ics
+DTSTART:20260511T150000Z
+DTEND:20260511T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Spring 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:G2N vs SGE
 URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 END:VCALENDAR

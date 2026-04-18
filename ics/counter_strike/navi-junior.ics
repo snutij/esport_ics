@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 4 2026 - Group B\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:LPH vs NAVI.J
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T103000Z
+UID:pandascore-match-1452816@esport-ics
+DTSTART:20260422T103000Z
+DTEND:20260422T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group B\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Winners match: NAVI.J vs BOJONG
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
