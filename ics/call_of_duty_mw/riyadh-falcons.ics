@@ -171,6 +171,17 @@ SUMMARY:RIYF vs FAZE.V
 URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260424T190000Z
+UID:pandascore-match-1451852@esport-ics
+DTSTART:20260424T190000Z
+DTEND:20260424T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 3 Minor 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/CallofDuty
+SUMMARY:Round 1 match 3: RIYF vs VAN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260502T220000Z
 UID:pandascore-match-1428614@esport-ics
 DTSTART:20260502T220000Z

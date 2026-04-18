@@ -181,4 +181,15 @@ DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Group B\nWatch
 SUMMARY:Z7 vs Dua Lipa
 URL;VALUE=URI:https://kick.com/challengerchampionship_d
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T103000Z
+UID:pandascore-match-1451861@esport-ics
+DTSTART:20260419T103000Z
+DTEND:20260419T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Z7 vs SASHI.A
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

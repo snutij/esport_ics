@@ -193,6 +193,17 @@ SUMMARY:PAR vs MIN
 URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260425T190000Z
+UID:pandascore-match-1451857@esport-ics
+DTSTART:20260425T190000Z
+DTEND:20260425T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 3 Minor 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/CallofDuty
+SUMMARY:Quarterfinal 4: PAR vs TBD
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260503T220000Z
 UID:pandascore-match-1428618@esport-ics
 DTSTART:20260503T220000Z

@@ -182,6 +182,17 @@ SUMMARY:TEX vs C9.NY
 URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260425T220000Z
+UID:pandascore-match-1451854@esport-ics
+DTSTART:20260425T220000Z
+DTEND:20260426T014500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 3 Minor 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/CallofDuty
+SUMMARY:Quarterfinal 1: TEX vs TBD
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260501T190000Z
 UID:pandascore-match-1428609@esport-ics
 DTSTART:20260501T190000Z
