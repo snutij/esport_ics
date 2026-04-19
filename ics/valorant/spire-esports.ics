@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Pulse Stage Middle East 2026 - Group Sta
  ge\nWatch: https://www.twitch.tv/valorantesports_ar
 SUMMARY:Round 2: STS vs SPR
+URL:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T183000Z
+UID:pandascore-match-1453439@esport-ics
+DTSTART:20260425T183000Z
+DTEND:20260425T204500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Pulse Stage Middle East 2026 - Group Sta
+ ge\nWatch: https://www.twitch.tv/valorantesports_ar
+SUMMARY:Round 3: SPR vs FRAG
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR

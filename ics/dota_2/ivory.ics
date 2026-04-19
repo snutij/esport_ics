@@ -391,6 +391,17 @@ SUMMARY:1WIN vs IVO
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260420T030000Z
+UID:pandascore-match-1453437@esport-ics
+DTSTART:20260420T030000Z
+DTEND:20260420T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Upper bracket semifinal 2: IVO vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260420T090000Z
 UID:pandascore-match-1452736@esport-ics
 DTSTART:20260420T090000Z

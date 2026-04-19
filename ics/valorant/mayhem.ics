@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Pulse Stage Middle East 2026 - Group Sta
  ge\nWatch: https://www.twitch.tv/valorantesports_ar
 SUMMARY:MYM vs HWL
+URL:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T160000Z
+UID:pandascore-match-1453438@esport-ics
+DTSTART:20260425T160000Z
+DTEND:20260425T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Pulse Stage Middle East 2026 - Group Sta
+ ge\nWatch: https://www.twitch.tv/valorantesports_ar
+SUMMARY:Round 3: VIA vs MYM
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR
