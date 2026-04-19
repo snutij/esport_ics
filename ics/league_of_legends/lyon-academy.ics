@@ -72,6 +72,17 @@ SUMMARY:G3V vs LYN.A
 URL:https://www.twitch.tv/lolacelatam
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260511T230000Z
+UID:pandascore-match-1384479@esport-ics
+DTSTART:20260511T230000Z
+DTEND:20260512T024500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ acelatam
+SUMMARY:Lower bracket quarterfinal 2: TBD vs LYN.A
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260512T200000Z
 UID:pandascore-match-1384381@esport-ics
 DTSTART:20260512T200000Z
@@ -80,6 +91,6 @@ CLASS:PUBLIC
 DESCRIPTION:LRS - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  acelatam
 SUMMARY:Lower bracket quarterfinal 2: TBD vs LYN.A
-URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+URL:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR
