@@ -435,6 +435,17 @@ SUMMARY:Upper bracket quarterfinal 3: XI vs RBLS
 URL:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260419T180000Z
+UID:pandascore-match-1448829@esport-ics
+DTSTART:20260419T180000Z
+DTEND:20260419T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 5 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Lower bracket quarterfinal 2: XI vs TBD
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260420T180000Z
 UID:pandascore-match-1448777@esport-ics
 DTSTART:20260420T180000Z
