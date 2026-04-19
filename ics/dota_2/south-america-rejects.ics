@@ -72,6 +72,17 @@ SUMMARY:SAR vs Z10
 URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260420T100000Z
+UID:pandascore-match-1449783@esport-ics
+DTSTART:20260420T100000Z
+DTEND:20260420T121500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 8 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
+SUMMARY:Round 3: Xtreme vs SAR
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260420T180000Z
 UID:pandascore-match-1452734@esport-ics
 DTSTART:20260420T180000Z
