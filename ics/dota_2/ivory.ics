@@ -380,15 +380,15 @@ SUMMARY:MODUS vs IVO
 URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260419T120000Z
+DTSTAMP:20260419T131500Z
 UID:pandascore-match-1452721@esport-ics
-DTSTART:20260419T120000Z
-DTEND:20260419T141500Z
+DTSTART:20260419T131500Z
+DTEND:20260419T153000Z
 CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
- //www.twitch.tv/esl_dota2
+ //www.twitch.tv/esl_dota2ember
 SUMMARY:1WIN vs IVO
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2ember
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260420T030000Z

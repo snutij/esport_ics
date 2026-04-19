@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Korea Stage 1 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/ow_esports_jp
 SUMMARY:T1 vs ZAN
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T080000Z
+UID:pandascore-match-1453478@esport-ics
+DTSTART:20260424T080000Z
+DTEND:20260424T101500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 1 2026 - Last Chance Qualifier\nWatch: https:
+ //www.twitch.tv/ow_esports_jp
+SUMMARY:Upper bracket final: T1 vs ZAN
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

@@ -261,8 +261,10 @@ UID:pandascore-match-1453385@esport-ics
 DTSTART:20260419T130000Z
 DTEND:20260419T134500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/pory_tv
 SUMMARY:OBOYS vs GE
+URL;VALUE=URI:https://www.twitch.tv/pory_tv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260420T160000Z
