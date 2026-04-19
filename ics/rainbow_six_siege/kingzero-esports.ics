@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Kickoff 2026 - Playoffs\nWatch: https://www.twitch.
  tv/CappingTV
 SUMMARY:Upper bracket quarterfinal 3: KZ vs TYLOO
+URL:https://www.twitch.tv/CappingTV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260419T130000Z
+UID:pandascore-match-1446177@esport-ics
+DTSTART:20260419T130000Z
+DTEND:20260419T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Kickoff 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/CappingTV
+SUMMARY:Upper bracket semifinal 2: KZ vs TBD
 URL;VALUE=URI:https://www.twitch.tv/CappingTV
 END:VEVENT
 END:VCALENDAR
