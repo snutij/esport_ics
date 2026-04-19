@@ -91,6 +91,39 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Korea Stage 1 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/ow_esports_jp
 SUMMARY:FAL vs CR
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T110000Z
+UID:pandascore-match-1453473@esport-ics
+DTSTART:20260424T110000Z
+DTEND:20260424T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 1 2026 - Playoffs Seeding Decider Matches\nWa
+ tch: https://www.twitch.tv/ow_esports_jp
+SUMMARY:CR vs FAL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T090000Z
+UID:pandascore-match-1453475@esport-ics
+DTSTART:20260425T090000Z
+DTEND:20260425T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 1 2026 - Playoffs Seeding Decider Matches\nWa
+ tch: https://www.twitch.tv/ow_esports_jp
+SUMMARY:CR vs OSG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T073000Z
+UID:pandascore-match-1453476@esport-ics
+DTSTART:20260426T073000Z
+DTEND:20260426T094500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 1 2026 - Playoffs Seeding Decider Matches\nWa
+ tch: https://www.twitch.tv/ow_esports_jp
+SUMMARY:ZETA vs CR
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR
