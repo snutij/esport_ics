@@ -456,4 +456,15 @@ DESCRIPTION:European Pro League - Regular season 4 2026 - Group A\nWatch: h
 SUMMARY:Winners match: BIG.A vs XI
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T103000Z
+UID:pandascore-match-1453432@esport-ics
+DTSTART:20260422T103000Z
+DTEND:20260422T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 48 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:RT vs XI
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
