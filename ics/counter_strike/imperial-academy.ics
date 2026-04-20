@@ -521,4 +521,15 @@ DESCRIPTION:European Pro League - Regular season 4 2026 - Group C\nWatch: h
 SUMMARY:Winners match: IMP.A vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T103000Z
+UID:pandascore-match-1455262@esport-ics
+DTSTART:20260424T103000Z
+DTEND:20260424T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 48 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Elimination match: IMP.A vs BIG.A
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
