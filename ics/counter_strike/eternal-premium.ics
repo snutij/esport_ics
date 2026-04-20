@@ -433,6 +433,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 3: HEC vs EP
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260420T163000Z
+UID:pandascore-match-1454772@esport-ics
+DTSTART:20260420T163000Z
+DTEND:20260420T171500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:EP vs G2.A
 END:VEVENT
 END:VCALENDAR
