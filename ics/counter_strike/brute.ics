@@ -438,6 +438,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
  ://kick.com/cct_cs2
 SUMMARY:Upper bracket quarterfinal 3: playersclub vs BRUTE
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T110000Z
+UID:pandascore-match-1449737@esport-ics
+DTSTART:20260422T110000Z
+DTEND:20260422T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
+ ://kick.com/cct_cs2
+SUMMARY:Lower bracket round 2 match 2: AIMC vs BRUTE
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
