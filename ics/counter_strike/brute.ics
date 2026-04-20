@@ -435,7 +435,9 @@ UID:pandascore-match-1449734@esport-ics
 DTSTART:20260420T134500Z
 DTEND:20260420T160000Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs
+DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
+ ://kick.com/cct_cs2
 SUMMARY:Upper bracket quarterfinal 3: playersclub vs BRUTE
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
