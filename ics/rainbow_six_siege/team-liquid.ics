@@ -69,6 +69,15 @@ CLASS:PUBLIC
 DESCRIPTION:South America League - Kickoff 2026 - Playoffs\nWatch: https://
  www.twitch.tv/rainbow6
 SUMMARY:Lower bracket semifinal 2: Liquid vs FaZe
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T170000Z
+UID:pandascore-match-1454255@esport-ics
+DTSTART:20260421T170000Z
+DTEND:20260421T191500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Kickoff 2026 - Decider Brackets
+SUMMARY:5th place decider: Fluxo W7M vs Liquid
 END:VEVENT
 END:VCALENDAR
