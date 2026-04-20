@@ -219,6 +219,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:CD vs CARST
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T060000Z
+UID:pandascore-match-1454835@esport-ics
+DTSTART:20260421T060000Z
+DTEND:20260421T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Lower bracket quarterfinal 1: Satan vs CD
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

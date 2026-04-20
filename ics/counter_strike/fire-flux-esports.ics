@@ -197,4 +197,15 @@ DESCRIPTION:United21 - Season 48 2026 - Group C\nWatch: https://kick.com/un
 SUMMARY:FF vs ALGO
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T080000Z
+UID:pandascore-match-1452821@esport-ics
+DTSTART:20260424T080000Z
+DTEND:20260424T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group D\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Elimination match: FF vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

@@ -410,7 +410,7 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
  //www.twitch.tv/esl_dota2ember
 SUMMARY:LYNX vs IVO
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2ember
+URL:https://www.twitch.tv/esl_dota2ember
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260420T120000Z
@@ -422,6 +422,17 @@ DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
  //www.twitch.tv/esl_dota2storm
 SUMMARY:Roar vs IVO
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T030000Z
+UID:pandascore-match-1454836@esport-ics
+DTSTART:20260421T030000Z
+DTEND:20260421T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Lower bracket quarterfinal 2: IVO vs WinteR
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260421T090000Z
