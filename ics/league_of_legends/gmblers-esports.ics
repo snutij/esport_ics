@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:LIT - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/LITofficial
 SUMMARY:GMB vs CG
+URL:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T160000Z
+UID:pandascore-match-1455219@esport-ics
+DTSTART:20260423T160000Z
+DTEND:20260423T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/LITo
+ fficial
+SUMMARY:Upper bracket semifinal 1: HMBLE vs GMB
 URL;VALUE=URI:https://www.twitch.tv/LITofficial
 END:VEVENT
 END:VCALENDAR
