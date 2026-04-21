@@ -490,4 +490,14 @@ DESCRIPTION:BetBoom RUSH B! - Summit season 3 2026 - Playoffs\nWatch: https
 SUMMARY:Upper bracket quartefinal 4: Keyd vs CRASH
 URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T210000Z
+UID:pandascore-match-1456987@esport-ics
+DTSTART:20260426T210000Z
+DTEND:20260426T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #4 season 51 2026 - P
+ layoffs
+SUMMARY:Upper bracket round 1 match 7: GLS vs Keyd
+END:VEVENT
 END:VCALENDAR

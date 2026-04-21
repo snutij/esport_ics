@@ -287,6 +287,15 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 4: 1WIN vs G1
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T170000Z
+UID:pandascore-match-1456703@esport-ics
+DTSTART:20260423T170000Z
+DTEND:20260423T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 10: G1 vs TBD
 END:VEVENT
 END:VCALENDAR

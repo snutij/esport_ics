@@ -405,6 +405,16 @@ CLASS:PUBLIC
 DESCRIPTION:FiReCONTER - Season 3 2026 - Playoffs\nWatch: https://www.youtu
  be.com/watch?v=RawR4hBbaiQ
 SUMMARY:Grand final: ISG vs Despe
-URL;VALUE=URI:https://www.youtube.com/watch?v=RawR4hBbaiQ
+URL:https://www.youtube.com/watch?v=RawR4hBbaiQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T210000Z
+UID:pandascore-match-1456986@esport-ics
+DTSTART:20260426T210000Z
+DTEND:20260426T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #4 season 51 2026 - P
+ layoffs
+SUMMARY:Upper bracket round 1 match 6: ISG vs BHE
 END:VEVENT
 END:VCALENDAR

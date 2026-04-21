@@ -558,6 +558,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #20 season 3 2026 - Playoffs\nWatch: https:
  //kick.com/cct_cs2
 SUMMARY:Grand final: BIG vs NEM
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T130000Z
+UID:pandascore-match-1456639@esport-ics
+DTSTART:20260423T130000Z
+DTEND:20260423T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 1: NEM vs TBD
 END:VEVENT
 END:VCALENDAR

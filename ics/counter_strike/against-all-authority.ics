@@ -124,6 +124,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs5
 SUMMARY:Lower bracket round 1 match 2: aAa vs MJX
-URL;VALUE=URI:https://kick.com/cct_cs5
+URL:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T170000Z
+UID:pandascore-match-1456734@esport-ics
+DTSTART:20260423T170000Z
+DTEND:20260423T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 15: aAa vs TBD
 END:VEVENT
 END:VCALENDAR
