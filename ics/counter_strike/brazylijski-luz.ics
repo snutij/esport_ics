@@ -192,6 +192,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/piaskees
 SUMMARY:Lower bracket round 2 match 6: BL vs DNT
-URL;VALUE=URI:https://www.twitch.tv/piaskees
+URL:https://www.twitch.tv/piaskees
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T170000Z
+UID:pandascore-match-1456415@esport-ics
+DTSTART:20260422T170000Z
+DTEND:20260422T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 15: BL vs Just Players
 END:VEVENT
 END:VCALENDAR

@@ -445,4 +445,13 @@ DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
 SUMMARY:Lower bracket round 2 match 2: AIMC vs BRUTE
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T170000Z
+UID:pandascore-match-1456414@esport-ics
+DTSTART:20260422T170000Z
+DTEND:20260422T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 14: AIMC vs YNG
+END:VEVENT
 END:VCALENDAR

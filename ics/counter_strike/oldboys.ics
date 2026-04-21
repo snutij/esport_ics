@@ -286,6 +286,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/byalli
 SUMMARY:OLDBOYS- vs OBOYS
-URL;VALUE=URI:https://www.twitch.tv/byalli
+URL:https://www.twitch.tv/byalli
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T170000Z
+UID:pandascore-match-1456411@esport-ics
+DTSTART:20260422T170000Z
+DTEND:20260422T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 11: OLDBOYS- vs MSC
 END:VEVENT
 END:VCALENDAR

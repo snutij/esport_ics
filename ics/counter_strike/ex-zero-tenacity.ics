@@ -679,6 +679,15 @@ CLASS:PUBLIC
 DESCRIPTION:HLC Belgrade Pro - 2026 - Playoffs\nWatch: https://kick.com/rlg
  cs
 SUMMARY:Quarterfinal 3: BIG vs ex-Zero Tenacity
-URL;VALUE=URI:https://kick.com/rlgcs
+URL:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T130000Z
+UID:pandascore-match-1456402@esport-ics
+DTSTART:20260422T130000Z
+DTEND:20260422T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 2: ex-Zero Tenacity vs EJ
 END:VEVENT
 END:VCALENDAR

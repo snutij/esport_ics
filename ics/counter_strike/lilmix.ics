@@ -336,4 +336,13 @@ DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
 SUMMARY:Upper bracket quarterfinal 1: DNT vs LILMIX
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T170000Z
+UID:pandascore-match-1456409@esport-ics
+DTSTART:20260422T170000Z
+DTEND:20260422T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 9: zajezdzacze vs LILMIX
+END:VEVENT
 END:VCALENDAR

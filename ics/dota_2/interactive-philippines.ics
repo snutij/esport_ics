@@ -300,6 +300,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Playoffs\nWa
  tch: https://kick.com/epldota_en1
 SUMMARY:Upper bracket semifinal 1: IAC vs Satan
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T060000Z
+UID:pandascore-match-1456329@esport-ics
+DTSTART:20260422T060000Z
+DTEND:20260422T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Upper bracket final: IAC vs CARST
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

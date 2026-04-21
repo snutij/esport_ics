@@ -405,6 +405,15 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancsc
 SUMMARY:Lower bracket round 1 match 2: ICE vs BMB
-URL;VALUE=URI:https://kick.com/draculancsc
+URL:https://kick.com/draculancsc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T130000Z
+UID:pandascore-match-1456403@esport-ics
+DTSTART:20260422T130000Z
+DTEND:20260422T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 3: Atreides vs BMB
 END:VEVENT
 END:VCALENDAR

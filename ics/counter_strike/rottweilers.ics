@@ -180,6 +180,15 @@ CLASS:PUBLIC
 DESCRIPTION:LORGAR RANKINGS - Closed Qualifier season 1 2026 - Play-In\nWat
  ch: https://kick.com/starladder
 SUMMARY:Lower bracket quarterfinal 2: IC.A vs ROTTW
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T130000Z
+UID:pandascore-match-1456406@esport-ics
+DTSTART:20260422T130000Z
+DTEND:20260422T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 6: RE vs ROTTW
 END:VEVENT
 END:VCALENDAR

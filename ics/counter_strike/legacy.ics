@@ -221,6 +221,17 @@ DTEND:20260414T224500Z
 CLASS:PUBLIC
 DESCRIPTION:IEM - Rio 2026 - Group B\nWatch: https://www.twitch.tv/ESLCSb
 SUMMARY:Lower bracket quarterfinal 2: LGC vs HOTU
-URL;VALUE=URI:https://www.twitch.tv/ESLCSb
+URL:https://www.twitch.tv/ESLCSb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T220000Z
+UID:pandascore-match-1456317@esport-ics
+DTSTART:20260422T220000Z
+DTEND:20260423T001500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom RUSH B! - Summit season 3 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/btsbrasilfps
+SUMMARY:Upper bracket quartefinal 3: LGC vs Alzon
+URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
 END:VEVENT
 END:VCALENDAR

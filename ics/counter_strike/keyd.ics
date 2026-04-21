@@ -477,6 +477,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 2 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/dust2br
 SUMMARY:Grand final: Keyd vs FDB
-URL;VALUE=URI:https://www.twitch.tv/dust2br
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T010000Z
+UID:pandascore-match-1456318@esport-ics
+DTSTART:20260423T010000Z
+DTEND:20260423T031500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom RUSH B! - Summit season 3 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/btsbrasilfps
+SUMMARY:Upper bracket quartefinal 4: Keyd vs CRASH
+URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
 END:VEVENT
 END:VCALENDAR

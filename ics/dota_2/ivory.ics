@@ -446,6 +446,17 @@ SUMMARY:IVO vs RE
 URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260422T030000Z
+UID:pandascore-match-1456330@esport-ics
+DTSTART:20260422T030000Z
+DTEND:20260422T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Lower bracket semifinal: Satan vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260422T090000Z
 UID:pandascore-match-1452747@esport-ics
 DTSTART:20260422T090000Z
