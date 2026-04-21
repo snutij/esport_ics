@@ -424,6 +424,17 @@ SUMMARY:Lower bracket round 1 match 2: HERO.A vs AIMC
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260421T123000Z
+UID:pandascore-match-1456252@esport-ics
+DTSTART:20260421T123000Z
+DTEND:20260421T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 4: AIMC vs CSGOPOSITIVE
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260422T110000Z
 UID:pandascore-match-1449737@esport-ics
 DTSTART:20260422T110000Z

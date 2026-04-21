@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 3: DRAMA vs WING
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T183000Z
+UID:pandascore-match-1456254@esport-ics
+DTSTART:20260421T183000Z
+DTEND:20260421T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 4: WING vs NIC
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
