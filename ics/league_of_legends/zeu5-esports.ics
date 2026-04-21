@@ -80,7 +80,7 @@ CLASS:PUBLIC
 DESCRIPTION:LRN - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  acelatam
 SUMMARY:Upper bracket semifinal 1: FUE vs Z5
-URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+URL:https://www.twitch.tv/lolacelatam
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260421T200000Z
@@ -92,5 +92,16 @@ DESCRIPTION:LRS - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  acelatam
 SUMMARY:Upper bracket semifinal 1: FUE vs Z5
 URL:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T230000Z
+UID:pandascore-match-1384478@esport-ics
+DTSTART:20260504T230000Z
+DTEND:20260505T024500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ acelatam
+SUMMARY:Lower bracket quarterfinal 1: Z5 vs PLS
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR
