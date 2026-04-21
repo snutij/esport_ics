@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV Team Liquid Map Contest - Season 16 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/wardiii
 SUMMARY:Upper bracket quarterfinal 2: SHIN vs Cure
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T120000Z
+UID:pandascore-match-1456260@esport-ics
+DTSTART:20260423T120000Z
+DTEND:20260423T154500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV Team Liquid Map Contest - Season 16 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/wardiii
+SUMMARY:Lowe bracket round 1 match 2: Cure vs Clem
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR
