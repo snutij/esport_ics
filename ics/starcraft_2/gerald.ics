@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/wardiii
 SUMMARY:Lower bracket round 2 match 2: Solar vs Gerald
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T110000Z
+UID:pandascore-match-1456259@esport-ics
+DTSTART:20260423T110000Z
+DTEND:20260423T144500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV Team Liquid Map Contest - Season 16 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/wardiii
+SUMMARY:Lowe bracket round 1 match 1: TBD vs Gerald
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

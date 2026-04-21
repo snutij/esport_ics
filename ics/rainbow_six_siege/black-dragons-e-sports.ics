@@ -66,7 +66,9 @@ UID:pandascore-match-1454254@esport-ics
 DTSTART:20260421T170000Z
 DTEND:20260421T191500Z
 CLASS:PUBLIC
-DESCRIPTION:South America League - Kickoff 2026 - Decider Brackets
+DESCRIPTION:South America League - Kickoff 2026 - Decider Brackets\nWatch: 
+ https://www.twitch.tv/rainbow6
 SUMMARY:7th place decider: INTZ vs BD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

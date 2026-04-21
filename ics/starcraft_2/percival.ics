@@ -58,7 +58,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Group C\nWatch: https://ww
  w.twitch.tv/wardiii
 SUMMARY:Percival vs herO
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260224T132000Z
@@ -69,7 +69,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Group C\nWatch: https://ww
  w.twitch.tv/wardiii
 SUMMARY:Gerald vs Percival
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260224T144000Z
@@ -81,5 +81,16 @@ DESCRIPTION:WardiTV - Championship Winter 2026 - Group C\nWatch: https://ww
  w.twitch.tv/wardiii
 SUMMARY:Shameless vs Percival
 URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260421T140000Z
+UID:pandascore-match-1456257@esport-ics
+DTSTART:20260421T140000Z
+DTEND:20260421T174500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV Team Liquid Map Contest - Season 16 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/wardiii
+SUMMARY:Upper bracket quarterfinal 3: Solar vs Percival
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR
