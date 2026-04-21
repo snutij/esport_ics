@@ -154,4 +154,14 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #3 2026 - Playoffs
 SUMMARY:Lower bracket quarterfinal 1: RSTR vs Skele
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T090000Z
+UID:pandascore-match-1457344@esport-ics
+DTSTART:20260426T090000Z
+DTEND:20260426T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #4 season 51 2026 - Playoff
+ s
+SUMMARY:Upper bracket round 1 match 2: TW vs Skele
+END:VEVENT
 END:VCALENDAR
