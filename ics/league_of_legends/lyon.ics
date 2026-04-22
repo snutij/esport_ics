@@ -154,6 +154,17 @@ SUMMARY:Lower bracket quarterfinal 2: LY vs DSG
 URL:https://www.twitch.tv/ewclol2026
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260423T210000Z
+UID:pandascore-match-1446609@esport-ics
+DTSTART:20260423T210000Z
+DTEND:20260423T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - North America Qualifier 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/ewclol2026
+SUMMARY:Lower bracket semifinal: TL vs LY
+URL;VALUE=URI:https://www.twitch.tv/ewclol2026
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260426T200000Z
 UID:pandascore-match-1402372@esport-ics
 DTSTART:20260426T200000Z
