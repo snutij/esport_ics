@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:Europe MENA League - Kickoff 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/rainbow6
 SUMMARY:Lower bracket semifinal 2: Shifters vs TM
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T140000Z
+UID:pandascore-match-1458527@esport-ics
+DTSTART:20260422T140000Z
+DTEND:20260422T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Kickoff 2026 - Decider Brackets\nWatch: ht
+ tps://www.twitch.tv/rainbow6
+SUMMARY:5th Place Decider: Secret vs Shifters
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

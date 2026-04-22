@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:Europe MENA League - Kickoff 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/rainbow6
 SUMMARY:Lower bracket quarterfinal 2: Shifters vs RBLS
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T170000Z
+UID:pandascore-match-1458526@esport-ics
+DTSTART:20260423T170000Z
+DTEND:20260423T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Kickoff 2026 - Decider Brackets\nWatch: ht
+ tps://www.twitch.tv/rainbow6
+SUMMARY:7th Place Decider: RBLS vs FNC
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

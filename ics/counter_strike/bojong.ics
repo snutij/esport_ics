@@ -154,6 +154,17 @@ SUMMARY:Winners match: NAVI.J vs BOJONG
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260426T103000Z
+UID:pandascore-match-1452817@esport-ics
+DTSTART:20260426T103000Z
+DTEND:20260426T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group B\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: LPH vs BOJONG
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260429T150000Z
 UID:pandascore-match-1454774@esport-ics
 DTSTART:20260429T150000Z

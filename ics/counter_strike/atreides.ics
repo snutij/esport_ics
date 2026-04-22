@@ -202,4 +202,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 3: Atreides vs BMB
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T110000Z
+UID:pandascore-match-1449740@esport-ics
+DTSTART:20260423T110000Z
+DTEND:20260423T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
+ ://kick.com/cct_cs2
+SUMMARY:Lower bracket round 3 match 1: Atreides vs BRUTE
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

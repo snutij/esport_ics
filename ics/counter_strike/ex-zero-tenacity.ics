@@ -690,4 +690,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 2: ex-Zero Tenacity vs EJ
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T130000Z
+UID:pandascore-match-1456640@esport-ics
+DTSTART:20260423T130000Z
+DTEND:20260423T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 2: TLR vs ex-Zero Tenacity
+END:VEVENT
 END:VCALENDAR

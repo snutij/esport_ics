@@ -69,7 +69,7 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Spain: Rising Phase 1 Stage 3 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/itsme_officialttv
 SUMMARY:Lower bracket round 1 match 2: NOVO vs HGE
-URL;VALUE=URI:https://www.twitch.tv/itsme_officialttv
+URL:https://www.twitch.tv/itsme_officialttv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260407T180000Z
@@ -81,5 +81,16 @@ DESCRIPTION:VCL - Spain: Rising Phase 1 Stage 3 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/LVPes2
 SUMMARY:Lower bracket round 1 match 1: MT vs NOVO
 URL:https://www.twitch.tv/LVPes2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T180000Z
+UID:pandascore-match-1458513@esport-ics
+DTSTART:20260427T180000Z
+DTEND:20260427T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Spain: Rising Phase 2 Stage 3 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/LVPes2
+SUMMARY:Upper bracket quarterfinal 4: UCAM vs NOVO
+URL;VALUE=URI:https://www.twitch.tv/LVPes2
 END:VEVENT
 END:VCALENDAR
