@@ -604,6 +604,17 @@ CLASS:PUBLIC
 DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
  tps://www.twitch.tv/playzonecz
 SUMMARY:Round 4: UNiTY vs KOL
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T143000Z
+UID:pandascore-match-1458878@esport-ics
+DTSTART:20260425T143000Z
+DTEND:20260425T164500Z
+CLASS:PUBLIC
+DESCRIPTION:XPortal - Closed Qualifier #1 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/xportalesports
+SUMMARY:UNiTY vs FPR
+URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
 END:VCALENDAR

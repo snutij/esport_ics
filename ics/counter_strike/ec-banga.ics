@@ -393,6 +393,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/bambikxde
 SUMMARY:Upper bracket round 1 match 5: EC BANGA vs Project 91
-URL;VALUE=URI:https://www.twitch.tv/bambikxde
+URL:https://www.twitch.tv/bambikxde
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T173000Z
+UID:pandascore-match-1458877@esport-ics
+DTSTART:20260425T173000Z
+DTEND:20260425T194500Z
+CLASS:PUBLIC
+DESCRIPTION:XPortal - Closed Qualifier #1 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/xportalesports
+SUMMARY:EC BANGA vs INOX
+URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
 END:VCALENDAR

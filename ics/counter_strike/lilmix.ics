@@ -364,8 +364,19 @@ DTEND:20260423T131500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
  ://kick.com/cct_cs2
-SUMMARY:Lower bracket round 3 match 2: LILMIX vs TBD
+SUMMARY:Lower bracket round 3 match 2: LILMIX vs YN
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T143000Z
+UID:pandascore-match-1458872@esport-ics
+DTSTART:20260423T143000Z
+DTEND:20260423T164500Z
+CLASS:PUBLIC
+DESCRIPTION:XPortal - Closed Qualifier #1 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/xportalesports
+SUMMARY:ENCE vs LILMIX
+URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260423T170000Z

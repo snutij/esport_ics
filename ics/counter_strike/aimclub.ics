@@ -454,6 +454,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
  \nWatch: https://kick.com/chankyftw
 SUMMARY:Upper bracket round 1 match 14: AIMC vs YNG
-URL;VALUE=URI:https://kick.com/chankyftw
+URL:https://kick.com/chankyftw
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T083000Z
+UID:pandascore-match-1458867@esport-ics
+DTSTART:20260425T083000Z
+DTEND:20260425T104500Z
+CLASS:PUBLIC
+DESCRIPTION:XPortal - Closed Qualifier #1 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/xportalesports
+SUMMARY:AAB vs AIMC
+URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
 END:VCALENDAR
