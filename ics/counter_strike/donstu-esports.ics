@@ -344,7 +344,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Upper bracket round 1 match 12: G2.A vs DNT
-URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
+URL:https://www.twitch.tv/karmaflexxx
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260423T134500Z
@@ -356,5 +356,14 @@ DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
  ://kick.com/cct_cs2
 SUMMARY:Upper bracket semifinal 1: eLITe vs DNT
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T170000Z
+UID:pandascore-match-1456711@esport-ics
+DTSTART:20260423T170000Z
+DTEND:20260423T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 12: SPARTA vs DNT
 END:VEVENT
 END:VCALENDAR
