@@ -465,7 +465,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 4 2026 - Group B\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Elimination match: LPH vs MASQ
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260422T153000Z
@@ -488,5 +488,16 @@ DESCRIPTION:United21 - Season 48 2026 - Group A\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Winners match: PSN.A vs LPH
 URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T103000Z
+UID:pandascore-match-1452817@esport-ics
+DTSTART:20260426T103000Z
+DTEND:20260426T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group B\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: LPH vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
