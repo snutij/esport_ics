@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 2 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Round 6: AG vs PGS
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T200000Z
+UID:pandascore-match-1457907@esport-ics
+DTSTART:20260422T200000Z
+DTEND:20260422T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 2 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Round 7: ADG vs PGS
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR

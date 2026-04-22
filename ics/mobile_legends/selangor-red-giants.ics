@@ -72,6 +72,17 @@ SUMMARY:SRG vs ACE
 URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260425T063000Z
+UID:pandascore-match-1457910@esport-ics
+DTSTART:20260425T063000Z
+DTEND:20260425T084500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
+ www.youtube.com/@MLBBeSports/streams
+SUMMARY:IG vs SRG
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260502T121500Z
 UID:pandascore-match-1405246@esport-ics
 DTSTART:20260502T121500Z

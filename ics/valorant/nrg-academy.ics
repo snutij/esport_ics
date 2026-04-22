@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 2 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Round 6: NRG.A vs SaD
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T230000Z
+UID:pandascore-match-1457909@esport-ics
+DTSTART:20260422T230000Z
+DTEND:20260423T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 2 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Round 7: NRG.A vs D1
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR
