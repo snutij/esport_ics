@@ -313,4 +313,15 @@ DESCRIPTION:CCT Global Finals - Season 3 2026 - Playoffs\nWatch: https://ki
 SUMMARY:Upper bracket quarterfinal 4: BIG vs 100T
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T080000Z
+UID:pandascore-match-1431959@esport-ics
+DTSTART:20260424T080000Z
+DTEND:20260424T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Playoffs\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 1: BIG vs ACE
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
