@@ -491,6 +491,17 @@ SUMMARY:Upper bracket quartefinal 4: Keyd vs CRASH
 URL:https://www.twitch.tv/btsbrasilfps
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260424T010000Z
+UID:pandascore-match-1456320@esport-ics
+DTSTART:20260424T010000Z
+DTEND:20260424T031500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom RUSH B! - Summit season 3 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/btsbrasilfps
+SUMMARY:Upper bracket semifinal 2: Keyd vs TBD
+URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260426T210000Z
 UID:pandascore-match-1456987@esport-ics
 DTSTART:20260426T210000Z
