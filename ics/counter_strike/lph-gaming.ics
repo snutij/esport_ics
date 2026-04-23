@@ -511,4 +511,15 @@ DESCRIPTION:European Pro League - Regular season 4 2026 - Group B\nWatch: h
 SUMMARY:Decider match: LPH vs BOJONG
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T080000Z
+UID:pandascore-match-1458883@esport-ics
+DTSTART:20260427T080000Z
+DTEND:20260427T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 48 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider Match: LPH vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR

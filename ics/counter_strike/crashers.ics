@@ -456,4 +456,13 @@ DESCRIPTION:BetBoom RUSH B! - Summit season 3 2026 - Playoffs\nWatch: https
 SUMMARY:Lower bracket round 1 match 2: CRASH vs Alzon
 URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T200000Z
+UID:pandascore-match-1459516@esport-ics
+DTSTART:20260424T200000Z
+DTEND:20260424T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Odyssey Cup - Brazil 2026 - Group Stage
+SUMMARY:Round 1: LDP vs CRASH
+END:VEVENT
 END:VCALENDAR
