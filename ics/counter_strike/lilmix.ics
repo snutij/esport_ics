@@ -387,6 +387,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/vanfantv
 SUMMARY:Upper bracket round 2 match 9: 33 vs LILMIX
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T113000Z
+UID:pandascore-match-1458875@esport-ics
+DTSTART:20260424T113000Z
+DTEND:20260424T134500Z
+CLASS:PUBLIC
+DESCRIPTION:XPortal - Closed Qualifier #1 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/xportalesports
+SUMMARY:Elimination match: LILMIX vs TBD
+URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
 END:VCALENDAR

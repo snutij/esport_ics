@@ -261,9 +261,9 @@ DTSTART:20260423T173000Z
 DTEND:20260423T194500Z
 CLASS:PUBLIC
 DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
- tps://www.twitch.tv/playzonecz
+ tps://www.twitch.tv/playzoneup
 SUMMARY:Round 4: FNC vs TRI
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL;VALUE=URI:https://www.twitch.tv/playzoneup
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260425T170000Z
@@ -272,6 +272,6 @@ DTSTART:20260425T170000Z
 DTEND:20260425T191500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
-SUMMARY:Upper bracket round of 16 match 3: FNC vs TBD
+SUMMARY:Upper bracket round of 16 match 3: FNC vs RE
 END:VEVENT
 END:VCALENDAR
