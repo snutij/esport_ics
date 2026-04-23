@@ -363,9 +363,9 @@ DTSTART:20260423T110000Z
 DTEND:20260423T131500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
- ://kick.com/cct_cs2
+ ://kick.com/cct_cs3
 SUMMARY:Lower bracket round 3 match 2: LILMIX vs YN
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260423T143000Z
@@ -385,6 +385,8 @@ DTSTART:20260423T170000Z
 DTEND:20260423T191500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/vanfantv
 SUMMARY:Upper bracket round 2 match 9: 33 vs LILMIX
+URL;VALUE=URI:https://www.twitch.tv/vanfantv
 END:VEVENT
 END:VCALENDAR
