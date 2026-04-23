@@ -230,6 +230,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Global Finals - Season 3 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs
 SUMMARY:Upper bracket quarterfinal 1: MNTE vs BCA
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T140000Z
+UID:pandascore-match-1449757@esport-ics
+DTSTART:20260424T140000Z
+DTEND:20260424T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Global Finals - Season 3 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs
+SUMMARY:Upper bracket semifinal 1: MNTE vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

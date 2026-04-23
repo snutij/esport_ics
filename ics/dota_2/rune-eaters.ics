@@ -454,6 +454,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
  //www.twitch.tv/esl_dota2earth
 SUMMARY:RE vs LYNX
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2earth
+URL:https://www.twitch.tv/esl_dota2earth
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T170000Z
+UID:pandascore-match-1452775@esport-ics
+DTSTART:20260424T170000Z
+DTEND:20260424T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/esl_dota2
+SUMMARY:Upper bracket quarterfinal 3: RE vs PR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

@@ -192,4 +192,15 @@ DESCRIPTION:PGL - Wallachia season 8 2026 - Playoffs\nWatch: https://www.tw
 SUMMARY:Lower bracket round 1 match 1: SAR vs HEROIC
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T090000Z
+UID:pandascore-match-1452776@esport-ics
+DTSTART:20260425T090000Z
+DTEND:20260425T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/esl_dota2
+SUMMARY:Upper bracket quarterfinal 4: SAR vs 1WIN
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
 END:VCALENDAR
