@@ -465,7 +465,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 5: PHTM.Ac vs AIMC
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260423T170000Z
@@ -477,6 +477,15 @@ DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/tavarescs2
 SUMMARY:Upper bracket round 2 match 14: RBLS vs AIMC
 URL:https://www.twitch.tv/tavarescs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T130000Z
+UID:pandascore-match-1456737@esport-ics
+DTSTART:20260424T130000Z
+DTEND:20260424T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 3: AIMC vs BMB
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260425T083000Z
