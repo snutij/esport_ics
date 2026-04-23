@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Desafiante - Split 1 2026 - Regular Season\nWatch: htt
  ps://www.twitch.tv/cblol
 SUMMARY:VKS.A vs KBM
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T200000Z
+UID:pandascore-match-1460388@esport-ics
+DTSTART:20260508T200000Z
+DTEND:20260508T221500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/cblol
+SUMMARY:Upper bracket semifinal 1: KBM vs TBD
 URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

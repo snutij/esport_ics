@@ -94,4 +94,13 @@ DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
 SUMMARY:Lower bracket quarterfinal 2: playersclub vs YN
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T170000Z
+UID:pandascore-match-1456865@esport-ics
+DTSTART:20260425T170000Z
+DTEND:20260425T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+SUMMARY:Upper bracket round of 16 match 7: RBLS vs playersclub
+END:VEVENT
 END:VCALENDAR

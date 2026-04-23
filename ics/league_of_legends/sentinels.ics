@@ -157,6 +157,17 @@ SUMMARY:TL vs SEN
 URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260429T180000Z
+UID:pandascore-match-1446615@esport-ics
+DTSTART:20260429T180000Z
+DTEND:20260429T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - North America Qualifier 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/ewclol2026
+SUMMARY:Grand final: SEN vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ewclol2026
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260503T200000Z
 UID:pandascore-match-1402388@esport-ics
 DTSTART:20260503T200000Z
