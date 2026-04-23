@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:North America League - Kickoff 2026 - Playoffs\nWatch: https://
  www.twitch.tv/rainbow6
 SUMMARY:Upper bracket semifinal 2: DZ vs WCG
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T180000Z
+UID:pandascore-match-1457930@esport-ics
+DTSTART:20260423T180000Z
+DTEND:20260423T201500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Kickoff 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/rainbow6
+SUMMARY:Lower bracket semifinal 1: DZ vs SSG
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
