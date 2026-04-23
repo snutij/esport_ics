@@ -487,6 +487,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 8 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/pgl_dota2
 SUMMARY:Upper bracket quarterfinal 2: AUR vs HEROIC
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T130000Z
+UID:pandascore-match-1449845@esport-ics
+DTSTART:20260424T130000Z
+DTEND:20260424T151500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 8 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/pgl_dota2
+SUMMARY:Upper bracket semifinal 1: PARI vs AUR
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

@@ -34,6 +34,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS EU - Paris: Open 5 2026 - Group A\nWatch: https://www.twit
  ch.tv/rxiirl
 SUMMARY:Lower bracket quarterfinal 1: SNG vs GG
-URL;VALUE=URI:https://www.twitch.tv/rxiirl
+URL:https://www.twitch.tv/rxiirl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T171500Z
+UID:pandascore-match-1447283@esport-ics
+DTSTART:20260424T171500Z
+DTEND:20260424T210000Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS EU - Paris: Open 6 2026 - Group B\nWatch: https://www.twit
+ ch.tv/rocketleague
+SUMMARY:Upper bracket quarterfinal 2: SNG vs MAG
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NOVO Esports
+SLUG:novo-esports
+BEGIN:VEVENT
+DTSTAMP:20260424T150000Z
+UID:pandascore-match-1447274@esport-ics
+DTSTART:20260424T150000Z
+DTEND:20260424T184500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS EU - Paris: Open 6 2026 - Group A\nWatch: https://www.twit
+ ch.tv/rocketleague
+SUMMARY:Upper bracket quarterfinal 3: GEE vs NOVO Esports
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+END:VCALENDAR

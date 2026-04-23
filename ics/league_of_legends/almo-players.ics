@@ -83,17 +83,6 @@ SUMMARY:ALMO vs WLG
 URL:https://www.twitch.tv/helleniclegends
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260423T150000Z
-UID:pandascore-match-1416758@esport-ics
-DTSTART:20260423T150000Z
-DTEND:20260423T163000Z
-CLASS:PUBLIC
-DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
- v/helleniclegends
-SUMMARY:ALMO vs IN5
-URL;VALUE=URI:https://www.twitch.tv/helleniclegends
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260430T150000Z
 UID:pandascore-match-1416764@esport-ics
 DTSTART:20260430T150000Z
@@ -113,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/helleniclegends
 SUMMARY:ALMO vs TPX
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T150000Z
+UID:pandascore-match-1416758@esport-ics
+DTSTART:20260506T150000Z
+DTEND:20260506T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:ALMO vs IN5
 URL;VALUE=URI:https://www.twitch.tv/helleniclegends
 END:VEVENT
 END:VCALENDAR
