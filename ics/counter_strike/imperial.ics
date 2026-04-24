@@ -259,8 +259,10 @@ UID:pandascore-match-1459512@esport-ics
 DTSTART:20260424T190000Z
 DTEND:20260424T194500Z
 CLASS:PUBLIC
-DESCRIPTION:Odyssey Cup - Brazil 2026 - Group Stage
+DESCRIPTION:Odyssey Cup - Brazil 2026 - Group Stage\nWatch: https://www.twi
+ tch.tv/nahzinhaa
 SUMMARY:Round 1: IMP vs QUIN
+URL;VALUE=URI:https://www.twitch.tv/nahzinhaa
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260426T210000Z
