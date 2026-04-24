@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS EU - Paris: Open 6 2026 - Group A\nWatch: https://www.twit
  ch.tv/rocketleague
 SUMMARY:Upper bracket quarterfinal 3: GEE vs NOVO Esports
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T170000Z
+UID:pandascore-match-1447295@esport-ics
+DTSTART:20260425T170000Z
+DTEND:20260425T221500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS EU - Paris: Open 6 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/rocketleague
+SUMMARY:Upper bracket quarterfinal 2: NIP vs NOVO Esports
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR
