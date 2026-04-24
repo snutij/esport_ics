@@ -344,6 +344,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/esl_dota2
 SUMMARY:Upper bracket quarterfinal 3: RE vs PR
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T123000Z
+UID:pandascore-match-1452778@esport-ics
+DTSTART:20260427T123000Z
+DTEND:20260427T144500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/esl_dota2
+SUMMARY:Upper bracket semifinal 2: 1WIN vs PR
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR
