@@ -684,4 +684,15 @@ DESCRIPTION:European Pro League - Regular season 4 2026 - Group A\nWatch: h
 SUMMARY:Decider match: AAB vs XI
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T103000Z
+UID:pandascore-match-1458885@esport-ics
+DTSTART:20260427T103000Z
+DTEND:20260427T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 48 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider Match: BIG.A vs AAB
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR

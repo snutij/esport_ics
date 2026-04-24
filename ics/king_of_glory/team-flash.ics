@@ -201,6 +201,18 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 2\nWatch: https://ww
  w.youtube.com/watch?v=_PDK_ml9624
 SUMMARY:TF vs GAM
-URL;VALUE=URI:https://www.youtube.com/watch?v=_PDK_ml9624
+URL:https://www.youtube.com/watch?v=_PDK_ml9624
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T110000Z
+UID:pandascore-match-1461803@esport-ics
+DTSTART:20260426T110000Z
+DTEND:20260426T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Playoffs\nWatch: https://www.you
+ tube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:Upper bracket final: TF vs SP
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
 END:VEVENT
 END:VCALENDAR
