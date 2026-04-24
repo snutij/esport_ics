@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America South: ACE Masters 2026 - Group B\nWatch: h
  ttps://www.twitch.tv/valorant_la
 SUMMARY:Decider match: ShindeN vs UW
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T190000Z
+UID:pandascore-match-1457911@esport-ics
+DTSTART:20260428T190000Z
+DTEND:20260428T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: ACE Masters 2026 - Playoffs\nWatch: 
+ https://www.twitch.tv/valorant_la
+SUMMARY:Semifinal 1: LEV vs UW
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

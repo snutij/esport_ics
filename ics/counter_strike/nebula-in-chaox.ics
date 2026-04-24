@@ -144,6 +144,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 4: WING vs NIC
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T183000Z
+UID:pandascore-match-1460888@esport-ics
+DTSTART:20260424T183000Z
+DTEND:20260424T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Round 1 match 1: NIC vs EF.A
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
