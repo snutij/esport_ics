@@ -254,6 +254,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom RUSH B! - Summit season 3 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/btsbrasilfps
 SUMMARY:Upper bracket final: 9z vs LGC
+URL:https://www.twitch.tv/btsbrasilfps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T190000Z
+UID:pandascore-match-1456322@esport-ics
+DTSTART:20260426T190000Z
+DTEND:20260426T224500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom RUSH B! - Summit season 3 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/btsbrasilfps
+SUMMARY:Grand final: LGC vs TBD
 URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
 END:VEVENT
 END:VCALENDAR
