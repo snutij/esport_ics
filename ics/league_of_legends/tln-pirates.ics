@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/otplol_
 SUMMARY:TLNP vs JL
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T160000Z
+UID:pandascore-match-1460910@esport-ics
+DTSTART:20260501T160000Z
+DTEND:20260501T164500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:TLNP vs ES
 URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

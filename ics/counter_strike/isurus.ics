@@ -417,4 +417,15 @@ DESCRIPTION:ESL Challenger League - South America Cup #4 season 51 2026 - P
  layoffs
 SUMMARY:Upper bracket round 1 match 6: ISG vs BHE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T220000Z
+UID:pandascore-match-1460950@esport-ics
+DTSTART:20260428T220000Z
+DTEND:20260429T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #1 season 4 2026 - Group Stage\nWatc
+ h: https://kick.com/cct_cs
+SUMMARY:Round 1: ISG vs HWGA
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR

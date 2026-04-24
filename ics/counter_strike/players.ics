@@ -407,4 +407,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - April 2026 - Group C
 SUMMARY:Elimination match: VEXA vs PLS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T160000Z
+UID:pandascore-match-1460952@esport-ics
+DTSTART:20260429T160000Z
+DTEND:20260429T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #1 season 4 2026 - Group Stage\nWatc
+ h: https://kick.com/cct_cs
+SUMMARY:Round 1: PLS vs R2
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR

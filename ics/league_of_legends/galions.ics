@@ -272,6 +272,17 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/otplol_
 SUMMARY:GAL vs ES
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T190000Z
+UID:pandascore-match-1460913@esport-ics
+DTSTART:20260501T190000Z
+DTEND:20260501T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/otplol_
+SUMMARY:GAL vs KCB
 URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR
