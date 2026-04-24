@@ -457,6 +457,17 @@ SUMMARY:Winners match: KSM vs ALGO
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260425T103000Z
+UID:pandascore-match-1452823@esport-ics
+DTSTART:20260425T103000Z
+DTEND:20260425T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Group D\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: RT vs KSM
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260426T080000Z
 UID:pandascore-match-1458887@esport-ics
 DTSTART:20260426T080000Z
