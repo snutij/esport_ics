@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:XPortal - Closed Qualifier #1 2026 - Group B\nWatch: https://ww
  w.twitch.tv/xportalesports
 SUMMARY:Winners match: ENCE vs JJH
+URL:https://www.twitch.tv/xportalesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T143000Z
+UID:pandascore-match-1458876@esport-ics
+DTSTART:20260426T143000Z
+DTEND:20260426T164500Z
+CLASS:PUBLIC
+DESCRIPTION:XPortal - Closed Qualifier #1 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/xportalesports
+SUMMARY:Decider match: ENCE vs TBD
 URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
 END:VCALENDAR
