@@ -193,6 +193,17 @@ SUMMARY:Round 1 match 2: MIN vs C9.NY
 URL:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260425T233000Z
+UID:pandascore-match-1451855@esport-ics
+DTSTART:20260425T233000Z
+DTEND:20260426T031500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 3 Minor 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/CallofDuty
+SUMMARY:Quarterfinal 2: LAT vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260503T203000Z
 UID:pandascore-match-1428617@esport-ics
 DTSTART:20260503T203000Z
