@@ -182,6 +182,17 @@ SUMMARY:Quarterfinal 4: PAR vs MH
 URL:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260426T203000Z
+UID:pandascore-match-1451859@esport-ics
+DTSTART:20260426T203000Z
+DTEND:20260427T001500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 3 Minor 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/CallofDuty
+SUMMARY:Semifinal 2: MH vs TBD
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260502T203000Z
 UID:pandascore-match-1428613@esport-ics
 DTSTART:20260502T203000Z
