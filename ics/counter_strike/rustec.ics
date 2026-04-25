@@ -362,4 +362,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 2: AIMC vs RUST
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T110000Z
+UID:pandascore-match-1449748@esport-ics
+DTSTART:20260426T110000Z
+DTEND:20260426T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series 1 2026 - Playoffs\nWatch: https
+ ://kick.com/cct_cs2
+SUMMARY:Lower bracket final: RUST vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
