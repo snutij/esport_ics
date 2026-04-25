@@ -251,6 +251,15 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancs
 SUMMARY:Grand final: MNTE vs M80
-URL;VALUE=URI:https://kick.com/draculancs
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T180000Z
+UID:pandascore-match-1462401@esport-ics
+DTSTART:20260425T180000Z
+DTEND:20260425T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Fragadelphia - Season 20 2026 - Group A
+SUMMARY:M80 vs Secret
 END:VEVENT
 END:VCALENDAR
