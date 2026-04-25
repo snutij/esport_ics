@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV Team Liquid Map Contest - Season 16 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/wardiii
 SUMMARY:Upper bracket quarterfinal 1: herO vs Classic
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T110000Z
+UID:pandascore-match-1462546@esport-ics
+DTSTART:20260425T110000Z
+DTEND:20260425T144500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV Team Liquid Map Contest - Season 16 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/wardiii
+SUMMARY:Upper bracket semifinal 1: Classic vs SHIN
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR
