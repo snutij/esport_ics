@@ -416,6 +416,17 @@ SUMMARY:EC BANGA vs INOX
 URL:https://www.twitch.tv/xportalesports
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260426T083000Z
+UID:pandascore-match-1458880@esport-ics
+DTSTART:20260426T083000Z
+DTEND:20260426T104500Z
+CLASS:PUBLIC
+DESCRIPTION:XPortal - Closed Qualifier #1 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/xportalesports
+SUMMARY:Elimination match: FPR vs EC BANGA
+URL;VALUE=URI:https://www.twitch.tv/xportalesports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260429T170000Z
 UID:pandascore-match-1462495@esport-ics
 DTSTART:20260429T170000Z

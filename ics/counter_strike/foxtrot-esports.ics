@@ -23,6 +23,16 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - Season 20 2026 - Group B\nWatch: https://kick.com/trotta
  h
 SUMMARY:NRG vs FXT
-URL;VALUE=URI:https://kick.com/trottah
+URL:https://kick.com/trottah
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T210000Z
+UID:pandascore-match-1462409@esport-ics
+DTSTART:20260425T210000Z
+DTEND:20260425T231500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - Season 20 2026 - Group B\nWatch: https://kick.com/frag
+SUMMARY:Elimination match: FXT vs TBD
+URL;VALUE=URI:https://kick.com/frag
 END:VEVENT
 END:VCALENDAR
