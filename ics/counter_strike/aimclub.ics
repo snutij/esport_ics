@@ -520,4 +520,15 @@ DESCRIPTION:XPortal - Closed Qualifier #1 2026 - Group C\nWatch: https://ww
 SUMMARY:Elimination match: AIMC vs MEGO
 URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T173000Z
+UID:pandascore-match-1458871@esport-ics
+DTSTART:20260426T173000Z
+DTEND:20260426T194500Z
+CLASS:PUBLIC
+DESCRIPTION:XPortal - Closed Qualifier #1 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/xportalesports
+SUMMARY:Decider match: AIMC vs TBD
+URL;VALUE=URI:https://www.twitch.tv/xportalesports
+END:VEVENT
 END:VCALENDAR
