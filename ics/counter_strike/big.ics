@@ -347,6 +347,17 @@ SUMMARY:Lower bracket quarterfinal 1: SHK vs BIG
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260425T170000Z
+UID:pandascore-match-1449762@esport-ics
+DTSTART:20260425T170000Z
+DTEND:20260425T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Global Finals - Season 3 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs
+SUMMARY:Lower bracket semifinal: BIG vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260426T080000Z
 UID:pandascore-match-1431955@esport-ics
 DTSTART:20260426T080000Z
