@@ -500,4 +500,13 @@ DESCRIPTION:XPortal - Closed Qualifier #1 2026 - Group D\nWatch: https://ww
 SUMMARY:Decider Match: MANA vs TLR
 URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T170000Z
+UID:pandascore-match-1456867@esport-ics
+DTSTART:20260426T170000Z
+DTEND:20260426T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 3 match 1: Just Players vs TLR
+END:VEVENT
 END:VCALENDAR
