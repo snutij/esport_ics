@@ -674,6 +674,17 @@ SUMMARY:AAB vs AIMC
 URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260425T153000Z
+UID:pandascore-match-1462385@esport-ics
+DTSTART:20260425T153000Z
+DTEND:20260425T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Quarterfinal 1: AAB vs NIC
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260426T080000Z
 UID:pandascore-match-1452814@esport-ics
 DTSTART:20260426T080000Z

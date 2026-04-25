@@ -318,6 +318,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Grand final: ARC vs MZP
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T123000Z
+UID:pandascore-match-1462387@esport-ics
+DTSTART:20260425T123000Z
+DTEND:20260425T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Quarterfinal 3: ARC vs LPH
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
