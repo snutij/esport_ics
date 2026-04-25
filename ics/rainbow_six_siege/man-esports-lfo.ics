@@ -40,7 +40,9 @@ UID:pandascore-match-1422538@esport-ics
 DTSTART:20260426T030000Z
 DTEND:20260426T051500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Playoffs
+DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Playoffs\nWatch: 
+ https://www.twitch.tv/rainbow6
 SUMMARY:Lower bracket final: MAN vs CHF
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:cirahvi
+SLUG:cirahvi
+BEGIN:VEVENT
+DTSTAMP:20260426T110000Z
+UID:pandascore-match-1463380@esport-ics
+DTSTART:20260426T110000Z
+DTEND:20260426T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 1: cirahvi vs BOYB
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T170000Z
+UID:pandascore-match-1463386@esport-ics
+DTSTART:20260428T170000Z
+DTEND:20260428T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 2: cirahvi vs KSM
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T170000Z
+UID:pandascore-match-1463391@esport-ics
+DTSTART:20260504T170000Z
+DTEND:20260504T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 3: cirahvi vs SINQU
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T133000Z
+UID:pandascore-match-1463395@esport-ics
+DTSTART:20260510T133000Z
+DTEND:20260510T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 4: cirahvi vs BOJONG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T170000Z
+UID:pandascore-match-1463398@esport-ics
+DTSTART:20260511T170000Z
+DTEND:20260511T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 5: cirahvi vs TMVG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T160000Z
+UID:pandascore-match-1463401@esport-ics
+DTSTART:20260517T160000Z
+DTEND:20260517T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 6: cirahvi vs KAJO
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T170000Z
+UID:pandascore-match-1463405@esport-ics
+DTSTART:20260524T170000Z
+DTEND:20260524T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 7: ENCE vs cirahvi
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+END:VCALENDAR

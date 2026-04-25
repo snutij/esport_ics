@@ -478,4 +478,81 @@ DESCRIPTION:United21 - Season 48 2026 - Group D\nWatch: https://kick.com/un
 SUMMARY:Winners match: KSM vs XI
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T160000Z
+UID:pandascore-match-1463382@esport-ics
+DTSTART:20260426T160000Z
+DTEND:20260426T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 1: KAJO vs KSM
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T170000Z
+UID:pandascore-match-1463386@esport-ics
+DTSTART:20260428T170000Z
+DTEND:20260428T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 2: cirahvi vs KSM
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T143000Z
+UID:pandascore-match-1463390@esport-ics
+DTSTART:20260504T143000Z
+DTEND:20260504T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 3: KSM vs BOYB
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T110000Z
+UID:pandascore-match-1463394@esport-ics
+DTSTART:20260510T110000Z
+DTEND:20260510T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 4: ENCE vs KSM
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T160000Z
+UID:pandascore-match-1463396@esport-ics
+DTSTART:20260510T160000Z
+DTEND:20260510T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 5: SINQU vs KSM
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T143000Z
+UID:pandascore-match-1463402@esport-ics
+DTSTART:20260518T143000Z
+DTEND:20260518T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 6: KSM vs BOJONG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T170000Z
+UID:pandascore-match-1463408@esport-ics
+DTSTART:20260525T170000Z
+DTEND:20260525T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 7: KSM vs TMVG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
 END:VCALENDAR

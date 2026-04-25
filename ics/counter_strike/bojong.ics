@@ -165,6 +165,28 @@ SUMMARY:Decider match: LPH vs BOJONG
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260427T143000Z
+UID:pandascore-match-1463383@esport-ics
+DTSTART:20260427T143000Z
+DTEND:20260427T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 1: ENCE vs BOJONG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T143000Z
+UID:pandascore-match-1463385@esport-ics
+DTSTART:20260428T143000Z
+DTEND:20260428T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 2: TMVG vs BOJONG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260429T150000Z
 UID:pandascore-match-1454774@esport-ics
 DTSTART:20260429T150000Z
@@ -172,5 +194,60 @@ DTEND:20260429T154500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:SS vs BOJONG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T160000Z
+UID:pandascore-match-1463389@esport-ics
+DTSTART:20260503T160000Z
+DTEND:20260503T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 3: KAJO vs BOJONG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T133000Z
+UID:pandascore-match-1463395@esport-ics
+DTSTART:20260510T133000Z
+DTEND:20260510T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 4: cirahvi vs BOJONG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T110000Z
+UID:pandascore-match-1463399@esport-ics
+DTSTART:20260517T110000Z
+DTEND:20260517T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 5: BOYB vs BOJONG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T143000Z
+UID:pandascore-match-1463402@esport-ics
+DTSTART:20260518T143000Z
+DTEND:20260518T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 6: KSM vs BOJONG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T143000Z
+UID:pandascore-match-1463404@esport-ics
+DTSTART:20260524T143000Z
+DTEND:20260524T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
+ s://www.twitch.tv/elisaviihdesport
+SUMMARY:Round 7: SINQU vs BOJONG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 END:VCALENDAR
