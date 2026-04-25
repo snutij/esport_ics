@@ -47,4 +47,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 1: Just Players vs DRIP
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T140000Z
+UID:pandascore-match-1462494@esport-ics
+DTSTART:20260429T140000Z
+DTEND:20260429T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #1 Play-In 2026 - Group D\nWatch: https://k
+ ick.com/cct_cs
+SUMMARY:PF vs DRIP
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR

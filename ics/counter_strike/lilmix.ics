@@ -420,4 +420,15 @@ DESCRIPTION:XPortal - Closed Qualifier #1 2026 - Group B\nWatch: https://ww
 SUMMARY:Decider match: ENCE vs LILMIX
 URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T080000Z
+UID:pandascore-match-1462479@esport-ics
+DTSTART:20260427T080000Z
+DTEND:20260427T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #1 Play-In 2026 - Group A\nWatch: https://k
+ ick.com/cct_cs
+SUMMARY:STA vs LILMIX
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR

@@ -630,6 +630,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 4: URSA vs BBP
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T170000Z
+UID:pandascore-match-1462485@esport-ics
+DTSTART:20260427T170000Z
+DTEND:20260427T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #1 Play-In 2026 - Group B\nWatch: https://k
+ ick.com/cct_cs
+SUMMARY:BBP vs INOX
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

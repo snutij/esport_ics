@@ -388,6 +388,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 8 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/pgl_dota2
 SUMMARY:Lower bracket quarterfinal 2: PARI vs FLC
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T160000Z
+UID:pandascore-match-1449850@esport-ics
+DTSTART:20260425T160000Z
+DTEND:20260425T181500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 8 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/pgl_dota2
+SUMMARY:Lower bracket semifinal: FLC vs TBD
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR
