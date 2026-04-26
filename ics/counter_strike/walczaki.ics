@@ -77,6 +77,17 @@ DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
 SUMMARY:Lower bracket round 3 match 7: WAL vs playersclub
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260427T110000Z
+UID:pandascore-match-1431968@esport-ics
+DTSTART:20260427T110000Z
+DTEND:20260427T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 7 2026 - Playoffs\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Semifinal 2: WAL vs TBD
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260427T173000Z
 UID:pandascore-match-1438515@esport-ics
 DTSTART:20260427T173000Z

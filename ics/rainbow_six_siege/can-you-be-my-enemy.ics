@@ -59,4 +59,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: North 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 1: LFONN vs CYBME
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T040000Z
+UID:pandascore-match-1464510@esport-ics
+DTSTART:20260427T040000Z
+DTEND:20260427T061500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Kickoff: North 2026 - Decider Brackets\nW
+ atch: https://www.twitch.tv/rainbow6
+SUMMARY:7th Place decider: CYBME vs FX
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
 END:VCALENDAR

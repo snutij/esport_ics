@@ -257,6 +257,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Playoffs\nWatch: https://kick.c
  om/exort_en2
 SUMMARY:Semifinal 1: AAB vs TS.A
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T190000Z
+UID:pandascore-match-1464033@esport-ics
+DTSTART:20260426T190000Z
+DTEND:20260426T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Grand final: TS.A vs TBD
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

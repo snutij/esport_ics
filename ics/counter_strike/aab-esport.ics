@@ -702,7 +702,7 @@ CLASS:PUBLIC
 DESCRIPTION:XPortal - Closed Qualifier #1 2026 - Group C\nWatch: https://ww
  w.twitch.tv/xportal_b
 SUMMARY:Winners match: AAB vs BMB
-URL;VALUE=URI:https://www.twitch.tv/xportal_b
+URL:https://www.twitch.tv/xportal_b
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260426T123000Z
@@ -713,7 +713,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Playoffs\nWatch: https://kick.c
  om/exort_en2
 SUMMARY:Semifinal 1: AAB vs TS.A
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260427T103000Z
