@@ -707,6 +707,17 @@ SUMMARY:Winners match: AAB vs BMB
 URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260426T123000Z
+UID:pandascore-match-1463984@esport-ics
+DTSTART:20260426T123000Z
+DTEND:20260426T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Semifinal 1: AAB vs TS.A
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260427T103000Z
 UID:pandascore-match-1458885@esport-ics
 DTSTART:20260427T103000Z

@@ -534,6 +534,17 @@ SUMMARY:Decider match: LPH vs BOJONG
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260426T153000Z
+UID:pandascore-match-1463985@esport-ics
+DTSTART:20260426T153000Z
+DTEND:20260426T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Semifinal 2: LPH vs 33
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260427T080000Z
 UID:pandascore-match-1458883@esport-ics
 DTSTART:20260427T080000Z
