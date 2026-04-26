@@ -32,4 +32,13 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs
 SUMMARY:Lower bracket quarterfinal 2: SHE vs UN
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T090000Z
+UID:pandascore-match-1463991@esport-ics
+DTSTART:20260501T090000Z
+DTEND:20260501T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Decider Brackets
+SUMMARY:5th place decider: UN vs ELV
+END:VEVENT
 END:VCALENDAR
