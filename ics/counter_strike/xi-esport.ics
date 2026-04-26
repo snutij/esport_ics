@@ -478,17 +478,6 @@ SUMMARY:Round 1: XI vs Eclipse
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260426T080000Z
-UID:pandascore-match-1458887@esport-ics
-DTSTART:20260426T080000Z
-DTEND:20260426T101500Z
-CLASS:PUBLIC
-DESCRIPTION:United21 - Season 48 2026 - Group D\nWatch: https://kick.com/un
- ited21_en
-SUMMARY:Winners match: KSM vs XI
-URL;VALUE=URI:https://kick.com/united21_en
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260426T080000Z
 UID:pandascore-match-1452814@esport-ics
 DTSTART:20260426T080000Z
 DTEND:20260426T101500Z
@@ -497,5 +486,16 @@ DESCRIPTION:European Pro League - Regular season 4 2026 - Group A\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Decider match: AAB vs XI
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T103000Z
+UID:pandascore-match-1458887@esport-ics
+DTSTART:20260426T103000Z
+DTEND:20260426T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 48 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Winners match: KSM vs XI
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
