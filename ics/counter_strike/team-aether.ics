@@ -235,17 +235,6 @@ DESCRIPTION:Dust2.us - Eagle Masters season 7 2026 - Playoffs
 SUMMARY:Quarterfinal 1: IP vs TA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260427T003000Z
-UID:pandascore-match-1460361@esport-ics
-DTSTART:20260427T003000Z
-DTEND:20260427T024500Z
-CLASS:PUBLIC
-DESCRIPTION:Thunderpick World Championship - North American 2026 - Group A\
- nWatch: https://www.twitch.tv/thunderpicktv
-SUMMARY:TA vs SHIM
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260427T010000Z
 UID:pandascore-match-1456946@esport-ics
 DTSTART:20260427T010000Z
@@ -253,5 +242,16 @@ DTEND:20260427T031500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 6: EMP vs TA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T213000Z
+UID:pandascore-match-1460361@esport-ics
+DTSTART:20260427T213000Z
+DTEND:20260427T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - North American 2026 - Group A\
+ nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:TA vs SHIM
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
