@@ -342,6 +342,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 48 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Elimination match: Z7 vs RT
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T103000Z
+UID:pandascore-match-1458892@esport-ics
+DTSTART:20260428T103000Z
+DTEND:20260428T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 48 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider Match: RT vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
