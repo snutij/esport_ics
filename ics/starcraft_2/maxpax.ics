@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV Team Liquid Map Contest - Season 16 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/wardiii
 SUMMARY:Upper bracket final: SHIN vs MaxPax
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T150000Z
+UID:pandascore-match-1462544@esport-ics
+DTSTART:20260426T150000Z
+DTEND:20260426T201500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV Team Liquid Map Contest - Season 16 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/wardiii
+SUMMARY:Grand final: MaxPax vs TBD
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

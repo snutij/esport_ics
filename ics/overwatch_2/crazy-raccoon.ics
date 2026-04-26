@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Korea Stage 1 2026 - Playoffs Seeding Decider Matches\nWa
  tch: https://www.twitch.tv/ow_esports_jp
 SUMMARY:ZETA vs CR
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T073000Z
+UID:pandascore-match-1464559@esport-ics
+DTSTART:20260502T073000Z
+DTEND:20260502T103000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ow_esports_jp
+SUMMARY:Semifinal 2: CR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

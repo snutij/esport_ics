@@ -140,6 +140,19 @@ DTSTART:20260426T170000Z
 DTEND:20260426T191500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/misterhenrybatt
 SUMMARY:Lower bracket round 3 match 4: 33 vs BIG.A
+URL;VALUE=URI:https://www.twitch.tv/misterhenrybatt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260426T190000Z
+UID:pandascore-match-1464033@esport-ics
+DTSTART:20260426T190000Z
+DTEND:20260426T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 25 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Grand final: TS.A vs 33
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

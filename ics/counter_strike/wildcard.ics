@@ -310,7 +310,9 @@ UID:pandascore-match-1456945@esport-ics
 DTSTART:20260427T010000Z
 DTEND:20260427T031500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/JTMythic
 SUMMARY:Upper bracket round 1 match 5: WC vs WG
+URL;VALUE=URI:https://www.twitch.tv/JTMythic
 END:VEVENT
 END:VCALENDAR
