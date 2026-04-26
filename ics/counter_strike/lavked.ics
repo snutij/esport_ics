@@ -341,6 +341,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Lower bracket round 3 match 6: G2.A vs Lavked
-URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
+URL:https://www.twitch.tv/karmaflexxx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T170000Z
+UID:pandascore-match-1456893@esport-ics
+DTSTART:20260427T170000Z
+DTEND:20260427T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 4 match 3: Lavked vs TBD
 END:VEVENT
 END:VCALENDAR
