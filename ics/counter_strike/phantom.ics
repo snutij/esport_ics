@@ -580,6 +580,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/misterhenrybatt
 SUMMARY:Lower bracket round 3 match 2: RUST vs PHA
-URL;VALUE=URI:https://www.twitch.tv/misterhenrybatt
+URL:https://www.twitch.tv/misterhenrybatt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T170000Z
+UID:pandascore-match-1456891@esport-ics
+DTSTART:20260427T170000Z
+DTEND:20260427T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 4 match 1: PHA vs TBD
 END:VEVENT
 END:VCALENDAR
