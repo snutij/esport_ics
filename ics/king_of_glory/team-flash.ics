@@ -212,6 +212,18 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Glory - Spring 2026 - Playoffs\nWatch: https://www.you
  tube.com/watch?v=spveZhLYPDk
 SUMMARY:Upper bracket final: TF vs SP
-URL;VALUE=URI:https://www.youtube.com/watch?v=spveZhLYPDk
+URL:https://www.youtube.com/watch?v=spveZhLYPDk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T100000Z
+UID:pandascore-match-1461806@esport-ics
+DTSTART:20260510T100000Z
+DTEND:20260510T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Spring 2026 - Playoffs\nWatch: https://www.you
+ tube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/videos
+SUMMARY:Grand final: TF vs TBD
+URL;VALUE=URI:https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/vide
+ os
 END:VEVENT
 END:VCALENDAR
