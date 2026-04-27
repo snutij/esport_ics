@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 8 2026 - Group Stage\nWatch: https://www
  .twitch.tv/pgl_dota2en2
 SUMMARY:Round 4: Xtreme vs VG
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2en2
+URL:https://www.twitch.tv/pgl_dota2en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T063000Z
+UID:pandascore-match-1465437@esport-ics
+DTSTART:20260501T063000Z
+DTEND:20260501T071500Z
+CLASS:PUBLIC
+DESCRIPTION:ACL X ESL Challenger China - Season 3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/acl_dota2cn
+SUMMARY:Upper bracket quarterfinal 3: VG vs CD
+URL;VALUE=URI:https://www.twitch.tv/acl_dota2cn
 END:VEVENT
 END:VCALENDAR

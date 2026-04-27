@@ -50,6 +50,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/torycs
 SUMMARY:CC.FE vs BG
-URL;VALUE=URI:https://www.twitch.tv/torycs
+URL:https://www.twitch.tv/torycs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T180000Z
+UID:pandascore-match-1465447@esport-ics
+DTSTART:20260427T180000Z
+DTEND:20260427T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:ZOTIX vs BG
 END:VEVENT
 END:VCALENDAR
