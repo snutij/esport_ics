@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV Team Liquid Map Contest - Season 16 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/wardiii
 SUMMARY:Lowe bracket round 1 match 2: Cure vs Clem
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T093000Z
+UID:pandascore-match-1466221@esport-ics
+DTSTART:20260430T093000Z
+DTEND:20260430T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Global StarCraft II League - Season 1 2026 - Group Stage 1 - Gr
+ oup B\nWatch: https://www.sooplive.com/station/afgsl
+SUMMARY:Cure vs trigger
+URL;VALUE=URI:https://www.sooplive.com/station/afgsl
 END:VEVENT
 END:VCALENDAR

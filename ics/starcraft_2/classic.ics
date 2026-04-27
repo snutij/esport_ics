@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV Team Liquid Map Contest - Season 16 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/wardiii
 SUMMARY:Lower bracket semifinal: Classic vs Clem
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T093000Z
+UID:pandascore-match-1466226@esport-ics
+DTSTART:20260506T093000Z
+DTEND:20260506T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Global StarCraft II League - Season 1 2026 - Group Stage 2 - Gr
+ oup A\nWatch: https://www.sooplive.com/station/afgsl
+SUMMARY:Classic vs TBD
+URL;VALUE=URI:https://www.sooplive.com/station/afgsl
 END:VEVENT
 END:VCALENDAR

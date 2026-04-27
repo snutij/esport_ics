@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:好厚米
+X-WR-CALNAME:吵一吵
 SLUG:
 BEGIN:VEVENT
 DTSTAMP:20260427T130000Z
@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
  www.youtube.com/watch?v=iv4_5fa9UTg
 SUMMARY:Round 1 match 9: WOL vs 好厚米
-URL;VALUE=URI:https://www.youtube.com/watch?v=iv4_5fa9UTg
+URL:https://www.youtube.com/watch?v=iv4_5fa9UTg
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260428T103000Z

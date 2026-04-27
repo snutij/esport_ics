@@ -177,6 +177,17 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 4 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/tastelesstv
 SUMMARY:Lower bracket round 1 match 1: Zoun vs Cure
-URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T101500Z
+UID:pandascore-match-1466212@esport-ics
+DTSTART:20260429T101500Z
+DTEND:20260429T123000Z
+CLASS:PUBLIC
+DESCRIPTION:Global StarCraft II League - Season 1 2026 - Group Stage 1 - Gr
+ oup A\nWatch: https://www.sooplive.com/station/afgsl
+SUMMARY:Solar vs Zoun
+URL;VALUE=URI:https://www.sooplive.com/station/afgsl
 END:VEVENT
 END:VCALENDAR

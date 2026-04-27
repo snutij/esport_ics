@@ -155,6 +155,28 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV Team Liquid Map Contest - Season 16 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/wardiii
 SUMMARY:Upper bracket final: SHIN vs MaxPax
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T093000Z
+UID:pandascore-match-1466227@esport-ics
+DTSTART:20260507T093000Z
+DTEND:20260507T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Global StarCraft II League - Season 1 2026 - Group Stage 2 - Gr
+ oup B\nWatch: https://www.sooplive.com/station/afgsl
+SUMMARY:SHIN vs TBD
+URL;VALUE=URI:https://www.sooplive.com/station/afgsl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T101500Z
+UID:pandascore-match-1466392@esport-ics
+DTSTART:20260507T101500Z
+DTEND:20260507T123000Z
+CLASS:PUBLIC
+DESCRIPTION:Global StarCraft II League - Season 1 2026 - Group Stage 2 - Gr
+ oup B\nWatch: https://www.sooplive.com/station/afgsl
+SUMMARY:SHIN vs TBD
+URL;VALUE=URI:https://www.sooplive.com/station/afgsl
 END:VEVENT
 END:VCALENDAR

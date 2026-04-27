@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Privateer Gaming
+SLUG:privateer-gaming
+BEGIN:VEVENT
+DTSTAMP:20260427T123000Z
+UID:pandascore-match-1466120@esport-ics
+DTSTART:20260427T123000Z
+DTEND:20260427T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort-en2
+SUMMARY:Round 1: FORZE.R vs PG
+URL;VALUE=URI:https://kick.com/exort-en2
+END:VEVENT
+END:VCALENDAR
