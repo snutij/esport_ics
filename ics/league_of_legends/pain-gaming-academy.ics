@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Desafiante - Split 1 2026 - Play-In\nWatch: https://ww
  w.twitch.tv/cblol
 SUMMARY:Lower bracket semifinal: PNG.A vs TS
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T200000Z
+UID:pandascore-match-1416740@esport-ics
+DTSTART:20260428T200000Z
+DTEND:20260428T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Play-In\nWatch: https://ww
+ w.twitch.tv/cblol
+SUMMARY:Lower bracket final: RMD vs PNG.A
 URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

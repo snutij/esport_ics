@@ -518,6 +518,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #4 season 51 2026 - P
  layoffs\nWatch: https://www.twitch.tv/fedeadz
 SUMMARY:Upper bracket quarterfinal 3: SHIN vs ISG
-URL;VALUE=URI:https://www.twitch.tv/fedeadz
+URL:https://www.twitch.tv/fedeadz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T210000Z
+UID:pandascore-match-1456998@esport-ics
+DTSTART:20260428T210000Z
+DTEND:20260428T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #4 season 51 2026 - P
+ layoffs
+SUMMARY:Lower bracket round 2 match 2: GH vs SHIN
 END:VEVENT
 END:VCALENDAR
