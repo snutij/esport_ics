@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
  www.youtube.com/watch?v=iv4_5fa9UTg
 SUMMARY:Round 1 match 13: LTG vs DYG
-URL;VALUE=URI:https://www.youtube.com/watch?v=iv4_5fa9UTg
+URL:https://www.youtube.com/watch?v=iv4_5fa9UTg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T110000Z
+UID:pandascore-match-1450950@esport-ics
+DTSTART:20260503T110000Z
+DTEND:20260503T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
+ www.youtube.com/@2019KPL/streams
+SUMMARY:Round 2 match 7: DYG vs TBD
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 END:VCALENDAR

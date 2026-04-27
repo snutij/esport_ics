@@ -47,6 +47,83 @@ CLASS:PUBLIC
 DESCRIPTION:LJL - Stage 1 Winter 2026 - Group A\nWatch: https://www.twitch.
  tv/leagueoflegendsjp
 SUMMARY:Uwinks vs Clocks
-URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+URL:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T080000Z
+UID:pandascore-match-1465566@esport-ics
+DTSTART:20260429T080000Z
+DTEND:20260429T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:Uwinks vs DFM.A
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T110000Z
+UID:pandascore-match-1465573@esport-ics
+DTSTART:20260504T110000Z
+DTEND:20260504T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:Uwinks vs RCK
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T080000Z
+UID:pandascore-match-1465596@esport-ics
+DTSTART:20260506T080000Z
+DTEND:20260506T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:Uwinks vs RG
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T080000Z
+UID:pandascore-match-1465622@esport-ics
+DTSTART:20260514T080000Z
+DTEND:20260514T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:Uwinks vs L Guide Gaming
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T080000Z
+UID:pandascore-match-1465662@esport-ics
+DTSTART:20260521T080000Z
+DTEND:20260521T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:Uwinks vs FNL
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T110000Z
+UID:pandascore-match-1465687@esport-ics
+DTSTART:20260527T110000Z
+DTEND:20260527T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:Uwinks vs ARB
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T110000Z
+UID:pandascore-match-1465691@esport-ics
+DTSTART:20260603T110000Z
+DTEND:20260603T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:Uwinks vs New Meta
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
 END:VEVENT
 END:VCALENDAR

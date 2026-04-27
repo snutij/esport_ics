@@ -102,6 +102,83 @@ CLASS:PUBLIC
 DESCRIPTION:LJL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/leag
  ueoflegendsjp
 SUMMARY:Grand final: FNL vs RG
-URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+URL:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T080000Z
+UID:pandascore-match-1465568@esport-ics
+DTSTART:20260430T080000Z
+DTEND:20260430T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:RCK vs FNL
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T080000Z
+UID:pandascore-match-1465570@esport-ics
+DTSTART:20260501T080000Z
+DTEND:20260501T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:DFM.A vs FNL
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T110000Z
+UID:pandascore-match-1465595@esport-ics
+DTSTART:20260505T110000Z
+DTEND:20260505T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:New Meta vs FNL
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T110000Z
+UID:pandascore-match-1465623@esport-ics
+DTSTART:20260514T110000Z
+DTEND:20260514T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:FNL vs ARB
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T080000Z
+UID:pandascore-match-1465662@esport-ics
+DTSTART:20260521T080000Z
+DTEND:20260521T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:Uwinks vs FNL
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T080000Z
+UID:pandascore-match-1465688@esport-ics
+DTSTART:20260528T080000Z
+DTEND:20260528T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:L Guide Gaming vs FNL
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T110000Z
+UID:pandascore-match-1465693@esport-ics
+DTSTART:20260604T110000Z
+DTEND:20260604T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:RG vs FNL
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
 END:VEVENT
 END:VCALENDAR

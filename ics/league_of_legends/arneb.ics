@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arneb
+SLUG:arneb
+BEGIN:VEVENT
+DTSTAMP:20260430T110000Z
+UID:pandascore-match-1465569@esport-ics
+DTSTART:20260430T110000Z
+DTEND:20260430T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:New Meta vs ARB
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T080000Z
+UID:pandascore-match-1465572@esport-ics
+DTSTART:20260504T080000Z
+DTEND:20260504T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:RG vs ARB
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T110000Z
+UID:pandascore-match-1465617@esport-ics
+DTSTART:20260506T110000Z
+DTEND:20260506T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:RCK vs ARB
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T110000Z
+UID:pandascore-match-1465623@esport-ics
+DTSTART:20260514T110000Z
+DTEND:20260514T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:FNL vs ARB
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T110000Z
+UID:pandascore-match-1465685@esport-ics
+DTSTART:20260522T110000Z
+DTEND:20260522T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:L Guide Gaming vs ARB
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T110000Z
+UID:pandascore-match-1465687@esport-ics
+DTSTART:20260527T110000Z
+DTEND:20260527T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:Uwinks vs ARB
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T080000Z
+UID:pandascore-match-1465690@esport-ics
+DTSTART:20260603T080000Z
+DTEND:20260603T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:DFM.A vs ARB
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+END:VCALENDAR

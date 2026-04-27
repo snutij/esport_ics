@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Pulse Stage North Africa 2026 - Group St
  age\nWatch: https://www.twitch.tv/valorantesports_ar
 SUMMARY:Round 3: RAF vs GLS
+URL:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T160000Z
+UID:pandascore-match-1465504@esport-ics
+DTSTART:20260504T160000Z
+DTEND:20260504T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Pulse Stage North Africa 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/valorantesports_ar
+SUMMARY:Upper bracket semifinal 1: GMX vs GLS
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR

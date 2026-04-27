@@ -102,6 +102,83 @@ CLASS:PUBLIC
 DESCRIPTION:LJL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/leag
  ueoflegendsjp
 SUMMARY:Grand final: FNL vs RG
-URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+URL:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T110000Z
+UID:pandascore-match-1465567@esport-ics
+DTSTART:20260429T110000Z
+DTEND:20260429T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:L Guide Gaming vs RG
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T080000Z
+UID:pandascore-match-1465572@esport-ics
+DTSTART:20260504T080000Z
+DTEND:20260504T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:RG vs ARB
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T080000Z
+UID:pandascore-match-1465596@esport-ics
+DTSTART:20260506T080000Z
+DTEND:20260506T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:Uwinks vs RG
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T080000Z
+UID:pandascore-match-1465640@esport-ics
+DTSTART:20260515T080000Z
+DTEND:20260515T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:DFM.A vs RG
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T110000Z
+UID:pandascore-match-1465682@esport-ics
+DTSTART:20260521T110000Z
+DTEND:20260521T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:New Meta vs RG
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T110000Z
+UID:pandascore-match-1465689@esport-ics
+DTSTART:20260528T110000Z
+DTEND:20260528T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:RG vs RCK
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T110000Z
+UID:pandascore-match-1465693@esport-ics
+DTSTART:20260604T110000Z
+DTEND:20260604T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:RG vs FNL
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
 END:VEVENT
 END:VCALENDAR

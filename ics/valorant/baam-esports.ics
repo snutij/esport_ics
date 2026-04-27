@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Pulse Stage North AfricaEast 2026 - Grou
  p Stage\nWatch: https://www.twitch.tv/valorantesports_ar
 SUMMARY:Round 2: BAAM vs GNGA
+URL:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T183000Z
+UID:pandascore-match-1465505@esport-ics
+DTSTART:20260504T183000Z
+DTEND:20260504T204500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Pulse Stage North Africa 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/valorantesports_ar
+SUMMARY:Upper bracket semifinal 2: BAAM vs RAAD
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR

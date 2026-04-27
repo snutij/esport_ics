@@ -58,6 +58,83 @@ CLASS:PUBLIC
 DESCRIPTION:LJL - Stage 1 Winter 2026 - Group B\nWatch: https://www.twitch.
  tv/leagueoflegendsjp
 SUMMARY:DFM.A vs Fast8
-URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+URL:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T080000Z
+UID:pandascore-match-1465566@esport-ics
+DTSTART:20260429T080000Z
+DTEND:20260429T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:Uwinks vs DFM.A
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T080000Z
+UID:pandascore-match-1465570@esport-ics
+DTSTART:20260501T080000Z
+DTEND:20260501T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:DFM.A vs FNL
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T080000Z
+UID:pandascore-match-1465581@esport-ics
+DTSTART:20260505T080000Z
+DTEND:20260505T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:DFM.A vs L Guide Gaming
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T080000Z
+UID:pandascore-match-1465640@esport-ics
+DTSTART:20260515T080000Z
+DTEND:20260515T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:DFM.A vs RG
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T080000Z
+UID:pandascore-match-1465684@esport-ics
+DTSTART:20260522T080000Z
+DTEND:20260522T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:DFM.A vs RCK
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T080000Z
+UID:pandascore-match-1465686@esport-ics
+DTSTART:20260527T080000Z
+DTEND:20260527T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:New Meta vs DFM.A
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T080000Z
+UID:pandascore-match-1465690@esport-ics
+DTSTART:20260603T080000Z
+DTEND:20260603T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/riotgamesjp
+SUMMARY:DFM.A vs ARB
+URL;VALUE=URI:https://www.twitch.tv/riotgamesjp
 END:VEVENT
 END:VCALENDAR
