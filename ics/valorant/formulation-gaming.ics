@@ -205,6 +205,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - NORTH//EAST Stage 2 2026 - Playoffs\nWatch: https://www.t
  witch.tv/lendothlive
 SUMMARY:Mid bracket round 2 match 1: TL.A vs FG
-URL;VALUE=URI:https://www.twitch.tv/lendothlive
+URL:https://www.twitch.tv/lendothlive
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T150000Z
+UID:pandascore-match-1447725@esport-ics
+DTSTART:20260428T150000Z
+DTEND:20260428T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - NORTH//EAST Stage 2 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/valorantleague_ne
+SUMMARY:Lower bracket round 1 match 1: FG vs BFG
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_ne
 END:VEVENT
 END:VCALENDAR
