@@ -375,7 +375,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 48 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Elimination match: ALGO vs SASHI.A
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260427T180000Z
@@ -384,8 +384,8 @@ DTSTART:20260427T180000Z
 DTEND:20260427T201500Z
 CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group Stage\nWatch: https://
- www.twitch.tv/dust2tv
+ www.twitch.tv/d0kt0r3n
 SUMMARY:Round 1: SASHI.A vs EN
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL;VALUE=URI:https://www.twitch.tv/d0kt0r3n
 END:VEVENT
 END:VCALENDAR

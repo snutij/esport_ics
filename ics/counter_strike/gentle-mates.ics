@@ -188,6 +188,17 @@ CLASS:PUBLIC
 DESCRIPTION:LORGAR RANKINGS - 2026 - Playoffs\nWatch: https://www.twitch.tv
  /starladder_cs_en
 SUMMARY:Grand final: M8 vs SIN
-URL;VALUE=URI:https://www.twitch.tv/starladder_cs_en
+URL:https://www.twitch.tv/starladder_cs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T173000Z
+UID:pandascore-match-1466454@esport-ics
+DTSTART:20260429T173000Z
+DTEND:20260429T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 2: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 5: M8 vs ASTR
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

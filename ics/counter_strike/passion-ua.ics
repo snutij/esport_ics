@@ -341,4 +341,15 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - Season 20 2026 - Playoffs
 SUMMARY:3rd place match: MARS vs PSSN.UA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T173000Z
+UID:pandascore-match-1466455@esport-ics
+DTSTART:20260430T173000Z
+DTEND:20260430T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 2: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 6: PSSN.UA vs FOKUS
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
 END:VCALENDAR

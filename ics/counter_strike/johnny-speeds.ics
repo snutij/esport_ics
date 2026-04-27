@@ -470,6 +470,17 @@ CLASS:PUBLIC
 DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
  tps://www.twitch.tv/playzonecz
 SUMMARY:Round 3: TRI vs JS
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T090000Z
+UID:pandascore-match-1466452@esport-ics
+DTSTART:20260429T090000Z
+DTEND:20260429T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 2: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 3: ILWL vs JS
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

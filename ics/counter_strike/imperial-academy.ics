@@ -552,4 +552,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:ENJOY vs IMP.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T080000Z
+UID:pandascore-match-1466098@esport-ics
+DTSTART:20260430T080000Z
+DTEND:20260430T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper bracket semifinal 2: IMP.A vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
