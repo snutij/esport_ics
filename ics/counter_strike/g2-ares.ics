@@ -465,4 +465,37 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:EP vs G2.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T200000Z
+UID:pandascore-match-1466503@esport-ics
+DTSTART:20260501T200000Z
+DTEND:20260501T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Esplay Elite Gaming - Season 1 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/esplaycom
+SUMMARY:G2.A vs Matrix
+URL;VALUE=URI:https://www.twitch.tv/esplaycom
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T210000Z
+UID:pandascore-match-1466505@esport-ics
+DTSTART:20260501T210000Z
+DTEND:20260501T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Esplay Elite Gaming - Season 1 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/esplaycom
+SUMMARY:G2.A vs RGG
+URL;VALUE=URI:https://www.twitch.tv/esplaycom
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T220000Z
+UID:pandascore-match-1466506@esport-ics
+DTSTART:20260501T220000Z
+DTEND:20260501T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Esplay Elite Gaming - Season 1 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/esplaycom
+SUMMARY:SAW vs G2.A
+URL;VALUE=URI:https://www.twitch.tv/esplaycom
+END:VEVENT
 END:VCALENDAR
