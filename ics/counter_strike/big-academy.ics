@@ -415,7 +415,7 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/dachcs
 SUMMARY:BIG.A vs HUSK
-URL;VALUE=URI:https://www.twitch.tv/dachcs
+URL:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260428T103000Z
@@ -427,6 +427,15 @@ DESCRIPTION:European Pro League - Regular season 4 2026 - Playoffs\nWatch:
  https://kick.com/eplcs_en
 SUMMARY:Upper bracket quarterfinal 1: BIG.A vs RT
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T170000Z
+UID:pandascore-match-1456896@esport-ics
+DTSTART:20260428T170000Z
+DTEND:20260428T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+SUMMARY:Lower bracket round 5 match 2: BIG.A vs G1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260504T180000Z
