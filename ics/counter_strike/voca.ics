@@ -416,4 +416,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 1: VOCA vs Surge
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T010000Z
+UID:pandascore-match-1456949@esport-ics
+DTSTART:20260428T010000Z
+DTEND:20260428T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: VOCA vs TBD
+END:VEVENT
 END:VCALENDAR

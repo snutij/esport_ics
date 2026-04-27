@@ -81,6 +81,17 @@ CLASS:PUBLIC
 DESCRIPTION:R6 North Rainbow Rumble - 2026 - Group B\nWatch: https://www.tw
  itch.tv/rainbow6bravo
 SUMMARY:SII vs PAN
-URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
+URL:https://www.twitch.tv/rainbow6bravo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T140000Z
+UID:pandascore-match-1441755@esport-ics
+DTSTART:20260501T140000Z
+DTEND:20260501T161500Z
+CLASS:PUBLIC
+DESCRIPTION:R6 North Rainbow Rumble - 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/rainbow6
+SUMMARY:Upper bracket semifinal 1: byłaś iluzja vs PAN
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

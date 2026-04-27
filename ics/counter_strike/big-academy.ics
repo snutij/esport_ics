@@ -416,6 +416,17 @@ SUMMARY:BIG.A vs HUSK
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260428T103000Z
+UID:pandascore-match-1465430@esport-ics
+DTSTART:20260428T103000Z
+DTEND:20260428T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper bracket quarterfinal 1: BIG.A vs RT
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260504T180000Z
 UID:pandascore-match-1385748@esport-ics
 DTSTART:20260504T180000Z

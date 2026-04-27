@@ -125,7 +125,7 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - North American 2026 - Group B\
  nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:IP vs Incognito
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260427T010000Z
@@ -135,6 +135,15 @@ DTEND:20260427T031500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 7: FV vs IP
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T010000Z
+UID:pandascore-match-1456956@esport-ics
+DTSTART:20260428T010000Z
+DTEND:20260428T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 4: ex-MARS vs IP
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260430T003000Z

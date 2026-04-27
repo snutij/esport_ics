@@ -66,6 +66,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs\nW
  atch: https://www.twitch.tv/JTMythic
 SUMMARY:Upper bracket round 1 match 5: WC vs WG
-URL;VALUE=URI:https://www.twitch.tv/JTMythic
+URL:https://www.twitch.tv/JTMythic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T010000Z
+UID:pandascore-match-1456955@esport-ics
+DTSTART:20260428T010000Z
+DTEND:20260428T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 3: WG vs EMP
 END:VEVENT
 END:VCALENDAR

@@ -716,6 +716,17 @@ SUMMARY:Semifinal 1: AAB vs TS.A
 URL:https://kick.com/exort_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260427T080000Z
+UID:pandascore-match-1465433@esport-ics
+DTSTART:20260427T080000Z
+DTEND:20260427T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper bracket quarterfinal 4: ALGO vs AAB
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260427T103000Z
 UID:pandascore-match-1458885@esport-ics
 DTSTART:20260427T103000Z
