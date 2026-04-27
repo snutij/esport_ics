@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 2 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Upper bracket quarterfinal 2: M80 vs ADG
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T200000Z
+UID:pandascore-match-1459393@esport-ics
+DTSTART:20260429T200000Z
+DTEND:20260429T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 2 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Lower bracket round 1 match 1: ADG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR

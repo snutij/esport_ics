@@ -397,6 +397,17 @@ CLASS:PUBLIC
 DESCRIPTION:LORGAR RANKINGS - 2026 - Playoffs\nWatch: https://www.twitch.tv
  /starladder_cs_en
 SUMMARY:Semifinal 1: SIN vs KOL
-URL;VALUE=URI:https://www.twitch.tv/starladder_cs_en
+URL:https://www.twitch.tv/starladder_cs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T150000Z
+UID:pandascore-match-1438518@esport-ics
+DTSTART:20260429T150000Z
+DTEND:20260429T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Conquest of Prague - Online Stage 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/playzonecz
+SUMMARY:KOL vs TBD
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR

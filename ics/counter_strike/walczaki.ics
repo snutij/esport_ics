@@ -116,6 +116,17 @@ CLASS:PUBLIC
 DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
  tps://www.twitch.tv/playzoneup
 SUMMARY:Round 5: WAL vs CC
-URL;VALUE=URI:https://www.twitch.tv/playzoneup
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T150000Z
+UID:pandascore-match-1438516@esport-ics
+DTSTART:20260428T150000Z
+DTEND:20260428T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Conquest of Prague - Online Stage 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/playzonecz
+SUMMARY:WAL vs TRI
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR

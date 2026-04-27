@@ -305,6 +305,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/muchapt
 SUMMARY:Lower bracket round 1 match 10: FCF vs AUR.YB
-URL;VALUE=URI:https://www.twitch.tv/muchapt
+URL:https://www.twitch.tv/muchapt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T150000Z
+UID:pandascore-match-1466515@esport-ics
+DTSTART:20260428T150000Z
+DTEND:20260428T154500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:AUR.YB vs PeePuP
 END:VEVENT
 END:VCALENDAR
