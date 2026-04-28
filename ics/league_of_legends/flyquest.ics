@@ -125,6 +125,17 @@ SUMMARY:Lower bracket final: FLY vs TL
 URL:https://www.twitch.tv/ewclol2026
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260429T180000Z
+UID:pandascore-match-1446615@esport-ics
+DTSTART:20260429T180000Z
+DTEND:20260429T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - North America Qualifier 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/ewclol2026
+SUMMARY:Grand final: SEN vs FLY
+URL;VALUE=URI:https://www.twitch.tv/ewclol2026
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260503T230000Z
 UID:pandascore-match-1402389@esport-ics
 DTSTART:20260503T230000Z
