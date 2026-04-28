@@ -154,6 +154,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - EMEA Qualifier 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/ewclol2026
 SUMMARY:Upper bracket round 1 match 2: Navi vs GAL
+URL:https://www.twitch.tv/ewclol2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T150000Z
+UID:pandascore-match-1466114@esport-ics
+DTSTART:20260429T150000Z
+DTEND:20260429T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - EMEA Qualifier 2026 - Playoffs\nWatch: http
+ s://www.twitch.tv/ewclol2026
+SUMMARY:Upper bracket quarterfinal 2: GX vs Navi
 URL;VALUE=URI:https://www.twitch.tv/ewclol2026
 END:VEVENT
 BEGIN:VEVENT

@@ -59,17 +59,6 @@ SUMMARY:REV vs HUSK
 URL:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260427T180000Z
-UID:pandascore-match-1385744@esport-ics
-DTSTART:20260427T180000Z
-DTEND:20260427T201500Z
-CLASS:PUBLIC
-DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
- ww.twitch.tv/dachcs
-SUMMARY:BIG.A vs HUSK
-URL:https://www.twitch.tv/dachcs
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260506T180000Z
 UID:pandascore-match-1385752@esport-ics
 DTSTART:20260506T180000Z
@@ -100,6 +89,17 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/dachcs
 SUMMARY:HUSK vs R4G
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T180000Z
+UID:pandascore-match-1385744@esport-ics
+DTSTART:20260520T180000Z
+DTEND:20260520T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/dachcs
+SUMMARY:BIG.A vs HUSK
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 END:VCALENDAR
