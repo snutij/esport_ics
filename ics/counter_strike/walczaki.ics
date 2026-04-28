@@ -129,4 +129,26 @@ DESCRIPTION:Conquest of Prague - Online Stage 2026 - Playoffs\nWatch: https
 SUMMARY:WAL vs TRI
 URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T190000Z
+UID:pandascore-match-1467055@esport-ics
+DTSTART:20260428T190000Z
+DTEND:20260428T211500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
+ nWatch: https://www.kick.com/bcgamemasters
+SUMMARY:Round 1: WAL vs ASTR
+URL;VALUE=URI:https://www.kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T080000Z
+UID:pandascore-match-1467060@esport-ics
+DTSTART:20260430T080000Z
+DTEND:20260430T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In Group A\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:WAL vs BBP
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

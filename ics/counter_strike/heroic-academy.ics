@@ -485,4 +485,26 @@ DESCRIPTION:CCT Europe - Series #1 Play-In 2026 - Group B\nWatch: https://k
 SUMMARY:Elimination match: HERO.A vs BBP
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T140000Z
+UID:pandascore-match-1467056@esport-ics
+DTSTART:20260428T140000Z
+DTEND:20260428T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
+ nWatch: https://www.kick.com/bcgamemasters
+SUMMARY:Round 1: HERO.A vs HS
+URL;VALUE=URI:https://www.kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T110000Z
+UID:pandascore-match-1467061@esport-ics
+DTSTART:20260430T110000Z
+DTEND:20260430T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In Group A\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:HERO.A vs OXUJI
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

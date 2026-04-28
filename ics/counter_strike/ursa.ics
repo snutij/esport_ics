@@ -822,4 +822,15 @@ DESCRIPTION:CCT Europe - Series #1 Play-In 2026 - Group A\nWatch: https://k
 SUMMARY:Winners match: LILMIX vs URSA
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T080000Z
+UID:pandascore-match-1467066@esport-ics
+DTSTART:20260503T080000Z
+DTEND:20260503T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In Group D\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:URSA vs HAVU
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

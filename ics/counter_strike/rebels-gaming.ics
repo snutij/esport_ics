@@ -554,4 +554,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 2: RBLS vs SPARTA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T170000Z
+UID:pandascore-match-1467067@esport-ics
+DTSTART:20260503T170000Z
+DTEND:20260503T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In Group D\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:RBLS vs HS
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
