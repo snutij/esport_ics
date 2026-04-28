@@ -284,6 +284,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs\nW
  atch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Upper bracket quarterfinal 2: ZOMB vs REGAIN
-URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
+URL:https://www.twitch.tv/karmaflexxx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T010000Z
+UID:pandascore-match-1456959@esport-ics
+DTSTART:20260429T010000Z
+DTEND:20260429T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 3: REGAIN vs WG
 END:VEVENT
 END:VCALENDAR

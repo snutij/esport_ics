@@ -735,6 +735,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 48 2026 - Group B\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider Match: BIG.A vs AAB
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T080000Z
+UID:pandascore-match-1466098@esport-ics
+DTSTART:20260430T080000Z
+DTEND:20260430T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper bracket semifinal 2: IMP.A vs AAB
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
