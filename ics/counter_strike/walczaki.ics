@@ -141,6 +141,17 @@ SUMMARY:Round 1: WAL vs ASTR
 URL;VALUE=URI:https://www.kick.com/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260429T150000Z
+UID:pandascore-match-1438518@esport-ics
+DTSTART:20260429T150000Z
+DTEND:20260429T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Conquest of Prague - Online Stage 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/playzonecz
+SUMMARY:KOL vs WAL
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260430T080000Z
 UID:pandascore-match-1467060@esport-ics
 DTSTART:20260430T080000Z
