@@ -425,4 +425,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 1: VOCA vs CCE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T010000Z
+UID:pandascore-match-1456961@esport-ics
+DTSTART:20260430T010000Z
+DTEND:20260430T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 1: VOCA vs TBD
+END:VEVENT
 END:VCALENDAR

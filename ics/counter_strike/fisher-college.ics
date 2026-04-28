@@ -228,6 +228,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs\nW
  atch: https://www.twitch.tv/endiezcasts
 SUMMARY:Lower bracket round 1 match 2: BOSS vs FC
-URL;VALUE=URI:https://www.twitch.tv/endiezcasts
+URL:https://www.twitch.tv/endiezcasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T010000Z
+UID:pandascore-match-1456958@esport-ics
+DTSTART:20260429T010000Z
+DTEND:20260429T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 2: FC vs TA
 END:VEVENT
 END:VCALENDAR
