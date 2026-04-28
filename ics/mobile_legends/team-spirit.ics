@@ -88,8 +88,10 @@ UID:pandascore-match-1466465@esport-ics
 DTSTART:20260428T163000Z
 DTEND:20260428T184500Z
 CLASS:PUBLIC
-DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division\nWatch:
+  https://www.youtube.com/watch?v=IeeeyvImzos
 SUMMARY:TS vs Verso Time
+URL;VALUE=URI:https://www.youtube.com/watch?v=IeeeyvImzos
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260429T163000Z

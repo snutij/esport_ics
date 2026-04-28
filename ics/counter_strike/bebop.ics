@@ -665,4 +665,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In Group A\nWatch:
 SUMMARY:WAL vs BBP
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T110000Z
+UID:pandascore-match-1462488@esport-ics
+DTSTART:20260501T110000Z
+DTEND:20260501T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #1 Play-In 2026 - Group B\nWatch: https://k
+ ick.com/cct_cs
+SUMMARY:Decider match: BBP vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR

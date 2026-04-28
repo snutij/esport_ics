@@ -59,6 +59,17 @@ DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:DRIP vs Project 91
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260428T170000Z
+UID:pandascore-match-1467071@esport-ics
+DTSTART:20260428T170000Z
+DTEND:20260428T191500Z
+CLASS:PUBLIC
+DESCRIPTION:UKIC - Masters Division season 10 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/UKICircuit
+SUMMARY:Upper bracket quarterfinal 4: MP vs DRIP
+URL;VALUE=URI:https://www.twitch.tv/UKICircuit
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260429T140000Z
 UID:pandascore-match-1462494@esport-ics
 DTSTART:20260429T140000Z
@@ -68,16 +79,5 @@ DESCRIPTION:CCT Europe - Series #1 Play-In 2026 - Group D\nWatch: https://k
  ick.com/cct_cs
 SUMMARY:PF vs DRIP
 URL;VALUE=URI:https://kick.com/cct_cs
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260430T193000Z
-UID:pandascore-match-1467071@esport-ics
-DTSTART:20260430T193000Z
-DTEND:20260430T214500Z
-CLASS:PUBLIC
-DESCRIPTION:UKIC - Masters Division season 10 2026 - Playoffs\nWatch: https
- ://www.twitch.tv/UKICircuit
-SUMMARY:Upper bracket quarterfinal 4: MP vs DRIP
-URL;VALUE=URI:https://www.twitch.tv/UKICircuit
 END:VEVENT
 END:VCALENDAR

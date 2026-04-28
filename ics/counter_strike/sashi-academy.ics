@@ -386,6 +386,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group Stage\nWatch: https://
  www.twitch.tv/d0kt0r3n
 SUMMARY:Round 1: SASHI.A vs EN
-URL;VALUE=URI:https://www.twitch.tv/d0kt0r3n
+URL:https://www.twitch.tv/d0kt0r3n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T180000Z
+UID:pandascore-match-1467579@esport-ics
+DTSTART:20260504T180000Z
+DTEND:20260504T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/dust2tv
+SUMMARY:Round 2: SASHI.A vs AAB.B
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 END:VCALENDAR

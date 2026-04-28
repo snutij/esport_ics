@@ -338,9 +338,9 @@ DTSTART:20260428T140000Z
 DTEND:20260428T161500Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
- nWatch: https://www.kick.com/bcgamemasters
+ nWatch: https://www.twitch.tv/bcgamemastersb
 SUMMARY:Round 1: TNC vs G1
-URL;VALUE=URI:https://www.kick.com/bcgamemasters
+URL;VALUE=URI:https://www.twitch.tv/bcgamemastersb
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260428T170000Z
@@ -349,7 +349,9 @@ DTSTART:20260428T170000Z
 DTEND:20260428T191500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/krl_stream
 SUMMARY:Lower bracket round 5 match 2: BIG.A vs G1
+URL;VALUE=URI:https://www.twitch.tv/krl_stream
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260503T110000Z

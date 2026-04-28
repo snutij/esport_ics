@@ -426,7 +426,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 4 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Upper bracket quarterfinal 1: BIG.A vs RT
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260428T170000Z
@@ -435,7 +435,9 @@ DTSTART:20260428T170000Z
 DTEND:20260428T191500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/krl_stream
 SUMMARY:Lower bracket round 5 match 2: BIG.A vs G1
+URL;VALUE=URI:https://www.twitch.tv/krl_stream
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260504T180000Z
