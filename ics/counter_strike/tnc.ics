@@ -467,6 +467,17 @@ URL:https://www.twitch.tv/bcgamemastersb
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260430T170000Z
+UID:pandascore-match-1467656@esport-ics
+DTSTART:20260430T170000Z
+DTEND:20260430T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
+ nWatch: https://www.kick.com/bcgamemasters
+SUMMARY:Round 2: AAB vs TNC
+URL;VALUE=URI:https://www.kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T170000Z
 UID:pandascore-match-1467063@esport-ics
 DTSTART:20260430T170000Z
 DTEND:20260430T191500Z
