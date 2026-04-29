@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 2 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Upper bracket quarterfinal 4: FQ vs SRB
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T230000Z
+UID:pandascore-match-1459394@esport-ics
+DTSTART:20260429T230000Z
+DTEND:20260430T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 2 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Lower bracket round 1 match 2: QoR vs FQ
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR
