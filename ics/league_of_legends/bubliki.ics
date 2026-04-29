@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bubliki
+SLUG:bubliki
+BEGIN:VEVENT
+DTSTAMP:20260429T190000Z
+UID:pandascore-match-1468648@esport-ics
+DTSTART:20260429T190000Z
+DTEND:20260429T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:Bubliki vs DRM
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T180000Z
+UID:pandascore-match-1468651@esport-ics
+DTSTART:20260430T180000Z
+DTEND:20260430T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:Bubliki vs CRZ
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T210000Z
+UID:pandascore-match-1468658@esport-ics
+DTSTART:20260507T210000Z
+DTEND:20260507T214500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:Bubliki vs ZZG
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T190000Z
+UID:pandascore-match-1468660@esport-ics
+DTSTART:20260508T190000Z
+DTEND:20260508T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:FCN vs Bubliki
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T200000Z
+UID:pandascore-match-1468665@esport-ics
+DTSTART:20260513T200000Z
+DTEND:20260513T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:Bubliki vs TOS
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T200000Z
+UID:pandascore-match-1468669@esport-ics
+DTSTART:20260514T200000Z
+DTEND:20260514T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:Bubliki vs Ronaldo Team
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T180000Z
+UID:pandascore-match-1468671@esport-ics
+DTSTART:20260515T180000Z
+DTEND:20260515T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:GTZ vs Bubliki
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+END:VCALENDAR

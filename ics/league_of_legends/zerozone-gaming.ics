@@ -47,7 +47,7 @@ CLASS:PUBLIC
 DESCRIPTION:LPLOL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/rt
  parenalol
 SUMMARY:Semifinal 1: VE vs ZZG
-URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+URL:https://www.twitch.tv/rtparenalol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260303T190000Z
@@ -59,5 +59,82 @@ DESCRIPTION:LPLOL - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/rt
  parenalol
 SUMMARY:Semifinal 2: ZZG vs CRZ
 URL:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T210000Z
+UID:pandascore-match-1468650@esport-ics
+DTSTART:20260429T210000Z
+DTEND:20260429T214500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:FCN vs ZZG
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T200000Z
+UID:pandascore-match-1468653@esport-ics
+DTSTART:20260430T200000Z
+DTEND:20260430T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:ZZG vs TOS
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T210000Z
+UID:pandascore-match-1468658@esport-ics
+DTSTART:20260507T210000Z
+DTEND:20260507T214500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:Bubliki vs ZZG
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T210000Z
+UID:pandascore-match-1468662@esport-ics
+DTSTART:20260508T210000Z
+DTEND:20260508T214500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:GTZ vs ZZG
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T180000Z
+UID:pandascore-match-1468663@esport-ics
+DTSTART:20260513T180000Z
+DTEND:20260513T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:ZZG vs DRM
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T190000Z
+UID:pandascore-match-1468668@esport-ics
+DTSTART:20260514T190000Z
+DTEND:20260514T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:CRZ vs ZZG
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T210000Z
+UID:pandascore-match-1468674@esport-ics
+DTSTART:20260515T210000Z
+DTEND:20260515T214500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
+ .tv/rtparenalol
+SUMMARY:Ronaldo Team vs ZZG
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
 END:VEVENT
 END:VCALENDAR
