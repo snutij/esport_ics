@@ -138,6 +138,17 @@ SUMMARY:Upper bracket quarterfinal 3: KC vs SK
 URL:https://www.twitch.tv/ewclol2026
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260430T150000Z
+UID:pandascore-match-1466121@esport-ics
+DTSTART:20260430T150000Z
+DTEND:20260430T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - EMEA Qualifier 2026 - Playoffs\nWatch: http
+ s://www.twitch.tv/ewclol2026
+SUMMARY:Lower bracket round 1 match 2: SK vs GAL
+URL;VALUE=URI:https://www.twitch.tv/ewclol2026
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260502T171500Z
 UID:pandascore-match-1402279@esport-ics
 DTSTART:20260502T171500Z

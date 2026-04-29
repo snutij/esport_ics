@@ -380,6 +380,17 @@ SUMMARY:Upper bracket final: NGX vs 1WIN
 URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260501T140000Z
+UID:pandascore-match-1452780@esport-ics
+DTSTART:20260501T140000Z
+DTEND:20260501T174500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/esl_dota2
+SUMMARY:Grand final: NGX vs TBD
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260502T180000Z
 UID:pandascore-match-1468782@esport-ics
 DTSTART:20260502T180000Z

@@ -256,6 +256,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Rivals - Spring 2026 - Group A\nWatch: https://www.twitch
  .tv/blastpremier
 SUMMARY:Upper bracket semifinal 1: VIT vs FUT
+URL:https://www.twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T150000Z
+UID:pandascore-match-1438570@esport-ics
+DTSTART:20260430T150000Z
+DTEND:20260430T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Spring 2026 - Group A\nWatch: https://www.twitch
+ .tv/blastpremier
+SUMMARY:Lower bracket semifinal: FUT vs TBD
 URL;VALUE=URI:https://www.twitch.tv/blastpremier
 END:VEVENT
 END:VCALENDAR
