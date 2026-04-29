@@ -168,6 +168,39 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Spring 2026 - Regular Season\nWatch: https://w
  ww.twitch.tv/lolesports_ar
 SUMMARY:3BL vs GNG
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T183000Z
+UID:pandascore-match-1469256@esport-ics
+DTSTART:20260501T183000Z
+DTEND:20260501T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Last Stand\nWatch: https://www.t
+ witch.tv/lolesports_ar
+SUMMARY:3BL vs GNG
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T183000Z
+UID:pandascore-match-1469258@esport-ics
+DTSTART:20260505T183000Z
+DTEND:20260505T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Last Stand\nWatch: https://www.t
+ witch.tv/lolesports_ar
+SUMMARY:ONE vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T160000Z
+UID:pandascore-match-1469259@esport-ics
+DTSTART:20260506T160000Z
+DTEND:20260506T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Last Stand\nWatch: https://www.t
+ witch.tv/lolesports_ar
+SUMMARY:3BL vs JSK
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

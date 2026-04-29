@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:UKIC - Masters Division season 10 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/ukcshub
 SUMMARY:Upper bracket quarterfinal 2: MES vs SSS
-URL;VALUE=URI:https://www.twitch.tv/ukcshub
+URL:https://www.twitch.tv/ukcshub
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T193000Z
+UID:pandascore-match-1469275@esport-ics
+DTSTART:20260507T193000Z
+DTEND:20260507T214500Z
+CLASS:PUBLIC
+DESCRIPTION:UKIC - Masters Division season 10 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/UKICircuit
+SUMMARY:Lower bracket round 1 match 1: SSS vs TBD
+URL;VALUE=URI:https://www.twitch.tv/UKICircuit
 END:VEVENT
 END:VCALENDAR

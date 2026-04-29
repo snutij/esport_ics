@@ -406,4 +406,26 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:DRIP vs RT
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T103000Z
+UID:pandascore-match-1466105@esport-ics
+DTSTART:20260501T103000Z
+DTEND:20260501T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Lower bracket quarterfinal 1: RT vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T080000Z
+UID:pandascore-match-1469567@esport-ics
+DTSTART:20260502T080000Z
+DTEND:20260502T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 48 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket semifinal 1: RT vs ALGO
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
