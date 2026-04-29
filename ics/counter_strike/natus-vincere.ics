@@ -273,6 +273,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Rivals - Spring 2026 - Group B\nWatch: https://www.twitch
  .tv/blastpremier
 SUMMARY:Upper bracket semifinal 1: NAVI vs FaZe
+URL:https://www.twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T233000Z
+UID:pandascore-match-1438919@esport-ics
+DTSTART:20260430T233000Z
+DTEND:20260501T014500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Spring 2026 - Group B\nWatch: https://www.twitch
+ .tv/blastpremier
+SUMMARY:Upper bracket final: NAVI vs TBD
 URL;VALUE=URI:https://www.twitch.tv/blastpremier
 END:VEVENT
 END:VCALENDAR

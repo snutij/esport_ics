@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 2 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Lower bracket round 1 match 1: ADG vs D1
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T200000Z
+UID:pandascore-match-1459395@esport-ics
+DTSTART:20260504T200000Z
+DTEND:20260504T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 2 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Lower bracket quarterfinal 1: D1 vs TBD
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR
