@@ -56,4 +56,15 @@ DESCRIPTION:Thunderpick World Championship - North American 2026 - Group B\
 SUMMARY:Elimination match: IP vs GK
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T003000Z
+UID:pandascore-match-1460369@esport-ics
+DTSTART:20260501T003000Z
+DTEND:20260501T024500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - North American 2026 - Group B\
+ nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Decider match: Incognito vs GK
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR

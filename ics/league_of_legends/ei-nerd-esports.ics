@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Desafiante - Split 1 2026 - Play-In\nWatch: https://ww
  w.twitch.tv/cblol
 SUMMARY:Upper bracket final: NERD vs RMD
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T200000Z
+UID:pandascore-match-1460386@esport-ics
+DTSTART:20260511T200000Z
+DTEND:20260511T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/cblol
+SUMMARY:Lower bracket round 1 match 1: TBD vs NERD
 URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

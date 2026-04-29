@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 26 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 1: Oldboys vs HEC
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T183000Z
+UID:pandascore-match-1468562@esport-ics
+DTSTART:20260430T183000Z
+DTEND:20260430T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 2: PG vs HEC
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
