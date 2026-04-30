@@ -512,6 +512,17 @@ SUMMARY:Upper bracket quarterfinal 4: KSM vs LPH
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260501T103000Z
+UID:pandascore-match-1469566@esport-ics
+DTSTART:20260501T103000Z
+DTEND:20260501T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 48 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket round 1 match 2: BIG.A vs KSM
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260504T143000Z
 UID:pandascore-match-1463390@esport-ics
 DTSTART:20260504T143000Z
