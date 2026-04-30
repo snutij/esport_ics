@@ -563,4 +563,13 @@ DESCRIPTION:European Pro League - Regular season 4 2026 - Playoffs\nWatch:
 SUMMARY:Upper bracket semifinal 2: IMP.A vs AAB
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T170000Z
+UID:pandascore-match-1470096@esport-ics
+DTSTART:20260430T170000Z
+DTEND:20260430T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:IMP.A vs ARCH
+END:VEVENT
 END:VCALENDAR

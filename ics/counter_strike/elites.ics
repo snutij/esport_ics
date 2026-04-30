@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #1 season 4 2026 - Group Stage\nWatc
  h: https://kick.com/cct_cs
 SUMMARY:Round 1: GH vs ELI
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T220000Z
+UID:pandascore-match-1467604@esport-ics
+DTSTART:20260501T220000Z
+DTEND:20260502T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #1 season 4 2026 - Group Stage\nWatc
+ h: https://kick.com/cct_cs
+SUMMARY:Round 2: ELI vs UNO
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

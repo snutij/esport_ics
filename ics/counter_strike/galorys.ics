@@ -371,4 +371,14 @@ DESCRIPTION:ESL Challenger League - South America Cup #4 season 51 2026 - P
  layoffs
 SUMMARY:Upper bracket semifinal 2: GLS vs ISG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T210000Z
+UID:pandascore-match-1457007@esport-ics
+DTSTART:20260501T210000Z
+DTEND:20260501T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #4 season 51 2026 - P
+ layoffs
+SUMMARY:Upper bracket final: IMP vs GLS
+END:VEVENT
 END:VCALENDAR

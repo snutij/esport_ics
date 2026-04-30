@@ -199,6 +199,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Rivals - Spring 2026 - Group B\nWatch: https://www.twitch
  .tv/blastpremier
 SUMMARY:Upper bracket semifinal 2: FURIA vs GL
+URL:https://www.twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T223000Z
+UID:pandascore-match-1438919@esport-ics
+DTSTART:20260430T223000Z
+DTEND:20260501T004500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Spring 2026 - Group B\nWatch: https://www.twitch
+ .tv/blastpremier
+SUMMARY:Upper bracket final: NAVI vs GL
 URL;VALUE=URI:https://www.twitch.tv/blastpremier
 END:VEVENT
 END:VCALENDAR

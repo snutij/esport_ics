@@ -116,6 +116,17 @@ SUMMARY:KRX vs NS
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260504T110000Z
+UID:pandascore-match-1465544@esport-ics
+DTSTART:20260504T110000Z
+DTEND:20260504T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Korea Qualifier 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/EWC_STCArena_EN
+SUMMARY:Upper bracket quarterfinal 2: DK vs NS
+URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260506T080000Z
 UID:pandascore-match-1413470@esport-ics
 DTSTART:20260506T080000Z

@@ -287,4 +287,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 1: VOCA vs ZOMB
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T010000Z
+UID:pandascore-match-1456965@esport-ics
+DTSTART:20260501T010000Z
+DTEND:20260501T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: FC vs ZOMB
+END:VEVENT
 END:VCALENDAR
