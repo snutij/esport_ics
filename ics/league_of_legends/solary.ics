@@ -274,4 +274,15 @@ DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
 SUMMARY:SLY vs ZYB
 URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T180000Z
+UID:pandascore-match-1469263@esport-ics
+DTSTART:20260514T180000Z
+DTEND:20260514T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - EMEA Qualifier 2026 - Playoffs\nWatch: http
+ s://www.twitch.tv/ewclol2026
+SUMMARY:Lower bracket round 2 match 2: GX vs SLY
+URL;VALUE=URI:https://www.twitch.tv/ewclol2026
+END:VEVENT
 END:VCALENDAR
