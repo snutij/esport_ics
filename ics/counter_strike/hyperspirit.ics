@@ -465,7 +465,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #1 Play-In 2026 - Group C\nWatch: https://k
  ick.com/cct_cs
 SUMMARY:Elimination match: HS vs CC.FE
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260430T110000Z
@@ -477,6 +477,17 @@ DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
  nWatch: https://www.kick.com/bcgamemasters
 SUMMARY:Round 2: WAL vs HS
 URL;VALUE=URI:https://www.kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T140000Z
+UID:pandascore-match-1462493@esport-ics
+DTSTART:20260501T140000Z
+DTEND:20260501T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #1 Play-In 2026 - Group C\nWatch: https://k
+ ick.com/cct_cs
+SUMMARY:Decider match: HS vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260503T170000Z

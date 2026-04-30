@@ -215,8 +215,10 @@ UID:pandascore-match-1468629@esport-ics
 DTSTART:20260502T150000Z
 DTEND:20260502T171500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 37 2026 - Group A
+DESCRIPTION:European Pro League - Season 37 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
 SUMMARY:RE vs AVE
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260504T150000Z
