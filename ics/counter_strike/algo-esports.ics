@@ -462,10 +462,10 @@ SUMMARY:Upper bracket quarterfinal 2: INF vs ALGO
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T170000Z
+DTSTAMP:20260430T180000Z
 UID:pandascore-match-1467063@esport-ics
-DTSTART:20260430T170000Z
-DTEND:20260430T191500Z
+DTSTART:20260430T180000Z
+DTEND:20260430T201500Z
 CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In Group B\nWatch: 
  https://kick.com/nodwin_cs2
@@ -480,7 +480,7 @@ DTEND:20260501T101500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 4 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
-SUMMARY:Lower bracket quarterfinal 2: ALGO vs PRE
+SUMMARY:Lower bracket quarterfinal 2: PRE vs ALGO
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
