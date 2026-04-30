@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:Global StarCraft II League - Season 1 2026 - Group Stage 1 - Gr
  oup A\nWatch: https://play.sooplive.com/afgsl/293611315
 SUMMARY:Elimination match: Percival vs Solar
-URL;VALUE=URI:https://play.sooplive.com/afgsl/293611315
+URL:https://play.sooplive.com/afgsl/293611315
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T104500Z
+UID:pandascore-match-1470357@esport-ics
+DTSTART:20260503T104500Z
+DTEND:20260503T130000Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 5 2026 - Group B\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:NightMare vs Solar
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR

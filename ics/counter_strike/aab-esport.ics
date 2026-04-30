@@ -770,4 +770,15 @@ DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
 SUMMARY:Round 2: AAB vs TNC
 URL;VALUE=URI:https://www.kick.com/bcgamemasters
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T103000Z
+UID:pandascore-match-1466099@esport-ics
+DTSTART:20260502T103000Z
+DTEND:20260502T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper bracket final: AAB vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

@@ -212,6 +212,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV Team Liquid Map Contest - Season 16 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/wardiii
 SUMMARY:Lower bracket final: Clem vs TBD
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T104500Z
+UID:pandascore-match-1470448@esport-ics
+DTSTART:20260510T104500Z
+DTEND:20260510T130000Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 5 2026 - Group D\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:Lambo vs Clem
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR

@@ -572,4 +572,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:IMP.A vs ARCH
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T103000Z
+UID:pandascore-match-1466105@esport-ics
+DTSTART:20260501T103000Z
+DTEND:20260501T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Lower bracket quarterfinal 1: RT vs IMP.A
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

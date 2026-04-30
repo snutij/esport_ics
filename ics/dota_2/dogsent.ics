@@ -119,8 +119,10 @@ UID:pandascore-match-1468630@esport-ics
 DTSTART:20260502T180000Z
 DTEND:20260502T201500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 37 2026 - Group B
+DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
 SUMMARY:DGS vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260503T150000Z
@@ -128,8 +130,10 @@ UID:pandascore-match-1468633@esport-ics
 DTSTART:20260503T150000Z
 DTEND:20260503T171500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 37 2026 - Group B
+DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
 SUMMARY:DGS vs AVL
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260504T120000Z
@@ -137,8 +141,10 @@ UID:pandascore-match-1468635@esport-ics
 DTSTART:20260504T120000Z
 DTEND:20260504T141500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 37 2026 - Group B
+DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
 SUMMARY:DGS vs Nem
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260507T150000Z
@@ -146,7 +152,9 @@ UID:pandascore-match-1468646@esport-ics
 DTSTART:20260507T150000Z
 DTEND:20260507T171500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 37 2026 - Group B
+DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
 SUMMARY:DGS vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

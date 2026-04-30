@@ -218,8 +218,10 @@ UID:pandascore-match-1468625@esport-ics
 DTSTART:20260501T120000Z
 DTEND:20260501T141500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 37 2026 - Group B
+DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
 SUMMARY:MODUS vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260502T120000Z
@@ -227,8 +229,10 @@ UID:pandascore-match-1468628@esport-ics
 DTSTART:20260502T120000Z
 DTEND:20260502T141500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 37 2026 - Group B
+DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
 SUMMARY:MODUS vs AVL
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260506T120000Z
@@ -236,8 +240,10 @@ UID:pandascore-match-1468641@esport-ics
 DTSTART:20260506T120000Z
 DTEND:20260506T141500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 37 2026 - Group B
+DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
 SUMMARY:MODUS vs Nem
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260507T120000Z
@@ -245,7 +251,9 @@ UID:pandascore-match-1468645@esport-ics
 DTSTART:20260507T120000Z
 DTEND:20260507T141500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 37 2026 - Group B
+DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
 SUMMARY:MODUS vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

@@ -98,7 +98,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #1 Play-In 2026 - Group D\nWatch: https://k
  ick.com/cct_cs
 SUMMARY:Elimination match: DRIP vs EC BANGA
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260430T170000Z
@@ -108,6 +108,17 @@ DTEND:20260430T174500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:DRIP vs bankaPEPSI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T170000Z
+UID:pandascore-match-1462516@esport-ics
+DTSTART:20260501T170000Z
+DTEND:20260501T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #1 Play-In 2026 - Group D\nWatch: https://k
+ ick.com/cct_cs
+SUMMARY:Decider match: DRIP vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260503T134500Z

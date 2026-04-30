@@ -179,4 +179,15 @@ DESCRIPTION:Global StarCraft II League - Season 1 2026 - Group Stage 2 - Gr
 SUMMARY:SHIN vs TBD
 URL;VALUE=URI:https://www.sooplive.com/station/afgsl
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T100000Z
+UID:pandascore-match-1470439@esport-ics
+DTSTART:20260509T100000Z
+DTEND:20260509T121500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 5 2026 - Group C\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:SHIN vs Bunny
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+END:VEVENT
 END:VCALENDAR
