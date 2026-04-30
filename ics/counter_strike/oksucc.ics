@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:UKIC - Masters Division season 10 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/UKICircuit
 SUMMARY:Upper bracket quarterfinal 3: OKS vs RUK
+URL:https://www.twitch.tv/UKICircuit
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T193000Z
+UID:pandascore-match-1469276@esport-ics
+DTSTART:20260507T193000Z
+DTEND:20260507T214500Z
+CLASS:PUBLIC
+DESCRIPTION:UKIC - Masters Division season 10 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/UKICircuit
+SUMMARY:Lower bracket round 1 match 2: MP vs OKS
 URL;VALUE=URI:https://www.twitch.tv/UKICircuit
 END:VEVENT
 END:VCALENDAR

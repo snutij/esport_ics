@@ -530,6 +530,16 @@ SUMMARY:Lower bracket quarterfinal 2: ISG vs BHE
 URL:https://www.twitch.tv/kronyii
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260501T210000Z
+UID:pandascore-match-1457008@esport-ics
+DTSTART:20260501T210000Z
+DTEND:20260501T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #4 season 51 2026 - P
+ layoffs
+SUMMARY:Lower bracket semifinal: BHE vs TBD
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260502T170000Z
 UID:pandascore-match-1459537@esport-ics
 DTSTART:20260502T170000Z
