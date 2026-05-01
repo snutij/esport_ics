@@ -666,17 +666,6 @@ SUMMARY:WAL vs BBP
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260501T080000Z
-UID:pandascore-match-1467638@esport-ics
-DTSTART:20260501T080000Z
-DTEND:20260501T101500Z
-CLASS:PUBLIC
-DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In Group A\nWatch: 
- https://kick.com/nodwin_cs2
-SUMMARY:Elimination match: BBP vs HERO.A
-URL;VALUE=URI:https://kick.com/nodwin_cs2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260501T110000Z
 UID:pandascore-match-1462488@esport-ics
 DTSTART:20260501T110000Z
@@ -686,5 +675,16 @@ DESCRIPTION:CCT Europe - Series #1 Play-In 2026 - Group B\nWatch: https://k
  ick.com/cct_cs
 SUMMARY:Decider match: BBP vs NNP
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T140000Z
+UID:pandascore-match-1467638@esport-ics
+DTSTART:20260501T140000Z
+DTEND:20260501T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In Group A\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Elimination match: BBP vs HERO.A
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

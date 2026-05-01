@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 2 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Upper bracket semifinal 1: M80 vs YFP
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T230000Z
+UID:pandascore-match-1459396@esport-ics
+DTSTART:20260504T230000Z
+DTEND:20260505T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 2 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Lower bracket quarterfinal 2: FQ vs YFP
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR

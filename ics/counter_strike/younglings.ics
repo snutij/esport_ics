@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 26 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 2: YL vs VP.F
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T153000Z
+UID:pandascore-match-1471619@esport-ics
+DTSTART:20260501T153000Z
+DTEND:20260501T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 3: FORZE.R vs YL
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

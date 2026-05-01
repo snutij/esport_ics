@@ -228,6 +228,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Rivals - Spring 2026 - Group A\nWatch: https://www.twitch
  .tv/blastpremier
 SUMMARY:Upper bracket final: VIT vs G2
-URL;VALUE=URI:https://www.twitch.tv/blastpremier
+URL:https://www.twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T203000Z
+UID:pandascore-match-1448728@esport-ics
+DTSTART:20260502T203000Z
+DTEND:20260502T224500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Spring 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/BLASTPremier
+SUMMARY:Semifinal 2: VIT vs TBD
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

@@ -467,4 +467,15 @@ DESCRIPTION:United21 - Season 48 2026 - Playoffs\nWatch: https://kick.com/u
 SUMMARY:Lower bracket round 1 match 1: PSN.A vs INF
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T123000Z
+UID:pandascore-match-1471618@esport-ics
+DTSTART:20260501T123000Z
+DTEND:20260501T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 3: INF vs MJX
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
 END:VCALENDAR

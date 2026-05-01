@@ -210,6 +210,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Rivals - Spring 2026 - Group B\nWatch: https://www.twitch
  .tv/blastpremier
 SUMMARY:Upper bracket final: NAVI vs GL
-URL;VALUE=URI:https://www.twitch.tv/blastpremier
+URL:https://www.twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T223000Z
+UID:pandascore-match-1448726@esport-ics
+DTSTART:20260501T223000Z
+DTEND:20260502T004500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Spring 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/BLASTPremier
+SUMMARY:Quarterfinal 2: AST vs GL
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR
