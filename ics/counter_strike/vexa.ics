@@ -133,7 +133,9 @@ UID:pandascore-match-1470143@esport-ics
 DTSTART:20260501T190000Z
 DTEND:20260501T211500Z
 CLASS:PUBLIC
-DESCRIPTION:Gamers Club Liga Série A - April 2026 - Group C
+DESCRIPTION:Gamers Club Liga Série A - April 2026 - Group C\nWatch: https:
+ //www.twitch.tv/GamersClubCS
 SUMMARY:Decider match: MIBR.A vs VEXA
+URL;VALUE=URI:https://www.twitch.tv/GamersClubCS
 END:VEVENT
 END:VCALENDAR

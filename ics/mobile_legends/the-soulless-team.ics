@@ -29,7 +29,9 @@ UID:pandascore-match-1467393@esport-ics
 DTSTART:20260501T193000Z
 DTEND:20260501T214500Z
 CLASS:PUBLIC
-DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division\nWatch:
+  https://www.youtube.com/watch?v=BrBUSGnWJGM
 SUMMARY:TST vs Aterion Esports
+URL;VALUE=URI:https://www.youtube.com/watch?v=BrBUSGnWJGM
 END:VEVENT
 END:VCALENDAR
