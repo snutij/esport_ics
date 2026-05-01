@@ -92,6 +92,17 @@ CLASS:PUBLIC
 DESCRIPTION:R6 North Rainbow Rumble - 2026 - Playoffs\nWatch: https://www.t
  witch.tv/rainbow6
 SUMMARY:Upper bracket semifinal 1: byłaś iluzja vs PAN
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T100000Z
+UID:pandascore-match-1441760@esport-ics
+DTSTART:20260502T100000Z
+DTEND:20260502T121500Z
+CLASS:PUBLIC
+DESCRIPTION:R6 North Rainbow Rumble - 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/rainbow6
+SUMMARY:Lower bracket semifinal: PAN vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
