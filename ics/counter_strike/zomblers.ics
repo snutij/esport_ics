@@ -296,4 +296,24 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
 SUMMARY:Lower bracket quarterfinal 1: FC vs ZOMB
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T010000Z
+UID:pandascore-match-1456968@esport-ics
+DTSTART:20260502T010000Z
+DTEND:20260502T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
+SUMMARY:Lower bracket semifinal: ZOMB vs REGAIN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T213000Z
+UID:pandascore-match-1460371@esport-ics
+DTSTART:20260502T213000Z
+DTEND:20260502T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - North American 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Quarterfinal 2: ZOMB vs InC
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR

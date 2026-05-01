@@ -285,4 +285,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 2: FC vs TA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T003000Z
+UID:pandascore-match-1460373@esport-ics
+DTSTART:20260503T003000Z
+DTEND:20260503T024500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - North American 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Quarterfinal 4: BOSS vs TA
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR

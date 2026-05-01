@@ -249,6 +249,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - North American 2026 - Group B\
  nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Winners match: Incognito vs InC
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T213000Z
+UID:pandascore-match-1460371@esport-ics
+DTSTART:20260502T213000Z
+DTEND:20260502T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - North American 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Quarterfinal 2: ZOMB vs InC
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

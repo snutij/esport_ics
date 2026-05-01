@@ -282,4 +282,15 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - Season 20 2026 - Playoffs
 SUMMARY:Quarterfinal 1: M80 vs MARS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T003000Z
+UID:pandascore-match-1460370@esport-ics
+DTSTART:20260503T003000Z
+DTEND:20260503T024500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - North American 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Quarterfinal 1: M80 vs Incognito
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR
