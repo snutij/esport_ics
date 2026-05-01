@@ -102,6 +102,15 @@ CLASS:PUBLIC
 DESCRIPTION:North America League - Kickoff 2026 - Playoffs\nWatch: https://
  www.twitch.tv/rainbow6
 SUMMARY:Lower bracket semifinal 2: 1/30 vs SR
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T210000Z
+UID:pandascore-match-1471714@esport-ics
+DTSTART:20260508T210000Z
+DTEND:20260508T214500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Play-In
+SUMMARY:Upper bracket quarterfinal 4: SR vs 4AM
 END:VEVENT
 END:VCALENDAR

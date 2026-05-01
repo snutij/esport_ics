@@ -45,6 +45,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Playoffs\nWatch: 
  https://www.twitch.tv/rainbow6
 SUMMARY:Grand final: EP vs TBD
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T180000Z
+UID:pandascore-match-1471712@esport-ics
+DTSTART:20260508T180000Z
+DTEND:20260508T184500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Play-In
+SUMMARY:Upper bracket quarterfinal 2: EP vs EDG
 END:VEVENT
 END:VCALENDAR

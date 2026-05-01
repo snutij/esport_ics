@@ -102,6 +102,15 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Kickoff 2026 - Playoffs\nWatch: https://www.twitch.
  tv/CappingTV
 SUMMARY:Lower bracket final: EDG vs WOL
-URL;VALUE=URI:https://www.twitch.tv/CappingTV
+URL:https://www.twitch.tv/CappingTV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T163000Z
+UID:pandascore-match-1471711@esport-ics
+DTSTART:20260508T163000Z
+DTEND:20260508T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Play-In
+SUMMARY:Upper bracket quarterfinal 1: LOS vs WOL
 END:VEVENT
 END:VCALENDAR
