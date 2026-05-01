@@ -255,7 +255,8 @@ DTSTART:20260501T090000Z
 DTEND:20260501T111500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #4 season 51 2026 - Playoff
- s
+ s\nWatch: https://www.twitch.tv/churchd0gg
 SUMMARY:Upper bracket final: GZ vs TdU
+URL;VALUE=URI:https://www.twitch.tv/churchd0gg
 END:VEVENT
 END:VCALENDAR

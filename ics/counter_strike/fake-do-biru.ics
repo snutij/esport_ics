@@ -463,7 +463,9 @@ UID:pandascore-match-1459536@esport-ics
 DTSTART:20260501T170000Z
 DTEND:20260501T191500Z
 CLASS:PUBLIC
-DESCRIPTION:Odyssey Cup - Brazil 2026 - Group Stage
+DESCRIPTION:Odyssey Cup - Brazil 2026 - Group Stage\nWatch: https://kick.co
+ m/kabrafps
 SUMMARY:Round 4: IMP vs FDB
+URL;VALUE=URI:https://kick.com/kabrafps
 END:VEVENT
 END:VCALENDAR

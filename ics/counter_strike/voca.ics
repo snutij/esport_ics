@@ -440,7 +440,9 @@ UID:pandascore-match-1456967@esport-ics
 DTSTART:20260502T010000Z
 DTEND:20260502T031500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Upper bracket final: VOCA vs WC
+URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
 END:VEVENT
 END:VCALENDAR
