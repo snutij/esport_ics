@@ -77,6 +77,17 @@ SUMMARY:Elimination match: PF vs ALGO
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260502T110000Z
+UID:pandascore-match-1467642@esport-ics
+DTSTART:20260502T110000Z
+DTEND:20260502T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In Group B\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Decider Match: UNiTY vs PF
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260505T180000Z
 UID:pandascore-match-1454791@esport-ics
 DTSTART:20260505T180000Z
