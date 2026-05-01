@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esplay Elite Gaming - Season 1 2026 - Group B\nWatch: https://w
  ww.twitch.tv/esplaycom
 SUMMARY:Matrix vs RGG
+URL:https://www.twitch.tv/esplaycom
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T100000Z
+UID:pandascore-match-1466509@esport-ics
+DTSTART:20260502T100000Z
+DTEND:20260502T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Esplay Elite Gaming - Season 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/esplaycom
+SUMMARY:Quarterfinal 2: JS vs Matrix
 URL;VALUE=URI:https://www.twitch.tv/esplaycom
 END:VEVENT
 END:VCALENDAR

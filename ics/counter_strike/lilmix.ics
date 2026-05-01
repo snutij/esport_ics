@@ -507,6 +507,17 @@ SUMMARY:LILMIX vs FCF
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260502T100000Z
+UID:pandascore-match-1466508@esport-ics
+DTSTART:20260502T100000Z
+DTEND:20260502T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Esplay Elite Gaming - Season 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/esplaycom
+SUMMARY:Quarterfinal 1: RGG vs LILMIX
+URL;VALUE=URI:https://www.twitch.tv/esplaycom
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260503T134500Z
 UID:pandascore-match-1470192@esport-ics
 DTSTART:20260503T134500Z
