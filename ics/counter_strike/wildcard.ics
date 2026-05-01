@@ -354,7 +354,7 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - North American 2026 - Playoffs
  \nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Quarterfinal 3: WC vs FV
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260502T010000Z
@@ -366,5 +366,16 @@ DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs\nW
  atch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Upper bracket final: VOCA vs WC
 URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T233000Z
+UID:pandascore-match-1460375@esport-ics
+DTSTART:20260503T233000Z
+DTEND:20260504T014500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - North American 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Semifinal 2: WC vs TBD
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
