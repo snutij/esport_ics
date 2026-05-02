@@ -136,6 +136,17 @@ SUMMARY:DNS vs BFX
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260504T070000Z
+UID:pandascore-match-1465542@esport-ics
+DTSTART:20260504T070000Z
+DTEND:20260504T091500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Korea Qualifier 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/EWC_STCArena_EN
+SUMMARY:Upper bracket round 1 match 1: KRX vs DNS
+URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260506T100000Z
 UID:pandascore-match-1413471@esport-ics
 DTSTART:20260506T100000Z

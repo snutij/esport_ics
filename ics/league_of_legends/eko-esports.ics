@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:LIT - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/LITo
  fficial
 SUMMARY:Lower bracket quarterfinal: EKO vs ZENA
+URL:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T160000Z
+UID:pandascore-match-1455223@esport-ics
+DTSTART:20260514T160000Z
+DTEND:20260514T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/LITo
+ fficial
+SUMMARY:Lower bracket semifinal: EKO vs TBD
 URL;VALUE=URI:https://www.twitch.tv/LITofficial
 END:VEVENT
 END:VCALENDAR

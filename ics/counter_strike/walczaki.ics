@@ -185,6 +185,17 @@ SUMMARY:Winners match: WAL vs OXUJI
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260502T170000Z
+UID:pandascore-match-1467664@esport-ics
+DTSTART:20260502T170000Z
+DTEND:20260502T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
+ nWatch: https://www.kick.com/bcgamemasters
+SUMMARY:Round 3: WAL vs AAB
+URL;VALUE=URI:https://www.kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260522T150000Z
 UID:pandascore-match-1470184@esport-ics
 DTSTART:20260522T150000Z

@@ -585,6 +585,17 @@ SUMMARY:Upper bracket quarterfinal 1: TLR vs VTB
 URL;VALUE=URI:https://www.twitch.tv/UKICircuit
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260503T110000Z
+UID:pandascore-match-1467666@esport-ics
+DTSTART:20260503T110000Z
+DTEND:20260503T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
+ nWatch: https://www.kick.com/bcgamemasters
+SUMMARY:Round 3: AM vs TLR
+URL;VALUE=URI:https://www.kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260513T170000Z
 UID:pandascore-match-1471615@esport-ics
 DTSTART:20260513T170000Z

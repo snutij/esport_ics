@@ -225,4 +225,15 @@ DESCRIPTION:RSL Revival - Season 5 2026 - Group A\nWatch: https://www.twitc
 SUMMARY:Rogue vs Maru
 URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T101500Z
+UID:pandascore-match-1466388@esport-ics
+DTSTART:20260506T101500Z
+DTEND:20260506T123000Z
+CLASS:PUBLIC
+DESCRIPTION:Global StarCraft II League - Season 1 2026 - Group Stage 2 - Gr
+ oup A\nWatch: https://www.sooplive.com/station/afgsl
+SUMMARY:Maru vs Rogue
+URL;VALUE=URI:https://www.sooplive.com/station/afgsl
+END:VEVENT
 END:VCALENDAR
