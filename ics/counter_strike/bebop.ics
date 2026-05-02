@@ -707,6 +707,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #1 2026 - Play-In\nWatch:
   https://kick.com/cct_cs
 SUMMARY:ASTR vs BBP
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T080000Z
+UID:pandascore-match-1469173@esport-ics
+DTSTART:20260504T080000Z
+DTEND:20260504T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 1: FAV vs BBP
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

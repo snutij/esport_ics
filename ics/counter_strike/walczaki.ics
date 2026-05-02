@@ -196,6 +196,17 @@ SUMMARY:Round 3: WAL vs AAB
 URL:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260504T170000Z
+UID:pandascore-match-1469185@esport-ics
+DTSTART:20260504T170000Z
+DTEND:20260504T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 1: WAL vs FCF
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260522T150000Z
 UID:pandascore-match-1470184@esport-ics
 DTSTART:20260522T150000Z

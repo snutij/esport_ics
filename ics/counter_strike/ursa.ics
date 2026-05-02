@@ -855,4 +855,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In Group D\nWatch:
 SUMMARY:URSA vs HAVU
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T140000Z
+UID:pandascore-match-1469184@esport-ics
+DTSTART:20260504T140000Z
+DTEND:20260504T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 1: MOUZ.N vs URSA
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR
