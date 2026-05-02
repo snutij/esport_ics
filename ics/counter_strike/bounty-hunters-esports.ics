@@ -546,8 +546,10 @@ UID:pandascore-match-1459537@esport-ics
 DTSTART:20260502T170000Z
 DTEND:20260502T191500Z
 CLASS:PUBLIC
-DESCRIPTION:Odyssey Cup - Brazil 2026 - Group Stage
+DESCRIPTION:Odyssey Cup - Brazil 2026 - Group Stage\nWatch: https://www.twi
+ tch.tv/camyyfps
 SUMMARY:Round 4: TdP vs BHE
+URL;VALUE=URI:https://www.twitch.tv/camyyfps
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260502T210000Z
