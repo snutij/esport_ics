@@ -32,6 +32,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 2 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs3
 SUMMARY:Upper bracket round 1 match 6: CSD vs TLR
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T110000Z
+UID:pandascore-match-1470234@esport-ics
+DTSTART:20260505T110000Z
+DTEND:20260505T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 2 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs3
+SUMMARY:Lower bracket round 1 match 3: CSD vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
