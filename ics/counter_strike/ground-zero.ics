@@ -359,6 +359,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #4 season 51 2026 - Playoff
  s\nWatch: https://www.twitch.tv/yapmasters69
 SUMMARY:Lower bracket final: GZ vs Abyssal
-URL;VALUE=URI:https://www.twitch.tv/yapmasters69
+URL:https://www.twitch.tv/yapmasters69
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T090000Z
+UID:pandascore-match-1457360@esport-ics
+DTSTART:20260503T090000Z
+DTEND:20260503T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #4 season 51 2026 - Playoff
+ s
+SUMMARY:Grand final: TdU vs GZ
 END:VEVENT
 END:VCALENDAR
