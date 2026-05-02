@@ -265,6 +265,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom RUSH B! - Summit season 3 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/btsbrasilfps
 SUMMARY:Grand final: LGC vs 9z
-URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
+URL:https://www.twitch.tv/btsbrasilfps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T153000Z
+UID:pandascore-match-1473074@esport-ics
+DTSTART:20260511T153000Z
+DTEND:20260511T174500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta 2026 - Group B\nWatch: https://www.twitch.tv/ESLC
+ S
+SUMMARY:Upper bracket quarterfinal 3: LGC vs M80
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

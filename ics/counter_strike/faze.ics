@@ -269,4 +269,15 @@ DESCRIPTION:BLAST Rivals - Spring 2026 - Playoffs\nWatch: https://www.twitc
 SUMMARY:Semifinal 1: NAVI vs FaZe
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T153000Z
+UID:pandascore-match-1473071@esport-ics
+DTSTART:20260511T153000Z
+DTEND:20260511T174500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta 2026 - Group A\nWatch: https://www.twitch.tv/ESLC
+ S
+SUMMARY:Upper bracket quarterfinal 3: paiN vs FaZe
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
 END:VCALENDAR
