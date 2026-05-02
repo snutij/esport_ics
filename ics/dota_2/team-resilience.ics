@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:ACL X ESL Challenger China - Season 3 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/betbist
 SUMMARY:Upper bracket final: Xtreme vs TR
-URL;VALUE=URI:https://www.twitch.tv/betbist
+URL:https://www.twitch.tv/betbist
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T090000Z
+UID:pandascore-match-1467985@esport-ics
+DTSTART:20260503T090000Z
+DTEND:20260503T124500Z
+CLASS:PUBLIC
+DESCRIPTION:ACL X ESL Challenger China - Season 3 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/acl_dota2cn
+SUMMARY:Grand final: TR vs TBD
+URL;VALUE=URI:https://www.twitch.tv/acl_dota2cn
 END:VEVENT
 END:VCALENDAR

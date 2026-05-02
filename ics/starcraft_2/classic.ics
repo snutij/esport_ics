@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 5 2026 - Group A\nWatch: https://www.twitc
  h.tv/tastelesstv
 SUMMARY:Classic vs GgMaChine
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260502T113000Z
+UID:pandascore-match-1470331@esport-ics
+DTSTART:20260502T113000Z
+DTEND:20260502T134500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 5 2026 - Group A\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:Winners match: Classic vs TBD
 URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 BEGIN:VEVENT
