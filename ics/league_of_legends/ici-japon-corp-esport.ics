@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/otplol_
 SUMMARY:IJC vs VIT.B
-URL;VALUE=URI:https://www.twitch.tv/otplol_
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T190000Z
+UID:pandascore-match-1474615@esport-ics
+DTSTART:20260506T190000Z
+DTEND:20260506T211500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Playoffs\nWatch: http://www.twitch.tv/otplo
+ l_
+SUMMARY:Upper bracket quarterfinal 4: KCB vs IJC
+URL;VALUE=URI:http://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR
