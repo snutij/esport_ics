@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 2 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs3
 SUMMARY:Upper bracket round 1 match 4: DRIP vs NEW VISION
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T134500Z
+UID:pandascore-match-1470233@esport-ics
+DTSTART:20260504T134500Z
+DTEND:20260504T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 2 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs3
+SUMMARY:Upper bracket quarterfinal 2: home vs NEW VISION
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
