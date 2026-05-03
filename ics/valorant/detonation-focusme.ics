@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Omega\nWatch: https://www.tw
  itch.tv/valorant_pacific
 SUMMARY:RRQ vs DFM
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T080000Z
+UID:pandascore-match-1475181@esport-ics
+DTSTART:20260509T080000Z
+DTEND:20260509T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 1 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/valorant_pacific
+SUMMARY:Lower bracket round 1 match 1: TBD vs DFM
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR
