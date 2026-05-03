@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:D family
+SLUG:d-family
+BEGIN:VEVENT
+DTSTAMP:20260504T030000Z
+UID:pandascore-match-1474727@esport-ics
+DTSTART:20260504T030000Z
+DTEND:20260504T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:GLYPH vs Dfam
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T060000Z
+UID:pandascore-match-1474731@esport-ics
+DTSTART:20260505T060000Z
+DTEND:20260505T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs Dfam
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T090000Z
+UID:pandascore-match-1474736@esport-ics
+DTSTART:20260506T090000Z
+DTEND:20260506T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Dfam vs Grind
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T030000Z
+UID:pandascore-match-1474737@esport-ics
+DTSTART:20260507T030000Z
+DTEND:20260507T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:5SM vs Dfam
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+END:VCALENDAR

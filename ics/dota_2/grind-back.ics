@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Grind Back
+SLUG:grind-back
+BEGIN:VEVENT
+DTSTAMP:20260505T090000Z
+UID:pandascore-match-1474732@esport-ics
+DTSTART:20260505T090000Z
+DTEND:20260505T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Grind vs GLYPH
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T090000Z
+UID:pandascore-match-1474736@esport-ics
+DTSTART:20260506T090000Z
+DTEND:20260506T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Dfam vs Grind
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T090000Z
+UID:pandascore-match-1474739@esport-ics
+DTSTART:20260507T090000Z
+DTEND:20260507T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Satan vs Grind
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T090000Z
+UID:pandascore-match-1474742@esport-ics
+DTSTART:20260508T090000Z
+DTEND:20260508T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Grind vs WinteR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T060000Z
+UID:pandascore-match-1474744@esport-ics
+DTSTART:20260509T060000Z
+DTEND:20260509T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs Grind
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T090000Z
+UID:pandascore-match-1474745@esport-ics
+DTSTART:20260509T090000Z
+DTEND:20260509T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Grind vs 5SM
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T060000Z
+UID:pandascore-match-1474747@esport-ics
+DTSTART:20260510T060000Z
+DTEND:20260510T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Grind vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+END:VCALENDAR

@@ -366,6 +366,61 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 14 2026 - Playoffs\nWa
  tch: https://kick.com/epldota_en1
 SUMMARY:Grand final: CARST vs TBD
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T060000Z
+UID:pandascore-match-1474728@esport-ics
+DTSTART:20260504T060000Z
+DTEND:20260504T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Satan vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T030000Z
+UID:pandascore-match-1474730@esport-ics
+DTSTART:20260505T030000Z
+DTEND:20260505T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T060000Z
+UID:pandascore-match-1474735@esport-ics
+DTSTART:20260506T060000Z
+DTEND:20260506T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:GLYPH vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T030000Z
+UID:pandascore-match-1474743@esport-ics
+DTSTART:20260509T030000Z
+DTEND:20260509T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs WinteR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T060000Z
+UID:pandascore-match-1474744@esport-ics
+DTSTART:20260509T060000Z
+DTEND:20260509T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs Grind
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

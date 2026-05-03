@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 5 2026 - Group B\nWatch: https://www.twitc
  h.tv/tastelesstv
 SUMMARY:herO vs trigger
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T121500Z
+UID:pandascore-match-1470416@esport-ics
+DTSTART:20260503T121500Z
+DTEND:20260503T143000Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 5 2026 - Group B\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:Elimination match: trigger vs NightMare
 URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR

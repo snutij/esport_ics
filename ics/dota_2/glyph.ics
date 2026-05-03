@@ -177,6 +177,83 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Southeast Asia Closed Qualifier season 29 2026 - 
  Playoffs\nWatch: https://www.twitch.tv/esl_dota2clarity
 SUMMARY:Lower bracket semifinal: GLYPH vs RNX
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2clarity
+URL:https://www.twitch.tv/esl_dota2clarity
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T030000Z
+UID:pandascore-match-1474727@esport-ics
+DTSTART:20260504T030000Z
+DTEND:20260504T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:GLYPH vs Dfam
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T090000Z
+UID:pandascore-match-1474732@esport-ics
+DTSTART:20260505T090000Z
+DTEND:20260505T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Grind vs GLYPH
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T060000Z
+UID:pandascore-match-1474735@esport-ics
+DTSTART:20260506T060000Z
+DTEND:20260506T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:GLYPH vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T060000Z
+UID:pandascore-match-1474738@esport-ics
+DTSTART:20260507T060000Z
+DTEND:20260507T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:GLYPH vs 5SM
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T030000Z
+UID:pandascore-match-1474740@esport-ics
+DTSTART:20260508T030000Z
+DTEND:20260508T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:GLYPH vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T060000Z
+UID:pandascore-match-1474741@esport-ics
+DTSTART:20260508T060000Z
+DTEND:20260508T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Satan vs GLYPH
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T090000Z
+UID:pandascore-match-1474748@esport-ics
+DTSTART:20260510T090000Z
+DTEND:20260510T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:WinteR vs GLYPH
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR
