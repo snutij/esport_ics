@@ -3,19 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:FaZe Falcons
-SLUG:faze-falcons
-BEGIN:VEVENT
-DTSTAMP:20260312T223000Z
-UID:pandascore-match-1396172@esport-ics
-DTSTART:20260312T223000Z
-DTEND:20260313T021500Z
-CLASS:PUBLIC
-DESCRIPTION:Call of Duty Challengers - North America Elite Stage 2 2026 - P
- layoffs\nWatch: https://www.youtube.com/watch?v=lmTQIH2ggfI
-SUMMARY:Upper bracket quarterfinal 1: BUSH vs FAZ.F
-URL:https://www.youtube.com/watch?v=lmTQIH2ggfI
-END:VEVENT
+X-WR-CALNAME:Stallions
+SLUG:stallions
 BEGIN:VEVENT
 DTSTAMP:20260506T223000Z
 UID:pandascore-match-1475171@esport-ics

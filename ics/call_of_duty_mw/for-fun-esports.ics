@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty Challengers - North America Elite Stage 2 2026 - P
  layoffs\nWatch: https://www.youtube.com/codchallengers/live
 SUMMARY:Upper bracket quarterfinal 4: OMiT Brooklyn vs FUN
+URL:https://www.youtube.com/codchallengers/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T223000Z
+UID:pandascore-match-1475172@esport-ics
+DTSTART:20260506T223000Z
+DTEND:20260507T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty Challengers - North America Elite Stage 3 2026 - P
+ layoffs\nWatch: https://www.youtube.com/codchallengers/live
+SUMMARY:Lower bracket quarterfinal 2: FUN vs OMiT Brooklyn
 URL;VALUE=URI:https://www.youtube.com/codchallengers/live
 END:VEVENT
 END:VCALENDAR
