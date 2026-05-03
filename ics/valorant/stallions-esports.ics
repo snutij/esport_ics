@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Pulse Stage Middle East 2026 - Playoffs\
  nWatch: https://www.twitch.tv/valorantesports_ar
 SUMMARY:Upper bracket semifinal 2: STS vs VIA
+URL:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T183000Z
+UID:pandascore-match-1464037@esport-ics
+DTSTART:20260505T183000Z
+DTEND:20260505T204500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Pulse Stage Middle East 2026 - Playoffs\
+ nWatch: https://www.twitch.tv/valorantesports_ar
+SUMMARY:Lower bracket semifinal: SPR vs STS
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR

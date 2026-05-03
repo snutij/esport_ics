@@ -376,7 +376,7 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - North American 2026 - Playoffs
  \nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Semifinal 2: WC vs TA
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260504T010000Z
@@ -386,5 +386,16 @@ DTEND:20260504T031500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
 SUMMARY:Grand final: VOCA vs WC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T023000Z
+UID:pandascore-match-1460376@esport-ics
+DTSTART:20260504T023000Z
+DTEND:20260504T044500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - North American 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Grand final: WC vs TBD
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
