@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorant_tur
 SUMMARY:Upper bracket final: BJK vs RBN
+URL:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T153000Z
+UID:pandascore-match-1456313@esport-ics
+DTSTART:20260504T153000Z
+DTEND:20260504T191500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/valorant_tur
+SUMMARY:Lower bracket final: BJK vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_tur
 END:VEVENT
 END:VCALENDAR

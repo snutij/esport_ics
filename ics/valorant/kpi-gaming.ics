@@ -111,4 +111,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Spain: Rising Phase 2 Stage 3 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 1: KPI vs HGE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T150000Z
+UID:pandascore-match-1458521@esport-ics
+DTSTART:20260504T150000Z
+DTEND:20260504T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Spain: Rising Phase 2 Stage 3 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/LVPes2
+SUMMARY:Lower bracket quarterfinal 1: RBT vs KPI
+URL;VALUE=URI:https://www.twitch.tv/LVPes2
+END:VEVENT
 END:VCALENDAR
