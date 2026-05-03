@@ -294,6 +294,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - North American 2026 - Playoffs
  \nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Quarterfinal 4: BOSS vs TA
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260503T203000Z
+UID:pandascore-match-1460375@esport-ics
+DTSTART:20260503T203000Z
+DTEND:20260503T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - North American 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Semifinal 2: WC vs TA
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
