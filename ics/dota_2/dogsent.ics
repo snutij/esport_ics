@@ -125,17 +125,6 @@ SUMMARY:ILL vs DGS
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260503T160000Z
-UID:pandascore-match-1468633@esport-ics
-DTSTART:20260503T160000Z
-DTEND:20260503T181500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:DGS vs AIM
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260504T120000Z
 UID:pandascore-match-1468635@esport-ics
 DTSTART:20260504T120000Z
@@ -144,6 +133,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:DGS vs Nem
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T090000Z
+UID:pandascore-match-1468633@esport-ics
+DTSTART:20260505T090000Z
+DTEND:20260505T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:DGS vs AIM
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
