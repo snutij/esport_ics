@@ -490,15 +490,15 @@ SUMMARY:Decider match: HS vs MANA
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260503T140000Z
+DTSTAMP:20260503T110000Z
 UID:pandascore-match-1467667@esport-ics
-DTSTART:20260503T140000Z
-DTEND:20260503T161500Z
+DTSTART:20260503T110000Z
+DTEND:20260503T131500Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
- nWatch: https://www.kick.com/bcgamemasters
+ nWatch: https://www.twitch.tv/bcgameesports
 SUMMARY:Round 3: HS vs aAa
-URL;VALUE=URI:https://www.kick.com/bcgamemasters
+URL;VALUE=URI:https://www.twitch.tv/bcgameesports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260503T170000Z
