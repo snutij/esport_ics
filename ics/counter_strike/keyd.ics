@@ -622,8 +622,10 @@ UID:pandascore-match-1459543@esport-ics
 DTSTART:20260503T190000Z
 DTEND:20260503T211500Z
 CLASS:PUBLIC
-DESCRIPTION:Odyssey Cup - Brazil 2026 - Group Stage
+DESCRIPTION:Odyssey Cup - Brazil 2026 - Group Stage\nWatch: https://www.twi
+ tch.tv/kabrafps
 SUMMARY:Round 5: UNO vs Keyd
+URL;VALUE=URI:https://www.twitch.tv/kabrafps
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260503T220000Z
