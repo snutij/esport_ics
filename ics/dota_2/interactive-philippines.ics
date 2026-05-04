@@ -325,17 +325,6 @@ SUMMARY:Lower bracket final: IVO vs IAC
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260504T091000Z
-UID:pandascore-match-1474729@esport-ics
-DTSTART:20260504T091000Z
-DTEND:20260504T112500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:IAC vs WinteR
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260505T030000Z
 UID:pandascore-match-1474730@esport-ics
 DTSTART:20260505T030000Z
@@ -377,6 +366,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:GLYPH vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T030000Z
+UID:pandascore-match-1474729@esport-ics
+DTSTART:20260509T030000Z
+DTEND:20260509T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs WinteR
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT

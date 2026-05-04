@@ -102,6 +102,39 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Japan Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ow_esports_jp
 SUMMARY:Grand final: EF.36 vs VAR
-URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T080000Z
+UID:pandascore-match-1476054@esport-ics
+DTSTART:20260505T080000Z
+DTEND:20260505T093000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Asia Stage 1 2026 - Group A\nWatch: https://www.twitch.tv
+ /ow_esports
+SUMMARY:EF.36 vs TGG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T100000Z
+UID:pandascore-match-1476055@esport-ics
+DTSTART:20260505T100000Z
+DTEND:20260505T113000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Asia Stage 1 2026 - Group A\nWatch: https://www.twitch.tv
+ /ow_esports
+SUMMARY:ZETA vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T100000Z
+UID:pandascore-match-1476059@esport-ics
+DTSTART:20260506T100000Z
+DTEND:20260506T113000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Asia Stage 1 2026 - Group A\nWatch: https://www.twitch.tv
+ /ow_esports
+SUMMARY:T1 vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

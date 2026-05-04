@@ -168,6 +168,39 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Korea Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ow_esports_jp
 SUMMARY:Grand final: ZETA vs FAL
-URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T070000Z
+UID:pandascore-match-1476060@esport-ics
+DTSTART:20260505T070000Z
+DTEND:20260505T083000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Asia Stage 1 2026 - Group B\nWatch: https://www.twitch.tv
+ /ow_esports
+SUMMARY:FAL vs CR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T110000Z
+UID:pandascore-match-1476062@esport-ics
+DTSTART:20260505T110000Z
+DTEND:20260505T123000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Asia Stage 1 2026 - Group B\nWatch: https://www.twitch.tv
+ /ow_esports
+SUMMARY:FAL vs VAR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T090000Z
+UID:pandascore-match-1476064@esport-ics
+DTSTART:20260506T090000Z
+DTEND:20260506T103000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Asia Stage 1 2026 - Group B\nWatch: https://www.twitch.tv
+ /ow_esports
+SUMMARY:FAL vs PNHB
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR
