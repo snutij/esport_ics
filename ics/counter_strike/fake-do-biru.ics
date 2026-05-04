@@ -477,6 +477,15 @@ CLASS:PUBLIC
 DESCRIPTION:Odyssey Cup - Brazil 2026 - Group Stage\nWatch: https://www.you
  tube.com/watch?v=K78sHELCdq0
 SUMMARY:Round 5: FXW7 vs FDB
-URL;VALUE=URI:https://www.youtube.com/watch?v=K78sHELCdq0
+URL:https://www.youtube.com/watch?v=K78sHELCdq0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T190000Z
+UID:pandascore-match-1460062@esport-ics
+DTSTART:20260508T190000Z
+DTEND:20260508T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Odyssey Cup - Brazil 2026 - Playoffs
+SUMMARY:Quarterfinal 1: YAW vs FDB
 END:VEVENT
 END:VCALENDAR

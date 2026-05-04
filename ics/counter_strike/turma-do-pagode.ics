@@ -41,6 +41,15 @@ CLASS:PUBLIC
 DESCRIPTION:Odyssey Cup - Brazil 2026 - Group Stage\nWatch: https://www.twi
  tch.tv/camyyfps
 SUMMARY:Round 4: TdP vs BHE
-URL;VALUE=URI:https://www.twitch.tv/camyyfps
+URL:https://www.twitch.tv/camyyfps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T213000Z
+UID:pandascore-match-1460063@esport-ics
+DTSTART:20260508T213000Z
+DTEND:20260508T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Odyssey Cup - Brazil 2026 - Playoffs
+SUMMARY:Quarterfinal 2: LDP vs TdP
 END:VEVENT
 END:VCALENDAR
