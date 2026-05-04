@@ -100,6 +100,17 @@ CLASS:PUBLIC
 DESCRIPTION:CBLOL - Split 1 2026 - Regular Season\nWatch: https://www.twitc
  h.tv/cblol
 SUMMARY:LLL vs VKS
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T160000Z
+UID:pandascore-match-1407110@esport-ics
+DTSTART:20260510T160000Z
+DTEND:20260510T194500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/c
+ blol
+SUMMARY:Upper bracket quarterfinal 2: VKS vs LLL
 URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

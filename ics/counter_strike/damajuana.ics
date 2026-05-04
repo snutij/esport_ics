@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #1 season 4 2026 - Group Stage\nWatc
  h: https://kick.com/cct_cs2
 SUMMARY:Round 3: Damajuana vs GH
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T220000Z
+UID:pandascore-match-1467615@esport-ics
+DTSTART:20260504T220000Z
+DTEND:20260505T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #1 season 4 2026 - Group Stage\nWatc
+ h: https://kick.com/cct_cs
+SUMMARY:Round 4: ELI vs Damajuana
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

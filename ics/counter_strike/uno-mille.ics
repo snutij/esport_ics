@@ -580,6 +580,17 @@ CLASS:PUBLIC
 DESCRIPTION:Odyssey Cup - Brazil 2026 - Group Stage\nWatch: https://www.twi
  tch.tv/kabrafps
 SUMMARY:Round 5: UNO vs Keyd
-URL;VALUE=URI:https://www.twitch.tv/kabrafps
+URL:https://www.twitch.tv/kabrafps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T160000Z
+UID:pandascore-match-1467616@esport-ics
+DTSTART:20260505T160000Z
+DTEND:20260505T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #1 season 4 2026 - Group Stage\nWatc
+ h: https://kick.com/cct_cs
+SUMMARY:Round 4: UNO vs ISG
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
