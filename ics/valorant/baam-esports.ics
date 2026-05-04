@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Pulse Stage North Africa 2026 - Playoffs
  \nWatch: https://www.twitch.tv/valorantesports_ar
 SUMMARY:Upper bracket semifinal 2: BAAM vs RAAD
+URL:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T183000Z
+UID:pandascore-match-1465508@esport-ics
+DTSTART:20260506T183000Z
+DTEND:20260506T204500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - MENA: Resilience Pulse Stage North Africa 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/valorantesports_ar
+SUMMARY:Lower bracket semifinal: GMX vs BAAM
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
 END:VEVENT
 END:VCALENDAR
