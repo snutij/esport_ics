@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - China Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Upper bracket semifinal 2: AG vs EDG
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T110000Z
+UID:pandascore-match-1445682@esport-ics
+DTSTART:20260505T110000Z
+DTEND:20260505T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Lower bracket quarterfinal 1: TYLOO vs AG
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

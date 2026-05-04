@@ -114,7 +114,7 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Korea Qualifier 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/tlives_tv
 SUMMARY:Upper bracket quarterfinal 4: T1 vs BRO
-URL;VALUE=URI:https://www.twitch.tv/tlives_tv
+URL:https://www.twitch.tv/tlives_tv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260507T100000Z
@@ -155,6 +155,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Rounds 1-2\nWatch: https://www.twitch.tv/lck
 SUMMARY:KRX vs BRO
 URL;VALUE=URI:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T100000Z
+UID:pandascore-match-1465548@esport-ics
+DTSTART:20260518T100000Z
+DTEND:20260518T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Korea Qualifier 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/EWC_STCArena_EN
+SUMMARY:Lower bracket round 1 match 2: KT vs BRO
+URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260521T080000Z

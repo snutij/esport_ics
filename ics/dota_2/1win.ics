@@ -328,8 +328,10 @@ UID:pandascore-match-1468789@esport-ics
 DTSTART:20260504T150000Z
 DTEND:20260504T171500Z
 CLASS:PUBLIC
-DESCRIPTION:1win Essence - Season 1 2026 - Group A
+DESCRIPTION:1win Essence - Season 1 2026 - Group A\nWatch: https://twitch.t
+ v/gorgc
 SUMMARY:1WIN vs PlayTime
+URL;VALUE=URI:https://twitch.tv/gorgc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T150000Z

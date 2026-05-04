@@ -585,6 +585,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In Group D\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Elimination match: RBLS vs HAVU
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T110000Z
+UID:pandascore-match-1467648@esport-ics
+DTSTART:20260505T110000Z
+DTEND:20260505T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In Group D\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Decider Match: HS vs RBLS
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
