@@ -207,6 +207,17 @@ SUMMARY:Round 1: WAL vs FCF
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260505T140000Z
+UID:pandascore-match-1467673@esport-ics
+DTSTART:20260505T140000Z
+DTEND:20260505T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
+ nWatch: https://www.kick.com/bcgamemasters
+SUMMARY:Round 4: WAL vs Lavked
+URL;VALUE=URI:https://www.kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260522T150000Z
 UID:pandascore-match-1470184@esport-ics
 DTSTART:20260522T150000Z

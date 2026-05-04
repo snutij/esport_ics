@@ -458,6 +458,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In Group C\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Winners match: Lavked vs PHA
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T140000Z
+UID:pandascore-match-1467673@esport-ics
+DTSTART:20260505T140000Z
+DTEND:20260505T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
+ nWatch: https://www.kick.com/bcgamemasters
+SUMMARY:Round 4: WAL vs Lavked
+URL;VALUE=URI:https://www.kick.com/bcgamemasters
 END:VEVENT
 END:VCALENDAR

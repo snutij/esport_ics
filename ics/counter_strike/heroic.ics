@@ -344,6 +344,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Global Finals - Season 3 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs
 SUMMARY:Grand final: HERO vs MNTE
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T050000Z
+UID:pandascore-match-1474542@esport-ics
+DTSTART:20260509T050000Z
+DTEND:20260509T071500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana 2026 - Group Stage\nWatch: https://www.twitch.tv/P
+ GL
+SUMMARY:Round 1: AUR vs HERO
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

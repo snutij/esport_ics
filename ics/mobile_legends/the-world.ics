@@ -35,14 +35,14 @@ SUMMARY:The World vs KC
 URL:https://www.youtube.com/watch?v=BrBUSGnWJGM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260504T193000Z
+DTSTAMP:20260504T200000Z
 UID:pandascore-match-1474501@esport-ics
-DTSTART:20260504T193000Z
-DTEND:20260504T214500Z
+DTSTART:20260504T200000Z
+DTEND:20260504T221500Z
 CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division\nWatch:
-  https://www.youtube.com/@BetBoomEsports/featured
+  https://www.youtube.com/watch?v=HtwnATtCpqc
 SUMMARY:Aterion Esports vs The World
-URL;VALUE=URI:https://www.youtube.com/@BetBoomEsports/featured
+URL;VALUE=URI:https://www.youtube.com/watch?v=HtwnATtCpqc
 END:VEVENT
 END:VCALENDAR

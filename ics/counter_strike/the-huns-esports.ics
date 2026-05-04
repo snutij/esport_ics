@@ -257,4 +257,15 @@ DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #4 season 51 2026 - Pl
  ayoffs
 SUMMARY:Lower bracket semifinal: TYLOO vs THE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T110000Z
+UID:pandascore-match-1474546@esport-ics
+DTSTART:20260509T110000Z
+DTEND:20260509T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana 2026 - Group Stage\nWatch: https://www.twitch.tv/P
+ GL
+SUMMARY:Round 1: TS vs THE
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
 END:VCALENDAR

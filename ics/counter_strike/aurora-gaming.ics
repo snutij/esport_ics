@@ -285,6 +285,17 @@ DTEND:20260415T224500Z
 CLASS:PUBLIC
 DESCRIPTION:IEM - Rio 2026 - Group B\nWatch: https://www.twitch.tv/ESLCS
 SUMMARY:Lower bracket final: NAVI vs AUR
-URL;VALUE=URI:https://www.twitch.tv/ESLCS
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T050000Z
+UID:pandascore-match-1474542@esport-ics
+DTSTART:20260509T050000Z
+DTEND:20260509T071500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana 2026 - Group Stage\nWatch: https://www.twitch.tv/P
+ GL
+SUMMARY:Round 1: AUR vs HERO
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR
