@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
  www.youtube.com/watch?v=QHlEhGmDudM
 SUMMARY:Round 2 match 2: ESP vs TCG
-URL;VALUE=URI:https://www.youtube.com/watch?v=QHlEhGmDudM
+URL:https://www.youtube.com/watch?v=QHlEhGmDudM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T110000Z
+UID:pandascore-match-1475974@esport-ics
+DTSTART:20260508T110000Z
+DTEND:20260508T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 2\nWatch: https://
+ www.youtube.com/@2019KPL/streams
+SUMMARY:Upper bracket quarterfinal 2: TCG vs LGD
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 END:VCALENDAR

@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
  www.youtube.com/watch?v=-papIYxvXzM
 SUMMARY:Round 2 match 7: DYG vs JDG
-URL;VALUE=URI:https://www.youtube.com/watch?v=-papIYxvXzM
+URL:https://www.youtube.com/watch?v=-papIYxvXzM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T060000Z
+UID:pandascore-match-1475973@esport-ics
+DTSTART:20260508T060000Z
+DTEND:20260508T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 2\nWatch: https://
+ www.youtube.com/@2019KPL/streams
+SUMMARY:Upper bracket quarterfinal 1: JDG vs DRG
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 END:VCALENDAR

@@ -265,6 +265,15 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 2: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round of 16 match 1: SHK vs Falcons Force
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260504T180000Z
+UID:pandascore-match-1476002@esport-ics
+DTSTART:20260504T180000Z
+DTEND:20260504T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:Falcons Force vs LFO
 END:VEVENT
 END:VCALENDAR
