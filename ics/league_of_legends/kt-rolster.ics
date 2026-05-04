@@ -106,15 +106,15 @@ SUMMARY:KT vs BRO
 URL:https://www.twitch.tv/lck
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260504T090000Z
+DTSTAMP:20260504T100000Z
 UID:pandascore-match-1465545@esport-ics
-DTSTART:20260504T090000Z
-DTEND:20260504T111500Z
+DTSTART:20260504T100000Z
+DTEND:20260504T121500Z
 CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Korea Qualifier 2026 - Playoffs\nWatch: htt
- ps://www.twitch.tv/EWC_STCArena_EN
+ ps://www.twitch.tv/tlives_tv
 SUMMARY:Upper bracket quarterfinal 3: KT vs BFX
-URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
+URL;VALUE=URI:https://www.twitch.tv/tlives_tv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260507T080000Z

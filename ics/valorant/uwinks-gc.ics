@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Japan Split 1 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/valorant_jpn
 SUMMARY:Upper bracket semifinal 1: EOTO vs  Uwinks GC
+URL:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T070000Z
+UID:pandascore-match-1474609@esport-ics
+DTSTART:20260505T070000Z
+DTEND:20260505T091500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Japan Split 1 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/valorant_jpn
+SUMMARY:Lower bracket semifinal:  Uwinks GC vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
 END:VEVENT
 END:VCALENDAR
