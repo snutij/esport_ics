@@ -103,4 +103,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - April 2026 - Group A
 SUMMARY:Decider match: RED.A vs QUIN
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T210000Z
+UID:pandascore-match-1468040@esport-ics
+DTSTART:20260505T210000Z
+DTEND:20260505T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - April 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/gamersclubcs
+SUMMARY:Quarterfinal 4: ALKA vs QUIN
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
 END:VCALENDAR

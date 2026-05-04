@@ -506,15 +506,13 @@ SUMMARY:Round 3: Keyd vs paiN.A
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260504T190000Z
+DTSTAMP:20260504T203000Z
 UID:pandascore-match-1468037@esport-ics
-DTSTART:20260504T190000Z
-DTEND:20260504T211500Z
+DTSTART:20260504T203000Z
+DTEND:20260504T224500Z
 CLASS:PUBLIC
-DESCRIPTION:Gamers Club Liga Série A - April 2026 - Playoffs\nWatch: https
- ://www.twitch.tv/gamersclubcs
+DESCRIPTION:Gamers Club Liga Série A - April 2026 - Playoffs
 SUMMARY:Quarterfinal 1: LDP vs paiN.A
-URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T190000Z

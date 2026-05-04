@@ -218,6 +218,17 @@ SUMMARY:Round 4: WAL vs Lavked
 URL;VALUE=URI:https://www.kick.com/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260506T110000Z
+UID:pandascore-match-1469207@esport-ics
+DTSTART:20260506T110000Z
+DTEND:20260506T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 2: WAL vs INOX
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260522T150000Z
 UID:pandascore-match-1470184@esport-ics
 DTSTART:20260522T150000Z
