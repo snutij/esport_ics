@@ -534,6 +534,17 @@ SUMMARY:Round 3: KSM vs BOYB
 URL:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260507T103000Z
+UID:pandascore-match-1476925@esport-ics
+DTSTART:20260507T103000Z
+DTEND:20260507T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:BIG.A vs KSM
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260510T110000Z
 UID:pandascore-match-1463394@esport-ics
 DTSTART:20260510T110000Z

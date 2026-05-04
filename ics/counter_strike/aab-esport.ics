@@ -812,6 +812,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
  nWatch: https://www.kick.com/bcgamemasters
 SUMMARY:Round 4: AAB vs aAa
-URL;VALUE=URI:https://www.kick.com/bcgamemasters
+URL:https://www.kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T080000Z
+UID:pandascore-match-1476919@esport-ics
+DTSTART:20260506T080000Z
+DTEND:20260506T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Group B\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:SNG vs AAB
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
