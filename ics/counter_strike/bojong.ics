@@ -263,6 +263,17 @@ DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:BJNG vs ZOTIX
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260509T080000Z
+UID:pandascore-match-1476916@esport-ics
+DTSTART:20260509T080000Z
+DTEND:20260509T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Elimination match: BJNG vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260510T133000Z
 UID:pandascore-match-1463395@esport-ics
 DTSTART:20260510T133000Z

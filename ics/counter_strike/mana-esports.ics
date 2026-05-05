@@ -704,6 +704,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 5 2026 - Group A\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:BJNG vs MANA
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T103000Z
+UID:pandascore-match-1476917@esport-ics
+DTSTART:20260509T103000Z
+DTEND:20260509T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Winners match: MANA vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

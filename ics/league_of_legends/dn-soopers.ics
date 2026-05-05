@@ -198,6 +198,17 @@ SUMMARY:BRO vs DNS
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260518T100000Z
+UID:pandascore-match-1465547@esport-ics
+DTSTART:20260518T100000Z
+DTEND:20260518T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Korea Qualifier 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/EWC_STCArena_EN
+SUMMARY:Lower bracket round 1 match 1: DNS vs TBD
+URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260522T080000Z
 UID:pandascore-match-1413494@esport-ics
 DTSTART:20260522T080000Z
