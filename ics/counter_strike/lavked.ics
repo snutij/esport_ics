@@ -482,4 +482,15 @@ DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
 SUMMARY:Round 2: TNC vs Lavked
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T140000Z
+UID:pandascore-match-1467651@esport-ics
+DTSTART:20260506T140000Z
+DTEND:20260506T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In\nWatch: https://
+ kick.com/nodwin_cs2
+SUMMARY:Lavked vs UNiTY
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
