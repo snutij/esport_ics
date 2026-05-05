@@ -155,6 +155,17 @@ CLASS:PUBLIC
 DESCRIPTION:EBL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/fortuna
 SUMMARY:PS vs CROA
+URL:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T160000Z
+UID:pandascore-match-1477803@esport-ics
+DTSTART:20260506T160000Z
+DTEND:20260506T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/fort
+ una
+SUMMARY:Upper bracket quarterfinal 1: PS vs TQD
 URL;VALUE=URI:https://www.twitch.tv/fortuna
 END:VEVENT
 END:VCALENDAR

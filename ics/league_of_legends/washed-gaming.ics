@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Washed Gaming
+SLUG:washed-gaming
+BEGIN:VEVENT
+DTSTAMP:20260507T160000Z
+UID:pandascore-match-1477833@esport-ics
+DTSTART:20260507T160000Z
+DTEND:20260507T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/fort
+ una
+SUMMARY:Upper bracket quarterfinal 3: MGZ vs ⁠WSG
+URL;VALUE=URI:https://www.twitch.tv/fortuna
+END:VEVENT
+END:VCALENDAR
