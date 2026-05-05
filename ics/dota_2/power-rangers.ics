@@ -427,7 +427,9 @@ UID:pandascore-match-1468622@esport-ics
 DTSTART:20260505T180000Z
 DTEND:20260505T201500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 37 2026 - Group A
+DESCRIPTION:European Pro League - Season 37 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
 SUMMARY:enjoy boys vs PR
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

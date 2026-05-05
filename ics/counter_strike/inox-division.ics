@@ -170,4 +170,15 @@ DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
 SUMMARY:Round 2: WAL vs INOX
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T134500Z
+UID:pandascore-match-1470245@esport-ics
+DTSTART:20260507T134500Z
+DTEND:20260507T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 2 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs3
+SUMMARY:Upper bracket semifinal 2: TLR vs INOX
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR
