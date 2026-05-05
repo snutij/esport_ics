@@ -587,6 +587,17 @@ URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T150000Z
+UID:pandascore-match-1468643@esport-ics
+DTSTART:20260505T150000Z
+DTEND:20260505T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:AIM vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T150000Z
 UID:pandascore-match-1468640@esport-ics
 DTSTART:20260505T150000Z
 DTEND:20260505T171500Z
@@ -605,17 +616,6 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:Nem vs LYNX
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260506T180000Z
-UID:pandascore-match-1468643@esport-ics
-DTSTART:20260506T180000Z
-DTEND:20260506T201500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 37 2026 - Group B\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:AIM vs LYNX
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT

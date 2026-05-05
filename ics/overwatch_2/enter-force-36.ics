@@ -105,26 +105,26 @@ SUMMARY:Grand final: EF.36 vs VAR
 URL:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T080000Z
+DTSTAMP:20260505T083000Z
 UID:pandascore-match-1476054@esport-ics
-DTSTART:20260505T080000Z
-DTEND:20260505T093000Z
+DTSTART:20260505T083000Z
+DTEND:20260505T100000Z
 CLASS:PUBLIC
-DESCRIPTION:OCS - Asia Stage 1 2026 - Group A\nWatch: https://www.twitch.tv
- /ow_esports
+DESCRIPTION:OCS - Asia Stage 1 2026 - Group A\nWatch: https://www.youtube.c
+ om/watch?v=YM8rqEuC2dE
 SUMMARY:EF.36 vs TGG
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL;VALUE=URI:https://www.youtube.com/watch?v=YM8rqEuC2dE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T100000Z
+DTSTAMP:20260505T103000Z
 UID:pandascore-match-1476055@esport-ics
-DTSTART:20260505T100000Z
-DTEND:20260505T113000Z
+DTSTART:20260505T103000Z
+DTEND:20260505T120000Z
 CLASS:PUBLIC
-DESCRIPTION:OCS - Asia Stage 1 2026 - Group A\nWatch: https://www.twitch.tv
- /ow_esports
+DESCRIPTION:OCS - Asia Stage 1 2026 - Group A\nWatch: https://www.youtube.c
+ om/watch?v=YM8rqEuC2dE
 SUMMARY:ZETA vs EF.36
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL;VALUE=URI:https://www.youtube.com/watch?v=YM8rqEuC2dE
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260506T100000Z

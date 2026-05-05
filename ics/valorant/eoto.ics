@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Japan Split 1 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/valorant_jpn
 SUMMARY:Upper bracket final: EOTO vs FL.FE
+URL:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T100000Z
+UID:pandascore-match-1474610@esport-ics
+DTSTART:20260505T100000Z
+DTEND:20260505T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Japan Split 1 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/valorant_jpn
+SUMMARY:Lower bracket final: EOTO vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
 END:VEVENT
 END:VCALENDAR

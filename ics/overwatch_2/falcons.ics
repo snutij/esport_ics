@@ -179,18 +179,18 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Asia Stage 1 2026 - Group B\nWatch: https://www.twitch.tv
  /ow_esports
 SUMMARY:FAL vs CR
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL:https://www.twitch.tv/ow_esports
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T110000Z
+DTSTAMP:20260505T113000Z
 UID:pandascore-match-1476062@esport-ics
-DTSTART:20260505T110000Z
-DTEND:20260505T123000Z
+DTSTART:20260505T113000Z
+DTEND:20260505T130000Z
 CLASS:PUBLIC
-DESCRIPTION:OCS - Asia Stage 1 2026 - Group B\nWatch: https://www.twitch.tv
- /ow_esports
+DESCRIPTION:OCS - Asia Stage 1 2026 - Group B\nWatch: https://www.youtube.c
+ om/watch?v=YM8rqEuC2dE
 SUMMARY:FAL vs VAR
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL;VALUE=URI:https://www.youtube.com/watch?v=YM8rqEuC2dE
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260506T090000Z
