@@ -493,4 +493,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In\nWatch: https://
 SUMMARY:Lavked vs UNiTY
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T170000Z
+UID:pandascore-match-1467677@esport-ics
+DTSTART:20260506T170000Z
+DTEND:20260506T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
+ nWatch: https://www.kick.com/bcgamemasters
+SUMMARY:Round 5: Lavked vs TLR
+URL;VALUE=URI:https://www.kick.com/bcgamemasters
+END:VEVENT
 END:VCALENDAR

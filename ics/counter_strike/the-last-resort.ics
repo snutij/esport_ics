@@ -638,6 +638,17 @@ SUMMARY:Upper bracket semifinal 1: MES vs TLR
 URL:https://www.twitch.tv/UKICircuit
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260506T170000Z
+UID:pandascore-match-1467677@esport-ics
+DTSTART:20260506T170000Z
+DTEND:20260506T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
+ nWatch: https://www.kick.com/bcgamemasters
+SUMMARY:Round 5: Lavked vs TLR
+URL;VALUE=URI:https://www.kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260507T134500Z
 UID:pandascore-match-1470245@esport-ics
 DTSTART:20260507T134500Z
@@ -656,5 +667,16 @@ DTEND:20260513T174500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:TLR vs OLDBOYS-
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T193000Z
+UID:pandascore-match-1469280@esport-ics
+DTSTART:20260519T193000Z
+DTEND:20260519T214500Z
+CLASS:PUBLIC
+DESCRIPTION:UKIC - Masters Division season 10 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/UKICircuit
+SUMMARY:Upper bracket final: DRIP vs TLR
+URL;VALUE=URI:https://www.twitch.tv/UKICircuit
 END:VEVENT
 END:VCALENDAR

@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:UKIC - Masters Division season 10 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/UKICircuit
 SUMMARY:Upper bracket semifinal 1: MES vs TLR
+URL:https://www.twitch.tv/UKICircuit
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T193000Z
+UID:pandascore-match-1469278@esport-ics
+DTSTART:20260514T193000Z
+DTEND:20260514T214500Z
+CLASS:PUBLIC
+DESCRIPTION:UKIC - Masters Division season 10 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/UKICircuit
+SUMMARY:Lower bracket quarterfinal 2: MES vs TBD
 URL;VALUE=URI:https://www.twitch.tv/UKICircuit
 END:VEVENT
 END:VCALENDAR
