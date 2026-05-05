@@ -43,6 +43,15 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division\nWatch:
   https://www.youtube.com/@BetBoomEsports/featured
 SUMMARY:HARD GRIND vs SUP
-URL;VALUE=URI:https://www.youtube.com/@BetBoomEsports/featured
+URL:https://www.youtube.com/@BetBoomEsports/featured
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T163000Z
+UID:pandascore-match-1477459@esport-ics
+DTSTART:20260508T163000Z
+DTEND:20260508T184500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division
+SUMMARY:HARD GRIND vs TST
 END:VEVENT
 END:VCALENDAR
