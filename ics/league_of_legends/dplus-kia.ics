@@ -187,6 +187,17 @@ SUMMARY:T1 vs DK
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260512T100000Z
+UID:pandascore-match-1465549@esport-ics
+DTSTART:20260512T100000Z
+DTEND:20260512T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Korea Qualifier 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/EWC_STCArena_EN
+SUMMARY:Upper bracket semifinal 1: HLE vs DK
+URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260513T100000Z
 UID:pandascore-match-1413481@esport-ics
 DTSTART:20260513T100000Z

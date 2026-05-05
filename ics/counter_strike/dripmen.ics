@@ -149,7 +149,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 2 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Lower bracket round 1 match 2: CC.FE vs DRIP
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T180000Z
@@ -161,5 +161,16 @@ DESCRIPTION:UKIC - Masters Division season 10 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/UKICircuit
 SUMMARY:Upper bracket semifinal 2: DRIP vs SNARKY
 URL;VALUE=URI:https://www.twitch.tv/UKICircuit
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T110000Z
+UID:pandascore-match-1470239@esport-ics
+DTSTART:20260506T110000Z
+DTEND:20260506T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 2 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs3
+SUMMARY:Lower bracket round 2 match 2: m1x vs DRIP
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
