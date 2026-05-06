@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:la Masia
+SLUG:la-masia
+BEGIN:VEVENT
+DTSTAMP:20260506T230000Z
+UID:pandascore-match-1479078@esport-ics
+DTSTART:20260506T230000Z
+DTEND:20260507T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:la Masia vs EGO
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T200000Z
+UID:pandascore-match-1479084@esport-ics
+DTSTART:20260520T200000Z
+DTEND:20260520T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:INTZ vs la Masia
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T200000Z
+UID:pandascore-match-1479086@esport-ics
+DTSTART:20260527T200000Z
+DTEND:20260527T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:2GAME vs la Masia
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T200000Z
+UID:pandascore-match-1479090@esport-ics
+DTSTART:20260529T200000Z
+DTEND:20260529T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:la Masia vs TL
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T200000Z
+UID:pandascore-match-1479093@esport-ics
+DTSTART:20260602T200000Z
+DTEND:20260602T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:ELE vs la Masia
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T230000Z
+UID:pandascore-match-1479097@esport-ics
+DTSTART:20260618T230000Z
+DTEND:20260619T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:RED vs la Masia
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+END:VCALENDAR

@@ -168,7 +168,7 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Asia Stage 1 2026 - Group B\nWatch: https://www.twitch.tv
  /ow_esports
 SUMMARY:CR vs PNHB
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL:https://www.twitch.tv/ow_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260506T110000Z
@@ -177,8 +177,8 @@ DTSTART:20260506T110000Z
 DTEND:20260506T123000Z
 CLASS:PUBLIC
 DESCRIPTION:OCS - Asia Stage 1 2026 - Group B\nWatch: https://www.twitch.tv
- /ow_esports
+ /ow_esports_jp
 SUMMARY:CR vs VAR
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

@@ -69,6 +69,72 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Brazil: Stage 1 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/gamersclubvalorant
 SUMMARY:Lower bracket quarterfinal 2: MIBR.A vs 2GAME
+URL:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T200000Z
+UID:pandascore-match-1479058@esport-ics
+DTSTART:20260512T200000Z
+DTEND:20260512T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:TS vs MIBR.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T200000Z
+UID:pandascore-match-1479062@esport-ics
+DTSTART:20260519T200000Z
+DTEND:20260519T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:MIBR.A vs FUR.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260526T230000Z
+UID:pandascore-match-1479075@esport-ics
+DTSTART:20260526T230000Z
+DTEND:20260527T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:MIBR.A vs ABA
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T230000Z
+UID:pandascore-match-1479072@esport-ics
+DTSTART:20260528T230000Z
+DTEND:20260529T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:TBK vs MIBR.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T200000Z
+UID:pandascore-match-1479069@esport-ics
+DTSTART:20260601T200000Z
+DTEND:20260601T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:MIBR.A vs PEEK
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T200000Z
+UID:pandascore-match-1479065@esport-ics
+DTSTART:20260617T200000Z
+DTEND:20260617T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:MIBR.A vs F4T
 URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
 END:VEVENT
 END:VCALENDAR

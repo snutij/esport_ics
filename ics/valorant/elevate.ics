@@ -87,4 +87,70 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Brazil: Stage 1 2026 - Playoffs
 SUMMARY:Lower bracket final: ELE vs 2GAME
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T200000Z
+UID:pandascore-match-1479076@esport-ics
+DTSTART:20260506T200000Z
+DTEND:20260506T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:2GAME vs ELE
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T200000Z
+UID:pandascore-match-1479080@esport-ics
+DTSTART:20260513T200000Z
+DTEND:20260513T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:ELE vs RED
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T200000Z
+UID:pandascore-match-1479095@esport-ics
+DTSTART:20260518T200000Z
+DTEND:20260518T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:ELE vs TL
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T200000Z
+UID:pandascore-match-1479083@esport-ics
+DTSTART:20260520T200000Z
+DTEND:20260520T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:ELE vs EGO
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T230000Z
+UID:pandascore-match-1479091@esport-ics
+DTSTART:20260529T230000Z
+DTEND:20260530T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:ELE vs INTZ
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T200000Z
+UID:pandascore-match-1479093@esport-ics
+DTSTART:20260602T200000Z
+DTEND:20260602T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:ELE vs la Masia
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
 END:VCALENDAR

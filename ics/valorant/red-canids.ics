@@ -102,6 +102,72 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Brazil: Stage 1 2026 - Play-In\nWatch: https://www.twitch
  .tv/gamersclubvalorant
 SUMMARY:Lower bracket final: 2GAME vs RED
+URL:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T200000Z
+UID:pandascore-match-1479077@esport-ics
+DTSTART:20260506T200000Z
+DTEND:20260506T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:RED vs TL
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T200000Z
+UID:pandascore-match-1479080@esport-ics
+DTSTART:20260513T200000Z
+DTEND:20260513T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:ELE vs RED
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T230000Z
+UID:pandascore-match-1479085@esport-ics
+DTSTART:20260520T230000Z
+DTEND:20260521T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:2GAME vs RED
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T200000Z
+UID:pandascore-match-1479087@esport-ics
+DTSTART:20260527T200000Z
+DTEND:20260527T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:RED vs EGO
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T200000Z
+UID:pandascore-match-1479092@esport-ics
+DTSTART:20260602T200000Z
+DTEND:20260602T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:INTZ vs RED
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T230000Z
+UID:pandascore-match-1479097@esport-ics
+DTSTART:20260618T230000Z
+DTEND:20260619T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:RED vs la Masia
 URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
 END:VEVENT
 END:VCALENDAR

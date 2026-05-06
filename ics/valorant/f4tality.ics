@@ -58,6 +58,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Brazil: Stage 1 2026 - Group B\nWatch: https://www.twitch
  .tv/gamersclubvalorant
 SUMMARY:F4T vs FUR.A
+URL:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T230000Z
+UID:pandascore-match-1479060@esport-ics
+DTSTART:20260512T230000Z
+DTEND:20260513T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:F4T vs ABA
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T200000Z
+UID:pandascore-match-1479061@esport-ics
+DTSTART:20260519T200000Z
+DTEND:20260519T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:TBK vs F4T
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260526T200000Z
+UID:pandascore-match-1479074@esport-ics
+DTSTART:20260526T200000Z
+DTEND:20260526T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:PEEK vs F4T
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T200000Z
+UID:pandascore-match-1479070@esport-ics
+DTSTART:20260528T200000Z
+DTEND:20260528T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:TS vs F4T
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T200000Z
+UID:pandascore-match-1479065@esport-ics
+DTSTART:20260617T200000Z
+DTEND:20260617T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group A\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:MIBR.A vs F4T
 URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
 END:VEVENT
 END:VCALENDAR
