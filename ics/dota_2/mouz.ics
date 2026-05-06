@@ -472,6 +472,15 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 1 2026 - Group A\nWatch: https://kick.com
  /papita
 SUMMARY:MOUZ vs PlayTime
-URL;VALUE=URI:https://kick.com/papita
+URL:https://kick.com/papita
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T120000Z
+UID:pandascore-match-1468800@esport-ics
+DTSTART:20260507T120000Z
+DTEND:20260507T141500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 1 2026 - Decider Stage
+SUMMARY:RNX vs MOUZ
 END:VEVENT
 END:VCALENDAR
