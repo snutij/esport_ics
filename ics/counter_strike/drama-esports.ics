@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 5: LPH vs DRAMA
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T093000Z
+UID:pandascore-match-1478898@esport-ics
+DTSTART:20260506T093000Z
+DTEND:20260506T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: DRAMA vs FORZE.R
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

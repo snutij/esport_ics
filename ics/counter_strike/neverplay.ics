@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 26 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 5: NP vs Pitstop crew
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T123000Z
+UID:pandascore-match-1478903@esport-ics
+DTSTART:20260507T123000Z
+DTEND:20260507T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: LPH vs NP
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

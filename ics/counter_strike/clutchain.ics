@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Conquest of Prague - Online Stage 2026 - Group Stage\nWatch: ht
  tps://www.twitch.tv/playzoneup
 SUMMARY:Round 5: WAL vs CC
-URL;VALUE=URI:https://www.twitch.tv/playzoneup
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T183000Z
+UID:pandascore-match-1478901@esport-ics
+DTSTART:20260506T183000Z
+DTEND:20260506T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: CC vs HEC
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

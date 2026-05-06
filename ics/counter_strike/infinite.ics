@@ -397,6 +397,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esplay Elite Gaming - Season 1 2026 - Playoffs\nWatch: https://
  www.twitch.tv/esplaycom
 SUMMARY:Grand final: JS vs INF
-URL;VALUE=URI:https://www.twitch.tv/esplaycom
+URL:https://www.twitch.tv/esplaycom
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T093000Z
+UID:pandascore-match-1478902@esport-ics
+DTSTART:20260507T093000Z
+DTEND:20260507T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: INF vs MJX
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

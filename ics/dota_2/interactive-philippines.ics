@@ -333,7 +333,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:5SM vs IAC
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260506T120000Z
@@ -358,10 +358,10 @@ SUMMARY:GLYPH vs IAC
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260508T030000Z
+DTSTAMP:20260508T120000Z
 UID:pandascore-match-1474730@esport-ics
-DTSTART:20260508T030000Z
-DTEND:20260508T051500Z
+DTSTART:20260508T120000Z
+DTEND:20260508T141500Z
 CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
