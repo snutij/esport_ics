@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:Global StarCraft II League - Season 1 2026 - Group Stage 2 - Gr
  oup A\nWatch: https://play.sooplive.com/station/afgsl
 SUMMARY:Maru vs Rogue
-URL;VALUE=URI:https://play.sooplive.com/station/afgsl
+URL:https://play.sooplive.com/station/afgsl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T123000Z
+UID:pandascore-match-1466391@esport-ics
+DTSTART:20260506T123000Z
+DTEND:20260506T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Global StarCraft II League - Season 1 2026 - Group Stage 2 - Gr
+ oup A\nWatch: https://play.sooplive.com/gslenglish/293797387
+SUMMARY:Decider match: Maru vs TBD
+URL;VALUE=URI:https://play.sooplive.com/gslenglish/293797387
 END:VEVENT
 END:VCALENDAR

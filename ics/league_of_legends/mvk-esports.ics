@@ -81,6 +81,15 @@ DESCRIPTION:Esports World Cup - Asia-Pacific Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 4: SHG vs MVK
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260507T090000Z
+UID:pandascore-match-1477467@esport-ics
+DTSTART:20260507T090000Z
+DTEND:20260507T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Asia-Pacific Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 2: MVK vs TBD
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260509T113000Z
 UID:pandascore-match-1413545@esport-ics
 DTSTART:20260509T113000Z
