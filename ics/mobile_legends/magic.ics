@@ -156,17 +156,6 @@ DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division
 SUMMARY:AF vs MAG
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260509T120000Z
-UID:pandascore-match-1439065@esport-ics
-DTSTART:20260509T120000Z
-DTEND:20260509T141500Z
-CLASS:PUBLIC
-DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Regular Season
- \nWatch: https://www.twitch.tv/mlbb_cis
-SUMMARY:TS vs MAG
-URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260510T133000Z
 UID:pandascore-match-1439070@esport-ics
 DTSTART:20260510T133000Z
@@ -175,6 +164,17 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Regular Season
  \nWatch: https://www.twitch.tv/mlbb_cis
 SUMMARY:MAG vs VP
+URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T120000Z
+UID:pandascore-match-1439065@esport-ics
+DTSTART:20260511T120000Z
+DTEND:20260511T141500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Regular Season
+ \nWatch: https://www.twitch.tv/mlbb_cis
+SUMMARY:TS vs MAG
 URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
 END:VEVENT
 BEGIN:VEVENT

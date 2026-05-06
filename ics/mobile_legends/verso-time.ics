@@ -156,17 +156,6 @@ DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division
 SUMMARY:YNDX vs Verso Time
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260509T133000Z
-UID:pandascore-match-1439066@esport-ics
-DTSTART:20260509T133000Z
-DTEND:20260509T154500Z
-CLASS:PUBLIC
-DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Regular Season
- \nWatch: https://www.twitch.tv/mlbb_cis
-SUMMARY:FORZE Esports vs Verso Time
-URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260510T163000Z
 UID:pandascore-match-1439072@esport-ics
 DTSTART:20260510T163000Z
@@ -175,6 +164,17 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Regular Season
  \nWatch: https://www.twitch.tv/mlbb_cis
 SUMMARY:Verso Time vs TS
+URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T133000Z
+UID:pandascore-match-1439066@esport-ics
+DTSTART:20260511T133000Z
+DTEND:20260511T154500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Regular Season
+ \nWatch: https://www.twitch.tv/mlbb_cis
+SUMMARY:FORZE Esports vs Verso Time
 URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
 END:VEVENT
 BEGIN:VEVENT

@@ -156,17 +156,6 @@ DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division
 SUMMARY:FORZE Esports vs CH
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260509T150000Z
-UID:pandascore-match-1439067@esport-ics
-DTSTART:20260509T150000Z
-DTEND:20260509T171500Z
-CLASS:PUBLIC
-DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Regular Season
- \nWatch: https://www.twitch.tv/mlbb_cis
-SUMMARY:AF vs CH
-URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260510T150000Z
 UID:pandascore-match-1439071@esport-ics
 DTSTART:20260510T150000Z
@@ -175,6 +164,17 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Regular Season
  \nWatch: https://www.twitch.tv/mlbb_cis
 SUMMARY:CH vs YNDX
+URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T150000Z
+UID:pandascore-match-1439067@esport-ics
+DTSTART:20260511T150000Z
+DTEND:20260511T171500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Regular Season
+ \nWatch: https://www.twitch.tv/mlbb_cis
+SUMMARY:AF vs CH
 URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
 END:VEVENT
 BEGIN:VEVENT

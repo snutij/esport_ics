@@ -81,6 +81,15 @@ DESCRIPTION:Esports World Cup - Asia-Pacific Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 2: DCG vs GAM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260507T090000Z
+UID:pandascore-match-1477468@esport-ics
+DTSTART:20260507T090000Z
+DTEND:20260507T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Asia-Pacific Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 1: TSW vs GAM
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260510T113000Z
 UID:pandascore-match-1413547@esport-ics
 DTSTART:20260510T113000Z
@@ -90,15 +99,6 @@ DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
  tv/lolpacificen
 SUMMARY:SHG vs GAM
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260512T090000Z
-UID:pandascore-match-1477468@esport-ics
-DTSTART:20260512T090000Z
-DTEND:20260512T111500Z
-CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Asia-Pacific Qualifier 2026 - Playoffs
-SUMMARY:Upper bracket semifinal 1: TSW vs GAM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260517T113000Z
