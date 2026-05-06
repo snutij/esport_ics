@@ -295,6 +295,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 2 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs3
 SUMMARY:Lower bracket round 2 match 4: Atreides vs LILMIX
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T110000Z
+UID:pandascore-match-1470243@esport-ics
+DTSTART:20260507T110000Z
+DTEND:20260507T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 2 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs3
+SUMMARY:Lower bracket round 3 match 2: EC BANGA vs Atreides
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

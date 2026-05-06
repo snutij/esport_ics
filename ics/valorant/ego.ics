@@ -28,17 +28,6 @@ SUMMARY:EGO vs TL
 URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260518T200000Z
-UID:pandascore-match-1479096@esport-ics
-DTSTART:20260518T200000Z
-DTEND:20260518T221500Z
-CLASS:PUBLIC
-DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
- .tv/gamersclubvalorant
-SUMMARY:INTZ vs EGO
-URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260520T200000Z
 UID:pandascore-match-1479083@esport-ics
 DTSTART:20260520T200000Z
@@ -69,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
  .tv/gamersclubvalorant
 SUMMARY:2GAME vs EGO
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T200000Z
+UID:pandascore-match-1479096@esport-ics
+DTSTART:20260618T200000Z
+DTEND:20260618T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:INTZ vs EGO
 URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
 END:VEVENT
 END:VCALENDAR
