@@ -446,6 +446,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
  nWatch: https://www.kick.com/bcgamemasters
 SUMMARY:Round 5: CS vs ASTR
-URL;VALUE=URI:https://www.kick.com/bcgamemasters
+URL:https://www.kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T110000Z
+UID:pandascore-match-1467683@esport-ics
+DTSTART:20260508T110000Z
+DTEND:20260508T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/bcgamemasters
+SUMMARY:Round of 16 match 6: NEM vs CS
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR

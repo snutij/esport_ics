@@ -837,6 +837,17 @@ SUMMARY:Round 5: AAB vs G1
 URL:https://www.kick.com/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260507T140000Z
+UID:pandascore-match-1467680@esport-ics
+DTSTART:20260507T140000Z
+DTEND:20260507T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/bcgamemasters
+SUMMARY:Round of 16 match 3: NEMI vs AAB
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260510T103000Z
 UID:pandascore-match-1476922@esport-ics
 DTSTART:20260510T103000Z

@@ -686,6 +686,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
  om/cct_cs
 SUMMARY:Round 2: ex-RUBY vs OXUJI
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T140000Z
+UID:pandascore-match-1469216@esport-ics
+DTSTART:20260508T140000Z
+DTEND:20260508T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 3: WAL vs ex-RUBY
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

@@ -240,6 +240,28 @@ SUMMARY:Round 2: WAL vs INOX
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260508T080000Z
+UID:pandascore-match-1467682@esport-ics
+DTSTART:20260508T080000Z
+DTEND:20260508T101500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/bcgamemasters
+SUMMARY:Round of 16 match 5: 9INE vs WAL
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T140000Z
+UID:pandascore-match-1469216@esport-ics
+DTSTART:20260508T140000Z
+DTEND:20260508T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 3: WAL vs ex-RUBY
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260522T150000Z
 UID:pandascore-match-1470184@esport-ics
 DTSTART:20260522T150000Z
