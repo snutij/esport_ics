@@ -499,4 +499,15 @@ CLASS:PUBLIC
 DESCRIPTION:Odyssey Cup - Brazil 2026 - Playoffs
 SUMMARY:Quarterfinal 1: YAW vs FDB
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T190000Z
+UID:pandascore-match-1467632@esport-ics
+DTSTART:20260509T190000Z
+DTEND:20260509T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #1 season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs2
+SUMMARY:Quarterfinal 3: FDB vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
