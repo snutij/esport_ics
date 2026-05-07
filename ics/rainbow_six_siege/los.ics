@@ -99,8 +99,10 @@ UID:pandascore-match-1471711@esport-ics
 DTSTART:20260508T163000Z
 DTEND:20260508T171500Z
 CLASS:PUBLIC
-DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Play-In
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Play-In\nWatch: https://
+ www.twitch.tv/rainbow6
 SUMMARY:Upper bracket quarterfinal 1: LOS vs WOL
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260508T223000Z
@@ -108,7 +110,9 @@ UID:pandascore-match-1471715@esport-ics
 DTSTART:20260508T223000Z
 DTEND:20260509T004500Z
 CLASS:PUBLIC
-DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Play-In
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Play-In\nWatch: https://
+ www.twitch.tv/rainbow6
 SUMMARY:Upper bracket semifinal 1: LOS vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

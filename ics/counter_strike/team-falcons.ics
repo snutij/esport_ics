@@ -165,4 +165,15 @@ DESCRIPTION:PGL - Astana 2026 - Group Stage\nWatch: https://www.twitch.tv/P
 SUMMARY:Round 1: FAL vs K27
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T040000Z
+UID:pandascore-match-1480489@esport-ics
+DTSTART:20260520T040000Z
+DTEND:20260520T044500Z
+CLASS:PUBLIC
+DESCRIPTION:CS Asia Championships - 2026 - Group A\nWatch: https://www.twit
+ ch.tv/pgl
+SUMMARY:Upper bracket quarterfinal 1: FAL vs BCG
+URL;VALUE=URI:https://www.twitch.tv/pgl
+END:VEVENT
 END:VCALENDAR

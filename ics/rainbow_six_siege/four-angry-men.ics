@@ -99,7 +99,9 @@ UID:pandascore-match-1471714@esport-ics
 DTSTART:20260508T210000Z
 DTEND:20260508T214500Z
 CLASS:PUBLIC
-DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Play-In
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Play-In\nWatch: https://
+ www.twitch.tv/rainbow6
 SUMMARY:Upper bracket quarterfinal 4: SR vs 4AM
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

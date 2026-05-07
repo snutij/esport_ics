@@ -280,4 +280,15 @@ DESCRIPTION:PGL - Astana 2026 - Group Stage\nWatch: https://www.twitch.tv/P
 SUMMARY:Round 1: PRV vs 9z
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T050000Z
+UID:pandascore-match-1480496@esport-ics
+DTSTART:20260520T050000Z
+DTEND:20260520T054500Z
+CLASS:PUBLIC
+DESCRIPTION:CS Asia Championships - 2026 - Group B\nWatch: https://www.twit
+ ch.tv/pgl
+SUMMARY:Upper bracket quarterfinal 4: PRV vs TL
+URL;VALUE=URI:https://www.twitch.tv/pgl
+END:VEVENT
 END:VCALENDAR

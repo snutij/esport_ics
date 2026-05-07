@@ -152,8 +152,10 @@ UID:pandascore-match-1477457@esport-ics
 DTSTART:20260507T193000Z
 DTEND:20260507T214500Z
 CLASS:PUBLIC
-DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division\nWatch:
+  https://www.youtube.com/watch?v=5E20zLKji0M
 SUMMARY:FORZE Esports vs CH
+URL;VALUE=URI:https://www.youtube.com/watch?v=5E20zLKji0M
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260510T120000Z

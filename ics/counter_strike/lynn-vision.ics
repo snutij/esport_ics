@@ -156,6 +156,17 @@ CLASS:PUBLIC
 DESCRIPTION:Yuqilin - Pinnacle of Battle season 3 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/krat0ntv
 SUMMARY:Grand final: LVG vs TYLOO
-URL;VALUE=URI:https://www.twitch.tv/krat0ntv
+URL:https://www.twitch.tv/krat0ntv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T060000Z
+UID:pandascore-match-1480493@esport-ics
+DTSTART:20260520T060000Z
+DTEND:20260520T064500Z
+CLASS:PUBLIC
+DESCRIPTION:CS Asia Championships - 2026 - Group B\nWatch: https://www.twit
+ ch.tv/pgl
+SUMMARY:Upper bracket quarterfinal 1: MGLZ vs LVG
+URL;VALUE=URI:https://www.twitch.tv/pgl
 END:VEVENT
 END:VCALENDAR
