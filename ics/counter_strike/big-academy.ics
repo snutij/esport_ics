@@ -550,6 +550,17 @@ SUMMARY:Grand final: ALGO vs BIG.A
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260511T103000Z
+UID:pandascore-match-1476927@esport-ics
+DTSTART:20260511T103000Z
+DTEND:20260511T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Winners match: ALGO vs BIG.A
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260511T180000Z
 UID:pandascore-match-1385755@esport-ics
 DTSTART:20260511T180000Z

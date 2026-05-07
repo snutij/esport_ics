@@ -291,6 +291,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #4 season 51 2026 - Pl
  ayoffs\nWatch: https://www.twitch.tv/xristcs
 SUMMARY:Lower bracket quarterfinal 1: RA vs TYLOO
-URL;VALUE=URI:https://www.twitch.tv/xristcs
+URL:https://www.twitch.tv/xristcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T050000Z
+UID:pandascore-match-1481126@esport-ics
+DTSTART:20260511T050000Z
+DTEND:20260511T071500Z
+CLASS:PUBLIC
+DESCRIPTION:Asian Champions League - 2026 - Group A\nWatch: https://www.twi
+ tch.tv/acl
+SUMMARY:Upper bracket quarterfinal 4: 5S vs RA
+URL;VALUE=URI:https://www.twitch.tv/acl
 END:VEVENT
 END:VCALENDAR

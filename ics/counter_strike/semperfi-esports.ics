@@ -234,4 +234,15 @@ CLASS:PUBLIC
 DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs
 SUMMARY:Lower bracket quarterfinal 2: SFE vs RA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T090000Z
+UID:pandascore-match-1481139@esport-ics
+DTSTART:20260511T090000Z
+DTEND:20260511T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Asian Champions League - 2026 - Group B\nWatch: https://www.twi
+ tch.tv/acl
+SUMMARY:Upper bracket quarterfinal 3: SFE vs CTG
+URL;VALUE=URI:https://www.twitch.tv/acl
+END:VEVENT
 END:VCALENDAR

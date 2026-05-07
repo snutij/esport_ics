@@ -23,6 +23,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/ozstrik3rtv
 SUMMARY:Lower bracket round 1 match 16: CYBERSHOKE Prospects vs CO
-URL;VALUE=URI:https://www.twitch.tv/ozstrik3rtv
+URL:https://www.twitch.tv/ozstrik3rtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T181500Z
+UID:pandascore-match-1481114@esport-ics
+DTSTART:20260509T181500Z
+DTEND:20260509T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #5 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs4
+SUMMARY:Upper bracket round 1 match 1: CO vs SHISHKA
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

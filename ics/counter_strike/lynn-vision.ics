@@ -159,6 +159,17 @@ SUMMARY:Grand final: LVG vs TYLOO
 URL:https://www.twitch.tv/krat0ntv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260511T070000Z
+UID:pandascore-match-1481137@esport-ics
+DTSTART:20260511T070000Z
+DTEND:20260511T091500Z
+CLASS:PUBLIC
+DESCRIPTION:Asian Champions League - 2026 - Group B\nWatch: https://www.twi
+ tch.tv/acl
+SUMMARY:Upper bracket quarterfinal 1: LVG vs AE
+URL;VALUE=URI:https://www.twitch.tv/acl
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260520T060000Z
 UID:pandascore-match-1480493@esport-ics
 DTSTART:20260520T060000Z
