@@ -430,6 +430,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 37 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:enjoy boys vs PR
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T090000Z
+UID:pandascore-match-1481489@esport-ics
+DTSTART:20260508T090000Z
+DTEND:20260508T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 37 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Upper bracket quarterfinal 2: PR vs LYNX
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
