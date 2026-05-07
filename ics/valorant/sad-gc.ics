@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers North America Stage 1 2026 - Group Stage\nW
  atch: https://www.twitch.tv/RaidiantGG
 SUMMARY:Round 4: MOX vs SaD
-URL;VALUE=URI:https://www.twitch.tv/RaidiantGG
+URL:https://www.twitch.tv/RaidiantGG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T210000Z
+UID:pandascore-match-1480501@esport-ics
+DTSTART:20260513T210000Z
+DTEND:20260513T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers North America Stage 1 2026 - Group Stage\nW
+ atch: https://www.twitch.tv/valorant_americas
+SUMMARY:Round 5: SaD vs SWIM
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR
