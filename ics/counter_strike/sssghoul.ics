@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:UKIC - Masters Division season 10 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/UKICircuit
 SUMMARY:Lower bracket round 1 match 1: SSS vs VTB
+URL:https://www.twitch.tv/UKICircuit
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T193000Z
+UID:pandascore-match-1469277@esport-ics
+DTSTART:20260514T193000Z
+DTEND:20260514T214500Z
+CLASS:PUBLIC
+DESCRIPTION:UKIC - Masters Division season 10 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/UKICircuit
+SUMMARY:Lower bracket quarterfinal 1: SNARKY vs SSS
 URL;VALUE=URI:https://www.twitch.tv/UKICircuit
 END:VEVENT
 END:VCALENDAR
