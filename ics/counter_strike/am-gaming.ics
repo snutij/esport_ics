@@ -440,6 +440,17 @@ SUMMARY:Round of 16 match 8: TRI vs AM
 URL:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260508T110000Z
+UID:pandascore-match-1471664@esport-ics
+DTSTART:20260508T110000Z
+DTEND:20260508T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 1: AM vs MOUZ.N
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260509T170000Z
 UID:pandascore-match-1467689@esport-ics
 DTSTART:20260509T170000Z

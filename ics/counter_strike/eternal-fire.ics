@@ -454,6 +454,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 2: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round 2 match 4: EF vs MGC
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T110000Z
+UID:pandascore-match-1471668@esport-ics
+DTSTART:20260509T110000Z
+DTEND:20260509T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 1: EF vs JS
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

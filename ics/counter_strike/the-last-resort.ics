@@ -678,6 +678,17 @@ DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:TLR vs NEW VISION
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260508T134500Z
+UID:pandascore-match-1470247@esport-ics
+DTSTART:20260508T134500Z
+DTEND:20260508T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 2 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs3
+SUMMARY:Lower bracket quarterfinal 2: Atreides vs TLR
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260513T170000Z
 UID:pandascore-match-1471615@esport-ics
 DTSTART:20260513T170000Z

@@ -326,6 +326,17 @@ SUMMARY:Round 4: SPARTA vs G1
 URL:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260508T080000Z
+UID:pandascore-match-1471663@esport-ics
+DTSTART:20260508T080000Z
+DTEND:20260508T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 1: SPARTA vs ex-RUBY
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260508T140000Z
 UID:pandascore-match-1467685@esport-ics
 DTSTART:20260508T140000Z

@@ -359,6 +359,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - NORTH//EAST Stage 2 2026 - Playoffs\nWatch: https://www.t
  witch.tv/valorantleague_ne
 SUMMARY:Mid bracket final: MIR vs EP
+URL:https://www.twitch.tv/valorantleague_ne
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T150000Z
+UID:pandascore-match-1447692@esport-ics
+DTSTART:20260511T150000Z
+DTEND:20260511T184500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - NORTH//EAST Stage 2 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/valorantleague_ne
+SUMMARY:Upper bracket final: NAVI.J vs EP
 URL;VALUE=URI:https://www.twitch.tv/valorantleague_ne
 END:VEVENT
 END:VCALENDAR

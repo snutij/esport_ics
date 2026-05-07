@@ -291,4 +291,15 @@ DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
 SUMMARY:Round 3: FAV vs TNC
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T170000Z
+UID:pandascore-match-1471670@esport-ics
+DTSTART:20260509T170000Z
+DTEND:20260509T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 1: BCA vs FAV
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

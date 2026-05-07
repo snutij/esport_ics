@@ -278,4 +278,15 @@ DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Playoffs\nWa
 SUMMARY:Round of 16 match 6: BCA vs INOX
 URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T170000Z
+UID:pandascore-match-1471670@esport-ics
+DTSTART:20260509T170000Z
+DTEND:20260509T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 1: BCA vs FAV
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
