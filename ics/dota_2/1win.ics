@@ -362,6 +362,15 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 1 2026 - Decider Stage\nWatch: https://tw
  itch.tv/gorgc
 SUMMARY:1WIN vs Nem
-URL;VALUE=URI:https://twitch.tv/gorgc
+URL:https://twitch.tv/gorgc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T090000Z
+UID:pandascore-match-1468803@esport-ics
+DTSTART:20260508T090000Z
+DTEND:20260508T111500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 1 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: Tundra vs 1WIN
 END:VEVENT
 END:VCALENDAR

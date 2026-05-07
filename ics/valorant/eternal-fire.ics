@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 1 2026 - Playoffs\nWatch: https://www.twitch.t
  v/valorant_emea
 SUMMARY:Upper bracket round 1 match 1: EF vs TH
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T150000Z
+UID:pandascore-match-1411907@esport-ics
+DTSTART:20260508T150000Z
+DTEND:20260508T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 1 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:Upper bracket semifinal 1: FUT vs EF
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
