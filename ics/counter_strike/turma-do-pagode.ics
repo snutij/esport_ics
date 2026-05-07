@@ -44,6 +44,17 @@ SUMMARY:Round 4: TdP vs BHE
 URL:https://www.twitch.tv/camyyfps
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260507T160000Z
+UID:pandascore-match-1467623@esport-ics
+DTSTART:20260507T160000Z
+DTEND:20260507T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #1 season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs2
+SUMMARY:Round of 16 match 2: TdP vs BST.A
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260508T213000Z
 UID:pandascore-match-1460063@esport-ics
 DTSTART:20260508T213000Z

@@ -515,4 +515,15 @@ DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
 SUMMARY:Round 3: MOUZ.N vs Lavked
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T140000Z
+UID:pandascore-match-1467684@esport-ics
+DTSTART:20260508T140000Z
+DTEND:20260508T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/bcgamemasters
+SUMMARY:Round of 16 match 1: ALL vs Lavked
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
 END:VCALENDAR

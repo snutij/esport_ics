@@ -323,6 +323,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
  nWatch: https://www.twitch.tv/bcgamemasters
 SUMMARY:Round 4: SPARTA vs G1
+URL:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T140000Z
+UID:pandascore-match-1467685@esport-ics
+DTSTART:20260508T140000Z
+DTEND:20260508T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/bcgamemasters
+SUMMARY:Round of 16 match 4: 33 vs SPARTA
 URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR

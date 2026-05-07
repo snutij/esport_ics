@@ -774,6 +774,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 2 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs3
 SUMMARY:Lower bracket round 2 match 1: ex-Zero Tenacity vs BG
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T170000Z
+UID:pandascore-match-1467681@esport-ics
+DTSTART:20260507T170000Z
+DTEND:20260507T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/bcgamemasters
+SUMMARY:Round of 16 match 2: NTR vs ex-Zero Tenacity
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR
