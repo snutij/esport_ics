@@ -359,6 +359,17 @@ SUMMARY:Round of 16 match 4: IMP vs Alzon
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260509T130000Z
+UID:pandascore-match-1467630@esport-ics
+DTSTART:20260509T130000Z
+DTEND:20260509T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #1 season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs2
+SUMMARY:Quarterfinal 1: YAW vs IMP
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260509T190000Z
 UID:pandascore-match-1460064@esport-ics
 DTSTART:20260509T190000Z
