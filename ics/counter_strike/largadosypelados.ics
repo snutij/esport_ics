@@ -478,7 +478,9 @@ UID:pandascore-match-1460063@esport-ics
 DTSTART:20260508T213000Z
 DTEND:20260508T234500Z
 CLASS:PUBLIC
-DESCRIPTION:Odyssey Cup - Brazil 2026 - Playoffs
+DESCRIPTION:Odyssey Cup - Brazil 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/nahzinhaa
 SUMMARY:Quarterfinal 2: LDP vs TdP
+URL;VALUE=URI:https://www.twitch.tv/nahzinhaa
 END:VEVENT
 END:VCALENDAR
