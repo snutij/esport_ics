@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 2\nWatch: https://
  www.youtube.com/watch?v=0aL9pW5T1Nk
 SUMMARY:Upper bracket quarterfinal 2: TCG vs LGD
-URL;VALUE=URI:https://www.youtube.com/watch?v=0aL9pW5T1Nk
+URL:https://www.youtube.com/watch?v=0aL9pW5T1Nk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T110000Z
+UID:pandascore-match-1475977@esport-ics
+DTSTART:20260511T110000Z
+DTEND:20260511T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 2\nWatch: https://
+ www.youtube.com/@2019KPL/streams
+SUMMARY:Upper bracket semifinal 1: JDG vs LGD
+URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 END:VCALENDAR
