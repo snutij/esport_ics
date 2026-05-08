@@ -186,6 +186,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/bcgamemastersb
 SUMMARY:Round of 16 match 4: 33 vs SPARTA
-URL;VALUE=URI:https://www.twitch.tv/bcgamemastersb
+URL:https://www.twitch.tv/bcgamemastersb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T110000Z
+UID:pandascore-match-1467687@esport-ics
+DTSTART:20260509T110000Z
+DTEND:20260509T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/bcgamemasters
+SUMMARY:Quarterfinal 2: WAL vs 33
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR
