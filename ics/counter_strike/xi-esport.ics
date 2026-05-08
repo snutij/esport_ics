@@ -583,4 +583,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:SE7ENS vs XI
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T080000Z
+UID:pandascore-match-1476931@esport-ics
+DTSTART:20260512T080000Z
+DTEND:20260512T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Group D\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Elimination match: XI vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
