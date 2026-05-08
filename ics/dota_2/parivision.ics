@@ -498,6 +498,15 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 1 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/cyberclasher
 SUMMARY:Upper bracket quarterfinal 4: PARI vs L1GA
-URL;VALUE=URI:https://www.twitch.tv/cyberclasher
+URL:https://www.twitch.tv/cyberclasher
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T180000Z
+UID:pandascore-match-1468808@esport-ics
+DTSTART:20260509T180000Z
+DTEND:20260509T201500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 1 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 2: PlayTime vs PARI
 END:VEVENT
 END:VCALENDAR
