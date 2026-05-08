@@ -483,4 +483,15 @@ DESCRIPTION:Odyssey Cup - Brazil 2026 - Playoffs\nWatch: https://www.twitch
 SUMMARY:Quarterfinal 2: LDP vs TdP
 URL;VALUE=URI:https://www.twitch.tv/nahzinhaa
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T160000Z
+UID:pandascore-match-1467631@esport-ics
+DTSTART:20260509T160000Z
+DTEND:20260509T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #1 season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs2
+SUMMARY:Quarterfinal 2: LDP vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

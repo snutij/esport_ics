@@ -432,4 +432,13 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 1 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 1: Tundra vs 1WIN
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T090000Z
+UID:pandascore-match-1468815@esport-ics
+DTSTART:20260509T090000Z
+DTEND:20260509T111500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 1 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 1: YeS vs Tundra
+END:VEVENT
 END:VCALENDAR
