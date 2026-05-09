@@ -157,6 +157,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #10 season 3 2026 - Playoffs\nWatch:
   https://kick.com/cct_cs3
 SUMMARY:Round of 16 match 2: ex-KRÜ Esports vs DS
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T200000Z
+UID:pandascore-match-1484470@esport-ics
+DTSTART:20260511T200000Z
+DTEND:20260511T221500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 1: GLS vs ex-KRÜ Esports
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T160000Z
+UID:pandascore-match-1484543@esport-ics
+DTSTART:20260512T160000Z
+DTEND:20260512T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 2 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 1: ex-KRÜ Esports vs ALKA
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

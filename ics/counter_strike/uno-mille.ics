@@ -613,4 +613,15 @@ CLASS:PUBLIC
 DESCRIPTION:Odyssey Cup - Brazil 2026 - Playoffs
 SUMMARY:Quarterfinal 3: IMP vs UNO
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T140000Z
+UID:pandascore-match-1484472@esport-ics
+DTSTART:20260512T140000Z
+DTEND:20260512T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 1: UNO vs paiN.A
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
 END:VCALENDAR

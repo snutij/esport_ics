@@ -175,4 +175,26 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - April 2026 - Group D
 SUMMARY:Decider Match: GE vs 9daplug
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T140000Z
+UID:pandascore-match-1484468@esport-ics
+DTSTART:20260511T140000Z
+DTEND:20260511T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 1: ISG vs GE
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T130000Z
+UID:pandascore-match-1484542@esport-ics
+DTSTART:20260512T130000Z
+DTEND:20260512T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 2 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 1: PCY vs GE
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR
