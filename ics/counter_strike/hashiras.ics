@@ -309,4 +309,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 51 2026 - Playoffs
 SUMMARY:Lower bracket round 6 match 2: Hashiras vs Lavked
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T170000Z
+UID:pandascore-match-1484460@esport-ics
+DTSTART:20260514T170000Z
+DTEND:20260514T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 2 Play-In 2026 - Group D\nWatch: https://ki
+ ck.com/cct_cs2
+SUMMARY:2007 vs Hashiras
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

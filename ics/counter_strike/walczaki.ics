@@ -281,7 +281,18 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 1: TRI vs WAL
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T100000Z
+UID:pandascore-match-1467690@esport-ics
+DTSTART:20260510T100000Z
+DTEND:20260510T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/bcgamemasters
+SUMMARY:Semifinal 1: NTR vs WAL
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260522T150000Z
