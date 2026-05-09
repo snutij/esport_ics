@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Asia Stage 1 2026 - Playoffs\nWatch: https://www.twitch.t
  v/ow_esports_jp
 SUMMARY:Upper bracket semifinal 1: ZETA vs VAR
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T100000Z
+UID:pandascore-match-1476068@esport-ics
+DTSTART:20260509T100000Z
+DTEND:20260509T121500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Asia Stage 1 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/ow_esports_jp
+SUMMARY:Upper bracket final: ZETA vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

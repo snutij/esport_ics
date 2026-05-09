@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 48 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Lower bracket round 1 match 1: PSN.A vs INF
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T103000Z
+UID:pandascore-match-1483518@esport-ics
+DTSTART:20260510T103000Z
+DTEND:20260510T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 49 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:PSN.A vs LPH
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
