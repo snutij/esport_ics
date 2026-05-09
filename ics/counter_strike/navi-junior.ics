@@ -236,4 +236,15 @@ DESCRIPTION:United21 - Season 49 2026 - Group D\nWatch: https://kick.com/un
 SUMMARY:NAVI.J vs XI
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T080000Z
+UID:pandascore-match-1476918@esport-ics
+DTSTART:20260514T080000Z
+DTEND:20260514T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: NAVI.J vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
