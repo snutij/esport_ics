@@ -495,6 +495,17 @@ SUMMARY:Quarterfinal 2: LDP vs GLS
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260510T150000Z
+UID:pandascore-match-1467634@esport-ics
+DTSTART:20260510T150000Z
+DTEND:20260510T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #1 season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs2
+SUMMARY:Semifinal 1: LDP vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260512T200000Z
 UID:pandascore-match-1484474@esport-ics
 DTSTART:20260512T200000Z
