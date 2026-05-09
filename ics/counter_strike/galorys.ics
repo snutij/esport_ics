@@ -404,17 +404,6 @@ SUMMARY:Round of 16 match 8: GLS vs paiN.A
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260509T160000Z
-UID:pandascore-match-1467631@esport-ics
-DTSTART:20260509T160000Z
-DTEND:20260509T181500Z
-CLASS:PUBLIC
-DESCRIPTION:CCT South America - Series #1 season 4 2026 - Playoffs\nWatch: 
- https://kick.com/cct_cs2
-SUMMARY:Quarterfinal 2: LDP vs GLS
-URL;VALUE=URI:https://kick.com/cct_cs2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260509T213000Z
 UID:pandascore-match-1460065@esport-ics
 DTSTART:20260509T213000Z
@@ -422,5 +411,16 @@ DTEND:20260509T234500Z
 CLASS:PUBLIC
 DESCRIPTION:Odyssey Cup - Brazil 2026 - Playoffs
 SUMMARY:Quarterfinal 4: GLS vs BHE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T220000Z
+UID:pandascore-match-1467631@esport-ics
+DTSTART:20260509T220000Z
+DTEND:20260510T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #1 season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs2
+SUMMARY:Quarterfinal 2: LDP vs GLS
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
