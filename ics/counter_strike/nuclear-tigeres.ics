@@ -433,4 +433,15 @@ DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Playoffs\nWa
 SUMMARY:Semifinal 1: NTR vs WAL
 URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T170000Z
+UID:pandascore-match-1471674@esport-ics
+DTSTART:20260510T170000Z
+DTEND:20260510T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 2: TDK vs NTR
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

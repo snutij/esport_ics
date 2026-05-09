@@ -306,6 +306,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 37 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Upper bracket semifinal 1: IC vs LYNX
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T150000Z
+UID:pandascore-match-1484630@esport-ics
+DTSTART:20260510T150000Z
+DTEND:20260510T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 37 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Lower bracket quarterfinal 2: TBD vs IC
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

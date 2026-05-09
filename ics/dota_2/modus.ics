@@ -265,6 +265,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 37 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Upper bracket quarterfinal 3: RE vs MODUS
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T090000Z
+UID:pandascore-match-1484628@esport-ics
+DTSTART:20260510T090000Z
+DTEND:20260510T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 37 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Lower bracket round 1 match 2: MODUS vs TBD
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
