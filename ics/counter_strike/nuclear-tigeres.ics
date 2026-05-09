@@ -420,6 +420,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/bcgamemasters
 SUMMARY:Quarterfinal 1: NTR vs ALL
+URL:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T100000Z
+UID:pandascore-match-1467690@esport-ics
+DTSTART:20260510T100000Z
+DTEND:20260510T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/bcgamemasters
+SUMMARY:Semifinal 1: NTR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR
