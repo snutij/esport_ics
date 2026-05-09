@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 37 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Upper bracket quarterfinal 4: enjoy boys vs TM
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T120000Z
+UID:pandascore-match-1482972@esport-ics
+DTSTART:20260510T120000Z
+DTEND:20260510T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 37 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Upper bracket semifinal 2: RE vs TM
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
