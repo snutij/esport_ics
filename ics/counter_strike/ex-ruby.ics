@@ -708,6 +708,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
  om/cct_cs
 SUMMARY:Round 3: WAL vs ex-RUBY
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T170000Z
+UID:pandascore-match-1469223@esport-ics
+DTSTART:20260510T170000Z
+DTEND:20260510T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 4: ex-RUBY vs INOX
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
