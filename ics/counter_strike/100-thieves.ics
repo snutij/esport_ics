@@ -366,6 +366,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 6 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship
 SUMMARY:Upper bracket semifinal 1: BMB vs 100T
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T110000Z
+UID:pandascore-match-1484600@esport-ics
+DTSTART:20260511T110000Z
+DTEND:20260511T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 6 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Upper bracket final: 100T vs ACE
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR
