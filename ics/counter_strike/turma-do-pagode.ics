@@ -104,7 +104,9 @@ UID:pandascore-match-1460068@esport-ics
 DTSTART:20260510T230000Z
 DTEND:20260511T011500Z
 CLASS:PUBLIC
-DESCRIPTION:Odyssey Cup - Brazil 2026 - Playoffs
+DESCRIPTION:Odyssey Cup - Brazil 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/gamersclubcs
 SUMMARY:3rd place decider: TdP vs TBD
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR
