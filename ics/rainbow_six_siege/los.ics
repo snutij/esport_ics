@@ -135,4 +135,15 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage
 SUMMARY:Round 1: CAG vs LOS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T223000Z
+UID:pandascore-match-1482023@esport-ics
+DTSTART:20260510T223000Z
+DTEND:20260510T231500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/rainbow6bravo
+SUMMARY:Round 2: LOS vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
+END:VEVENT
 END:VCALENDAR

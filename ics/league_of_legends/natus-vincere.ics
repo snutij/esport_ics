@@ -189,4 +189,14 @@ DESCRIPTION:Esports World Cup - EMEA Qualifier 2026 - Playoffs\nWatch: http
 SUMMARY:Upper bracket semifinal 1: G2 vs Navi
 URL;VALUE=URI:https://www.twitch.tv/ewclol2026
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T150000Z
+UID:pandascore-match-1486132@esport-ics
+DTSTART:20260530T150000Z
+DTEND:20260530T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
+SUMMARY:Lower bracket quarterfinal 1: Navi vs TBD
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
 END:VCALENDAR
