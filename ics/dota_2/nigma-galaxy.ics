@@ -453,6 +453,17 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 1 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/lakelzth
 SUMMARY:Lower bracket quarterfinal 2: RNX vs NGX
+URL:https://www.twitch.tv/lakelzth
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T180000Z
+UID:pandascore-match-1468812@esport-ics
+DTSTART:20260510T180000Z
+DTEND:20260510T201500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 1 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/lakelzth
+SUMMARY:Lower bracket semifinal: NGX vs TBD
 URL;VALUE=URI:https://www.twitch.tv/lakelzth
 END:VEVENT
 END:VCALENDAR
