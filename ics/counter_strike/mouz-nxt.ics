@@ -664,6 +664,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 2: TRI vs MOUZ.N
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T110000Z
+UID:pandascore-match-1469224@esport-ics
+DTSTART:20260511T110000Z
+DTEND:20260511T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 5: MOUZ.N vs INOX
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
