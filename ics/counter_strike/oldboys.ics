@@ -532,4 +532,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:TLR vs OLDBOYS-
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T103000Z
+UID:pandascore-match-1483520@esport-ics
+DTSTART:20260514T103000Z
+DTEND:20260514T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 49 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Elimination match: Oldboys vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
