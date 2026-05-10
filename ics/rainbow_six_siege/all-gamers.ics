@@ -91,6 +91,15 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Kickoff 2026 - Playoffs\nWatch: https://www.twitch.
  tv/CappingTV
 SUMMARY:Grand final: AG vs EDG
-URL;VALUE=URI:https://www.twitch.tv/CappingTV
+URL:https://www.twitch.tv/CappingTV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T173000Z
+UID:pandascore-match-1482013@esport-ics
+DTSTART:20260510T173000Z
+DTEND:20260510T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage
+SUMMARY:Round 1: AG vs WBG
 END:VEVENT
 END:VCALENDAR

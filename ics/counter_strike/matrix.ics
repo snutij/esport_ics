@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esplay Elite Gaming - Season 1 2026 - Playoffs\nWatch: https://
  www.twitch.tv/esplaycom
 SUMMARY:Quarterfinal 2: JS vs Matrix
-URL;VALUE=URI:https://www.twitch.tv/esplaycom
+URL:https://www.twitch.tv/esplaycom
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T080000Z
+UID:pandascore-match-1484592@esport-ics
+DTSTART:20260510T080000Z
+DTEND:20260510T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 6 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Upper bracket quarterfinal 3: Matrix vs GAT
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR

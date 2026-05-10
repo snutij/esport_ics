@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 26 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 2: FORZE.R vs CC
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T093000Z
+UID:pandascore-match-1485123@esport-ics
+DTSTART:20260510T093000Z
+DTEND:20260510T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 3: DNT vs CC
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:A Great Chaos
+SLUG:a-great-chaos
+BEGIN:VEVENT
+DTSTAMP:20260510T080000Z
+UID:pandascore-match-1484590@esport-ics
+DTSTART:20260510T080000Z
+DTEND:20260510T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 6 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Upper bracket quarterfinal 1: 100T vs A Great Chaos
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+END:VCALENDAR

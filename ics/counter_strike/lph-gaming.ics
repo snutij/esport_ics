@@ -643,4 +643,15 @@ DESCRIPTION:United21 - Season 49 2026 - Group A\nWatch: https://kick.com/un
 SUMMARY:PSN.A vs LPH
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260510T183000Z
+UID:pandascore-match-1485124@esport-ics
+DTSTART:20260510T183000Z
+DTEND:20260510T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 3: LPH vs PAR
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
 END:VCALENDAR

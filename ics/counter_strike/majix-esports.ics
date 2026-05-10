@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 26 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 1: INF vs MJX
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T123000Z
+UID:pandascore-match-1485128@esport-ics
+DTSTART:20260511T123000Z
+DTEND:20260511T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 3: MJX vs Oldboys
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
