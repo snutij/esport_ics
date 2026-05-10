@@ -204,14 +204,14 @@ SUMMARY:Upper bracket final: ZETA vs TBD
 URL:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260510T100000Z
+DTSTAMP:20260510T090000Z
 UID:pandascore-match-1476069@esport-ics
-DTSTART:20260510T100000Z
-DTEND:20260510T130000Z
+DTSTART:20260510T090000Z
+DTEND:20260510T120000Z
 CLASS:PUBLIC
 DESCRIPTION:OCS - Asia Stage 1 2026 - Playoffs\nWatch: https://www.twitch.t
  v/ow_esports_jp
-SUMMARY:Grand final: ZETA vs TBD
+SUMMARY:Grand final: ZETA vs CR
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR
