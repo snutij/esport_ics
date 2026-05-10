@@ -539,6 +539,17 @@ SUMMARY:Semifinal 2: ISG vs TdP
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260510T210000Z
+UID:pandascore-match-1467636@esport-ics
+DTSTART:20260510T210000Z
+DTEND:20260510T231500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series #1 season 4 2026 - Playoffs\nWatch: 
+ https://kick.com/cct_cs2
+SUMMARY:Grand final: ISG vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260511T140000Z
 UID:pandascore-match-1484468@esport-ics
 DTSTART:20260511T140000Z
