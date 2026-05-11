@@ -135,6 +135,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - China Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Lower bracket quarterfinal 1: TYLOO vs AG
-URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T090000Z
+UID:pandascore-match-1486861@esport-ics
+DTSTART:20260516T090000Z
+DTEND:20260516T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - China Qualifier 2026 - Stage 2
+SUMMARY:Upper bracket quarterfinal 2: TYLOO vs JDG
 END:VEVENT
 END:VCALENDAR

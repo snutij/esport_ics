@@ -69,4 +69,13 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Pacific Qualifier 2026 - Stage 1
 SUMMARY:Upper bracket semifinals 1: ZETA vs VARREL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T080000Z
+UID:pandascore-match-1486737@esport-ics
+DTSTART:20260512T080000Z
+DTEND:20260512T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Pacific Qualifier 2026 - Stage 1
+SUMMARY:Lower bracket semifinal: Gen.G vs ZETA
+END:VEVENT
 END:VCALENDAR

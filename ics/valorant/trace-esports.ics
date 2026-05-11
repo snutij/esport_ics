@@ -102,6 +102,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - China Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Lower bracket round 1 match 2: TE vs DRG
-URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T090000Z
+UID:pandascore-match-1486863@esport-ics
+DTSTART:20260516T090000Z
+DTEND:20260516T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - China Qualifier 2026 - Stage 2
+SUMMARY:Upper bracket quarterfinal 4: TE vs DRG
 END:VEVENT
 END:VCALENDAR

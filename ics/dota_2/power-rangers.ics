@@ -474,6 +474,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 37 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Lower bracket semifinal: PR vs MODUS
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T150000Z
+UID:pandascore-match-1486142@esport-ics
+DTSTART:20260511T150000Z
+DTEND:20260511T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 37 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Lower bracket final: PR vs TBD
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
