@@ -211,6 +211,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #5 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs4
 SUMMARY:Upper bracket round 1 match 6: DNT vs ROTTW
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T153000Z
+UID:pandascore-match-1487712@esport-ics
+DTSTART:20260512T153000Z
+DTEND:20260512T174500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #5 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs4
+SUMMARY:Lower bracket round 1 match 3: DRIP vs ROTTW
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

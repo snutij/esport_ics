@@ -256,6 +256,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 1 2026 - Group Stage\nWatch: https://kick.c
  om/cct_cs
 SUMMARY:Round 5: MOUZ.N vs INOX
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T170000Z
+UID:pandascore-match-1469230@esport-ics
+DTSTART:20260512T170000Z
+DTEND:20260512T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 1 2026 - Playoffs\nWatch: https://kick.com/
+ cct_cs
+SUMMARY:Round of 16 match 4: HOTU vs INOX
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

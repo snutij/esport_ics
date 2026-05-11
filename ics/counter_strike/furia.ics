@@ -284,6 +284,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana 2026 - Group Stage\nWatch: https://www.twitch.tv/P
  GL
 SUMMARY:Round 3: FURIA vs TS
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T110000Z
+UID:pandascore-match-1474570@esport-ics
+DTSTART:20260512T110000Z
+DTEND:20260512T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana 2026 - Group Stage\nWatch: https://www.twitch.tv/P
+ GL
+SUMMARY:Round 4: FURIA vs M8
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

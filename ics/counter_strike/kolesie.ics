@@ -408,6 +408,17 @@ CLASS:PUBLIC
 DESCRIPTION:Conquest of Prague - Online Stage 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/playzonecz
 SUMMARY:KOL vs WAL
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T140000Z
+UID:pandascore-match-1469233@esport-ics
+DTSTART:20260513T140000Z
+DTEND:20260513T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 1 2026 - Playoffs\nWatch: https://kick.com/
+ cct_cs
+SUMMARY:Round of 16 match 7: KOL vs TDK
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

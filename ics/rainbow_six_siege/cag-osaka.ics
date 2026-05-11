@@ -73,7 +73,9 @@ UID:pandascore-match-1482027@esport-ics
 DTSTART:20260511T194500Z
 DTEND:20260511T220000Z
 CLASS:PUBLIC
-DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/rainbow6bravo
 SUMMARY:Round 3: CAG vs 5F
+URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
 END:VEVENT
 END:VCALENDAR
