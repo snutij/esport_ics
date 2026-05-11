@@ -224,6 +224,17 @@ SUMMARY:Upper bracket quarterfinal 1: VIT vs BCG
 URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260512T153000Z
+UID:pandascore-match-1474584@esport-ics
+DTSTART:20260512T153000Z
+DTEND:20260512T174500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta 2026 - Group A\nWatch: https://www.twitch.tv/ESLC
+ S
+SUMMARY:Lower bracket quarterfinal 1: B8 vs BCG
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260520T040000Z
 UID:pandascore-match-1480489@esport-ics
 DTSTART:20260520T040000Z
