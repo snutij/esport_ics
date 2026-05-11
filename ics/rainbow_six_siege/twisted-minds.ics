@@ -100,6 +100,15 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage\nWatch: http
  s://www.twitch.tv/rainbow6
 SUMMARY:Round 2: WBG vs TM
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T194500Z
+UID:pandascore-match-1482026@esport-ics
+DTSTART:20260511T194500Z
+DTEND:20260511T220000Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage
+SUMMARY:Round 3: G2 vs TM
 END:VEVENT
 END:VCALENDAR
