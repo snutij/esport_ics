@@ -118,4 +118,81 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 1 2026 - Playoffs
 SUMMARY:Lower bracket final: 1WIN vs PlayTime
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T133000Z
+UID:pandascore-match-1487781@esport-ics
+DTSTART:20260513T133000Z
+DTEND:20260513T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:Xtreme vs PlayTime
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T100000Z
+UID:pandascore-match-1487787@esport-ics
+DTSTART:20260514T100000Z
+DTEND:20260514T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:NGX vs PlayTime
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T170000Z
+UID:pandascore-match-1487794@esport-ics
+DTSTART:20260514T170000Z
+DTEND:20260514T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:PlayTime vs RNX
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T133000Z
+UID:pandascore-match-1487805@esport-ics
+DTSTART:20260515T133000Z
+DTEND:20260515T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:PlayTime vs BB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T100000Z
+UID:pandascore-match-1487809@esport-ics
+DTSTART:20260516T100000Z
+DTEND:20260516T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:PlayTime vs Na`Vi
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T170000Z
+UID:pandascore-match-1487813@esport-ics
+DTSTART:20260516T170000Z
+DTEND:20260516T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:PARI vs PlayTime
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T133000Z
+UID:pandascore-match-1487825@esport-ics
+DTSTART:20260517T133000Z
+DTEND:20260517T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:Tundra vs PlayTime
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
 END:VCALENDAR

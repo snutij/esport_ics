@@ -509,6 +509,83 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 8 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/pgl_dota2
 SUMMARY:Grand final: BB vs AUR
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T133000Z
+UID:pandascore-match-1487782@esport-ics
+DTSTART:20260513T133000Z
+DTEND:20260513T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:BB vs RNX
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T100000Z
+UID:pandascore-match-1487788@esport-ics
+DTSTART:20260514T100000Z
+DTEND:20260514T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:PARI vs BB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T170000Z
+UID:pandascore-match-1487792@esport-ics
+DTSTART:20260514T170000Z
+DTEND:20260514T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:Na`Vi vs BB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T133000Z
+UID:pandascore-match-1487805@esport-ics
+DTSTART:20260515T133000Z
+DTEND:20260515T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:PlayTime vs BB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T100000Z
+UID:pandascore-match-1487807@esport-ics
+DTSTART:20260516T100000Z
+DTEND:20260516T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:Tundra vs BB
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T170000Z
+UID:pandascore-match-1487811@esport-ics
+DTSTART:20260516T170000Z
+DTEND:20260516T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:BB vs Xtreme
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T133000Z
+UID:pandascore-match-1487824@esport-ics
+DTSTART:20260517T133000Z
+DTEND:20260517T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:BB vs NGX
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

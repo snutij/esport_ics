@@ -390,4 +390,70 @@ DESCRIPTION:DreamLeague - Season 29 2026 - Group A\nWatch: https://www.twit
 SUMMARY:TS vs VG
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T170000Z
+UID:pandascore-match-1487775@esport-ics
+DTSTART:20260513T170000Z
+DTEND:20260513T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group A\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:TS vs Liquid
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T133000Z
+UID:pandascore-match-1487783@esport-ics
+DTSTART:20260514T133000Z
+DTEND:20260514T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group A\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:AUR vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T100000Z
+UID:pandascore-match-1487797@esport-ics
+DTSTART:20260515T100000Z
+DTEND:20260515T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group A\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:GL vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T170000Z
+UID:pandascore-match-1487800@esport-ics
+DTSTART:20260515T170000Z
+DTEND:20260515T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group A\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:VP vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T133000Z
+UID:pandascore-match-1487815@esport-ics
+DTSTART:20260516T133000Z
+DTEND:20260516T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group A\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:FLC vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T100000Z
+UID:pandascore-match-1487819@esport-ics
+DTSTART:20260517T100000Z
+DTEND:20260517T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group A\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:TS vs ex-HEROIC
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
 END:VCALENDAR
