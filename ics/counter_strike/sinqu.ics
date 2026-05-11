@@ -258,7 +258,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 5 2026 - Group C\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Elimination match: SINQU vs KSM
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T180000Z
@@ -268,6 +268,17 @@ DTEND:20260511T184500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:SINQU vs IMP.A
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T080000Z
+UID:pandascore-match-1476928@esport-ics
+DTSTART:20260513T080000Z
+DTEND:20260513T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: ALGO vs SINQU
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260517T133000Z

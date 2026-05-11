@@ -147,6 +147,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asian Champions League - 2026 - Group B\nWatch: https://www.huy
  a.com/18525153
 SUMMARY:Upper bracket quarterfinal 1: LVG vs AE
-URL;VALUE=URI:https://www.huya.com/18525153
+URL:https://www.huya.com/18525153
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T090000Z
+UID:pandascore-match-1481261@esport-ics
+DTSTART:20260512T090000Z
+DTEND:20260512T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Asian Champions League - 2026 - Group B\nWatch: https://www.twi
+ tch.tv/acl
+SUMMARY:Lower bracket round 1 match 1: AE vs TdU
+URL;VALUE=URI:https://www.twitch.tv/acl
 END:VEVENT
 END:VCALENDAR

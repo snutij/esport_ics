@@ -572,6 +572,17 @@ SUMMARY:Winners match: ALGO vs BIG.A
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260513T080000Z
+UID:pandascore-match-1476928@esport-ics
+DTSTART:20260513T080000Z
+DTEND:20260513T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: ALGO vs SINQU
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260515T080000Z
 UID:pandascore-match-1483524@esport-ics
 DTSTART:20260515T080000Z
@@ -579,7 +590,7 @@ DTEND:20260515T101500Z
 CLASS:PUBLIC
 DESCRIPTION:United21 - Season 49 2026 - Group B\nWatch: https://kick.com/un
  ited21_en
-SUMMARY:Winners match: ALGO vs TBD
+SUMMARY:Winners match: ALGO vs PRE
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
