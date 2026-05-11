@@ -256,6 +256,17 @@ CLASS:PUBLIC
 DESCRIPTION:ACL X ESL Challenger China - Season 3 2026 - Playoffs\nWatch: h
  ttps://kick.com/bkop
 SUMMARY:Grand final: TR vs VG
-URL;VALUE=URI:https://kick.com/bkop
+URL:https://kick.com/bkop
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T100000Z
+UID:pandascore-match-1487772@esport-ics
+DTSTART:20260513T100000Z
+DTEND:20260513T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group A\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:TS vs VG
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR
