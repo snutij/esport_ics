@@ -259,6 +259,17 @@ SUMMARY:Elimination match: Zoun vs herO
 URL:https://www.sooplive.com/station/afgsl
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260515T133000Z
+UID:pandascore-match-1487719@esport-ics
+DTSTART:20260515T133000Z
+DTEND:20260515T171500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 5 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/tastelesstv
+SUMMARY:Upper bracket quarterfinal 2: herO vs SHIN
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260517T080000Z
 UID:pandascore-match-1473065@esport-ics
 DTSTART:20260517T080000Z

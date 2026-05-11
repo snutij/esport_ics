@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty Challengers - North America Elite Stage 3 2026 - P
  layoffs\nWatch: https://www.youtube.com/watch?v=zZNLKpXbkGw
 SUMMARY:Grand final: Huntsmen vs TBD
-URL;VALUE=URI:https://www.youtube.com/watch?v=zZNLKpXbkGw
+URL:https://www.youtube.com/watch?v=zZNLKpXbkGw
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T173000Z
+UID:pandascore-match-1487741@esport-ics
+DTSTART:20260515T173000Z
+DTEND:20260515T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Major 3 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:TOR vs Huntsmen
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

@@ -116,6 +116,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - NORTH//EAST Stage 2 2026 - Playoffs\nWatch: https://www.t
  witch.tv/lendothlive
 SUMMARY:Upper bracket final: NAVI.J vs EP
-URL;VALUE=URI:https://www.twitch.tv/lendothlive
+URL:https://www.twitch.tv/lendothlive
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T150000Z
+UID:pandascore-match-1447730@esport-ics
+DTSTART:20260513T150000Z
+DTEND:20260513T184500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - NORTH//EAST Stage 2 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/valorantleague_ne
+SUMMARY:Lower bracket final: NAVI.J vs TBD
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_ne
 END:VEVENT
 END:VCALENDAR

@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty Challengers - North America Elite Stage 3 2026 - P
  layoffs\nWatch: https://www.youtube.com/watch?v=zZNLKpXbkGw
 SUMMARY:Lower bracket final: PN vs OMiT Brooklyn
-URL;VALUE=URI:https://www.youtube.com/watch?v=zZNLKpXbkGw
+URL:https://www.youtube.com/watch?v=zZNLKpXbkGw
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T190000Z
+UID:pandascore-match-1487746@esport-ics
+DTSTART:20260515T190000Z
+DTEND:20260515T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Major 3 2026 - Group C\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:LAT vs PN
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR
