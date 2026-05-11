@@ -58,6 +58,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Pacific Stage 1 2026 - Group Alpha\nWatch: https://www.tw
  itch.tv/valorant_pacific
 SUMMARY:Gen.G vs TS
-URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260511T080000Z
+UID:pandascore-match-1486733@esport-ics
+DTSTART:20260511T080000Z
+DTEND:20260511T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Pacific Qualifier 2026 - Stage 1
+SUMMARY:Upper bracket semifinal 2: Gen.G vs TS
 END:VEVENT
 END:VCALENDAR

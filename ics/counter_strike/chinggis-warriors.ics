@@ -326,6 +326,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asian Champions League - 2026 - Group A\nWatch: https://www.huy
  a.com/11718774
 SUMMARY:Upper bracket quarterfinal 2: CW vs NEXVOID
-URL;VALUE=URI:https://www.huya.com/11718774
+URL:https://www.huya.com/11718774
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T030000Z
+UID:pandascore-match-1481127@esport-ics
+DTSTART:20260512T030000Z
+DTEND:20260512T051500Z
+CLASS:PUBLIC
+DESCRIPTION:Asian Champions League - 2026 - Group A\nWatch: https://www.twi
+ tch.tv/acl
+SUMMARY:Upper bracket semifinal 1: JJH vs CW
+URL;VALUE=URI:https://www.twitch.tv/acl
 END:VEVENT
 END:VCALENDAR
