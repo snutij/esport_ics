@@ -544,4 +544,15 @@ DESCRIPTION:Exort Series - Season 26 2026 - Main Stage\nWatch: https://kick
 SUMMARY:INF vs NP
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T080000Z
+UID:pandascore-match-1483529@esport-ics
+DTSTART:20260516T080000Z
+DTEND:20260516T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 49 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Winners match: INF vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
