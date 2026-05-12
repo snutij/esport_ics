@@ -248,6 +248,17 @@ SUMMARY:Upper bracket semifinal 2: paiN vs FUT
 URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260513T203000Z
+UID:pandascore-match-1474595@esport-ics
+DTSTART:20260513T203000Z
+DTEND:20260513T224500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta 2026 - Group A\nWatch: https://www.twitch.tv/ESLC
+ S
+SUMMARY:Upper bracket final: BB vs paiN
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260520T040000Z
 UID:pandascore-match-1480490@esport-ics
 DTSTART:20260520T040000Z

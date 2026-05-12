@@ -289,6 +289,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta 2026 - Group A\nWatch: https://www.twitch.tv/ESLC
  S
 SUMMARY:Upper bracket semifinal 2: paiN vs FUT
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T153000Z
+UID:pandascore-match-1474591@esport-ics
+DTSTART:20260513T153000Z
+DTEND:20260513T174500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta 2026 - Group A\nWatch: https://www.twitch.tv/ESLC
+ S
+SUMMARY:Lower bracket semifinal 1: B8 vs FUT
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
