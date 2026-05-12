@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 26 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 3: MJX vs Oldboys
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T183000Z
+UID:pandascore-match-1488364@esport-ics
+DTSTART:20260512T183000Z
+DTEND:20260512T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 4: MJX vs HEC
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

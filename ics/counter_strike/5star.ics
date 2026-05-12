@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asian Champions League - 2026 - Group A\nWatch: https://www.twi
  tch.tv/acl
 SUMMARY:Upper bracket semifinal 2: TYLOO vs 5S
+URL:https://www.twitch.tv/acl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T030000Z
+UID:pandascore-match-1481133@esport-ics
+DTSTART:20260513T030000Z
+DTEND:20260513T051500Z
+CLASS:PUBLIC
+DESCRIPTION:Asian Champions League - 2026 - Group A\nWatch: https://www.twi
+ tch.tv/acl
+SUMMARY:Lower bracket quarterfinal 1: 5S vs TBD
 URL;VALUE=URI:https://www.twitch.tv/acl
 END:VEVENT
 END:VCALENDAR

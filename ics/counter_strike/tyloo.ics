@@ -311,6 +311,17 @@ SUMMARY:Upper bracket semifinal 2: TYLOO vs 5S
 URL:https://www.twitch.tv/acl
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260513T070000Z
+UID:pandascore-match-1481129@esport-ics
+DTSTART:20260513T070000Z
+DTEND:20260513T091500Z
+CLASS:PUBLIC
+DESCRIPTION:Asian Champions League - 2026 - Group A\nWatch: https://www.twi
+ tch.tv/acl
+SUMMARY:Upper bracket final: TYLOO vs JJH
+URL;VALUE=URI:https://www.twitch.tv/acl
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260520T030000Z
 UID:pandascore-match-1480492@esport-ics
 DTSTART:20260520T030000Z
