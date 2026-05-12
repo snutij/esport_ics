@@ -292,6 +292,17 @@ SUMMARY:Lower bracket quarterfinal 2: FaZe vs NRG
 URL:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260513T153000Z
+UID:pandascore-match-1474592@esport-ics
+DTSTART:20260513T153000Z
+DTEND:20260513T174500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta 2026 - Group A\nWatch: https://www.twitch.tv/ESLC
+ S
+SUMMARY:Lower bracket semifinal 2: FaZe vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260527T150000Z
 UID:pandascore-match-1479968@esport-ics
 DTSTART:20260527T150000Z
