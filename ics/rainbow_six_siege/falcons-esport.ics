@@ -185,7 +185,9 @@ UID:pandascore-match-1482037@esport-ics
 DTSTART:20260512T204500Z
 DTEND:20260512T230000Z
 CLASS:PUBLIC
-DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/rainbow6bravo
 SUMMARY:Round 4: FLCS vs NIP
+URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
 END:VEVENT
 END:VCALENDAR

@@ -71,4 +71,15 @@ DESCRIPTION:United21 - Season 49 2026 - Group A\nWatch: https://kick.com/un
 SUMMARY:Winners match: MASQ vs LPH
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T180000Z
+UID:pandascore-match-1488969@esport-ics
+DTSTART:20260518T180000Z
+DTEND:20260518T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/dust2tv
+SUMMARY:Round 3: MASQ vs Invicta
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
 END:VCALENDAR

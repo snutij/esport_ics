@@ -588,4 +588,15 @@ DESCRIPTION:European Pro League - Regular season 5 2026 - Group B\nWatch: h
 SUMMARY:Decider match: STA vs MISA
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T190000Z
+UID:pandascore-match-1488970@esport-ics
+DTSTART:20260521T190000Z
+DTEND:20260521T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/dust2tv
+SUMMARY:Round 3: STA vs Eclipse
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
 END:VCALENDAR

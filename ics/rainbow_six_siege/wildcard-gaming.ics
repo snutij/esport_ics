@@ -141,7 +141,9 @@ UID:pandascore-match-1482038@esport-ics
 DTSTART:20260512T234500Z
 DTEND:20260513T020000Z
 CLASS:PUBLIC
-DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/rainbow6
 SUMMARY:Round 4: WCG vs DZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
