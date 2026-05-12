@@ -432,6 +432,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta 2026 - Group B\nWatch: https://www.twitch.tv/eslc
  sb
 SUMMARY:Upper bracket quarterfinal 2: SIN vs GL
-URL;VALUE=URI:https://www.twitch.tv/eslcsb
+URL:https://www.twitch.tv/eslcsb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T203000Z
+UID:pandascore-match-1474588@esport-ics
+DTSTART:20260512T203000Z
+DTEND:20260512T224500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta 2026 - Group B\nWatch: https://www.twitch.tv/ESLC
+ S
+SUMMARY:Lower bracket quarterfinal 1: PSSN.UA vs SIN
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
