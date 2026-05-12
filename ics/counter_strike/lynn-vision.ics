@@ -181,6 +181,17 @@ SUMMARY:Upper bracket semifinal 1: LVG vs HH
 URL:https://www.twitch.tv/acl
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260513T070000Z
+UID:pandascore-match-1481176@esport-ics
+DTSTART:20260513T070000Z
+DTEND:20260513T091500Z
+CLASS:PUBLIC
+DESCRIPTION:Asian Champions League - 2026 - Group B\nWatch: https://www.twi
+ tch.tv/acl
+SUMMARY:Upper bracket final: LVG vs KG
+URL;VALUE=URI:https://www.twitch.tv/acl
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260520T060000Z
 UID:pandascore-match-1480493@esport-ics
 DTSTART:20260520T060000Z

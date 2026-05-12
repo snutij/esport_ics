@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Playoffs\nWa
  tch: https://kick.com/epldota_en1
 SUMMARY:Lower bracket quarterfinal 1: Dfam vs WinteR
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T030000Z
+UID:pandascore-match-1487717@esport-ics
+DTSTART:20260513T030000Z
+DTEND:20260513T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Lower bracket semifinal: Dfam vs TBD
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR
