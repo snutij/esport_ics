@@ -329,6 +329,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana 2026 - Group Stage\nWatch: https://www.twitch.tv/P
  GL
 SUMMARY:Round 4: MOUZ vs AUR
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T110000Z
+UID:pandascore-match-1474574@esport-ics
+DTSTART:20260513T110000Z
+DTEND:20260513T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Astana 2026 - Group Stage\nWatch: https://www.twitch.tv/P
+ GL
+SUMMARY:Round 5: MGLZ vs AUR
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR
