@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Playoffs\nWa
  tch: https://kick.com/epldota_en1
 SUMMARY:Upper bracket final: GLYPH vs Grind
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T060000Z
+UID:pandascore-match-1487715@esport-ics
+DTSTART:20260514T060000Z
+DTEND:20260514T094500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 15 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Grand final: Grind vs TBD
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

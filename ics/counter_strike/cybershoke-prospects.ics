@@ -617,4 +617,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:OKS vs CYBERSHOKE Prospects
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T181500Z
+UID:pandascore-match-1490319@esport-ics
+DTSTART:20260514T181500Z
+DTEND:20260514T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #5 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs4
+SUMMARY:Upper bracket semifinal 2: DNT vs CYBERSHOKE Prospects
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
 END:VCALENDAR
