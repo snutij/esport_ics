@@ -311,6 +311,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Atlanta 2026 - Group B\nWatch: https://www.twitch.tv/ESLC
  S
 SUMMARY:Upper bracket semifinal 2: AST vs LGC
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T180000Z
+UID:pandascore-match-1474593@esport-ics
+DTSTART:20260513T180000Z
+DTEND:20260513T201500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Atlanta 2026 - Group B\nWatch: https://www.twitch.tv/ESLC
+ S
+SUMMARY:Lower bracket semifinal 1: SIN vs AST
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

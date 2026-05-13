@@ -525,6 +525,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 1: LDP vs BST.A
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T170000Z
+UID:pandascore-match-1484499@esport-ics
+DTSTART:20260514T170000Z
+DTEND:20260514T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 2: LDP vs ISG
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR

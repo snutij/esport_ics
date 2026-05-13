@@ -658,6 +658,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 1: Keyd vs VSC
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T140000Z
+UID:pandascore-match-1484497@esport-ics
+DTSTART:20260514T140000Z
+DTEND:20260514T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 2: Keyd vs FDB
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR

@@ -111,6 +111,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage\nWatch: http
  s://www.twitch.tv/rainbow6bravo
 SUMMARY:Round 4: AG vs 5F
+URL:https://www.twitch.tv/rainbow6bravo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T234500Z
+UID:pandascore-match-1482042@esport-ics
+DTSTART:20260513T234500Z
+DTEND:20260514T020000Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/rainbow6bravo
+SUMMARY:Round 5: 5F vs WCG
 URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
 END:VEVENT
 END:VCALENDAR

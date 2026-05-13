@@ -91,4 +91,13 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 1
 SUMMARY:Upper bracket semifinal 2: C9 vs NV
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T010000Z
+UID:pandascore-match-1486841@esport-ics
+DTSTART:20260514T010000Z
+DTEND:20260514T031500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 1
+SUMMARY:Lower bracket semifinal: C9 vs SEN
+END:VEVENT
 END:VCALENDAR

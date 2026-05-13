@@ -188,6 +188,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage\nWatch: http
  s://www.twitch.tv/rainbow6bravo
 SUMMARY:Round 4: FLCS vs NIP
+URL:https://www.twitch.tv/rainbow6bravo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T174500Z
+UID:pandascore-match-1482040@esport-ics
+DTSTART:20260513T174500Z
+DTEND:20260513T200000Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/rainbow6bravo
+SUMMARY:Round 5: FLCS vs VP
 URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
 END:VEVENT
 END:VCALENDAR
