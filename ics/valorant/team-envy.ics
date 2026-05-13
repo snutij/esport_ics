@@ -75,7 +75,9 @@ UID:pandascore-match-1486839@esport-ics
 DTSTART:20260514T000000Z
 DTEND:20260514T021500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 1
+DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 1\nWatch: h
+ ttps://www.twitch.tv/demon1
 SUMMARY:Upper bracket final: EG vs NV
+URL;VALUE=URI:https://www.twitch.tv/demon1
 END:VEVENT
 END:VCALENDAR
