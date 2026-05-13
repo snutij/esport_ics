@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS OC - Paris Major: Open 6 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/rocketleagueoce
 SUMMARY:Grand final: WC vs PWR
-URL;VALUE=URI:https://www.twitch.tv/rocketleagueoce
+URL:https://www.twitch.tv/rocketleagueoce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T130000Z
+UID:pandascore-match-1490608@esport-ics
+DTSTART:20260520T130000Z
+DTEND:20260520T164500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS World Championship - 2026 - Group A\nWatch: https://www.tw
+ itch.tv/rocketleague
+SUMMARY:VIT vs WC
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

@@ -563,6 +563,17 @@ SUMMARY:Round of 16 match 5: NEMI vs ex-RUBY
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260514T110000Z
+UID:pandascore-match-1469236@esport-ics
+DTSTART:20260514T110000Z
+DTEND:20260514T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 1 2026 - Playoffs\nWatch: https://kick.com/
+ cct_cs
+SUMMARY:Quarterfinal 2: SPARTA vs NEMI
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260514T140000Z
 UID:pandascore-match-1469237@esport-ics
 DTSTART:20260514T140000Z
@@ -571,6 +582,6 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 1 2026 - Playoffs\nWatch: https://kick.com/
  cct_cs
 SUMMARY:Quarterfinal 3: NEMI vs TBD
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

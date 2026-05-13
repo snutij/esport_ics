@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Boston 2026 - Group C\nWatch: https://www.twitch.t
  v/rlesports
 SUMMARY:TWIS vs SSG
-URL;VALUE=URI:https://www.twitch.tv/rlesports
+URL:https://www.twitch.tv/rlesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T150000Z
+UID:pandascore-match-1490612@esport-ics
+DTSTART:20260520T150000Z
+DTEND:20260520T184500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS World Championship - 2026 - Group C\nWatch: https://www.tw
+ itch.tv/rocketleague
+SUMMARY:TWIS vs SR
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

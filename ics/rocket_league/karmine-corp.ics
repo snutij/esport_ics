@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS EU - Paris: Open 6 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/rocketleague
 SUMMARY:Lower bracket quarterfinal 2: NIP vs KC
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T130000Z
+UID:pandascore-match-1490609@esport-ics
+DTSTART:20260520T130000Z
+DTEND:20260520T164500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS World Championship - 2026 - Group A\nWatch: https://www.tw
+ itch.tv/rocketleague
+SUMMARY:KC vs FUT
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR
