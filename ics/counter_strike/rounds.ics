@@ -222,7 +222,9 @@ UID:pandascore-match-1489954@esport-ics
 DTSTART:20260513T180000Z
 DTEND:20260513T184500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/roundsgg
 SUMMARY:VP.P vs RGG
+URL;VALUE=URI:https://www.twitch.tv/roundsgg
 END:VEVENT
 END:VCALENDAR

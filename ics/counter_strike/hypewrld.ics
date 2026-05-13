@@ -34,6 +34,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #2 2026 - Group A\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:Winners match: G1 vs HYPEW
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T080000Z
+UID:pandascore-match-1484198@esport-ics
+DTSTART:20260516T080000Z
+DTEND:20260516T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #2 2026 - Group A\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:Decider match: Project 91 vs HYPEW
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
