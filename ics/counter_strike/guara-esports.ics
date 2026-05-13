@@ -206,6 +206,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 2: YAW vs GE
-URL;VALUE=URI:https://www.twitch.tv/dust2br
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T160000Z
+UID:pandascore-match-1484551@esport-ics
+DTSTART:20260514T160000Z
+DTEND:20260514T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 2 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 2: GE vs MW
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

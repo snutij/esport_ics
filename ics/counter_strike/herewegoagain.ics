@@ -164,6 +164,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 2 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 1: BST.A vs HWGA
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T220000Z
+UID:pandascore-match-1484553@esport-ics
+DTSTART:20260514T220000Z
+DTEND:20260515T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 2 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 2: HWGA vs CRASH
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
