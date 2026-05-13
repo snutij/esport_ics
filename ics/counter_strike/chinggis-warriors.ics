@@ -351,14 +351,14 @@ SUMMARY:Lower bracket quarterfinal 2: CW vs GZ
 URL:https://www.twitch.tv/acl
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T090000Z
+DTSTAMP:20260513T093500Z
 UID:pandascore-match-1481135@esport-ics
-DTSTART:20260513T090000Z
-DTEND:20260513T111500Z
+DTSTART:20260513T093500Z
+DTEND:20260513T115000Z
 CLASS:PUBLIC
-DESCRIPTION:Asian Champions League - 2026 - Group A\nWatch: https://www.twi
- tch.tv/acl
+DESCRIPTION:Asian Champions League - 2026 - Group A\nWatch: https://live.bi
+ libili.com/1799897222
 SUMMARY:Lower bracket semifinal: CW vs 5S
-URL;VALUE=URI:https://www.twitch.tv/acl
+URL;VALUE=URI:https://live.bilibili.com/1799897222
 END:VEVENT
 END:VCALENDAR

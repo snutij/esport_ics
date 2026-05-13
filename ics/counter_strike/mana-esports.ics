@@ -726,7 +726,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 49 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:MANA vs RT
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260514T080000Z
@@ -734,8 +734,8 @@ UID:pandascore-match-1484454@esport-ics
 DTSTART:20260514T080000Z
 DTEND:20260514T101500Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Series 2 Play-In 2026 - Group C\nWatch: https://ki
- ck.com/cct_cs2
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #2 2026 - Group C\nWatch:
+  https://kick.com/cct_cs2
 SUMMARY:MANA vs BRUTE
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT

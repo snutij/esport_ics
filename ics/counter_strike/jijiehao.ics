@@ -267,6 +267,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asian Champions League - 2026 - Group A\nWatch: https://www.twi
  tch.tv/acl
 SUMMARY:Upper bracket final: TYLOO vs JJH
+URL:https://www.twitch.tv/acl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T080000Z
+UID:pandascore-match-1481130@esport-ics
+DTSTART:20260516T080000Z
+DTEND:20260516T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Asian Champions League - 2026 - Group A\nWatch: https://www.twi
+ tch.tv/acl
+SUMMARY:Grand final: JJH vs TBD
 URL;VALUE=URI:https://www.twitch.tv/acl
 END:VEVENT
 END:VCALENDAR

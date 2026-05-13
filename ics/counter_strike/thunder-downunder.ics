@@ -300,6 +300,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asian Champions League - 2026 - Group B\nWatch: https://www.twi
  tch.tv/churchd0gg
 SUMMARY:Lower bracket quarterfinal 1: SFE vs TdU
-URL;VALUE=URI:https://www.twitch.tv/churchd0gg
+URL:https://www.twitch.tv/churchd0gg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260513T110000Z
+UID:pandascore-match-1481242@esport-ics
+DTSTART:20260513T110000Z
+DTEND:20260513T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Asian Champions League - 2026 - Group B
+SUMMARY:Lower bracket semifinal: HH vs TdU
 END:VEVENT
 END:VCALENDAR
