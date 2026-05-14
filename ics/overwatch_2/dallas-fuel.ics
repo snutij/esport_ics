@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - North America Stage 1 2026 - Playoffs\nWatch: https://www
  .twitch.tv/ow_esports
 SUMMARY:Grand final: DAL vs SSG
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T053000Z
+UID:pandascore-match-1491468@esport-ics
+DTSTART:20260522T053000Z
+DTEND:20260522T074500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Champions Clash 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:Upper bracket quarterfinal 2: DAL vs CR
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

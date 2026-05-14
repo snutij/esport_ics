@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Spring 2026 - Playoffs\nWatch: http://www.twitch.tv/otplo
  l_
 SUMMARY:Lower bracket round 1 match 1: ZYB vs VIT.B
+URL:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T180000Z
+UID:pandascore-match-1491465@esport-ics
+DTSTART:20260521T180000Z
+DTEND:20260521T201500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Spring 2026 - Playoffs\nWatch: http://www.twitch.tv/otplo
+ l_
+SUMMARY:Lower bracket quarterfinal 1: TBD vs VIT.B
 URL;VALUE=URI:http://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR
