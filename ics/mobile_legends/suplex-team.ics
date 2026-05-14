@@ -62,7 +62,9 @@ UID:pandascore-match-1488964@esport-ics
 DTSTART:20260514T180000Z
 DTEND:20260514T201500Z
 CLASS:PUBLIC
-DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division\nWatch:
+  https://www.youtube.com/watch?v=r8jRrJ2GPFA
 SUMMARY:SUP vs Aterion Esports
+URL;VALUE=URI:https://www.youtube.com/watch?v=r8jRrJ2GPFA
 END:VEVENT
 END:VCALENDAR
