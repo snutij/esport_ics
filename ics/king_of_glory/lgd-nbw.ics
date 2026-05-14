@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 2\nWatch: https://
  www.youtube.com/@2019KPL/streams
 SUMMARY:Lower bracket quarterfinal 2: LGD vs EDG
+URL:https://www.youtube.com/@2019KPL/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T110000Z
+UID:pandascore-match-1475983@esport-ics
+DTSTART:20260515T110000Z
+DTEND:20260515T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 2\nWatch: https://
+ www.youtube.com/@2019KPL/streams
+SUMMARY:Lower bracket semifinal: WOL vs LGD
 URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
 END:VEVENT
 END:VCALENDAR

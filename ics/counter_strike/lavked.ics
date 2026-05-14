@@ -612,6 +612,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 4: NTR vs Lavked
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T130000Z
+UID:pandascore-match-1469240@esport-ics
+DTSTART:20260515T130000Z
+DTEND:20260515T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 1 2026 - Playoffs\nWatch: https://kick.com/
+ cct_cs
+SUMMARY:Semifinal 2: Lavked vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
