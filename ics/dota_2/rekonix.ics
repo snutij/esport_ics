@@ -263,7 +263,7 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
  ch.tv/esl_dota2
 SUMMARY:Na`Vi vs RNX
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260514T170000Z
@@ -272,9 +272,9 @@ DTSTART:20260514T170000Z
 DTEND:20260514T191500Z
 CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
- ch.tv/esl_dota2
+ ch.tv/esl_dota2earth
 SUMMARY:PlayTime vs RNX
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2earth
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260515T133000Z
