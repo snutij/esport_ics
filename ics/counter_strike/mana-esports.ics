@@ -751,6 +751,17 @@ SUMMARY:Decider match: NAVI.J vs MANA
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260515T080000Z
+UID:pandascore-match-1484456@esport-ics
+DTSTART:20260515T080000Z
+DTEND:20260515T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #2 2026 - Group C\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:Elimination match: MANA vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260517T103000Z
 UID:pandascore-match-1483535@esport-ics
 DTSTART:20260517T103000Z
