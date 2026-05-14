@@ -78,6 +78,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 1\nWatch: h
  ttps://www.twitch.tv/demon1
 SUMMARY:Upper bracket final: EG vs NV
-URL;VALUE=URI:https://www.twitch.tv/demon1
+URL:https://www.twitch.tv/demon1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T000000Z
+UID:pandascore-match-1486840@esport-ics
+DTSTART:20260520T000000Z
+DTEND:20260520T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 1
+SUMMARY:Lower bracket final: SEN vs NV
 END:VEVENT
 END:VCALENDAR
