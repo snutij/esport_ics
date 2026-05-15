@@ -267,7 +267,7 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 5 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/tastelesstv
 SUMMARY:Upper bracket quarterfinal 2: herO vs SHIN
-URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+URL:https://www.twitch.tv/tastelesstv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260517T080000Z
@@ -279,5 +279,16 @@ DESCRIPTION:Global StarCraft II League - Season 1 2026 - Playoffs\nWatch: h
  ttps://www.sooplive.com/station/gslenglish
 SUMMARY:Semifinal 1: Cure vs herO
 URL;VALUE=URI:https://www.sooplive.com/station/gslenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T100000Z
+UID:pandascore-match-1487722@esport-ics
+DTSTART:20260524T100000Z
+DTEND:20260524T134500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 5 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/tastelesstv
+SUMMARY:Upper bracket semifinal 1: Solar vs herO
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR
