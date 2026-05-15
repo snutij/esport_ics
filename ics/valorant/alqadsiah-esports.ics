@@ -102,6 +102,39 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - MENA: Resilience Pulse Stage Middle East 2026 - Playoffs\
  nWatch: https://www.twitch.tv/valorantesports_ar
 SUMMARY:Grand final: QE vs VIA
-URL;VALUE=URI:https://www.twitch.tv/valorantesports_ar
+URL:https://www.twitch.tv/valorantesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T150000Z
+UID:pandascore-match-1493646@esport-ics
+DTSTART:20260518T150000Z
+DTEND:20260518T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group C\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:UCAM vs QE
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T150000Z
+UID:pandascore-match-1493649@esport-ics
+DTSTART:20260521T150000Z
+DTEND:20260521T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group C\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:MIR vs QE
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T173000Z
+UID:pandascore-match-1493651@esport-ics
+DTSTART:20260522T173000Z
+DTEND:20260522T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group C\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:QE vs WIP
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

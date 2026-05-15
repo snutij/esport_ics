@@ -381,6 +381,28 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - NORTH//EAST Stage 2 2026 - Playoffs\nWatch: https://www.t
  witch.tv/valorantleague_ne
 SUMMARY:Grand final: EP vs TL.A
-URL;VALUE=URI:https://www.twitch.tv/valorantleague_ne
+URL:https://www.twitch.tv/valorantleague_ne
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T173000Z
+UID:pandascore-match-1493643@esport-ics
+DTSTART:20260518T173000Z
+DTEND:20260518T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group B\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:RBN vs EP
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T150000Z
+UID:pandascore-match-1493645@esport-ics
+DTSTART:20260520T150000Z
+DTEND:20260520T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group B\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:FKS vs EP
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

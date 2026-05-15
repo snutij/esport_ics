@@ -254,6 +254,39 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Spain: Rising Phase 2 Stage 3 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/LVPes2
 SUMMARY:Grand final: UCAM vs BAR
-URL;VALUE=URI:https://www.twitch.tv/LVPes2
+URL:https://www.twitch.tv/LVPes2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T150000Z
+UID:pandascore-match-1493646@esport-ics
+DTSTART:20260518T150000Z
+DTEND:20260518T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group C\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:UCAM vs QE
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T173000Z
+UID:pandascore-match-1493648@esport-ics
+DTSTART:20260520T173000Z
+DTEND:20260520T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group C\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:UCAM vs MIR
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T150000Z
+UID:pandascore-match-1493650@esport-ics
+DTSTART:20260521T150000Z
+DTEND:20260521T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group C\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:UCAM vs WIP
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

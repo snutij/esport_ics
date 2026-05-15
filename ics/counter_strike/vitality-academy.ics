@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 49 2026 - Group B\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Elimination match: FTUR vs VIT.A
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T103000Z
+UID:pandascore-match-1483526@esport-ics
+DTSTART:20260518T103000Z
+DTEND:20260518T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 49 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider match: VIT.A vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

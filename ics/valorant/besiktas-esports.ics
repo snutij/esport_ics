@@ -179,6 +179,28 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Türkiye: Birlik Stage 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorant_tur
 SUMMARY:Grand final: RBN vs BJK
-URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+URL:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T150000Z
+UID:pandascore-match-1493640@esport-ics
+DTSTART:20260518T150000Z
+DTEND:20260518T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group A\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:BJK vs NAVI.J
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T173000Z
+UID:pandascore-match-1493642@esport-ics
+DTSTART:20260520T173000Z
+DTEND:20260520T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group A\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:BJK vs CGN
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

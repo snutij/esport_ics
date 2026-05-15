@@ -127,6 +127,28 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - NORTH//EAST Stage 2 2026 - Playoffs\nWatch: https://www.t
  witch.tv/valorantleague_ne
 SUMMARY:Lower bracket final: NAVI.J vs TL.A
-URL;VALUE=URI:https://www.twitch.tv/valorantleague_ne
+URL:https://www.twitch.tv/valorantleague_ne
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T150000Z
+UID:pandascore-match-1493640@esport-ics
+DTSTART:20260518T150000Z
+DTEND:20260518T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group A\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:BJK vs NAVI.J
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T173000Z
+UID:pandascore-match-1493641@esport-ics
+DTSTART:20260519T173000Z
+DTEND:20260519T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group A\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:NAVI.J vs CGN
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

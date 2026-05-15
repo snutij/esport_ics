@@ -269,6 +269,39 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - NORTH//EAST Stage 2 2026 - Playoffs\nWatch: https://www.t
  witch.tv/valorantleague_ne
 SUMMARY:Lower bracket semifinal: TL.A vs MIR
-URL;VALUE=URI:https://www.twitch.tv/valorantleague_ne
+URL:https://www.twitch.tv/valorantleague_ne
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T150000Z
+UID:pandascore-match-1493647@esport-ics
+DTSTART:20260519T150000Z
+DTEND:20260519T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group C\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:MIR vs WIP
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T173000Z
+UID:pandascore-match-1493648@esport-ics
+DTSTART:20260520T173000Z
+DTEND:20260520T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group C\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:UCAM vs MIR
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T150000Z
+UID:pandascore-match-1493649@esport-ics
+DTSTART:20260521T150000Z
+DTEND:20260521T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group C\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:MIR vs QE
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

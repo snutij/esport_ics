@@ -146,6 +146,28 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - DACH: Evolution Stage 2 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/valorantleague_dach
 SUMMARY:Grand final: CGN vs FKS
-URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+URL:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T173000Z
+UID:pandascore-match-1493641@esport-ics
+DTSTART:20260519T173000Z
+DTEND:20260519T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group A\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:NAVI.J vs CGN
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T173000Z
+UID:pandascore-match-1493642@esport-ics
+DTSTART:20260520T173000Z
+DTEND:20260520T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group A\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:BJK vs CGN
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

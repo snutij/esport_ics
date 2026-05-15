@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Upper bracket quarterfinals match 2: EAC vs ALGO
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T080000Z
+UID:pandascore-match-1493101@esport-ics
+DTSTART:20260518T080000Z
+DTEND:20260518T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper bracket semifinal 1: Kinoa vs EAC
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
