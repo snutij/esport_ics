@@ -201,6 +201,17 @@ SUMMARY:Lower bracket quarterfinal 1: Navi vs GAL
 URL:https://www.twitch.tv/ewclol2026
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260516T150000Z
+UID:pandascore-match-1469268@esport-ics
+DTSTART:20260516T150000Z
+DTEND:20260516T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - EMEA Qualifier 2026 - Playoffs\nWatch: http
+ s://www.twitch.tv/ewclol2026
+SUMMARY:Lower bracket semifinal: Navi vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ewclol2026
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260530T150000Z
 UID:pandascore-match-1486132@esport-ics
 DTSTART:20260530T150000Z
