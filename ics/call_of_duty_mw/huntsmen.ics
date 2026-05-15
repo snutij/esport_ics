@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 3 2026 - Group B\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:TOR vs Huntsmen
+URL:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T213000Z
+UID:pandascore-match-1487744@esport-ics
+DTSTART:20260515T213000Z
+DTEND:20260516T011500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Major 3 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:Elimination match: Huntsmen vs CRR
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

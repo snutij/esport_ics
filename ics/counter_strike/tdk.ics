@@ -595,6 +595,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 1 2026 - Playoffs\nWatch: https://kick.com/
  cct_cs
 SUMMARY:Quarterfinal 4: FNC vs TDK
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T140000Z
+UID:pandascore-match-1471695@esport-ics
+DTSTART:20260516T140000Z
+DTEND:20260516T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 5: TDK vs Lavked
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
