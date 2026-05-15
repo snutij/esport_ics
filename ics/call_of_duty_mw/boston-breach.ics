@@ -215,14 +215,14 @@ SUMMARY:Winners match: LAT vs BOS
 URL:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260515T233000Z
+DTSTAMP:20260516T000000Z
 UID:pandascore-match-1487750@esport-ics
-DTSTART:20260515T233000Z
-DTEND:20260516T031500Z
+DTSTART:20260516T000000Z
+DTEND:20260516T034500Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 3 2026 - Group C\nWatch: https://ww
  w.twitch.tv/callofduty_esports
-SUMMARY:Decider match: BOS vs TBD
+SUMMARY:Decider match: BOS vs PAR
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

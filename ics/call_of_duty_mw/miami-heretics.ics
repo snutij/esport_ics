@@ -267,6 +267,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 3 2026 - Group B\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:Winners match: TOR vs MH
+URL:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T003000Z
+UID:pandascore-match-1487745@esport-ics
+DTSTART:20260516T003000Z
+DTEND:20260516T041500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Major 3 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:Decider match: MH vs TBD
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR
