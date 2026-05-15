@@ -511,6 +511,15 @@ SUMMARY:Upper bracket semifinal 2: DNT vs CYBERSHOKE Prospects
 URL:https://kick.com/cct_cs5
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260515T093000Z
+UID:pandascore-match-1493013@esport-ics
+DTSTART:20260515T093000Z
+DTEND:20260515T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Playoffs
+SUMMARY:Round 1 match 4: DNT vs FORZE.R
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260515T153000Z
 UID:pandascore-match-1490316@esport-ics
 DTSTART:20260515T153000Z
@@ -519,6 +528,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #5 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs4
 SUMMARY:Lower bracket quarterfinal 1: MISA vs DNT
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T181500Z
+UID:pandascore-match-1490317@esport-ics
+DTSTART:20260515T181500Z
+DTEND:20260515T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #5 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs4
+SUMMARY:Lower bracket quarterfinal 2: DNT vs Atreides
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

@@ -608,7 +608,25 @@ DTEND:20260515T174500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #5 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs4
-SUMMARY:Lower bracket quarterfinal 1: MISA vs DNT
+SUMMARY:Lower bracket quarterfinal 1: EJ vs MISA
 URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T170000Z
+UID:pandascore-match-1493004@esport-ics
+DTSTART:20260515T170000Z
+DTEND:20260515T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:BW vs MISA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T080000Z
+UID:pandascore-match-1493008@esport-ics
+DTSTART:20260516T080000Z
+DTEND:20260516T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinals match 3: BIG.A vs MISA
 END:VEVENT
 END:VCALENDAR

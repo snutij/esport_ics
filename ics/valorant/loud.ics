@@ -61,14 +61,14 @@ SUMMARY:LOUD vs LEV
 URL:https://www.twitch.tv/valorant_americas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260516T000000Z
+DTSTAMP:20260517T000000Z
 UID:pandascore-match-1411875@esport-ics
-DTSTART:20260516T000000Z
-DTEND:20260516T021500Z
+DTSTART:20260517T000000Z
+DTEND:20260517T021500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 1 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant_americas
-SUMMARY:Lower bracket round 1 match 2: TBD vs LOUD
+SUMMARY:Lower bracket round 1 match 2: 100T vs LOUD
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

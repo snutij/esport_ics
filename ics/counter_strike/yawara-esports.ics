@@ -379,6 +379,17 @@ SUMMARY:Round 2: YAW vs GE
 URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260516T230000Z
+UID:pandascore-match-1484525@esport-ics
+DTSTART:20260516T230000Z
+DTEND:20260517T011500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 3: UNO vs YAW
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260530T190000Z
 UID:pandascore-match-1487705@esport-ics
 DTSTART:20260530T190000Z

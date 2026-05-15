@@ -303,6 +303,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 26 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 5: FORZE.R vs HEC
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T093000Z
+UID:pandascore-match-1493013@esport-ics
+DTSTART:20260515T093000Z
+DTEND:20260515T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Playoffs
+SUMMARY:Round 1 match 4: DNT vs FORZE.R
 END:VEVENT
 END:VCALENDAR

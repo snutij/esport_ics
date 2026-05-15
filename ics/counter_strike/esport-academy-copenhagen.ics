@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Esport Academy Copenhagen
+SLUG:esport-academy-copenhagen
+BEGIN:VEVENT
+DTSTAMP:20260515T103000Z
+UID:pandascore-match-1493007@esport-ics
+DTSTART:20260515T103000Z
+DTEND:20260515T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinals match 2: EAC vs ALGO
+END:VEVENT
+END:VCALENDAR

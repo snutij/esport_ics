@@ -674,6 +674,15 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 49 2026 - Group A\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Winners match: MASQ vs LPH
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T123000Z
+UID:pandascore-match-1493010@esport-ics
+DTSTART:20260515T123000Z
+DTEND:20260515T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Playoffs
+SUMMARY:Round 1 match 1: MJX vs LPH
 END:VEVENT
 END:VCALENDAR
