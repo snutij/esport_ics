@@ -577,8 +577,10 @@ UID:pandascore-match-1493008@esport-ics
 DTSTART:20260516T080000Z
 DTEND:20260516T101500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs
+DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
 SUMMARY:Upper bracket quarterfinals match 3: BIG.A vs MISA
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260520T160000Z

@@ -44,9 +44,20 @@ UID:pandascore-match-1490610@esport-ics
 DTSTART:20260520T120000Z
 DTEND:20260520T154500Z
 CLASS:PUBLIC
-DESCRIPTION:RLCS World Championship - 2026 - Group B\nWatch: https://www.tw
- itch.tv/rocketleague
+DESCRIPTION:RLCS Major - Paris 2026 - Group B\nWatch: https://www.twitch.tv
+ /rocketleague
 SUMMARY:MCE vs mibr
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T160000Z
+UID:pandascore-match-1493016@esport-ics
+DTSTART:20260520T160000Z
+DTEND:20260520T194500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Paris 2026 - Group B\nWatch: https://www.twitch.tv
+ /rocketleague
+SUMMARY:NRG vs mibr
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

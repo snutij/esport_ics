@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series #1 season 4 2026 - Group Stage\nWatc
  h: https://kick.com/cct_cs
 SUMMARY:Round 1: GH vs ODK.A
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T220000Z
+UID:pandascore-match-1493022@esport-ics
+DTSTART:20260518T220000Z
+DTEND:20260518T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - May 2026 - Group D
+SUMMARY:MIBR.A vs ODK.A
 END:VEVENT
 END:VCALENDAR

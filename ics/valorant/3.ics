@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers North America Stage 1 2026 - Group Stage\nW
  atch: https://www.youtube.com/watch?v=RKe_eiPOp1w
 SUMMARY:Round 5: MEOW vs WAD
-URL;VALUE=URI:https://www.youtube.com/watch?v=RKe_eiPOp1w
+URL:https://www.youtube.com/watch?v=RKe_eiPOp1w
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T233000Z
+UID:pandascore-match-1493067@esport-ics
+DTSTART:20260518T233000Z
+DTEND:20260519T014500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers North America Stage 1 2026 - Group Stage\nW
+ atch: https://www.twitch.tv/valorant_americas
+SUMMARY:Round 6: MEOW vs FRST
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR
