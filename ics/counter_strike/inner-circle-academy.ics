@@ -318,6 +318,17 @@ CLASS:PUBLIC
 DESCRIPTION:LORGAR RANKINGS - 2026 - Playoffs\nWatch: https://www.twitch.tv
  /starladder_cs_en
 SUMMARY:Quarterfinal 1: SIN vs IC.A
-URL;VALUE=URI:https://www.twitch.tv/starladder_cs_en
+URL:https://www.twitch.tv/starladder_cs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T080000Z
+UID:pandascore-match-1494527@esport-ics
+DTSTART:20260516T080000Z
+DTEND:20260516T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
+ s://kick.com/challengerchampionship
+SUMMARY:Opening Match 1: IC.A vs Nyxon
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR

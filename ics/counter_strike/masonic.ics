@@ -711,6 +711,17 @@ SUMMARY:Winners match: G2.A vs MSC
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260516T080000Z
+UID:pandascore-match-1494529@esport-ics
+DTSTART:20260516T080000Z
+DTEND:20260516T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
+ s://kick.com/challengerchampionship
+SUMMARY:Opening Match 3: MSC vs PURE
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260516T110000Z
 UID:pandascore-match-1484243@esport-ics
 DTSTART:20260516T110000Z
