@@ -131,6 +131,15 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Playoffs\nWatch: https:/
  /www.youtube.com/watch?v=IwSAgIhoark
 SUMMARY:Quarterfinal 4: DZ vs WCG
-URL;VALUE=URI:https://www.youtube.com/watch?v=IwSAgIhoark
+URL:https://www.youtube.com/watch?v=IwSAgIhoark
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T193000Z
+UID:pandascore-match-1482048@esport-ics
+DTSTART:20260516T193000Z
+DTEND:20260516T214500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Playoffs
+SUMMARY:Semifinal 2: FaZe vs DZ
 END:VEVENT
 END:VCALENDAR
