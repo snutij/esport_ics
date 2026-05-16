@@ -733,6 +733,17 @@ SUMMARY:Decider match: MSC vs RE
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260516T140000Z
+UID:pandascore-match-1494534@esport-ics
+DTSTART:20260516T140000Z
+DTEND:20260516T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
+ s://kick.com/challengerchampionship_b
+SUMMARY:Upper Bracket Semifinal 2: BMB vs MSC
+URL;VALUE=URI:https://kick.com/challengerchampionship_b
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260518T150000Z
 UID:pandascore-match-1488967@esport-ics
 DTSTART:20260518T150000Z
