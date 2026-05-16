@@ -289,4 +289,15 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 3 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 2: MIN vs LAT
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T230000Z
+UID:pandascore-match-1487767@esport-ics
+DTSTART:20260516T230000Z
+DTEND:20260517T024500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Major 3 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/callofduty_bravo
+SUMMARY:Lower bracket quarterfinal 2: LAT vs TBD
+URL;VALUE=URI:https://www.twitch.tv/callofduty_bravo
+END:VEVENT
 END:VCALENDAR

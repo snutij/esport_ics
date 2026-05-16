@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/benccce
 SUMMARY:Lower Bracket Quarterfinal 2: PURE vs Honvéd
-URL;VALUE=URI:https://www.twitch.tv/benccce
+URL:https://www.twitch.tv/benccce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T080000Z
+UID:pandascore-match-1494537@esport-ics
+DTSTART:20260517T080000Z
+DTEND:20260517T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
+ s://kick.com/challengerchampionship
+SUMMARY:Lower Bracket Semifinal: MSC vs Honvéd
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR
