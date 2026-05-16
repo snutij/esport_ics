@@ -552,4 +552,15 @@ DESCRIPTION:CCT Europe - Contenders #5 2026 - Playoffs\nWatch: https://kick
 SUMMARY:Lower bracket semifinal: EJ vs DNT
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T183000Z
+UID:pandascore-match-1494585@esport-ics
+DTSTART:20260516T183000Z
+DTEND:20260516T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Quarterfinal 4: 33 vs DNT
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
 END:VCALENDAR

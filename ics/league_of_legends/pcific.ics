@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:TCL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/riotgamesturkish
 SUMMARY:PCIFIC  vs DP
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T140000Z
+UID:pandascore-match-1494608@esport-ics
+DTSTART:20260520T140000Z
+DTEND:20260520T174500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
+ gamesturkish
+SUMMARY:Lower bracket quarterfinal 2: PCIFIC  vs BW
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 END:VCALENDAR
