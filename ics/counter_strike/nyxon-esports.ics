@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
  s://kick.com/challengerchampionship
 SUMMARY:Opening Match 1: IC.A vs Nyxon
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T110000Z
+UID:pandascore-match-1494531@esport-ics
+DTSTART:20260516T110000Z
+DTEND:20260516T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
+ s://kick.com/challengerchampionship
+SUMMARY:Lower Bracket Round 1 Match 1: Nyxon vs A Great Chaos
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR

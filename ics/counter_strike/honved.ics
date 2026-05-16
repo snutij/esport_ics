@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
  s://kick.com/challengerchampionship
 SUMMARY:Opening Match 2: Honvéd vs A Great Chaos
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T140000Z
+UID:pandascore-match-1494533@esport-ics
+DTSTART:20260516T140000Z
+DTEND:20260516T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
+ s://kick.com/challengerchampionship
+SUMMARY:Upper Bracket Semifinal 1: IC.A vs Honvéd
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR
