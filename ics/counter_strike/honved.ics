@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/benccce
 SUMMARY:Upper Bracket Semifinal 1: IC.A vs Honvéd
+URL:https://www.twitch.tv/benccce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T180000Z
+UID:pandascore-match-1494535@esport-ics
+DTSTART:20260516T180000Z
+DTEND:20260516T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
+ s://www.twitch.tv/benccce
+SUMMARY:Lower Bracket Quarterfinal 2: PURE vs Honvéd
 URL;VALUE=URI:https://www.twitch.tv/benccce
 END:VEVENT
 END:VCALENDAR
