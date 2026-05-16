@@ -194,7 +194,9 @@ UID:pandascore-match-1482047@esport-ics
 DTSTART:20260516T190000Z
 DTEND:20260516T211500Z
 CLASS:PUBLIC
-DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Playoffs
+DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/rainbow6
 SUMMARY:Semifinal 1: TM vs SR
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

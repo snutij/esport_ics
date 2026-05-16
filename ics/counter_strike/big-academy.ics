@@ -583,6 +583,17 @@ SUMMARY:Upper bracket quarterfinals match 3: BIG.A vs MISA
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260518T103000Z
+UID:pandascore-match-1493102@esport-ics
+DTSTART:20260518T103000Z
+DTEND:20260518T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper bracket semifinal 2: BIG.A vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260520T160000Z
 UID:pandascore-match-1385739@esport-ics
 DTSTART:20260520T160000Z
