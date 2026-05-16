@@ -289,6 +289,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 3 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/callofduty_esports
 SUMMARY:Upper bracket semifinal 1: TEX vs RIYF
+URL:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T163000Z
+UID:pandascore-match-1487762@esport-ics
+DTSTART:20260517T163000Z
+DTEND:20260517T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Major 3 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/callofduty_esports
+SUMMARY:Upper bracket final: TOR vs TEX
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

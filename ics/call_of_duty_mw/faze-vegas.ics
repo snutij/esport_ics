@@ -312,14 +312,14 @@ DESCRIPTION:Call of Duty League - Major 3 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 2: TOR vs FAZE.V
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260516T230000Z
+DTSTAMP:20260516T234500Z
 UID:pandascore-match-1487766@esport-ics
-DTSTART:20260516T230000Z
-DTEND:20260517T024500Z
+DTSTART:20260516T234500Z
+DTEND:20260517T033000Z
 CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 3 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/callofduty_esports
-SUMMARY:Lower bracket quarterfinal 1: FAZE.V vs TBD
+SUMMARY:Lower bracket quarterfinal 1: FAZE.V vs PAR
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR
