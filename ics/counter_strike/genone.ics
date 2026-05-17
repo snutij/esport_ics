@@ -525,6 +525,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #2 2026 - Play-In\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:G1 vs ex-Zero Tenacity
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T140000Z
+UID:pandascore-match-1496977@esport-ics
+DTSTART:20260518T140000Z
+DTEND:20260518T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 1: EAC vs G1
+URL;VALUE=URI:https://kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T080000Z
+UID:pandascore-match-1489268@esport-ics
+DTSTART:20260519T080000Z
+DTEND:20260519T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 2 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs2
+SUMMARY:Round 1: ex-RUBY vs G1
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

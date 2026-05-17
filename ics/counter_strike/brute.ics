@@ -603,6 +603,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #2 2026 - Play-In\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:BRUTE vs RE
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T110000Z
+UID:pandascore-match-1489269@esport-ics
+DTSTART:20260519T110000Z
+DTEND:20260519T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 2 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs2
+SUMMARY:Round 1: AM vs BRUTE
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

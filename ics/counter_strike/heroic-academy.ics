@@ -547,6 +547,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #1 season 2 2026 - Group Stage\
  nWatch: https://www.twitch.tv/bcgamemasters
 SUMMARY:Round 4: HERO.A vs TLR
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T110000Z
+UID:pandascore-match-1496980@esport-ics
+DTSTART:20260519T110000Z
+DTEND:20260519T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 1: PF vs HERO.A
+URL;VALUE=URI:https://kick.com/bcgamemasters
 END:VEVENT
 END:VCALENDAR

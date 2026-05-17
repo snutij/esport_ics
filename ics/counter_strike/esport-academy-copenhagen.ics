@@ -49,4 +49,15 @@ DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch:
 SUMMARY:Upper bracket semifinal 1: Kinoa vs EAC
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T140000Z
+UID:pandascore-match-1496977@esport-ics
+DTSTART:20260518T140000Z
+DTEND:20260518T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 1: EAC vs G1
+URL;VALUE=URI:https://kick.com/bcgamemasters
+END:VEVENT
 END:VCALENDAR

@@ -616,6 +616,17 @@ SUMMARY:Lower bracket round 1 match 1: PRE vs ALGO
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260518T170000Z
+UID:pandascore-match-1489267@esport-ics
+DTSTART:20260518T170000Z
+DTEND:20260518T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 2 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs2
+SUMMARY:Round 1: ORM vs ALGO
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260519T080000Z
 UID:pandascore-match-1493108@esport-ics
 DTSTART:20260519T080000Z
@@ -625,5 +636,16 @@ DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch:
  https://kick.com/eplcs_en
 SUMMARY:Lower bracket quarterfinal 1: ALGO vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T170000Z
+UID:pandascore-match-1496982@esport-ics
+DTSTART:20260519T170000Z
+DTEND:20260519T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 1: URSA vs ALGO
+URL;VALUE=URI:https://kick.com/bcgamemasters
 END:VEVENT
 END:VCALENDAR

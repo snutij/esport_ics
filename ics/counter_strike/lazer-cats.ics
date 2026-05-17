@@ -409,6 +409,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancsd
 SUMMARY:Lower bracket round 1 match 3: LC vs HAVU
-URL;VALUE=URI:https://kick.com/draculancsd
+URL:https://kick.com/draculancsd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T110000Z
+UID:pandascore-match-1489265@esport-ics
+DTSTART:20260518T110000Z
+DTEND:20260518T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 2 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs2
+SUMMARY:Round 1: URSA vs LC
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

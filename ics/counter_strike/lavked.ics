@@ -678,6 +678,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 26 2026 - Playoffs\nWatch: https://kick.c
  om/exort_en2
 SUMMARY:Grand final: Lavked vs MJX
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T140000Z
+UID:pandascore-match-1496981@esport-ics
+DTSTART:20260519T140000Z
+DTEND:20260519T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 1: ORM vs Lavked
+URL;VALUE=URI:https://kick.com/bcgamemasters
 END:VEVENT
 END:VCALENDAR
