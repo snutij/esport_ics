@@ -309,6 +309,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 3 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/callofduty_esports
 SUMMARY:Lower bracket semifinal: LAT vs FAZE.V
+URL:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T181500Z
+UID:pandascore-match-1487769@esport-ics
+DTSTART:20260517T181500Z
+DTEND:20260517T220000Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Major 3 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/callofduty_esports
+SUMMARY:Lower bracket final: LAT vs TBD
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

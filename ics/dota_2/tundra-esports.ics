@@ -516,6 +516,28 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
  ch.tv/esl_dota2storm
 SUMMARY:Tundra vs PlayTime
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
+URL:https://www.twitch.tv/esl_dota2storm
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T110000Z
+UID:pandascore-match-1496965@esport-ics
+DTSTART:20260518T110000Z
+DTEND:20260518T114500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:TBD vs Tundra
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T120000Z
+UID:pandascore-match-1496966@esport-ics
+DTSTART:20260518T120000Z
+DTEND:20260518T124500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
+ ch.tv/esl_dota2
+SUMMARY:TBD vs Tundra
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR
