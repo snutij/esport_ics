@@ -631,7 +631,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Lower bracket round 1 match 2: MISA vs MANA
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260518T160000Z
@@ -641,5 +641,16 @@ DTEND:20260518T164500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:BW vs MISA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T103000Z
+UID:pandascore-match-1493109@esport-ics
+DTSTART:20260519T103000Z
+DTEND:20260519T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Lower bracket quarterfinal 2: MISA vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
