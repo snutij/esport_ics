@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bonanno
+SLUG:bonanno
+BEGIN:VEVENT
+DTSTAMP:20260517T155000Z
+UID:pandascore-match-1496034@esport-ics
+DTSTART:20260517T155000Z
+DTEND:20260517T163500Z
+CLASS:PUBLIC
+DESCRIPTION:eChampions League - 2026 - Knockout Stage\nWatch: https://www.t
+ witch.tv/easportsfc
+SUMMARY:Round 1 match 5: GugaFerraz vs Bonanno
+URL;VALUE=URI:https://www.twitch.tv/easportsfc
+END:VEVENT
+END:VCALENDAR
