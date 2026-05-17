@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
  ://www.youtube.com/watch?v=xtvBM-mxR1U
 SUMMARY:OE vs AR
-URL;VALUE=URI:https://www.youtube.com/watch?v=xtvBM-mxR1U
+URL:https://www.youtube.com/watch?v=xtvBM-mxR1U
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T110000Z
+UID:pandascore-match-1479139@esport-ics
+DTSTART:20260527T110000Z
+DTEND:20260527T144500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Playoffs\nWatch: https://www
+ .youtube.com/@MLBBeSports/streams
+SUMMARY:Upper bracket quarterfinal 2: OE vs TWPH
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
 END:VEVENT
 END:VCALENDAR

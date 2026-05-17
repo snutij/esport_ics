@@ -774,17 +774,6 @@ URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260517T103000Z
-UID:pandascore-match-1493111@esport-ics
-DTSTART:20260517T103000Z
-DTEND:20260517T124500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
- https://kick.com/eplcs_en
-SUMMARY:Lower bracket round 1 match 2: MISA vs MANA
-URL;VALUE=URI:https://kick.com/eplcs_en
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260517T103000Z
 UID:pandascore-match-1483535@esport-ics
 DTSTART:20260517T103000Z
 DTEND:20260517T124500Z
@@ -792,6 +781,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 49 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Elimination match: MANA vs XI
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T115000Z
+UID:pandascore-match-1493111@esport-ics
+DTSTART:20260517T115000Z
+DTEND:20260517T140500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Lower bracket round 1 match 2: MISA vs MANA
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

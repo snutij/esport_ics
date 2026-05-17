@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Philippines - Season 17 2026 - Regular Season\nWatch: https
  ://www.youtube.com/watch?v=8NjKqP25l64
 SUMMARY:ONPH vs TLPH
-URL;VALUE=URI:https://www.youtube.com/watch?v=8NjKqP25l64
+URL:https://www.youtube.com/watch?v=8NjKqP25l64
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T070000Z
+UID:pandascore-match-1479138@esport-ics
+DTSTART:20260527T070000Z
+DTEND:20260527T104500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Playoffs\nWatch: https://www
+ .youtube.com/@MLBBeSports/streams
+SUMMARY:Upper bracket quarterfinal 1: ONPH vs AR
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
 END:VEVENT
 END:VCALENDAR

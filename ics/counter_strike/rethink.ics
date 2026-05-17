@@ -495,6 +495,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 49 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Winners match: RT vs NAVI.J
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T103000Z
+UID:pandascore-match-1483536@esport-ics
+DTSTART:20260519T103000Z
+DTEND:20260519T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 49 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider match: RT vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

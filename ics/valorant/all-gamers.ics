@@ -166,4 +166,13 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - China Qualifier 2026 - Stage 2
 SUMMARY:Lower bracket round 1 match 2: DRG vs AG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T090000Z
+UID:pandascore-match-1486870@esport-ics
+DTSTART:20260518T090000Z
+DTEND:20260518T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - China Qualifier 2026 - Stage 2
+SUMMARY:Lower bracket quarterfinal 2: AG vs TBD
+END:VEVENT
 END:VCALENDAR
