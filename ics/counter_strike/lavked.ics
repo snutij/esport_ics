@@ -656,6 +656,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 26 2026 - Playoffs\nWatch: https://kick.c
  om/exort_en2
 SUMMARY:Quarterfinal 3: Lavked vs INF
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260517T123000Z
+UID:pandascore-match-1495984@esport-ics
+DTSTART:20260517T123000Z
+DTEND:20260517T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 26 2026 - Playoffs\nWatch: https://kick.c
+ om/exort_en2
+SUMMARY:Semifinal 2: Lavked vs DNT
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
