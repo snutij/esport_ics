@@ -199,6 +199,16 @@ CLASS:PUBLIC
 DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
  /lplenglish
 SUMMARY:WE vs NIP
-URL;VALUE=URI:https://www.twitch.tv/lplenglish
+URL:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T060000Z
+UID:pandascore-match-1422508@esport-ics
+DTSTART:20260524T060000Z
+DTEND:20260524T094500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Play-In\nWatch: https://www.huya.com/lpl
+SUMMARY:NIP vs EDG
+URL;VALUE=URI:https://www.huya.com/lpl
 END:VEVENT
 END:VCALENDAR

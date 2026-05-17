@@ -242,6 +242,16 @@ CLASS:PUBLIC
 DESCRIPTION:LPL - Split 2 2026 - Group Ascend\nWatch: https://www.twitch.tv
  /lplenglish
 SUMMARY:JDG vs IG
-URL;VALUE=URI:https://www.twitch.tv/lplenglish
+URL:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T090000Z
+UID:pandascore-match-1422507@esport-ics
+DTSTART:20260523T090000Z
+DTEND:20260523T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Play-In\nWatch: https://www.huya.com/lpl
+SUMMARY:IG vs TT
+URL;VALUE=URI:https://www.huya.com/lpl
 END:VEVENT
 END:VCALENDAR
