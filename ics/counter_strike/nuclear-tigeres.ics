@@ -477,4 +477,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Playoffs\nWatch: https:/
 SUMMARY:Round of 16 match 7: 100T vs NTR
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T060000Z
+UID:pandascore-match-1498602@esport-ics
+DTSTART:20260525T060000Z
+DTEND:20260525T081500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 5 2026 - Group A\nWatch: https://
+ www.twitch.tv/mpkbk
+SUMMARY:NTR vs OXUJI
+URL;VALUE=URI:https://www.twitch.tv/mpkbk
+END:VEVENT
 END:VCALENDAR
