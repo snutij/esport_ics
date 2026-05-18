@@ -111,6 +111,16 @@ CLASS:PUBLIC
 DESCRIPTION:LCS - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/lcs
 SUMMARY:SR vs DSG
-URL;VALUE=URI:https://www.twitch.tv/lcs
+URL:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T200000Z
+UID:pandascore-match-1496377@esport-ics
+DTSTART:20260531T200000Z
+DTEND:20260531T234500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/LCS
+SUMMARY:Lower bracket quarterfinal 2: TBD vs SR
+URL;VALUE=URI:https://www.twitch.tv/LCS
 END:VEVENT
 END:VCALENDAR

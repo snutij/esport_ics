@@ -234,6 +234,28 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 4: ex-KRÜ Esports vs BST.A
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T170000Z
+UID:pandascore-match-1484532@esport-ics
+DTSTART:20260518T170000Z
+DTEND:20260518T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 5: YAW vs ex-KRÜ Esports
 URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T190000Z
+UID:pandascore-match-1484570@esport-ics
+DTSTART:20260519T190000Z
+DTEND:20260519T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 2 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 4: ex-KRÜ Esports vs paiN.A
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

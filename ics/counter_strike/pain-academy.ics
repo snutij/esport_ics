@@ -611,6 +611,28 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
  .twitch.tv/lorranbs_
 SUMMARY:Round 4: MW vs paiN.A
-URL;VALUE=URI:https://www.twitch.tv/lorranbs_
+URL:https://www.twitch.tv/lorranbs_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T200000Z
+UID:pandascore-match-1484533@esport-ics
+DTSTART:20260518T200000Z
+DTEND:20260518T221500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 5: GLS vs paiN.A
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T190000Z
+UID:pandascore-match-1484570@esport-ics
+DTSTART:20260519T190000Z
+DTEND:20260519T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 2 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 4: ex-KRÜ Esports vs paiN.A
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
