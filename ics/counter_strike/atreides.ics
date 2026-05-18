@@ -394,6 +394,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #5 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs4
 SUMMARY:Lower bracket quarterfinal 2: DNT vs Atreides
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T150000Z
+UID:pandascore-match-1498184@esport-ics
+DTSTART:20260523T150000Z
+DTEND:20260523T171500Z
+CLASS:PUBLIC
+DESCRIPTION:XPortal - Season 1 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/xportalesports
+SUMMARY:Quarterfinal 3: Atreides vs ENCE
+URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
 END:VCALENDAR

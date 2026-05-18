@@ -60,4 +60,26 @@ DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
 SUMMARY:Round 1: EAC vs G1
 URL;VALUE=URI:https://kick.com/bcgamemasters
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T103000Z
+UID:pandascore-match-1493109@esport-ics
+DTSTART:20260519T103000Z
+DTEND:20260519T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Lower bracket quarterfinal 2: MISA vs EAC
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T090000Z
+UID:pandascore-match-1498185@esport-ics
+DTSTART:20260523T090000Z
+DTEND:20260523T111500Z
+CLASS:PUBLIC
+DESCRIPTION:XPortal - Season 1 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/xportalesports
+SUMMARY:Quarterfinal 4: TLR vs EAC
+URL;VALUE=URI:https://www.twitch.tv/xportalesports
+END:VEVENT
 END:VCALENDAR
