@@ -527,7 +527,7 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
  ch.tv/esl_dota2
 SUMMARY:TBD vs Tundra
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260518T120000Z
@@ -538,6 +538,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
  ch.tv/esl_dota2
 SUMMARY:TBD vs Tundra
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T100000Z
+UID:pandascore-match-1487827@esport-ics
+DTSTART:20260519T100000Z
+DTEND:20260519T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/esl_dota2
+SUMMARY:Upper Bracket Quarterfinal 1: FLC vs Tundra
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

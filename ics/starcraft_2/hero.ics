@@ -302,4 +302,14 @@ DESCRIPTION:RSL Revival - Season 5 2026 - Playoffs\nWatch: https://www.twit
 SUMMARY:Upper bracket semifinal 1: Solar vs herO
 URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T093000Z
+UID:pandascore-match-1498568@esport-ics
+DTSTART:20260527T093000Z
+DTEND:20260527T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 2 - Gr
+ oup A
+SUMMARY:herO vs TBD
+END:VEVENT
 END:VCALENDAR

@@ -14,6 +14,16 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 4 2026 - Group A\nWatch: https://www.twitc
  h.tv/tastelesstv
 SUMMARY:sOs vs herO
-URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T093000Z
+UID:pandascore-match-1498558@esport-ics
+DTSTART:20260520T093000Z
+DTEND:20260520T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 1 - Gr
+ oup A
+SUMMARY:Cure vs sOs
 END:VEVENT
 END:VCALENDAR

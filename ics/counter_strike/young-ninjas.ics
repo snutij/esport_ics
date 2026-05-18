@@ -430,6 +430,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #2 2026 - Group D\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:Decider Match: YN vs ex-Zero Tenacity
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T080000Z
+UID:pandascore-match-1498578@esport-ics
+DTSTART:20260519T080000Z
+DTEND:20260519T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series#3 2026 - Group A\nWatch: 
+ https://kick.com/cct_cs
+SUMMARY:Hashiras vs YN
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

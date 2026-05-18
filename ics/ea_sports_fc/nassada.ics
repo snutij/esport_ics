@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nassada
+SLUG:nassada
+BEGIN:VEVENT
+DTSTAMP:20260527T164000Z
+UID:pandascore-match-1497495@esport-ics
+DTSTART:20260527T164000Z
+DTEND:20260527T172500Z
+CLASS:PUBLIC
+DESCRIPTION:eChampions League - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/easportsfc
+SUMMARY:Quarterfinal 3: Nassada vs Alihan
+URL;VALUE=URI:https://www.twitch.tv/easportsfc
+END:VEVENT
+END:VCALENDAR

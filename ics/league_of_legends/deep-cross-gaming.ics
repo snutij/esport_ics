@@ -160,6 +160,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
  tv/lolpacificen
 SUMMARY:DCG vs GZ
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T090000Z
+UID:pandascore-match-1498248@esport-ics
+DTSTART:20260524T090000Z
+DTEND:20260524T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 2 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ pacificen
+SUMMARY:Upper bracket quarterfinal 2: SHG vs DCG
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR

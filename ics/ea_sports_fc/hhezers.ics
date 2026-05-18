@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:eChampions League - 2026 - Knockout Stage\nWatch: https://www.t
  witch.tv/easportsfc
 SUMMARY:Round 2 match 7: Leks vs HHEzerS
+URL:https://www.twitch.tv/easportsfc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T164000Z
+UID:pandascore-match-1497496@esport-ics
+DTSTART:20260527T164000Z
+DTEND:20260527T172500Z
+CLASS:PUBLIC
+DESCRIPTION:eChampions League - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/easportsfc
+SUMMARY:Quarterfinal 4: HHEzerS vs DFernandes
 URL;VALUE=URI:https://www.twitch.tv/easportsfc
 END:VEVENT
 END:VCALENDAR
