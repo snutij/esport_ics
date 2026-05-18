@@ -300,6 +300,72 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 3 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/callofduty_esports
 SUMMARY:Lower bracket quarterfinal 1: FAZE.V vs PAR
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+URL:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T193000Z
+UID:pandascore-match-1497510@esport-ics
+DTSTART:20260529T193000Z
+DTEND:20260529T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:PAR vs CRR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T223000Z
+UID:pandascore-match-1497512@esport-ics
+DTSTART:20260529T223000Z
+DTEND:20260530T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:RIYF vs PAR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T180000Z
+UID:pandascore-match-1497513@esport-ics
+DTSTART:20260530T180000Z
+DTEND:20260530T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:RIYF vs PAR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260611T193000Z
+UID:pandascore-match-1497517@esport-ics
+DTSTART:20260611T193000Z
+DTEND:20260611T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:PAR vs FAZE.V
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T193000Z
+UID:pandascore-match-1497524@esport-ics
+DTSTART:20260613T193000Z
+DTEND:20260613T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:VAN vs PAR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T210000Z
+UID:pandascore-match-1497528@esport-ics
+DTSTART:20260618T210000Z
+DTEND:20260619T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:PAR vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 END:VCALENDAR

@@ -289,4 +289,59 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 3 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 2: MIN vs LAT
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T193000Z
+UID:pandascore-match-1497507@esport-ics
+DTSTART:20260528T193000Z
+DTEND:20260528T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:MIN vs C9.NY
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260611T180000Z
+UID:pandascore-match-1497516@esport-ics
+DTSTART:20260611T180000Z
+DTEND:20260611T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:TEX vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T223000Z
+UID:pandascore-match-1497522@esport-ics
+DTSTART:20260612T223000Z
+DTEND:20260613T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:LAT vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T223000Z
+UID:pandascore-match-1497532@esport-ics
+DTSTART:20260619T223000Z
+DTEND:20260620T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:RIYF vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T193000Z
+UID:pandascore-match-1497534@esport-ics
+DTSTART:20260620T193000Z
+DTEND:20260620T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:TOR vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
 END:VCALENDAR

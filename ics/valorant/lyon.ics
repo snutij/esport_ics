@@ -124,6 +124,83 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America North: ACE Masters 2026 - Playoffs\nWatch: 
  https://www.twitch.tv/valorant_la
 SUMMARY:Grand final: LYON vs BBB
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T220000Z
+UID:pandascore-match-1497589@esport-ics
+DTSTART:20260519T220000Z
+DTEND:20260520T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:STA vs LYON
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T220000Z
+UID:pandascore-match-1497605@esport-ics
+DTSTART:20260525T220000Z
+DTEND:20260526T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:TZC vs LYON
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T220000Z
+UID:pandascore-match-1497613@esport-ics
+DTSTART:20260527T220000Z
+DTEND:20260528T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:AB3 vs LYON
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T220000Z
+UID:pandascore-match-1497620@esport-ics
+DTSTART:20260601T220000Z
+DTEND:20260602T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:LZR vs LYON
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T010000Z
+UID:pandascore-match-1497644@esport-ics
+DTSTART:20260618T010000Z
+DTEND:20260618T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:CHE vs LYON
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T010000Z
+UID:pandascore-match-1497650@esport-ics
+DTSTART:20260624T010000Z
+DTEND:20260624T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:BBB vs LYON
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T010000Z
+UID:pandascore-match-1497652@esport-ics
+DTSTART:20260625T010000Z
+DTEND:20260625T031500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America North: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:FEO vs LYON
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

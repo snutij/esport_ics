@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #5 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs4
 SUMMARY:Lower bracket final: SHISHKA vs EJ
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T123000Z
+UID:pandascore-match-1497501@esport-ics
+DTSTART:20260518T123000Z
+DTEND:20260518T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 1: SHISHKA vs Pitstop crew
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

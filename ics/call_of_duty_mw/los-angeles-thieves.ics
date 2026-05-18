@@ -320,6 +320,61 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 3 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/callofduty_esports
 SUMMARY:Lower bracket final: LAT vs TBD
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+URL:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T180000Z
+UID:pandascore-match-1497509@esport-ics
+DTSTART:20260529T180000Z
+DTEND:20260529T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:LAT vs FAZE.V
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260611T210000Z
+UID:pandascore-match-1497518@esport-ics
+DTSTART:20260611T210000Z
+DTEND:20260612T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:LAT vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T223000Z
+UID:pandascore-match-1497522@esport-ics
+DTSTART:20260612T223000Z
+DTEND:20260613T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:LAT vs MIN
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T193000Z
+UID:pandascore-match-1497527@esport-ics
+DTSTART:20260618T193000Z
+DTEND:20260618T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:LAT vs C9.NY
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T193000Z
+UID:pandascore-match-1497530@esport-ics
+DTSTART:20260619T193000Z
+DTEND:20260619T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:VAN vs LAT
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 END:VCALENDAR

@@ -223,6 +223,61 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Major 3 2026 - Group B\nWatch: https://ww
  w.youtube.com/watch?v=sM_xHs-JSRs
 SUMMARY:Elimination match: Huntsmen vs CRR
-URL;VALUE=URI:https://www.youtube.com/watch?v=sM_xHs-JSRs
+URL:https://www.youtube.com/watch?v=sM_xHs-JSRs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T180000Z
+UID:pandascore-match-1497506@esport-ics
+DTSTART:20260528T180000Z
+DTEND:20260528T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:TOR vs CRR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T193000Z
+UID:pandascore-match-1497510@esport-ics
+DTSTART:20260529T193000Z
+DTEND:20260529T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:PAR vs CRR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T193000Z
+UID:pandascore-match-1497520@esport-ics
+DTSTART:20260612T193000Z
+DTEND:20260612T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:TEX vs CRR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T210000Z
+UID:pandascore-match-1497525@esport-ics
+DTSTART:20260613T210000Z
+DTEND:20260614T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:RIYF vs CRR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T210000Z
+UID:pandascore-match-1497535@esport-ics
+DTSTART:20260620T210000Z
+DTEND:20260621T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
+ \nWatch: https://www.twitch.tv/CallofDuty
+SUMMARY:FAZE.V vs CRR
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 END:VCALENDAR

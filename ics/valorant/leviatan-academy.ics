@@ -113,6 +113,83 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America South: ACE Masters 2026 - Playoffs\nWatch: 
  https://www.twitch.tv/valorant_la
 SUMMARY:Semifinal 1: LEV vs UW
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T190000Z
+UID:pandascore-match-1497558@esport-ics
+DTSTART:20260518T190000Z
+DTEND:20260518T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:9z vs LEV
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T220000Z
+UID:pandascore-match-1497563@esport-ics
+DTSTART:20260525T220000Z
+DTEND:20260526T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:LEV vs BST
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T190000Z
+UID:pandascore-match-1497568@esport-ics
+DTSTART:20260528T190000Z
+DTEND:20260528T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:UW vs LEV
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T220000Z
+UID:pandascore-match-1497571@esport-ics
+DTSTART:20260601T220000Z
+DTEND:20260602T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:KRÜ Spark vs LEV
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T220000Z
+UID:pandascore-match-1497577@esport-ics
+DTSTART:20260618T220000Z
+DTEND:20260619T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:LEV vs ShindeN
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T190000Z
+UID:pandascore-match-1497578@esport-ics
+DTSTART:20260622T190000Z
+DTEND:20260622T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:OX vs LEV
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T190000Z
+UID:pandascore-match-1497582@esport-ics
+DTSTART:20260624T190000Z
+DTEND:20260624T211500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: Stage 2 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/valorant_la
+SUMMARY:KRÜ vs LEV
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

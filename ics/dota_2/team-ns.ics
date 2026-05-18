@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team NS
+SLUG:team-ns
+BEGIN:VEVENT
+DTSTAMP:20260518T140000Z
+UID:pandascore-match-1497536@esport-ics
+DTSTART:20260518T140000Z
+DTEND:20260518T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:NS vs ST
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T110000Z
+UID:pandascore-match-1497537@esport-ics
+DTSTART:20260519T110000Z
+DTEND:20260519T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:NS vs Recrent
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T140000Z
+UID:pandascore-match-1497538@esport-ics
+DTSTART:20260519T140000Z
+DTEND:20260519T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:NS vs Nix
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+END:VCALENDAR

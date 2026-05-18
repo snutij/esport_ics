@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:by Owl Team
+SLUG:by-owl-team
+BEGIN:VEVENT
+DTSTAMP:20260518T170000Z
+UID:pandascore-match-1497542@esport-ics
+DTSTART:20260518T170000Z
+DTEND:20260518T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:TT vs BOT
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T140000Z
+UID:pandascore-match-1497544@esport-ics
+DTSTART:20260519T140000Z
+DTEND:20260519T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:ST vs BOT
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T170000Z
+UID:pandascore-match-1497545@esport-ics
+DTSTART:20260519T170000Z
+DTEND:20260519T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:Miposhka Team vs BOT
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+END:VCALENDAR
