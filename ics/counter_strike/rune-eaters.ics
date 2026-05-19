@@ -564,6 +564,17 @@ SUMMARY:Round 1: EF vs RE
 URL:https://kick.com/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260520T140000Z
+UID:pandascore-match-1498222@esport-ics
+DTSTART:20260520T140000Z
+DTEND:20260520T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 2: ex-RUBY vs RE
+URL;VALUE=URI:https://kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260521T170000Z
 UID:pandascore-match-1498594@esport-ics
 DTSTART:20260521T170000Z

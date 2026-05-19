@@ -527,4 +527,15 @@ DESCRIPTION:CCT Europe - Series 2 2026 - Group Stage\nWatch: https://kick.c
 SUMMARY:Round 2: AM vs Falcons Force
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T140000Z
+UID:pandascore-match-1498227@esport-ics
+DTSTART:20260521T140000Z
+DTEND:20260521T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 2: AM vs G1
+URL;VALUE=URI:https://kick.com/bcgamemasters
+END:VEVENT
 END:VCALENDAR

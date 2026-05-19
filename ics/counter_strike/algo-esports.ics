@@ -671,6 +671,17 @@ SUMMARY:Upper bracket quarterfinal 2: ALGO vs INF
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260520T170000Z
+UID:pandascore-match-1498224@esport-ics
+DTSTART:20260520T170000Z
+DTEND:20260520T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 2: ALGO vs HERO.A
+URL;VALUE=URI:https://kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260521T140000Z
 UID:pandascore-match-1489278@esport-ics
 DTSTART:20260521T140000Z
