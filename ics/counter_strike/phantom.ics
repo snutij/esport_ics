@@ -677,6 +677,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 2 2026 - Group Stage\nWatch: https://kick.c
  om/cct_cs2
 SUMMARY:Round 1: PHA vs TNC
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T080000Z
+UID:pandascore-match-1489276@esport-ics
+DTSTART:20260521T080000Z
+DTEND:20260521T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 2 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs2
+SUMMARY:Round 2: PHA vs Leo
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

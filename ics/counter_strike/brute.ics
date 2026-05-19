@@ -614,6 +614,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 2 2026 - Group Stage\nWatch: https://kick.c
  om/cct_cs2
 SUMMARY:Round 1: AM vs BRUTE
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T110000Z
+UID:pandascore-match-1489277@esport-ics
+DTSTART:20260521T110000Z
+DTEND:20260521T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 2 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs2
+SUMMARY:Round 2: FNC vs BRUTE
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

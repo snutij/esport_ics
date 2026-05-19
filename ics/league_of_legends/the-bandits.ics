@@ -144,6 +144,17 @@ CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Spring 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/road_of_legends
 SUMMARY:Upper bracket semifinal 2: BAN vs SEC
+URL:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T160000Z
+UID:pandascore-match-1490324@esport-ics
+DTSTART:20260528T160000Z
+DTEND:20260528T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Spring 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/road_of_legends
+SUMMARY:Upper bracket final: FEC vs BAN
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 END:VCALENDAR
