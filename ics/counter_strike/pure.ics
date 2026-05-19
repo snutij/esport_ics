@@ -152,6 +152,24 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/benccce
 SUMMARY:Lower Bracket Quarterfinal 2: PURE vs Honvéd
-URL;VALUE=URI:https://www.twitch.tv/benccce
+URL:https://www.twitch.tv/benccce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T160000Z
+UID:pandascore-match-1499172@esport-ics
+DTSTART:20260519T160000Z
+DTEND:20260519T164500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:PURE vs BJNG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T173000Z
+UID:pandascore-match-1499174@esport-ics
+DTSTART:20260519T173000Z
+DTEND:20260519T181500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:PeePuP vs PURE
 END:VEVENT
 END:VCALENDAR
