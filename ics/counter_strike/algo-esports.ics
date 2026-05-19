@@ -635,7 +635,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Lower bracket quarterfinal 1: WRAITH PCIFIC vs ALGO
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260519T170000Z
@@ -647,5 +647,16 @@ DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
  nWatch: https://kick.com/bcgamemasters
 SUMMARY:Round 1: URSA vs ALGO
 URL;VALUE=URI:https://kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T103000Z
+UID:pandascore-match-1499177@esport-ics
+DTSTART:20260520T103000Z
+DTEND:20260520T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 49 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket quarterfinal 2: TBD vs ALGO
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

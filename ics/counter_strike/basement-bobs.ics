@@ -98,6 +98,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Round of 16 match 8: MZP vs BB
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T093000Z
+UID:pandascore-match-1498672@esport-ics
+DTSTART:20260519T093000Z
+DTEND:20260519T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 1: BB vs Sunset
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

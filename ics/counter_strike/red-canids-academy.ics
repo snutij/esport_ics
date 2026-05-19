@@ -183,7 +183,9 @@ UID:pandascore-match-1494581@esport-ics
 DTSTART:20260519T190000Z
 DTEND:20260519T194500Z
 CLASS:PUBLIC
-DESCRIPTION:Gamers Club Liga Série A - May 2026 - Group A
+DESCRIPTION:Gamers Club Liga Série A - May 2026 - Group A\nWatch: https://
+ www.twitch.tv/gamersclubcs
 SUMMARY:BST.A vs RED.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR
