@@ -441,6 +441,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series#3 2026 - Group A\nWatch: 
  https://kick.com/cct_cs
 SUMMARY:Hashiras vs YN
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T080000Z
+UID:pandascore-match-1498580@esport-ics
+DTSTART:20260520T080000Z
+DTEND:20260520T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #3 2026 - Group A\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:Elimination match: YN vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
