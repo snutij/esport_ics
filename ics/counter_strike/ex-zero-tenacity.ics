@@ -853,4 +853,15 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #3 2026 - Group C\nWatch:
 SUMMARY:ex-Zero Tenacity vs CO
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T110000Z
+UID:pandascore-match-1500243@esport-ics
+DTSTART:20260525T110000Z
+DTEND:20260525T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
+ p C\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:TNC vs ex-Zero Tenacity
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR

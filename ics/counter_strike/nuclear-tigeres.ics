@@ -478,6 +478,17 @@ SUMMARY:Round of 16 match 7: 100T vs NTR
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260520T170000Z
+UID:pandascore-match-1471707@esport-ics
+DTSTART:20260520T170000Z
+DTEND:20260520T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Playoffs\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Quarterfinal 4: NEMI vs NTR
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260525T060000Z
 UID:pandascore-match-1498602@esport-ics
 DTSTART:20260525T060000Z

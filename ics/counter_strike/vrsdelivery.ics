@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VRSDelivery
+SLUG:vrsdelivery
+BEGIN:VEVENT
+DTSTAMP:20260525T140000Z
+UID:pandascore-match-1500247@esport-ics
+DTSTART:20260525T140000Z
+DTEND:20260525T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
+ p D\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:VRSDelivery vs RE
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+END:VCALENDAR

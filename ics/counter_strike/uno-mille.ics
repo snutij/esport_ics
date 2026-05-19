@@ -682,6 +682,17 @@ SUMMARY:Round 5: VEXA vs UNO
 URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260521T230000Z
+UID:pandascore-match-1484536@esport-ics
+DTSTART:20260521T230000Z
+DTEND:20260522T011500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 3 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/dust2br
+SUMMARY:Quarterfinal 2: FDB vs UNO
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260530T190000Z
 UID:pandascore-match-1487705@esport-ics
 DTSTART:20260530T190000Z

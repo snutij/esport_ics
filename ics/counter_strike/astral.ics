@@ -705,6 +705,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #3 2026 - Group B\nWatch:
   https://kick.com/cct_cs
 SUMMARY:ASTR vs CSH.P
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T110000Z
+UID:pandascore-match-1498585@esport-ics
+DTSTART:20260520T110000Z
+DTEND:20260520T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #3 2026 - Group B\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:Elimination match: ASTR vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T110000Z
+UID:pandascore-match-1500237@esport-ics
+DTSTART:20260523T110000Z
+DTEND:20260523T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
+ p B\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:OMG vs ASTR
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
