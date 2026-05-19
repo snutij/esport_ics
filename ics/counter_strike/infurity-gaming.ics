@@ -575,6 +575,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 49 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: SNG vs INF
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T103000Z
+UID:pandascore-match-1499177@esport-ics
+DTSTART:20260520T103000Z
+DTEND:20260520T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 49 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket quarterfinal 2: INF vs ALGO
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
