@@ -533,6 +533,61 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 1 2026 - Playoffs\nWatch: https://kick.com/
  cct_cs
 SUMMARY:Round of 16 match 2: FNC vs HAVU
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T080000Z
+UID:pandascore-match-1501225@esport-ics
+DTSTART:20260521T080000Z
+DTEND:20260521T084500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:ICE vs HAVU
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T091500Z
+UID:pandascore-match-1501229@esport-ics
+DTSTART:20260521T091500Z
+DTEND:20260521T100000Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:INF vs HAVU
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T103000Z
+UID:pandascore-match-1501232@esport-ics
+DTSTART:20260521T103000Z
+DTEND:20260521T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:HAVU vs ACE
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T114500Z
+UID:pandascore-match-1501262@esport-ics
+DTSTART:20260521T114500Z
+DTEND:20260521T123000Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:HAVU vs CHAOS
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T130000Z
+UID:pandascore-match-1501286@esport-ics
+DTSTART:20260521T130000Z
+DTEND:20260521T134500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:KOL vs HAVU
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR

@@ -334,6 +334,61 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest 2026 - Group Stage\nWatch: https://www.twitch.t
  v/pgl_cs2
 SUMMARY:Round 4: B8 vs ICE
-URL;VALUE=URI:https://www.twitch.tv/pgl_cs2
+URL:https://www.twitch.tv/pgl_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T080000Z
+UID:pandascore-match-1501225@esport-ics
+DTSTART:20260521T080000Z
+DTEND:20260521T084500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:ICE vs HAVU
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T091500Z
+UID:pandascore-match-1501228@esport-ics
+DTSTART:20260521T091500Z
+DTEND:20260521T100000Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:ICE vs ACE
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T103000Z
+UID:pandascore-match-1501246@esport-ics
+DTSTART:20260521T103000Z
+DTEND:20260521T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:CHAOS vs ICE
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T114500Z
+UID:pandascore-match-1501259@esport-ics
+DTSTART:20260521T114500Z
+DTEND:20260521T123000Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:KOL vs ICE
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T130000Z
+UID:pandascore-match-1501285@esport-ics
+DTSTART:20260521T130000Z
+DTEND:20260521T134500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:INF vs ICE
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR

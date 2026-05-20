@@ -375,6 +375,39 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 6 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Grand final: ARC vs MZP
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T150000Z
+UID:pandascore-match-1501329@esport-ics
+DTSTART:20260521T150000Z
+DTEND:20260521T154500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group B\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:OG vs MZP
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T161500Z
+UID:pandascore-match-1501342@esport-ics
+DTSTART:20260521T161500Z
+DTEND:20260521T170000Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group B\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:MZP vs RBLS
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T173000Z
+UID:pandascore-match-1501350@esport-ics
+DTSTART:20260521T173000Z
+DTEND:20260521T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group B\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:BCA vs MZP
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR

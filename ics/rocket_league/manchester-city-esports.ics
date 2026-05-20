@@ -91,7 +91,7 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Paris 2026 - Group B\nWatch: https://www.twitch.tv
  /rocketleague
 SUMMARY:MCE vs mibr
-URL;VALUE=URI:https://www.twitch.tv/rocketleague
+URL:https://www.twitch.tv/rocketleague
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260520T160000Z
@@ -100,8 +100,8 @@ DTSTART:20260520T160000Z
 DTEND:20260520T194500Z
 CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Paris 2026 - Group B\nWatch: https://www.twitch.tv
- /rocketleague
+ /RLEsports
 SUMMARY:MCE vs 5F
-URL;VALUE=URI:https://www.twitch.tv/rocketleague
+URL;VALUE=URI:https://www.twitch.tv/RLEsports
 END:VEVENT
 END:VCALENDAR

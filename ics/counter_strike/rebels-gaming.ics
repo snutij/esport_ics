@@ -607,6 +607,39 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Play-In\nWatch: https://
  kick.com/nodwin_cs2
 SUMMARY:WAL vs RBLS
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T150000Z
+UID:pandascore-match-1501341@esport-ics
+DTSTART:20260521T150000Z
+DTEND:20260521T154500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group B\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:BCA vs RBLS
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T161500Z
+UID:pandascore-match-1501342@esport-ics
+DTSTART:20260521T161500Z
+DTEND:20260521T170000Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group B\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:MZP vs RBLS
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T173000Z
+UID:pandascore-match-1501349@esport-ics
+DTSTART:20260521T173000Z
+DTEND:20260521T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group B\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:OG vs RBLS
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR

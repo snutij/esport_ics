@@ -463,6 +463,61 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 26 2026 - Playoffs\nWatch: https://kick.c
  om/exort_en2
 SUMMARY:Quarterfinal 3: Lavked vs INF
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T080000Z
+UID:pandascore-match-1501227@esport-ics
+DTSTART:20260521T080000Z
+DTEND:20260521T084500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:INF vs CHAOS
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T091500Z
+UID:pandascore-match-1501229@esport-ics
+DTSTART:20260521T091500Z
+DTEND:20260521T100000Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:INF vs HAVU
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T103000Z
+UID:pandascore-match-1501231@esport-ics
+DTSTART:20260521T103000Z
+DTEND:20260521T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:INF vs KOL
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T114500Z
+UID:pandascore-match-1501258@esport-ics
+DTSTART:20260521T114500Z
+DTEND:20260521T123000Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:INF vs ACE
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T130000Z
+UID:pandascore-match-1501285@esport-ics
+DTSTART:20260521T130000Z
+DTEND:20260521T134500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
+ https://www.twitch.tv/bcgamemasters
+SUMMARY:INF vs ICE
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR
