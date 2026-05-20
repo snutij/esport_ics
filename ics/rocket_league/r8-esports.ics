@@ -27,4 +27,15 @@ DESCRIPTION:RLCS Major - Paris 2026 - Group D\nWatch: https://www.twitch.tv
 SUMMARY:M8 vs R8
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T170000Z
+UID:pandascore-match-1501919@esport-ics
+DTSTART:20260521T170000Z
+DTEND:20260521T204500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Paris 2026 - Group D\nWatch: https://www.twitch.tv
+ /rocketleague
+SUMMARY:R8 vs FURIA
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
 END:VCALENDAR

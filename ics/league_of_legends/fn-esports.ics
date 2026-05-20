@@ -210,6 +210,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Spring 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/lolesports_ar
 SUMMARY:Lower bracket final: FN vs BAM
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T160000Z
+UID:pandascore-match-1481445@esport-ics
+DTSTART:20260521T160000Z
+DTEND:20260521T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Spring 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/lolesports_ar
+SUMMARY:Grand final: ANB vs FN
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR
