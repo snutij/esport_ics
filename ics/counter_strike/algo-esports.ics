@@ -649,17 +649,6 @@ SUMMARY:Round 1: URSA vs ALGO
 URL:https://kick.com/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T080000Z
-UID:pandascore-match-1493107@esport-ics
-DTSTART:20260520T080000Z
-DTEND:20260520T101500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
- https://kick.com/eplcs_en
-SUMMARY:Lower bracket semifinal: ALGO vs EAC
-URL;VALUE=URI:https://kick.com/eplcs_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260520T103000Z
 UID:pandascore-match-1499177@esport-ics
 DTSTART:20260520T103000Z
@@ -680,6 +669,17 @@ DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
  nWatch: https://kick.com/bcgamemasters
 SUMMARY:Round 2: ALGO vs HERO.A
 URL;VALUE=URI:https://kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T080000Z
+UID:pandascore-match-1493107@esport-ics
+DTSTART:20260521T080000Z
+DTEND:20260521T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Lower bracket semifinal: ALGO vs EAC
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260521T140000Z

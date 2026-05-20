@@ -600,6 +600,17 @@ SUMMARY:Round 1: ATH vs KSM
 URL:https://kick.com/exort_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260520T153000Z
+UID:pandascore-match-1500780@esport-ics
+DTSTART:20260520T153000Z
+DTEND:20260520T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 2: Melilla Titans vs KSM
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260525T170000Z
 UID:pandascore-match-1463408@esport-ics
 DTSTART:20260525T170000Z

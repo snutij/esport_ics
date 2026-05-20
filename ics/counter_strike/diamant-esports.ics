@@ -199,4 +199,24 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:hindsight vs Diamant Esports
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T093000Z
+UID:pandascore-match-1500778@esport-ics
+DTSTART:20260520T093000Z
+DTEND:20260520T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 2: BB vs Diamant Esports
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T180000Z
+UID:pandascore-match-1500768@esport-ics
+DTSTART:20260520T180000Z
+DTEND:20260520T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+SUMMARY:Diamant Esports vs COW
+END:VEVENT
 END:VCALENDAR

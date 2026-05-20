@@ -17,25 +17,25 @@ SUMMARY:NS vs ST
 URL:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T140000Z
-UID:pandascore-match-1497540@esport-ics
-DTSTART:20260520T140000Z
-DTEND:20260520T161500Z
-CLASS:PUBLIC
-DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Group A\nWatch: htt
- ps://www.twitch.tv/betboom_sb_dota
-SUMMARY:Nix vs ST
-URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260521T140000Z
+DTSTAMP:20260521T130000Z
 UID:pandascore-match-1497541@esport-ics
-DTSTART:20260521T140000Z
-DTEND:20260521T161500Z
+DTSTART:20260521T130000Z
+DTEND:20260521T151500Z
 CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Group A\nWatch: htt
  ps://www.twitch.tv/betboom_sb_dota
 SUMMARY:ST vs Recrent
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T170000Z
+UID:pandascore-match-1497540@esport-ics
+DTSTART:20260521T170000Z
+DTEND:20260521T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:Nix vs ST
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 END:VCALENDAR
