@@ -814,7 +814,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 49 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket quarterfinal 1: LPH vs MANA
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260523T080000Z
@@ -826,5 +826,16 @@ DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
  p A\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:G1 vs MANA
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T080000Z
+UID:pandascore-match-1499180@esport-ics
+DTSTART:20260523T080000Z
+DTEND:20260523T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 49 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket semifinal 1: MANA vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

@@ -193,4 +193,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - China Qualifier 2026 - Stage 2
 SUMMARY:Lower bracket final: TEC vs AG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T090000Z
+UID:pandascore-match-1500818@esport-ics
+DTSTART:20260521T090000Z
+DTEND:20260521T111500Z
+CLASS:PUBLIC
+DESCRIPTION:China Evolution Series - Act 2 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/valorantesports_cn
+SUMMARY:Round of 16 match 1: AG vs DRG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
 END:VCALENDAR

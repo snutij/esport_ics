@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - China Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Grand final: EDG vs XLG
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T090000Z
+UID:pandascore-match-1500824@esport-ics
+DTSTART:20260524T090000Z
+DTEND:20260524T111500Z
+CLASS:PUBLIC
+DESCRIPTION:China Evolution Series - Act 2 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/valorantesports_cn
+SUMMARY:Round of 16 match 7: TYLOO vs EDG
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR
