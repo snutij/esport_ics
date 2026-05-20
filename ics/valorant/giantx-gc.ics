@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers EMEA Stage 2 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/valorant_emea
 SUMMARY:Quarterfinal 1: GX GC vs TMO
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T150000Z
+UID:pandascore-match-1496628@esport-ics
+DTSTART:20260521T150000Z
+DTEND:20260521T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers EMEA Stage 2 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/valorant_emea
+SUMMARY:Upper bracket semifinal 1: M8.GC vs GX GC
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

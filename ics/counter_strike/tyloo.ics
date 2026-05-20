@@ -366,6 +366,17 @@ SUMMARY:Upper bracket semifinal 2: LGC vs TYLOO
 URL:https://www.twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260521T090000Z
+UID:pandascore-match-1481073@esport-ics
+DTSTART:20260521T090000Z
+DTEND:20260521T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CS Asia Championships - 2026 - Group A\nWatch: https://www.twit
+ ch.tv/pgl
+SUMMARY:Lower bracket semifinal 1: TYLOO vs TBD
+URL;VALUE=URI:https://www.twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260602T120000Z
 UID:pandascore-match-1494587@esport-ics
 DTSTART:20260602T120000Z

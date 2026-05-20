@@ -740,4 +740,15 @@ DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
 SUMMARY:OMG vs ASTR
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T110000Z
+UID:pandascore-match-1498587@esport-ics
+DTSTART:20260523T110000Z
+DTEND:20260523T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #3 2026 - Group B\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:Decider Match: ASTR vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR
