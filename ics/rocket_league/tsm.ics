@@ -47,6 +47,28 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Paris 2026 - Group C\nWatch: https://www.twitch.tv
  /rlesports
 SUMMARY:NIP vs TSM
-URL;VALUE=URI:https://www.twitch.tv/rlesports
+URL:https://www.twitch.tv/rlesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T120000Z
+UID:pandascore-match-1501913@esport-ics
+DTSTART:20260521T120000Z
+DTEND:20260521T154500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Paris 2026 - Group C\nWatch: https://www.twitch.tv
+ /rocketleague
+SUMMARY:SR vs TSM
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T160000Z
+UID:pandascore-match-1501915@esport-ics
+DTSTART:20260521T160000Z
+DTEND:20260521T194500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Paris 2026 - Group C\nWatch: https://www.twitch.tv
+ /rocketleague
+SUMMARY:TWIS vs TSM
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

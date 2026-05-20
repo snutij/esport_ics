@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:EBL - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/fort
  una
 SUMMARY:Lower bracket quarterfinal 2: TSP vs LLH
+URL:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T180000Z
+UID:pandascore-match-1477841@esport-ics
+DTSTART:20260521T180000Z
+DTEND:20260521T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/fort
+ una
+SUMMARY:Lower bracket semifinal: TSC vs LLH
 URL;VALUE=URI:https://www.twitch.tv/fortuna
 END:VEVENT
 END:VCALENDAR

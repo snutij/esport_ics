@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Paris 2026 - Group A\nWatch: https://www.twitch.tv
  /RLEsports
 SUMMARY:WC vs FUT
-URL;VALUE=URI:https://www.twitch.tv/RLEsports
+URL:https://www.twitch.tv/RLEsports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T150000Z
+UID:pandascore-match-1501908@esport-ics
+DTSTART:20260521T150000Z
+DTEND:20260521T184500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Paris 2026 - Group A\nWatch: https://www.twitch.tv
+ /rocketleague
+SUMMARY:VIT vs FUT
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

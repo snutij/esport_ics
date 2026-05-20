@@ -124,6 +124,28 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Paris 2026 - Group D\nWatch: https://www.twitch.tv
  /rocketleague
 SUMMARY:SSG vs R8
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T130000Z
+UID:pandascore-match-1501917@esport-ics
+DTSTART:20260521T130000Z
+DTEND:20260521T164500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Paris 2026 - Group D\nWatch: https://www.twitch.tv
+ /rocketleague
+SUMMARY:SSG vs FURIA
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T170000Z
+UID:pandascore-match-1501918@esport-ics
+DTSTART:20260521T170000Z
+DTEND:20260521T204500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Paris 2026 - Group D\nWatch: https://www.twitch.tv
+ /rocketleague
+SUMMARY:M8 vs SSG
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

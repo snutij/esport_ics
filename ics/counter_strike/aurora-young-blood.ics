@@ -435,6 +435,17 @@ DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:GE vs AUR.YB
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260522T130000Z
+UID:pandascore-match-1501896@esport-ics
+DTSTART:20260522T130000Z
+DTEND:20260522T151500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - 2026 - Playoffs\nWatch: https://www.twitch.tv/
+ gluck_esports
+SUMMARY:Upper bracket quarterfinal 3: TSAB vs AUR.YB
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260526T060000Z
 UID:pandascore-match-1498607@esport-ics
 DTSTART:20260526T060000Z

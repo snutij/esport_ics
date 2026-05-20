@@ -688,6 +688,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #3 2026 - Group B\nWatch:
   https://kick.com/cct_cs
 SUMMARY:Winners match: CSH.P vs MSC
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T130000Z
+UID:pandascore-match-1501897@esport-ics
+DTSTART:20260522T130000Z
+DTEND:20260522T151500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - 2026 - Playoffs\nWatch: https://www.twitch.tv/
+ gluck_esports
+SUMMARY:Upper bracket quarterfinal 4: CSH.P vs OXUJI
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

@@ -56,6 +56,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs6
 SUMMARY:Lower bracket round 1 match 4: bankaPEPSI vs BAKS
-URL;VALUE=URI:https://kick.com/cct_cs6
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T070000Z
+UID:pandascore-match-1501895@esport-ics
+DTSTART:20260522T070000Z
+DTEND:20260522T091500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - 2026 - Playoffs\nWatch: https://www.twitch.tv/
+ gluck_esports
+SUMMARY:Upper bracket quarterfinal 2: BAKS vs X-CITY
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

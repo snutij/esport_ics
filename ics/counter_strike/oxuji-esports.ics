@@ -693,6 +693,17 @@ SUMMARY:Round of 16 match 8: FOKUS vs OXUJI
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260522T130000Z
+UID:pandascore-match-1501897@esport-ics
+DTSTART:20260522T130000Z
+DTEND:20260522T151500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - 2026 - Playoffs\nWatch: https://www.twitch.tv/
+ gluck_esports
+SUMMARY:Upper bracket quarterfinal 4: CSH.P vs OXUJI
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260525T060000Z
 UID:pandascore-match-1498602@esport-ics
 DTSTART:20260525T060000Z

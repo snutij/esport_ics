@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:X-CITY
+SLUG:x-city
+BEGIN:VEVENT
+DTSTAMP:20260522T070000Z
+UID:pandascore-match-1501895@esport-ics
+DTSTART:20260522T070000Z
+DTEND:20260522T091500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - 2026 - Playoffs\nWatch: https://www.twitch.tv/
+ gluck_esports
+SUMMARY:Upper bracket quarterfinal 2: BAKS vs X-CITY
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+END:VCALENDAR
