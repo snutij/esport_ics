@@ -368,7 +368,18 @@ CLASS:PUBLIC
 DESCRIPTION:CS Asia Championships - 2026 - Group B\nWatch: https://www.twit
  ch.tv/pgl
 SUMMARY:Upper bracket quarterfinal 2: B8 vs NIP
-URL;VALUE=URI:https://www.twitch.tv/pgl
+URL:https://www.twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T080000Z
+UID:pandascore-match-1481087@esport-ics
+DTSTART:20260520T080000Z
+DTEND:20260520T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CS Asia Championships - 2026 - Group B\nWatch: https://www.twit
+ ch.tv/pgl_cs2
+SUMMARY:Upper bracket semifinal 1: MGLZ vs B8
+URL;VALUE=URI:https://www.twitch.tv/pgl_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260602T120000Z
