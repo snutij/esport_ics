@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:North American Challengers League - Spring 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/NACL
 SUMMARY:Upper bracket quarterfinal 1: CCG vs WU
+URL:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T200000Z
+UID:pandascore-match-1494596@esport-ics
+DTSTART:20260521T200000Z
+DTEND:20260521T234500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/NACL
+SUMMARY:Lower bracket round 1 match 1: WU vs TBD
 URL;VALUE=URI:https://www.twitch.tv/NACL
 END:VEVENT
 END:VCALENDAR
