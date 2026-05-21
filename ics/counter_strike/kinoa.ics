@@ -103,6 +103,17 @@ SUMMARY:Lower bracket final: Kinoa vs TBD
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260522T080000Z
+UID:pandascore-match-1493105@esport-ics
+DTSTART:20260522T080000Z
+DTEND:20260522T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Grand final: BIG.A vs Kinoa
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260522T103000Z
 UID:pandascore-match-1499189@esport-ics
 DTSTART:20260522T103000Z
@@ -110,7 +121,7 @@ DTEND:20260522T124500Z
 CLASS:PUBLIC
 DESCRIPTION:United21 - Season 49 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
-SUMMARY:Lower bracket round 1 match 2: Kinoa vs TBD
+SUMMARY:Lower bracket round 1 match 2: Kinoa vs MASQ
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

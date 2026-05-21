@@ -212,7 +212,7 @@ CLASS:PUBLIC
 DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 1 - Gr
  oup B\nWatch: https://play.sooplive.com/afgsl
 SUMMARY:Decider match: Classic vs TBD
-URL;VALUE=URI:https://play.sooplive.com/afgsl
+URL:https://play.sooplive.com/afgsl
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260523T100000Z
@@ -257,5 +257,15 @@ DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group A\nWatch: ht
  tps://www.twitch.tv/wardiii
 SUMMARY:ByuN vs Classic
 URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T093000Z
+UID:pandascore-match-1498568@esport-ics
+DTSTART:20260527T093000Z
+DTEND:20260527T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 2 - Gr
+ oup A
+SUMMARY:herO vs Classic
 END:VEVENT
 END:VCALENDAR

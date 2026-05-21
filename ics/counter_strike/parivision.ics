@@ -344,6 +344,17 @@ CLASS:PUBLIC
 DESCRIPTION:CS Asia Championships - 2026 - Group B\nWatch: https://www.twit
  ch.tv/pgl
 SUMMARY:Lower bracket semifinal 1: PRV vs LVG
+URL:https://www.twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T060000Z
+UID:pandascore-match-1481094@esport-ics
+DTSTART:20260522T060000Z
+DTEND:20260522T081500Z
+CLASS:PUBLIC
+DESCRIPTION:CS Asia Championships - 2026 - Group B\nWatch: https://www.twit
+ ch.tv/pgl
+SUMMARY:Lower bracket final: MGLZ vs PRV
 URL;VALUE=URI:https://www.twitch.tv/pgl
 END:VEVENT
 END:VCALENDAR
