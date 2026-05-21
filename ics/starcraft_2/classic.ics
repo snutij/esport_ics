@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 1 - Gr
  oup B\nWatch: https://play.sooplive.com/afgsl
 SUMMARY:Classic vs Solar
+URL:https://play.sooplive.com/afgsl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T123000Z
+UID:pandascore-match-1498567@esport-ics
+DTSTART:20260521T123000Z
+DTEND:20260521T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 1 - Gr
+ oup B\nWatch: https://play.sooplive.com/afgsl
+SUMMARY:Decider match: Classic vs TBD
 URL;VALUE=URI:https://play.sooplive.com/afgsl
 END:VEVENT
 BEGIN:VEVENT
@@ -213,5 +224,38 @@ DESCRIPTION:RSL Revival - Season 5 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/tastelesstv
 SUMMARY:Lower bracket round 1 match 1: Classic vs SHIN
 URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T114000Z
+UID:pandascore-match-1502605@esport-ics
+DTSTART:20260523T114000Z
+DTEND:20260523T135500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group A\nWatch: ht
+ tps://www.twitch.tv/wardiii
+SUMMARY:Zoun vs Classic
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T130000Z
+UID:pandascore-match-1502621@esport-ics
+DTSTART:20260523T130000Z
+DTEND:20260523T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group A\nWatch: ht
+ tps://www.twitch.tv/wardiii
+SUMMARY:herO vs Classic
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T142000Z
+UID:pandascore-match-1502623@esport-ics
+DTSTART:20260523T142000Z
+DTEND:20260523T163500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group A\nWatch: ht
+ tps://www.twitch.tv/wardiii
+SUMMARY:ByuN vs Classic
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

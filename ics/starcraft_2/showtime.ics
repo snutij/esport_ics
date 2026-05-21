@@ -124,6 +124,28 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV Team Liquid Map Contest - Season 16 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/wardiii
 SUMMARY:Lowe bracket round 1 match 4: TBD vs ShoWTimE
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T114000Z
+UID:pandascore-match-1502542@esport-ics
+DTSTART:20260521T114000Z
+DTEND:20260521T135500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:ShoWTimE vs Nicoract
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T134000Z
+UID:pandascore-match-1502556@esport-ics
+DTSTART:20260521T134000Z
+DTEND:20260521T155500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Rogue vs ShoWTimE
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

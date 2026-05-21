@@ -336,14 +336,14 @@ SUMMARY:Upper bracket semifinal 2: MIBR vs PRV
 URL:https://www.twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260521T120000Z
+DTSTAMP:20260521T123000Z
 UID:pandascore-match-1481092@esport-ics
-DTSTART:20260521T120000Z
-DTEND:20260521T141500Z
+DTSTART:20260521T123000Z
+DTEND:20260521T144500Z
 CLASS:PUBLIC
 DESCRIPTION:CS Asia Championships - 2026 - Group B\nWatch: https://www.twit
  ch.tv/pgl
-SUMMARY:Lower bracket semifinal 1: PRV vs TBD
+SUMMARY:Lower bracket semifinal 1: PRV vs LVG
 URL;VALUE=URI:https://www.twitch.tv/pgl
 END:VEVENT
 END:VCALENDAR

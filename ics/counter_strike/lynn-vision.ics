@@ -236,6 +236,17 @@ SUMMARY:Lower bracket quarterfinal 1: LVG vs NIP
 URL:https://www.twitch.tv/pgl
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260521T123000Z
+UID:pandascore-match-1481092@esport-ics
+DTSTART:20260521T123000Z
+DTEND:20260521T144500Z
+CLASS:PUBLIC
+DESCRIPTION:CS Asia Championships - 2026 - Group B\nWatch: https://www.twit
+ ch.tv/pgl
+SUMMARY:Lower bracket semifinal 1: PRV vs LVG
+URL;VALUE=URI:https://www.twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260602T120000Z
 UID:pandascore-match-1494590@esport-ics
 DTSTART:20260602T120000Z

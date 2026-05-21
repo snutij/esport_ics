@@ -248,6 +248,39 @@ SUMMARY:Upper bracket semifinal 2: Clem vs Lambo
 URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260524T122000Z
+UID:pandascore-match-1502646@esport-ics
+DTSTART:20260524T122000Z
+DTEND:20260524T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group B\nWatch: ht
+ tps://www.twitch.tv/wardiii
+SUMMARY:SHIN vs Clem
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T134000Z
+UID:pandascore-match-1502663@esport-ics
+DTSTART:20260524T134000Z
+DTEND:20260524T155500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group B\nWatch: ht
+ tps://www.twitch.tv/wardiii
+SUMMARY:Solar vs Clem
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T142000Z
+UID:pandascore-match-1502664@esport-ics
+DTSTART:20260524T142000Z
+DTEND:20260524T163500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group B\nWatch: ht
+ tps://www.twitch.tv/wardiii
+SUMMARY:MaxPax vs Clem
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260527T101500Z
 UID:pandascore-match-1498570@esport-ics
 DTSTART:20260527T101500Z

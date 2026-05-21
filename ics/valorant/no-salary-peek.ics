@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:No Salary Peek
+SLUG:no-salary-peek
+BEGIN:VEVENT
+DTSTAMP:20260522T093000Z
+UID:pandascore-match-1502485@esport-ics
+DTSTART:20260522T093000Z
+DTEND:20260522T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:XØ vs NSP
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T123000Z
+UID:pandascore-match-1502490@esport-ics
+DTSTART:20260525T123000Z
+DTEND:20260525T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:AST vs NSP
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T123000Z
+UID:pandascore-match-1502496@esport-ics
+DTSTART:20260530T123000Z
+DTEND:20260530T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:RAD vs NSP
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T093000Z
+UID:pandascore-match-1502499@esport-ics
+DTSTART:20260601T093000Z
+DTEND:20260601T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:NSP vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T093000Z
+UID:pandascore-match-1502501@esport-ics
+DTSTART:20260602T093000Z
+DTEND:20260602T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:LSE vs NSP
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T123000Z
+UID:pandascore-match-1502504@esport-ics
+DTSTART:20260603T123000Z
+DTEND:20260603T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:NSP vs S8UL
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+END:VCALENDAR

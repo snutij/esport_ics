@@ -213,9 +213,9 @@ DTSTART:20260521T150000Z
 DTEND:20260521T154500Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group B\nWatch: 
- https://www.twitch.tv/bcgamemasters
+ https://kick.com/bcgamemasters
 SUMMARY:OG vs MZP
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL;VALUE=URI:https://kick.com/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260521T161500Z
@@ -224,9 +224,9 @@ DTSTART:20260521T161500Z
 DTEND:20260521T170000Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group B\nWatch: 
- https://www.twitch.tv/bcgamemasters
+ https://kick.com/bcgamemastersb
 SUMMARY:BCA vs OG
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL;VALUE=URI:https://kick.com/bcgamemastersb
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260521T173000Z

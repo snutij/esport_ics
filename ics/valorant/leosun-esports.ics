@@ -69,6 +69,72 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - South Asia: Split 1 2026 - Group Stage\nWatch: https://ww
  w.youtube.com/watch?v=jCkazsQTEqE
 SUMMARY:LSE vs GDR
-URL;VALUE=URI:https://www.youtube.com/watch?v=jCkazsQTEqE
+URL:https://www.youtube.com/watch?v=jCkazsQTEqE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T093000Z
+UID:pandascore-match-1502487@esport-ics
+DTSTART:20260523T093000Z
+DTEND:20260523T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:RAD vs LSE
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260526T093000Z
+UID:pandascore-match-1502491@esport-ics
+DTSTART:20260526T093000Z
+DTEND:20260526T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:LSE vs S8UL
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T123000Z
+UID:pandascore-match-1502494@esport-ics
+DTSTART:20260527T123000Z
+DTEND:20260527T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:LSE vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T093000Z
+UID:pandascore-match-1502497@esport-ics
+DTSTART:20260531T093000Z
+DTEND:20260531T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:SIGN Esports vs LSE
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T093000Z
+UID:pandascore-match-1502501@esport-ics
+DTSTART:20260602T093000Z
+DTEND:20260602T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:LSE vs NSP
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T093000Z
+UID:pandascore-match-1502508@esport-ics
+DTSTART:20260605T093000Z
+DTEND:20260605T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:XØ vs LSE
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
 END:VEVENT
 END:VCALENDAR

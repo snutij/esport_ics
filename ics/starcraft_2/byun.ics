@@ -213,4 +213,37 @@ DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 1 - Gr
  oup A
 SUMMARY:SHIN vs ByuN
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T122000Z
+UID:pandascore-match-1502620@esport-ics
+DTSTART:20260523T122000Z
+DTEND:20260523T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group A\nWatch: ht
+ tps://www.twitch.tv/wardiii
+SUMMARY:ByuN vs herO
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T134000Z
+UID:pandascore-match-1502622@esport-ics
+DTSTART:20260523T134000Z
+DTEND:20260523T155500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group A\nWatch: ht
+ tps://www.twitch.tv/wardiii
+SUMMARY:ByuN vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T142000Z
+UID:pandascore-match-1502623@esport-ics
+DTSTART:20260523T142000Z
+DTEND:20260523T163500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group A\nWatch: ht
+ tps://www.twitch.tv/wardiii
+SUMMARY:ByuN vs Classic
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
 END:VCALENDAR

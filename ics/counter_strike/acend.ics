@@ -562,7 +562,7 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
  https://kick.com/bcgamemastersb
 SUMMARY:ACE vs KOL
-URL;VALUE=URI:https://kick.com/bcgamemastersb
+URL:https://kick.com/bcgamemastersb
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260521T091500Z
@@ -573,13 +573,13 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
  https://www.twitch.tv/bcgamemasters
 SUMMARY:ICE vs ACE
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260521T103000Z
+DTSTAMP:20260521T113000Z
 UID:pandascore-match-1501232@esport-ics
-DTSTART:20260521T103000Z
-DTEND:20260521T111500Z
+DTSTART:20260521T113000Z
+DTEND:20260521T121500Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
  https://kick.com/bcgamemastersb
@@ -587,15 +587,15 @@ SUMMARY:HAVU vs ACE
 URL;VALUE=URI:https://kick.com/bcgamemastersb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260521T114500Z
+DTSTAMP:20260521T121500Z
 UID:pandascore-match-1501258@esport-ics
-DTSTART:20260521T114500Z
-DTEND:20260521T123000Z
+DTSTART:20260521T121500Z
+DTEND:20260521T130000Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
- https://www.twitch.tv/bcgamemasters
+ https://kick.com/bcgamemasters
 SUMMARY:INF vs ACE
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL;VALUE=URI:https://kick.com/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260521T130000Z
@@ -604,8 +604,8 @@ DTSTART:20260521T130000Z
 DTEND:20260521T134500Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
- https://www.twitch.tv/bcgamemasters
+ https://kick.com/bcgamemastersc
 SUMMARY:ACE vs CHAOS
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL;VALUE=URI:https://kick.com/bcgamemastersc
 END:VEVENT
 END:VCALENDAR

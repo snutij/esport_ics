@@ -292,6 +292,39 @@ SUMMARY:Grand final: herO vs TBD
 URL:https://play.sooplive.com/gslenglish/294084291
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260523T110000Z
+UID:pandascore-match-1502604@esport-ics
+DTSTART:20260523T110000Z
+DTEND:20260523T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group A\nWatch: ht
+ tps://www.twitch.tv/wardiii
+SUMMARY:herO vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T122000Z
+UID:pandascore-match-1502620@esport-ics
+DTSTART:20260523T122000Z
+DTEND:20260523T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group A\nWatch: ht
+ tps://www.twitch.tv/wardiii
+SUMMARY:ByuN vs herO
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T130000Z
+UID:pandascore-match-1502621@esport-ics
+DTSTART:20260523T130000Z
+DTEND:20260523T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group A\nWatch: ht
+ tps://www.twitch.tv/wardiii
+SUMMARY:herO vs Classic
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260524T100000Z
 UID:pandascore-match-1487722@esport-ics
 DTSTART:20260524T100000Z

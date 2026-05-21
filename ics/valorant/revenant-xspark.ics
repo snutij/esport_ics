@@ -102,6 +102,83 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - South Asia: Split 1 2026 - Playoffs\nWatch: https://www.y
  outube.com/watch?v=VLS2L_0m-k4
 SUMMARY:Grand final: S8UL vs RXS
-URL;VALUE=URI:https://www.youtube.com/watch?v=VLS2L_0m-k4
+URL:https://www.youtube.com/watch?v=VLS2L_0m-k4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T123000Z
+UID:pandascore-match-1502484@esport-ics
+DTSTART:20260521T123000Z
+DTEND:20260521T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/watch?v=AJFG7rckwKo
+SUMMARY:RAD vs RXS
+URL;VALUE=URI:https://www.youtube.com/watch?v=AJFG7rckwKo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T123000Z
+UID:pandascore-match-1502488@esport-ics
+DTSTART:20260523T123000Z
+DTEND:20260523T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:AST vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T123000Z
+UID:pandascore-match-1502494@esport-ics
+DTSTART:20260527T123000Z
+DTEND:20260527T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:LSE vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T093000Z
+UID:pandascore-match-1502495@esport-ics
+DTSTART:20260530T093000Z
+DTEND:20260530T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:XØ vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T093000Z
+UID:pandascore-match-1502499@esport-ics
+DTSTART:20260601T093000Z
+DTEND:20260601T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:NSP vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T093000Z
+UID:pandascore-match-1502503@esport-ics
+DTSTART:20260603T093000Z
+DTEND:20260603T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:SIGN Esports vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T123000Z
+UID:pandascore-match-1502506@esport-ics
+DTSTART:20260604T123000Z
+DTEND:20260604T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:RXS vs S8UL
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:XØ Ind
+SLUG:xo-ind
+BEGIN:VEVENT
+DTSTAMP:20260522T093000Z
+UID:pandascore-match-1502485@esport-ics
+DTSTART:20260522T093000Z
+DTEND:20260522T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:XØ vs NSP
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T093000Z
+UID:pandascore-match-1502489@esport-ics
+DTSTART:20260525T093000Z
+DTEND:20260525T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:XØ vs RAD
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T093000Z
+UID:pandascore-match-1502495@esport-ics
+DTSTART:20260530T093000Z
+DTEND:20260530T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:XØ vs RXS
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T123000Z
+UID:pandascore-match-1502500@esport-ics
+DTSTART:20260601T123000Z
+DTEND:20260601T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:XØ vs S8UL
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T123000Z
+UID:pandascore-match-1502502@esport-ics
+DTSTART:20260602T123000Z
+DTEND:20260602T144500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:XØ vs AST
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T093000Z
+UID:pandascore-match-1502505@esport-ics
+DTSTART:20260604T093000Z
+DTEND:20260604T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:XØ vs SIGN Esports
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T093000Z
+UID:pandascore-match-1502508@esport-ics
+DTSTART:20260605T093000Z
+DTEND:20260605T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@NODWINgaming/live
+SUMMARY:XØ vs LSE
+URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+END:VCALENDAR

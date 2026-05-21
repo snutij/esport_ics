@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Strange
+SLUG:strange
+BEGIN:VEVENT
+DTSTAMP:20260528T110000Z
+UID:pandascore-match-1502591@esport-ics
+DTSTART:20260528T110000Z
+DTEND:20260528T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group C\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:SKillous vs Strange
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T114000Z
+UID:pandascore-match-1502599@esport-ics
+DTSTART:20260528T114000Z
+DTEND:20260528T135500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group C\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Lambo vs Strange
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T122000Z
+UID:pandascore-match-1502600@esport-ics
+DTSTART:20260528T122000Z
+DTEND:20260528T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group C\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Ryung vs Strange
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+END:VCALENDAR

@@ -38,4 +38,37 @@ DESCRIPTION:RSL Revival - Season 5 2026 - Playoffs\nWatch: https://www.twit
 SUMMARY:Upper bracket semifinal 2: Clem vs Lambo
 URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T114000Z
+UID:pandascore-match-1502599@esport-ics
+DTSTART:20260528T114000Z
+DTEND:20260528T135500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group C\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Lambo vs Strange
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T130000Z
+UID:pandascore-match-1502601@esport-ics
+DTSTART:20260528T130000Z
+DTEND:20260528T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group C\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Lambo vs Ryung
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T142000Z
+UID:pandascore-match-1502603@esport-ics
+DTSTART:20260528T142000Z
+DTEND:20260528T163500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group C\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:SKillous vs Lambo
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
 END:VCALENDAR
