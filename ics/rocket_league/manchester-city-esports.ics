@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS Major - Paris 2026 - Group B\nWatch: https://www.twitch.tv
  /rocketleague
 SUMMARY:NRG vs MCE
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T143000Z
+UID:pandascore-match-1499220@esport-ics
+DTSTART:20260523T143000Z
+DTEND:20260523T194500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS Major - Paris 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/rocketleague
+SUMMARY:Upper bracket quarterfinal 2: MCE vs SR
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

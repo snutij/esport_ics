@@ -641,6 +641,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 29 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/esl_dota2
 SUMMARY:Upper Bracket Semifinals 2: PARI vs AUR
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T133000Z
+UID:pandascore-match-1487962@esport-ics
+DTSTART:20260523T133000Z
+DTEND:20260523T154500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/esl_dota2
+SUMMARY:Upper Bracket Final: PARI vs TBD
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT

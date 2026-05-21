@@ -386,7 +386,7 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group B\nWatch: 
  https://kick.com/bcgamemasters
 SUMMARY:OG vs MZP
-URL;VALUE=URI:https://kick.com/bcgamemasters
+URL:https://kick.com/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260521T171500Z
@@ -397,13 +397,13 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group B\nWatch: 
  https://kick.com/bcgamemasters
 SUMMARY:MZP vs RBLS
-URL;VALUE=URI:https://kick.com/bcgamemasters
+URL:https://kick.com/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260521T174500Z
+DTSTAMP:20260521T181500Z
 UID:pandascore-match-1501350@esport-ics
-DTSTART:20260521T174500Z
-DTEND:20260521T183000Z
+DTSTART:20260521T181500Z
+DTEND:20260521T190000Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group B\nWatch: 
  https://www.twitch.tv/bcgamemasters

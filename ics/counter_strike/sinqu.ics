@@ -324,8 +324,10 @@ UID:pandascore-match-1502447@esport-ics
 DTSTART:20260521T180000Z
 DTEND:20260521T184500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/sinquesports
 SUMMARY:BJNG vs SINQU
+URL;VALUE=URI:https://www.twitch.tv/sinquesports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260524T143000Z

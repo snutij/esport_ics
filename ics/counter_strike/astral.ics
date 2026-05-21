@@ -719,15 +719,15 @@ SUMMARY:Elimination match: ASTR vs Project 91
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260521T170000Z
+DTSTAMP:20260521T175000Z
 UID:pandascore-match-1498228@esport-ics
-DTSTART:20260521T170000Z
-DTEND:20260521T191500Z
+DTSTART:20260521T175000Z
+DTEND:20260521T200500Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
- nWatch: https://kick.com/bcgamemasters
+ nWatch: https://kick.com/bcgamemastersd
 SUMMARY:Round 2: EF vs ASTR
-URL;VALUE=URI:https://kick.com/bcgamemasters
+URL;VALUE=URI:https://kick.com/bcgamemastersd
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260523T110000Z
