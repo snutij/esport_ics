@@ -449,6 +449,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 2 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 4: MIBR.A vs PCY
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T190000Z
+UID:pandascore-match-1484577@esport-ics
+DTSTART:20260521T190000Z
+DTEND:20260521T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 2 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs3
+SUMMARY:Round of 16 match 3: ISG vs PCY
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

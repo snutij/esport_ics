@@ -492,6 +492,17 @@ SUMMARY:Round 5: GLS vs paiN.A
 URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260521T130000Z
+UID:pandascore-match-1484575@esport-ics
+DTSTART:20260521T130000Z
+DTEND:20260521T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 2 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs3
+SUMMARY:Round of 16 match 1: GLS vs ex-KRÜ Esports
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260521T200000Z
 UID:pandascore-match-1484535@esport-ics
 DTSTART:20260521T200000Z
