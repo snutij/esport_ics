@@ -105,6 +105,17 @@ SUMMARY:Quarterfinal 4: TLR vs EAC
 URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260523T140000Z
+UID:pandascore-match-1498235@esport-ics
+DTSTART:20260523T140000Z
+DTEND:20260523T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 3: EAC vs RE
+URL;VALUE=URI:https://kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260523T170000Z
 UID:pandascore-match-1500233@esport-ics
 DTSTART:20260523T170000Z

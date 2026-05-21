@@ -219,4 +219,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:Diamant Esports vs COW
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T123000Z
+UID:pandascore-match-1503445@esport-ics
+DTSTART:20260522T123000Z
+DTEND:20260522T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 3: KSM vs Diamant Esports
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
 END:VCALENDAR

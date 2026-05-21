@@ -597,6 +597,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group Stage\nWatch: https://
  www.twitch.tv/dust2tv
 SUMMARY:Round 3: STA vs Eclipse
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T150000Z
+UID:pandascore-match-1503440@esport-ics
+DTSTART:20260528T150000Z
+DTEND:20260528T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/dust2tv
+SUMMARY:Round 4: MSC vs STA
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 END:VCALENDAR

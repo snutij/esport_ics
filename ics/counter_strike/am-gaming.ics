@@ -536,6 +536,28 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
  nWatch: https://www.twitch.tv/bcgamemasters
 SUMMARY:Round 2: AM vs G1
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T110000Z
+UID:pandascore-match-1498232@esport-ics
+DTSTART:20260522T110000Z
+DTEND:20260522T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 3: AM vs PF
+URL;VALUE=URI:https://kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T110000Z
+UID:pandascore-match-1489285@esport-ics
+DTSTART:20260523T110000Z
+DTEND:20260523T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 2 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs2
+SUMMARY:Round 3: AM vs Just Players
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

@@ -28,6 +28,17 @@ SUMMARY:Round 2: HAVEN vs ATH
 URL:https://kick.com/exort_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260522T183000Z
+UID:pandascore-match-1503452@esport-ics
+DTSTART:20260522T183000Z
+DTEND:20260522T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Contenders Stage\nWatch: https:
+ //kick.com/exort_en2
+SUMMARY:Round 3: ATH vs xept
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260525T060000Z
 UID:pandascore-match-1498603@esport-ics
 DTSTART:20260525T060000Z

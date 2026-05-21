@@ -624,6 +624,17 @@ SUMMARY:Round 2: EAC vs MEGO
 URL:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260522T080000Z
+UID:pandascore-match-1498229@esport-ics
+DTSTART:20260522T080000Z
+DTEND:20260522T101500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 3: FNC vs MEGO
+URL;VALUE=URI:https://kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260523T140000Z
 UID:pandascore-match-1500238@esport-ics
 DTSTART:20260523T140000Z

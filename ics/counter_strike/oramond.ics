@@ -201,6 +201,28 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
  nWatch: https://www.twitch.tv/bcgamemastersb
 SUMMARY:Round 2: FNC vs ORM
-URL;VALUE=URI:https://www.twitch.tv/bcgamemastersb
+URL:https://www.twitch.tv/bcgamemastersb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T170000Z
+UID:pandascore-match-1489283@esport-ics
+DTSTART:20260522T170000Z
+DTEND:20260522T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 2 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs2
+SUMMARY:Round 3: ORM vs G1
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T140000Z
+UID:pandascore-match-1498233@esport-ics
+DTSTART:20260523T140000Z
+DTEND:20260523T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 3: EF vs ORM
+URL;VALUE=URI:https://kick.com/bcgamemasters
 END:VEVENT
 END:VCALENDAR
