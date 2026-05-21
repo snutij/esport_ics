@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
  .twitch.tv/nervarien
 SUMMARY:AE vs BOOM
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T150000Z
+UID:pandascore-match-1502477@esport-ics
+DTSTART:20260527T150000Z
+DTEND:20260527T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Spring 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/nervarien
+SUMMARY:Quarterfinal 2: BOOM vs AE
 URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR

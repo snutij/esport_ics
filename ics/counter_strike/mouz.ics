@@ -304,6 +304,17 @@ CLASS:PUBLIC
 DESCRIPTION:CS Asia Championships - 2026 - Group A\nWatch: https://www.twit
  ch.tv/pgl
 SUMMARY:Lower bracket quarterfinal 2: NRG vs MOUZ
+URL:https://www.twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T090000Z
+UID:pandascore-match-1481085@esport-ics
+DTSTART:20260521T090000Z
+DTEND:20260521T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CS Asia Championships - 2026 - Group A\nWatch: https://www.twit
+ ch.tv/pgl
+SUMMARY:Lower bracket semifinal 2: M80 vs MOUZ
 URL;VALUE=URI:https://www.twitch.tv/pgl
 END:VEVENT
 END:VCALENDAR
