@@ -81,14 +81,14 @@ SUMMARY:Upper bracket semifinal 1: BAKS vs TBD
 URL:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260523T090000Z
+DTSTAMP:20260523T080000Z
 UID:pandascore-match-1501900@esport-ics
-DTSTART:20260523T090000Z
-DTEND:20260523T111500Z
+DTSTART:20260523T080000Z
+DTEND:20260523T101500Z
 CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - 2026 - Playoffs\nWatch: https://www.twitch.tv/
  gluck_esports
-SUMMARY:Upper bracket final : BAKS vs TBD
+SUMMARY:Upper bracket final : BAKS vs CSH.P
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

@@ -215,15 +215,15 @@ SUMMARY:Upper bracket quarterfinal 2: GG vs ACE
 URL:https://kick.com/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260522T180000Z
+DTSTAMP:20260522T205000Z
 UID:pandascore-match-1501404@esport-ics
-DTSTART:20260522T180000Z
-DTEND:20260522T201500Z
+DTSTART:20260522T205000Z
+DTEND:20260522T230500Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Playoffs\nWatch:
-  https://www.twitch.tv/bcgamemasters
+  https://www.twitch.tv/bcgamemastersb
 SUMMARY:Lower bracket round 1 match 1: GG vs TBD
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL;VALUE=URI:https://www.twitch.tv/bcgamemastersb
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260602T120000Z

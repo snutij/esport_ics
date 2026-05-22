@@ -287,6 +287,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group C\nWatch: https://www.twitch.t
  v/lvpes2
 SUMMARY:UCAM vs WIP
-URL;VALUE=URI:https://www.twitch.tv/lvpes2
+URL:https://www.twitch.tv/lvpes2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T173000Z
+UID:pandascore-match-1493949@esport-ics
+DTSTART:20260525T173000Z
+DTEND:20260525T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Upper bracket quarterfinal 2: JL vs UCAM
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
