@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:North American Challengers League - Spring 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/NACL
 SUMMARY:Upper bracket semifinal 1: NRG vs CCG
+URL:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T200000Z
+UID:pandascore-match-1494599@esport-ics
+DTSTART:20260528T200000Z
+DTEND:20260528T234500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Spring 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/NACL
+SUMMARY:Upper bracket final: CCG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/NACL
 END:VEVENT
 END:VCALENDAR
