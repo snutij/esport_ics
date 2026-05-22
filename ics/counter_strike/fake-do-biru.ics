@@ -567,4 +567,15 @@ DESCRIPTION:CCT South America - Series 2 2026 - Playoffs\nWatch: https://ki
 SUMMARY:Round of 16 match 5: FDB vs paiN.A
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T200000Z
+UID:pandascore-match-1484539@esport-ics
+DTSTART:20260523T200000Z
+DTEND:20260523T221500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 3 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/dust2br
+SUMMARY:Semifinal 1: FDB vs GLS
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
 END:VCALENDAR

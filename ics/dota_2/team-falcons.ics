@@ -523,6 +523,17 @@ SUMMARY:Upper Bracket Semifinals 1: FLC vs TS
 URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260523T100000Z
+UID:pandascore-match-1487840@esport-ics
+DTSTART:20260523T100000Z
+DTEND:20260523T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/esl_dota2
+SUMMARY:Lower Bracket Quarterfinals 2: FLC vs TBD
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260526T080000Z
 UID:pandascore-match-1501512@esport-ics
 DTSTART:20260526T080000Z
