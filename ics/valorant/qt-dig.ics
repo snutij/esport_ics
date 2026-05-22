@@ -58,6 +58,39 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Japan: Split 1 2026 - Playoffs\nWatch: https://www.twitch
  .tv/valorant_jpn
 SUMMARY:Semifinal 2: QTD vs FL
+URL:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T070000Z
+UID:pandascore-match-1504031@esport-ics
+DTSTART:20260524T070000Z
+DTEND:20260524T091500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Japan Split 2 2026 - Main Stage\nWatch: https://www.twitc
+ h.tv/valorant_jpn
+SUMMARY:QTD vs RDL
+URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T100000Z
+UID:pandascore-match-1504067@esport-ics
+DTSTART:20260529T100000Z
+DTEND:20260529T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Japan Split 2 2026 - Main Stage\nWatch: https://www.twitc
+ h.tv/valorant_jpn
+SUMMARY:QTD vs INS
+URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T100000Z
+UID:pandascore-match-1504111@esport-ics
+DTSTART:20260531T100000Z
+DTEND:20260531T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Japan Split 2 2026 - Main Stage\nWatch: https://www.twitc
+ h.tv/valorant_jpn
+SUMMARY:AGL vs QTD
 URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
 END:VEVENT
 END:VCALENDAR

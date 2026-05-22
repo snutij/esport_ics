@@ -80,6 +80,61 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
  s://kick.com/challengerchampionship
 SUMMARY:Lower Bracket Quarterfinal 1: MSC vs A Great Chaos
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T100000Z
+UID:pandascore-match-1504039@esport-ics
+DTSTART:20260522T100000Z
+DTEND:20260522T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:SASHI.A vs A Great Chaos
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T113000Z
+UID:pandascore-match-1504043@esport-ics
+DTSTART:20260522T113000Z
+DTEND:20260522T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:STA vs A Great Chaos
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T143000Z
+UID:pandascore-match-1504051@esport-ics
+DTSTART:20260522T143000Z
+DTEND:20260522T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:A Great Chaos vs Invicta
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T173000Z
+UID:pandascore-match-1504059@esport-ics
+DTSTART:20260522T173000Z
+DTEND:20260522T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:A Great Chaos vs Monki Flip
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T200000Z
+UID:pandascore-match-1504065@esport-ics
+DTSTART:20260522T200000Z
+DTEND:20260522T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:Eternal 21 vs A Great Chaos
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR

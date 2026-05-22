@@ -627,17 +627,6 @@ SUMMARY:BIG.A vs HUSK
 URL:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260522T080000Z
-UID:pandascore-match-1493105@esport-ics
-DTSTART:20260522T080000Z
-DTEND:20260522T101500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
- https://kick.com/eplcs_en
-SUMMARY:Grand final: BIG.A vs Kinoa
-URL;VALUE=URI:https://kick.com/eplcs_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260523T090000Z
 UID:pandascore-match-1385727@esport-ics
 DTSTART:20260523T090000Z
@@ -647,5 +636,16 @@ DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/dachcs
 SUMMARY:BIG.A vs BERG
 URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T110000Z
+UID:pandascore-match-1493105@esport-ics
+DTSTART:20260525T110000Z
+DTEND:20260525T131500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 5 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Grand final: BIG.A vs Kinoa
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

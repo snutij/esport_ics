@@ -208,6 +208,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #3 2026 - Group B\nWatch:
   https://kick.com/cct_cs
 SUMMARY:Elimination match: ASTR vs Project 91
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T134500Z
+UID:pandascore-match-1504001@esport-ics
+DTSTART:20260523T134500Z
+DTEND:20260523T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
+ : https://kick.com/CCT_CS5
+SUMMARY:Upper bracket round 1 match 3: Project 91 vs EC BANGA
+URL;VALUE=URI:https://kick.com/CCT_CS5
 END:VEVENT
 END:VCALENDAR

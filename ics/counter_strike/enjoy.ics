@@ -325,4 +325,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:XI vs ENJOY
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T134500Z
+UID:pandascore-match-1504002@esport-ics
+DTSTART:20260523T134500Z
+DTEND:20260523T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
+ : https://kick.com/CCT_CS5
+SUMMARY:Upper bracket round 1 match 1: SAW vs ENJOY
+URL;VALUE=URI:https://kick.com/CCT_CS5
+END:VEVENT
 END:VCALENDAR

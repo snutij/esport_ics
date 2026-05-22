@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Champions Clash 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/ow_esports
 SUMMARY:Upper bracket quarterfinal 2: DAL vs CR
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T081500Z
+UID:pandascore-match-1491477@esport-ics
+DTSTART:20260523T081500Z
+DTEND:20260523T103000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Champions Clash 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:Lower bracket quarterfinal 1: DAL vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

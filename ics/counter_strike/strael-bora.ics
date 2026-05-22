@@ -69,6 +69,61 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 3: S-B vs CLS
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T113000Z
+UID:pandascore-match-1504040@esport-ics
+DTSTART:20260522T113000Z
+DTEND:20260522T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:S-B vs FOR
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T130000Z
+UID:pandascore-match-1504046@esport-ics
+DTSTART:20260522T130000Z
+DTEND:20260522T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:Matrix vs S-B
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T143000Z
+UID:pandascore-match-1504050@esport-ics
+DTSTART:20260522T143000Z
+DTEND:20260522T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:95 Vikings vs S-B
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T160000Z
+UID:pandascore-match-1504054@esport-ics
+DTSTART:20260522T160000Z
+DTEND:20260522T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:100T vs S-B
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T190000Z
+UID:pandascore-match-1504062@esport-ics
+DTSTART:20260522T190000Z
+DTEND:20260522T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group A\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:S-B vs XCLAN
+URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR

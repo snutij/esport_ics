@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eternal 21
+SLUG:eternal-21
+BEGIN:VEVENT
+DTSTAMP:20260522T113000Z
+UID:pandascore-match-1504041@esport-ics
+DTSTART:20260522T113000Z
+DTEND:20260522T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:Invicta vs Eternal 21
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T130000Z
+UID:pandascore-match-1504045@esport-ics
+DTSTART:20260522T130000Z
+DTEND:20260522T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:Monki Flip vs Eternal 21
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T143000Z
+UID:pandascore-match-1504049@esport-ics
+DTSTART:20260522T143000Z
+DTEND:20260522T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:STA vs Eternal 21
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T173000Z
+UID:pandascore-match-1504057@esport-ics
+DTSTART:20260522T173000Z
+DTEND:20260522T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:Eternal 21 vs SASHI.A
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T200000Z
+UID:pandascore-match-1504065@esport-ics
+DTSTART:20260522T200000Z
+DTEND:20260522T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Group B\nWatch
+ : https://kick.com/challengerchampionship
+SUMMARY:Eternal 21 vs A Great Chaos
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+END:VCALENDAR

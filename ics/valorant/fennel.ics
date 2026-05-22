@@ -102,6 +102,39 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Japan: Split 1 2026 - Playoffs\nWatch: https://www.twitch
  .tv/valorant_jpn
 SUMMARY:Grand final: CGZ vs FL
+URL:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T100000Z
+UID:pandascore-match-1504030@esport-ics
+DTSTART:20260523T100000Z
+DTEND:20260523T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Japan Split 2 2026 - Main Stage\nWatch: https://www.twitc
+ h.tv/valorant_jpn
+SUMMARY:AGL vs FL
+URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T070000Z
+UID:pandascore-match-1504033@esport-ics
+DTSTART:20260525T070000Z
+DTEND:20260525T091500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Japan Split 2 2026 - Main Stage\nWatch: https://www.twitc
+ h.tv/valorant_jpn
+SUMMARY:CGZ vs FL
+URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T070000Z
+UID:pandascore-match-1504068@esport-ics
+DTSTART:20260530T070000Z
+DTEND:20260530T091500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Japan Split 2 2026 - Main Stage\nWatch: https://www.twitc
+ h.tv/valorant_jpn
+SUMMARY:FL vs RC
 URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
 END:VEVENT
 END:VCALENDAR
