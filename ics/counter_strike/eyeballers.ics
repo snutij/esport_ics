@@ -377,6 +377,17 @@ CLASS:PUBLIC
 DESCRIPTION:Conquest of Prague - Finals 2026 - Playoffs\nWatch: https://www
  .twitch.tv/playzoneup
 SUMMARY:Upper bracket semifinal 2: SASHI vs EYE
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T180000Z
+UID:pandascore-match-1470186@esport-ics
+DTSTART:20260523T180000Z
+DTEND:20260523T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Conquest of Prague - Finals 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/playzoneup
+SUMMARY:Upper bracket final: ALL vs EYE
 URL;VALUE=URI:https://www.twitch.tv/playzoneup
 END:VEVENT
 END:VCALENDAR
