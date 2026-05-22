@@ -574,6 +574,17 @@ SUMMARY:Lower Bracket Round 2 Match 1: Tundra vs Xtreme
 URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260522T170000Z
+UID:pandascore-match-1487839@esport-ics
+DTSTART:20260522T170000Z
+DTEND:20260522T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Season 29 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/esl_dota2
+SUMMARY:Lower Bracket Quarterfinals 1: AUR vs Tundra
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260526T102000Z
 UID:pandascore-match-1501523@esport-ics
 DTSTART:20260526T102000Z

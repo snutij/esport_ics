@@ -611,6 +611,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - 2026 - Playoffs\nWatch: https://www.twitch.tv/
  gluck_esports
 SUMMARY:Upper bracket quarterfinal 1: EP vs WC
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T190000Z
+UID:pandascore-match-1501905@esport-ics
+DTSTART:20260522T190000Z
+DTEND:20260522T211500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - 2026 - Playoffs\nWatch: https://www.twitch.tv/
+ gluck_esports
+SUMMARY:Lower bracket quarterfinal 2: EP vs TBD
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

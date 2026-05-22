@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/betboom_sb_dota
 SUMMARY:Upper bracket quarterfinal 1: Miposhka Team vs Nix
+URL:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T090000Z
+UID:pandascore-match-1497556@esport-ics
+DTSTART:20260523T090000Z
+DTEND:20260523T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/betboom_sb_dota
+SUMMARY:Lower bracket quarterfinal 1: TBD vs Nix
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 END:VCALENDAR
