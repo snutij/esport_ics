@@ -225,4 +225,15 @@ DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
 SUMMARY:Round 3: EF vs ORM
 URL;VALUE=URI:https://kick.com/bcgamemasters
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T080000Z
+UID:pandascore-match-1504677@esport-ics
+DTSTART:20260524T080000Z
+DTEND:20260524T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group B\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:ORM vs Project 91
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

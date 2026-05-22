@@ -149,6 +149,17 @@ CLASS:PUBLIC
 DESCRIPTION:China Evolution Series - Act 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorantesports_cn
 SUMMARY:Round of 16 match 3: TE vs AQ
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T110000Z
+UID:pandascore-match-1500827@esport-ics
+DTSTART:20260525T110000Z
+DTEND:20260525T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China Evolution Series - Act 2 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/valorantesports_cn
+SUMMARY:Quarterfinal 2: TE vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

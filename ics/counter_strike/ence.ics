@@ -335,4 +335,15 @@ DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
 SUMMARY:Round 7: ENCE vs CRH
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260526T080000Z
+UID:pandascore-match-1504681@esport-ics
+DTSTART:20260526T080000Z
+DTEND:20260526T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group D\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:ENCE vs CSH.P
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

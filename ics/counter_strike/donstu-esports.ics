@@ -602,6 +602,17 @@ DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:DNT vs Falcons Force
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260523T080000Z
+UID:pandascore-match-1504676@esport-ics
+DTSTART:20260523T080000Z
+DTEND:20260523T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group A\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:HERO.A vs DNT
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260524T134500Z
 UID:pandascore-match-1504005@esport-ics
 DTSTART:20260524T134500Z

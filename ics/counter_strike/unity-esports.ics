@@ -760,4 +760,15 @@ DESCRIPTION:XPortal - Season 1 2026 - Playoffs\nWatch: https://www.twitch.t
 SUMMARY:Quarterfinal 2: UNiTY vs BMB
 URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260526T103000Z
+UID:pandascore-match-1504682@esport-ics
+DTSTART:20260526T103000Z
+DTEND:20260526T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group D\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:UNiTY vs Atreides
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
