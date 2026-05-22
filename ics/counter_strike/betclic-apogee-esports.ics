@@ -364,6 +364,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Playoffs\nWatch:
   https://kick.com/bcgamemastersb
 SUMMARY:Upper bracket quarterfinal 3: SHK vs BCA
-URL;VALUE=URI:https://kick.com/bcgamemastersb
+URL:https://kick.com/bcgamemastersb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T184500Z
+UID:pandascore-match-1501405@esport-ics
+DTSTART:20260522T184500Z
+DTEND:20260522T210000Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/bcgamemasters
+SUMMARY:Lower bracket round 1 match 2: BCA vs RBLS
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR

@@ -424,6 +424,17 @@ CLASS:PUBLIC
 DESCRIPTION:Conquest of Prague - Finals 2026 - Playoffs\nWatch: https://www
  .twitch.tv/playzoneup
 SUMMARY:Upper bracket semifinal 1: ALL vs WAL
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T150000Z
+UID:pandascore-match-1470189@esport-ics
+DTSTART:20260523T150000Z
+DTEND:20260523T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Conquest of Prague - Finals 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/playzoneup
+SUMMARY:Lower bracket semifinal: WAL vs TBD
 URL;VALUE=URI:https://www.twitch.tv/playzoneup
 END:VEVENT
 END:VCALENDAR

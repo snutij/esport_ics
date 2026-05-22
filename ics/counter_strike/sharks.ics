@@ -303,6 +303,17 @@ SUMMARY:Upper bracket quarterfinal 3: SHK vs BCA
 URL:https://kick.com/bcgamemastersb
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260523T103000Z
+UID:pandascore-match-1501401@esport-ics
+DTSTART:20260523T103000Z
+DTEND:20260523T124500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/bcgamemasters
+SUMMARY:Upper bracket semifinal 2: SHK vs FOKUS
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260527T173000Z
 UID:pandascore-match-1479970@esport-ics
 DTSTART:20260527T173000Z
