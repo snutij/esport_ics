@@ -716,14 +716,25 @@ SUMMARY:Quarterfinal 4: Keyd vs ISG
 URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260523T160000Z
+DTSTAMP:20260523T190000Z
 UID:pandascore-match-1484584@esport-ics
-DTSTART:20260523T160000Z
-DTEND:20260523T181500Z
+DTSTART:20260523T190000Z
+DTEND:20260523T211500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 2 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs3
-SUMMARY:Quarterfinal 2: paiN.A vs Keyd
+SUMMARY:Quarterfinal 2: Keyd vs paiN.A
 URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T230000Z
+UID:pandascore-match-1484540@esport-ics
+DTSTART:20260523T230000Z
+DTEND:20260524T011500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 3 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/dust2br
+SUMMARY:Semifinal 2: LDP vs Keyd
+URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR

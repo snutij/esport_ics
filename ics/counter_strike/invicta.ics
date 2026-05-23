@@ -116,6 +116,17 @@ SUMMARY:Invicta vs Monki Flip
 URL:https://kick.com/challengerchampionship
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260523T080000Z
+UID:pandascore-match-1504130@esport-ics
+DTSTART:20260523T080000Z
+DTEND:20260523T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Upper bracket quarterfinal 3: FOR vs Invicta
+URL;VALUE=URI:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260525T150000Z
 UID:pandascore-match-1503438@esport-ics
 DTSTART:20260525T150000Z

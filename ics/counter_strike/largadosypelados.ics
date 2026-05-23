@@ -581,10 +581,10 @@ SUMMARY:Quarterfinal 3: LDP vs YAW
 URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260523T190000Z
+DTSTAMP:20260523T160000Z
 UID:pandascore-match-1484585@esport-ics
-DTSTART:20260523T190000Z
-DTEND:20260523T211500Z
+DTSTART:20260523T160000Z
+DTEND:20260523T181500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 2 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs3
@@ -599,7 +599,7 @@ DTEND:20260524T011500Z
 CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 3 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/dust2br
-SUMMARY:Semifinal 2: LDP vs TBD
+SUMMARY:Semifinal 2: LDP vs Keyd
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR

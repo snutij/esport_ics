@@ -514,6 +514,17 @@ SUMMARY:Quarterfinal 1: BHE vs GLS
 URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260523T130000Z
+UID:pandascore-match-1484586@esport-ics
+DTSTART:20260523T130000Z
+DTEND:20260523T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 2 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs3
+SUMMARY:Quarterfinal 4: GLS vs UNO
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260523T200000Z
 UID:pandascore-match-1484539@esport-ics
 DTSTART:20260523T200000Z
@@ -523,16 +534,5 @@ DESCRIPTION:BetBoom Storm - Season 3 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/dust2br
 SUMMARY:Semifinal 1: FDB vs GLS
 URL;VALUE=URI:https://www.twitch.tv/dust2br
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260523T220000Z
-UID:pandascore-match-1484586@esport-ics
-DTSTART:20260523T220000Z
-DTEND:20260524T001500Z
-CLASS:PUBLIC
-DESCRIPTION:CCT South America - Series 2 2026 - Playoffs\nWatch: https://ki
- ck.com/cct_cs3
-SUMMARY:Quarterfinal 4: GLS vs UNO
-URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
