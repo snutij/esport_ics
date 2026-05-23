@@ -773,4 +773,26 @@ DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
 SUMMARY:Elimination match: MEGO vs ASTR
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T140000Z
+UID:pandascore-match-1498600@esport-ics
+DTSTART:20260524T140000Z
+DTEND:20260524T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #3 2026 - Play-In\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:SAW vs ASTR
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T170000Z
+UID:pandascore-match-1498242@esport-ics
+DTSTART:20260525T170000Z
+DTEND:20260525T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 4: ASTR vs ex-Zero Tenacity
+URL;VALUE=URI:https://kick.com/bcgamemasters
+END:VEVENT
 END:VCALENDAR

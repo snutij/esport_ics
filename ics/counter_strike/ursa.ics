@@ -985,6 +985,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
  nWatch: https://kick.com/bcgamemasters
 SUMMARY:Round 3: URSA vs ASTR
+URL:https://kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T110000Z
+UID:pandascore-match-1498240@esport-ics
+DTSTART:20260525T110000Z
+DTEND:20260525T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 4: ex-RUBY vs URSA
 URL;VALUE=URI:https://kick.com/bcgamemasters
 END:VEVENT
 END:VCALENDAR

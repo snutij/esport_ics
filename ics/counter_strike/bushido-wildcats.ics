@@ -417,6 +417,17 @@ SUMMARY:Decider Match: BW vs 2007
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260524T110000Z
+UID:pandascore-match-1498599@esport-ics
+DTSTART:20260524T110000Z
+DTEND:20260524T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #3 2026 - Play-In\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:Hashiras vs BW
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260524T134500Z
 UID:pandascore-match-1504006@esport-ics
 DTSTART:20260524T134500Z

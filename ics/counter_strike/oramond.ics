@@ -236,4 +236,26 @@ DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group B\
 SUMMARY:ORM vs Project 91
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T140000Z
+UID:pandascore-match-1498238@esport-ics
+DTSTART:20260524T140000Z
+DTEND:20260524T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 4: PF vs ORM
+URL;VALUE=URI:https://kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T170000Z
+UID:pandascore-match-1489290@esport-ics
+DTSTART:20260524T170000Z
+DTEND:20260524T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 2 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs2
+SUMMARY:Round 4: PF vs ORM
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

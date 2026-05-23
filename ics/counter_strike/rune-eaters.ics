@@ -608,6 +608,17 @@ SUMMARY:Round 3: EAC vs RE
 URL:https://kick.com/bcgamemastersc
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260524T170000Z
+UID:pandascore-match-1498601@esport-ics
+DTSTART:20260524T170000Z
+DTEND:20260524T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #3 2026 - Play-In\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:RE vs BBP
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260525T140000Z
 UID:pandascore-match-1500247@esport-ics
 DTSTART:20260525T140000Z
@@ -617,5 +628,16 @@ DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
  p D\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:VRSDelivery vs RE
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T140000Z
+UID:pandascore-match-1498241@esport-ics
+DTSTART:20260525T140000Z
+DTEND:20260525T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 4: HERO.A vs RE
+URL;VALUE=URI:https://kick.com/bcgamemasters
 END:VEVENT
 END:VCALENDAR

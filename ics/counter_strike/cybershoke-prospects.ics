@@ -735,6 +735,17 @@ SUMMARY:Grand final: CSH.P vs OXUJI
 URL:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260524T080000Z
+UID:pandascore-match-1498598@esport-ics
+DTSTART:20260524T080000Z
+DTEND:20260524T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #3 2026 - Play-In\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:CSH.P vs ex-Zero Tenacity
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260526T080000Z
 UID:pandascore-match-1504681@esport-ics
 DTSTART:20260526T080000Z
