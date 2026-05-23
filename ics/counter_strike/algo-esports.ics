@@ -701,18 +701,18 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 49 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket semifinal 1: MANA vs ALGO
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260523T110000Z
+DTSTAMP:20260523T111000Z
 UID:pandascore-match-1498234@esport-ics
-DTSTART:20260523T110000Z
-DTEND:20260523T131500Z
+DTSTART:20260523T111000Z
+DTEND:20260523T132500Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
- nWatch: https://kick.com/bcgamemasters
+ nWatch: https://kick.com/bcgamemastersc
 SUMMARY:Round 3: ALGO vs ex-Zero Tenacity
-URL;VALUE=URI:https://kick.com/bcgamemasters
+URL;VALUE=URI:https://kick.com/bcgamemastersc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260523T140000Z
@@ -746,5 +746,16 @@ DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
  p B\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Winners match: ALGO vs TBD
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T080000Z
+UID:pandascore-match-1499182@esport-ics
+DTSTART:20260525T080000Z
+DTEND:20260525T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 49 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket final: ALGO vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

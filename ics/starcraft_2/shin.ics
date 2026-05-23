@@ -242,7 +242,7 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 5 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/tastelesstv
 SUMMARY:Lower bracket round 1 match 1: Classic vs SHIN
-URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+URL:https://www.twitch.tv/tastelesstv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260524T120000Z
@@ -286,5 +286,16 @@ CLASS:PUBLIC
 DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 2 - Gr
  oup B
 SUMMARY:Maru vs SHIN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T070000Z
+UID:pandascore-match-1487728@esport-ics
+DTSTART:20260530T070000Z
+DTEND:20260530T104500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 5 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/tastelesstv
+SUMMARY:Lower bracket quarterfinal 1: SHIN vs TBD
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR
