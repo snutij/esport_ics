@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship
 SUMMARY:Lower bracket round 1 match 1: Eternal 21 vs S-B
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T180000Z
+UID:pandascore-match-1504136@esport-ics
+DTSTART:20260523T180000Z
+DTEND:20260523T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Playoffs\nWatc
+ h: https://kick.com/challengerchampionship
+SUMMARY:Lower bracket quarterfinal 1: S-B vs TBD
 URL;VALUE=URI:https://kick.com/challengerchampionship
 END:VEVENT
 END:VCALENDAR

@@ -174,7 +174,9 @@ UID:pandascore-match-1486830@esport-ics
 DTSTART:20260523T150000Z
 DTEND:20260523T184500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - EMEA Qualifier 2026 - Stage 2
+DESCRIPTION:Esports World Cup - EMEA Qualifier 2026 - Stage 2\nWatch: https
+ ://www.twitch.tv/ewc_plus_en
 SUMMARY:Upper bracket semifinal 1: FUT vs GM
+URL;VALUE=URI:https://www.twitch.tv/ewc_plus_en
 END:VEVENT
 END:VCALENDAR
