@@ -639,6 +639,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Playoffs\nWatch:
   https://kick.com/bcgamemastersb
 SUMMARY:Lower bracket quarterfinal 2: BCA vs ACE
-URL;VALUE=URI:https://kick.com/bcgamemastersb
+URL:https://kick.com/bcgamemastersb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T173000Z
+UID:pandascore-match-1501408@esport-ics
+DTSTART:20260523T173000Z
+DTEND:20260523T194500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/bcgamemasters
+SUMMARY:Lower bracket semifinal: ACE vs TBD
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR
