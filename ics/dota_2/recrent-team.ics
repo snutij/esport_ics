@@ -50,14 +50,14 @@ SUMMARY:Upper bracket semifinal 1: Recrent vs Solo
 URL:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260524T090000Z
+DTSTAMP:20260523T193000Z
 UID:pandascore-match-1497552@esport-ics
-DTSTART:20260524T090000Z
-DTEND:20260524T111500Z
+DTSTART:20260523T193000Z
+DTEND:20260523T214500Z
 CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/betboom_sb_dota
-SUMMARY:Upper bracket final: BOT vs Recrent
+SUMMARY:Upper bracket final: Recrent vs BOT
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 END:VCALENDAR
