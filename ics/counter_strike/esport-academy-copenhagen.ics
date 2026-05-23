@@ -137,4 +137,15 @@ DESCRIPTION:XPortal - Season 1 2026 - Playoffs\nWatch: https://www.twitch.t
 SUMMARY:Semifinal 2: EAC vs Atreides
 URL;VALUE=URI:https://www.twitch.tv/xportalesports
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T140000Z
+UID:pandascore-match-1500235@esport-ics
+DTSTART:20260524T140000Z
+DTEND:20260524T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
+ p A\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Winners match: G1 vs EAC
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR

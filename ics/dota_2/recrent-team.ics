@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/betboom_sb_dota
 SUMMARY:Upper bracket final: Recrent vs BOT
+URL:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T160000Z
+UID:pandascore-match-1497553@esport-ics
+DTSTART:20260524T160000Z
+DTEND:20260524T194500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 13 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/betboom_sb_dota
+SUMMARY:Grand final: Recrent vs TBD
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 END:VCALENDAR
