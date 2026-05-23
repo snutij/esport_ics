@@ -267,7 +267,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
  : https://www.twitch.tv/minicasterr
 SUMMARY:Upper bracket round 1 match 4: JUL vs BL
-URL;VALUE=URI:https://www.twitch.tv/minicasterr
+URL:https://www.twitch.tv/minicasterr
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260524T133000Z
@@ -279,5 +279,16 @@ DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group A\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:G1 vs BL
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T134500Z
+UID:pandascore-match-1504010@esport-ics
+DTSTART:20260525T134500Z
+DTEND:20260525T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
+ : https://kick.com/CCT_CS5
+SUMMARY:Upper bracket quarterfinal 2: BL vs TBD
+URL;VALUE=URI:https://kick.com/CCT_CS5
 END:VEVENT
 END:VCALENDAR

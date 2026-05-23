@@ -712,7 +712,7 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
  nWatch: https://kick.com/bcgamemastersc
 SUMMARY:Round 3: ALGO vs ex-Zero Tenacity
-URL;VALUE=URI:https://kick.com/bcgamemastersc
+URL:https://kick.com/bcgamemastersc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260523T140000Z
@@ -744,7 +744,7 @@ DTEND:20260524T191500Z
 CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
  p B\nWatch: https://www.twitch.tv/thunderpicktv
-SUMMARY:Winners match: ALGO vs TBD
+SUMMARY:Winners match: ALGO vs OMG
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
@@ -755,7 +755,7 @@ DTEND:20260525T101500Z
 CLASS:PUBLIC
 DESCRIPTION:United21 - Season 49 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
-SUMMARY:Upper bracket final: ALGO vs TBD
+SUMMARY:Upper bracket final: ALGO vs NAVI.J
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

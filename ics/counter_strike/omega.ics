@@ -739,6 +739,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
  p B\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:OMG vs ASTR
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T170000Z
+UID:pandascore-match-1500240@esport-ics
+DTSTART:20260524T170000Z
+DTEND:20260524T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
+ p B\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Winners match: ALGO vs OMG
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
