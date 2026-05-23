@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:LPLOL - Spring 2026 - Regular Season\nWatch: https://www.twitch
  .tv/rtparenalol
 SUMMARY:FCN vs CRZ
+URL:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T180000Z
+UID:pandascore-match-1468675@esport-ics
+DTSTART:20260528T180000Z
+DTEND:20260528T214500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/rt
+ parenalol
+SUMMARY:Upper bracket final: TOS vs CRZ
 URL;VALUE=URI:https://www.twitch.tv/rtparenalol
 END:VEVENT
 END:VCALENDAR

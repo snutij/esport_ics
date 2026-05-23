@@ -337,6 +337,17 @@ CLASS:PUBLIC
 DESCRIPTION:CS Asia Championships - 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/pgl
 SUMMARY:Semifinal 1: FAL vs MOUZ
+URL:https://www.twitch.tv/pgl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260524T030000Z
+UID:pandascore-match-1481101@esport-ics
+DTSTART:20260524T030000Z
+DTEND:20260524T051500Z
+CLASS:PUBLIC
+DESCRIPTION:CS Asia Championships - 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/pgl
+SUMMARY:3rd Place match: MOUZ vs TBD
 URL;VALUE=URI:https://www.twitch.tv/pgl
 END:VEVENT
 END:VCALENDAR
