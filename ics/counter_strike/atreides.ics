@@ -419,6 +419,17 @@ SUMMARY:Semifinal 2: EAC vs Atreides
 URL:https://www.twitch.tv/xportalesports
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260524T160000Z
+UID:pandascore-match-1498186@esport-ics
+DTSTART:20260524T160000Z
+DTEND:20260524T181500Z
+CLASS:PUBLIC
+DESCRIPTION:XPortal - Season 1 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/xportalesports
+SUMMARY:Grand final: Atreides vs TBD
+URL;VALUE=URI:https://www.twitch.tv/xportalesports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260526T103000Z
 UID:pandascore-match-1504682@esport-ics
 DTSTART:20260526T103000Z
