@@ -465,4 +465,15 @@ DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group C\
 SUMMARY:YN vs LILMIX
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T140000Z
+UID:pandascore-match-1507113@esport-ics
+DTSTART:20260528T140000Z
+DTEND:20260528T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Play-In Group D\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:YN vs WAZ
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

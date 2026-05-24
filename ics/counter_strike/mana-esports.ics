@@ -847,7 +847,7 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
  p A\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Elimination match: MANA vs Hashiras
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260524T103000Z
@@ -859,5 +859,16 @@ DESCRIPTION:United21 - Season 49 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Lower bracket quarterfinal 2: MANA vs Kinoa
 URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T140000Z
+UID:pandascore-match-1507109@esport-ics
+DTSTART:20260525T140000Z
+DTEND:20260525T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Play-In Group B\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:MANA vs Falcons Force
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

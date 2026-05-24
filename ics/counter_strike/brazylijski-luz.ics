@@ -281,6 +281,17 @@ SUMMARY:G1 vs BL
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260525T110000Z
+UID:pandascore-match-1507108@esport-ics
+DTSTART:20260525T110000Z
+DTEND:20260525T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Play-In Group B\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:ASTR vs BL
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260525T134500Z
 UID:pandascore-match-1504010@esport-ics
 DTSTART:20260525T134500Z
@@ -290,5 +301,16 @@ DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
  : https://kick.com/CCT_CS5
 SUMMARY:Upper bracket quarterfinal 2: BL vs Project 91
 URL;VALUE=URI:https://kick.com/CCT_CS5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260526T103000Z
+UID:pandascore-match-1504684@esport-ics
+DTSTART:20260526T103000Z
+DTEND:20260526T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group A\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:Winners match: DNT vs BL
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

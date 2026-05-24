@@ -645,4 +645,15 @@ DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
 SUMMARY:Upper bracket round 1 match 7: G2.A vs DNT
 URL;VALUE=URI:https://kick.com/CCT_CS5
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T170000Z
+UID:pandascore-match-1507110@esport-ics
+DTSTART:20260525T170000Z
+DTEND:20260525T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Play-In Group A\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:G2.A vs LILMIX
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
