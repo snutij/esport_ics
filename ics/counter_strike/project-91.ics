@@ -243,4 +243,15 @@ DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
 SUMMARY:Upper bracket quarterfinal 2: BL vs Project 91
 URL;VALUE=URI:https://kick.com/CCT_CS5
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T080000Z
+UID:pandascore-match-1504685@esport-ics
+DTSTART:20260527T080000Z
+DTEND:20260527T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group B\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:Elimination match: Project 91 vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
