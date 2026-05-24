@@ -126,7 +126,9 @@ UID:pandascore-match-1486831@esport-ics
 DTSTART:20260524T150000Z
 DTEND:20260524T184500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - EMEA Qualifier 2026 - Stage 2
+DESCRIPTION:Esports World Cup - EMEA Qualifier 2026 - Stage 2\nWatch: https
+ ://www.twitch.tv/ewc_plus_en
 SUMMARY:Upper bracket semifinal 2: FNC vs KC
+URL;VALUE=URI:https://www.twitch.tv/ewc_plus_en
 END:VEVENT
 END:VCALENDAR

@@ -277,10 +277,10 @@ SUMMARY:Upper bracket round 1 match 1: SAW vs ENJOY
 URL:https://kick.com/CCT_CS5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260524T140000Z
+DTSTAMP:20260524T151500Z
 UID:pandascore-match-1498600@esport-ics
-DTSTART:20260524T140000Z
-DTEND:20260524T161500Z
+DTSTART:20260524T151500Z
+DTEND:20260524T173000Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #3 2026 - Play-In\nWatch:
   https://kick.com/cct_cs
@@ -295,7 +295,7 @@ DTEND:20260525T131500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
  : https://kick.com/CCT_CS5
-SUMMARY:Lower bracket round 1 match 1: SAW vs TBD
+SUMMARY:Lower bracket round 1 match 1: SAW vs Subtop De France
 URL;VALUE=URI:https://kick.com/CCT_CS5
 END:VEVENT
 END:VCALENDAR
