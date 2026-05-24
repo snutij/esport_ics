@@ -176,6 +176,16 @@ DTEND:20260523T234500Z
 CLASS:PUBLIC
 DESCRIPTION:LCS - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/LCS
 SUMMARY:Upper bracket semifinal 1: C9 vs FLY
+URL:https://www.twitch.tv/LCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T200000Z
+UID:pandascore-match-1496377@esport-ics
+DTSTART:20260531T200000Z
+DTEND:20260531T234500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/LCS
+SUMMARY:Lower bracket quarterfinal 2: FLY vs SR
 URL;VALUE=URI:https://www.twitch.tv/LCS
 END:VEVENT
 END:VCALENDAR
