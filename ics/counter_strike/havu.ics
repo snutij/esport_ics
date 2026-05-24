@@ -566,7 +566,7 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
  https://kick.com/bcgamemastersb
 SUMMARY:HAVU vs ACE
-URL;VALUE=URI:https://kick.com/bcgamemastersb
+URL:https://kick.com/bcgamemastersb
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260521T114500Z
@@ -577,7 +577,7 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
  https://kick.com/bcgamemastersc
 SUMMARY:HAVU vs CHAOS
-URL;VALUE=URI:https://kick.com/bcgamemastersc
+URL:https://kick.com/bcgamemastersc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260521T133000Z
@@ -588,6 +588,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
  https://kick.com/bcgamemastersb
 SUMMARY:KOL vs HAVU
-URL;VALUE=URI:https://kick.com/bcgamemastersb
+URL:https://kick.com/bcgamemastersb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260526T140000Z
+UID:pandascore-match-1504706@esport-ics
+DTSTART:20260526T140000Z
+DTEND:20260526T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 1: ORM vs HAVU
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

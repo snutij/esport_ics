@@ -722,6 +722,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
  nWatch: https://kick.com/bcgamemastersd
 SUMMARY:Round 4: FNC vs Lavked
-URL;VALUE=URI:https://kick.com/bcgamemastersd
+URL:https://kick.com/bcgamemastersd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T110000Z
+UID:pandascore-match-1504701@esport-ics
+DTSTART:20260525T110000Z
+DTEND:20260525T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 1: Lavked vs PHA
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

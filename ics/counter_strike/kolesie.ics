@@ -452,7 +452,7 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
  https://kick.com/bcgamemasters
 SUMMARY:INF vs KOL
-URL;VALUE=URI:https://kick.com/bcgamemasters
+URL:https://kick.com/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260521T121500Z
@@ -463,7 +463,7 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
  https://kick.com/bcgamemastersb
 SUMMARY:KOL vs ICE
-URL;VALUE=URI:https://kick.com/bcgamemastersb
+URL:https://kick.com/bcgamemastersb
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260521T133000Z
@@ -474,6 +474,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Group A\nWatch: 
  https://kick.com/bcgamemastersb
 SUMMARY:KOL vs HAVU
-URL;VALUE=URI:https://kick.com/bcgamemastersb
+URL:https://kick.com/bcgamemastersb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260526T170000Z
+UID:pandascore-match-1504707@esport-ics
+DTSTART:20260526T170000Z
+DTEND:20260526T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 1: KOL vs BW
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
