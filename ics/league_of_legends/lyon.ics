@@ -216,6 +216,16 @@ DTEND:20260524T234500Z
 CLASS:PUBLIC
 DESCRIPTION:LCS - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/LCS
 SUMMARY:Upper bracket semifinal 2: LY vs TL
+URL:https://www.twitch.tv/LCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T200000Z
+UID:pandascore-match-1496373@esport-ics
+DTSTART:20260606T200000Z
+DTEND:20260606T234500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/LCS
+SUMMARY:Upper bracket final: C9 vs LY
 URL;VALUE=URI:https://www.twitch.tv/LCS
 END:VEVENT
 END:VCALENDAR
