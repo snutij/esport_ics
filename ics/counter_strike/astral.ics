@@ -818,6 +818,17 @@ SUMMARY:Round 1: RBLS vs ASTR
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260526T140000Z
+UID:pandascore-match-1498245@esport-ics
+DTSTART:20260526T140000Z
+DTEND:20260526T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
+ nWatch: https://kick.com/bcgamemasters
+SUMMARY:Round 5: G1 vs ASTR
+URL;VALUE=URI:https://kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260527T110000Z
 UID:pandascore-match-1500241@esport-ics
 DTSTART:20260527T110000Z
