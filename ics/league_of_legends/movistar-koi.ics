@@ -250,6 +250,16 @@ DTEND:20260525T184500Z
 CLASS:PUBLIC
 DESCRIPTION:LEC - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
 SUMMARY:Upper bracket final: G2 vs MKOI
+URL:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T150000Z
+UID:pandascore-match-1486136@esport-ics
+DTSTART:20260606T150000Z
+DTEND:20260606T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
+SUMMARY:Lower bracket final: MKOI vs TBD
 URL;VALUE=URI:https://www.twitch.tv/lec
 END:VEVENT
 END:VCALENDAR

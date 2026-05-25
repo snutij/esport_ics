@@ -135,7 +135,7 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/basick_lol
 SUMMARY:LL vs AP
-URL;VALUE=URI:https://www.twitch.tv/basick_lol
+URL:https://www.twitch.tv/basick_lol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260525T190000Z
@@ -146,7 +146,7 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:DMG vs AP
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL:https://www.twitch.tv/nlclol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260525T200000Z
@@ -155,9 +155,9 @@ DTSTART:20260525T200000Z
 DTEND:20260525T204500Z
 CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
- v/nlclol
+ v/leoesportstv
 SUMMARY:LEO vs AP
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL;VALUE=URI:https://www.twitch.tv/leoesportstv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260527T170000Z
