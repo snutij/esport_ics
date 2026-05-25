@@ -664,6 +664,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 2 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs3
 SUMMARY:Quarterfinal 2: Keyd vs paiN.A
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T210000Z
+UID:pandascore-match-1508620@esport-ics
+DTSTART:20260525T210000Z
+DTEND:20260525T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - May 2026 - Group D
+SUMMARY:Winners match: MIBR.A vs paiN.A
 END:VEVENT
 END:VCALENDAR

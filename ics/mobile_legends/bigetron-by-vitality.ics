@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Indonesia - Season 17 2026 - Regular Season\nWatch: https:/
  /www.youtube.com/watch?v=GhP_R4grz3w
 SUMMARY:BTR vs ONIC
-URL;VALUE=URI:https://www.youtube.com/watch?v=GhP_R4grz3w
+URL:https://www.youtube.com/watch?v=GhP_R4grz3w
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T111500Z
+UID:pandascore-match-1483538@esport-ics
+DTSTART:20260610T111500Z
+DTEND:20260610T150000Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 17 2026 - Playoffs\nWatch: https://www.y
+ outube.com/@MLBBeSports/live
+SUMMARY:Upper bracket quarterfinal 2: BTR vs EVOS
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
 END:VEVENT
 END:VCALENDAR

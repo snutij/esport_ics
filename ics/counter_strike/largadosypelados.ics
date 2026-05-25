@@ -644,4 +644,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - May 2026 - Group A
 SUMMARY:LDP vs RED.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T170000Z
+UID:pandascore-match-1508607@esport-ics
+DTSTART:20260527T170000Z
+DTEND:20260527T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X Base Recife - 2026 - Group A\nWatch: https://www.twit
+ ch.tv/circuitxofficial
+SUMMARY:GLS vs LDP
+URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
+END:VEVENT
 END:VCALENDAR

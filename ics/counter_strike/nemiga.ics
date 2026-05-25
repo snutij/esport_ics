@@ -615,6 +615,15 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 8 2026 - Playoffs\nWatch: https:/
  /kick.com/nodwin_cs2
 SUMMARY:Quarterfinal 4: NEMI vs NTR
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T170000Z
+UID:pandascore-match-1508603@esport-ics
+DTSTART:20260527T170000Z
+DTEND:20260527T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Finals season 51 2026 - Playoffs
+SUMMARY:Semifinal 2: TDK vs NEMI
 END:VEVENT
 END:VCALENDAR

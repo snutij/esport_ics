@@ -207,6 +207,16 @@ DTEND:20260530T184500Z
 CLASS:PUBLIC
 DESCRIPTION:LEC - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
 SUMMARY:Lower bracket quarterfinal 1: Navi vs VIT
+URL:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T150000Z
+UID:pandascore-match-1486133@esport-ics
+DTSTART:20260531T150000Z
+DTEND:20260531T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
+SUMMARY:Lower bracket quarterfinal 2: VIT vs GX
 URL;VALUE=URI:https://www.twitch.tv/lec
 END:VEVENT
 END:VCALENDAR

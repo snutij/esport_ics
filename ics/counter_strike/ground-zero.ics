@@ -402,6 +402,16 @@ CLASS:PUBLIC
 DESCRIPTION:Asian Champions League - 2026 - Group A\nWatch: https://www.twi
  tch.tv/acl
 SUMMARY:Lower bracket quarterfinal 2: CW vs GZ
-URL;VALUE=URI:https://www.twitch.tv/acl
+URL:https://www.twitch.tv/acl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T130000Z
+UID:pandascore-match-1508598@esport-ics
+DTSTART:20260525T130000Z
+DTEND:20260525T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Finals season 51 2026 - Pl
+ ayoffs
+SUMMARY:Round 1: KG vs GZ
 END:VEVENT
 END:VCALENDAR

@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Malaysia - Season 17 2026 - Regular Season\nWatch: https://
  www.youtube.com/@MLBBeSports/streams
 SUMMARY:ACE vs RRQ.T
+URL:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T070000Z
+UID:pandascore-match-1499190@esport-ics
+DTSTART:20260603T070000Z
+DTEND:20260603T104500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 17 2026 - Playoffs\nWatch: https://www.yo
+ utube.com/@MLBBeSports/streams
+SUMMARY:Upper bracket quarterfinal 1: VAM vs RRQ.T
 URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
 END:VEVENT
 END:VCALENDAR

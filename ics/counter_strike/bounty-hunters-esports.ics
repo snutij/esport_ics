@@ -711,6 +711,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 2 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs3
 SUMMARY:Grand final: LDP vs BHE
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T200000Z
+UID:pandascore-match-1508610@esport-ics
+DTSTART:20260527T200000Z
+DTEND:20260527T221500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X Base Recife - 2026 - Group B\nWatch: https://www.twit
+ ch.tv/circuitxofficial
+SUMMARY:BHE vs GH
+URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR

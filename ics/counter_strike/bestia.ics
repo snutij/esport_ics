@@ -380,6 +380,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #4 2026 - Playoffs\nWatch: https://kick.com/u
  rbancontenders
 SUMMARY:Semifinal 2: PSSN.UA vs BST
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T140000Z
+UID:pandascore-match-1508606@esport-ics
+DTSTART:20260527T140000Z
+DTEND:20260527T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X Base Recife - 2026 - Group A\nWatch: https://www.twit
+ ch.tv/circuitxofficial
+SUMMARY:BST vs 25 cents
+URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR
