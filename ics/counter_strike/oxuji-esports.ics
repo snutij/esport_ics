@@ -756,6 +756,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 5 2026 - Group A\nWatch: https://
  www.twitch.tv/mpkbk
 SUMMARY:Elimination match: ATH vs OXUJI
+URL:https://www.twitch.tv/mpkbk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T133000Z
+UID:pandascore-match-1498606@esport-ics
+DTSTART:20260525T133000Z
+DTEND:20260525T154500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 5 2026 - Group A\nWatch: https://
+ www.twitch.tv/mpkbk
+SUMMARY:Decider Match: OXUJI vs TBD
 URL;VALUE=URI:https://www.twitch.tv/mpkbk
 END:VEVENT
 END:VCALENDAR

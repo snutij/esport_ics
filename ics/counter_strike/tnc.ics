@@ -672,6 +672,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
  p C\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:TNC vs ex-Zero Tenacity
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260526T080000Z
+UID:pandascore-match-1500244@esport-ics
+DTSTART:20260526T080000Z
+DTEND:20260526T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
+ p C\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Elimination match: LC vs TNC
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
@@ -684,5 +695,16 @@ DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
  om/cct_cs
 SUMMARY:Round 1: HERO.A vs TNC
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T103000Z
+UID:pandascore-match-1504689@esport-ics
+DTSTART:20260529T103000Z
+DTEND:20260529T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group C\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:Winners match: TNC vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

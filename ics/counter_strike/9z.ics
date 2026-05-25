@@ -411,4 +411,13 @@ DESCRIPTION:Stake Ranked - Episode 2 2026 - Playoffs\nWatch: https://kick.c
 SUMMARY:Upper bracket quarterfinal 4: 9z vs SHK
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T103000Z
+UID:pandascore-match-1508664@esport-ics
+DTSTART:20260606T103000Z
+DTEND:20260606T111500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Cologne Major 2026 - Stage 2
+SUMMARY:Round 1: 9z vs TBD
+END:VEVENT
 END:VCALENDAR
