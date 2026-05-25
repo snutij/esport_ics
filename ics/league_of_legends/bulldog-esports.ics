@@ -58,6 +58,83 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Winter 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
  ol
 SUMMARY:Lower bracket semifinal: VDN vs BLD
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T170000Z
+UID:pandascore-match-1509145@esport-ics
+DTSTART:20260525T170000Z
+DTEND:20260525T174500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:AP vs BLD
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T180000Z
+UID:pandascore-match-1509173@esport-ics
+DTSTART:20260525T180000Z
+DTEND:20260525T184500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:DEER vs BLD
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T190000Z
+UID:pandascore-match-1509176@esport-ics
+DTSTART:20260525T190000Z
+DTEND:20260525T194500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:VDN vs BLD
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T200000Z
+UID:pandascore-match-1509179@esport-ics
+DTSTART:20260525T200000Z
+DTEND:20260525T204500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:LL vs BLD
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T170000Z
+UID:pandascore-match-1509182@esport-ics
+DTSTART:20260527T170000Z
+DTEND:20260527T174500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:LEO vs BLD
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T180000Z
+UID:pandascore-match-1509187@esport-ics
+DTSTART:20260527T180000Z
+DTEND:20260527T184500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:DMG vs BLD
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T190000Z
+UID:pandascore-match-1509190@esport-ics
+DTSTART:20260527T190000Z
+DTEND:20260527T194500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:RUD vs BLD
 URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR

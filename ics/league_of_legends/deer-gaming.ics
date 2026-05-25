@@ -47,6 +47,83 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Winter 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:DEER vs AP
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T170000Z
+UID:pandascore-match-1509168@esport-ics
+DTSTART:20260525T170000Z
+DTEND:20260525T174500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:DEER vs VDN
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T180000Z
+UID:pandascore-match-1509173@esport-ics
+DTSTART:20260525T180000Z
+DTEND:20260525T184500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:DEER vs BLD
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T190000Z
+UID:pandascore-match-1509177@esport-ics
+DTSTART:20260525T190000Z
+DTEND:20260525T194500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:DEER vs LL
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T200000Z
+UID:pandascore-match-1509181@esport-ics
+DTSTART:20260525T200000Z
+DTEND:20260525T204500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:DEER vs RUD
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T170000Z
+UID:pandascore-match-1509185@esport-ics
+DTSTART:20260527T170000Z
+DTEND:20260527T174500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:DEER vs DMG
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T180000Z
+UID:pandascore-match-1509189@esport-ics
+DTSTART:20260527T180000Z
+DTEND:20260527T184500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:DEER vs AP
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T190000Z
+UID:pandascore-match-1509192@esport-ics
+DTSTART:20260527T190000Z
+DTEND:20260527T194500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:DEER vs LEO
 URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR

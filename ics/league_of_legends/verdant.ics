@@ -109,6 +109,83 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Winter 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/primeleague
 SUMMARY:Lower bracket round 1 match 1: G2N vs VDN
-URL;VALUE=URI:https://www.twitch.tv/primeleague
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T170000Z
+UID:pandascore-match-1509168@esport-ics
+DTSTART:20260525T170000Z
+DTEND:20260525T174500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:DEER vs VDN
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T180000Z
+UID:pandascore-match-1509171@esport-ics
+DTSTART:20260525T180000Z
+DTEND:20260525T184500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:LEO vs VDN
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T190000Z
+UID:pandascore-match-1509176@esport-ics
+DTSTART:20260525T190000Z
+DTEND:20260525T194500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:VDN vs BLD
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260525T200000Z
+UID:pandascore-match-1509178@esport-ics
+DTSTART:20260525T200000Z
+DTEND:20260525T204500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:DMG vs VDN
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T170000Z
+UID:pandascore-match-1509184@esport-ics
+DTSTART:20260527T170000Z
+DTEND:20260527T174500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:LL vs VDN
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T180000Z
+UID:pandascore-match-1509186@esport-ics
+DTSTART:20260527T180000Z
+DTEND:20260527T184500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:VDN vs RUD
+URL;VALUE=URI:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T190000Z
+UID:pandascore-match-1509191@esport-ics
+DTSTART:20260527T190000Z
+DTEND:20260527T194500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:AP vs VDN
+URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR

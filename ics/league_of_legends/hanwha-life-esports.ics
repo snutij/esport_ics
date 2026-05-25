@@ -210,6 +210,17 @@ SUMMARY:Lower bracket semifinal: NS vs HLE
 URL:https://play.sooplive.com/ewc
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260526T070000Z
+UID:pandascore-match-1465555@esport-ics
+DTSTART:20260526T070000Z
+DTEND:20260526T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Korea Qualifier 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/EWC_STCArena_EN
+SUMMARY:Lower bracket final: DK vs HLE
+URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260527T080000Z
 UID:pandascore-match-1413500@esport-ics
 DTSTART:20260527T080000Z

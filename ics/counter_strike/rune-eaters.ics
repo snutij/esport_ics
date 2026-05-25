@@ -627,7 +627,7 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
  p D\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:VRSDelivery vs RE
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260525T140000Z
@@ -638,7 +638,7 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
  nWatch: https://kick.com/bcgamemasters
 SUMMARY:Round 4: HERO.A vs RE
-URL;VALUE=URI:https://kick.com/bcgamemasters
+URL:https://kick.com/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260525T170000Z
@@ -650,5 +650,16 @@ DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
  om/cct_cs
 SUMMARY:Round 1: ex-RUBY vs RE
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260526T110000Z
+UID:pandascore-match-1500249@esport-ics
+DTSTART:20260526T110000Z
+DTEND:20260526T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
+ p D\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Elimination match: RE vs TBD
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
