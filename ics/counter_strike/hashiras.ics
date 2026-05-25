@@ -419,4 +419,15 @@ DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
 SUMMARY:Decider Match: Hashiras vs EAC
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T110000Z
+UID:pandascore-match-1504016@esport-ics
+DTSTART:20260527T110000Z
+DTEND:20260527T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
+ : https://kick.com/CCT_CS5
+SUMMARY:Lower bracket round 2 match 2: JUL vs Hashiras
+URL;VALUE=URI:https://kick.com/CCT_CS5
+END:VEVENT
 END:VCALENDAR

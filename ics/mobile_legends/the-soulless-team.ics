@@ -80,7 +80,9 @@ UID:pandascore-match-1500231@esport-ics
 DTSTART:20260525T193000Z
 DTEND:20260525T214500Z
 CLASS:PUBLIC
-DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division\nWatch:
+  https://www.youtube.com/watch?v=ZNuPy0_ASgI
 SUMMARY:SUP vs TST
+URL;VALUE=URI:https://www.youtube.com/watch?v=ZNuPy0_ASgI
 END:VEVENT
 END:VCALENDAR

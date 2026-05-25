@@ -56,7 +56,7 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:LL vs RUD
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL:https://www.twitch.tv/nlclol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260525T180000Z
@@ -65,9 +65,9 @@ DTSTART:20260525T180000Z
 DTEND:20260525T184500Z
 CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
- v/nlclol
+ v/basick_lol
 SUMMARY:LL vs AP
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL;VALUE=URI:https://www.twitch.tv/basick_lol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260525T190000Z

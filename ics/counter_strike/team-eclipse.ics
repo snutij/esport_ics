@@ -108,7 +108,9 @@ UID:pandascore-match-1503443@esport-ics
 DTSTART:20260525T180000Z
 DTEND:20260525T201500Z
 CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group Stage
+DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/dust2tv
 SUMMARY:Round 4: Eclipse vs EN
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 END:VCALENDAR
