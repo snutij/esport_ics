@@ -628,6 +628,17 @@ SUMMARY:Lower bracket round 1 match 3: Vexar vs LILMIX
 URL;VALUE=URI:https://kick.com/CCT_CS5
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260526T140000Z
+UID:pandascore-match-1510114@esport-ics
+DTSTART:20260526T140000Z
+DTEND:20260526T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Play-In Group A\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Winner's Match: RUST vs LILMIX
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260527T133000Z
 UID:pandascore-match-1504687@esport-ics
 DTSTART:20260527T133000Z
