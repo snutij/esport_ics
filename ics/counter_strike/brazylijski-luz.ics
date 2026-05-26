@@ -300,7 +300,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Play-In Group B\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Elimination Match: BL vs FAL.F
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260526T134500Z
@@ -311,7 +311,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
  : https://kick.com/CCT_CS5
 SUMMARY:Upper bracket quarterfinal 2: BL vs Project 91
-URL;VALUE=URI:https://kick.com/CCT_CS5
+URL:https://kick.com/CCT_CS5
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260527T103000Z
@@ -323,5 +323,16 @@ DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group A\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:Winners match: DNT vs BL
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T134500Z
+UID:pandascore-match-1504021@esport-ics
+DTSTART:20260528T134500Z
+DTEND:20260528T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
+ : https://kick.com/CCT_CS5
+SUMMARY:Upper bracket semifinal 1: ENJOY vs BL
+URL;VALUE=URI:https://kick.com/CCT_CS5
 END:VEVENT
 END:VCALENDAR

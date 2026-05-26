@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Karmine Corp Blue Stars
+SLUG:karmine-corp-blue-stars
+BEGIN:VEVENT
+DTSTAMP:20260530T100000Z
+UID:pandascore-match-1485197@esport-ics
+DTSTART:20260530T100000Z
+DTEND:20260530T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Spring 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/teamtskofficiel
+SUMMARY:Upper bracket final: KCBS vs CLA
+URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+END:VCALENDAR

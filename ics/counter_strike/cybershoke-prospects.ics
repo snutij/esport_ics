@@ -754,6 +754,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group D\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:ENCE vs CSH.P
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T103000Z
+UID:pandascore-match-1504691@esport-ics
+DTSTART:20260530T103000Z
+DTEND:20260530T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group D\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:Winners match: CSH.P vs Atreides
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT

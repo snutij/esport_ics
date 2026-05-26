@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Invitational 2026 - Super Group\nWatch: http://www.twitch
  .tv/otplol_
 SUMMARY:SLY vs LIL
-URL;VALUE=URI:http://www.twitch.tv/otplol_
+URL:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T100000Z
+UID:pandascore-match-1485196@esport-ics
+DTSTART:20260531T100000Z
+DTEND:20260531T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Spring 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/teamtskofficiel
+SUMMARY:Lower bracket semifinal: LIL vs PCS
+URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
 END:VEVENT
 END:VCALENDAR

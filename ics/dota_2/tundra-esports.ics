@@ -593,7 +593,7 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 7 2026 - Group Stage\nWatch: https://www.tw
  itch.tv/BLASTDota
 SUMMARY:Tundra vs AUR
-URL;VALUE=URI:https://www.twitch.tv/BLASTDota
+URL:https://www.twitch.tv/BLASTDota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260526T135000Z
@@ -604,7 +604,7 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 7 2026 - Group Stage\nWatch: https://www.tw
  itch.tv/BLASTDota
 SUMMARY:Tundra vs TS
-URL;VALUE=URI:https://www.twitch.tv/BLASTDota
+URL:https://www.twitch.tv/BLASTDota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260526T172000Z
@@ -702,7 +702,7 @@ DTEND:20260529T165500Z
 CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 7 2026 - Group Stage\nWatch: https://www.tw
  itch.tv/BLASTDota
-SUMMARY:Tundra vs ex-HEROIC
+SUMMARY:Tundra vs LGD
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR
