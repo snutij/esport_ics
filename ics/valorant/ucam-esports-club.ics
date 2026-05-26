@@ -309,6 +309,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
  tv/valorant_emea
 SUMMARY:Upper bracket final: NAVI.J vs UCAM
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T150000Z
+UID:pandascore-match-1493953@esport-ics
+DTSTART:20260527T150000Z
+DTEND:20260527T184500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Lower bracket final: RBN vs UCAM
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
