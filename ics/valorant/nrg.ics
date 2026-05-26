@@ -234,4 +234,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 2
 SUMMARY:Upper bracket quarterfinal 4: LOUD vs NRG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T140000Z
+UID:pandascore-match-1510127@esport-ics
+DTSTART:20260606T140000Z
+DTEND:20260606T161500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters London 2026 - Group Stage\nWatch: https://www.twi
+ tch.tv/VALORANT
+SUMMARY:Round 1: XLG vs NRG
+URL;VALUE=URI:https://www.twitch.tv/VALORANT
+END:VEVENT
 END:VCALENDAR
