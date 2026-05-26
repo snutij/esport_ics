@@ -83,6 +83,15 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division\nWatch:
   https://www.youtube.com/watch?v=ZNuPy0_ASgI
 SUMMARY:SUP vs TST
-URL;VALUE=URI:https://www.youtube.com/watch?v=ZNuPy0_ASgI
+URL:https://www.youtube.com/watch?v=ZNuPy0_ASgI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T180000Z
+UID:pandascore-match-1511081@esport-ics
+DTSTART:20260529T180000Z
+DTEND:20260529T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division
+SUMMARY:TST vs Dark Phoenix
 END:VEVENT
 END:VCALENDAR

@@ -43,6 +43,15 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division\nWatch:
   https://www.youtube.com/@BetBoomEsports/streams
 SUMMARY:HARD GRIND vs Omnix
-URL;VALUE=URI:https://www.youtube.com/@BetBoomEsports/streams
+URL:https://www.youtube.com/@BetBoomEsports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T193000Z
+UID:pandascore-match-1511082@esport-ics
+DTSTART:20260529T193000Z
+DTEND:20260529T214500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division
+SUMMARY:Omnix vs Aterion Esports
 END:VEVENT
 END:VCALENDAR
