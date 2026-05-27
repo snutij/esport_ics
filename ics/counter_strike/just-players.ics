@@ -141,6 +141,17 @@ SUMMARY:Round 4: ALGO vs Just Players
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260528T080000Z
+UID:pandascore-match-1501210@esport-ics
+DTSTART:20260528T080000Z
+DTEND:20260528T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Round of 16 match 4: ACE vs Just Players
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260528T110000Z
 UID:pandascore-match-1489302@esport-ics
 DTSTART:20260528T110000Z

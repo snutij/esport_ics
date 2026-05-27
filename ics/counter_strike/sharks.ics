@@ -336,6 +336,17 @@ SUMMARY:Upper bracket quarterfinal 4: 9z vs SHK
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260528T173000Z
+UID:pandascore-match-1479972@esport-ics
+DTSTART:20260528T173000Z
+DTEND:20260528T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 2 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper bracket semifinal 2: SHK vs NIP
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260602T103000Z
 UID:pandascore-match-1494593@esport-ics
 DTSTART:20260602T103000Z

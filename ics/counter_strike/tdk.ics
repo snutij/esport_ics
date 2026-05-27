@@ -628,6 +628,26 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Finals season 51 2026 - Playoffs
  \nWatch: https://www.twitch.tv/watchfulTVb
 SUMMARY:Semifinal 2: TDK vs NEMI
-URL;VALUE=URI:https://www.twitch.tv/watchfulTVb
+URL:https://www.twitch.tv/watchfulTVb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T170000Z
+UID:pandascore-match-1508604@esport-ics
+DTSTART:20260528T170000Z
+DTEND:20260528T204500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Finals season 51 2026 - Playoffs
+SUMMARY:Grand final: NEM vs TDK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T170000Z
+UID:pandascore-match-1501217@esport-ics
+DTSTART:20260529T170000Z
+DTEND:20260529T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Round of 16 match 1: TDK vs TNC
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

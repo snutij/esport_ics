@@ -407,7 +407,18 @@ DTEND:20260528T191500Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/bcgamemasters
-SUMMARY:Round of 16 match 4: BCA vs EF
+SUMMARY:Round of 16 match 2: BCA vs EF
 URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T080000Z
+UID:pandascore-match-1501214@esport-ics
+DTSTART:20260529T080000Z
+DTEND:20260529T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Round of 16 match 5: BCA vs ALGO
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

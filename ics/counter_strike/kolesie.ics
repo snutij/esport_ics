@@ -488,6 +488,17 @@ SUMMARY:Round 1: KOL vs BW
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260528T140000Z
+UID:pandascore-match-1501212@esport-ics
+DTSTART:20260528T140000Z
+DTEND:20260528T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Round of 16 match 6: KOL vs G1
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260528T170000Z
 UID:pandascore-match-1504712@esport-ics
 DTSTART:20260528T170000Z
