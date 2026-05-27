@@ -56,6 +56,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 27 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 5: Vortex CGO vs HAVEN
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T093000Z
+UID:pandascore-match-1511098@esport-ics
+DTSTART:20260528T093000Z
+DTEND:20260528T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: Subtop De France vs Vortex CGO
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

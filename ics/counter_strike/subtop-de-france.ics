@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Lower bracket round 1 match 1: SAW vs Subtop De France
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T093000Z
+UID:pandascore-match-1511098@esport-ics
+DTSTART:20260528T093000Z
+DTEND:20260528T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: Subtop De France vs Vortex CGO
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

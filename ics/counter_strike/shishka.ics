@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 27 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 3: SHISHKA vs CSGOPOSITIVE
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T183000Z
+UID:pandascore-match-1511101@esport-ics
+DTSTART:20260528T183000Z
+DTEND:20260528T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: TLR vs SHISHKA
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 7 2026 - Group D\nWatch: https://ki
  ck.com/watchfultvb
 SUMMARY:cswalkers vs CarritoSpain
-URL;VALUE=URI:https://kick.com/watchfultvb
+URL:https://kick.com/watchfultvb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T153000Z
+UID:pandascore-match-1511100@esport-ics
+DTSTART:20260528T153000Z
+DTEND:20260528T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: CarritoSpain vs Diamant Esports
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR
