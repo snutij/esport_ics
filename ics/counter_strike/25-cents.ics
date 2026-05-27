@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X Base Recife - 2026 - Group A\nWatch: https://www.twit
  ch.tv/circuitxofficial
 SUMMARY:BST vs 25 cents
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T140000Z
+UID:pandascore-match-1508608@esport-ics
+DTSTART:20260528T140000Z
+DTEND:20260528T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X Base Recife - 2026 - Group A\nWatch: https://www.twit
+ ch.tv/circuitxofficial
+SUMMARY:Elimination match: 25 cents vs TBD
 URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR

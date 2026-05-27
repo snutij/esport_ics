@@ -276,6 +276,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Finals season 51 2026 - Pl
  ayoffs\nWatch: https://www.twitch.tv/churchd0gg
 SUMMARY:Semifinal 2: SFE vs TdU
-URL;VALUE=URI:https://www.twitch.tv/churchd0gg
+URL:https://www.twitch.tv/churchd0gg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T130000Z
+UID:pandascore-match-1508595@esport-ics
+DTSTART:20260528T130000Z
+DTEND:20260528T164500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Finals season 51 2026 - Pl
+ ayoffs
+SUMMARY:Grand final: TYLOO vs SFE
 END:VEVENT
 END:VCALENDAR

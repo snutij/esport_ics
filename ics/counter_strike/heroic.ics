@@ -402,6 +402,17 @@ SUMMARY:Upper bracket quarterfinal 3: HERO vs NIP
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260528T123000Z
+UID:pandascore-match-1479980@esport-ics
+DTSTART:20260528T123000Z
+DTEND:20260528T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 2 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Lower bracket round 1 match 2: HERO vs TBD
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260602T103000Z
 UID:pandascore-match-1494593@esport-ics
 DTSTART:20260602T103000Z
