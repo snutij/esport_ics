@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Philippines - Season 17 2026 - Playoffs\nWatch: https://www
  .youtube.com/watch?v=o6LOzbRS3Hc
 SUMMARY:Upper bracket quarterfinal 1: ONPH vs AR
-URL;VALUE=URI:https://www.youtube.com/watch?v=o6LOzbRS3Hc
+URL:https://www.youtube.com/watch?v=o6LOzbRS3Hc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T070000Z
+UID:pandascore-match-1479140@esport-ics
+DTSTART:20260528T070000Z
+DTEND:20260528T104500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Playoffs\nWatch: https://www
+ .youtube.com/@MLBBeSports/streams
+SUMMARY:Upper bracket semifinal 1: Team Falcons PH vs ONPH
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
 END:VEVENT
 END:VCALENDAR
