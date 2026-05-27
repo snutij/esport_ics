@@ -630,6 +630,17 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Regular Season\nWatch: http
  s://www.twitch.tv/elisaviihdesport
 SUMMARY:Round 7: KSM vs TMVG
-URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+URL:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T153000Z
+UID:pandascore-match-1511096@esport-ics
+DTSTART:20260527T153000Z
+DTEND:20260527T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: EJ vs KSM
+URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

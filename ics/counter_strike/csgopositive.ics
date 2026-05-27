@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 27 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 4: CSGOPOSITIVE vs Diamant Esports
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T123000Z
+UID:pandascore-match-1511095@esport-ics
+DTSTART:20260527T123000Z
+DTEND:20260527T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 1: LPH vs CSGOPOSITIVE
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

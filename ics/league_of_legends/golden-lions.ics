@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:LRS - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  acelatam
 SUMMARY:Upper bracket final: GL vs VTC
+URL:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T200000Z
+UID:pandascore-match-1384386@esport-ics
+DTSTART:20260609T200000Z
+DTEND:20260609T234500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ acelatam
+SUMMARY:Grand final: GL vs TBD
 URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR
