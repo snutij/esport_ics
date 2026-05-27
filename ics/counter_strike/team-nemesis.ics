@@ -664,4 +664,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Finals season 51 2026 - Playoffs
 SUMMARY:Grand final: NEM vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T110000Z
+UID:pandascore-match-1497670@esport-ics
+DTSTART:20260529T110000Z
+DTEND:20260529T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/bcgamemasters
+SUMMARY:Round of 16 match 6: NEM vs Lavked
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+END:VEVENT
 END:VCALENDAR

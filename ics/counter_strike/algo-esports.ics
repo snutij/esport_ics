@@ -802,4 +802,15 @@ DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Grou
 SUMMARY:Decider Match: ASTR vs ALGO
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T140000Z
+UID:pandascore-match-1489299@esport-ics
+DTSTART:20260527T140000Z
+DTEND:20260527T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 2 2026 - Playoffs\nWatch: https://kick.com/
+ cct_cs2
+SUMMARY:Round of 16 match 3: M8 vs ALGO
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

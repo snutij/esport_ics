@@ -884,6 +884,39 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
  nWatch: https://kick.com/bcgamemasters
 SUMMARY:Round 5: ex-RUBY vs PF
-URL;VALUE=URI:https://kick.com/bcgamemasters
+URL:https://kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T170000Z
+UID:pandascore-match-1504711@esport-ics
+DTSTART:20260527T170000Z
+DTEND:20260527T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 2: ex-RUBY vs ASTR
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T170000Z
+UID:pandascore-match-1489304@esport-ics
+DTSTART:20260528T170000Z
+DTEND:20260528T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 2 2026 - Playoffs\nWatch: https://kick.com/
+ cct_cs2
+SUMMARY:Round of 16 match 8: WW vs ex-RUBY
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T080000Z
+UID:pandascore-match-1497669@esport-ics
+DTSTART:20260529T080000Z
+DTEND:20260529T101500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/bcgamemasters
+SUMMARY:Round of 16 match 5: NEMI vs ex-RUBY
+URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR

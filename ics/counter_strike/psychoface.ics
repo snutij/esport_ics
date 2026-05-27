@@ -226,6 +226,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Group Stage\
  nWatch: https://kick.com/bcgamemasters
 SUMMARY:Round 5: ex-RUBY vs PF
-URL;VALUE=URI:https://kick.com/bcgamemasters
+URL:https://kick.com/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T090000Z
+UID:pandascore-match-1498622@esport-ics
+DTSTART:20260527T090000Z
+DTEND:20260527T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 5 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/mpkbk
+SUMMARY:Quarterfinal 1: NTR vs PF
+URL;VALUE=URI:https://www.twitch.tv/mpkbk
 END:VEVENT
 END:VCALENDAR
