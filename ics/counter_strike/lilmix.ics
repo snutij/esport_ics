@@ -658,6 +658,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group C\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:YN vs LILMIX
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T080000Z
+UID:pandascore-match-1504688@esport-ics
+DTSTART:20260529T080000Z
+DTEND:20260529T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group C\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:Elimination match: MISA vs LILMIX
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

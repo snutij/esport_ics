@@ -354,6 +354,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 49 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Grand final: ALGO vs PRE
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T103000Z
+UID:pandascore-match-1512473@esport-ics
+DTSTART:20260530T103000Z
+DTEND:20260530T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 50 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:SNG vs PRE
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
