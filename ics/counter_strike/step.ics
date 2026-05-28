@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 50 2026 - Group A\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:xept vs STEP
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T103000Z
+UID:pandascore-match-1512465@esport-ics
+DTSTART:20260601T103000Z
+DTEND:20260601T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 50 2026 - Group A\nWatch: https://www.kick.co
+ m/united21_en
+SUMMARY:Elimination match: RT vs STEP
+URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

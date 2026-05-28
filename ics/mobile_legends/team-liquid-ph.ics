@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Philippines - Season 17 2026 - Playoffs\nWatch: https://www
  .youtube.com/@MLBBeSports/streams
 SUMMARY:Upper bracket semifinal 2: TLPH vs OE
+URL:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T070000Z
+UID:pandascore-match-1479142@esport-ics
+DTSTART:20260529T070000Z
+DTEND:20260529T104500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Playoffs\nWatch: https://www
+ .youtube.com/@MLBBeSports/streams
+SUMMARY:Upper bracket final: ONPH vs TLPH
 URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
 END:VEVENT
 END:VCALENDAR

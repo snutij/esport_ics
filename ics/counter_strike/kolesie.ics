@@ -496,7 +496,7 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
  offs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Round of 16 match 6: KOL vs G1
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260528T170000Z
@@ -508,5 +508,16 @@ DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
  om/cct_cs
 SUMMARY:Round 2: KOL vs ex-Zero Tenacity
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T140000Z
+UID:pandascore-match-1501220@esport-ics
+DTSTART:20260530T140000Z
+DTEND:20260530T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Quarterfinal 3: KOL vs TBD
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

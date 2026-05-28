@@ -333,7 +333,7 @@ CLASS:PUBLIC
 DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 2 - Gr
  oup B\nWatch: https://play.sooplive.com/gslenglish/294367837
 SUMMARY:Elimination match: SHIN vs Rogue
-URL;VALUE=URI:https://play.sooplive.com/gslenglish/294367837
+URL:https://play.sooplive.com/gslenglish/294367837
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260530T083000Z
@@ -345,5 +345,16 @@ DESCRIPTION:RSL Revival - Season 5 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/tastelesstv
 SUMMARY:Lower bracket quarterfinal 2: Solar vs Rogue
 URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T080000Z
+UID:pandascore-match-1503145@esport-ics
+DTSTART:20260607T080000Z
+DTEND:20260607T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Global StarCraft II League - Season 2 2026 - Playoffs\nWatch: h
+ ttps://www.sooplive.com/station/afgsl
+SUMMARY:Semifinal 1: herO vs Rogue
+URL;VALUE=URI:https://www.sooplive.com/station/afgsl
 END:VEVENT
 END:VCALENDAR

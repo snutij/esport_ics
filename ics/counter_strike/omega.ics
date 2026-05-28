@@ -772,4 +772,15 @@ CLASS:PUBLIC
 DESCRIPTION:FRAGgg - Season 17 2026 - Group B
 SUMMARY:OMG vs DM
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T080000Z
+UID:pandascore-match-1501218@esport-ics
+DTSTART:20260530T080000Z
+DTEND:20260530T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Quarterfinal 1: OMG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR

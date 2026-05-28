@@ -262,7 +262,9 @@ UID:pandascore-match-1511689@esport-ics
 DTSTART:20260528T180000Z
 DTEND:20260528T201500Z
 CLASS:PUBLIC
-DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division\nWatch:
+  https://www.youtube.com/watch?v=KjBC3V_-xHY
 SUMMARY:CH vs VP
+URL;VALUE=URI:https://www.youtube.com/watch?v=KjBC3V_-xHY
 END:VEVENT
 END:VCALENDAR
