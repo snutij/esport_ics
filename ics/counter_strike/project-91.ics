@@ -263,7 +263,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group B\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:Elimination match: Project 91 vs WAZ
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260530T173000Z
@@ -273,5 +273,16 @@ DTEND:20260530T194500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 1: DNT vs Project 91
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T103000Z
+UID:pandascore-match-1504695@esport-ics
+DTSTART:20260601T103000Z
+DTEND:20260601T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group B\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:Decider match: Project 91 vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

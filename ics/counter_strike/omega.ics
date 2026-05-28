@@ -761,6 +761,15 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
  offs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Round of 16 match 2: ex-RUBY vs OMG
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T070000Z
+UID:pandascore-match-1513110@esport-ics
+DTSTART:20260529T070000Z
+DTEND:20260529T091500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAGgg - Season 17 2026 - Group B
+SUMMARY:OMG vs DM
 END:VEVENT
 END:VCALENDAR

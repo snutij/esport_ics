@@ -659,7 +659,7 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 7 2026 - Group Stage\nWatch: https://www.tw
  itch.tv/BLASTDota
 SUMMARY:TY vs Tundra
-URL;VALUE=URI:https://www.twitch.tv/BLASTDota
+URL:https://www.twitch.tv/BLASTDota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260528T135000Z
@@ -668,9 +668,9 @@ DTSTART:20260528T135000Z
 DTEND:20260528T143500Z
 CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 7 2026 - Group Stage\nWatch: https://www.tw
- itch.tv/BLASTDota
+ itch.tv/BLASTDotab
 SUMMARY:FLC vs Tundra
-URL;VALUE=URI:https://www.twitch.tv/BLASTDota
+URL;VALUE=URI:https://www.twitch.tv/BLASTDotab
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260529T080000Z

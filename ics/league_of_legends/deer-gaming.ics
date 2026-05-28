@@ -132,7 +132,9 @@ UID:pandascore-match-1513054@esport-ics
 DTSTART:20260529T160000Z
 DTEND:20260529T181500Z
 CLASS:PUBLIC
-DESCRIPTION:NLC - Spring 2026 - Playoffs
+DESCRIPTION:NLC - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
+ ol
 SUMMARY:Upper bracket semifinals match 1: DEER vs RUD
+URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR

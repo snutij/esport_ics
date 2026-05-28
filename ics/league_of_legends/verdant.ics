@@ -194,7 +194,9 @@ UID:pandascore-match-1513056@esport-ics
 DTSTART:20260601T160000Z
 DTEND:20260601T181500Z
 CLASS:PUBLIC
-DESCRIPTION:NLC - Spring 2026 - Playoffs
+DESCRIPTION:NLC - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
+ ol
 SUMMARY:Upper bracket final: VDN vs TBD
+URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR

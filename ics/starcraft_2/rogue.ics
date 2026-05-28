@@ -322,7 +322,18 @@ CLASS:PUBLIC
 DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 2 - Gr
  oup B\nWatch: https://www.sooplive.com/station/gslenglish
 SUMMARY:Zoun vs Rogue
-URL;VALUE=URI:https://www.sooplive.com/station/gslenglish
+URL:https://www.sooplive.com/station/gslenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260528T114500Z
+UID:pandascore-match-1498576@esport-ics
+DTSTART:20260528T114500Z
+DTEND:20260528T140000Z
+CLASS:PUBLIC
+DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 2 - Gr
+ oup B\nWatch: https://play.sooplive.com/gslenglish/294367837
+SUMMARY:Elimination match: SHIN vs Rogue
+URL;VALUE=URI:https://play.sooplive.com/gslenglish/294367837
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260530T083000Z
