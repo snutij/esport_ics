@@ -133,7 +133,9 @@ UID:pandascore-match-1491495@esport-ics
 DTSTART:20260528T100000Z
 DTEND:20260528T121500Z
 CLASS:PUBLIC
-DESCRIPTION:VCS - Summer 2026 - Regular Season
+DESCRIPTION:VCS - Summer 2026 - Regular Season\nWatch: https://www.youtube.
+ com/@MVK_LOL/streams
 SUMMARY:SGW vs MVKA
+URL;VALUE=URI:https://www.youtube.com/@MVK_LOL/streams
 END:VEVENT
 END:VCALENDAR
