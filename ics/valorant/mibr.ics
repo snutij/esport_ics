@@ -130,7 +130,9 @@ UID:pandascore-match-1486847@esport-ics
 DTSTART:20260529T000000Z
 DTEND:20260529T034500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 2
+DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 2\nWatch: h
+ ttps://www.youtube.com/watch?v=16P1n9Iwspo
 SUMMARY:Upper bracket semifinal 1: LEV vs MIBR
+URL;VALUE=URI:https://www.youtube.com/watch?v=16P1n9Iwspo
 END:VEVENT
 END:VCALENDAR

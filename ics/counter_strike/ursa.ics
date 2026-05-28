@@ -1018,7 +1018,7 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/bcgamemasters
 SUMMARY:Round of 16 match 5: FOKUS vs URSA
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260528T110000Z
@@ -1029,6 +1029,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
  om/cct_cs
 SUMMARY:Round 2: URSA vs ORM
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T170000Z
+UID:pandascore-match-1504723@esport-ics
+DTSTART:20260530T170000Z
+DTEND:20260530T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 3: URSA vs TNC
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
