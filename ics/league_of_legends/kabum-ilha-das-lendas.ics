@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Desafiante - Split 1 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/cblol
 SUMMARY:Lower bracket final: KBM vs PNG.A
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T200000Z
+UID:pandascore-match-1460395@esport-ics
+DTSTART:20260601T200000Z
+DTEND:20260601T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 1 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/cblol
+SUMMARY:Grand final: VKS.A vs KBM
 URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

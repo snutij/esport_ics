@@ -113,7 +113,7 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:LEO vs BLD
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL:https://www.twitch.tv/nlclol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260527T180000Z
@@ -124,7 +124,7 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:DMG vs BLD
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL:https://www.twitch.tv/nlclol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260527T190000Z
@@ -135,6 +135,15 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:RUD vs BLD
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T180000Z
+UID:pandascore-match-1513055@esport-ics
+DTSTART:20260529T180000Z
+DTEND:20260529T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Spring 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinals match 1: AP vs BLD
 END:VEVENT
 END:VCALENDAR

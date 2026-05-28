@@ -641,6 +641,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 1: EJ vs KSM
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T143000Z
+UID:pandascore-match-1512895@esport-ics
+DTSTART:20260529T143000Z
+DTEND:20260529T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 13 2026 - Playoffs
+SUMMARY:Upper bracket semifinals match 1: ENCE vs KSM
 END:VEVENT
 END:VCALENDAR
