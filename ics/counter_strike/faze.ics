@@ -322,6 +322,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 2 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Upper bracket semifinal 1: MGC vs FaZe
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T100000Z
+UID:pandascore-match-1479978@esport-ics
+DTSTART:20260529T100000Z
+DTEND:20260529T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 2 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Lower bracket quarterfinal 2: 9z vs FaZe
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

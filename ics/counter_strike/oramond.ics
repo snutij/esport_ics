@@ -335,4 +335,15 @@ DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Playoffs\nWa
 SUMMARY:Round of 16 match 3: 100T vs ORM
 URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T170000Z
+UID:pandascore-match-1501221@esport-ics
+DTSTART:20260530T170000Z
+DTEND:20260530T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Quarterfinal 4: ORM vs TBD
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR

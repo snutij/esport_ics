@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:LPLOL - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/rt
  parenalol
 SUMMARY:Upper bracket final: TOS vs CRZ
+URL:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T180000Z
+UID:pandascore-match-1468677@esport-ics
+DTSTART:20260602T180000Z
+DTEND:20260602T214500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/rt
+ parenalol
+SUMMARY:Lower bracket final: CRZ vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rtparenalol
 END:VEVENT
 END:VCALENDAR

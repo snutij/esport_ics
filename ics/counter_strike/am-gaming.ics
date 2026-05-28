@@ -594,6 +594,17 @@ SUMMARY:Round of 16 match 7: 1WIN vs AM
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260529T080000Z
+UID:pandascore-match-1489308@esport-ics
+DTSTART:20260529T080000Z
+DTEND:20260529T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 2 2026 - Playoffs\nWatch: https://kick.com/
+ cct_cs2
+SUMMARY:Quarterfinal 4: AM vs JS
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260529T170000Z
 UID:pandascore-match-1497672@esport-ics
 DTSTART:20260529T170000Z
@@ -603,16 +614,5 @@ DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/bcgamemasters
 SUMMARY:Round of 16 match 7: TRI vs AM
 URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260529T170000Z
-UID:pandascore-match-1489308@esport-ics
-DTSTART:20260529T170000Z
-DTEND:20260529T191500Z
-CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Series 2 2026 - Playoffs\nWatch: https://kick.com/
- cct_cs2
-SUMMARY:Quarterfinal 4: JS vs AM
-URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
