@@ -212,6 +212,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 3 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/valorant_northamerica
 SUMMARY:Round 2: M80 vs SRB
+URL:https://www.twitch.tv/valorant_northamerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T200000Z
+UID:pandascore-match-1514537@esport-ics
+DTSTART:20260601T200000Z
+DTEND:20260601T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 3 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/valorant_northamerica
+SUMMARY:Round 3: SRB vs PGS
 URL;VALUE=URI:https://www.twitch.tv/valorant_northamerica
 END:VEVENT
 END:VCALENDAR

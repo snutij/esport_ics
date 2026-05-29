@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Philippines - Season 17 2026 - Playoffs\nWatch: https://www
  .youtube.com/@MLBBeSports/streams
 SUMMARY:Upper bracket final: ONPH vs TLPH
+URL:https://www.youtube.com/@MLBBeSports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T090000Z
+UID:pandascore-match-1479143@esport-ics
+DTSTART:20260531T090000Z
+DTEND:20260531T141500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Playoffs\nWatch: https://www
+ .youtube.com/@MLBBeSports/streams
+SUMMARY:Grand final: TLPH vs TBD
 URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
 END:VEVENT
 END:VCALENDAR

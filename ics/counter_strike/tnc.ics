@@ -727,7 +727,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group C\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:Winners match: TNC vs YN
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260529T170000Z
@@ -759,7 +759,7 @@ DTEND:20260531T101500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group C\
  nWatch: https://kick.com/eplcs_en
-SUMMARY:Decider match: TNC vs TBD
+SUMMARY:Decider match: TNC vs MISA
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

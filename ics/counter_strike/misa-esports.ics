@@ -777,7 +777,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group C\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:Elimination match: MISA vs LILMIX
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260529T110000Z
@@ -798,5 +798,16 @@ DTEND:20260530T194500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 13: MISA vs ZOTIX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T080000Z
+UID:pandascore-match-1504692@esport-ics
+DTSTART:20260531T080000Z
+DTEND:20260531T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group C\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:Decider match: TNC vs MISA
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
