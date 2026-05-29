@@ -265,6 +265,15 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division\nWatch:
   https://www.youtube.com/watch?v=KjBC3V_-xHY
 SUMMARY:CH vs VP
-URL;VALUE=URI:https://www.youtube.com/watch?v=KjBC3V_-xHY
+URL:https://www.youtube.com/watch?v=KjBC3V_-xHY
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T193000Z
+UID:pandascore-match-1515431@esport-ics
+DTSTART:20260602T193000Z
+DTEND:20260602T214500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division
+SUMMARY:YNDX vs CH
 END:VEVENT
 END:VCALENDAR

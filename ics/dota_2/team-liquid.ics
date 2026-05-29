@@ -707,6 +707,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 7 2026 - Group Stage\nWatch: https://www.tw
  itch.tv/BLASTDotaB
 SUMMARY:Liquid vs OG
-URL;VALUE=URI:https://www.twitch.tv/BLASTDotaB
+URL:https://www.twitch.tv/BLASTDotaB
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T153000Z
+UID:pandascore-match-1501581@esport-ics
+DTSTART:20260530T153000Z
+DTEND:20260530T174500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 7 2026 - Last Chance Qualifier\nWatch: http
+ s://www.twitch.tv/BLASTDota
+SUMMARY:Semifinal 2: TBD vs Liquid
+URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

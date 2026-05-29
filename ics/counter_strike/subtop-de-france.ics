@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 1: Subtop De France vs Vortex CGO
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T153000Z
+UID:pandascore-match-1515420@esport-ics
+DTSTART:20260530T153000Z
+DTEND:20260530T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 2: Subtop De France vs ARCH
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

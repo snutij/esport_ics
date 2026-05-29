@@ -453,6 +453,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/bcgamemasters
 SUMMARY:Round of 16 match 7: TRI vs AM
+URL:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T170000Z
+UID:pandascore-match-1497676@esport-ics
+DTSTART:20260530T170000Z
+DTEND:20260530T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/bcgamemasters
+SUMMARY:Quarterfinal 4: NEMI vs TRI
 URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 END:VCALENDAR

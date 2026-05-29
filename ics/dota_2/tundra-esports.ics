@@ -703,6 +703,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 7 2026 - Group Stage\nWatch: https://www.tw
  itch.tv/BLASTDota
 SUMMARY:Tundra vs LGD
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T120000Z
+UID:pandascore-match-1501579@esport-ics
+DTSTART:20260530T120000Z
+DTEND:20260530T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 7 2026 - Last Chance Qualifier\nWatch: http
+ s://www.twitch.tv/BLASTDota
+SUMMARY:Quarterfinal 2: AUR vs Tundra
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

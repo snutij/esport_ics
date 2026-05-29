@@ -101,6 +101,16 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - North America Closed Qualifier season 29 2026 - P
  layoffs\nWatch: https://www.twitch.tv/esl_dota2salve
 SUMMARY:Lower bracket final: Amaru Gaming vs not
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2salve
+URL:https://www.twitch.tv/esl_dota2salve
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T170000Z
+UID:pandascore-match-1515424@esport-ics
+DTSTART:20260530T170000Z
+DTEND:20260530T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - South America Open Qualifier 2026 - Playoff
+ s
+SUMMARY:Amaru Gaming vs KRD
 END:VEVENT
 END:VCALENDAR

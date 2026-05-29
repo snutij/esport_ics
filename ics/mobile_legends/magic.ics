@@ -276,4 +276,13 @@ DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Playoffs\nWatc
 SUMMARY:Upper bracket quarterfinal 1: YNDX vs MAG
 URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T163000Z
+UID:pandascore-match-1515429@esport-ics
+DTSTART:20260602T163000Z
+DTEND:20260602T184500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division
+SUMMARY:VP vs MAG
+END:VEVENT
 END:VCALENDAR
