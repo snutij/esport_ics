@@ -195,6 +195,17 @@ CLASS:PUBLIC
 DESCRIPTION:China Evolution Series - Act 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorantesports_cn
 SUMMARY:Semifinal 2: NOVA vs TYLOO
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T090000Z
+UID:pandascore-match-1500833@esport-ics
+DTSTART:20260530T090000Z
+DTEND:20260530T124500Z
+CLASS:PUBLIC
+DESCRIPTION:China Evolution Series - Act 2 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/valorantesports_cn
+SUMMARY:3rd Place match: AG vs TYLOO
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

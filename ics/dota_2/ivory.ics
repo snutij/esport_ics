@@ -487,6 +487,16 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 4 2026 - Group A\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:NGX vs IVO
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T040000Z
+UID:pandascore-match-1515113@esport-ics
+DTSTART:20260530T040000Z
+DTEND:20260530T061500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Southeast Asia Open Qualifier 2026 - Playof
+ fs
+SUMMARY:Qualification match 2: Grind vs IVO
 END:VEVENT
 END:VCALENDAR
