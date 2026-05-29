@@ -783,4 +783,13 @@ DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
 SUMMARY:Quarterfinal 1: OMG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T090000Z
+UID:pandascore-match-1513115@esport-ics
+DTSTART:20260530T090000Z
+DTEND:20260530T111500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAGgg - Season 17 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 2: OMG vs RE
+END:VEVENT
 END:VCALENDAR
