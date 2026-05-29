@@ -452,6 +452,17 @@ SUMMARY:PHA vs Atreides
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260529T080000Z
+UID:pandascore-match-1514519@esport-ics
+DTSTART:20260529T080000Z
+DTEND:20260529T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Play-In Group D\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Winner's Match: WAZ vs Atreides
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260530T103000Z
 UID:pandascore-match-1504691@esport-ics
 DTSTART:20260530T103000Z

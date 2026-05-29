@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X Base Recife - 2026 - Group B\nWatch: https://www.twit
  ch.tv/circuitxofficial
 SUMMARY:Winners match: GH vs FX
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T170000Z
+UID:pandascore-match-1508617@esport-ics
+DTSTART:20260530T170000Z
+DTEND:20260530T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X Base Recife - 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/circuitxofficial
+SUMMARY:Semifinal 2: FX vs TBD
 URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR
