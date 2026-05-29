@@ -496,6 +496,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Play-In Group D\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Elimination Match: YN vs PHA
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T110000Z
+UID:pandascore-match-1515434@esport-ics
+DTSTART:20260530T110000Z
+DTEND:20260530T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Play-In Group D\nWatch: 
+ https://kick.com/nodwin_cs2
+SUMMARY:Decider Match: YN vs WAZ
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
