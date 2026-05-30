@@ -20,7 +20,9 @@ UID:pandascore-match-1516527@esport-ics
 DTSTART:20260530T193000Z
 DTEND:20260530T214500Z
 CLASS:PUBLIC
-DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs
-SUMMARY:Lower bracket round 1 match  1: NFE vs TBD
+DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/fragadelphia
+SUMMARY:Lower bracket round 1 match  1: NFE vs WG
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
 END:VEVENT
 END:VCALENDAR

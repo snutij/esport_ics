@@ -248,7 +248,7 @@ DTEND:20260530T184500Z
 CLASS:PUBLIC
 DESCRIPTION:LEC - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
 SUMMARY:Lower bracket quarterfinal 1: KC vs Navi
-URL;VALUE=URI:https://www.twitch.tv/lec
+URL:https://www.twitch.tv/lec
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260531T150000Z
@@ -259,5 +259,15 @@ CLASS:PUBLIC
 DESCRIPTION:LEC - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
 SUMMARY:Lower bracket quarterfinal 2: GX vs KC
 URL:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T150000Z
+UID:pandascore-match-1486135@esport-ics
+DTSTART:20260601T150000Z
+DTEND:20260601T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
+SUMMARY:Lower bracket semifinal: KC vs TBD
+URL;VALUE=URI:https://www.twitch.tv/lec
 END:VEVENT
 END:VCALENDAR
