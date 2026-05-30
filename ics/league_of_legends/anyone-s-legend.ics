@@ -240,6 +240,16 @@ DTEND:20260530T094500Z
 CLASS:PUBLIC
 DESCRIPTION:LPL - Split 2 2026 - Playoffs\nWatch: https://www.huya.com/lpl
 SUMMARY:Upper bracket quarterfinal 3: AL vs EDG
+URL:https://www.huya.com/lpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T090000Z
+UID:pandascore-match-1422517@esport-ics
+DTSTART:20260601T090000Z
+DTEND:20260601T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Playoffs\nWatch: https://www.huya.com/lpl
+SUMMARY:Upper bracket semifinal 2: AL vs TBD
 URL;VALUE=URI:https://www.huya.com/lpl
 END:VEVENT
 END:VCALENDAR
