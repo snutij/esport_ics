@@ -404,6 +404,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Play-In Group A\nWatch: 
  https://kick.com/nodwin_cs2
 SUMMARY:Winner's Match: RUST vs LILMIX
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T110000Z
+UID:pandascore-match-1516538@esport-ics
+DTSTART:20260531T110000Z
+DTEND:20260531T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Play-In\nWatch: https://
+ kick.com/nodwin_cs2
+SUMMARY:RUST vs YN
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

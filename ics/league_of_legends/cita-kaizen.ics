@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Spring 2026 - Playoffs\nWatch: https://www.t
  witch.tv/hitpointcz
 SUMMARY:Upper bracket final: NBS vs CKZ
+URL:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T140000Z
+UID:pandascore-match-1514535@esport-ics
+DTSTART:20260605T140000Z
+DTEND:20260605T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/hitpointcz
+SUMMARY:Grand final: CKZ vs TBD
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 END:VCALENDAR
