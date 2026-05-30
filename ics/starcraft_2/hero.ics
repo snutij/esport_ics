@@ -357,6 +357,17 @@ SUMMARY:Upper bracket final: herO vs Clem
 URL:https://www.twitch.tv/tastelesstv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260531T100000Z
+UID:pandascore-match-1487725@esport-ics
+DTSTART:20260531T100000Z
+DTEND:20260531T151500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 5 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/tastelesstv
+SUMMARY:Grand final: herO vs TBD
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260607T080000Z
 UID:pandascore-match-1503145@esport-ics
 DTSTART:20260607T080000Z
