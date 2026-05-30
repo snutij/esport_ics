@@ -15,4 +15,14 @@ DESCRIPTION:Esports World Cup - Western Europe Open Qualifier 2026 - Playof
  fs
 SUMMARY:Semifinal 1: unknow vs F9 Team
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T140000Z
+UID:pandascore-match-1516865@esport-ics
+DTSTART:20260531T140000Z
+DTEND:20260531T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Western Europe Closed Qualifier 2026 - Play
+ offs
+SUMMARY:Upper bracket quarterfinal 3: Z10 vs F9 Team
+END:VEVENT
 END:VCALENDAR

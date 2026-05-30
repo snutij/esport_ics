@@ -437,6 +437,16 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 1 2026 - Group B\nWatch: https://www.twit
  ch.tv/alohadancetv
 SUMMARY:Nem vs Z10
-URL;VALUE=URI:https://www.twitch.tv/alohadancetv
+URL:https://www.twitch.tv/alohadancetv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T140000Z
+UID:pandascore-match-1516865@esport-ics
+DTSTART:20260531T140000Z
+DTEND:20260531T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Western Europe Closed Qualifier 2026 - Play
+ offs
+SUMMARY:Upper bracket quarterfinal 3: Z10 vs F9 Team
 END:VEVENT
 END:VCALENDAR
