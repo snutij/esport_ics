@@ -155,6 +155,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 2: Subtop De France vs ARCH
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T153000Z
+UID:pandascore-match-1516926@esport-ics
+DTSTART:20260601T153000Z
+DTEND:20260601T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 3: ARCH vs INF
 URL;VALUE=URI:https://kick.com/exort_en2
 END:VEVENT
 END:VCALENDAR

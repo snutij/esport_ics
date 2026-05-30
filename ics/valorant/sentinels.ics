@@ -120,7 +120,9 @@ UID:pandascore-match-1486850@esport-ics
 DTSTART:20260531T000000Z
 DTEND:20260531T021500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 2
+DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 2\nWatch: h
+ ttps://www.youtube.com/watch?v=DLNOG61V_CA
 SUMMARY:Lower bracket semifinal 1: LOUD vs SEN
+URL;VALUE=URI:https://www.youtube.com/watch?v=DLNOG61V_CA
 END:VEVENT
 END:VCALENDAR
