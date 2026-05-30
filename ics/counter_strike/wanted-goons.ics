@@ -104,6 +104,15 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs\nWatch: https://www.twitch.
  tv/fragadelphia
 SUMMARY:Lower bracket round 1 match  1: NFE vs WG
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+URL:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T220000Z
+UID:pandascore-match-1516531@esport-ics
+DTSTART:20260530T220000Z
+DTEND:20260531T001500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 1: LAG vs WG
 END:VEVENT
 END:VCALENDAR
