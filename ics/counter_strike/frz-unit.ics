@@ -23,6 +23,15 @@ DTEND:20260425T231500Z
 CLASS:PUBLIC
 DESCRIPTION:FRAG - Season 20 2026 - Group D\nWatch: https://kick.com/frag
 SUMMARY:Elimination match: FRZ vs MARS
-URL;VALUE=URI:https://kick.com/frag
+URL:https://kick.com/frag
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T140000Z
+UID:pandascore-match-1516518@esport-ics
+DTSTART:20260530T140000Z
+DTEND:20260530T161500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 4: Reign Above vs FRZ
 END:VEVENT
 END:VCALENDAR

@@ -272,6 +272,17 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Playoffs\nWatc
  h: https://www.twitch.tv/mlbb_cis
 SUMMARY:Upper bracket quarterfinal 1: YNDX vs MAG
+URL:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T120000Z
+UID:pandascore-match-1499200@esport-ics
+DTSTART:20260531T120000Z
+DTEND:20260531T154500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Playoffs\nWatc
+ h: https://www.twitch.tv/mlbb_cis
+SUMMARY:Upper bracket semifinal 1: YNDX vs TS
 URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
 END:VEVENT
 BEGIN:VEVENT

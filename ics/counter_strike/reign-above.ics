@@ -157,4 +157,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #4 2026 - Playoffs
 SUMMARY:Lower bracket round 3 match 1: FC vs Reign Above
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T140000Z
+UID:pandascore-match-1516518@esport-ics
+DTSTART:20260530T140000Z
+DTEND:20260530T161500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 4: Reign Above vs FRZ
+END:VEVENT
 END:VCALENDAR

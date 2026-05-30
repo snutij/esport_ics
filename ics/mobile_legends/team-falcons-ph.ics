@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Philippines - Season 17 2026 - Playoffs\nWatch: https://www
  .youtube.com/watch?v=rQvuwPCtHNI
 SUMMARY:Lower bracket final: ONPH vs Team Falcons PH
-URL;VALUE=URI:https://www.youtube.com/watch?v=rQvuwPCtHNI
+URL:https://www.youtube.com/watch?v=rQvuwPCtHNI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T090000Z
+UID:pandascore-match-1479143@esport-ics
+DTSTART:20260531T090000Z
+DTEND:20260531T141500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 17 2026 - Playoffs\nWatch: https://www
+ .youtube.com/@MLBBeSports/streams
+SUMMARY:Grand final: TLPH vs Team Falcons PH
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/streams
 END:VEVENT
 END:VCALENDAR

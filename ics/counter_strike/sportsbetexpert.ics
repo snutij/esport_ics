@@ -161,4 +161,13 @@ DESCRIPTION:ESL Challenger League - North America Cup #2 season 51 2026 - P
  layoffs
 SUMMARY:Grand final: SportsBetExpert vs CCE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T163000Z
+UID:pandascore-match-1516519@esport-ics
+DTSTART:20260530T163000Z
+DTEND:20260530T184500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: SportsBetExpert vs TBD
+END:VEVENT
 END:VCALENDAR
