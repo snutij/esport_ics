@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers North America Stage 1 2026 - Playoffs\nWatc
  h: https://www.twitch.tv/valorant_americas
 SUMMARY:Upper bracket semifinal 2: WOOF vs SWIM
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T210000Z
+UID:pandascore-match-1439782@esport-ics
+DTSTART:20260603T210000Z
+DTEND:20260603T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers North America Stage 1 2026 - Playoffs\nWatc
+ h: https://www.twitch.tv/valorant_americas
+SUMMARY:Upper bracket final: FLY.R vs SWIM
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR
