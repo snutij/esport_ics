@@ -369,6 +369,15 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs\nWatch: https://www.twitch.
  tv/floofys
 SUMMARY:Upper bracket semifinal 2: MARS vs Reign Above
-URL;VALUE=URI:https://www.twitch.tv/floofys
+URL:https://www.twitch.tv/floofys
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T140000Z
+UID:pandascore-match-1516525@esport-ics
+DTSTART:20260531T140000Z
+DTEND:20260531T161500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs
+SUMMARY:Upper bracket final: MARS vs CCE
 END:VEVENT
 END:VCALENDAR
