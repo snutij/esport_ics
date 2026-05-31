@@ -80,6 +80,39 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Southeast Asia: Split 2 2026 - Group C\nWatch: https://ww
  w.twitch.tv/valorant_pacific
 SUMMARY:Looking For Home vs OAS
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T110000Z
+UID:pandascore-match-1517482@esport-ics
+DTSTART:20260601T110000Z
+DTEND:20260601T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Southeast Asia: Split 2 2026 - Last Chance\nWatch: https:
+ //www.twitch.tv/valorant_pacific
+SUMMARY:ROY vs OAS
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T130000Z
+UID:pandascore-match-1517485@esport-ics
+DTSTART:20260601T130000Z
+DTEND:20260601T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Southeast Asia: Split 2 2026 - Last Chance\nWatch: https:
+ //www.twitch.tv/valorant_pacific
+SUMMARY:OAS vs AE
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T110000Z
+UID:pandascore-match-1517487@esport-ics
+DTSTART:20260602T110000Z
+DTEND:20260602T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Southeast Asia: Split 2 2026 - Last Chance\nWatch: https:
+ //www.twitch.tv/valorant_pacific
+SUMMARY:OAS vs XE
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR

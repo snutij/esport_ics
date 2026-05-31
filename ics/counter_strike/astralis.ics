@@ -341,7 +341,9 @@ UID:pandascore-match-1508648@esport-ics
 DTSTART:20260606T103000Z
 DTEND:20260606T111500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Cologne Major 2026 - Stage 2
+DESCRIPTION:IEM - Cologne Major 2026 - Stage 2\nWatch: https://www.twitch.t
+ v/ESLCS
 SUMMARY:Round 1: AST vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

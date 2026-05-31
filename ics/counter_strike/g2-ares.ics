@@ -729,7 +729,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Play-In\nWatch: https://
  kick.com/nodwin_cs2
 SUMMARY:Atreides vs G2.A
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260531T110000Z
@@ -738,8 +738,17 @@ DTSTART:20260531T110000Z
 DTEND:20260531T131500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
- : https://kick.com/CCT_CS5
+ : https://kick.com/cct_cs4
 SUMMARY:Lower bracket final: G2.A vs Vexar
-URL;VALUE=URI:https://kick.com/CCT_CS5
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T173000Z
+UID:pandascore-match-1517545@esport-ics
+DTSTART:20260603T173000Z
+DTEND:20260603T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 3: LFO vs G2.A
 END:VEVENT
 END:VCALENDAR

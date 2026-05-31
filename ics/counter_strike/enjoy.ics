@@ -389,4 +389,13 @@ DESCRIPTION:CCT Europe - Challengers Series season 3 2026 - Playoffs\nWatch
 SUMMARY:Grand final: ENJOY vs TBD
 URL;VALUE=URI:https://kick.com/CCT_CS5
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T173000Z
+UID:pandascore-match-1517549@esport-ics
+DTSTART:20260603T173000Z
+DTEND:20260603T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 7: ENJOY vs bankaPEPSI
+END:VEVENT
 END:VCALENDAR

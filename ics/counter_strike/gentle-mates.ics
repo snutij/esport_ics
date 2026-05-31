@@ -334,14 +334,14 @@ SUMMARY:Semifinal 1: M8 vs G1
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260531T100000Z
+DTSTAMP:20260531T133000Z
 UID:pandascore-match-1497678@esport-ics
-DTSTART:20260531T100000Z
-DTEND:20260531T121500Z
+DTSTART:20260531T133000Z
+DTEND:20260531T154500Z
 CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Playoffs\nWa
- tch: https://www.twitch.tv/bcgamemasters
+ tch: https://kick.com/bcgamemasters
 SUMMARY:Semifinal 1: M8 vs NEM
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL;VALUE=URI:https://kick.com/bcgamemasters
 END:VEVENT
 END:VCALENDAR

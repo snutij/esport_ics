@@ -289,7 +289,9 @@ UID:pandascore-match-1513121@esport-ics
 DTSTART:20260611T090000Z
 DTEND:20260611T111500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Cologne Major 2026 - Stage 3
+DESCRIPTION:IEM - Cologne Major 2026 - Stage 3\nWatch: https://www.twitch.t
+ v/ESLCS
 SUMMARY:Round 1: FAL vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
