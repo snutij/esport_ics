@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DragonClaw
+SLUG:dragonclaw
+BEGIN:VEVENT
+DTSTAMP:20260531T130000Z
+UID:pandascore-match-1501223@esport-ics
+DTSTART:20260531T130000Z
+DTEND:20260531T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Semifinal 2: KOL vs DC
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T110000Z
+UID:pandascore-match-1504727@esport-ics
+DTSTART:20260601T110000Z
+DTEND:20260601T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 4: PHA vs DC
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+END:VCALENDAR
