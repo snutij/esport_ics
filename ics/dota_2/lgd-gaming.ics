@@ -114,6 +114,16 @@ DESCRIPTION:Esports World Cup - Western Europe Closed Qualifier 2026 - Play
 SUMMARY:Upper bracket semifinal 1: LGD vs PIPS+4
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260602T100000Z
+UID:pandascore-match-1518092@esport-ics
+DTSTART:20260602T100000Z
+DTEND:20260602T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Western Europe Closed Qualifier 2026 - Play
+ offs
+SUMMARY:Upper bracket final: Na`Vi vs LGD
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260604T160000Z
 UID:pandascore-match-1501584@esport-ics
 DTSTART:20260604T160000Z
