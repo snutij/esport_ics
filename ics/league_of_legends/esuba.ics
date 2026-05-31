@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Spring 2026 - Playoffs\nWatch: https://www.t
  witch.tv/hitpointcz
 SUMMARY:Lower bracket semifinal: MVE vs ESB
+URL:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T140000Z
+UID:pandascore-match-1514534@esport-ics
+DTSTART:20260602T140000Z
+DTEND:20260602T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Spring 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/hitpointcz
+SUMMARY:Lower bracket final: NBS vs ESB
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 END:VCALENDAR
