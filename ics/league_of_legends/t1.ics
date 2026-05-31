@@ -236,6 +236,16 @@ DTEND:20260530T121500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Rounds 1-2\nWatch: https://www.twitch.tv/lck
 SUMMARY:BFX vs T1
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T080000Z
+UID:pandascore-match-1505698@esport-ics
+DTSTART:20260612T080000Z
+DTEND:20260612T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - 2026 - Road to MSI\nWatch: https://www.twitch.tv/lck
+SUMMARY:Round 3 match 1: HLE vs T1
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 END:VCALENDAR

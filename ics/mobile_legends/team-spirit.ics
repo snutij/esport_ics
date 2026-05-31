@@ -289,4 +289,15 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division
 SUMMARY:TS vs AF
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T120000Z
+UID:pandascore-match-1499203@esport-ics
+DTSTART:20260606T120000Z
+DTEND:20260606T154500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Playoffs\nWatc
+ h: https://www.twitch.tv/mlbb_cis
+SUMMARY:Upper bracket final: TS vs TBD
+URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
+END:VEVENT
 END:VCALENDAR

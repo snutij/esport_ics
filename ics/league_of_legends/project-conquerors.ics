@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Nexus League - Spring 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/teamtskofficiel
 SUMMARY:Lower bracket semifinal: LIL vs PCS
+URL:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T100000Z
+UID:pandascore-match-1485198@esport-ics
+DTSTART:20260606T100000Z
+DTEND:20260606T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Spring 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/teamtskofficiel
+SUMMARY:Lower bracket final: CLA vs PCS
 URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
 END:VEVENT
 END:VCALENDAR

@@ -104,6 +104,16 @@ DESCRIPTION:Esports World Cup - Western Europe Closed Qualifier 2026 - Play
 SUMMARY:Upper bracket quarterfinal 1: LGD vs BALU
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260531T180000Z
+UID:pandascore-match-1518090@esport-ics
+DTSTART:20260531T180000Z
+DTEND:20260531T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Western Europe Closed Qualifier 2026 - Play
+ offs
+SUMMARY:Upper bracket semifinal 1: LGD vs PIPS+4
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260604T160000Z
 UID:pandascore-match-1501584@esport-ics
 DTSTART:20260604T160000Z
