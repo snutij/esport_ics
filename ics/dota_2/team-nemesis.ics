@@ -250,4 +250,15 @@ DESCRIPTION:Esports World Cup - South America Open Qualifier 2026 - Playoff
  s
 SUMMARY:Nem vs New Growth
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T210000Z
+UID:pandascore-match-1518401@esport-ics
+DTSTART:20260601T210000Z
+DTEND:20260601T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - South America Closed Qualifier 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/EWC_DOTA2
+SUMMARY:Upper bracket quarterfinal 4: Red Hot Chili Pibble vs Nem
+URL;VALUE=URI:https://www.twitch.tv/EWC_DOTA2
+END:VEVENT
 END:VCALENDAR

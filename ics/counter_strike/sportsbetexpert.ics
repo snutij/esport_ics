@@ -197,4 +197,15 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs
 SUMMARY:Lower bracket semifinal: Reign Above vs SportsBetExpert
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260531T170000Z
+UID:pandascore-match-1516536@esport-ics
+DTSTART:20260531T170000Z
+DTEND:20260531T191500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/fragadelphia
+SUMMARY:Lower bracket final: MARS vs SportsBetExpert
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
 END:VCALENDAR

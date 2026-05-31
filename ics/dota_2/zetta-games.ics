@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT - South America Series  #4 season 2 2026 - Playoffs\nWatch:
   https://kick.com/cct_dota
 SUMMARY:Lower bracket final: ZG vs TBD
-URL;VALUE=URI:https://kick.com/cct_dota
+URL:https://kick.com/cct_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T210000Z
+UID:pandascore-match-1518400@esport-ics
+DTSTART:20260601T210000Z
+DTEND:20260601T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - South America Closed Qualifier 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/EWC_DOTA2
+SUMMARY:Upper bracket quarterfinal 3: ZG vs HKR
+URL;VALUE=URI:https://www.twitch.tv/EWC_DOTA2
 END:VEVENT
 END:VCALENDAR
