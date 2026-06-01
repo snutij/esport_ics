@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group B\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:Decider match: Project 91 vs Entropy
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T080000Z
+UID:pandascore-match-1504698@esport-ics
+DTSTART:20260603T080000Z
+DTEND:20260603T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Play-In\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:YN vs Entropy
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

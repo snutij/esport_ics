@@ -223,4 +223,14 @@ DESCRIPTION:Esports World Cup - Western Europe Closed Qualifier 2026 - Play
  offs
 SUMMARY:Lower bracket quarterfinal 2: PIPS+4 vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T140000Z
+UID:pandascore-match-1518096@esport-ics
+DTSTART:20260602T140000Z
+DTEND:20260602T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Western Europe Closed Qualifier 2026 - Play
+ offs
+SUMMARY:Lower bracket final: PIPS+4 vs TBD
+END:VEVENT
 END:VCALENDAR

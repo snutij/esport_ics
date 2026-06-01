@@ -339,6 +339,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Eastern Europe Closed Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/ewc_plus_en
 SUMMARY:Lower bracket quarterfinal 2: IC vs TBD
+URL:https://www.twitch.tv/ewc_plus_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T130000Z
+UID:pandascore-match-1518993@esport-ics
+DTSTART:20260603T130000Z
+DTEND:20260603T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Eastern Europe Closed Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/ewc_plus_en
+SUMMARY:Lower bracket semifinal 2: IC vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ewc_plus_en
 END:VEVENT
 END:VCALENDAR

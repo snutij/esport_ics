@@ -268,6 +268,16 @@ DTEND:20260601T184500Z
 CLASS:PUBLIC
 DESCRIPTION:LEC - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
 SUMMARY:Lower bracket semifinal: KC vs GX
+URL:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T150000Z
+UID:pandascore-match-1486136@esport-ics
+DTSTART:20260606T150000Z
+DTEND:20260606T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
+SUMMARY:Lower bracket final: MKOI vs KC
 URL;VALUE=URI:https://www.twitch.tv/lec
 END:VEVENT
 END:VCALENDAR

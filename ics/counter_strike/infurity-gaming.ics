@@ -663,7 +663,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
  .com/exort_en2
 SUMMARY:Round 3: ARCH vs INF
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260602T103000Z
@@ -671,9 +671,9 @@ UID:pandascore-match-1512470@esport-ics
 DTSTART:20260602T103000Z
 DTEND:20260602T124500Z
 CLASS:PUBLIC
-DESCRIPTION:United21 - Season 50 2026 - Group B\nWatch: https://www.kick.co
- m/united21_en
+DESCRIPTION:United21 - Season 50 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
 SUMMARY:Elimination match: FUT.T vs INF
-URL;VALUE=URI:https://www.kick.com/united21_en
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

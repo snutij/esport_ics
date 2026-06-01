@@ -120,8 +120,9 @@ DTSTART:20260602T100000Z
 DTEND:20260602T121500Z
 CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Western Europe Closed Qualifier 2026 - Play
- offs
+ offs\nWatch: https://www.twitch.tv/betboom_dota_ru2
 SUMMARY:Upper bracket final: LGD vs Na`Vi
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260604T160000Z
