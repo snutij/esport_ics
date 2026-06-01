@@ -276,6 +276,61 @@ CLASS:PUBLIC
 DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 2 - Gr
  oup B\nWatch: https://www.sooplive.com/station/gslenglish
 SUMMARY:Zoun vs Rogue
-URL;VALUE=URI:https://www.sooplive.com/station/gslenglish
+URL:https://www.sooplive.com/station/gslenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T110000Z
+UID:pandascore-match-1518994@esport-ics
+DTSTART:20260602T110000Z
+DTEND:20260602T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Shameless vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T114000Z
+UID:pandascore-match-1518997@esport-ics
+DTSTART:20260602T114000Z
+DTEND:20260602T135500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Zoun vs Lambo
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T122000Z
+UID:pandascore-match-1518999@esport-ics
+DTSTART:20260602T122000Z
+DTEND:20260602T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:SHIN vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T130000Z
+UID:pandascore-match-1519006@esport-ics
+DTSTART:20260609T130000Z
+DTEND:20260609T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Cure vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T134000Z
+UID:pandascore-match-1519008@esport-ics
+DTSTART:20260609T134000Z
+DTEND:20260609T155500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Percival vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

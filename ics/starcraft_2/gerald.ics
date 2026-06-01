@@ -102,7 +102,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group A\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:Gerald vs Nicoract
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260521T130000Z
@@ -113,6 +113,61 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group A\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:Gerald vs Rogue
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T110000Z
+UID:pandascore-match-1519010@esport-ics
+DTSTART:20260604T110000Z
+DTEND:20260604T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Gerald vs ByuN
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T122000Z
+UID:pandascore-match-1519012@esport-ics
+DTSTART:20260604T122000Z
+DTEND:20260604T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:SKillous vs Gerald
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T110000Z
+UID:pandascore-match-1519017@esport-ics
+DTSTART:20260610T110000Z
+DTEND:20260610T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Gerald vs trigger
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T114000Z
+UID:pandascore-match-1519018@esport-ics
+DTSTART:20260610T114000Z
+DTEND:20260610T135500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Rogue vs Gerald
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T150000Z
+UID:pandascore-match-1519023@esport-ics
+DTSTART:20260610T150000Z
+DTEND:20260610T171500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Gerald vs Solar
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

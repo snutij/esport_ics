@@ -317,6 +317,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 37 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Lower bracket quarterfinal 2: MODUS vs IC
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T130000Z
+UID:pandascore-match-1518986@esport-ics
+DTSTART:20260601T130000Z
+DTEND:20260601T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Eastern Europe Closed Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/ewc_plus_en
+SUMMARY:Upper bracket quarterfinal 3: L1GA vs IC
+URL;VALUE=URI:https://www.twitch.tv/ewc_plus_en
 END:VEVENT
 END:VCALENDAR

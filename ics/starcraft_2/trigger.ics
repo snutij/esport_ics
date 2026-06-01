@@ -190,7 +190,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group B\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:trigger vs MaNa
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260522T134000Z
@@ -201,7 +201,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group B\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:trigger vs Cure
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260522T142000Z
@@ -212,6 +212,61 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group B\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:trigger vs Krystianer
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T110000Z
+UID:pandascore-match-1519009@esport-ics
+DTSTART:20260604T110000Z
+DTEND:20260604T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:SKillous vs trigger
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T122000Z
+UID:pandascore-match-1519013@esport-ics
+DTSTART:20260604T122000Z
+DTEND:20260604T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:trigger vs Rogue
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T142000Z
+UID:pandascore-match-1519016@esport-ics
+DTSTART:20260604T142000Z
+DTEND:20260604T163500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Solar vs trigger
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T110000Z
+UID:pandascore-match-1519017@esport-ics
+DTSTART:20260610T110000Z
+DTEND:20260610T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Gerald vs trigger
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T130000Z
+UID:pandascore-match-1519020@esport-ics
+DTSTART:20260610T130000Z
+DTEND:20260610T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:ByuN vs trigger
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

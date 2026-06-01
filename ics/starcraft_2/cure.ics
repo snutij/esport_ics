@@ -302,6 +302,28 @@ SUMMARY:Cure vs Clem
 URL:https://play.sooplive.com/gslenglish/294340205
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260602T110000Z
+UID:pandascore-match-1518995@esport-ics
+DTSTART:20260602T110000Z
+DTEND:20260602T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Percival vs Cure
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T130000Z
+UID:pandascore-match-1519000@esport-ics
+DTSTART:20260602T130000Z
+DTEND:20260602T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Shameless vs Cure
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260607T091500Z
 UID:pandascore-match-1503146@esport-ics
 DTSTART:20260607T091500Z
@@ -311,5 +333,38 @@ DESCRIPTION:Global StarCraft II League - Season 2 2026 - Playoffs\nWatch: h
  ttps://www.sooplive.com/station/afgsl
 SUMMARY:Semifinal 2: Maru vs Cure
 URL;VALUE=URI:https://www.sooplive.com/station/afgsl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T122000Z
+UID:pandascore-match-1519004@esport-ics
+DTSTART:20260609T122000Z
+DTEND:20260609T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Lambo vs Cure
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T130000Z
+UID:pandascore-match-1519006@esport-ics
+DTSTART:20260609T130000Z
+DTEND:20260609T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Cure vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T134000Z
+UID:pandascore-match-1519007@esport-ics
+DTSTART:20260609T134000Z
+DTEND:20260609T155500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Cure vs SHIN
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

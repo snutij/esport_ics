@@ -98,6 +98,83 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Korea: Split 1 2026 - Playoffs\nWatch: https://www.youtub
  e.com/@ValorantEsportsKR/live
 SUMMARY:Lower bracket quarterfinal 2: DK vs ART
+URL:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T110000Z
+UID:pandascore-match-1519036@esport-ics
+DTSTART:20260603T110000Z
+DTEND:20260603T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 2 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:DK vs ART
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T050000Z
+UID:pandascore-match-1519040@esport-ics
+DTSTART:20260605T050000Z
+DTEND:20260605T071500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 2 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:ART vs GEN.A
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T080000Z
+UID:pandascore-match-1519045@esport-ics
+DTSTART:20260618T080000Z
+DTEND:20260618T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 2 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:X-CAST vs ART
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T080000Z
+UID:pandascore-match-1519049@esport-ics
+DTSTART:20260619T080000Z
+DTEND:20260619T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 2 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:T1.A vs ART
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T110000Z
+UID:pandascore-match-1519052@esport-ics
+DTSTART:20260624T110000Z
+DTEND:20260624T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 2 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:ART vs So: ART vs So:sweet
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T050000Z
+UID:pandascore-match-1519056@esport-ics
+DTSTART:20260626T050000Z
+DTEND:20260626T071500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 2 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:ART vs OSG
+URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T080000Z
+UID:pandascore-match-1519059@esport-ics
+DTSTART:20260701T080000Z
+DTEND:20260701T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Korea: Split 2 2026 - Regular Season\nWatch: https://www.
+ youtube.com/@ValorantEsportsKR/live
+SUMMARY:KRX.A vs ART
 URL;VALUE=URI:https://www.youtube.com/@ValorantEsportsKR/live
 END:VEVENT
 END:VCALENDAR

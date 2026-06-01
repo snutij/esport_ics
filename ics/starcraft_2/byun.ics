@@ -233,7 +233,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group A\nWatch: ht
  tps://www.twitch.tv/wardiii
 SUMMARY:ByuN vs Zoun
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260523T152000Z
@@ -244,6 +244,61 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Seeding Group A\nWatch: ht
  tps://www.twitch.tv/wardiii
 SUMMARY:ByuN vs Classic
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T110000Z
+UID:pandascore-match-1519010@esport-ics
+DTSTART:20260604T110000Z
+DTEND:20260604T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Gerald vs ByuN
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T130000Z
+UID:pandascore-match-1519014@esport-ics
+DTSTART:20260604T130000Z
+DTEND:20260604T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:SKillous vs ByuN
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T122000Z
+UID:pandascore-match-1519019@esport-ics
+DTSTART:20260610T122000Z
+DTEND:20260610T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Rogue vs ByuN
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T130000Z
+UID:pandascore-match-1519020@esport-ics
+DTSTART:20260610T130000Z
+DTEND:20260610T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:ByuN vs trigger
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T142000Z
+UID:pandascore-match-1519022@esport-ics
+DTSTART:20260610T142000Z
+DTEND:20260610T163500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:ByuN vs Solar
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group C\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:SKillous vs Strange
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260528T144000Z
@@ -25,7 +25,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group C\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:SKillous vs Ryung
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260528T152000Z
@@ -36,6 +36,61 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group C\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:SKillous vs Lambo
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T110000Z
+UID:pandascore-match-1519009@esport-ics
+DTSTART:20260604T110000Z
+DTEND:20260604T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:SKillous vs trigger
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T114000Z
+UID:pandascore-match-1519011@esport-ics
+DTSTART:20260604T114000Z
+DTEND:20260604T135500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:SKillous vs Rogue
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T122000Z
+UID:pandascore-match-1519012@esport-ics
+DTSTART:20260604T122000Z
+DTEND:20260604T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:SKillous vs Gerald
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T130000Z
+UID:pandascore-match-1519014@esport-ics
+DTSTART:20260604T130000Z
+DTEND:20260604T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:SKillous vs ByuN
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T134000Z
+UID:pandascore-match-1519015@esport-ics
+DTSTART:20260604T134000Z
+DTEND:20260604T155500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:SKillous vs Solar
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

@@ -58,6 +58,61 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 5 2026 - Group C\nWatch: https://www.twitc
  h.tv/tastelesstv
 SUMMARY:Shameless vs ByuN
-URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T110000Z
+UID:pandascore-match-1518994@esport-ics
+DTSTART:20260602T110000Z
+DTEND:20260602T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Shameless vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T114000Z
+UID:pandascore-match-1518996@esport-ics
+DTSTART:20260602T114000Z
+DTEND:20260602T135500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Shameless vs SHIN
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T122000Z
+UID:pandascore-match-1518998@esport-ics
+DTSTART:20260602T122000Z
+DTEND:20260602T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Shameless vs Percival
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T130000Z
+UID:pandascore-match-1519000@esport-ics
+DTSTART:20260602T130000Z
+DTEND:20260602T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Shameless vs Cure
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T134000Z
+UID:pandascore-match-1519001@esport-ics
+DTSTART:20260602T134000Z
+DTEND:20260602T155500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Shameless vs Lambo
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR
