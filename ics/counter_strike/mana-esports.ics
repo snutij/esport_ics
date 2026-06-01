@@ -913,6 +913,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 50 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:MANA vs WRAITH PCIFIC
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T080000Z
+UID:pandascore-match-1512479@esport-ics
+DTSTART:20260604T080000Z
+DTEND:20260604T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 50 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Winners match: CHAOS vs MANA
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
