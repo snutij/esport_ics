@@ -47,4 +47,15 @@ DESCRIPTION:Esports World Cup - South America Closed Qualifier 2026 - Playo
  ffs
 SUMMARY:Upper bracket quarterfinal 2: Chandogs vs Amaru Gaming
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T010000Z
+UID:pandascore-match-1518404@esport-ics
+DTSTART:20260602T010000Z
+DTEND:20260602T031500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - South America Closed Qualifier 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/EWC_DOTA2
+SUMMARY:Upper bracket semifinal 1: EB vs Chandogs
+URL;VALUE=URI:https://www.twitch.tv/EWC_DOTA2
+END:VEVENT
 END:VCALENDAR
