@@ -674,6 +674,28 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 50 2026 - Group B\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Elimination match: FUT.T vs INF
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T153000Z
+UID:pandascore-match-1520616@esport-ics
+DTSTART:20260602T153000Z
+DTEND:20260602T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 4: ESB vs INF
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T103000Z
+UID:pandascore-match-1512471@esport-ics
+DTSTART:20260605T103000Z
+DTEND:20260605T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 50 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider match: LPH vs INF
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

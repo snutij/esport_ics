@@ -564,6 +564,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
  offs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Round of 16 match 8: CS vs HS
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T140000Z
+UID:pandascore-match-1519902@esport-ics
+DTSTART:20260603T140000Z
+DTEND:20260603T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #4 2026 - Group B\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:HS vs Atreides
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

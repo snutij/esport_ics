@@ -669,6 +669,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Group C\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:Elimination match: MISA vs LILMIX
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T110000Z
+UID:pandascore-match-1519855@esport-ics
+DTSTART:20260605T110000Z
+DTEND:20260605T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #4 2026 - Group C\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:Leo vs LILMIX
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

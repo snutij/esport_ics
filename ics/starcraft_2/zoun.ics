@@ -287,13 +287,13 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:Shameless vs Zoun
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260602T114000Z
+DTSTAMP:20260602T142000Z
 UID:pandascore-match-1518997@esport-ics
-DTSTART:20260602T114000Z
-DTEND:20260602T135500Z
+DTSTART:20260602T142000Z
+DTEND:20260602T163500Z
 CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
  atch: https://www.twitch.tv/wardiii
@@ -301,10 +301,10 @@ SUMMARY:Zoun vs Lambo
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260602T122000Z
+DTSTAMP:20260602T144000Z
 UID:pandascore-match-1518999@esport-ics
-DTSTART:20260602T122000Z
-DTEND:20260602T143500Z
+DTSTART:20260602T144000Z
+DTEND:20260602T165500Z
 CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
  atch: https://www.twitch.tv/wardiii

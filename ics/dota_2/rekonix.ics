@@ -318,6 +318,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Season 29 2026 - Group B\nWatch: https://www.twit
  ch.tv/esl_dota2earth
 SUMMARY:PARI vs RNX
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2earth
+URL:https://www.twitch.tv/esl_dota2earth
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T040000Z
+UID:pandascore-match-1520771@esport-ics
+DTSTART:20260603T040000Z
+DTEND:20260603T061500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Southeast Asia Closed Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/betboom_dota_ru4
+SUMMARY:Upper Bracket Quarterfinal 1: RNX vs Grind
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru4
 END:VEVENT
 END:VCALENDAR

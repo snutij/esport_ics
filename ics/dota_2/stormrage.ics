@@ -15,4 +15,15 @@ DESCRIPTION:Esports World Cup - North America Open Qualifier 2 2026 - Playo
  ffs
 SUMMARY:Grand final: Team Epoch vs Stormrage
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T160000Z
+UID:pandascore-match-1520985@esport-ics
+DTSTART:20260603T160000Z
+DTEND:20260603T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - North America Closed Qualifier 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/narodCast
+SUMMARY:Upper bracket semifinal 1: GL vs Stormrage
+URL;VALUE=URI:https://www.twitch.tv/narodCast
+END:VEVENT
 END:VCALENDAR
