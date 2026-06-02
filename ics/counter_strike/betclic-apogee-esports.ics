@@ -422,6 +422,17 @@ SUMMARY:Round of 16 match 5: BCA vs ALGO
 URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260604T110000Z
+UID:pandascore-match-1504738@esport-ics
+DTSTART:20260604T110000Z
+DTEND:20260604T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 3 2026 - Playoffs\nWatch: https://kick.com/
+ cct_cs
+SUMMARY:Round 16 match 6: BCA vs KOL
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260604T140000Z
 UID:pandascore-match-1517494@esport-ics
 DTSTART:20260604T140000Z

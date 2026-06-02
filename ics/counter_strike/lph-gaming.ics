@@ -776,6 +776,17 @@ SUMMARY:Winners match: LPH vs UNiTY
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260603T153000Z
+UID:pandascore-match-1521621@esport-ics
+DTSTART:20260603T153000Z
+DTEND:20260603T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Series - Season 27 2026 - Main Stage\nWatch: https://kick
+ .com/exort_en2
+SUMMARY:Round 4: LPH vs TLR
+URL;VALUE=URI:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260605T103000Z
 UID:pandascore-match-1512471@esport-ics
 DTSTART:20260605T103000Z

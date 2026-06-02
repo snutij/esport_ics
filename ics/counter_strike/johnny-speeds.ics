@@ -646,6 +646,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 2 2026 - Playoffs\nWatch: https://kick.com/
  cct_cs2
 SUMMARY:Semifinal 2: JS vs WW
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T140000Z
+UID:pandascore-match-1504735@esport-ics
+DTSTART:20260603T140000Z
+DTEND:20260603T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 3 2026 - Playoffs\nWatch: https://kick.com/
+ cct_cs
+SUMMARY:Round 16 match 3: JS vs TNC
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
