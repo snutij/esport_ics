@@ -36,6 +36,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
  om/cct_cs
 SUMMARY:Round 4: PHA vs DC
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T103000Z
+UID:pandascore-match-1504697@esport-ics
+DTSTART:20260602T103000Z
+DTEND:20260602T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Play-In\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:DC vs MISA
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T170000Z
+UID:pandascore-match-1504732@esport-ics
+DTSTART:20260602T170000Z
+DTEND:20260602T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 5: DC vs BW
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
