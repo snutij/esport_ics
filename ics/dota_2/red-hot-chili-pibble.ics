@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - South America Closed Qualifier 2026 - Playo
  ffs\nWatch: https://www.twitch.tv/EWC_DOTA2
 SUMMARY:Lower bracket round 1 match 2: Red Hot Chili Pibble vs ZG
+URL:https://www.twitch.tv/EWC_DOTA2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T010000Z
+UID:pandascore-match-1518408@esport-ics
+DTSTART:20260603T010000Z
+DTEND:20260603T031500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - South America Closed Qualifier 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/EWC_DOTA2
+SUMMARY:Lower bracket semifinal: Red Hot Chili Pibble vs TBD
 URL;VALUE=URI:https://www.twitch.tv/EWC_DOTA2
 END:VEVENT
 END:VCALENDAR
