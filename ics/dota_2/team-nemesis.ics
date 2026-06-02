@@ -259,6 +259,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - South America Closed Qualifier 2026 - Playo
  ffs\nWatch: https://www.twitch.tv/EWC_DOTA2
 SUMMARY:Upper bracket quarterfinal 4: Red Hot Chili Pibble vs Nem
+URL:https://www.twitch.tv/EWC_DOTA2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T210000Z
+UID:pandascore-match-1518406@esport-ics
+DTSTART:20260602T210000Z
+DTEND:20260602T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - South America Closed Qualifier 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/EWC_DOTA2
+SUMMARY:Lower bracket round 2 match 1: Nem vs TBD
 URL;VALUE=URI:https://www.twitch.tv/EWC_DOTA2
 END:VEVENT
 END:VCALENDAR

@@ -777,6 +777,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
  om/cct_cs
 SUMMARY:Round 4: KOL vs Lavked
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T140000Z
+UID:pandascore-match-1504731@esport-ics
+DTSTART:20260602T140000Z
+DTEND:20260602T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
+ om/cct_cs
+SUMMARY:Round 5: Lavked vs ASTR
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
