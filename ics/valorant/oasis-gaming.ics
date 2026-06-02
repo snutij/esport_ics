@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Southeast Asia: Split 2 2026 - Last Chance\nWatch: https:
  //www.twitch.tv/valorant_pacific
 SUMMARY:OAS vs XE
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T110000Z
+UID:pandascore-match-1521298@esport-ics
+DTSTART:20260605T110000Z
+DTEND:20260605T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Southeast Asia: Split 2 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/valorant_pacific
+SUMMARY:Upper bracket quarterfinal 3: FCY vs OAS
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR

@@ -130,7 +130,9 @@ UID:pandascore-match-1517538@esport-ics
 DTSTART:20260602T183000Z
 DTEND:20260602T204500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/GoYareGo
 SUMMARY:Upper bracket round 2 match  3: ENRAGE vs WING
+URL;VALUE=URI:https://www.twitch.tv/GoYareGo
 END:VEVENT
 END:VCALENDAR

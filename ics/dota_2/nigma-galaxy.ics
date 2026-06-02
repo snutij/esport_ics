@@ -552,6 +552,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - MESWA Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/gorgc
 SUMMARY:Upper bracket semifinal 1: NGX vs KO
-URL;VALUE=URI:https://www.twitch.tv/gorgc
+URL:https://www.twitch.tv/gorgc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T130000Z
+UID:pandascore-match-1520556@esport-ics
+DTSTART:20260603T130000Z
+DTEND:20260603T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - MESWA Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/narodCast
+SUMMARY:Grand final: NGX vs TBD
+URL;VALUE=URI:https://www.twitch.tv/narodCast
 END:VEVENT
 END:VCALENDAR

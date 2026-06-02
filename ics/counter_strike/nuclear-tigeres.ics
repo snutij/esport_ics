@@ -552,6 +552,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 5 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/mpkbk
 SUMMARY:3rd Place match: NTR vs TBD
-URL;VALUE=URI:https://www.twitch.tv/mpkbk
+URL:https://www.twitch.tv/mpkbk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T140000Z
+UID:pandascore-match-1517490@esport-ics
+DTSTART:20260603T140000Z
+DTEND:20260603T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 1: NTR vs RUST
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

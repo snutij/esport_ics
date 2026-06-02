@@ -446,6 +446,17 @@ CLASS:PUBLIC
 DESCRIPTION:Conquest of Prague - Finals 2026 - Playoffs\nWatch: https://www
  .twitch.tv/playzoneup
 SUMMARY:Lower bracket final: WAL vs ALL
-URL;VALUE=URI:https://www.twitch.tv/playzoneup
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T170000Z
+UID:pandascore-match-1517495@esport-ics
+DTSTART:20260604T170000Z
+DTEND:20260604T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 1: WAL vs KOL
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
