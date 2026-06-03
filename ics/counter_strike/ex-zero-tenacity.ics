@@ -1051,4 +1051,15 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #4 2026 - Group D\nWatch:
 SUMMARY:aAa vs ex-Zero Tenacity
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T140000Z
+UID:pandascore-match-1504743@esport-ics
+DTSTART:20260605T140000Z
+DTEND:20260605T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 3 2026 - Playoffs\nWatch: https://kick.com/
+ cct_cs
+SUMMARY:Quarterfinal 3: ex-Zero Tenacity vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR

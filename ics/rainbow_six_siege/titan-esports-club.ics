@@ -58,6 +58,94 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Kickoff 2026 - Decider Brackets\nWatch: https://www
  .twitch.tv/CappingTV
 SUMMARY:9th Place decider: Titan Esports Club vs LEVS
-URL;VALUE=URI:https://www.twitch.tv/CappingTV
+URL:https://www.twitch.tv/CappingTV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T090000Z
+UID:pandascore-match-1522762@esport-ics
+DTSTART:20260605T090000Z
+DTEND:20260605T094500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:EDG vs Titan Esports Club
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T123000Z
+UID:pandascore-match-1522766@esport-ics
+DTSTART:20260606T123000Z
+DTEND:20260606T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:AG vs Titan Esports Club
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T123000Z
+UID:pandascore-match-1522890@esport-ics
+DTSTART:20260614T123000Z
+DTEND:20260614T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:Titan Esports Club vs 4AM
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T123000Z
+UID:pandascore-match-1523050@esport-ics
+DTSTART:20260620T123000Z
+DTEND:20260620T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:Titan Esports Club vs KZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T123000Z
+UID:pandascore-match-1523077@esport-ics
+DTSTART:20260626T123000Z
+DTEND:20260626T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:Titan Esports Club vs My Queen
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T090000Z
+UID:pandascore-match-1523082@esport-ics
+DTSTART:20260628T090000Z
+DTEND:20260628T094500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:POZY vs Titan Esports Club
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T123000Z
+UID:pandascore-match-1523086@esport-ics
+DTSTART:20260703T123000Z
+DTEND:20260703T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:TYLOO vs Titan Esports Club
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T090000Z
+UID:pandascore-match-1523091@esport-ics
+DTSTART:20260705T090000Z
+DTEND:20260705T094500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:LEV vs Titan Esports Club
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

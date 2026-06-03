@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #4 2026 - Group A\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:TLR vs Entropy
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T080000Z
+UID:pandascore-match-1519878@esport-ics
+DTSTART:20260604T080000Z
+DTEND:20260604T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #4 2026 - Group A\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:Elimination match: ENCE vs Entropy
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

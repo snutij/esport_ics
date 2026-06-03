@@ -133,6 +133,94 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage\nWatch: http
  s://www.twitch.tv/rainbow6bravo
 SUMMARY:Round 4: AG vs 5F
-URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
+URL:https://www.twitch.tv/rainbow6bravo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T053000Z
+UID:pandascore-match-1522761@esport-ics
+DTSTART:20260605T053000Z
+DTEND:20260605T061500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:AG vs My Queen
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T123000Z
+UID:pandascore-match-1522766@esport-ics
+DTSTART:20260606T123000Z
+DTEND:20260606T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:AG vs Titan Esports Club
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T053000Z
+UID:pandascore-match-1522823@esport-ics
+DTSTART:20260614T053000Z
+DTEND:20260614T061500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:AG vs OC
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T123000Z
+UID:pandascore-match-1522982@esport-ics
+DTSTART:20260619T123000Z
+DTEND:20260619T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:AG vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T090000Z
+UID:pandascore-match-1523063@esport-ics
+DTSTART:20260621T090000Z
+DTEND:20260621T094500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:AG vs 4AM
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T053000Z
+UID:pandascore-match-1523078@esport-ics
+DTSTART:20260627T053000Z
+DTEND:20260627T061500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:AG vs LEV
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T123000Z
+UID:pandascore-match-1523083@esport-ics
+DTSTART:20260628T123000Z
+DTEND:20260628T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:AG vs KZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T090000Z
+UID:pandascore-match-1523088@esport-ics
+DTSTART:20260704T090000Z
+DTEND:20260704T094500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:AG vs 4AM
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

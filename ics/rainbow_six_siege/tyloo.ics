@@ -91,6 +91,105 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Kickoff 2026 - Decider Brackets\nWatch: https://www
  .twitch.tv/CappingTV
 SUMMARY:5th Place decider: KZ vs TYLOO
-URL;VALUE=URI:https://www.twitch.tv/CappingTV
+URL:https://www.twitch.tv/CappingTV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T090000Z
+UID:pandascore-match-1522765@esport-ics
+DTSTART:20260606T090000Z
+DTEND:20260606T094500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:4AM vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T053000Z
+UID:pandascore-match-1522767@esport-ics
+DTSTART:20260607T053000Z
+DTEND:20260607T061500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:TYLOO vs KZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T053000Z
+UID:pandascore-match-1522770@esport-ics
+DTSTART:20260613T053000Z
+DTEND:20260613T061500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:My Queen vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T090000Z
+UID:pandascore-match-1522855@esport-ics
+DTSTART:20260614T090000Z
+DTEND:20260614T094500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:POZY vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T123000Z
+UID:pandascore-match-1522982@esport-ics
+DTSTART:20260619T123000Z
+DTEND:20260619T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:AG vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T123000Z
+UID:pandascore-match-1523074@esport-ics
+DTSTART:20260621T123000Z
+DTEND:20260621T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:TYLOO vs LEV
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T123000Z
+UID:pandascore-match-1523080@esport-ics
+DTSTART:20260627T123000Z
+DTEND:20260627T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:TYLOO vs EDG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T123000Z
+UID:pandascore-match-1523086@esport-ics
+DTSTART:20260703T123000Z
+DTEND:20260703T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:TYLOO vs Titan Esports Club
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T053000Z
+UID:pandascore-match-1523090@esport-ics
+DTSTART:20260705T053000Z
+DTEND:20260705T061500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:TYLOO vs OC
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Southeast Asia Closed Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/betboom_dota_ru4
 SUMMARY:Upper Bracket Quarterfinal 4: DB vs Mentality Monster
+URL:https://www.twitch.tv/betboom_dota_ru4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T080000Z
+UID:pandascore-match-1520857@esport-ics
+DTSTART:20260604T080000Z
+DTEND:20260604T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Southeast Asia Closed Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/betboom_dota_ru4
+SUMMARY:Lower Bracket Quarterfinal 1: DB vs TBD
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru4
 END:VEVENT
 END:VCALENDAR

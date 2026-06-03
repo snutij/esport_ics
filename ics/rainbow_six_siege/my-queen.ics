@@ -80,6 +80,105 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Kickoff 2026 - Decider Brackets\nWatch: https://www
  .twitch.tv/CappingTV
 SUMMARY:7th Place decider: OC vs My Queen
-URL;VALUE=URI:https://www.twitch.tv/CappingTV
+URL:https://www.twitch.tv/CappingTV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T053000Z
+UID:pandascore-match-1522761@esport-ics
+DTSTART:20260605T053000Z
+DTEND:20260605T061500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:AG vs My Queen
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T123000Z
+UID:pandascore-match-1522769@esport-ics
+DTSTART:20260607T123000Z
+DTEND:20260607T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:My Queen vs POZY
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T053000Z
+UID:pandascore-match-1522770@esport-ics
+DTSTART:20260613T053000Z
+DTEND:20260613T061500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:My Queen vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T053000Z
+UID:pandascore-match-1522906@esport-ics
+DTSTART:20260619T053000Z
+DTEND:20260619T061500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:My Queen vs LEV
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T053000Z
+UID:pandascore-match-1523062@esport-ics
+DTSTART:20260621T053000Z
+DTEND:20260621T061500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:My Queen vs EDG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T123000Z
+UID:pandascore-match-1523077@esport-ics
+DTSTART:20260626T123000Z
+DTEND:20260626T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:Titan Esports Club vs My Queen
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T053000Z
+UID:pandascore-match-1523081@esport-ics
+DTSTART:20260628T053000Z
+DTEND:20260628T061500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:OC vs My Queen
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T090000Z
+UID:pandascore-match-1523085@esport-ics
+DTSTART:20260703T090000Z
+DTEND:20260703T094500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:4AM vs My Queen
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T123000Z
+UID:pandascore-match-1523089@esport-ics
+DTSTART:20260704T123000Z
+DTEND:20260704T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
+SUMMARY:KZ vs My Queen
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
