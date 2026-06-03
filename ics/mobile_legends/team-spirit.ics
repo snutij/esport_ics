@@ -290,6 +290,17 @@ DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division
 SUMMARY:TS vs AF
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260603T193000Z
+UID:pandascore-match-1522180@esport-ics
+DTSTART:20260603T193000Z
+DTEND:20260603T214500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division\nWatch:
+  https://www.youtube.com/@BetBoomEsports/live
+SUMMARY:TS vs VP
+URL;VALUE=URI:https://www.youtube.com/@BetBoomEsports/live
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260606T120000Z
 UID:pandascore-match-1499203@esport-ics
 DTSTART:20260606T120000Z

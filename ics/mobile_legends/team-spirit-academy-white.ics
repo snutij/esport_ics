@@ -96,6 +96,15 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division\nWatch:
   https://www.youtube.com/watch?v=XZVgUdPn5xg
 SUMMARY:Dark Phoenix vs TSA.W
-URL;VALUE=URI:https://www.youtube.com/watch?v=XZVgUdPn5xg
+URL:https://www.youtube.com/watch?v=XZVgUdPn5xg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T163000Z
+UID:pandascore-match-1522174@esport-ics
+DTSTART:20260604T163000Z
+DTEND:20260604T184500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division
+SUMMARY:TSA.W vs TST
 END:VEVENT
 END:VCALENDAR

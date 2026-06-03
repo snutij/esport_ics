@@ -17,14 +17,14 @@ SUMMARY:Upper bracket semifinal 1: NGX vs KO
 URL:https://www.twitch.tv/gorgc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260603T090000Z
+DTSTAMP:20260603T092000Z
 UID:pandascore-match-1520558@esport-ics
-DTSTART:20260603T090000Z
-DTEND:20260603T111500Z
+DTSTART:20260603T092000Z
+DTEND:20260603T113500Z
 CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - MESWA Closed Qualifier 2026 - Playoffs\nWat
- ch: https://www.twitch.tv/narodCast
+ ch: https://www.twitch.tv/ewc_plus_en2
 SUMMARY:Lower bracket final: SIFR vs KO
-URL;VALUE=URI:https://www.twitch.tv/narodCast
+URL;VALUE=URI:https://www.twitch.tv/ewc_plus_en2
 END:VEVENT
 END:VCALENDAR

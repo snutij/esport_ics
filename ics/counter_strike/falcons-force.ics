@@ -459,12 +459,14 @@ DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
 SUMMARY:Upper bracket round 2 match  5: MISA vs FAL.F
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260603T173000Z
+DTSTAMP:20260603T170000Z
 UID:pandascore-match-1521619@esport-ics
-DTSTART:20260603T173000Z
-DTEND:20260603T194500Z
+DTSTART:20260603T170000Z
+DTEND:20260603T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/theeb1ye
 SUMMARY:Upper bracket quarterfinal 4: QUA vs FAL.F
+URL;VALUE=URI:https://www.twitch.tv/theeb1ye
 END:VEVENT
 END:VCALENDAR

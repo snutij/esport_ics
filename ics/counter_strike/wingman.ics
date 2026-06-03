@@ -133,6 +133,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/GoYareGo
 SUMMARY:Upper bracket round 2 match  3: ENRAGE vs WING
+URL:https://www.twitch.tv/GoYareGo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T173000Z
+UID:pandascore-match-1521617@esport-ics
+DTSTART:20260603T173000Z
+DTEND:20260603T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/GoYareGo
+SUMMARY:Upper bracket quarterfinal 2: ARCH vs WING
 URL;VALUE=URI:https://www.twitch.tv/GoYareGo
 END:VEVENT
 END:VCALENDAR
