@@ -459,4 +459,13 @@ DESCRIPTION:United21 - Season 50 2026 - Group D\nWatch: https://kick.com/un
 SUMMARY:Elimination match: FF vs WRAITH PCIFIC
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T173000Z
+UID:pandascore-match-1523324@esport-ics
+DTSTART:20260605T173000Z
+DTEND:20260605T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+SUMMARY:Upper bracket semifinals match 1: FF vs ARCH
+END:VEVENT
 END:VCALENDAR

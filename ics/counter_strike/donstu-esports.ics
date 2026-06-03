@@ -674,6 +674,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/donstu_esports
 SUMMARY:Upper bracket round 2 match  1: DNT vs FF
-URL;VALUE=URI:https://www.twitch.tv/donstu_esports
+URL:https://www.twitch.tv/donstu_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T173000Z
+UID:pandascore-match-1523333@esport-ics
+DTSTART:20260605T173000Z
+DTEND:20260605T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 8: DNT vs TEAM_COPH9K
 END:VEVENT
 END:VCALENDAR
