@@ -208,6 +208,105 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/rainbow6
 SUMMARY:Grand final: DZ vs SR
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T210000Z
+UID:pandascore-match-1523253@esport-ics
+DTSTART:20260610T210000Z
+DTEND:20260610T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:SR vs C9
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260611T200000Z
+UID:pandascore-match-1523257@esport-ics
+DTSTART:20260611T200000Z
+DTEND:20260611T204500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:5F vs SR
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T220000Z
+UID:pandascore-match-1523264@esport-ics
+DTSTART:20260612T220000Z
+DTEND:20260612T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:WCG vs SR
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T200000Z
+UID:pandascore-match-1523267@esport-ics
+DTSTART:20260618T200000Z
+DTEND:20260618T204500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:100T vs SR
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T180000Z
+UID:pandascore-match-1523270@esport-ics
+DTSTART:20260619T180000Z
+DTEND:20260619T184500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:SR vs 1/30
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T200000Z
+UID:pandascore-match-1523277@esport-ics
+DTSTART:20260625T200000Z
+DTEND:20260625T204500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:M80 vs SR
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T200000Z
+UID:pandascore-match-1523282@esport-ics
+DTSTART:20260626T200000Z
+DTEND:20260626T204500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:SR vs DZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T200000Z
+UID:pandascore-match-1523287@esport-ics
+DTSTART:20260702T200000Z
+DTEND:20260702T204500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:SR vs SSG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T210000Z
+UID:pandascore-match-1523293@esport-ics
+DTSTART:20260703T210000Z
+DTEND:20260703T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:SR vs OL
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

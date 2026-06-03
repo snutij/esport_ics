@@ -74,6 +74,83 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Playoffs\nWatch: 
  https://www.twitch.tv/rainbow6
 SUMMARY:Lower bracket quarterfinal 1: Shaiikademy vs CHF
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T080000Z
+UID:pandascore-match-1523149@esport-ics
+DTSTART:20260608T080000Z
+DTEND:20260608T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:Shaiikademy vs BB
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T080000Z
+UID:pandascore-match-1523153@esport-ics
+DTSTART:20260609T080000Z
+DTEND:20260609T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:MAN vs Shaiikademy
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T090000Z
+UID:pandascore-match-1523161@esport-ics
+DTSTART:20260615T090000Z
+DTEND:20260615T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:Shaiikademy vs EP
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T100000Z
+UID:pandascore-match-1523171@esport-ics
+DTSTART:20260616T100000Z
+DTEND:20260616T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:CHF vs Shaiikademy
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T090000Z
+UID:pandascore-match-1523176@esport-ics
+DTSTART:20260622T090000Z
+DTEND:20260622T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:RE vs Shaiikademy
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260623T110000Z
+UID:pandascore-match-1523182@esport-ics
+DTSTART:20260623T110000Z
+DTEND:20260623T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:Shaiikademy vs Rock LFO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T080000Z
+UID:pandascore-match-1523183@esport-ics
+DTSTART:20260629T080000Z
+DTEND:20260629T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:Shaiikademy vs 6T
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

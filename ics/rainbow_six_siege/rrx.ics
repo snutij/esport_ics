@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RRX
+SLUG:rrx
+BEGIN:VEVENT
+DTSTAMP:20260613T100000Z
+UID:pandascore-match-1523300@esport-ics
+DTSTART:20260613T100000Z
+DTEND:20260613T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:CAG vs RRX
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T100000Z
+UID:pandascore-match-1523296@esport-ics
+DTSTART:20260613T100000Z
+DTEND:20260613T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:FX vs RRX
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T090000Z
+UID:pandascore-match-1523304@esport-ics
+DTSTART:20260619T090000Z
+DTEND:20260619T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:Help Us LFO vs RRX
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T090000Z
+UID:pandascore-match-1523308@esport-ics
+DTSTART:20260620T090000Z
+DTEND:20260620T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:RRX vs SZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T210000Z
+UID:pandascore-match-1523314@esport-ics
+DTSTART:20260625T210000Z
+DTEND:20260625T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:KNT vs RRX
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T120000Z
+UID:pandascore-match-1523319@esport-ics
+DTSTART:20260627T120000Z
+DTEND:20260627T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:DK vs RRX
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T090000Z
+UID:pandascore-match-1523320@esport-ics
+DTSTART:20260701T090000Z
+DTEND:20260701T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:RRX vs CYBME
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+END:VCALENDAR

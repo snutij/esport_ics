@@ -166,6 +166,105 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Playoffs\nWatch: https:/
  /www.youtube.com/watch?v=IwSAgIhoark
 SUMMARY:Quarterfinal 4: DZ vs WCG
-URL;VALUE=URI:https://www.youtube.com/watch?v=IwSAgIhoark
+URL:https://www.youtube.com/watch?v=IwSAgIhoark
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T200000Z
+UID:pandascore-match-1523252@esport-ics
+DTSTART:20260610T200000Z
+DTEND:20260610T204500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:WCG vs 100T
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260611T220000Z
+UID:pandascore-match-1523259@esport-ics
+DTSTART:20260611T220000Z
+DTEND:20260611T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:WCG vs C9
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T220000Z
+UID:pandascore-match-1523264@esport-ics
+DTSTART:20260612T220000Z
+DTEND:20260612T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:WCG vs SR
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T220000Z
+UID:pandascore-match-1523269@esport-ics
+DTSTART:20260618T220000Z
+DTEND:20260618T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:DZ vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T220000Z
+UID:pandascore-match-1523274@esport-ics
+DTSTART:20260619T220000Z
+DTEND:20260619T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:SSG vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T210000Z
+UID:pandascore-match-1523278@esport-ics
+DTSTART:20260625T210000Z
+DTEND:20260625T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:1/30 vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T190000Z
+UID:pandascore-match-1523281@esport-ics
+DTSTART:20260626T190000Z
+DTEND:20260626T194500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:WCG vs OL
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T180000Z
+UID:pandascore-match-1523285@esport-ics
+DTSTART:20260702T180000Z
+DTEND:20260702T184500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:5F vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T180000Z
+UID:pandascore-match-1523290@esport-ics
+DTSTART:20260703T180000Z
+DTEND:20260703T184500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:M80 vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

@@ -340,6 +340,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Southeast Asia Closed Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/betboom_dota_ru4
 SUMMARY:Upper Bracket Semifinal 1: RNX vs GLYPH
+URL:https://www.twitch.tv/betboom_dota_ru4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T080000Z
+UID:pandascore-match-1520882@esport-ics
+DTSTART:20260604T080000Z
+DTEND:20260604T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Southeast Asia Closed Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/betboom_dota_ru4
+SUMMARY:Lower Bracket Quarterfinal 2: RNX vs TBD
 URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru4
 END:VEVENT
 END:VCALENDAR

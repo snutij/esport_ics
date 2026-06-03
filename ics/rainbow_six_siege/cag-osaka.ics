@@ -76,6 +76,83 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Group Stage\nWatch: http
  s://www.twitch.tv/rainbow6bravo
 SUMMARY:Round 3: CAG vs 5F
-URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
+URL:https://www.twitch.tv/rainbow6bravo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T120000Z
+UID:pandascore-match-1523298@esport-ics
+DTSTART:20260612T120000Z
+DTEND:20260612T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:DK vs CAG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T100000Z
+UID:pandascore-match-1523300@esport-ics
+DTSTART:20260613T100000Z
+DTEND:20260613T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:CAG vs RRX
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T120000Z
+UID:pandascore-match-1523307@esport-ics
+DTSTART:20260619T120000Z
+DTEND:20260619T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:FX vs CAG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T100000Z
+UID:pandascore-match-1523309@esport-ics
+DTSTART:20260620T100000Z
+DTEND:20260620T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:CAG vs Help Us LFO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T120000Z
+UID:pandascore-match-1523315@esport-ics
+DTSTART:20260626T120000Z
+DTEND:20260626T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:SZ vs CAG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T090000Z
+UID:pandascore-match-1523316@esport-ics
+DTSTART:20260627T090000Z
+DTEND:20260627T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:CYBME vs CAG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T110000Z
+UID:pandascore-match-1523322@esport-ics
+DTSTART:20260701T110000Z
+DTEND:20260701T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:CAG vs KNT
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

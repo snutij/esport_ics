@@ -32,6 +32,83 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: North 2026 - Decider Brackets\nW
  atch: https://www.twitch.tv/rainbow6
 SUMMARY:5th Place Decider: LFONN vs Help Us LFO
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T090000Z
+UID:pandascore-match-1523295@esport-ics
+DTSTART:20260612T090000Z
+DTEND:20260612T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:Help Us LFO vs CYBME
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T120000Z
+UID:pandascore-match-1523303@esport-ics
+DTSTART:20260613T120000Z
+DTEND:20260613T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:DK vs Help Us LFO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T090000Z
+UID:pandascore-match-1523304@esport-ics
+DTSTART:20260619T090000Z
+DTEND:20260619T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:Help Us LFO vs RRX
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T100000Z
+UID:pandascore-match-1523309@esport-ics
+DTSTART:20260620T100000Z
+DTEND:20260620T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:CAG vs Help Us LFO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T100000Z
+UID:pandascore-match-1523313@esport-ics
+DTSTART:20260626T100000Z
+DTEND:20260626T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:Help Us LFO vs FX
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T100000Z
+UID:pandascore-match-1523317@esport-ics
+DTSTART:20260627T100000Z
+DTEND:20260627T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:KNT vs Help Us LFO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T100000Z
+UID:pandascore-match-1523321@esport-ics
+DTSTART:20260701T100000Z
+DTEND:20260701T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:Help Us LFO vs SZ
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

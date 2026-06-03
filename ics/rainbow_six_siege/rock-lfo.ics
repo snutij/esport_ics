@@ -41,6 +41,83 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Playoffs\nWatch: 
  https://www.twitch.tv/rainbow6
 SUMMARY:Lower bracket semifinal: Rock LFO vs CHF
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T090000Z
+UID:pandascore-match-1523150@esport-ics
+DTSTART:20260608T090000Z
+DTEND:20260608T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:Rock LFO vs MAN
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T110000Z
+UID:pandascore-match-1523157@esport-ics
+DTSTART:20260609T110000Z
+DTEND:20260609T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:Rock LFO vs 6T
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T100000Z
+UID:pandascore-match-1523164@esport-ics
+DTSTART:20260615T100000Z
+DTEND:20260615T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:Rock LFO vs RE
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T110000Z
+UID:pandascore-match-1523173@esport-ics
+DTSTART:20260616T110000Z
+DTEND:20260616T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:EP vs Rock LFO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T100000Z
+UID:pandascore-match-1523177@esport-ics
+DTSTART:20260622T100000Z
+DTEND:20260622T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:BB vs Rock LFO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260623T110000Z
+UID:pandascore-match-1523182@esport-ics
+DTSTART:20260623T110000Z
+DTEND:20260623T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:Shaiikademy vs Rock LFO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T100000Z
+UID:pandascore-match-1523185@esport-ics
+DTSTART:20260629T100000Z
+DTEND:20260629T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:Rock LFO vs CHF
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

@@ -74,4 +74,81 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: Oceania 2026 - Decider Brackets
 SUMMARY:7th Place decider: BB vs 6T
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T080000Z
+UID:pandascore-match-1523149@esport-ics
+DTSTART:20260608T080000Z
+DTEND:20260608T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:Shaiikademy vs BB
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T100000Z
+UID:pandascore-match-1523155@esport-ics
+DTSTART:20260609T100000Z
+DTEND:20260609T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:BB vs CHF
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T080000Z
+UID:pandascore-match-1523159@esport-ics
+DTSTART:20260615T080000Z
+DTEND:20260615T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:MAN vs BB
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T090000Z
+UID:pandascore-match-1523169@esport-ics
+DTSTART:20260616T090000Z
+DTEND:20260616T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:BB vs 6T
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T100000Z
+UID:pandascore-match-1523177@esport-ics
+DTSTART:20260622T100000Z
+DTEND:20260622T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:BB vs Rock LFO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260623T100000Z
+UID:pandascore-match-1523181@esport-ics
+DTSTART:20260623T100000Z
+DTEND:20260623T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:EP vs BB
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T090000Z
+UID:pandascore-match-1523184@esport-ics
+DTSTART:20260629T090000Z
+DTEND:20260629T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:BB vs RE
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
 END:VCALENDAR

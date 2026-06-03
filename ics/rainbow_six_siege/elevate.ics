@@ -47,4 +47,81 @@ CLASS:PUBLIC
 DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Decider Brackets
 SUMMARY:5th place decider: UN vs ELV
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T130000Z
+UID:pandascore-match-1523224@esport-ics
+DTSTART:20260610T130000Z
+DTEND:20260610T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
+SUMMARY:DAY vs ELV
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260611T130000Z
+UID:pandascore-match-1523229@esport-ics
+DTSTART:20260611T130000Z
+DTEND:20260611T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
+SUMMARY:ELV vs WBG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T120000Z
+UID:pandascore-match-1523232@esport-ics
+DTSTART:20260617T120000Z
+DTEND:20260617T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
+SUMMARY:FLFO vs ELV
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T130000Z
+UID:pandascore-match-1523237@esport-ics
+DTSTART:20260618T130000Z
+DTEND:20260618T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
+SUMMARY:ELV vs TO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T110000Z
+UID:pandascore-match-1523239@esport-ics
+DTSTART:20260624T110000Z
+DTEND:20260624T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
+SUMMARY:SHE vs ELV
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T120000Z
+UID:pandascore-match-1523244@esport-ics
+DTSTART:20260625T120000Z
+DTEND:20260625T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
+SUMMARY:ELV vs FURY
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T110000Z
+UID:pandascore-match-1523247@esport-ics
+DTSTART:20260630T110000Z
+DTEND:20260630T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
+SUMMARY:HL tauri Esports vs ELV
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
 END:VCALENDAR

@@ -3,59 +3,39 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:HL tauri Esports
-SLUG:hl-tauri-esports
+X-WR-CALNAME:Friendship LFO
+SLUG:friendship-lfo
 BEGIN:VEVENT
-DTSTAMP:20260411T040000Z
-UID:pandascore-match-1422215@esport-ics
-DTSTART:20260411T040000Z
-DTEND:20260411T061500Z
-CLASS:PUBLIC
-DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Playoffs
-SUMMARY:Lower bracket round 1 match 2: UN vs HL tauri Esports
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260501T070000Z
-UID:pandascore-match-1463992@esport-ics
-DTSTART:20260501T070000Z
-DTEND:20260501T091500Z
-CLASS:PUBLIC
-DESCRIPTION:Asia-Pacific League - Kickoff: Asia 2026 - Decider Brackets\nWa
- tch: https://www.twitch.tv/rainbow6
-SUMMARY:7th place decider: HL tauri Esports vs FURY
-URL:https://www.twitch.tv/rainbow6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260610T100000Z
-UID:pandascore-match-1523218@esport-ics
-DTSTART:20260610T100000Z
-DTEND:20260610T104500Z
+DTSTAMP:20260610T120000Z
+UID:pandascore-match-1523222@esport-ics
+DTSTART:20260610T120000Z
+DTEND:20260610T124500Z
 CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Group Stage\nWatch:
   https://www.twitch.tv/rainbow6
-SUMMARY:TO vs HL tauri Esports
+SUMMARY:FLFO vs WBG
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260611T120000Z
-UID:pandascore-match-1523228@esport-ics
-DTSTART:20260611T120000Z
-DTEND:20260611T124500Z
+DTSTAMP:20260611T100000Z
+UID:pandascore-match-1523225@esport-ics
+DTSTART:20260611T100000Z
+DTEND:20260611T104500Z
 CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Group Stage\nWatch:
   https://www.twitch.tv/rainbow6
-SUMMARY:HL tauri Esports vs SHE
+SUMMARY:FURY vs FLFO
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260617T100000Z
-UID:pandascore-match-1523230@esport-ics
-DTSTART:20260617T100000Z
-DTEND:20260617T104500Z
+DTSTAMP:20260617T120000Z
+UID:pandascore-match-1523232@esport-ics
+DTSTART:20260617T120000Z
+DTEND:20260617T124500Z
 CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Group Stage\nWatch:
   https://www.twitch.tv/rainbow6
-SUMMARY:FURY vs HL tauri Esports
+SUMMARY:FLFO vs ELV
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
@@ -70,36 +50,36 @@ SUMMARY:HL tauri Esports vs FLFO
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260624T100000Z
-UID:pandascore-match-1523238@esport-ics
-DTSTART:20260624T100000Z
-DTEND:20260624T104500Z
+DTSTAMP:20260624T120000Z
+UID:pandascore-match-1523240@esport-ics
+DTSTART:20260624T120000Z
+DTEND:20260624T124500Z
 CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Group Stage\nWatch:
   https://www.twitch.tv/rainbow6
-SUMMARY:HL tauri Esports vs DAY
+SUMMARY:TO vs FLFO
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260625T130000Z
-UID:pandascore-match-1523245@esport-ics
-DTSTART:20260625T130000Z
-DTEND:20260625T134500Z
+DTSTAMP:20260625T100000Z
+UID:pandascore-match-1523242@esport-ics
+DTSTART:20260625T100000Z
+DTEND:20260625T104500Z
 CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Group Stage\nWatch:
   https://www.twitch.tv/rainbow6
-SUMMARY:WBG vs HL tauri Esports
+SUMMARY:FLFO vs DAY
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260630T110000Z
-UID:pandascore-match-1523247@esport-ics
-DTSTART:20260630T110000Z
-DTEND:20260630T114500Z
+DTSTAMP:20260630T120000Z
+UID:pandascore-match-1523248@esport-ics
+DTSTART:20260630T120000Z
+DTEND:20260630T124500Z
 CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Group Stage\nWatch:
   https://www.twitch.tv/rainbow6
-SUMMARY:HL tauri Esports vs ELV
+SUMMARY:SHE vs FLFO
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

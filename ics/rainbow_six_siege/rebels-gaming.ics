@@ -80,6 +80,105 @@ CLASS:PUBLIC
 DESCRIPTION:Europe MENA League - Kickoff 2026 - Decider Brackets\nWatch: ht
  tps://www.twitch.tv/rainbow6
 SUMMARY:7th Place Decider: RBLS vs FNC
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T190000Z
+UID:pandascore-match-1523107@esport-ics
+DTSTART:20260608T190000Z
+DTEND:20260608T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:FLCS vs RBLS
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T170000Z
+UID:pandascore-match-1523110@esport-ics
+DTSTART:20260609T170000Z
+DTEND:20260609T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:VP vs RBLS
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T160000Z
+UID:pandascore-match-1523114@esport-ics
+DTSTART:20260615T160000Z
+DTEND:20260615T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:RBLS vs TM
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T170000Z
+UID:pandascore-match-1523120@esport-ics
+DTSTART:20260616T170000Z
+DTEND:20260616T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:RBLS vs Secret
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T180000Z
+UID:pandascore-match-1523126@esport-ics
+DTSTART:20260622T180000Z
+DTEND:20260622T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:RBLS vs G2
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260623T160000Z
+UID:pandascore-match-1523129@esport-ics
+DTSTART:20260623T160000Z
+DTEND:20260623T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:RBLS vs FNC
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T160000Z
+UID:pandascore-match-1523134@esport-ics
+DTSTART:20260624T160000Z
+DTEND:20260624T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:GE vs RBLS
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T200000Z
+UID:pandascore-match-1523143@esport-ics
+DTSTART:20260629T200000Z
+DTEND:20260629T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:Heretics vs RBLS
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T170000Z
+UID:pandascore-match-1523145@esport-ics
+DTSTART:20260630T170000Z
+DTEND:20260630T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:Shifters vs RBLS
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

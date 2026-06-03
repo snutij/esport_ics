@@ -131,6 +131,105 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Salt Lake City 2026 - Playoffs\nWatch: https:/
  /www.youtube.com/watch?v=IwSAgIhoark
 SUMMARY:Quarterfinal 2: G2 vs SR
-URL;VALUE=URI:https://www.youtube.com/watch?v=IwSAgIhoark
+URL:https://www.youtube.com/watch?v=IwSAgIhoark
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T180000Z
+UID:pandascore-match-1523106@esport-ics
+DTSTART:20260608T180000Z
+DTEND:20260608T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:G2 vs GE
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T190000Z
+UID:pandascore-match-1523112@esport-ics
+DTSTART:20260609T190000Z
+DTEND:20260609T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:G2 vs Heretics
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T180000Z
+UID:pandascore-match-1523116@esport-ics
+DTSTART:20260615T180000Z
+DTEND:20260615T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:G2 vs Shifters
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T180000Z
+UID:pandascore-match-1523121@esport-ics
+DTSTART:20260616T180000Z
+DTEND:20260616T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:FLCS vs G2
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T180000Z
+UID:pandascore-match-1523126@esport-ics
+DTSTART:20260622T180000Z
+DTEND:20260622T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:RBLS vs G2
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260623T180000Z
+UID:pandascore-match-1523131@esport-ics
+DTSTART:20260623T180000Z
+DTEND:20260623T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:TM vs G2
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T180000Z
+UID:pandascore-match-1523136@esport-ics
+DTSTART:20260624T180000Z
+DTEND:20260624T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:Secret vs G2
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T180000Z
+UID:pandascore-match-1523141@esport-ics
+DTSTART:20260629T180000Z
+DTEND:20260629T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:VP vs G2
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T190000Z
+UID:pandascore-match-1523147@esport-ics
+DTSTART:20260630T190000Z
+DTEND:20260630T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/rainbow6
+SUMMARY:G2 vs FNC
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
