@@ -465,6 +465,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - North America Closed Qualifier 2026 - Playo
  ffs\nWatch: https://www.twitch.tv/narodCast
 SUMMARY:Upper bracket final: Ignite vs GL
+URL:https://www.twitch.tv/narodCast
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T200000Z
+UID:pandascore-match-1520989@esport-ics
+DTSTART:20260604T200000Z
+DTEND:20260604T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - North America Closed Qualifier 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/narodCast
+SUMMARY:Grand final: GL vs TBD
 URL;VALUE=URI:https://www.twitch.tv/narodCast
 END:VEVENT
 END:VCALENDAR

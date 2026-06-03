@@ -237,6 +237,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 5 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/mpkbk
 SUMMARY:Quarterfinal 1: NTR vs PF
-URL;VALUE=URI:https://www.twitch.tv/mpkbk
+URL:https://www.twitch.tv/mpkbk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T080000Z
+UID:pandascore-match-1504748@esport-ics
+DTSTART:20260604T080000Z
+DTEND:20260604T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 2026 - Group A\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:PF vs HS
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

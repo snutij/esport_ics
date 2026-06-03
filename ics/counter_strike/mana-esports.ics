@@ -926,4 +926,15 @@ DESCRIPTION:United21 - Season 50 2026 - Group D\nWatch: https://kick.com/un
 SUMMARY:Winners match: CHAOS vs MANA
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T080000Z
+UID:pandascore-match-1504753@esport-ics
+DTSTART:20260605T080000Z
+DTEND:20260605T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 2026 - Group B\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Lavked vs MANA
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

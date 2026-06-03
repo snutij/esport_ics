@@ -529,6 +529,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 Closed Qualifier 2026 - Play-In\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:YN vs Entropy
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T103000Z
+UID:pandascore-match-1504759@esport-ics
+DTSTART:20260606T103000Z
+DTEND:20260606T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 2026 - Group C\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:RUST vs YN
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

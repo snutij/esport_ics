@@ -231,6 +231,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Cologne Major 2026 - Stage 1\nWatch: https://www.twitch.t
  v/ESLCS
 SUMMARY:Round 3: NRG vs FLY
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T170000Z
+UID:pandascore-match-1508642@esport-ics
+DTSTART:20260604T170000Z
+DTEND:20260604T191500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Cologne Major 2026 - Stage 1\nWatch: https://www.twitch.t
+ v/ESLCS
+SUMMARY:Round 4: M80 vs NRG
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

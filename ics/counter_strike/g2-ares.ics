@@ -751,4 +751,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 3: LFO vs G2.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T080000Z
+UID:pandascore-match-1504758@esport-ics
+DTSTART:20260606T080000Z
+DTEND:20260606T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 2026 - Group C\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:G2.A vs aAa
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

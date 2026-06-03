@@ -575,4 +575,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Group Stage\nWatch: http
 SUMMARY:Round 1: WAL vs KOL
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T080000Z
+UID:pandascore-match-1504763@esport-ics
+DTSTART:20260607T080000Z
+DTEND:20260607T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 2026 - Group D\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:KOL vs LC
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

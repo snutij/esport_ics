@@ -377,6 +377,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Cologne Major 2026 - Stage 1\nWatch: https://www.twitch.t
  v/ESLCSb
 SUMMARY:Round 3: SHK vs LVG
-URL;VALUE=URI:https://www.twitch.tv/ESLCSb
+URL:https://www.twitch.tv/ESLCSb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T120000Z
+UID:pandascore-match-1508637@esport-ics
+DTSTART:20260604T120000Z
+DTEND:20260604T141500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Cologne Major 2026 - Stage 1\nWatch: https://www.twitch.t
+ v/ESLCS
+SUMMARY:Round 4: TYLOO vs SHK
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
