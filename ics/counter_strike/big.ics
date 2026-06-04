@@ -421,6 +421,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Cologne Major 2026 - Stage 1\nWatch: https://www.twitch.t
  v/ESLCS
 SUMMARY:Round 4: GL vs BIG
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T170000Z
+UID:pandascore-match-1508646@esport-ics
+DTSTART:20260605T170000Z
+DTEND:20260605T191500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Cologne Major 2026 - Stage 1\nWatch: https://www.twitch.t
+ v/ESLCS
+SUMMARY:Round 5: NRG vs BIG
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
