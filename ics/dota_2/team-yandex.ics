@@ -498,7 +498,7 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 7 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/BLASTDota
 SUMMARY:Upper bracket quarterfinal 1: AUR vs TY
-URL;VALUE=URI:https://www.twitch.tv/BLASTDota
+URL:https://www.twitch.tv/BLASTDota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260604T090000Z
@@ -509,6 +509,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 7 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/BLASTDota
 SUMMARY:Upper bracket quarterfinal 1: FLC vs TY
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T160000Z
+UID:pandascore-match-1501584@esport-ics
+DTSTART:20260604T160000Z
+DTEND:20260604T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 7 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/BLASTDota
+SUMMARY:Upper bracket semifinal 1: TY vs LGD
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

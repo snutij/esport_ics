@@ -351,6 +351,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Southeast Asia Closed Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/betboom_dota_ru4
 SUMMARY:Lower Bracket Quarterfinal 2: RNX vs TBD
-URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru4
+URL:https://www.twitch.tv/betboom_dota_ru4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260604T120000Z
+UID:pandascore-match-1520883@esport-ics
+DTSTART:20260604T120000Z
+DTEND:20260604T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Southeast Asia Closed Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/cispapa
+SUMMARY:Lower Bracket Semifinal: CARST vs RNX
+URL;VALUE=URI:https://www.twitch.tv/cispapa
 END:VEVENT
 END:VCALENDAR
