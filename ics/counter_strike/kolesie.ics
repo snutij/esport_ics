@@ -576,6 +576,17 @@ SUMMARY:Round 1: WAL vs KOL
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260605T080000Z
+UID:pandascore-match-1517496@esport-ics
+DTSTART:20260605T080000Z
+DTEND:20260605T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 2: KOL vs Atreides
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260607T080000Z
 UID:pandascore-match-1504763@esport-ics
 DTSTART:20260607T080000Z

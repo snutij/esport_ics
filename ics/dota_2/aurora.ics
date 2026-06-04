@@ -828,6 +828,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 7 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/BLASTDota
 SUMMARY:Upper bracket quarterfinal 2: BB vs AUR
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T160000Z
+UID:pandascore-match-1501590@esport-ics
+DTSTART:20260605T160000Z
+DTEND:20260605T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 7 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/BLASTDota
+SUMMARY:Lower bracket quarterfinal 1: TBD vs AUR
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR
