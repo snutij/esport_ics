@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 3 2026 - Group Stage\nWatch: https:/
  /www.youtube.com/watch?v=iQewb77Q6wE
 SUMMARY:Round 3: D1 vs YFP
-URL;VALUE=URI:https://www.youtube.com/watch?v=iQewb77Q6wE
+URL:https://www.youtube.com/watch?v=iQewb77Q6wE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T230000Z
+UID:pandascore-match-1523858@esport-ics
+DTSTART:20260618T230000Z
+DTEND:20260619T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 3 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/valorant_northamerica
+SUMMARY:YFP vs NRG.A
+URL;VALUE=URI:https://www.twitch.tv/valorant_northamerica
 END:VEVENT
 END:VCALENDAR
