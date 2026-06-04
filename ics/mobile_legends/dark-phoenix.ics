@@ -113,7 +113,9 @@ UID:pandascore-match-1522176@esport-ics
 DTSTART:20260604T193000Z
 DTEND:20260604T214500Z
 CLASS:PUBLIC
-DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division\nWatch:
+  https://www.twitch.tv/betboom_esports
 SUMMARY:Omnix vs Dark Phoenix
+URL;VALUE=URI:https://www.twitch.tv/betboom_esports
 END:VEVENT
 END:VCALENDAR

@@ -234,7 +234,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:trigger vs Rogue
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260604T142000Z
@@ -245,7 +245,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:Solar vs trigger
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260610T110000Z

@@ -89,7 +89,8 @@ DTSTART:20260607T160000Z
 DTEND:20260607T181500Z
 CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - South America & LATAM Qualifier 2026 - Play
- offs
+ offs\nWatch: https://www.twitch.tv/EWC_STCArena_EN
 SUMMARY:Upper Bracket Quarterfinal 2: FXW7 vs PNG
+URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
 END:VEVENT
 END:VCALENDAR
