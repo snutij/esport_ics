@@ -414,4 +414,15 @@ DESCRIPTION:ESL Challenger League - Asia-Pacific Finals season 51 2026 - Pl
  ayoffs
 SUMMARY:Round 1: KG vs GZ
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T083000Z
+UID:pandascore-match-1525951@esport-ics
+DTSTART:20260608T083000Z
+DTEND:20260608T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Dfrag - Open Series #5 2026 - Group A\nWatch: https://www.twitc
+ h.tv/dfragtv
+SUMMARY:GZ vs MandL
+URL;VALUE=URI:https://www.twitch.tv/dfragtv
+END:VEVENT
 END:VCALENDAR

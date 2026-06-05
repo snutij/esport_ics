@@ -469,4 +469,59 @@ DESCRIPTION:Esports World Cup - Western Europe Closed Qualifier 2026 - Play
  offs
 SUMMARY:Lower bracket quarterfinal 1: Z10 vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T150000Z
+UID:pandascore-match-1525442@esport-ics
+DTSTART:20260605T150000Z
+DTEND:20260605T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs G-Time
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T120000Z
+UID:pandascore-match-1525447@esport-ics
+DTSTART:20260606T120000Z
+DTEND:20260606T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs BALU
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T150000Z
+UID:pandascore-match-1525448@esport-ics
+DTSTART:20260606T150000Z
+DTEND:20260606T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Hive vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T150000Z
+UID:pandascore-match-1525456@esport-ics
+DTSTART:20260608T150000Z
+DTEND:20260608T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs SB
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T180000Z
+UID:pandascore-match-1525457@esport-ics
+DTSTART:20260608T180000Z
+DTEND:20260608T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:VP.P vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
 END:VCALENDAR

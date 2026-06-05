@@ -496,6 +496,61 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 37 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Grand final: TM vs PR
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T120000Z
+UID:pandascore-match-1525459@esport-ics
+DTSTART:20260613T120000Z
+DTEND:20260613T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:PR vs Noir
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T150000Z
+UID:pandascore-match-1525500@esport-ics
+DTSTART:20260613T150000Z
+DTEND:20260613T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ILL vs PR
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T120000Z
+UID:pandascore-match-1525531@esport-ics
+DTSTART:20260614T120000Z
+DTEND:20260614T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nande+4 vs PR
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T150000Z
+UID:pandascore-match-1525532@esport-ics
+DTSTART:20260614T150000Z
+DTEND:20260614T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:4iki vs PR
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T150000Z
+UID:pandascore-match-1525536@esport-ics
+DTSTART:20260615T150000Z
+DTEND:20260615T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:PR vs TS.A
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

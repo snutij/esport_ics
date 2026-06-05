@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHENGSHI Esports
+SLUG:shengshi-esports
+BEGIN:VEVENT
+DTSTAMP:20260611T140000Z
+UID:pandascore-match-1525760@esport-ics
+DTSTART:20260611T140000Z
+DTEND:20260611T161500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 2 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:MG3 vs SSE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T123000Z
+UID:pandascore-match-1525762@esport-ics
+DTSTART:20260618T123000Z
+DTEND:20260618T144500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 2 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:SSE vs TS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T110000Z
+UID:pandascore-match-1525764@esport-ics
+DTSTART:20260625T110000Z
+DTEND:20260625T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 2 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:T12 vs SSE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T140000Z
+UID:pandascore-match-1525769@esport-ics
+DTSTART:20260702T140000Z
+DTEND:20260702T161500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 2 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:SSE vs NE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+END:VCALENDAR

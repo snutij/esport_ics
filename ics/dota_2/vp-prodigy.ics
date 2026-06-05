@@ -397,6 +397,50 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 36 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:VP.P vs IC
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T180000Z
+UID:pandascore-match-1525453@esport-ics
+DTSTART:20260607T180000Z
+DTEND:20260607T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:SB vs VP.P
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T120000Z
+UID:pandascore-match-1525455@esport-ics
+DTSTART:20260608T120000Z
+DTEND:20260608T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:VP.P vs BALU
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T180000Z
+UID:pandascore-match-1525457@esport-ics
+DTSTART:20260608T180000Z
+DTEND:20260608T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:VP.P vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T180000Z
+UID:pandascore-match-1525533@esport-ics
+DTSTART:20260614T180000Z
+DTEND:20260614T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:VP.P vs G-Time
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

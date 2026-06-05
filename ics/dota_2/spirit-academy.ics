@@ -320,6 +320,61 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 36 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Lower bracket round 1 match 1: TS.A vs MODUS
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T090000Z
+UID:pandascore-match-1525450@esport-ics
+DTSTART:20260607T090000Z
+DTEND:20260607T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Noir vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T090000Z
+UID:pandascore-match-1525511@esport-ics
+DTSTART:20260614T090000Z
+DTEND:20260614T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ILL vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T150000Z
+UID:pandascore-match-1525536@esport-ics
+DTSTART:20260615T150000Z
+DTEND:20260615T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:PR vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T180000Z
+UID:pandascore-match-1525537@esport-ics
+DTSTART:20260615T180000Z
+DTEND:20260615T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nande+4 vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T120000Z
+UID:pandascore-match-1525555@esport-ics
+DTSTART:20260616T120000Z
+DTEND:20260616T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:4iki vs TS.A
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

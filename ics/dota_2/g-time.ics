@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:G-Time
+SLUG:g-time
+BEGIN:VEVENT
+DTSTAMP:20260605T150000Z
+UID:pandascore-match-1525442@esport-ics
+DTSTART:20260605T150000Z
+DTEND:20260605T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs G-Time
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T090000Z
+UID:pandascore-match-1525446@esport-ics
+DTSTART:20260606T090000Z
+DTEND:20260606T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:G-Time vs SB
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T120000Z
+UID:pandascore-match-1525451@esport-ics
+DTSTART:20260607T120000Z
+DTEND:20260607T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:G-Time vs Hive
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T180000Z
+UID:pandascore-match-1525533@esport-ics
+DTSTART:20260614T180000Z
+DTEND:20260614T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:VP.P vs G-Time
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+END:VCALENDAR

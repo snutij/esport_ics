@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ELMT
+SLUG:elmt
+BEGIN:VEVENT
+DTSTAMP:20260611T123000Z
+UID:pandascore-match-1525759@esport-ics
+DTSTART:20260611T123000Z
+DTEND:20260611T144500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 2 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:TS vs ELMT
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T110000Z
+UID:pandascore-match-1525761@esport-ics
+DTSTART:20260618T110000Z
+DTEND:20260618T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 2 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:ELMT vs T12
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T123000Z
+UID:pandascore-match-1525765@esport-ics
+DTSTART:20260625T123000Z
+DTEND:20260625T144500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 2 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:ELMT vs NE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T110000Z
+UID:pandascore-match-1525767@esport-ics
+DTSTART:20260702T110000Z
+DTEND:20260702T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 2 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:MG3 vs ELMT
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+END:VCALENDAR

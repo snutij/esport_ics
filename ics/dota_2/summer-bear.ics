@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:summer bear
+SLUG:summer-bear
+BEGIN:VEVENT
+DTSTAMP:20260606T090000Z
+UID:pandascore-match-1525446@esport-ics
+DTSTART:20260606T090000Z
+DTEND:20260606T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:G-Time vs SB
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T180000Z
+UID:pandascore-match-1525453@esport-ics
+DTSTART:20260607T180000Z
+DTEND:20260607T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:SB vs VP.P
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T150000Z
+UID:pandascore-match-1525456@esport-ics
+DTSTART:20260608T150000Z
+DTEND:20260608T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs SB
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T180000Z
+UID:pandascore-match-1525501@esport-ics
+DTSTART:20260613T180000Z
+DTEND:20260613T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:BALU vs SB
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T120000Z
+UID:pandascore-match-1525535@esport-ics
+DTSTART:20260615T120000Z
+DTEND:20260615T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:SB vs Hive
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+END:VCALENDAR

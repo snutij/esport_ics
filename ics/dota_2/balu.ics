@@ -89,4 +89,37 @@ DESCRIPTION:Esports World Cup - Western Europe Closed Qualifier 2026 - Play
  offs
 SUMMARY:Lower bracket round 1 match 1: BALU vs LYNX
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T120000Z
+UID:pandascore-match-1525447@esport-ics
+DTSTART:20260606T120000Z
+DTEND:20260606T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs BALU
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T120000Z
+UID:pandascore-match-1525455@esport-ics
+DTSTART:20260608T120000Z
+DTEND:20260608T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:VP.P vs BALU
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T180000Z
+UID:pandascore-match-1525501@esport-ics
+DTSTART:20260613T180000Z
+DTEND:20260613T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:BALU vs SB
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
 END:VCALENDAR

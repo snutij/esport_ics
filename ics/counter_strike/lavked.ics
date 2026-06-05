@@ -810,6 +810,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 2026 - Group B\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Lavked vs MANA
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T103000Z
+UID:pandascore-match-1504756@esport-ics
+DTSTART:20260609T103000Z
+DTEND:20260609T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 2026 - Group B\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Winners match: Lavked vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
