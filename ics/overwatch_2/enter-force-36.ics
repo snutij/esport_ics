@@ -135,6 +135,72 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Asia Stage 1 2026 - Group A\nWatch: https://www.twitch.tv
  /ow_esports_jp
 SUMMARY:T1 vs EF.36
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T120000Z
+UID:pandascore-match-1525421@esport-ics
+DTSTART:20260608T120000Z
+DTEND:20260608T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:VAR vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T120000Z
+UID:pandascore-match-1525424@esport-ics
+DTSTART:20260609T120000Z
+DTEND:20260609T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:99D vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T103000Z
+UID:pandascore-match-1525426@esport-ics
+DTSTART:20260615T103000Z
+DTEND:20260615T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:REV vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T120000Z
+UID:pandascore-match-1525430@esport-ics
+DTSTART:20260616T120000Z
+DTEND:20260616T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:EF.36 vs PNHB
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T120000Z
+UID:pandascore-match-1525433@esport-ics
+DTSTART:20260622T120000Z
+DTEND:20260622T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:LAZ vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T090000Z
+UID:pandascore-match-1525437@esport-ics
+DTSTART:20260624T090000Z
+DTEND:20260624T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:MG vs EF.36
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

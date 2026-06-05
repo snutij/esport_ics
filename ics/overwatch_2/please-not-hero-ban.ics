@@ -124,7 +124,7 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Asia Stage 1 2026 - Group B\nWatch: https://www.twitch.tv
  /ow_esports
 SUMMARY:CR vs PNHB
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL:https://www.twitch.tv/ow_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260506T090000Z
@@ -135,6 +135,61 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Asia Stage 1 2026 - Group B\nWatch: https://www.twitch.tv
  /ow_esports
 SUMMARY:FAL vs PNHB
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T090000Z
+UID:pandascore-match-1525419@esport-ics
+DTSTART:20260608T090000Z
+DTEND:20260608T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:PNHB vs 99D
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T103000Z
+UID:pandascore-match-1525423@esport-ics
+DTSTART:20260609T103000Z
+DTEND:20260609T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:PNHB vs MG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T120000Z
+UID:pandascore-match-1525430@esport-ics
+DTSTART:20260616T120000Z
+DTEND:20260616T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:EF.36 vs PNHB
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260623T103000Z
+UID:pandascore-match-1525435@esport-ics
+DTSTART:20260623T103000Z
+DTEND:20260623T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:LAZ vs PNHB
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T133000Z
+UID:pandascore-match-1525440@esport-ics
+DTSTART:20260624T133000Z
+DTEND:20260624T154500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:PNHB vs REV
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

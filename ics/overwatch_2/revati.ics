@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:REVATI
+SLUG:revati
+BEGIN:VEVENT
+DTSTAMP:20260609T090000Z
+UID:pandascore-match-1525422@esport-ics
+DTSTART:20260609T090000Z
+DTEND:20260609T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:REV vs LAZ
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T103000Z
+UID:pandascore-match-1525426@esport-ics
+DTSTART:20260615T103000Z
+DTEND:20260615T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:REV vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T103000Z
+UID:pandascore-match-1525429@esport-ics
+DTSTART:20260616T103000Z
+DTEND:20260616T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:REV vs UWI
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T103000Z
+UID:pandascore-match-1525432@esport-ics
+DTSTART:20260622T103000Z
+DTEND:20260622T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:VAR vs REV
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260623T120000Z
+UID:pandascore-match-1525436@esport-ics
+DTSTART:20260623T120000Z
+DTEND:20260623T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:99D vs REV
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T133000Z
+UID:pandascore-match-1525440@esport-ics
+DTSTART:20260624T133000Z
+DTEND:20260624T154500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:PNHB vs REV
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+END:VCALENDAR

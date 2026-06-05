@@ -102,6 +102,72 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Japan Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ow_esports_jp
 SUMMARY:3rd place decider: PNHB vs 99D
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T090000Z
+UID:pandascore-match-1525419@esport-ics
+DTSTART:20260608T090000Z
+DTEND:20260608T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:PNHB vs 99D
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T120000Z
+UID:pandascore-match-1525424@esport-ics
+DTSTART:20260609T120000Z
+DTEND:20260609T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:99D vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T090000Z
+UID:pandascore-match-1525425@esport-ics
+DTSTART:20260615T090000Z
+DTEND:20260615T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:99D vs MG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T090000Z
+UID:pandascore-match-1525431@esport-ics
+DTSTART:20260622T090000Z
+DTEND:20260622T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:99D vs UWI
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260623T120000Z
+UID:pandascore-match-1525436@esport-ics
+DTSTART:20260623T120000Z
+DTEND:20260623T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:99D vs REV
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T120000Z
+UID:pandascore-match-1525439@esport-ics
+DTSTART:20260624T120000Z
+DTEND:20260624T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:VAR vs 99D
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

@@ -155,7 +155,9 @@ UID:pandascore-match-1523333@esport-ics
 DTSTART:20260605T173000Z
 DTEND:20260605T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/minicasterr
 SUMMARY:Lower bracket round 2 match 8: DNT vs TEAM_COPH9K
+URL;VALUE=URI:https://www.twitch.tv/minicasterr
 END:VEVENT
 END:VCALENDAR

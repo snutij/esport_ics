@@ -168,6 +168,61 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Asia Stage 1 2026 - Playoffs\nWatch: https://www.twitch.t
  v/ow_esports_jp
 SUMMARY:Lower bracket semifinal: VAR vs T1
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T120000Z
+UID:pandascore-match-1525421@esport-ics
+DTSTART:20260608T120000Z
+DTEND:20260608T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:VAR vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T120000Z
+UID:pandascore-match-1525427@esport-ics
+DTSTART:20260615T120000Z
+DTEND:20260615T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:VAR vs UWI
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T090000Z
+UID:pandascore-match-1525428@esport-ics
+DTSTART:20260616T090000Z
+DTEND:20260616T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:VAR vs LAZ
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T103000Z
+UID:pandascore-match-1525432@esport-ics
+DTSTART:20260622T103000Z
+DTEND:20260622T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:VAR vs REV
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T120000Z
+UID:pandascore-match-1525439@esport-ics
+DTSTART:20260624T120000Z
+DTEND:20260624T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:VAR vs 99D
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR
