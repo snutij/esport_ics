@@ -157,7 +157,9 @@ UID:pandascore-match-1523332@esport-ics
 DTSTART:20260605T173000Z
 DTEND:20260605T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/stariy_cast
 SUMMARY:Lower bracket round 2 match 7: BG vs ZOTIX
+URL;VALUE=URI:https://www.twitch.tv/stariy_cast
 END:VEVENT
 END:VCALENDAR
