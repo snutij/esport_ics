@@ -245,6 +245,83 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Champions Clash 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/ow_esports
 SUMMARY:Upper bracket final: CR vs ZETA
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T073000Z
+UID:pandascore-match-1526041@esport-ics
+DTSTART:20260607T073000Z
+DTEND:20260607T094500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:ZETA vs CB
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T093000Z
+UID:pandascore-match-1526044@esport-ics
+DTSTART:20260612T093000Z
+DTEND:20260612T114500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:O2B vs ZETA
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T090000Z
+UID:pandascore-match-1526048@esport-ics
+DTSTART:20260613T090000Z
+DTEND:20260613T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:SBAD vs ZETA
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T073000Z
+UID:pandascore-match-1526056@esport-ics
+DTSTART:20260620T073000Z
+DTEND:20260620T094500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:ZETA vs ZSG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T090000Z
+UID:pandascore-match-1526067@esport-ics
+DTSTART:20260621T090000Z
+DTEND:20260621T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:ZETA vs PF
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T093000Z
+UID:pandascore-match-1526069@esport-ics
+DTSTART:20260626T093000Z
+DTEND:20260626T114500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:ZETA vs FAL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T090000Z
+UID:pandascore-match-1526076@esport-ics
+DTSTART:20260628T090000Z
+DTEND:20260628T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:CR vs ZETA
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

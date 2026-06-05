@@ -58,6 +58,61 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
  www.youtube.com/watch?v=QHlEhGmDudM
 SUMMARY:Round 2 match 2: ESP vs TCG
-URL;VALUE=URI:https://www.youtube.com/watch?v=QHlEhGmDudM
+URL:https://www.youtube.com/watch?v=QHlEhGmDudM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T090000Z
+UID:pandascore-match-1526383@esport-ics
+DTSTART:20260617T090000Z
+DTEND:20260617T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 2\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:WB vs ESP
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T060000Z
+UID:pandascore-match-1526394@esport-ics
+DTSTART:20260621T060000Z
+DTEND:20260621T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 2\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:RNG.M vs ESP
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T120000Z
+UID:pandascore-match-1526402@esport-ics
+DTSTART:20260625T120000Z
+DTEND:20260625T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 2\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:LGD vs ESP
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T090000Z
+UID:pandascore-match-1526419@esport-ics
+DTSTART:20260703T090000Z
+DTEND:20260703T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 2\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:EDG vs ESP
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T060000Z
+UID:pandascore-match-1526424@esport-ics
+DTSTART:20260705T060000Z
+DTEND:20260705T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 2\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:Hero vs ESP
+URL;VALUE=URI:https://live.bilibili.com/55
 END:VEVENT
 END:VCALENDAR

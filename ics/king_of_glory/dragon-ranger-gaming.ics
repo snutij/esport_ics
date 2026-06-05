@@ -91,6 +91,61 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 2\nWatch: https://
  www.youtube.com/@2019KPL/streams
 SUMMARY:Lower bracket quarterfinal 1: WOL vs DRG
-URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
+URL:https://www.youtube.com/@2019KPL/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T060000Z
+UID:pandascore-match-1526382@esport-ics
+DTSTART:20260617T060000Z
+DTEND:20260617T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:DRG vs TTG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T090000Z
+UID:pandascore-match-1526398@esport-ics
+DTSTART:20260624T090000Z
+DTEND:20260624T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:WE vs DRG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T060000Z
+UID:pandascore-match-1526403@esport-ics
+DTSTART:20260626T060000Z
+DTEND:20260626T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:DRG vs TES.A
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T090000Z
+UID:pandascore-match-1526413@esport-ics
+DTSTART:20260701T090000Z
+DTEND:20260701T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:DRG vs SYG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T120000Z
+UID:pandascore-match-1526423@esport-ics
+DTSTART:20260704T120000Z
+DTEND:20260704T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:JDG vs DRG
+URL;VALUE=URI:https://live.bilibili.com/55
 END:VEVENT
 END:VCALENDAR

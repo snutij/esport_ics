@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:O2 Blast
+SLUG:o2-blast
+BEGIN:VEVENT
+DTSTAMP:20260607T060000Z
+UID:pandascore-match-1526040@esport-ics
+DTSTART:20260607T060000Z
+DTEND:20260607T081500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:SBAD vs O2B
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T093000Z
+UID:pandascore-match-1526044@esport-ics
+DTSTART:20260612T093000Z
+DTEND:20260612T114500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:O2B vs ZETA
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T073000Z
+UID:pandascore-match-1526047@esport-ics
+DTSTART:20260613T073000Z
+DTEND:20260613T094500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:T1 vs O2B
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T093000Z
+UID:pandascore-match-1526053@esport-ics
+DTSTART:20260619T093000Z
+DTEND:20260619T114500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:FAL vs O2B
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T073000Z
+UID:pandascore-match-1526066@esport-ics
+DTSTART:20260621T073000Z
+DTEND:20260621T094500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:O2B vs CR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T080000Z
+UID:pandascore-match-1526068@esport-ics
+DTSTART:20260626T080000Z
+DTEND:20260626T101500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:CB vs O2B
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T060000Z
+UID:pandascore-match-1526074@esport-ics
+DTSTART:20260628T060000Z
+DTEND:20260628T081500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:O2B vs PF
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+END:VCALENDAR

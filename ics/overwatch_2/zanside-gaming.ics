@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ZANSIDE GAMING
+SLUG:zanside-gaming
+BEGIN:VEVENT
+DTSTAMP:20260606T090000Z
+UID:pandascore-match-1526039@esport-ics
+DTSTART:20260606T090000Z
+DTEND:20260606T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:ZSG vs FAL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T110000Z
+UID:pandascore-match-1526045@esport-ics
+DTSTART:20260612T110000Z
+DTEND:20260612T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:CR vs ZSG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T060000Z
+UID:pandascore-match-1526049@esport-ics
+DTSTART:20260614T060000Z
+DTEND:20260614T081500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:ZSG vs PF
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T080000Z
+UID:pandascore-match-1526052@esport-ics
+DTSTART:20260619T080000Z
+DTEND:20260619T101500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:ZSG vs CB
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T073000Z
+UID:pandascore-match-1526056@esport-ics
+DTSTART:20260620T073000Z
+DTEND:20260620T094500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:ZETA vs ZSG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T110000Z
+UID:pandascore-match-1526070@esport-ics
+DTSTART:20260626T110000Z
+DTEND:20260626T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:SBAD vs ZSG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T073000Z
+UID:pandascore-match-1526075@esport-ics
+DTSTART:20260628T073000Z
+DTEND:20260628T094500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:ZSG vs T1
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+END:VCALENDAR

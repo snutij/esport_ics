@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Noir Esports
 SLUG:noir-esports
 BEGIN:VEVENT
-DTSTAMP:20260605T180000Z
-UID:pandascore-match-1525445@esport-ics
-DTSTART:20260605T180000Z
-DTEND:20260605T201500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:ILL vs Noir
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260607T090000Z
 UID:pandascore-match-1525450@esport-ics
 DTSTART:20260607T090000Z
@@ -47,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:PR vs Noir
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T090000Z
+UID:pandascore-match-1525445@esport-ics
+DTSTART:20260614T090000Z
+DTEND:20260614T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ILL vs Noir
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT

@@ -190,6 +190,61 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 2\nWatch: https://
  www.youtube.com/watch?v=A5R9rh95ddY
 SUMMARY:Lower bracket final: JDG vs WOL
-URL;VALUE=URI:https://www.youtube.com/watch?v=A5R9rh95ddY
+URL:https://www.youtube.com/watch?v=A5R9rh95ddY
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T090000Z
+UID:pandascore-match-1526389@esport-ics
+DTSTART:20260619T090000Z
+DTEND:20260619T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:JDG vs SYG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T090000Z
+UID:pandascore-match-1526395@esport-ics
+DTSTART:20260621T090000Z
+DTEND:20260621T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:JDG vs TES.A
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T120000Z
+UID:pandascore-match-1526405@esport-ics
+DTSTART:20260626T120000Z
+DTEND:20260626T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:JDG vs TTG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T120000Z
+UID:pandascore-match-1526417@esport-ics
+DTSTART:20260702T120000Z
+DTEND:20260702T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:JDG vs WE
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T120000Z
+UID:pandascore-match-1526423@esport-ics
+DTSTART:20260704T120000Z
+DTEND:20260704T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:JDG vs DRG
+URL;VALUE=URI:https://live.bilibili.com/55
 END:VEVENT
 END:VCALENDAR

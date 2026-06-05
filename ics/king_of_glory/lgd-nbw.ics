@@ -179,6 +179,61 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 2\nWatch: https://
  www.youtube.com/@2019KPL/streams
 SUMMARY:Lower bracket semifinal: WOL vs LGD
-URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
+URL:https://www.youtube.com/@2019KPL/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T120000Z
+UID:pandascore-match-1526387@esport-ics
+DTSTART:20260618T120000Z
+DTEND:20260618T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 2\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:LGD vs RNG.M
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T060000Z
+UID:pandascore-match-1526391@esport-ics
+DTSTART:20260620T060000Z
+DTEND:20260620T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 2\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:LGD vs Hero
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T120000Z
+UID:pandascore-match-1526402@esport-ics
+DTSTART:20260625T120000Z
+DTEND:20260625T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 2\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:LGD vs ESP
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T060000Z
+UID:pandascore-match-1526409@esport-ics
+DTSTART:20260628T060000Z
+DTEND:20260628T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 2\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:LGD vs EDG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T120000Z
+UID:pandascore-match-1526414@esport-ics
+DTSTART:20260701T120000Z
+DTEND:20260701T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 2\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:WB vs LGD
+URL;VALUE=URI:https://live.bilibili.com/55
 END:VEVENT
 END:VCALENDAR

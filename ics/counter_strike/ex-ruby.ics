@@ -972,7 +972,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 3 2026 - Playoffs\nWatch: https://kick.com/
  cct_cs
 SUMMARY:Quarterfinal 1: BW vs ex-RUBY
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260605T170000Z
@@ -984,5 +984,16 @@ DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 2: ex-RUBY vs RUST
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T100000Z
+UID:pandascore-match-1504745@esport-ics
+DTSTART:20260606T100000Z
+DTEND:20260606T121500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series 3 2026 - Playoffs\nWatch: https://kick.com/
+ cct_cs
+SUMMARY:Semifinal 1: ex-RUBY vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

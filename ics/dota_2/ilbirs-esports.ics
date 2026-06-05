@@ -335,14 +335,12 @@ URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260605T180000Z
-UID:pandascore-match-1525445@esport-ics
+UID:pandascore-match-1525511@esport-ics
 DTSTART:20260605T180000Z
 DTEND:20260605T201500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:ILL vs Noir
-URL;VALUE=URI:https://kick.com/epldota_en2
+DESCRIPTION:European Pro League - Season 38 2026 - Group B
+SUMMARY:ILL vs TS.A
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260606T180000Z
@@ -379,13 +377,13 @@ URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260614T090000Z
-UID:pandascore-match-1525511@esport-ics
+UID:pandascore-match-1525445@esport-ics
 DTSTART:20260614T090000Z
 DTEND:20260614T111500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
-SUMMARY:ILL vs TS.A
+SUMMARY:ILL vs Noir
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

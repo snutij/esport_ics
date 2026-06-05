@@ -850,4 +850,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 2: MISA vs JUMBO
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T103000Z
+UID:pandascore-match-1504756@esport-ics
+DTSTART:20260609T103000Z
+DTEND:20260609T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 2026 - Group B\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Winners match: Lavked vs MISA
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

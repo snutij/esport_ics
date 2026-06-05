@@ -112,6 +112,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division\nWatch:
   https://www.twitch.tv/betboom_esports
 SUMMARY:TSA.W vs TST
+URL:https://www.twitch.tv/betboom_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T180000Z
+UID:pandascore-match-1526446@esport-ics
+DTSTART:20260605T180000Z
+DTEND:20260605T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division\nWatch:
+  https://www.twitch.tv/betboom_esports
+SUMMARY:TST vs HARD GRIND
 URL;VALUE=URI:https://www.twitch.tv/betboom_esports
 END:VEVENT
 END:VCALENDAR

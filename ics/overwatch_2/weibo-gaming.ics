@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Champions Clash 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/ow_esports
 SUMMARY:Lower bracket quarterfinal 2: WBG vs TM
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T110000Z
+UID:pandascore-match-1526429@esport-ics
+DTSTART:20260606T110000Z
+DTEND:20260606T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 2 2026 - Swiss Stage\nWatch: https://live.bil
+ ibili.com/23612045
+SUMMARY:Round 1: WBG vs KK
+URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR

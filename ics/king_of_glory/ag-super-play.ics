@@ -201,6 +201,61 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 2\nWatch: https://
  www.youtube.com/@2019KPL/streams
 SUMMARY:Grand final: AG.SP vs WOL
-URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
+URL:https://www.youtube.com/@2019KPL/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T120000Z
+UID:pandascore-match-1526390@esport-ics
+DTSTART:20260619T120000Z
+DTEND:20260619T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 3\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:AG.SP vs KSG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T120000Z
+UID:pandascore-match-1526396@esport-ics
+DTSTART:20260621T120000Z
+DTEND:20260621T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 3\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:AG.SP vs WST
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T120000Z
+UID:pandascore-match-1526408@esport-ics
+DTSTART:20260627T120000Z
+DTEND:20260627T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 3\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:AG.SP vs RW
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T120000Z
+UID:pandascore-match-1526420@esport-ics
+DTSTART:20260703T120000Z
+DTEND:20260703T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 3\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:AG.SP vs WOL
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T120000Z
+UID:pandascore-match-1526426@esport-ics
+DTSTART:20260705T120000Z
+DTEND:20260705T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 3\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:AG.SP vs DYG
+URL;VALUE=URI:https://live.bilibili.com/55
 END:VEVENT
 END:VCALENDAR

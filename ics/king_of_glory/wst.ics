@@ -179,6 +179,61 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
  www.youtube.com/watch?v=QHlEhGmDudM
 SUMMARY:Round 2 match 3: WST vs AG.SP
-URL;VALUE=URI:https://www.youtube.com/watch?v=QHlEhGmDudM
+URL:https://www.youtube.com/watch?v=QHlEhGmDudM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T060000Z
+UID:pandascore-match-1526385@esport-ics
+DTSTART:20260618T060000Z
+DTEND:20260618T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 3\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:WST vs RW
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T120000Z
+UID:pandascore-match-1526396@esport-ics
+DTSTART:20260621T120000Z
+DTEND:20260621T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 3\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:AG.SP vs WST
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T090000Z
+UID:pandascore-match-1526401@esport-ics
+DTSTART:20260625T090000Z
+DTEND:20260625T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 3\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:WST vs DYG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T120000Z
+UID:pandascore-match-1526411@esport-ics
+DTSTART:20260628T120000Z
+DTEND:20260628T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 3\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:WOL vs WST
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T090000Z
+UID:pandascore-match-1526422@esport-ics
+DTSTART:20260704T090000Z
+DTEND:20260704T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 3\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:KSG vs WST
+URL;VALUE=URI:https://live.bilibili.com/55
 END:VEVENT
 END:VCALENDAR

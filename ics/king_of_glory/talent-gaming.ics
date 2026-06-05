@@ -146,6 +146,61 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
  www.youtube.com/@2019KPL/streams
 SUMMARY:Round 2 match 1: TTG vs DRG
-URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
+URL:https://www.youtube.com/@2019KPL/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T060000Z
+UID:pandascore-match-1526382@esport-ics
+DTSTART:20260617T060000Z
+DTEND:20260617T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:DRG vs TTG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T090000Z
+UID:pandascore-match-1526392@esport-ics
+DTSTART:20260620T090000Z
+DTEND:20260620T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:WE vs TTG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T120000Z
+UID:pandascore-match-1526405@esport-ics
+DTSTART:20260626T120000Z
+DTEND:20260626T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:JDG vs TTG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T060000Z
+UID:pandascore-match-1526415@esport-ics
+DTSTART:20260702T060000Z
+DTEND:20260702T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:TTG vs TES.A
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T060000Z
+UID:pandascore-match-1526421@esport-ics
+DTSTART:20260704T060000Z
+DTEND:20260704T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:TTG vs SYG
+URL;VALUE=URI:https://live.bilibili.com/55
 END:VEVENT
 END:VCALENDAR

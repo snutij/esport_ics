@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 1 2026 - Playoffs\nWatch: https://www.douyu.c
  om/945572
 SUMMARY:Lower bracket final: AG vs JDG
-URL;VALUE=URI:https://www.douyu.com/945572
+URL:https://www.douyu.com/945572
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T090000Z
+UID:pandascore-match-1526428@esport-ics
+DTSTART:20260606T090000Z
+DTEND:20260606T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 2 2026 - Swiss Stage\nWatch: https://live.bil
+ ibili.com/23612045
+SUMMARY:Round 1: JDG vs 4AM
+URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR
