@@ -160,6 +160,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/stariy_cast
 SUMMARY:Lower bracket round 2 match 7: BG vs ZOTIX
-URL;VALUE=URI:https://www.twitch.tv/stariy_cast
+URL:https://www.twitch.tv/stariy_cast
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T173000Z
+UID:pandascore-match-1526452@esport-ics
+DTSTART:20260608T173000Z
+DTEND:20260608T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+SUMMARY:Lower bracket round 3 match 4: DNT vs BG
 END:VEVENT
 END:VCALENDAR

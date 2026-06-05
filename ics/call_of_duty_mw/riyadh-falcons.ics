@@ -314,6 +314,17 @@ SUMMARY:Round 1 match 1: RIYF vs CRR
 URL:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260606T220000Z
+UID:pandascore-match-1518426@esport-ics
+DTSTART:20260606T220000Z
+DTEND:20260607T014500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Minor 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/CallofDuty
+SUMMARY:Quarterfinal 1: TEX vs RIYF
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260614T210000Z
 UID:pandascore-match-1497525@esport-ics
 DTSTART:20260614T210000Z
