@@ -756,6 +756,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #4 2026 - Group D\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:G1 vs BIG.A
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T110000Z
+UID:pandascore-match-1519649@esport-ics
+DTSTART:20260606T110000Z
+DTEND:20260606T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #4 2026 - Group D\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:Elimination match: aAa vs G1
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT

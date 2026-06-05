@@ -708,6 +708,15 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters - Europe Series #2 season 2 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/bcgamemasters
 SUMMARY:Grand final: NEM vs TBD
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T070000Z
+UID:pandascore-match-1526526@esport-ics
+DTSTART:20260701T070000Z
+DTEND:20260701T074500Z
+CLASS:PUBLIC
+DESCRIPTION:XSE Pro League - 2026 - Group Stage
+SUMMARY:Round 1: 9z vs NEM
 END:VEVENT
 END:VCALENDAR
