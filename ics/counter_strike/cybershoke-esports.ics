@@ -545,6 +545,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Group Stage\nWatch: http
  s://kick.com/nodwin_cs2
 SUMMARY:Round 2: SPARTA vs CS
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T110000Z
+UID:pandascore-match-1517509@esport-ics
+DTSTART:20260608T110000Z
+DTEND:20260608T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Group Stage\nWatch: http
+ s://kick.com/nodwin_cs2
+SUMMARY:Round 3: NTR vs CS
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

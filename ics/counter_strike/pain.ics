@@ -333,6 +333,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Cologne Major 2026 - Stage 2\nWatch: https://www.twitch.t
  v/eslcsb
 SUMMARY:Round 2: paiN vs BIG
-URL;VALUE=URI:https://www.twitch.tv/eslcsb
+URL:https://www.twitch.tv/eslcsb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T143000Z
+UID:pandascore-match-1508686@esport-ics
+DTSTART:20260607T143000Z
+DTEND:20260607T164500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Cologne Major 2026 - Stage 2\nWatch: https://www.twitch.t
+ v/ESLCS
+SUMMARY:Round 3: FLY vs paiN
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

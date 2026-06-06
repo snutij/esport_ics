@@ -347,6 +347,17 @@ SUMMARY:Quarterfinal 2: PAR vs TOR
 URL:https://www.twitch.tv/CallofDuty
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260607T190000Z
+UID:pandascore-match-1518430@esport-ics
+DTSTART:20260607T190000Z
+DTEND:20260607T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Minor 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/CallofDuty
+SUMMARY:Semifinal 1: PAR vs TBD
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260612T203000Z
 UID:pandascore-match-1497517@esport-ics
 DTSTART:20260612T203000Z

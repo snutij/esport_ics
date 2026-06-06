@@ -471,6 +471,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Cologne Major 2026 - Stage 2\nWatch: https://www.twitch.t
  v/ESLCS
 SUMMARY:Round 2: G2 vs MNTE
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T170000Z
+UID:pandascore-match-1508687@esport-ics
+DTSTART:20260607T170000Z
+DTEND:20260607T191500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Cologne Major 2026 - Stage 2\nWatch: https://www.twitch.t
+ v/ESLCS
+SUMMARY:Round 3: G2 vs FUT
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

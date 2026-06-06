@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:TESFED League - Season 3 2026 - Play-In\nWatch: https://www.twi
  tch.tv/TESFED
 SUMMARY:Semifinal 2: VENOM vs SNG
+URL:https://www.twitch.tv/TESFED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T180000Z
+UID:pandascore-match-1527905@esport-ics
+DTSTART:20260607T180000Z
+DTEND:20260607T201500Z
+CLASS:PUBLIC
+DESCRIPTION:TESFED League - Season 3 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/TESFED
+SUMMARY:Upper bracket quarterfinal 4: BW vs VENOM
 URL;VALUE=URI:https://www.twitch.tv/TESFED
 END:VEVENT
 END:VCALENDAR

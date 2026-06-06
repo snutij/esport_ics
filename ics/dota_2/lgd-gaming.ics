@@ -155,6 +155,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 7 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/BLASTDota
 SUMMARY:Lower bracket semifinal: AUR vs LGD
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T090000Z
+UID:pandascore-match-1501588@esport-ics
+DTSTART:20260607T090000Z
+DTEND:20260607T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 7 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/BLASTDota
+SUMMARY:Lower bracket final: BB vs LGD
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR
