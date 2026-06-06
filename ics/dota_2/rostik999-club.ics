@@ -62,12 +62,14 @@ DESCRIPTION:Winline Star Series - Season 3 2026 - Playoffs
 SUMMARY:Lower bracket quarterfinal 2: Daxak Club vs Rostik999 Club
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T140000Z
+DTSTAMP:20260606T093000Z
 UID:pandascore-match-1511089@esport-ics
-DTSTART:20260606T140000Z
-DTEND:20260606T161500Z
+DTSTART:20260606T093000Z
+DTEND:20260606T114500Z
 CLASS:PUBLIC
-DESCRIPTION:Winline Star Series - Season 3 2026 - Playoffs
+DESCRIPTION:Winline Star Series - Season 3 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/voodoosh
 SUMMARY:Lower bracket semifinal: Rostik999 Club vs VooDooSh Club
+URL;VALUE=URI:https://www.twitch.tv/voodoosh
 END:VEVENT
 END:VCALENDAR
