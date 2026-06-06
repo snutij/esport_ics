@@ -309,6 +309,17 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Playoffs\nWatc
  h: https://www.twitch.tv/mlbb_cis
 SUMMARY:Upper bracket final: TS vs VP
+URL:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T143000Z
+UID:pandascore-match-1499205@esport-ics
+DTSTART:20260607T143000Z
+DTEND:20260607T194500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Playoffs\nWatc
+ h: https://www.twitch.tv/mlbb_cis
+SUMMARY:Grand final: TS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
 END:VEVENT
 END:VCALENDAR

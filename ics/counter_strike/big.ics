@@ -446,6 +446,17 @@ SUMMARY:Round 1: MNTE vs BIG
 URL:https://www.twitch.tv/eslcsb
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260606T163000Z
+UID:pandascore-match-1508678@esport-ics
+DTSTART:20260606T163000Z
+DTEND:20260606T171500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Cologne Major 2026 - Stage 2\nWatch: https://www.twitch.t
+ v/eslcsb
+SUMMARY:Round 2: paiN vs BIG
+URL;VALUE=URI:https://www.twitch.tv/eslcsb
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260701T070000Z
 UID:pandascore-match-1526523@esport-ics
 DTSTART:20260701T070000Z
