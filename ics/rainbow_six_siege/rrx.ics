@@ -6,6 +6,17 @@ METHOD:PUBLISH
 X-WR-CALNAME:RRX
 SLUG:rrx
 BEGIN:VEVENT
+DTSTAMP:20260612T100000Z
+UID:pandascore-match-1523296@esport-ics
+DTSTART:20260612T100000Z
+DTEND:20260612T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
+SUMMARY:FX vs RRX
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260613T100000Z
 UID:pandascore-match-1523300@esport-ics
 DTSTART:20260613T100000Z
@@ -14,17 +25,6 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
  Watch: https://www.twitch.tv/rainbow6
 SUMMARY:CAG vs RRX
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260613T100000Z
-UID:pandascore-match-1523296@esport-ics
-DTSTART:20260613T100000Z
-DTEND:20260613T104500Z
-CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Group Stage\n
- Watch: https://www.twitch.tv/rainbow6
-SUMMARY:FX vs RRX
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT

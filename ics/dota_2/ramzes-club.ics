@@ -61,6 +61,15 @@ CLASS:PUBLIC
 DESCRIPTION:Winline Star Series - Season 3 2026 - Playoffs\nWatch: https://
  www.twitch.tv/tpabomah
 SUMMARY:Upper bracket final: Ramzes Club vs TPaBoMaH Club
-URL;VALUE=URI:https://www.twitch.tv/tpabomah
+URL:https://www.twitch.tv/tpabomah
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T163000Z
+UID:pandascore-match-1511093@esport-ics
+DTSTART:20260607T163000Z
+DTEND:20260607T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Winline Star Series - Season 3 2026 - Playoffs
+SUMMARY:Grand final: Ramzes Club vs TBD
 END:VEVENT
 END:VCALENDAR

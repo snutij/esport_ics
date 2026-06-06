@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 2 2026 - Swiss Stage\nWatch: https://live.bil
  ibili.com/23612045
 SUMMARY:Round 1: JDG vs 4AM
+URL:https://live.bilibili.com/23612045
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T130000Z
+UID:pandascore-match-1526434@esport-ics
+DTSTART:20260607T130000Z
+DTEND:20260607T151500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 2 2026 - Group Stage\nWatch: https://live.bil
+ ibili.com/23612045
+SUMMARY:Round 2: AG vs JDG
 URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR
