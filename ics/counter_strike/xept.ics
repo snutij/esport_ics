@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:xept
+X-WR-CALNAME:Xept
 SLUG:xept
 BEGIN:VEVENT
 DTSTAMP:20260518T153000Z
@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 50 2026 - Group A\nWatch: https://www.kick.co
  m/united21_en
 SUMMARY:Winners match: PSN.A vs xept
-URL;VALUE=URI:https://www.kick.com/united21_en
+URL:https://www.kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T080000Z
+UID:pandascore-match-1527898@esport-ics
+DTSTART:20260607T080000Z
+DTEND:20260607T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 50 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket quarterfinal 1: Xept vs WRAITH PCIFIC
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
