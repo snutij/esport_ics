@@ -287,6 +287,16 @@ DTEND:20260606T114500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Road to MSI\nWatch: https://www.twitch.tv/lck
 SUMMARY:Lower bracket round 1: DK vs BRO
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260607T080000Z
+UID:pandascore-match-1505697@esport-ics
+DTSTART:20260607T080000Z
+DTEND:20260607T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - 2026 - Road to MSI\nWatch: https://www.twitch.tv/lck
+SUMMARY:Lower bracket quarterfinal: KT vs DK
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 END:VCALENDAR
