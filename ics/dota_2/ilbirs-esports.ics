@@ -354,17 +354,6 @@ SUMMARY:4iki vs ILL
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260607T150000Z
-UID:pandascore-match-1525452@esport-ics
-DTSTART:20260607T150000Z
-DTEND:20260607T171500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:Nande+4 vs ILL
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260613T150000Z
 UID:pandascore-match-1525500@esport-ics
 DTSTART:20260613T150000Z
@@ -384,6 +373,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:ILL vs Noir
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T180000Z
+UID:pandascore-match-1525452@esport-ics
+DTSTART:20260616T180000Z
+DTEND:20260616T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nande+4 vs ILL
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

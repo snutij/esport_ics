@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 2 2026 - Group Stage\nWatch: https://live.bil
  ibili.com/23612045
 SUMMARY:Round 2: WBG vs HUN
+URL:https://live.bilibili.com/23612045
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T070000Z
+UID:pandascore-match-1526439@esport-ics
+DTSTART:20260613T070000Z
+DTEND:20260613T091500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 2 2026 - Seeding Decider Matches\nWatch: http
+ s://live.bilibili.com/23612045
+SUMMARY:1st-2nd decider: WBG vs JDG
 URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR
