@@ -564,6 +564,17 @@ CLASS:PUBLIC
 DESCRIPTION:TESFED League - Season 3 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/TESFED
 SUMMARY:Upper bracket quarterfinal 4: BW vs VENOM
+URL:https://www.twitch.tv/TESFED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T180000Z
+UID:pandascore-match-1527911@esport-ics
+DTSTART:20260614T180000Z
+DTEND:20260614T201500Z
+CLASS:PUBLIC
+DESCRIPTION:TESFED League - Season 3 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/TESFED
+SUMMARY:Lower bracket round 1 match  2: BW vs TBD
 URL;VALUE=URI:https://www.twitch.tv/TESFED
 END:VEVENT
 END:VCALENDAR
