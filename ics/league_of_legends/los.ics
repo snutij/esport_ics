@@ -166,6 +166,17 @@ CLASS:PUBLIC
 DESCRIPTION:CBLOL - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/c
  blol
 SUMMARY:Grand final: FUR vs LOS
-URL;VALUE=URI:https://www.twitch.tv/cblol
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T160000Z
+UID:pandascore-match-1520681@esport-ics
+DTSTART:20260608T160000Z
+DTEND:20260608T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - South America & LATAM Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/EWC_STCArena_EN
+SUMMARY:Upper Bracket Semifinal 2: LOS vs TBD
+URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
 END:VEVENT
 END:VCALENDAR
