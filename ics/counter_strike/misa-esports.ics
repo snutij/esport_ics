@@ -867,8 +867,10 @@ UID:pandascore-match-1526449@esport-ics
 DTSTART:20260608T173000Z
 DTEND:20260608T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/theeb1ye
 SUMMARY:Lower bracket round 3 match 1: MISA vs EP
+URL;VALUE=URI:https://www.twitch.tv/theeb1ye
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260609T103000Z
@@ -880,5 +882,16 @@ DESCRIPTION:European Pro League - Series 7 2026 - Group B\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Winners match: Lavked vs MISA
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T160000Z
+UID:pandascore-match-1527906@esport-ics
+DTSTART:20260613T160000Z
+DTEND:20260613T181500Z
+CLASS:PUBLIC
+DESCRIPTION:TESFED League - Season 3 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/TESFED
+SUMMARY:Upper bracket semifinal 1: MISA vs TBD
+URL;VALUE=URI:https://www.twitch.tv/TESFED
 END:VEVENT
 END:VCALENDAR

@@ -657,7 +657,9 @@ UID:pandascore-match-1526449@esport-ics
 DTSTART:20260608T173000Z
 DTEND:20260608T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/theeb1ye
 SUMMARY:Lower bracket round 3 match 1: MISA vs EP
+URL;VALUE=URI:https://www.twitch.tv/theeb1ye
 END:VEVENT
 END:VCALENDAR
