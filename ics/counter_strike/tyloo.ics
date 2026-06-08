@@ -483,6 +483,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Cologne Major 2026 - Stage 2\nWatch: https://www.twitch.t
  v/ESLCSb
 SUMMARY:Round 4: TYLOO vs 9z
-URL;VALUE=URI:https://www.twitch.tv/ESLCSb
+URL:https://www.twitch.tv/ESLCSb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T143000Z
+UID:pandascore-match-1508714@esport-ics
+DTSTART:20260609T143000Z
+DTEND:20260609T164500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Cologne Major 2026 - Stage 2\nWatch: https://www.twitch.t
+ v/ESLCS
+SUMMARY:Round 5: LGC vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
