@@ -245,6 +245,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Masters - 2026 - Group B\nWatch: https://www.youtube.com/w
  atch?v=XG-i2z1q5dM
 SUMMARY:T1.A vs KT.C
-URL;VALUE=URI:https://www.youtube.com/watch?v=XG-i2z1q5dM
+URL:https://www.youtube.com/watch?v=XG-i2z1q5dM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T080000Z
+UID:pandascore-match-1529944@esport-ics
+DTSTART:20260610T080000Z
+DTEND:20260610T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Masters - 2026 - Group B
+SUMMARY:Elimination match: FNL vs KT.C
 END:VEVENT
 END:VCALENDAR

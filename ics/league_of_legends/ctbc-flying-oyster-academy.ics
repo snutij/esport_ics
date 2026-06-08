@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Masters - 2026 - Group A\nWatch: https://www.youtube.com/w
  atch?v=XG-i2z1q5dM
 SUMMARY:CTBC.A vs TESC
-URL;VALUE=URI:https://www.youtube.com/watch?v=XG-i2z1q5dM
+URL:https://www.youtube.com/watch?v=XG-i2z1q5dM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T100000Z
+UID:pandascore-match-1529936@esport-ics
+DTSTART:20260610T100000Z
+DTEND:20260610T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Masters - 2026 - Group A
+SUMMARY:Elimination match: EDGY vs CTBC.A
 END:VEVENT
 END:VCALENDAR

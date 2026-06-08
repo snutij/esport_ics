@@ -157,6 +157,15 @@ CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Spring 2026 - Playoffs\nWatch: https://www.t
  witch.tv/hitpointcz
 SUMMARY:Grand final: CKZ vs NBS
-URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+URL:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260608T150000Z
+UID:pandascore-match-1529987@esport-ics
+DTSTART:20260608T150000Z
+DTEND:20260608T154500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Spring 2026 - Swiss Stage
+SUMMARY:Round 1: CKZ vs Bubliki
 END:VEVENT
 END:VCALENDAR

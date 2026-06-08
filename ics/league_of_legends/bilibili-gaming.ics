@@ -323,6 +323,16 @@ DTEND:20260608T124500Z
 CLASS:PUBLIC
 DESCRIPTION:LPL - Split 2 2026 - Playoffs\nWatch: https://www.huya.com/lpl
 SUMMARY:Lower bracket semifinal: AL vs BLG
+URL:https://www.huya.com/lpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T090000Z
+UID:pandascore-match-1422522@esport-ics
+DTSTART:20260613T090000Z
+DTEND:20260613T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 2 2026 - Playoffs\nWatch: https://www.huya.com/lpl
+SUMMARY:Lower bracket final: WE vs BLG
 URL;VALUE=URI:https://www.huya.com/lpl
 END:VEVENT
 END:VCALENDAR
