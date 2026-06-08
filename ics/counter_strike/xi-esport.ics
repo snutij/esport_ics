@@ -705,7 +705,9 @@ UID:pandascore-match-1526450@esport-ics
 DTSTART:20260608T173000Z
 DTEND:20260608T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/karmaflexxx
 SUMMARY:Lower bracket round 3 match 2: XI vs CC
+URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
 END:VEVENT
 END:VCALENDAR

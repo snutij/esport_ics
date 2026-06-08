@@ -201,6 +201,15 @@ CLASS:PUBLIC
 DESCRIPTION:LCK Challengers League - 2026 - Rounds 1-2\nWatch: https://play
  -origin.sooplive.com/afchall
 SUMMARY:NS.EA vs DK.C
-URL;VALUE=URI:https://play-origin.sooplive.com/afchall
+URL:https://play-origin.sooplive.com/afchall
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260609T060000Z
+UID:pandascore-match-1529937@esport-ics
+DTSTART:20260609T060000Z
+DTEND:20260609T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Masters - 2026 - Group A
+SUMMARY:Winners match: DK.C vs TBD
 END:VEVENT
 END:VCALENDAR

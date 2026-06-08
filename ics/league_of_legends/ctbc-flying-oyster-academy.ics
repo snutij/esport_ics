@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CTBC Flying Oyster Academy
+SLUG:ctbc-flying-oyster-academy
+BEGIN:VEVENT
+DTSTAMP:20260608T110000Z
+UID:pandascore-match-1529935@esport-ics
+DTSTART:20260608T110000Z
+DTEND:20260608T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Masters - 2026 - Group A\nWatch: https://www.youtube.com/w
+ atch?v=XG-i2z1q5dM
+SUMMARY:CTBC.A vs TESC
+URL;VALUE=URI:https://www.youtube.com/watch?v=XG-i2z1q5dM
+END:VEVENT
+END:VCALENDAR

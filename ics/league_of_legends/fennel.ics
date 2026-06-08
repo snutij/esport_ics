@@ -179,6 +179,15 @@ CLASS:PUBLIC
 DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/leagueoflegendsjp
 SUMMARY:RG vs FNL
-URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+URL:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T080000Z
+UID:pandascore-match-1529944@esport-ics
+DTSTART:20260610T080000Z
+DTEND:20260610T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Masters - 2026 - Group B
+SUMMARY:Elimination match: FNL vs TBD
 END:VEVENT
 END:VCALENDAR
