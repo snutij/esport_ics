@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - South America & LATAM Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/EWC_STCArena_EN
 SUMMARY:Lower Bracket Round 1 Match 1: LEV vs PNG
+URL:https://www.twitch.tv/EWC_STCArena_EN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T211500Z
+UID:pandascore-match-1520682@esport-ics
+DTSTART:20260610T211500Z
+DTEND:20260610T233000Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - South America & LATAM Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/EWC_STCArena_EN
+SUMMARY:Lower Bracket Quarterfinal 1: PNG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
 END:VEVENT
 END:VCALENDAR

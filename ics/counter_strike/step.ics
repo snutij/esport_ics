@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 50 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket quarterfinal 4: ex-MANA vs STEP
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T103000Z
+UID:pandascore-match-1530788@esport-ics
+DTSTART:20260610T103000Z
+DTEND:20260610T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 50 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket semifinal 2: CC vs STEP
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
