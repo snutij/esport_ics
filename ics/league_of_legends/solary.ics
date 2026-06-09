@@ -327,6 +327,15 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Spring 2026 - Playoffs\nWatch: http://www.twitch.tv/otplo
  l_
 SUMMARY:Grand final: SLY vs GAL
-URL;VALUE=URI:http://www.twitch.tv/otplol_
+URL:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T150000Z
+UID:pandascore-match-1532484@esport-ics
+DTSTART:20260610T150000Z
+DTEND:20260610T171500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Spring 2026 - Group D
+SUMMARY:SLY vs BOOM
 END:VEVENT
 END:VCALENDAR

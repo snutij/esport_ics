@@ -168,6 +168,15 @@ CLASS:PUBLIC
 DESCRIPTION:LIT - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/LITo
  fficial
 SUMMARY:Grand final: HMBLE vs GMB
-URL;VALUE=URI:https://www.twitch.tv/LITofficial
+URL:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T150000Z
+UID:pandascore-match-1532479@esport-ics
+DTSTART:20260610T150000Z
+DTEND:20260610T171500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Spring 2026 - Group A
+SUMMARY:UCAM vs HMBLE
 END:VEVENT
 END:VCALENDAR

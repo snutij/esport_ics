@@ -188,6 +188,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters London 2026 - Group Stage\nWatch: https://www.twi
  tch.tv/VALORANT
 SUMMARY:Round 2: VIT vs FUT
+URL:https://www.twitch.tv/VALORANT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T140000Z
+UID:pandascore-match-1510135@esport-ics
+DTSTART:20260610T140000Z
+DTEND:20260610T161500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters London 2026 - Group Stage\nWatch: https://www.twi
+ tch.tv/VALORANT
+SUMMARY:Round 3: FUT vs NRG
 URL;VALUE=URI:https://www.twitch.tv/VALORANT
 END:VEVENT
 END:VCALENDAR

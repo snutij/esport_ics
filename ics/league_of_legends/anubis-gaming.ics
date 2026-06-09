@@ -179,6 +179,15 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Spring 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/lolesports_ar
 SUMMARY:Grand final: ANB vs FN
-URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T180000Z
+UID:pandascore-match-1532485@esport-ics
+DTSTART:20260610T180000Z
+DTEND:20260610T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Spring 2026 - Group D
+SUMMARY:ES vs ANB
 END:VEVENT
 END:VCALENDAR

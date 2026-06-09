@@ -300,6 +300,15 @@ CLASS:PUBLIC
 DESCRIPTION:Prime League 1st Division - Spring 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/primeleague
 SUMMARY:Grand final: ES vs G2N
-URL;VALUE=URI:https://www.twitch.tv/primeleague
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T180000Z
+UID:pandascore-match-1532485@esport-ics
+DTSTART:20260610T180000Z
+DTEND:20260610T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Spring 2026 - Group D
+SUMMARY:ES vs ANB
 END:VEVENT
 END:VCALENDAR
