@@ -136,6 +136,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCS - Summer 2026 - Regular Season\nWatch: https://www.youtube.
  com/@MVK_LOL/streams
 SUMMARY:SGW vs MVKA
-URL;VALUE=URI:https://www.youtube.com/@MVK_LOL/streams
+URL:https://www.youtube.com/@MVK_LOL/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T060000Z
+UID:pandascore-match-1529941@esport-ics
+DTSTART:20260610T060000Z
+DTEND:20260610T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Masters - 2026 - Group C
+SUMMARY:Elimination match: SGW vs DINO
 END:VEVENT
 END:VCALENDAR
