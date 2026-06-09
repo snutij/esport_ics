@@ -278,6 +278,15 @@ CLASS:PUBLIC
 DESCRIPTION:ACL X ESL Challenger China - Season 3 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/acl_dota2cn
 SUMMARY:Lower bracket semifinal: VG vs YB
-URL;VALUE=URI:https://www.twitch.tv/acl_dota2cn
+URL:https://www.twitch.tv/acl_dota2cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T030000Z
+UID:pandascore-match-1531530@esport-ics
+DTSTART:20260610T030000Z
+DTEND:20260610T051500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - China Open Qualifier 1 2026 - Playoffs
+SUMMARY:Quarterfinal 4: CD vs YB
 END:VEVENT
 END:VCALENDAR

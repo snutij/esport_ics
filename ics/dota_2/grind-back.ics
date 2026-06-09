@@ -145,6 +145,16 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Southeast Asia Closed Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/betboom_dota_ru4
 SUMMARY:Lower Bracket Round 1 Match 1: Grind vs CARST
-URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru4
+URL:https://www.twitch.tv/betboom_dota_ru4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T090000Z
+UID:pandascore-match-1531576@esport-ics
+DTSTART:20260610T090000Z
+DTEND:20260610T111500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Southeast Asia Open Qualifier 1 2026 - Play
+ offs
+SUMMARY:Quarterfinal 3: Grind vs DB
 END:VEVENT
 END:VCALENDAR

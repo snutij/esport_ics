@@ -116,17 +116,6 @@ SUMMARY:Zoun vs Lambo
 URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260609T110000Z
-UID:pandascore-match-1519002@esport-ics
-DTSTART:20260609T110000Z
-DTEND:20260609T131500Z
-CLASS:PUBLIC
-DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
- atch: https://www.twitch.tv/wardiii
-SUMMARY:Lambo vs SHIN
-URL;VALUE=URI:https://www.twitch.tv/wardiii
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260609T114000Z
 UID:pandascore-match-1519003@esport-ics
 DTSTART:20260609T114000Z
@@ -138,14 +127,25 @@ SUMMARY:Lambo vs Percival
 URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260609T122000Z
+DTSTAMP:20260616T110000Z
 UID:pandascore-match-1519004@esport-ics
-DTSTART:20260609T122000Z
-DTEND:20260609T143500Z
+DTSTART:20260616T110000Z
+DTEND:20260616T131500Z
 CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:Lambo vs Cure
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T110000Z
+UID:pandascore-match-1519002@esport-ics
+DTSTART:20260616T110000Z
+DTEND:20260616T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group A\nW
+ atch: https://www.twitch.tv/wardiii
+SUMMARY:Lambo vs SHIN
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR
