@@ -67,6 +67,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dfrag - Open Series #5 2026 - Group A\nWatch: https://www.twitc
  h.tv/dfragtv
 SUMMARY:Elimination match: MGLBROS vs MandL
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T083000Z
+UID:pandascore-match-1525986@esport-ics
+DTSTART:20260612T083000Z
+DTEND:20260612T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Dfrag - Open Series #5 2026 - Group A\nWatch: https://www.twitc
+ h.tv/dfragtv
+SUMMARY:Decider match: MandL vs Abyssal
 URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR
