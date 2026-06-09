@@ -320,6 +320,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Eastern Europe Closed Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/ewc_plus_en
 SUMMARY:Lower bracket semifinal 2: IC vs MODUS
-URL;VALUE=URI:https://www.twitch.tv/ewc_plus_en
+URL:https://www.twitch.tv/ewc_plus_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T130000Z
+UID:pandascore-match-1532506@esport-ics
+DTSTART:20260610T130000Z
+DTEND:20260610T151500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Europe Open Qualifier 1 2026 - Playoffs
+SUMMARY:Quarterfinal 2: VP.P vs MODUS
 END:VEVENT
 END:VCALENDAR

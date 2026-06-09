@@ -522,6 +522,15 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 38 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:VP.P vs Z10
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T130000Z
+UID:pandascore-match-1532505@esport-ics
+DTSTART:20260610T130000Z
+DTEND:20260610T151500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Europe Open Qualifier 1 2026 - Playoffs
+SUMMARY:Quarterfinal 1: L1GA vs Z10
 END:VEVENT
 END:VCALENDAR
