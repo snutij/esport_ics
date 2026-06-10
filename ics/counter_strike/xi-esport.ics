@@ -719,6 +719,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/untalentedkid785
 SUMMARY:Lower bracket round 4 match 2: NEW VISION vs XI
-URL;VALUE=URI:https://www.twitch.tv/untalentedkid785
+URL:https://www.twitch.tv/untalentedkid785
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T173000Z
+UID:pandascore-match-1526457@esport-ics
+DTSTART:20260612T173000Z
+DTEND:20260612T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+SUMMARY:Lower bracket round 5 match 1: XI vs WING
 END:VEVENT
 END:VCALENDAR

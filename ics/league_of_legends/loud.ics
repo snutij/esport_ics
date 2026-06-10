@@ -197,6 +197,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - South America & LATAM Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/EWC_STCArena_EN
 SUMMARY:Lower Bracket Quarterfinal 2: FXW7 vs LLL
+URL:https://www.twitch.tv/EWC_STCArena_EN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260611T211500Z
+UID:pandascore-match-1520684@esport-ics
+DTSTART:20260611T211500Z
+DTEND:20260611T233000Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - South America & LATAM Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/EWC_STCArena_EN
+SUMMARY:Lower Bracket Semifinal: LLL vs TBD
 URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
 END:VEVENT
 END:VCALENDAR
