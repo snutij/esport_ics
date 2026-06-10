@@ -412,4 +412,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Group Stage\nWatch: http
 SUMMARY:Round 5: ACE vs INOX
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T110000Z
+UID:pandascore-match-1519576@esport-ics
+DTSTART:20260612T110000Z
+DTEND:20260612T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #4 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 2: VP vs INOX
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

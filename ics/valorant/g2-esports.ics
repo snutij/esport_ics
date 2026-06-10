@@ -223,6 +223,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 1 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant_americas
 SUMMARY:Grand final: LEV vs G2
-URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T170000Z
+UID:pandascore-match-1510138@esport-ics
+DTSTART:20260613T170000Z
+DTEND:20260613T191500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters London 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/VALORANT
+SUMMARY:Upper bracket quarterfinal 1: G2 vs XLG
+URL;VALUE=URI:https://www.twitch.tv/VALORANT
 END:VEVENT
 END:VCALENDAR

@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:China Evolution Series - Act 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorantesports_cn
 SUMMARY:Round of 16 match 7: TYLOO vs EDG
-URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T140000Z
+UID:pandascore-match-1510139@esport-ics
+DTSTART:20260613T140000Z
+DTEND:20260613T161500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters London 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/VALORANT
+SUMMARY:Upper bracket quarterfinal 2: EDG vs FUT
+URL;VALUE=URI:https://www.twitch.tv/VALORANT
 END:VEVENT
 END:VCALENDAR

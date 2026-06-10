@@ -166,6 +166,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters London 2026 - Group Stage\nWatch: https://www.twi
  tch.tv/VALORANT
 SUMMARY:Round 2: NRG vs LEV
+URL:https://www.twitch.tv/VALORANT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T140000Z
+UID:pandascore-match-1510137@esport-ics
+DTSTART:20260612T140000Z
+DTEND:20260612T161500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters London 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/VALORANT
+SUMMARY:Upper bracket quarterfinal 3: PR vs LEV
 URL;VALUE=URI:https://www.twitch.tv/VALORANT
 END:VEVENT
 END:VCALENDAR

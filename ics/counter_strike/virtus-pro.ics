@@ -82,4 +82,15 @@ DESCRIPTION:European Pro League - Series 7 2026 - Group D\nWatch: https://k
 SUMMARY:Winners match: KOL vs VP
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T110000Z
+UID:pandascore-match-1519576@esport-ics
+DTSTART:20260612T110000Z
+DTEND:20260612T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #4 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 2: VP vs INOX
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
