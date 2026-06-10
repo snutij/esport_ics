@@ -389,6 +389,17 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs\nWatch: https://www.twitch.
  tv/fragadelphia
 SUMMARY:Lower bracket final: MARS vs SportsBetExpert
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+URL:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T010000Z
+UID:pandascore-match-1533919@esport-ics
+DTSTART:20260612T010000Z
+DTEND:20260612T031500Z
+CLASS:PUBLIC
+DESCRIPTION:NSTLGA League - Season 1 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/nstlga_gg
+SUMMARY:Upper bracket quarterfinal 1: MARS vs F5
+URL;VALUE=URI:https://www.twitch.tv/nstlga_gg
 END:VEVENT
 END:VCALENDAR

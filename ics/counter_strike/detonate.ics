@@ -3,19 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Iowa Stormboar
-SLUG:iowa-stormboar
-BEGIN:VEVENT
-DTSTAMP:20260527T010000Z
-UID:pandascore-match-1508600@esport-ics
-DTSTART:20260527T010000Z
-DTEND:20260527T031500Z
-CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - North America Finals season 51 2026 - P
- layoffs\nWatch: https://kick.com/eslcs
-SUMMARY:Semifinal 1: M80 vs Iowa Stormboar
-URL:https://kick.com/eslcs
-END:VEVENT
+X-WR-CALNAME:Detonate
+SLUG:detonate
 BEGIN:VEVENT
 DTSTAMP:20260612T010000Z
 UID:pandascore-match-1533921@esport-ics

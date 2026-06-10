@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Festina Lente
+SLUG:festina-lente
+BEGIN:VEVENT
+DTSTAMP:20260612T010000Z
+UID:pandascore-match-1533922@esport-ics
+DTSTART:20260612T010000Z
+DTEND:20260612T031500Z
+CLASS:PUBLIC
+DESCRIPTION:NSTLGA League - Season 1 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/nstlga_gg
+SUMMARY:Upper bracket quarterfinal  4: C333 vs FL
+URL;VALUE=URI:https://www.twitch.tv/nstlga_gg
+END:VEVENT
+END:VCALENDAR
