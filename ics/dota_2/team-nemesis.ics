@@ -281,6 +281,16 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - South America Closed Qualifier 2026 - Playo
  ffs\nWatch: https://www.twitch.tv/betboom_dota_ru5
 SUMMARY:Lower bracket final: HKR vs Nem
-URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru5
+URL:https://www.twitch.tv/betboom_dota_ru5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T210000Z
+UID:pandascore-match-1533461@esport-ics
+DTSTART:20260610T210000Z
+DTEND:20260610T231500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - South America Open Qualifier 1 2026 - Playo
+ ffs
+SUMMARY:Quarterfinal 1: Nem vs Gior Dota Team
 END:VEVENT
 END:VCALENDAR

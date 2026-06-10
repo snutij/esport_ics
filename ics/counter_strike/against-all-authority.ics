@@ -364,6 +364,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 2026 - Group C\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Elimination match: aAa vs RUST
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T080000Z
+UID:pandascore-match-1504762@esport-ics
+DTSTART:20260612T080000Z
+DTEND:20260612T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 2026 - Group C\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Decider match: aAa vs YN
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

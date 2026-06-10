@@ -116,6 +116,17 @@ SUMMARY:Upper bracket semifinal 1: PCIFIC vs UNiTY
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260612T080000Z
+UID:pandascore-match-1530794@esport-ics
+DTSTART:20260612T080000Z
+DTEND:20260612T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 50 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket final : PCIFIC vs STEP
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260612T173000Z
 UID:pandascore-match-1527904@esport-ics
 DTSTART:20260612T173000Z
