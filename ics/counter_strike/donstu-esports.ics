@@ -704,7 +704,9 @@ UID:pandascore-match-1526456@esport-ics
 DTSTART:20260610T173000Z
 DTEND:20260610T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/karmaflexxx
 SUMMARY:Lower bracket round 4 match 4: B8.A vs DNT
+URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
 END:VEVENT
 END:VCALENDAR
