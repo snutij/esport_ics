@@ -182,6 +182,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
  tv/valorant_emea
 SUMMARY:Grand final: NAVI.J vs RBN
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T150000Z
+UID:pandascore-match-1534472@esport-ics
+DTSTART:20260622T150000Z
+DTEND:20260622T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 3 2026 - Group A\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:NAVI.J vs BJK
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

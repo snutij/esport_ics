@@ -702,6 +702,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - May 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/gamersclubcs
 SUMMARY:Semifinal 1: RED.A vs paiN.A
-URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T190000Z
+UID:pandascore-match-1534439@esport-ics
+DTSTART:20260615T190000Z
+DTEND:20260615T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - June 2026 - Group D
+SUMMARY:paiN.A vs ODK
 END:VEVENT
 END:VCALENDAR

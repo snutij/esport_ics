@@ -80,6 +80,61 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - North America Stage 1 2026 - Playoffs\nWatch: https://www
  .twitch.tv/ow_esports
 SUMMARY:Lower bracket semifinal: LUNEX vs TL
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T230000Z
+UID:pandascore-match-1534444@esport-ics
+DTSTART:20260613T230000Z
+DTEND:20260614T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:LUNEX vs KAFE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T230000Z
+UID:pandascore-match-1534446@esport-ics
+DTSTART:20260614T230000Z
+DTEND:20260615T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:TL vs LUNEX
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T213000Z
+UID:pandascore-match-1534447@esport-ics
+DTSTART:20260620T213000Z
+DTEND:20260620T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:LUNEX vs DIS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T200000Z
+UID:pandascore-match-1534449@esport-ics
+DTSTART:20260621T200000Z
+DTEND:20260621T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:SSG vs LUNEX
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T230000Z
+UID:pandascore-match-1534456@esport-ics
+DTSTART:20260628T230000Z
+DTEND:20260629T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs LUNEX
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

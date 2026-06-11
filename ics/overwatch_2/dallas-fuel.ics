@@ -113,6 +113,61 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Champions Clash 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/ow_esports
 SUMMARY:Lower bracket quarterfinal 1: DAL vs TBD
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T200000Z
+UID:pandascore-match-1534442@esport-ics
+DTSTART:20260613T200000Z
+DTEND:20260613T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs SSG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T213000Z
+UID:pandascore-match-1534445@esport-ics
+DTSTART:20260614T213000Z
+DTEND:20260614T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs KAFE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T230000Z
+UID:pandascore-match-1534451@esport-ics
+DTSTART:20260621T230000Z
+DTEND:20260622T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs TL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T230000Z
+UID:pandascore-match-1534453@esport-ics
+DTSTART:20260627T230000Z
+DTEND:20260628T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs DIS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T230000Z
+UID:pandascore-match-1534456@esport-ics
+DTSTART:20260628T230000Z
+DTEND:20260629T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs LUNEX
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

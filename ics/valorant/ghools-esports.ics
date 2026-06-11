@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 2 2026 - Group D\nWatch: https://www.twitch.t
  v/kingfaruuh
 SUMMARY:TL.A vs GLS
-URL;VALUE=URI:https://www.twitch.tv/kingfaruuh
+URL:https://www.twitch.tv/kingfaruuh
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T173000Z
+UID:pandascore-match-1534487@esport-ics
+DTSTART:20260622T173000Z
+DTEND:20260622T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 3 2026 - Group D\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:RBN vs GLS
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

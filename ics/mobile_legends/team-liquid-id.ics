@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Indonesia - Season 17 2026 - Playoffs\nWatch: https://www.y
  outube.com/watch?v=VTuYnQ5vnCM
 SUMMARY:Upper bracket semifinal 1: TLID vs GEEK
-URL;VALUE=URI:https://www.youtube.com/watch?v=VTuYnQ5vnCM
+URL:https://www.youtube.com/watch?v=VTuYnQ5vnCM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T060000Z
+UID:pandascore-match-1483541@esport-ics
+DTSTART:20260612T060000Z
+DTEND:20260612T094500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 17 2026 - Playoffs\nWatch: https://www.y
+ outube.com/@MLBBeSports/live
+SUMMARY:Lower bracket semifinal: TLID vs TBD
+URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
 END:VEVENT
 END:VCALENDAR

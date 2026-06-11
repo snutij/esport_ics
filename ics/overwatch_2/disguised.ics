@@ -58,6 +58,61 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - North America Stage 1 2026 - Group Stage\nWatch: https://
  www.twitch.tv/ow_esports
 SUMMARY:DIS vs LUNEX
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T213000Z
+UID:pandascore-match-1534443@esport-ics
+DTSTART:20260613T213000Z
+DTEND:20260613T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:TL vs DIS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T213000Z
+UID:pandascore-match-1534447@esport-ics
+DTSTART:20260620T213000Z
+DTEND:20260620T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:LUNEX vs DIS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T213000Z
+UID:pandascore-match-1534450@esport-ics
+DTSTART:20260621T213000Z
+DTEND:20260621T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:KAFE vs DIS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T230000Z
+UID:pandascore-match-1534453@esport-ics
+DTSTART:20260627T230000Z
+DTEND:20260628T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs DIS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T213000Z
+UID:pandascore-match-1534455@esport-ics
+DTSTART:20260628T213000Z
+DTEND:20260628T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:SSG vs DIS
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Kafe
+SLUG:the-kafe
+BEGIN:VEVENT
+DTSTAMP:20260613T230000Z
+UID:pandascore-match-1534444@esport-ics
+DTSTART:20260613T230000Z
+DTEND:20260614T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:LUNEX vs KAFE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T213000Z
+UID:pandascore-match-1534445@esport-ics
+DTSTART:20260614T213000Z
+DTEND:20260614T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs KAFE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T230000Z
+UID:pandascore-match-1534448@esport-ics
+DTSTART:20260620T230000Z
+DTEND:20260621T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:SSG vs KAFE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T213000Z
+UID:pandascore-match-1534450@esport-ics
+DTSTART:20260621T213000Z
+DTEND:20260621T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:KAFE vs DIS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T200000Z
+UID:pandascore-match-1534454@esport-ics
+DTSTART:20260628T200000Z
+DTEND:20260628T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:TL vs KAFE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+END:VCALENDAR
