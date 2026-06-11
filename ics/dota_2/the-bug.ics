@@ -25,4 +25,14 @@ DESCRIPTION:The International - North America Open Qualifier 1 2026 - Playo
  ffs
 SUMMARY:Quarterfinal 2: NA\, we'd win vs the bug
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260611T060000Z
+UID:pandascore-match-1533148@esport-ics
+DTSTART:20260611T060000Z
+DTEND:20260611T081500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - North America Open Qualifier 1 2026 - Playo
+ ffs
+SUMMARY:Grand final: the bug vs TBD
+END:VEVENT
 END:VCALENDAR
