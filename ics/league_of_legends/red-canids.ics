@@ -208,6 +208,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - South America & LATAM Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/EWC_STCArena_EN
 SUMMARY:Upper Bracket Final: VKS vs RED
+URL:https://www.twitch.tv/EWC_STCArena_EN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T160000Z
+UID:pandascore-match-1520687@esport-ics
+DTSTART:20260614T160000Z
+DTEND:20260614T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - South America & LATAM Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/EWC_STCArena_EN
+SUMMARY:Grand Final: RED vs TBD
 URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
 END:VEVENT
 END:VCALENDAR
