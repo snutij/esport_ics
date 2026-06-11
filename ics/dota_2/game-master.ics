@@ -23,4 +23,13 @@ CLASS:PUBLIC
 DESCRIPTION:The International - China Open Qualifier 1 2026 - Playoffs
 SUMMARY:Semifinal 1: REF vs Game Master
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T030000Z
+UID:pandascore-match-1535445@esport-ics
+DTSTART:20260612T030000Z
+DTEND:20260612T051500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - China Open Qualifier 2 2026 - Playoffs
+SUMMARY:Quarterfinal 2: NGNB vs Game Master
+END:VEVENT
 END:VCALENDAR

@@ -67,4 +67,14 @@ DESCRIPTION:The International - Southeast Asia Open Qualifier 1 2026 - Play
  offs
 SUMMARY:3rd place decider: Mentality Monster vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T090000Z
+UID:pandascore-match-1535436@esport-ics
+DTSTART:20260612T090000Z
+DTEND:20260612T111500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Southeast Asia Open Qualifier 2 2026 - Play
+ offs
+SUMMARY:Quarterfinal 1: Mentality Monster vs IVO
+END:VEVENT
 END:VCALENDAR

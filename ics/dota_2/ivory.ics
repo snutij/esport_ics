@@ -499,4 +499,14 @@ DESCRIPTION:Esports World Cup - Southeast Asia Open Qualifier 2026 - Playof
  fs
 SUMMARY:Qualification match 2: Grind vs IVO
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T090000Z
+UID:pandascore-match-1535436@esport-ics
+DTSTART:20260612T090000Z
+DTEND:20260612T111500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Southeast Asia Open Qualifier 2 2026 - Play
+ offs
+SUMMARY:Quarterfinal 1: Mentality Monster vs IVO
+END:VEVENT
 END:VCALENDAR
