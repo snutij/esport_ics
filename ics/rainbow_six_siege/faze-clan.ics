@@ -194,8 +194,10 @@ UID:pandascore-match-1523158@esport-ics
 DTSTART:20260613T171500Z
 DTEND:20260613T180000Z
 CLASS:PUBLIC
-DESCRIPTION:South America League - Stage 1 2026 - Group Stage
+DESCRIPTION:South America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
 SUMMARY:IMP vs FaZe
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260614T210000Z
@@ -203,8 +205,10 @@ UID:pandascore-match-1523174@esport-ics
 DTSTART:20260614T210000Z
 DTEND:20260614T214500Z
 CLASS:PUBLIC
-DESCRIPTION:South America League - Stage 1 2026 - Group Stage
+DESCRIPTION:South America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
 SUMMARY:FaZe vs FX7M
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260620T210000Z
@@ -212,8 +216,10 @@ UID:pandascore-match-1523191@esport-ics
 DTSTART:20260620T210000Z
 DTEND:20260620T214500Z
 CLASS:PUBLIC
-DESCRIPTION:South America League - Stage 1 2026 - Group Stage
+DESCRIPTION:South America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
 SUMMARY:FaZe vs NIP
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260621T194500Z
@@ -221,8 +227,10 @@ UID:pandascore-match-1523195@esport-ics
 DTSTART:20260621T194500Z
 DTEND:20260621T203000Z
 CLASS:PUBLIC
-DESCRIPTION:South America League - Stage 1 2026 - Group Stage
+DESCRIPTION:South America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
 SUMMARY:FaZe vs LOS
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260627T210000Z
@@ -230,8 +238,10 @@ UID:pandascore-match-1523201@esport-ics
 DTSTART:20260627T210000Z
 DTEND:20260627T214500Z
 CLASS:PUBLIC
-DESCRIPTION:South America League - Stage 1 2026 - Group Stage
+DESCRIPTION:South America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
 SUMMARY:FaZe vs INTZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260628T210000Z
@@ -239,8 +249,10 @@ UID:pandascore-match-1523206@esport-ics
 DTSTART:20260628T210000Z
 DTEND:20260628T214500Z
 CLASS:PUBLIC
-DESCRIPTION:South America League - Stage 1 2026 - Group Stage
+DESCRIPTION:South America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
 SUMMARY:Liquid vs FaZe
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T194500Z
@@ -248,8 +260,10 @@ UID:pandascore-match-1523210@esport-ics
 DTSTART:20260704T194500Z
 DTEND:20260704T203000Z
 CLASS:PUBLIC
-DESCRIPTION:South America League - Stage 1 2026 - Group Stage
+DESCRIPTION:South America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
 SUMMARY:FURIA vs FaZe
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260705T171500Z
@@ -257,8 +271,10 @@ UID:pandascore-match-1523213@esport-ics
 DTSTART:20260705T171500Z
 DTEND:20260705T180000Z
 CLASS:PUBLIC
-DESCRIPTION:South America League - Stage 1 2026 - Group Stage
+DESCRIPTION:South America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
 SUMMARY:LOUD vs FaZe
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260712T171500Z
@@ -266,7 +282,9 @@ UID:pandascore-match-1523219@esport-ics
 DTSTART:20260712T171500Z
 DTEND:20260712T180000Z
 CLASS:PUBLIC
-DESCRIPTION:South America League - Stage 1 2026 - Group Stage
+DESCRIPTION:South America League - Stage 1 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
 SUMMARY:BD vs FaZe
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

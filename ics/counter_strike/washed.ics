@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group A\nWatch: https://www.
  twitch.tv/dust2tv
 SUMMARY:Washed vs Invicta
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T080000Z
+UID:pandascore-match-1533937@esport-ics
+DTSTART:20260613T080000Z
+DTEND:20260613T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group A\nWatch: https://www.
+ twitch.tv/dust2tv
+SUMMARY:Decider match: SASHI.A vs Washed
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 END:VCALENDAR

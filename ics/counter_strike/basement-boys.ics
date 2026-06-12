@@ -579,6 +579,15 @@ CLASS:PUBLIC
 DESCRIPTION:XPortal - Season 1 2026 - Playoffs\nWatch: https://www.twitch.t
  v/xportalesports
 SUMMARY:Semifinal 1: JJH vs BMB
-URL;VALUE=URI:https://www.twitch.tv/xportalesports
+URL:https://www.twitch.tv/xportalesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T080000Z
+UID:pandascore-match-1534964@esport-ics
+DTSTART:20260613T080000Z
+DTEND:20260613T101500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Summer 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 7: BMB vs GBL
 END:VEVENT
 END:VCALENDAR

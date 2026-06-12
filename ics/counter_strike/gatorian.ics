@@ -83,6 +83,15 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Summer 2026 - Group B\nWatch: https://www.twitch.
  tv/journey_cs2
 SUMMARY:Round 5: GAT vs NXS
-URL;VALUE=URI:https://www.twitch.tv/journey_cs2
+URL:https://www.twitch.tv/journey_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T080000Z
+UID:pandascore-match-1534965@esport-ics
+DTSTART:20260613T080000Z
+DTEND:20260613T101500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Summer 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 8: Entropy vs GAT
 END:VEVENT
 END:VCALENDAR

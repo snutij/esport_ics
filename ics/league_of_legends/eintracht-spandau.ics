@@ -329,6 +329,15 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Spring 2026 - Group D\nWatch: https://www.twitch
  .tv/primeleague
 SUMMARY:Decider match: ES vs ANB
-URL;VALUE=URI:https://www.twitch.tv/primeleague
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T150000Z
+UID:pandascore-match-1532487@esport-ics
+DTSTART:20260613T150000Z
+DTEND:20260613T184500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Spring 2026 - Playoffs
+SUMMARY:Quarterfinal 3: HRTS vs ES
 END:VEVENT
 END:VCALENDAR

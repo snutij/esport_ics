@@ -201,6 +201,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #4 2026 - Group A\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:Elimination match: ENCE vs Entropy
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T080000Z
+UID:pandascore-match-1534965@esport-ics
+DTSTART:20260613T080000Z
+DTEND:20260613T101500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Summer 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 8: Entropy vs GAT
 END:VEVENT
 END:VCALENDAR
