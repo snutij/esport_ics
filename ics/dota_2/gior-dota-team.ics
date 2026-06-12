@@ -57,4 +57,14 @@ DESCRIPTION:The International - South America Open Qualifier 1 2026 - Playo
  ffs
 SUMMARY:Quarterfinal 1: Nem vs Gior Dota Team
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T210000Z
+UID:pandascore-match-1536068@esport-ics
+DTSTART:20260612T210000Z
+DTEND:20260612T231500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - South America Open Qualifier 2 2026 - Playo
+ ffs
+SUMMARY:Quarterfinal 1: EB vs GIOR
+END:VEVENT
 END:VCALENDAR

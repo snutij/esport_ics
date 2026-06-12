@@ -59,4 +59,14 @@ DESCRIPTION:The International - North America Open Qualifier 1 2026 - Playo
  ffs
 SUMMARY:Quarterfinal 4: Ignite vs Ttgame
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T000000Z
+UID:pandascore-match-1536075@esport-ics
+DTSTART:20260613T000000Z
+DTEND:20260613T021500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - North America Open Qualifier 2 2026 - Playo
+ ffs
+SUMMARY:Quarterfinal 4:  GG Boom vs Ignite
+END:VEVENT
 END:VCALENDAR
