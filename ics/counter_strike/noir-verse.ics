@@ -29,8 +29,10 @@ UID:pandascore-match-1536134@esport-ics
 DTSTART:20260612T170000Z
 DTEND:20260612T174500Z
 CLASS:PUBLIC
-DESCRIPTION:ROG Journey - Summer 2026 - Group A
+DESCRIPTION:ROG Journey - Summer 2026 - Group A\nWatch: https://www.twitch.
+ tv/journey_cs2
 SUMMARY:Round 3: Noir Verse vs 1337HUANIA
+URL;VALUE=URI:https://www.twitch.tv/journey_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260612T180000Z

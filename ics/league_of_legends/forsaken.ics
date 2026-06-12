@@ -205,7 +205,9 @@ UID:pandascore-match-1532498@esport-ics
 DTSTART:20260612T180000Z
 DTEND:20260612T201500Z
 CLASS:PUBLIC
-DESCRIPTION:EMEA Masters - Spring 2026 - Group B
+DESCRIPTION:EMEA Masters - Spring 2026 - Group B\nWatch: https://www.twitch
+ .tv/otplol_
 SUMMARY:Decider match: FSK vs KCB
+URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

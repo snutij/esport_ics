@@ -243,6 +243,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 50 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Lower bracket semifinal: CC vs ex-MANA
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T080000Z
+UID:pandascore-match-1530795@esport-ics
+DTSTART:20260613T080000Z
+DTEND:20260613T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 50 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket final: STEP vs CC
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

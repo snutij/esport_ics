@@ -205,7 +205,9 @@ UID:pandascore-match-1532504@esport-ics
 DTSTART:20260612T180000Z
 DTEND:20260612T201500Z
 CLASS:PUBLIC
-DESCRIPTION:EMEA Masters - Spring 2026 - Group D
+DESCRIPTION:EMEA Masters - Spring 2026 - Group D\nWatch: https://www.twitch
+ .tv/primeleague
 SUMMARY:Decider match: ES vs ANB
+URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 END:VCALENDAR

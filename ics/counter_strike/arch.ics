@@ -208,6 +208,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/GoYareGo
 SUMMARY:Upper bracket semifinals match 1: FF vs ARCH
-URL;VALUE=URI:https://www.twitch.tv/GoYareGo
+URL:https://www.twitch.tv/GoYareGo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T173000Z
+UID:pandascore-match-1526460@esport-ics
+DTSTART:20260614T173000Z
+DTEND:20260614T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: TBD vs ARCH
 END:VEVENT
 END:VCALENDAR

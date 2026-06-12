@@ -340,4 +340,15 @@ CLASS:PUBLIC
 DESCRIPTION:The International - Europe Open Qualifier 2 2026 - Playoffs
 SUMMARY:Quarterfinal 4: MODUS vs 1p2m
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T162500Z
+UID:pandascore-match-1535461@esport-ics
+DTSTART:20260612T162500Z
+DTEND:20260612T171000Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Europe Open Qualifier 2 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/sysman_
+SUMMARY:Semifinal 2: ICxI vs MODUS
+URL;VALUE=URI:https://www.twitch.tv/sysman_
+END:VEVENT
 END:VCALENDAR
