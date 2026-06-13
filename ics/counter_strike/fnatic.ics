@@ -510,4 +510,15 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Summer 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 3: FNC vs AIMC
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T150000Z
+UID:pandascore-match-1534975@esport-ics
+DTSTART:20260613T150000Z
+DTEND:20260613T171500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Summer 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/journey_cs2
+SUMMARY:Upper bracket semifinal 2: FNC vs BMB
+URL;VALUE=URI:https://www.twitch.tv/journey_cs2
+END:VEVENT
 END:VCALENDAR

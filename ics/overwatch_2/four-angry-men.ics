@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 2 2026 - Group Stage\nWatch: https://live.bil
  ibili.com/23612045
 SUMMARY:Round 3: SV vs 4AM
+URL:https://live.bilibili.com/23612045
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T070000Z
+UID:pandascore-match-1526437@esport-ics
+DTSTART:20260614T070000Z
+DTEND:20260614T091500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 2 2026 - Group Stage\nWatch: https://live.bil
+ ibili.com/23612045
+SUMMARY:Round 4: 4AM vs KK
 URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR
