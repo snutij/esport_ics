@@ -657,7 +657,16 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Summer 2026 - Playoffs\nWatch: https://www.twitch
  .tv/esportstudion
 SUMMARY:Upper bracket round 1 match 1: ALL vs Saab
-URL;VALUE=URI:https://www.twitch.tv/esportstudion
+URL:https://www.twitch.tv/esportstudion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T110000Z
+UID:pandascore-match-1534966@esport-ics
+DTSTART:20260613T110000Z
+DTEND:20260613T131500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Summer 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: ALL vs TBD
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260701T070000Z

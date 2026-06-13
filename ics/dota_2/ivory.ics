@@ -510,17 +510,6 @@ DESCRIPTION:The International - Southeast Asia Open Qualifier 2 2026 - Play
 SUMMARY:Quarterfinal 1: Mentality Monster vs IVO
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260613T090000Z
-UID:pandascore-match-1537629@esport-ics
-DTSTART:20260613T090000Z
-DTEND:20260613T111500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:CARST vs IVO
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260614T030000Z
 UID:pandascore-match-1537630@esport-ics
 DTSTART:20260614T030000Z
@@ -541,6 +530,17 @@ DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:WinteR vs IVO
 URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T120000Z
+UID:pandascore-match-1537629@esport-ics
+DTSTART:20260616T120000Z
+DTEND:20260616T141500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://www.twitch.tv/bolt_ru
+SUMMARY:CARST vs IVO
+URL;VALUE=URI:https://www.twitch.tv/bolt_ru
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260617T060000Z
