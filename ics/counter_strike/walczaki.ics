@@ -503,4 +503,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Playoffs\nWatch: https:/
 SUMMARY:Round of 16 match 1: K27 vs WAL
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T103000Z
+UID:pandascore-match-1504771@esport-ics
+DTSTART:20260615T103000Z
+DTEND:20260615T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Round 16 match 4: WAL vs G2.A
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

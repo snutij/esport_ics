@@ -159,4 +159,15 @@ DESCRIPTION:United21 - Season 50 2026 - Playoffs\nWatch: https://kick.com/u
 SUMMARY:Grand final: PCIFIC vs CC
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T160000Z
+UID:pandascore-match-1527908@esport-ics
+DTSTART:20260621T160000Z
+DTEND:20260621T181500Z
+CLASS:PUBLIC
+DESCRIPTION:TESFED League - Season 3 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/TESFED
+SUMMARY:Upper bracket final: MISA vs PCIFIC
+URL;VALUE=URI:https://www.twitch.tv/TESFED
+END:VEVENT
 END:VCALENDAR
