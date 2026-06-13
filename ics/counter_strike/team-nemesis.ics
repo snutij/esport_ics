@@ -711,6 +711,17 @@ SUMMARY:Grand final: NEM vs TBD
 URL:https://www.twitch.tv/bcgamemasters
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260615T140000Z
+UID:pandascore-match-1517527@esport-ics
+DTSTART:20260615T140000Z
+DTEND:20260615T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Playoffs\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 7: NEM vs CS
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260701T070000Z
 UID:pandascore-match-1526526@esport-ics
 DTSTART:20260701T070000Z

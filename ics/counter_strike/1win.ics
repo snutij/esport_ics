@@ -433,6 +433,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 3 2026 - Playoffs\nWatch: https://kick.com/
  cct_cs
 SUMMARY:Semifinal 2: JS vs 1WIN
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T140000Z
+UID:pandascore-match-1517523@esport-ics
+DTSTART:20260614T140000Z
+DTEND:20260614T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Playoffs\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 3: 1WIN vs TDK
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

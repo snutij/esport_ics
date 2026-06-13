@@ -410,4 +410,59 @@ DESCRIPTION:The International - Southeast Asia Open Qualifier 2 2026 - Play
  offs
 SUMMARY:Quarterfinal 3: IAC vs STD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T030000Z
+UID:pandascore-match-1537633@esport-ics
+DTSTART:20260615T030000Z
+DTEND:20260615T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Dfam vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T030000Z
+UID:pandascore-match-1537636@esport-ics
+DTSTART:20260616T030000Z
+DTEND:20260616T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Mentality Monster vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T030000Z
+UID:pandascore-match-1537639@esport-ics
+DTSTART:20260617T030000Z
+DTEND:20260617T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T060000Z
+UID:pandascore-match-1537640@esport-ics
+DTSTART:20260617T060000Z
+DTEND:20260617T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T060000Z
+UID:pandascore-match-1537644@esport-ics
+DTSTART:20260618T060000Z
+DTEND:20260618T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs WinteR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
 END:VCALENDAR

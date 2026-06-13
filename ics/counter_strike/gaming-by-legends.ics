@@ -100,7 +100,9 @@ UID:pandascore-match-1534964@esport-ics
 DTSTART:20260613T080000Z
 DTEND:20260613T101500Z
 CLASS:PUBLIC
-DESCRIPTION:ROG Journey - Summer 2026 - Playoffs
+DESCRIPTION:ROG Journey - Summer 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/basementboys_cs
 SUMMARY:Upper bracket round 1 match 7: BMB vs GBL
+URL;VALUE=URI:https://www.twitch.tv/basementboys_cs
 END:VEVENT
 END:VCALENDAR

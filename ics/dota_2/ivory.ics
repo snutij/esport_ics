@@ -509,4 +509,59 @@ DESCRIPTION:The International - Southeast Asia Open Qualifier 2 2026 - Play
  offs
 SUMMARY:Quarterfinal 1: Mentality Monster vs IVO
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T090000Z
+UID:pandascore-match-1537629@esport-ics
+DTSTART:20260613T090000Z
+DTEND:20260613T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T030000Z
+UID:pandascore-match-1537630@esport-ics
+DTSTART:20260614T030000Z
+DTEND:20260614T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:DB vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T090000Z
+UID:pandascore-match-1537635@esport-ics
+DTSTART:20260615T090000Z
+DTEND:20260615T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:WinteR vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T060000Z
+UID:pandascore-match-1537640@esport-ics
+DTSTART:20260617T060000Z
+DTEND:20260617T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T090000Z
+UID:pandascore-match-1537645@esport-ics
+DTSTART:20260618T090000Z
+DTEND:20260618T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IVO vs Mentality Monster
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WinteR Squadron
+SLUG:winter-squadron
+BEGIN:VEVENT
+DTSTAMP:20260615T090000Z
+UID:pandascore-match-1537635@esport-ics
+DTSTART:20260615T090000Z
+DTEND:20260615T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:WinteR vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T060000Z
+UID:pandascore-match-1537637@esport-ics
+DTSTART:20260616T060000Z
+DTEND:20260616T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs WinteR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T090000Z
+UID:pandascore-match-1537638@esport-ics
+DTSTART:20260616T090000Z
+DTEND:20260616T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:WinteR vs DB
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T090000Z
+UID:pandascore-match-1537641@esport-ics
+DTSTART:20260617T090000Z
+DTEND:20260617T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:WinteR vs Dfam
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T120000Z
+UID:pandascore-match-1537642@esport-ics
+DTSTART:20260617T120000Z
+DTEND:20260617T141500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Mentality Monster vs WinteR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T060000Z
+UID:pandascore-match-1537644@esport-ics
+DTSTART:20260618T060000Z
+DTEND:20260618T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs WinteR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+END:VCALENDAR

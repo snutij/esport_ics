@@ -175,8 +175,10 @@ UID:pandascore-match-1493073@esport-ics
 DTSTART:20260613T100000Z
 DTEND:20260613T134500Z
 CLASS:PUBLIC
-DESCRIPTION:VCS - Summer 2026 - Playoffs
+DESCRIPTION:VCS - Summer 2026 - Playoffs\nWatch: https://www.youtube.com/@v
+ cslmht/streams
 SUMMARY:Upper bracket final: SGW vs ZEN
+URL;VALUE=URI:https://www.youtube.com/@vcslmht/streams
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260615T060000Z

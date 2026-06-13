@@ -510,4 +510,59 @@ DESCRIPTION:The International - Southeast Asia Open Qualifier 1 2026 - Play
  offs
 SUMMARY:Quarterfinal 4: CARST vs cincai team
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T090000Z
+UID:pandascore-match-1537629@esport-ics
+DTSTART:20260613T090000Z
+DTEND:20260613T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs IVO
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T060000Z
+UID:pandascore-match-1537631@esport-ics
+DTSTART:20260614T060000Z
+DTEND:20260614T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Mentality Monster vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T060000Z
+UID:pandascore-match-1537637@esport-ics
+DTSTART:20260616T060000Z
+DTEND:20260616T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs WinteR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T030000Z
+UID:pandascore-match-1537639@esport-ics
+DTSTART:20260617T030000Z
+DTEND:20260617T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T030000Z
+UID:pandascore-match-1537643@esport-ics
+DTSTART:20260618T030000Z
+DTEND:20260618T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:DB vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
 END:VCALENDAR
