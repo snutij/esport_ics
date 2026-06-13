@@ -321,6 +321,15 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Summer 2026 - Playoffs\nWatch: https://www.twitch
  .tv/esportstudion
 SUMMARY:Upper bracket quarterfinal 1: ALL vs NXS
-URL;VALUE=URI:https://www.twitch.tv/esportstudion
+URL:https://www.twitch.tv/esportstudion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T080000Z
+UID:pandascore-match-1534982@esport-ics
+DTSTART:20260614T080000Z
+DTEND:20260614T101500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Summer 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: NXS vs TBD
 END:VEVENT
 END:VCALENDAR
