@@ -102,4 +102,14 @@ DESCRIPTION:The International - South America Open Qualifier 2 2026 - Playo
  ffs
 SUMMARY:Semifinal 2: TDK vs x5
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T040000Z
+UID:pandascore-match-1536082@esport-ics
+DTSTART:20260613T040000Z
+DTEND:20260613T044500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - South America Open Qualifier 2 2026 - Playo
+ ffs
+SUMMARY:Grand final: x5 vs TBD
+END:VEVENT
 END:VCALENDAR

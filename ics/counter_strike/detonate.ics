@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:NSTLGA League - Season 1 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/nstlga_gg
 SUMMARY:Upper bracket semifinal 2: FL vs DTN
+URL:https://www.twitch.tv/nstlga_gg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260613T190000Z
+UID:pandascore-match-1533927@esport-ics
+DTSTART:20260613T190000Z
+DTEND:20260613T211500Z
+CLASS:PUBLIC
+DESCRIPTION:NSTLGA League - Season 1 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/nstlga_gg
+SUMMARY:Lower bracket quarterfinal 1: DTN vs TBD
 URL;VALUE=URI:https://www.twitch.tv/nstlga_gg
 END:VEVENT
 END:VCALENDAR
