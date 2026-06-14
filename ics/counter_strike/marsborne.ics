@@ -422,6 +422,17 @@ CLASS:PUBLIC
 DESCRIPTION:NSTLGA League - Season 1 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/nstlga_gg
 SUMMARY:Upper bracket final: MARS vs FL
+URL:https://www.twitch.tv/nstlga_gg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260614T220000Z
+UID:pandascore-match-1533932@esport-ics
+DTSTART:20260614T220000Z
+DTEND:20260615T001500Z
+CLASS:PUBLIC
+DESCRIPTION:NSTLGA League - Season 1 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/nstlga_gg
+SUMMARY:Grand final: MARS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/nstlga_gg
 END:VEVENT
 END:VCALENDAR
