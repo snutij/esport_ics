@@ -165,6 +165,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCS - Summer 2026 - Playoffs\nWatch: https://www.youtube.com/wa
  tch?v=3KD7h6EPWSk
 SUMMARY:Lower bracket semifinal: SCBC vs DINO
-URL;VALUE=URI:https://www.youtube.com/watch?v=3KD7h6EPWSk
+URL:https://www.youtube.com/watch?v=3KD7h6EPWSk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T100000Z
+UID:pandascore-match-1493075@esport-ics
+DTSTART:20260619T100000Z
+DTEND:20260619T134500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Summer 2026 - Playoffs
+SUMMARY:Lower bracket final: ZEN vs DINO
 END:VEVENT
 END:VCALENDAR

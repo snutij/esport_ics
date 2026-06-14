@@ -123,6 +123,24 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division\nWatch:
   https://www.twitch.tv/betboom_esports
 SUMMARY:TST vs HARD GRIND
-URL;VALUE=URI:https://www.twitch.tv/betboom_esports
+URL:https://www.twitch.tv/betboom_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T150000Z
+UID:pandascore-match-1540194@esport-ics
+DTSTART:20260615T150000Z
+DTEND:20260615T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers
+SUMMARY:Round 1 match 1: TST vs SUP
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T150000Z
+UID:pandascore-match-1540190@esport-ics
+DTSTART:20260615T150000Z
+DTEND:20260615T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division
+SUMMARY:TST vs SUP
 END:VEVENT
 END:VCALENDAR
