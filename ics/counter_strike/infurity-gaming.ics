@@ -718,6 +718,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 50 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Lower bracket round 1 match 2: INF vs ex-MANA
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T080000Z
+UID:pandascore-match-1540268@esport-ics
+DTSTART:20260617T080000Z
+DTEND:20260617T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 51 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:INF vs Alpha Gaming
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

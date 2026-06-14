@@ -293,4 +293,15 @@ DESCRIPTION:The International - South America Open Qualifier 1 2026 - Playo
  ffs
 SUMMARY:Quarterfinal 1: Nem vs Gior Dota Team
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T230000Z
+UID:pandascore-match-1540288@esport-ics
+DTSTART:20260615T230000Z
+DTEND:20260616T011500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - South America Closed Qualifier 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/pgl_dota2
+SUMMARY:Upper bracket quarterfinal 3: HKR vs Nem
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+END:VEVENT
 END:VCALENDAR

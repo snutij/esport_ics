@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 50 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: CHAOS vs WRAITH PCIFIC
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T103000Z
+UID:pandascore-match-1540269@esport-ics
+DTSTART:20260617T103000Z
+DTEND:20260617T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 51 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:CHAOS vs ADN
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 6 2026 - Group A\nWatch: https://kick.com/dra
  culancsc
 SUMMARY:Elimination match: ADN vs AIMC
-URL;VALUE=URI:https://kick.com/draculancsc
+URL:https://kick.com/draculancsc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T103000Z
+UID:pandascore-match-1540269@esport-ics
+DTSTART:20260617T103000Z
+DTEND:20260617T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 51 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:CHAOS vs ADN
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
