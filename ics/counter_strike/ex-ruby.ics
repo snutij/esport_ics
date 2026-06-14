@@ -1062,4 +1062,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Playoffs\nWatch: https:/
 SUMMARY:Round of 16 match 8: INF vs ex-RUBY
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T110000Z
+UID:pandascore-match-1519606@esport-ics
+DTSTART:20260616T110000Z
+DTEND:20260616T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #4 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 4: ILWL vs ex-RUBY
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

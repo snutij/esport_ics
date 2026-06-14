@@ -388,6 +388,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 7 2026 - Last Chance Qualifier\nWatch: http
  s://www.twitch.tv/BLASTDota
 SUMMARY:Quarterfinal 1: TS vs OG
-URL;VALUE=URI:https://www.twitch.tv/BLASTDota
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T110000Z
+UID:pandascore-match-1540333@esport-ics
+DTSTART:20260620T110000Z
+DTEND:20260620T131500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Southeast Asia Closed Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/pgl_dota2
+SUMMARY:Upper bracket quarterfinal 4: OG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

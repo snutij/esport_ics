@@ -373,6 +373,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Southeast Asia Closed Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/betboom_dota_ru4
 SUMMARY:Lower Bracket Final: XctN vs RNX
-URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru4
+URL:https://www.twitch.tv/betboom_dota_ru4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T180000Z
+UID:pandascore-match-1540331@esport-ics
+DTSTART:20260620T180000Z
+DTEND:20260620T201500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Southeast Asia Closed Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/pgl_dota2
+SUMMARY:Upper bracket quarterfinal 2: RNX vs TBD
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR
