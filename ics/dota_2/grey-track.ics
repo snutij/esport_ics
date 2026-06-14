@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Grey Track
+SLUG:grey-track
+BEGIN:VEVENT
+DTSTAMP:20260615T130000Z
+UID:pandascore-match-1539206@esport-ics
+DTSTART:20260615T130000Z
+DTEND:20260615T151500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - China Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.douyu.com/6829849
+SUMMARY:Upper bracket quarterfinal 4: VG vs GT
+URL;VALUE=URI:https://www.douyu.com/6829849
+END:VEVENT
+END:VCALENDAR
