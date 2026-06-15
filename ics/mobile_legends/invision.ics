@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:INVISION
+SLUG:invision
+BEGIN:VEVENT
+DTSTAMP:20260615T193000Z
+UID:pandascore-match-1540197@esport-ics
+DTSTART:20260615T193000Z
+DTEND:20260615T214500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
+ tch: https://www.youtube.com/watch?v=kKf3BgqrZvk
+SUMMARY:Round 1 match 4: INV vs Aterion Esports
+URL;VALUE=URI:https://www.youtube.com/watch?v=kKf3BgqrZvk
+END:VEVENT
+END:VCALENDAR

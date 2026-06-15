@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dfrag - Open Series #5 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/dfragtv
 SUMMARY:Upper bracket semifinal 1: RSTR vs DXA
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T083000Z
+UID:pandascore-match-1525874@esport-ics
+DTSTART:20260616T083000Z
+DTEND:20260616T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Dfrag - Open Series #5 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/dfragtv
+SUMMARY:Lower bracket semifinal: MandL vs DXA
 URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR

@@ -122,8 +122,10 @@ UID:pandascore-match-1540194@esport-ics
 DTSTART:20260615T150000Z
 DTEND:20260615T171500Z
 CLASS:PUBLIC
-DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
+ tch: https://www.youtube.com/watch?v=kKf3BgqrZvk
 SUMMARY:Round 1 match 1: TST vs SUP
+URL;VALUE=URI:https://www.youtube.com/watch?v=kKf3BgqrZvk
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260615T150000Z

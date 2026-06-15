@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group Stage\nWatch: https://
  www.twitch.tv/dust2tv
 SUMMARY:Round 5: MSC vs AAB.B
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T170000Z
+UID:pandascore-match-1541285@esport-ics
+DTSTART:20260615T170000Z
+DTEND:20260615T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Division 1 season 32 2026 - Playoffs\nWatch: 
+ https://www.twitch.tv/dust2tv
+SUMMARY:Upper bracket semifinal 1: AAB.B vs LLE
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 END:VCALENDAR

@@ -41,6 +41,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - China Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.douyu.com/6829849
 SUMMARY:Upper bracket quarterfinal 3: YB vs Game Master
+URL:https://www.douyu.com/6829849
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T070000Z
+UID:pandascore-match-1539211@esport-ics
+DTSTART:20260616T070000Z
+DTEND:20260616T091500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - China Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.douyu.com/6829849
+SUMMARY:Lower bracket round 1 match 2: Game Master vs GT
 URL;VALUE=URI:https://www.douyu.com/6829849
 END:VEVENT
 END:VCALENDAR

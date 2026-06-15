@@ -95,6 +95,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 51 2026 - Group A\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:ME vs CLS
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T103000Z
+UID:pandascore-match-1540261@esport-ics
+DTSTART:20260619T103000Z
+DTEND:20260619T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 51 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Elimination match: ME vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

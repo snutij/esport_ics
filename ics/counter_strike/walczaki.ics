@@ -512,6 +512,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Round 16 match 4: WAL vs G2.A
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T103000Z
+UID:pandascore-match-1504777@esport-ics
+DTSTART:20260618T103000Z
+DTEND:20260618T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Quarterfinal 2: TDK vs WAL
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
