@@ -280,7 +280,9 @@ UID:pandascore-match-1529950@esport-ics
 DTSTART:20260615T080000Z
 DTEND:20260615T101500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Masters - 2026 - Last Chance Qualifier
+DESCRIPTION:Asia Masters - 2026 - Last Chance Qualifier\nWatch: https://www
+ .twitch.tv/asiamasters2026
 SUMMARY:TESC vs KT.C
+URL;VALUE=URI:https://www.twitch.tv/asiamasters2026
 END:VEVENT
 END:VCALENDAR
