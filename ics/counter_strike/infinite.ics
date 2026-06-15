@@ -554,6 +554,17 @@ SUMMARY:Round of 16 match 8: INF vs ex-RUBY
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260616T170000Z
+UID:pandascore-match-1517532@esport-ics
+DTSTART:20260616T170000Z
+DTEND:20260616T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Playoffs\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Quarterfinal 4: NEM vs INF
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260618T080000Z
 UID:pandascore-match-1504776@esport-ics
 DTSTART:20260618T080000Z
