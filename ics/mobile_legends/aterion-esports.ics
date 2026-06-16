@@ -129,7 +129,7 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
  tch: https://www.youtube.com/watch?v=kKf3BgqrZvk
 SUMMARY:Round 1 match 4: INV vs Aterion Esports
-URL;VALUE=URI:https://www.youtube.com/watch?v=kKf3BgqrZvk
+URL:https://www.youtube.com/watch?v=kKf3BgqrZvk
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260615T193000Z
@@ -139,5 +139,16 @@ DTEND:20260615T214500Z
 CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division
 SUMMARY:The World vs Aterion Esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T193000Z
+UID:pandascore-match-1542275@esport-ics
+DTSTART:20260616T193000Z
+DTEND:20260616T214500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
+ tch: https://www.youtube.com/@BetBoomEsports/live
+SUMMARY:Round 2 Match 4: AF vs Aterion Esports
+URL;VALUE=URI:https://www.youtube.com/@BetBoomEsports/live
 END:VEVENT
 END:VCALENDAR

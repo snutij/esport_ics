@@ -89,6 +89,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - South America Closed Qualifier 2026 - Playo
  ffs\nWatch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Upper bracket quarterfinal 3: HKR vs Nem
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T170000Z
+UID:pandascore-match-1540301@esport-ics
+DTSTART:20260616T170000Z
+DTEND:20260616T191500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - South America Closed Qualifier 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/pgl_dota2
+SUMMARY:Lower bracket round 1 match 2: x5 vs HKR
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

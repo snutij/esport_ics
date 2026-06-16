@@ -134,7 +134,7 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
  tch: https://www.youtube.com/watch?v=kKf3BgqrZvk
 SUMMARY:Round 1 match 1: TST vs SUP
-URL;VALUE=URI:https://www.youtube.com/watch?v=kKf3BgqrZvk
+URL:https://www.youtube.com/watch?v=kKf3BgqrZvk
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260615T150000Z
@@ -145,6 +145,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division\nWatch:
   https://www.youtube.com/@BetBoomEsports/streams
 SUMMARY:TST vs SUP
-URL;VALUE=URI:https://www.youtube.com/@BetBoomEsports/streams
+URL:https://www.youtube.com/@BetBoomEsports/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T150000Z
+UID:pandascore-match-1542272@esport-ics
+DTSTART:20260616T150000Z
+DTEND:20260616T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
+ tch: https://www.youtube.com/@BetBoomEsports/live
+SUMMARY:Round 2 Match 1: FORZE Esports vs TST
+URL;VALUE=URI:https://www.youtube.com/@BetBoomEsports/live
 END:VEVENT
 END:VCALENDAR

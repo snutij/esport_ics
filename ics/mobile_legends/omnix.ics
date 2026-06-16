@@ -94,7 +94,7 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
  tch: https://www.youtube.com/watch?v=kKf3BgqrZvk
 SUMMARY:Round 1 match 3: TSA.W vs Omnix
-URL;VALUE=URI:https://www.youtube.com/watch?v=kKf3BgqrZvk
+URL:https://www.youtube.com/watch?v=kKf3BgqrZvk
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260615T180000Z
@@ -104,5 +104,16 @@ DTEND:20260615T201500Z
 CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division
 SUMMARY:TSA.W vs Omnix
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T180000Z
+UID:pandascore-match-1542274@esport-ics
+DTSTART:20260616T180000Z
+DTEND:20260616T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
+ tch: https://www.youtube.com/@BetBoomEsports/live
+SUMMARY:Round 2 Match 3: MAG vs Omnix
+URL;VALUE=URI:https://www.youtube.com/@BetBoomEsports/live
 END:VEVENT
 END:VCALENDAR

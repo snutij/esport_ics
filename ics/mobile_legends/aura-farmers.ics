@@ -283,6 +283,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 1st Division\nWatch:
   https://www.youtube.com/watch?v=dH70GjN_nd4
 SUMMARY:MAG vs AF
-URL;VALUE=URI:https://www.youtube.com/watch?v=dH70GjN_nd4
+URL:https://www.youtube.com/watch?v=dH70GjN_nd4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260616T193000Z
+UID:pandascore-match-1542275@esport-ics
+DTSTART:20260616T193000Z
+DTEND:20260616T214500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
+ tch: https://www.youtube.com/@BetBoomEsports/live
+SUMMARY:Round 2 Match 4: AF vs Aterion Esports
+URL;VALUE=URI:https://www.youtube.com/@BetBoomEsports/live
 END:VEVENT
 END:VCALENDAR
