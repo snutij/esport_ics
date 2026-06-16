@@ -199,6 +199,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters London 2026 - Playoffs\nWatch: https://www.twitch
  .tv/VALORANT
 SUMMARY:Lower bracket quarterfinal 2: XLG vs LEV
+URL:https://www.twitch.tv/VALORANT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T160000Z
+UID:pandascore-match-1510146@esport-ics
+DTSTART:20260619T160000Z
+DTEND:20260619T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Masters London 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/VALORANT
+SUMMARY:Lower bracket semifinal: LEV vs TBD
 URL;VALUE=URI:https://www.twitch.tv/VALORANT
 END:VEVENT
 END:VCALENDAR

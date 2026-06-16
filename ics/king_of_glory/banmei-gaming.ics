@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:Garena Challenger Series - Spring 2026 - Playoffs\nWatch: https
  ://www.youtube.com/watch?v=sNdYqgPsm6U
 SUMMARY:Lower bracket semifinal: ANK Gaming vs BMG
-URL;VALUE=URI:https://www.youtube.com/watch?v=sNdYqgPsm6U
+URL:https://www.youtube.com/watch?v=sNdYqgPsm6U
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T100000Z
+UID:pandascore-match-1542869@esport-ics
+DTSTART:20260619T100000Z
+DTEND:20260619T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
+ s://www.twitch.tv/arenaofvalor
+SUMMARY:Round 1: BMG vs FPL
+URL;VALUE=URI:https://www.twitch.tv/arenaofvalor
 END:VEVENT
 END:VCALENDAR

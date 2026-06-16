@@ -351,6 +351,15 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
  s://kick.com/challengerchampionship
 SUMMARY:Upper Bracket Final: IC.A vs BMB
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T173000Z
+UID:pandascore-match-1542821@esport-ics
+DTSTART:20260618T173000Z
+DTEND:20260618T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - European Finals season 57 2026 - Playoffs
+SUMMARY:Round 3 match 2: IC.A vs TBD
 END:VEVENT
 END:VCALENDAR

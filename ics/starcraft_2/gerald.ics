@@ -146,7 +146,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:Gerald vs trigger
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260616T124000Z
@@ -157,13 +157,13 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:Rogue vs Gerald
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260616T160000Z
+DTSTAMP:20260616T161500Z
 UID:pandascore-match-1519023@esport-ics
-DTSTART:20260616T160000Z
-DTEND:20260616T181500Z
+DTSTART:20260616T161500Z
+DTEND:20260616T183000Z
 CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
  atch: https://www.twitch.tv/wardiii

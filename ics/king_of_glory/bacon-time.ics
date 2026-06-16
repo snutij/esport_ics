@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:RoV Pro League - Summer 2026 - Group Stage\nWatch: https://www.
  youtube.com/@garenarovthai/streams
 SUMMARY:eA vs BAC
-URL;VALUE=URI:https://www.youtube.com/@garenarovthai/streams
+URL:https://www.youtube.com/@garenarovthai/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T120000Z
+UID:pandascore-match-1542870@esport-ics
+DTSTART:20260619T120000Z
+DTEND:20260619T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
+ s://www.twitch.tv/arenaofvalor
+SUMMARY:Round 1: BAC vs GAM
+URL;VALUE=URI:https://www.twitch.tv/arenaofvalor
 END:VEVENT
 END:VCALENDAR

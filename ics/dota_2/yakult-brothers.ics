@@ -318,6 +318,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - China Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.douyu.com/6829849
 SUMMARY:Upper bracket semifinal 2: YB vs VG
+URL:https://www.douyu.com/6829849
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T060000Z
+UID:pandascore-match-1539209@esport-ics
+DTSTART:20260618T060000Z
+DTEND:20260618T081500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - China Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.douyu.com/6829849
+SUMMARY:Upper bracket final: TR vs YB
 URL;VALUE=URI:https://www.douyu.com/6829849
 END:VEVENT
 END:VCALENDAR

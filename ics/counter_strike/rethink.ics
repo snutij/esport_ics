@@ -595,6 +595,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/x1tten
 SUMMARY:Lower bracket quarterfinal 1: RT vs WING
-URL;VALUE=URI:https://www.twitch.tv/x1tten
+URL:https://www.twitch.tv/x1tten
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T173000Z
+UID:pandascore-match-1542825@esport-ics
+DTSTART:20260619T173000Z
+DTEND:20260619T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - European Finals season 57 2026 - Playoffs
+SUMMARY:Quarterfinal 2: RT vs TBD
 END:VEVENT
 END:VCALENDAR

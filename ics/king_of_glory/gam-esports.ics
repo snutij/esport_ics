@@ -212,6 +212,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Glory - Spring 2026 - Playoffs\nWatch: https://www.you
  tube.com/@LienQuanMobileSportsGarena/streams
 SUMMARY:Lower bracket semifinal: FPL vs GAM
-URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+URL:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T120000Z
+UID:pandascore-match-1542870@esport-ics
+DTSTART:20260619T120000Z
+DTEND:20260619T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
+ s://www.twitch.tv/arenaofvalor
+SUMMARY:Round 1: BAC vs GAM
+URL;VALUE=URI:https://www.twitch.tv/arenaofvalor
 END:VEVENT
 END:VCALENDAR

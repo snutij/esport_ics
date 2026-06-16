@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:Garena Challenger Series - Spring 2026 - Group Stage\nWatch: ht
  tps://www.youtube.com/watch?v=ypuFhlPcMQ8
 SUMMARY:ONE vs HKA
-URL;VALUE=URI:https://www.youtube.com/watch?v=ypuFhlPcMQ8
+URL:https://www.youtube.com/watch?v=ypuFhlPcMQ8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T060000Z
+UID:pandascore-match-1542863@esport-ics
+DTSTART:20260618T060000Z
+DTEND:20260618T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
+ s://www.twitch.tv/arenaofvalor
+SUMMARY:Round 1: SP vs HKA
+URL;VALUE=URI:https://www.twitch.tv/arenaofvalor
 END:VEVENT
 END:VCALENDAR
