@@ -283,6 +283,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Masters - 2026 - Last Chance Qualifier\nWatch: https://www
  .twitch.tv/asiamasters2026
 SUMMARY:TESC vs KT.C
-URL;VALUE=URI:https://www.twitch.tv/asiamasters2026
+URL:https://www.twitch.tv/asiamasters2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260617T060000Z
+UID:pandascore-match-1529952@esport-ics
+DTSTART:20260617T060000Z
+DTEND:20260617T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Masters - 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 1: KT.C vs DK.C
 END:VEVENT
 END:VCALENDAR
