@@ -268,6 +268,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 25 2026 - Playoffs\nWatch: https://kick.c
  om/exort_en2
 SUMMARY:Grand final: TS.A vs 33
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T173000Z
+UID:pandascore-match-1543916@esport-ics
+DTSTART:20260618T173000Z
+DTEND:20260618T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 7: ICE vs TS.A
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

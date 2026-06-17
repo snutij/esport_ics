@@ -738,6 +738,28 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Round 16 match 7: ACE vs Lavked
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T103000Z
+UID:pandascore-match-1504779@esport-ics
+DTSTART:20260619T103000Z
+DTEND:20260619T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Quarterfinal 4: ACE vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T173000Z
+UID:pandascore-match-1543915@esport-ics
+DTSTART:20260619T173000Z
+DTEND:20260619T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 6: ACE vs 33
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

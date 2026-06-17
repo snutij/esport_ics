@@ -79,4 +79,15 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Summer 2026 - Playoffs
 SUMMARY:Lower bracket quarterfinal 1: NXS vs Noir Verse
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T090000Z
+UID:pandascore-match-1543910@esport-ics
+DTSTART:20260618T090000Z
+DTEND:20260618T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 1: FOKUS vs Noir Verse
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
 END:VCALENDAR

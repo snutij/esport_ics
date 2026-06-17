@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 27 2026 - Playoffs\nWatch: https://kick.c
  om/exort_en2
 SUMMARY:Semifinal 2: SHISHKA vs Lavked
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T120000Z
+UID:pandascore-match-1543914@esport-ics
+DTSTART:20260619T120000Z
+DTEND:20260619T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 5: K27 vs SHISHKA
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

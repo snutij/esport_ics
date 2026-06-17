@@ -809,6 +809,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 3 2026 - Playoffs\nWatch: https://kick.com/
  cct_cs
 SUMMARY:Quarterfinal 2: PHA vs 100T
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T120000Z
+UID:pandascore-match-1543912@esport-ics
+DTSTART:20260618T120000Z
+DTEND:20260618T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 3: JJH vs PHA
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

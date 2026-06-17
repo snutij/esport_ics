@@ -444,6 +444,17 @@ CLASS:PUBLIC
 DESCRIPTION:BC Game Masters Championship - Season 2 2026 - Playoffs\nWatch:
   https://www.twitch.tv/bcgamemasters
 SUMMARY:Lower bracket final: FOKUS vs ICE
-URL;VALUE=URI:https://www.twitch.tv/bcgamemasters
+URL:https://www.twitch.tv/bcgamemasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T173000Z
+UID:pandascore-match-1543916@esport-ics
+DTSTART:20260618T173000Z
+DTEND:20260618T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 7: ICE vs TS.A
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
