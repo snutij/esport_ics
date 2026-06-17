@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 2 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 3: MW vs ATRIX
-URL;VALUE=URI:https://www.twitch.tv/dust2br
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260623T223000Z
+UID:pandascore-match-1544942@esport-ics
+DTSTART:20260623T223000Z
+DTEND:20260624T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Rainhas do Clutch FERJEE - 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/ferjeeoficial
+SUMMARY:Semifinal 1: ATRIX vs SHIM
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR

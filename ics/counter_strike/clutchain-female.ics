@@ -192,4 +192,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:PeePuP vs CC.FE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T223000Z
+UID:pandascore-match-1544943@esport-ics
+DTSTART:20260625T223000Z
+DTEND:20260626T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Rainhas do Clutch FERJEE - 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/ferjeeoficial
+SUMMARY:Semifinal 2: CC.FE vs MIBR.F
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
+END:VEVENT
 END:VCALENDAR

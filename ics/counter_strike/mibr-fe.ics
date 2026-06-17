@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 3 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 3: MIBR.F vs GE
-URL;VALUE=URI:https://www.twitch.tv/dust2br
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T223000Z
+UID:pandascore-match-1544943@esport-ics
+DTSTART:20260625T223000Z
+DTEND:20260626T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Rainhas do Clutch FERJEE - 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/ferjeeoficial
+SUMMARY:Semifinal 2: CC.FE vs MIBR.F
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR
