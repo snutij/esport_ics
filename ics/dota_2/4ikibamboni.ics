@@ -90,6 +90,17 @@ DESCRIPTION:European Pro League - Season 38 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 2: VP.P vs 4iki
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260619T150000Z
+UID:pandascore-match-1545469@esport-ics
+DTSTART:20260619T150000Z
+DTEND:20260619T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Upper bracket semifinal match 1: 4iki vs TBD
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260622T170000Z
 UID:pandascore-match-1540309@esport-ics
 DTSTART:20260622T170000Z

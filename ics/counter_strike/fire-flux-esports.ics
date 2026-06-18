@@ -493,17 +493,6 @@ SUMMARY:Upper bracket semifinal 1: MISA vs FF
 URL:https://www.twitch.tv/TESFED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260619T160000Z
-UID:pandascore-match-1527912@esport-ics
-DTSTART:20260619T160000Z
-DTEND:20260619T181500Z
-CLASS:PUBLIC
-DESCRIPTION:TESFED League - Season 3 2026 - Playoffs\nWatch: https://www.tw
- itch.tv/TESFED
-SUMMARY:Lower bracket quarterfinal 1: FF vs FUT.T
-URL;VALUE=URI:https://www.twitch.tv/TESFED
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260619T173000Z
 UID:pandascore-match-1542826@esport-ics
 DTSTART:20260619T173000Z
@@ -522,5 +511,16 @@ DESCRIPTION:TESFED League - Season 3 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/TESFED
 SUMMARY:Lower bracket quarterfinal 2: FF vs BW
 URL:https://www.twitch.tv/TESFED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T160000Z
+UID:pandascore-match-1527912@esport-ics
+DTSTART:20260627T160000Z
+DTEND:20260627T181500Z
+CLASS:PUBLIC
+DESCRIPTION:TESFED League - Season 3 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/TESFED
+SUMMARY:Lower bracket quarterfinal 1: FF vs FUT.T
+URL;VALUE=URI:https://www.twitch.tv/TESFED
 END:VEVENT
 END:VCALENDAR
