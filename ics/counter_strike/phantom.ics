@@ -820,6 +820,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 3: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round of 16 match 3: JJH vs PHA
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T120000Z
+UID:pandascore-match-1543919@esport-ics
+DTSTART:20260620T120000Z
+DTEND:20260620T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Quarterfinal 2: PHA vs TBD
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

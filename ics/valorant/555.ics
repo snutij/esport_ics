@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Southeast Asia: Split 2 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/valorant_pacific
 SUMMARY:Lower bracket quarterfinal 2: 555 vs OAS
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T100000Z
+UID:pandascore-match-1524771@esport-ics
+DTSTART:20260703T100000Z
+DTEND:20260703T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Southeast Asia: Split 2 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/valorant_pacific
+SUMMARY:Lower bracket semifinal: FCY vs 555
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR

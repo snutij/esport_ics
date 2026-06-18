@@ -398,6 +398,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/wardiii
 SUMMARY:Upper bracket round 1 match 3: herO vs ByuN
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T130000Z
+UID:pandascore-match-1544621@esport-ics
+DTSTART:20260619T130000Z
+DTEND:20260619T164500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/wardiii
+SUMMARY:Upper bracket quarterfinal 2: herO vs Zoun
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR
