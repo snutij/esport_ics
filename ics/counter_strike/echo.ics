@@ -17,6 +17,17 @@ SUMMARY:Round of 16 match 8: ECHO vs KOL
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260620T173000Z
+UID:pandascore-match-1543921@esport-ics
+DTSTART:20260620T173000Z
+DTEND:20260620T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Quarterfinal 4: ECHO vs TBD
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260623T120000Z
 UID:pandascore-match-1545464@esport-ics
 DTSTART:20260623T120000Z

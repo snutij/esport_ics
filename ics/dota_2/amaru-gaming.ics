@@ -165,6 +165,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - South America Closed Qualifier 2026 - Playo
  ffs\nWatch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Lower bracket quarterfinal 2: Amaru Gaming vs EB
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T230000Z
+UID:pandascore-match-1540295@esport-ics
+DTSTART:20260618T230000Z
+DTEND:20260619T011500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - South America Closed Qualifier 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/pgl_dota2
+SUMMARY:Lower bracket semifinal: Amaru Gaming vs TBD
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR
