@@ -381,7 +381,9 @@ UID:pandascore-match-1544940@esport-ics
 DTSTART:20260618T120000Z
 DTEND:20260618T141500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 38 2026 - Playoffs
+DESCRIPTION:European Pro League - Season 38 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en1
 SUMMARY:Upper bracket quarterfinal 3: SB vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

@@ -281,6 +281,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
  offs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Semifinal 1: TDK vs OG
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260623T150000Z
+UID:pandascore-match-1545463@esport-ics
+DTSTART:20260623T150000Z
+DTEND:20260623T171500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Group B\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:Upper bracket quarterfinal 1: FOKUS vs OG
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR

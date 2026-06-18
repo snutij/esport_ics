@@ -496,6 +496,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 9 2026 - Playoffs\nWatch: https:/
  /kick.com/nodwin_cs2
 SUMMARY:Round of 16 match 6: 100T vs BCA
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260623T120000Z
+UID:pandascore-match-1545464@esport-ics
+DTSTART:20260623T120000Z
+DTEND:20260623T141500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Group B\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:Upper bracket quarterfinal 2: ECHO vs BCA
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
