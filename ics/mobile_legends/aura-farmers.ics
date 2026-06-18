@@ -305,6 +305,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
  tch: https://www.youtube.com/watch?v=4_RRwxDEwKs
 SUMMARY:Upper bracket quarterfinal 2: Omnix vs AF
-URL;VALUE=URI:https://www.youtube.com/watch?v=4_RRwxDEwKs
+URL:https://www.youtube.com/watch?v=4_RRwxDEwKs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260618T160000Z
+UID:pandascore-match-1545455@esport-ics
+DTSTART:20260618T160000Z
+DTEND:20260618T194500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
+ tch: https://www.youtube.com/@BetBoomEsports/live
+SUMMARY:Lower bracket quarterfinals match 2: AF vs CH
+URL;VALUE=URI:https://www.youtube.com/@BetBoomEsports/live
 END:VEVENT
 END:VCALENDAR
