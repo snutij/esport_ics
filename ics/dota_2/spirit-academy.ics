@@ -387,14 +387,14 @@ SUMMARY:Upper bracket quarterfinal 3: SB vs TS.A
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260619T120000Z
+DTSTAMP:20260619T090000Z
 UID:pandascore-match-1545467@esport-ics
-DTSTART:20260619T120000Z
-DTEND:20260619T141500Z
+DTSTART:20260619T090000Z
+DTEND:20260619T111500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 38 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
-SUMMARY:Lower bracket round 1 match 2: TS.A vs TBD
+SUMMARY:Lower bracket round 1 match 2: TS.A vs Hive
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

@@ -320,6 +320,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
  tch: https://www.youtube.com/watch?v=qTfe5iHQgdQ
 SUMMARY:Lower bracket quarterfinals match 2: AF vs CH
-URL;VALUE=URI:https://www.youtube.com/watch?v=qTfe5iHQgdQ
+URL:https://www.youtube.com/watch?v=qTfe5iHQgdQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T130000Z
+UID:pandascore-match-1545456@esport-ics
+DTSTART:20260619T130000Z
+DTEND:20260619T164500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
+ tch: https://www.youtube.com/@BetBoomEsports/live
+SUMMARY:Lower bracket semifinal: FORZE Esports vs CH
+URL;VALUE=URI:https://www.youtube.com/@BetBoomEsports/live
 END:VEVENT
 END:VCALENDAR
