@@ -501,6 +501,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X Base Recife - 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/circuitxofficial
 SUMMARY:Quarterfinal 1: LDP vs GH
-URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T220000Z
+UID:pandascore-match-1547973@esport-ics
+DTSTART:20260624T220000Z
+DTEND:20260625T001500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - South American Series #1 2026 
+ - Group B\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:UNO vs GH
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

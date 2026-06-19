@@ -453,6 +453,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 2 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 4: GE vs VSC
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T130000Z
+UID:pandascore-match-1547967@esport-ics
+DTSTART:20260624T130000Z
+DTEND:20260624T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - South American Series #1 2026 
+ - Group A\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:LDP vs VSC
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

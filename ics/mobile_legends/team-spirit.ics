@@ -320,6 +320,15 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Continental Championships - Season 7 2026 - Playoffs\nWatc
  h: https://www.twitch.tv/mlbb_cis
 SUMMARY:Grand final: TS vs Verso Time
-URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
+URL:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T120000Z
+UID:pandascore-match-1547960@esport-ics
+DTSTART:20260621T120000Z
+DTEND:20260621T154500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 1: TS vs FORZE Esports
 END:VEVENT
 END:VCALENDAR

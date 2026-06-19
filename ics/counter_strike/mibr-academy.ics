@@ -619,4 +619,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - June 2026 - Group C
 SUMMARY:Elimination match: MIBR.A vs MW
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T160000Z
+UID:pandascore-match-1547968@esport-ics
+DTSTART:20260624T160000Z
+DTEND:20260624T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - South American Series #1 2026 
+ - Group A\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:ISG vs MIBR.A
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR
