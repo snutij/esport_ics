@@ -151,6 +151,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Brazil: Stage 2 2026 - Group B\nWatch: https://www.twitch
  .tv/gamersclubvalorant
 SUMMARY:ELE vs TL
+URL:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260623T200000Z
+UID:pandascore-match-1488942@esport-ics
+DTSTART:20260623T200000Z
+DTEND:20260623T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Play-In\nWatch: https://www.twitch
+ .tv/gamersclubvalorant
+SUMMARY:Upper brackek quarterfinal 1: ELE vs F4T
 URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
 END:VEVENT
 END:VCALENDAR

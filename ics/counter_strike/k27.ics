@@ -586,7 +586,7 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 3: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round of 16 match 5: K27 vs SHISHKA
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260619T170000Z
@@ -598,6 +598,17 @@ DESCRIPTION:CCT Europe - Series #4 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs2
 SUMMARY:Round of 16 match 8: K27 vs VP
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T150000Z
+UID:pandascore-match-1543920@esport-ics
+DTSTART:20260620T150000Z
+DTEND:20260620T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Quarterfinal 3: K27 vs TBD
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260623T180000Z

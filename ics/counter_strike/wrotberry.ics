@@ -45,6 +45,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #4 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs6
 SUMMARY:Lower bracket round 2 match 4: WROTBERRY vs bankaPEPSI
-URL;VALUE=URI:https://kick.com/cct_cs6
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260619T173000Z
+UID:pandascore-match-1542827@esport-ics
+DTSTART:20260619T173000Z
+DTEND:20260619T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - European Finals season 57 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/GoYareGo
+SUMMARY:Quarterfinal 4: ARCH vs WBT
+URL;VALUE=URI:https://www.twitch.tv/GoYareGo
 END:VEVENT
 END:VCALENDAR

@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 3 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/valorant_northamerica
 SUMMARY:NBG vs QoR
+URL:https://www.twitch.tv/valorant_northamerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T200000Z
+UID:pandascore-match-1547540@esport-ics
+DTSTART:20260624T200000Z
+DTEND:20260624T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 3 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/valorant_northamerica
+SUMMARY:Round 5: QoR vs EVI
 URL;VALUE=URI:https://www.twitch.tv/valorant_northamerica
 END:VEVENT
 END:VCALENDAR
