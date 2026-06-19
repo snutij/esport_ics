@@ -69,6 +69,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
  /www.youtube.com/watch?v=ZlDBTwzHOSQ
 SUMMARY:NSP vs S8UL
-URL;VALUE=URI:https://www.youtube.com/watch?v=ZlDBTwzHOSQ
+URL:https://www.youtube.com/watch?v=ZlDBTwzHOSQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T063000Z
+UID:pandascore-match-1547977@esport-ics
+DTSTART:20260626T063000Z
+DTEND:20260626T084500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Playoffs
+SUMMARY:Upper bracket semifinals match 1: S8UL vs NSP
 END:VEVENT
 END:VCALENDAR
