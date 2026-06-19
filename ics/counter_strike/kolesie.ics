@@ -749,6 +749,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Quarterfinal 3: SASHI vs KOL
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T103000Z
+UID:pandascore-match-1504781@esport-ics
+DTSTART:20260620T103000Z
+DTEND:20260620T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Semifinal 2: KOL vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

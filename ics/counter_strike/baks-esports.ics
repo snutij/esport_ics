@@ -135,7 +135,9 @@ UID:pandascore-match-1542825@esport-ics
 DTSTART:20260619T173000Z
 DTEND:20260619T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - European Finals season 57 2026 - Playoffs
+DESCRIPTION:ESEA - European Finals season 57 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/baks_esports
 SUMMARY:Quarterfinal 2: RT vs BAKS
+URL;VALUE=URI:https://www.twitch.tv/baks_esports
 END:VEVENT
 END:VCALENDAR
