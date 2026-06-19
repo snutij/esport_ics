@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
  s://www.youtube.com/watch?v=leRrhaG_cBA
 SUMMARY:Round 1: BUE vs ONE
-URL;VALUE=URI:https://www.youtube.com/watch?v=leRrhaG_cBA
+URL:https://www.youtube.com/watch?v=leRrhaG_cBA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T120000Z
+UID:pandascore-match-1547955@esport-ics
+DTSTART:20260620T120000Z
+DTEND:20260620T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
+ s://www.twitch.tv/arenaofvalor
+SUMMARY:Round 2: ONE vs KOG
+URL;VALUE=URI:https://www.twitch.tv/arenaofvalor
 END:VEVENT
 END:VCALENDAR
