@@ -347,6 +347,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Cologne Major 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ESLCS
 SUMMARY:Semifinal 1: TS vs FAL
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T150000Z
+UID:pandascore-match-1513171@esport-ics
+DTSTART:20260621T150000Z
+DTEND:20260621T184500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Cologne Major 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ESLCS
+SUMMARY:Grand final: FURIA vs FAL
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
