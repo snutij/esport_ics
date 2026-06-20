@@ -398,6 +398,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/wardiii
 SUMMARY:Upper bracket semifinal 1: Cure vs Classic
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T130000Z
+UID:pandascore-match-1544626@esport-ics
+DTSTART:20260621T130000Z
+DTEND:20260621T164500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Spring 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/wardiii
+SUMMARY:Lower bracket final: Cure vs TBD
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

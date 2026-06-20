@@ -596,6 +596,17 @@ SUMMARY:Upper bracket final: 4iki vs PR
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260622T120000Z
+UID:pandascore-match-1545477@esport-ics
+DTSTART:20260622T120000Z
+DTEND:20260622T154500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 38 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Grand final: PR vs TBD
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260622T140000Z
 UID:pandascore-match-1540308@esport-ics
 DTSTART:20260622T140000Z

@@ -559,6 +559,17 @@ SUMMARY:Quarterfinal 1: FOKUS vs CS
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260621T100000Z
+UID:pandascore-match-1543922@esport-ics
+DTSTART:20260621T100000Z
+DTEND:20260621T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Semifinal 1: FOKUS vs TBD
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260623T150000Z
 UID:pandascore-match-1545463@esport-ics
 DTSTART:20260623T150000Z

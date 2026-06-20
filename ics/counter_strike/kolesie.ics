@@ -760,6 +760,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Semifinal 2: KOL vs INOX
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T080000Z
+UID:pandascore-match-1504783@esport-ics
+DTSTART:20260622T080000Z
+DTEND:20260622T114500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 7 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Grand final: WAL vs KOL
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
