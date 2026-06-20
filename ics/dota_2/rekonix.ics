@@ -384,6 +384,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - Southeast Asia Closed Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Upper bracket quarterfinal 2: RNX vs Grind
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T080000Z
+UID:pandascore-match-1540334@esport-ics
+DTSTART:20260621T080000Z
+DTEND:20260621T101500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Southeast Asia Closed Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/pgl_dota2
+SUMMARY:Upper bracket semifinal 1: XctN vs RNX
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR
