@@ -28,6 +28,17 @@ SUMMARY:Quarterfinal 4: ECHO vs ICE
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260621T123000Z
+UID:pandascore-match-1543923@esport-ics
+DTSTART:20260621T123000Z
+DTEND:20260621T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Semifinal 2: ECHO vs TBD
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260623T120000Z
 UID:pandascore-match-1545464@esport-ics
 DTSTART:20260623T120000Z
