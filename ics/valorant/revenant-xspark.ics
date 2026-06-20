@@ -179,6 +179,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - South Asia: Split 2 2026 - Regular Season\nWatch: https:/
  /www.youtube.com/@NODWINgaming/live
 SUMMARY:RXS vs S8UL
-URL;VALUE=URI:https://www.youtube.com/@NODWINgaming/live
+URL:https://www.youtube.com/@NODWINgaming/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T093000Z
+UID:pandascore-match-1547978@esport-ics
+DTSTART:20260626T093000Z
+DTEND:20260626T114500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - South Asia: Split 2 2026 - Playoffs
+SUMMARY:Upper bracket semifinals match 2: RXS vs AST
 END:VEVENT
 END:VCALENDAR
