@@ -351,4 +351,15 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 1: TS vs FORZE Esports
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260621T163000Z
+UID:pandascore-match-1547963@esport-ics
+DTSTART:20260621T163000Z
+DTEND:20260621T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Playoffs\nWatch: htt
+ ps://www.youtube.com/watch?v=JknUl-NiOUM
+SUMMARY:Lower bracket semifinal: FORZE Esports vs TBD
+URL;VALUE=URI:https://www.youtube.com/watch?v=JknUl-NiOUM
+END:VEVENT
 END:VCALENDAR

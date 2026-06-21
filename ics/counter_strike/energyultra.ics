@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Svenska CS-Ligan - 2026 - Group A\nWatch: https://www.twitch.tv
  /fragbite
 SUMMARY:LILMIX vs EULTRA
+URL:https://www.twitch.tv/fragbite
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T183000Z
+UID:pandascore-match-1545960@esport-ics
+DTSTART:20260622T183000Z
+DTEND:20260622T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Svenska CS-Ligan - 2026 - Group A\nWatch: https://www.twitch.tv
+ /fragbite
+SUMMARY:Decider match: EULTRA vs TBD
 URL;VALUE=URI:https://www.twitch.tv/fragbite
 END:VEVENT
 END:VCALENDAR
