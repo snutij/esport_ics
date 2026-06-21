@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 51 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Winners match: INF vs ADN
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T080000Z
+UID:pandascore-match-1540272@esport-ics
+DTSTART:20260624T080000Z
+DTEND:20260624T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 51 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider match: ADN vs Alpha Gaming
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

@@ -174,6 +174,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - Southeast Asia Closed Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Lower bracket round 2 match 2: IAC vs Mentality Monster
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T020000Z
+UID:pandascore-match-1540341@esport-ics
+DTSTART:20260622T020000Z
+DTEND:20260622T041500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Southeast Asia Closed Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/pgl_dota2
+SUMMARY:Lower bracket quarterfinal 2: XctN vs Mentality Monster
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

@@ -299,6 +299,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Astana 2026 - Group Stage\nWatch: https://www.twitch.tv/P
  GL
 SUMMARY:Round 4: MNTE vs THE
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T060000Z
+UID:pandascore-match-1550172@esport-ics
+DTSTART:20260625T060000Z
+DTEND:20260625T081500Z
+CLASS:PUBLIC
+DESCRIPTION:LG UltraGear Tournament - 2026 - Group A\nWatch: https://www.tw
+ itch.tv/myskill_top
+SUMMARY:THE vs GAMEPOINT
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
 END:VEVENT
 END:VCALENDAR

@@ -182,6 +182,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #1 2026 - Play
  offs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Quarterfinal 2: Just Players vs OG
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T110000Z
+UID:pandascore-match-1550146@esport-ics
+DTSTART:20260627T110000Z
+DTEND:20260627T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Upper bracket round 1 match 5: Just Players vs OBSB
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

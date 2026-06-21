@@ -360,6 +360,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 4 2026 - Group A\nWatch: https://
  www.twitch.tv/mpkbk
 SUMMARY:Elimination match: NVQ vs JUMBO
-URL;VALUE=URI:https://www.twitch.tv/mpkbk
+URL:https://www.twitch.tv/mpkbk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T060000Z
+UID:pandascore-match-1550173@esport-ics
+DTSTART:20260625T060000Z
+DTEND:20260625T081500Z
+CLASS:PUBLIC
+DESCRIPTION:LG UltraGear Tournament - 2026 - Group A\nWatch: https://www.tw
+ itch.tv/myskill_top
+SUMMARY:NVQ vs RE
+URL;VALUE=URI:https://www.twitch.tv/myskill_top
 END:VEVENT
 END:VCALENDAR

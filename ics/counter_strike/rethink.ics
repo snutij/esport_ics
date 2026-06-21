@@ -626,6 +626,17 @@ CLASS:PUBLIC
 DESCRIPTION:Svenska CS-Ligan - 2026 - Group A\nWatch: https://www.twitch.tv
  /fragbite
 SUMMARY:RT vs roamsfiest
+URL:https://www.twitch.tv/fragbite
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T160000Z
+UID:pandascore-match-1545959@esport-ics
+DTSTART:20260622T160000Z
+DTEND:20260622T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Svenska CS-Ligan - 2026 - Group A\nWatch: https://www.twitch.tv
+ /fragbite
+SUMMARY:Elimination match: LILMIX vs RT
 URL;VALUE=URI:https://www.twitch.tv/fragbite
 END:VEVENT
 END:VCALENDAR

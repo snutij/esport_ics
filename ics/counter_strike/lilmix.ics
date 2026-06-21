@@ -713,6 +713,28 @@ CLASS:PUBLIC
 DESCRIPTION:Svenska CS-Ligan - 2026 - Group A\nWatch: https://www.twitch.tv
  /fragbite
 SUMMARY:LILMIX vs EULTRA
+URL:https://www.twitch.tv/fragbite
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T160000Z
+UID:pandascore-match-1545959@esport-ics
+DTSTART:20260622T160000Z
+DTEND:20260622T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Svenska CS-Ligan - 2026 - Group A\nWatch: https://www.twitch.tv
+ /fragbite
+SUMMARY:Elimination match: LILMIX vs RT
 URL;VALUE=URI:https://www.twitch.tv/fragbite
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T134500Z
+UID:pandascore-match-1550148@esport-ics
+DTSTART:20260628T134500Z
+DTEND:20260628T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Upper bracket round 1 match 7: LILMIX vs Subtop De France
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
