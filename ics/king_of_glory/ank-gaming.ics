@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
  s://www.youtube.com/watch?v=2J6eyOVJPSY
 SUMMARY:Round 2: TF vs ANK Gaming
-URL;VALUE=URI:https://www.youtube.com/watch?v=2J6eyOVJPSY
+URL:https://www.youtube.com/watch?v=2J6eyOVJPSY
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T090000Z
+UID:pandascore-match-1551081@esport-ics
+DTSTART:20260624T090000Z
+DTEND:20260624T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
+ s://www.twitch.tv/arenaofvalor
+SUMMARY:Round 3: FS vs ANK Gaming
+URL;VALUE=URI:https://www.twitch.tv/arenaofvalor
 END:VEVENT
 END:VCALENDAR
