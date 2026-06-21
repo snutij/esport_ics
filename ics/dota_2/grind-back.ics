@@ -188,6 +188,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - Southeast Asia Closed Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Lower bracket round 2 match 1: Grind vs CARST
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260622T050000Z
+UID:pandascore-match-1540340@esport-ics
+DTSTART:20260622T050000Z
+DTEND:20260622T071500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Southeast Asia Closed Qualifier 2026 - Play
+ offs\nWatch: https://www.twitch.tv/pgl_dota2
+SUMMARY:Lower bracket quarterfinal 1: Grind vs TBD
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR
