@@ -149,15 +149,13 @@ SUMMARY:KRÜ Spark vs BST
 URL:https://www.youtube.com/watch?v=xasajIaYbzw
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260623T190000Z
+DTSTAMP:20260622T220000Z
 UID:pandascore-match-1497580@esport-ics
-DTSTART:20260623T190000Z
-DTEND:20260623T211500Z
+DTSTART:20260622T220000Z
+DTEND:20260623T001500Z
 CLASS:PUBLIC
-DESCRIPTION:VCL - Latin America South: Stage 2 2026 - Regular Season\nWatch
- : https://www.twitch.tv/valorant_la
+DESCRIPTION:VCL - Latin America South: Stage 2 2026 - Regular Season
 SUMMARY:KRÜ Spark vs ShindeN
-URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260624T220000Z
