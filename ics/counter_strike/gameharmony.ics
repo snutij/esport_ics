@@ -36,6 +36,39 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #3 2026 - Group A\nWatch: https://www.twitch.
  tv/kleverrgg
 SUMMARY:FOKUS REALITY vs GHY
-URL;VALUE=URI:https://www.twitch.tv/kleverrgg
+URL:https://www.twitch.tv/kleverrgg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T110000Z
+UID:pandascore-match-1551597@esport-ics
+DTSTART:20260628T110000Z
+DTEND:20260628T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:GHY vs ex-CLS
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T120000Z
+UID:pandascore-match-1551599@esport-ics
+DTSTART:20260628T120000Z
+DTEND:20260628T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:GHY vs Aimhaus
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T130000Z
+UID:pandascore-match-1551601@esport-ics
+DTSTART:20260628T130000Z
+DTEND:20260628T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:GHY vs Leo
+URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR

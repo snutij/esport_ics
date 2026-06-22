@@ -688,6 +688,39 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #4 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs2
 SUMMARY:Round of 16 match 4: 100T vs Leo
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T110000Z
+UID:pandascore-match-1551598@esport-ics
+DTSTART:20260628T110000Z
+DTEND:20260628T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:Leo vs Aimhaus
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T120000Z
+UID:pandascore-match-1551600@esport-ics
+DTSTART:20260628T120000Z
+DTEND:20260628T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:Leo vs ex-CLS
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T130000Z
+UID:pandascore-match-1551601@esport-ics
+DTSTART:20260628T130000Z
+DTEND:20260628T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:GHY vs Leo
+URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR

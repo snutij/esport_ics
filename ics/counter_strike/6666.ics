@@ -81,4 +81,37 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Summer 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 3: 6666 vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T153000Z
+UID:pandascore-match-1551585@esport-ics
+DTSTART:20260628T153000Z
+DTEND:20260628T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Group A\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:6666 vs ASTR
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T163000Z
+UID:pandascore-match-1551586@esport-ics
+DTSTART:20260628T163000Z
+DTEND:20260628T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Group A\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:6666 vs SINQU Rehti
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T173000Z
+UID:pandascore-match-1551588@esport-ics
+DTSTART:20260628T173000Z
+DTEND:20260628T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Group A\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:6666 vs BERG
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
 END:VCALENDAR

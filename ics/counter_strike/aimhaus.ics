@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aimhaus
+SLUG:aimhaus
+BEGIN:VEVENT
+DTSTAMP:20260628T110000Z
+UID:pandascore-match-1551598@esport-ics
+DTSTART:20260628T110000Z
+DTEND:20260628T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:Leo vs Aimhaus
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T120000Z
+UID:pandascore-match-1551599@esport-ics
+DTSTART:20260628T120000Z
+DTEND:20260628T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:GHY vs Aimhaus
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T130000Z
+UID:pandascore-match-1551602@esport-ics
+DTSTART:20260628T130000Z
+DTEND:20260628T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:Aimhaus vs ex-CLS
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+END:VCALENDAR

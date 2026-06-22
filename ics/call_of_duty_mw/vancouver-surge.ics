@@ -300,6 +300,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
  \nWatch: https://www.twitch.tv/CallofDuty
 SUMMARY:VAN vs MH
+URL:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T150000Z
+UID:pandascore-match-1551720@esport-ics
+DTSTART:20260626T150000Z
+DTEND:20260626T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/CallofDuty
+SUMMARY:Lower bracket round 1 match 4: TBD vs VAN
 URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 END:VCALENDAR

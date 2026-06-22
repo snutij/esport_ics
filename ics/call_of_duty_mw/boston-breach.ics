@@ -289,6 +289,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 4 Major Qualifiers 2026 - Qualifier
  \nWatch: https://www.youtube.com/watch?v=HxFOV_2t6lc
 SUMMARY:PAR vs BOS
-URL;VALUE=URI:https://www.youtube.com/watch?v=HxFOV_2t6lc
+URL:https://www.youtube.com/watch?v=HxFOV_2t6lc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T120000Z
+UID:pandascore-match-1551712@esport-ics
+DTSTART:20260626T120000Z
+DTEND:20260626T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/CallofDuty
+SUMMARY:Upper bracket quarterfinal 4: TEX vs BOS
+URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 END:VCALENDAR
