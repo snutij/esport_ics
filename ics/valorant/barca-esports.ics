@@ -234,6 +234,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 3 2026 - Group B\nWatch: https://www.twitch.t
  v/valorant_emea
 SUMMARY:EP vs BAR
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T150000Z
+UID:pandascore-match-1534480@esport-ics
+DTSTART:20260625T150000Z
+DTEND:20260625T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 3 2026 - Group B\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:Elimination match: BAR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

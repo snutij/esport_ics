@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 3 2026 - Group D\nWatch: https://www.youtube.
  com/watch?v=vjpiFhB_1ak
 SUMMARY:RBN vs GLS
-URL;VALUE=URI:https://www.youtube.com/watch?v=vjpiFhB_1ak
+URL:https://www.youtube.com/watch?v=vjpiFhB_1ak
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T173000Z
+UID:pandascore-match-1534518@esport-ics
+DTSTART:20260625T173000Z
+DTEND:20260625T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 3 2026 - Group D\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:Elimination match: GLS vs TBD
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

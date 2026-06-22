@@ -168,7 +168,7 @@ CLASS:PUBLIC
 DESCRIPTION:TESFED League - Season 3 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/TESFED
 SUMMARY:Upper bracket final: MISA vs PCIFIC
-URL;VALUE=URI:https://www.twitch.tv/TESFED
+URL:https://www.twitch.tv/TESFED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260625T060000Z
@@ -180,5 +180,16 @@ DESCRIPTION:LG UltraGear Tournament - 2026 - Group B\nWatch: https://www.tw
  itch.tv/myskill_top
 SUMMARY:DEPO vs PCIFIC
 URL;VALUE=URI:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T160000Z
+UID:pandascore-match-1527909@esport-ics
+DTSTART:20260705T160000Z
+DTEND:20260705T194500Z
+CLASS:PUBLIC
+DESCRIPTION:TESFED League - Season 3 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/TESFED
+SUMMARY:Grand final: PCIFIC vs TBD
+URL;VALUE=URI:https://www.twitch.tv/TESFED
 END:VEVENT
 END:VCALENDAR
