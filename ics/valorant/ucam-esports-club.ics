@@ -331,6 +331,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 3 2026 - Group C\nWatch: https://www.youtube.
  com/watch?v=f6CgY6Ngblk
 SUMMARY:UCAM vs PL
-URL;VALUE=URI:https://www.youtube.com/watch?v=f6CgY6Ngblk
+URL:https://www.youtube.com/watch?v=f6CgY6Ngblk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T173000Z
+UID:pandascore-match-1534484@esport-ics
+DTSTART:20260624T173000Z
+DTEND:20260624T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 3 2026 - Group C\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:Winners' match: UCAM vs TBD
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

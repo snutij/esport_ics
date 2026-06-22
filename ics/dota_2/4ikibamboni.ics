@@ -144,4 +144,15 @@ DESCRIPTION:European Pro League - Season 38 2026 - Playoffs\nWatch: https:/
 SUMMARY:Grand final: PR vs 4iki
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T110000Z
+UID:pandascore-match-1540319@esport-ics
+DTSTART:20260624T110000Z
+DTEND:20260624T131500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Europe Closed Qualifier 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/pgl_dota2
+SUMMARY:Lower bracket round 1 match 4: L1GA vs 4iki
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+END:VEVENT
 END:VCALENDAR
