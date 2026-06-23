@@ -482,6 +482,17 @@ DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Regular Season
 SUMMARY:OBSB vs GE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260624T103000Z
+UID:pandascore-match-1553981@esport-ics
+DTSTART:20260624T103000Z
+DTEND:20260624T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 Closed Qualifier 2026 - Group A\
+ nWatch: https://www.kick.com/eplcs_en
+SUMMARY:OBSB vs Subtop De France
+URL;VALUE=URI:https://www.kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260627T110000Z
 UID:pandascore-match-1550146@esport-ics
 DTSTART:20260627T110000Z

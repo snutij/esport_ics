@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - 7 2026 - Playoffs\nWatch: http
  s://kick.com/challengerchampionship
 SUMMARY:Lower Bracket Semifinal: MSC vs Honvéd
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T080000Z
+UID:pandascore-match-1553980@esport-ics
+DTSTART:20260624T080000Z
+DTEND:20260624T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 Closed Qualifier 2026 - Group A\
+ nWatch: https://www.kick.com/eplcs_en
+SUMMARY:ex-MANA vs Honvéd
+URL;VALUE=URI:https://www.kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

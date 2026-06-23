@@ -94,6 +94,17 @@ SUMMARY:Lower bracket round 2 match 2: JUL vs Hashiras
 URL:https://kick.com/CCT_CS5
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260625T080000Z
+UID:pandascore-match-1553985@esport-ics
+DTSTART:20260625T080000Z
+DTEND:20260625T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 Closed Qualifier 2026 - Group B\
+ nWatch: https://www.kick.com/eplcs_en
+SUMMARY:ENJOY vs JUL
+URL;VALUE=URI:https://www.kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260627T110000Z
 UID:pandascore-match-1550149@esport-ics
 DTSTART:20260627T110000Z
