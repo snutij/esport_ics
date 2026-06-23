@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Svenska CS-Ligan - 2026 - Group B\nWatch: https://www.twitch.tv
  /fragbite
 SUMMARY:JS vs VEN
+URL:https://www.twitch.tv/fragbite
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T160000Z
+UID:pandascore-match-1545964@esport-ics
+DTSTART:20260624T160000Z
+DTEND:20260624T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Svenska CS-Ligan - 2026 - Group B\nWatch: https://www.twitch.tv
+ /fragbite
+SUMMARY:Elimination match: VEN vs TBD
 URL;VALUE=URI:https://www.twitch.tv/fragbite
 END:VEVENT
 END:VCALENDAR
