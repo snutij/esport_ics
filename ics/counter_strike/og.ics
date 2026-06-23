@@ -292,6 +292,17 @@ CLASS:PUBLIC
 DESCRIPTION:Super DraculaN - Season 1 2026 - Group B\nWatch: https://kick.c
  om/draculancs
 SUMMARY:Upper bracket quarterfinal 1: FOKUS vs OG
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260624T150000Z
+UID:pandascore-match-1545547@esport-ics
+DTSTART:20260624T150000Z
+DTEND:20260624T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Super DraculaN - Season 1 2026 - Group B\nWatch: https://kick.c
+ om/draculancs
+SUMMARY:Lower bracket quarterfinal 1: BCA vs OG
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
