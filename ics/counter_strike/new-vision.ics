@@ -297,6 +297,17 @@ SUMMARY:Lower bracket round 4 match 2: NEW VISION vs XI
 URL:https://www.twitch.tv/untalentedkid785
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260626T110000Z
+UID:pandascore-match-1555288@esport-ics
+DTSTART:20260626T110000Z
+DTEND:20260626T131500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #2 2026 - Group C\nWa
+ tch: https://www.twitch.tv/gluck_esports
+SUMMARY:NEW VISION vs lilmix
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260627T110000Z
 UID:pandascore-match-1550149@esport-ics
 DTSTART:20260627T110000Z

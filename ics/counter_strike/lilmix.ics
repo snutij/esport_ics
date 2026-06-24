@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Lilmix
+X-WR-CALNAME:lilmix
 SLUG:lilmix
 BEGIN:VEVENT
 DTSTAMP:20260215T150000Z
@@ -725,6 +725,17 @@ DESCRIPTION:Svenska CS-Ligan - 2026 - Group A\nWatch: https://www.twitch.tv
  /fragbite
 SUMMARY:Elimination match: LILMIX vs RT
 URL:https://www.twitch.tv/fragbite
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T110000Z
+UID:pandascore-match-1555288@esport-ics
+DTSTART:20260626T110000Z
+DTEND:20260626T131500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #2 2026 - Group C\nWa
+ tch: https://www.twitch.tv/gluck_esports
+SUMMARY:NEW VISION vs lilmix
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260628T134500Z

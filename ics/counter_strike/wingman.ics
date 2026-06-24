@@ -184,6 +184,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/x1tten
 SUMMARY:Lower bracket quarterfinal 1: RT vs WING
-URL;VALUE=URI:https://www.twitch.tv/x1tten
+URL:https://www.twitch.tv/x1tten
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T170000Z
+UID:pandascore-match-1555293@esport-ics
+DTSTART:20260626T170000Z
+DTEND:20260626T191500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #2 2026 - Group D\nWa
+ tch: https://www.twitch.tv/gluck_esports
+SUMMARY:CSH.P vs WING
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

@@ -409,6 +409,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - European Finals season 57 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/GoYareGo
 SUMMARY:Grand final: QUA vs FF
-URL;VALUE=URI:https://www.twitch.tv/GoYareGo
+URL:https://www.twitch.tv/GoYareGo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T140000Z
+UID:pandascore-match-1555282@esport-ics
+DTSTART:20260626T140000Z
+DTEND:20260626T161500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #2 2026 - Group B\nWa
+ tch: https://www.twitch.tv/gluck_esports
+SUMMARY:ex-RUBY vs QUA
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

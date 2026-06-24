@@ -529,6 +529,17 @@ CLASS:PUBLIC
 DESCRIPTION:Super DraculaN - Season 1 2026 - Group A\nWatch: https://kick.c
  om/draculancs
 SUMMARY:Upper bracket semifinal 1: SASHI vs ACE
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T120000Z
+UID:pandascore-match-1545502@esport-ics
+DTSTART:20260625T120000Z
+DTEND:20260625T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Super DraculaN - Season 1 2026 - Group A\nWatch: https://kick.c
+ om/draculancs
+SUMMARY:Lower bracket semifinal 2: SASHI vs TBD
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
