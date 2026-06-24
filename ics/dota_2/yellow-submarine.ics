@@ -461,6 +461,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - Europe Closed Qualifier 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Upper bracket quarterfinal 3: YeS vs VP
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T140000Z
+UID:pandascore-match-1540321@esport-ics
+DTSTART:20260626T140000Z
+DTEND:20260626T161500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Europe Closed Qualifier 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/pgl_dota2
+SUMMARY:Lower bracket round 2 match 2: MODUS vs YeS
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR
