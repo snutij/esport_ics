@@ -503,6 +503,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - Europe Closed Qualifier 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Lower bracket round 1 match 3: MOUZ vs ICxI
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T110000Z
+UID:pandascore-match-1540322@esport-ics
+DTSTART:20260626T110000Z
+DTEND:20260626T131500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - Europe Closed Qualifier 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/pgl_dota2
+SUMMARY:Lower bracket round 2 match 3: Na`Vi vs MOUZ
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

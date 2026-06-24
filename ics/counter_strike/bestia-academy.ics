@@ -556,4 +556,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - June 2026 - Group A
 SUMMARY:Winners match: RED.A vs BST.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T220000Z
+UID:pandascore-match-1555097@esport-ics
+DTSTART:20260627T220000Z
+DTEND:20260628T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 3 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs
+SUMMARY:Round 1: PCY vs BST.A
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR
