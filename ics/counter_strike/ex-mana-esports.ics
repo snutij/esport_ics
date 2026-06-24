@@ -94,6 +94,17 @@ SUMMARY:Decider match: ex-MANA vs KSM
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260625T080000Z
+UID:pandascore-match-1555598@esport-ics
+DTSTART:20260625T080000Z
+DTEND:20260625T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 51 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket quarterfinal 1: ESB vs ex-MANA
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260628T103000Z
 UID:pandascore-match-1553982@esport-ics
 DTSTART:20260628T103000Z

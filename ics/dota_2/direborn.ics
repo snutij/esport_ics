@@ -111,6 +111,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - Southeast Asia Closed Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Lower bracket round 1 match 2: Mentality Monster vs DB
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T030000Z
+UID:pandascore-match-1555596@esport-ics
+DTSTART:20260625T030000Z
+DTEND:20260625T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Upper bracket semifinal 1: DB vs Dfam
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR
