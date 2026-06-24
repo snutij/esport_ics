@@ -712,6 +712,17 @@ CLASS:PUBLIC
 DESCRIPTION:Svenska CS-Ligan - 2026 - Group B\nWatch: https://www.twitch.tv
  /fragbite
 SUMMARY:Winners match: JS vs TBD
+URL:https://www.twitch.tv/fragbite
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T160000Z
+UID:pandascore-match-1545967@esport-ics
+DTSTART:20260626T160000Z
+DTEND:20260626T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Svenska CS-Ligan - 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/fragbite
+SUMMARY:Upper bracket semifinal 2: JS vs RT
 URL;VALUE=URI:https://www.twitch.tv/fragbite
 END:VEVENT
 END:VCALENDAR

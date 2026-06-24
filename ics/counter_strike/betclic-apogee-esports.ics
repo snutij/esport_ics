@@ -518,6 +518,17 @@ CLASS:PUBLIC
 DESCRIPTION:Super DraculaN - Season 1 2026 - Group B\nWatch: https://kick.c
  om/draculancs
 SUMMARY:Lower bracket quarterfinal 1: BCA vs OG
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T120000Z
+UID:pandascore-match-1545549@esport-ics
+DTSTART:20260625T120000Z
+DTEND:20260625T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Super DraculaN - Season 1 2026 - Group B\nWatch: https://kick.c
+ om/draculancs
+SUMMARY:Lower bracket semifinal 1: EAC vs BCA
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
