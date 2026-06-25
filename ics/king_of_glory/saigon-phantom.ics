@@ -278,6 +278,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
  s://www.youtube.com/watch?v=dEidmPA9Deg
 SUMMARY:Round 3: FW vs SP
-URL;VALUE=URI:https://www.youtube.com/watch?v=dEidmPA9Deg
+URL:https://www.youtube.com/watch?v=dEidmPA9Deg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T060000Z
+UID:pandascore-match-1557145@esport-ics
+DTSTART:20260626T060000Z
+DTEND:20260626T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
+ s://www.twitch.tv/arenaofvalor
+SUMMARY:Round 4: SP vs TF
+URL;VALUE=URI:https://www.twitch.tv/arenaofvalor
 END:VEVENT
 END:VCALENDAR

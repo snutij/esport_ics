@@ -490,7 +490,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 Closed Qualifier 2026 - Group A\
  nWatch: https://www.kick.com/eplcs_en
 SUMMARY:OBSB vs Subtop De France
-URL;VALUE=URI:https://www.kick.com/eplcs_en
+URL:https://www.kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260627T110000Z
@@ -502,5 +502,16 @@ DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:Upper bracket round 1 match 5: Just Players vs OBSB
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T080000Z
+UID:pandascore-match-1553983@esport-ics
+DTSTART:20260628T080000Z
+DTEND:20260628T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 Closed Qualifier 2026 - Group A\
+ nWatch: https://www.kick.com/eplcs_en
+SUMMARY:Elimination match: Honvéd vs OBSB
+URL;VALUE=URI:https://www.kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

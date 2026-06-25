@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
  s://www.youtube.com/watch?v=dEidmPA9Deg
 SUMMARY:Round 3: BUE vs FPL
-URL;VALUE=URI:https://www.youtube.com/watch?v=dEidmPA9Deg
+URL:https://www.youtube.com/watch?v=dEidmPA9Deg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T090000Z
+UID:pandascore-match-1557146@esport-ics
+DTSTART:20260626T090000Z
+DTEND:20260626T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
+ s://www.twitch.tv/arenaofvalor
+SUMMARY:Round 4: BUE vs ONE
+URL;VALUE=URI:https://www.twitch.tv/arenaofvalor
 END:VEVENT
 END:VCALENDAR
