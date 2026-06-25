@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:LiuLi Cup - Grand Finals 2025 - Group C\nWatch: https://live.bi
  libili.com/4670738
 SUMMARY:Elimination match: Scarlett vs herO
-URL;VALUE=URI:https://live.bilibili.com/4670738
+URL:https://live.bilibili.com/4670738
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T093000Z
+UID:pandascore-match-1556168@esport-ics
+DTSTART:20260626T093000Z
+DTEND:20260626T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Douyu Cup - 2026 - Group C\nWatch: https://www.douyu.com/3484?d
+ yshid=0-
+SUMMARY:Scarlett vs Kelazhur
+URL;VALUE=URI:https://www.douyu.com/3484?dyshid=0-
 END:VEVENT
 END:VCALENDAR
