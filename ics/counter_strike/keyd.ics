@@ -768,6 +768,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - South American Series #1 2026 
  - Group B\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Winners match: Keyd vs UNO
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T210000Z
+UID:pandascore-match-1547976@esport-ics
+DTSTART:20260626T210000Z
+DTEND:20260626T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - South American Series #1 2026 
+ - Group B\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Decider match: Keyd vs TBD
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

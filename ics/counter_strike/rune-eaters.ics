@@ -766,6 +766,17 @@ CLASS:PUBLIC
 DESCRIPTION:LG UltraGear Tournament - 2026 - Group A\nWatch: https://www.tw
  itch.tv/myskill_top
 SUMMARY:Decider match: RE vs NVQ
+URL:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T090000Z
+UID:pandascore-match-1550183@esport-ics
+DTSTART:20260626T090000Z
+DTEND:20260626T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LG UltraGear Tournament - 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/myskill_top
+SUMMARY:Semifinal 2: PCF vs RE
 URL;VALUE=URI:https://www.twitch.tv/myskill_top
 END:VEVENT
 END:VCALENDAR
