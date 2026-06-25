@@ -165,6 +165,17 @@ CLASS:PUBLIC
 DESCRIPTION:LG UltraGear Tournament - 2026 - Group B\nWatch: https://www.tw
  itch.tv/myskill_top
 SUMMARY:DEPO vs PCIFIC
+URL:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260625T120000Z
+UID:pandascore-match-1550181@esport-ics
+DTSTART:20260625T120000Z
+DTEND:20260625T141500Z
+CLASS:PUBLIC
+DESCRIPTION:LG UltraGear Tournament - 2026 - Group B\nWatch: https://www.tw
+ itch.tv/myskill_top
+SUMMARY:Decider match: DEPO vs TBD
 URL;VALUE=URI:https://www.twitch.tv/myskill_top
 END:VEVENT
 END:VCALENDAR

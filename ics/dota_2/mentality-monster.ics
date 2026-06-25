@@ -196,6 +196,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Playoffs\nWa
  tch: https://kick.com/epldota_en1
 SUMMARY:Upper bracket semifinal 2: CARST vs Mentality Monster
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T030000Z
+UID:pandascore-match-1556222@esport-ics
+DTSTART:20260626T030000Z
+DTEND:20260626T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Lower bracket quarterfinal 2: Mentality Monster vs IVO
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR
