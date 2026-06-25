@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/ow_esports_jp
 SUMMARY:MG vs EF.36
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T090000Z
+UID:pandascore-match-1525409@esport-ics
+DTSTART:20260629T090000Z
+DTEND:20260629T120000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ow_esports_jp
+SUMMARY:Semifinal 1: EF.36 vs MG
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR
