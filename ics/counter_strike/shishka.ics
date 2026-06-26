@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #2 2026 - Group A\nWa
  tch: https://www.twitch.tv/gluck_esports
 SUMMARY:Just Players vs SHISHKA
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T110000Z
+UID:pandascore-match-1555280@esport-ics
+DTSTART:20260627T110000Z
+DTEND:20260627T131500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #2 2026 - Group A\nWa
+ tch: https://www.twitch.tv/gluck_esports
+SUMMARY:Elimination match: OMG vs SHISHKA
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR
