@@ -239,7 +239,7 @@ CLASS:PUBLIC
 DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
  e.com/eragonuk
 SUMMARY:DNS vs C9
-URL;VALUE=URI:https://www.sooplive.com/eragonuk
+URL:https://www.sooplive.com/eragonuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260626T120000Z
@@ -247,10 +247,10 @@ UID:pandascore-match-1557802@esport-ics
 DTSTART:20260626T120000Z
 DTEND:20260626T124500Z
 CLASS:PUBLIC
-DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
- e.com/eragonuk
+DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://play.soopli
+ ve.com/eragonuk/295118147
 SUMMARY:KRX vs C9
-URL;VALUE=URI:https://www.sooplive.com/eragonuk
+URL;VALUE=URI:https://play.sooplive.com/eragonuk/295118147
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260627T120000Z
