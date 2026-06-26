@@ -297,6 +297,39 @@ DTEND:20260607T114500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Road to MSI\nWatch: https://www.twitch.tv/lck
 SUMMARY:Lower bracket quarterfinal: KT vs DK
-URL;VALUE=URI:https://www.twitch.tv/lck
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T110000Z
+UID:pandascore-match-1557801@esport-ics
+DTSTART:20260626T110000Z
+DTEND:20260626T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
+ e.com/eragonuk
+SUMMARY:DK vs FLY
+URL;VALUE=URI:https://www.sooplive.com/eragonuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T090000Z
+UID:pandascore-match-1557804@esport-ics
+DTSTART:20260627T090000Z
+DTEND:20260627T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
+ e.com/eragonuk
+SUMMARY:DK vs LOS
+URL;VALUE=URI:https://www.sooplive.com/eragonuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T120000Z
+UID:pandascore-match-1557807@esport-ics
+DTSTART:20260627T120000Z
+DTEND:20260627T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
+ e.com/eragonuk
+SUMMARY:DK vs C9
+URL;VALUE=URI:https://www.sooplive.com/eragonuk
 END:VEVENT
 END:VCALENDAR

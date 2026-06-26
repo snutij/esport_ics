@@ -194,6 +194,39 @@ DTEND:20260529T101500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Rounds 1-2\nWatch: https://www.twitch.tv/lck
 SUMMARY:DK vs KRX
-URL;VALUE=URI:https://www.twitch.tv/lck
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T090000Z
+UID:pandascore-match-1557799@esport-ics
+DTSTART:20260626T090000Z
+DTEND:20260626T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
+ e.com/eragonuk
+SUMMARY:KRX vs LOS
+URL;VALUE=URI:https://www.sooplive.com/eragonuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T120000Z
+UID:pandascore-match-1557802@esport-ics
+DTSTART:20260626T120000Z
+DTEND:20260626T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
+ e.com/eragonuk
+SUMMARY:KRX vs C9
+URL;VALUE=URI:https://www.sooplive.com/eragonuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T100000Z
+UID:pandascore-match-1557805@esport-ics
+DTSTART:20260627T100000Z
+DTEND:20260627T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
+ e.com/eragonuk
+SUMMARY:KRX vs FLY
+URL;VALUE=URI:https://www.sooplive.com/eragonuk
 END:VEVENT
 END:VCALENDAR

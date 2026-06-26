@@ -221,6 +221,39 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - South America & LATAM Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/EWC_STCArena_EN
 SUMMARY:Grand Final: RED vs LOS
-URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
+URL:https://www.twitch.tv/EWC_STCArena_EN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T090000Z
+UID:pandascore-match-1557799@esport-ics
+DTSTART:20260626T090000Z
+DTEND:20260626T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
+ e.com/eragonuk
+SUMMARY:KRX vs LOS
+URL;VALUE=URI:https://www.sooplive.com/eragonuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T090000Z
+UID:pandascore-match-1557804@esport-ics
+DTSTART:20260627T090000Z
+DTEND:20260627T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
+ e.com/eragonuk
+SUMMARY:DK vs LOS
+URL;VALUE=URI:https://www.sooplive.com/eragonuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T110000Z
+UID:pandascore-match-1557806@esport-ics
+DTSTART:20260627T110000Z
+DTEND:20260627T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
+ e.com/eragonuk
+SUMMARY:DNS vs LOS
+URL;VALUE=URI:https://www.sooplive.com/eragonuk
 END:VEVENT
 END:VCALENDAR
