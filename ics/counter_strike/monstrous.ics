@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #2 2026 - Group B\nWa
  tch: https://www.twitch.tv/gluck_esports
 SUMMARY:NEW VISION vs MONSTROUS
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T110000Z
+UID:pandascore-match-1555290@esport-ics
+DTSTART:20260627T110000Z
+DTEND:20260627T131500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #2 2026 - Group B\nWa
+ tch: https://www.twitch.tv/gluck_esports
+SUMMARY:Elimination match: ARGOS vs MONSTROUS
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR
