@@ -600,6 +600,17 @@ CLASS:PUBLIC
 DESCRIPTION:Super DraculaN - Season 1 2026 - Group B\nWatch: https://kick.c
  om/draculancs
 SUMMARY:Upper bracket final: ECHO vs WAL
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T150000Z
+UID:pandascore-match-1545553@esport-ics
+DTSTART:20260626T150000Z
+DTEND:20260626T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Super DraculaN - Season 1 2026 - Playoffs\nWatch: https://kick.
+ com/draculancs
+SUMMARY:Quarterfinal 2: WAL vs ICE
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR

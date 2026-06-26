@@ -35,6 +35,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - North America Closed Qualifier 2026 - Playo
  ffs\nWatch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Lower bracket semifinal: GG Boom vs 4 Anchors and Ilmeria
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T200000Z
+UID:pandascore-match-1540282@esport-ics
+DTSTART:20260626T200000Z
+DTEND:20260626T221500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - North America Closed Qualifier 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/pgl_dota2
+SUMMARY:Lower bracket final: 4 Anchors and Ilmeria vs the bug
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR
