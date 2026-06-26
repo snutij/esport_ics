@@ -419,6 +419,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 4 Major 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/CallofDuty
 SUMMARY:Lower bracket round 2 match 2: TOR vs TBD
+URL:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T180000Z
+UID:pandascore-match-1551724@esport-ics
+DTSTART:20260627T180000Z
+DTEND:20260627T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Stage 4 Major 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/CallofDuty
+SUMMARY:Lower bracket quarterfinal 2: TOR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/CallofDuty
 END:VEVENT
 END:VCALENDAR

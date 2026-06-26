@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Svenska CS-Ligan - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/fragbite
 SUMMARY:Upper bracket semifinal 1: roamsfiest vs train launcher
+URL:https://www.twitch.tv/fragbite
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T100000Z
+UID:pandascore-match-1545970@esport-ics
+DTSTART:20260627T100000Z
+DTEND:20260627T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Svenska CS-Ligan - 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/fragbite
+SUMMARY:Lower bracket semifinal: JS vs roamsfiest
 URL;VALUE=URI:https://www.twitch.tv/fragbite
 END:VEVENT
 END:VCALENDAR

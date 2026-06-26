@@ -521,6 +521,17 @@ CLASS:PUBLIC
 DESCRIPTION:Super DraculaN - Season 1 2026 - Playoffs\nWatch: https://kick.
  com/draculancs
 SUMMARY:Quarterfinal 2: WAL vs ICE
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T133000Z
+UID:pandascore-match-1545554@esport-ics
+DTSTART:20260627T133000Z
+DTEND:20260627T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Super DraculaN - Season 1 2026 - Playoffs\nWatch: https://kick.
+ com/draculancs
+SUMMARY:Semifinal 1: ICE vs SHK
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
