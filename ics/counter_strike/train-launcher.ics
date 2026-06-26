@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Svenska CS-Ligan - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/fragbite
 SUMMARY:Upper bracket final: RT vs train launcher
+URL:https://www.twitch.tv/fragbite
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T130000Z
+UID:pandascore-match-1545971@esport-ics
+DTSTART:20260627T130000Z
+DTEND:20260627T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Svenska CS-Ligan - 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/fragbite
+SUMMARY:Lower bracket final: train launcher vs TBD
 URL;VALUE=URI:https://www.twitch.tv/fragbite
 END:VEVENT
 END:VCALENDAR
