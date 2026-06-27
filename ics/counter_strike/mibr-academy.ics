@@ -662,6 +662,17 @@ DESCRIPTION:Gamers Club Liga Série A - June 2026 - Group C
 SUMMARY:Decider match: HR vs MIBR.A
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260627T130000Z
+UID:pandascore-match-1549551@esport-ics
+DTSTART:20260627T130000Z
+DTEND:20260627T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - South American Series #1 2026 
+ - Playoffs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Quarterfinal 1: SHIN vs MIBR.A
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260628T220000Z
 UID:pandascore-match-1555098@esport-ics
 DTSTART:20260628T220000Z

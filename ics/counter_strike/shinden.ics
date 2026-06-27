@@ -572,6 +572,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Finals season 51 2026 - P
  layoffs\nWatch: https://www.twitch.tv/cmarty
 SUMMARY:Grand final: SHIN vs IMP
-URL;VALUE=URI:https://www.twitch.tv/cmarty
+URL:https://www.twitch.tv/cmarty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260627T130000Z
+UID:pandascore-match-1549551@esport-ics
+DTSTART:20260627T130000Z
+DTEND:20260627T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - South American Series #1 2026 
+ - Playoffs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Quarterfinal 1: SHIN vs MIBR.A
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
