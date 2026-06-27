@@ -160,14 +160,14 @@ SUMMARY:Round 3: SOL vs BMG
 URL:https://www.youtube.com/watch?v=eDHfaDGCos0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260627T120000Z
+DTSTAMP:20260627T123000Z
 UID:pandascore-match-1557150@esport-ics
-DTSTART:20260627T120000Z
-DTEND:20260627T154500Z
+DTSTART:20260627T123000Z
+DTEND:20260627T161500Z
 CLASS:PUBLIC
 DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
- s://www.youtube.com/@LienQuanMobileSportsGarena/streams
+ s://www.youtube.com/watch?v=qF2FwuVeaO8
 SUMMARY:Round 4: BMG vs GAM
-URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+URL;VALUE=URI:https://www.youtube.com/watch?v=qF2FwuVeaO8
 END:VEVENT
 END:VCALENDAR
