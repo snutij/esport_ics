@@ -314,4 +314,103 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Spring 2026 - Group A
 SUMMARY:Decider match: ME vs EWI
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T150000Z
+UID:pandascore-match-1560053@esport-ics
+DTSTART:20260630T150000Z
+DTEND:20260630T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:EWI vs BIG
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T160000Z
+UID:pandascore-match-1560059@esport-ics
+DTSTART:20260701T160000Z
+DTEND:20260701T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:G2N vs EWI
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T160000Z
+UID:pandascore-match-1560066@esport-ics
+DTSTART:20260702T160000Z
+DTEND:20260702T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:KHK vs EWI
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260707T150000Z
+UID:pandascore-match-1560070@esport-ics
+DTSTART:20260707T150000Z
+DTEND:20260707T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:EWI vs TOG
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T150000Z
+UID:pandascore-match-1560075@esport-ics
+DTSTART:20260708T150000Z
+DTEND:20260708T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:ROSS vs EWI
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T150000Z
+UID:pandascore-match-1560080@esport-ics
+DTSTART:20260709T150000Z
+DTEND:20260709T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:ES vs EWI
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260713T150000Z
+UID:pandascore-match-1560085@esport-ics
+DTSTART:20260713T150000Z
+DTEND:20260713T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:EWI vs USE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260713T180000Z
+UID:pandascore-match-1560088@esport-ics
+DTSTART:20260713T180000Z
+DTEND:20260713T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:ES vs EWI
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T180000Z
+UID:pandascore-match-1560098@esport-ics
+DTSTART:20260717T180000Z
+DTEND:20260717T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:VFB vs EWI
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
 END:VCALENDAR

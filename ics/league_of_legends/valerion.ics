@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Valerion
+SLUG:valerion
+BEGIN:VEVENT
+DTSTAMP:20260630T130000Z
+UID:pandascore-match-1560390@esport-ics
+DTSTART:20260630T130000Z
+DTEND:20260630T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:VLR vs ALMO
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T150000Z
+UID:pandascore-match-1560397@esport-ics
+DTSTART:20260702T150000Z
+DTEND:20260702T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:TP vs VLR
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T130000Z
+UID:pandascore-match-1560402@esport-ics
+DTSTART:20260709T130000Z
+DTEND:20260709T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:VLR vs GSMC
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T150000Z
+UID:pandascore-match-1560407@esport-ics
+DTSTART:20260721T150000Z
+DTEND:20260721T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:SPAR vs VLR
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T150000Z
+UID:pandascore-match-1560411@esport-ics
+DTSTART:20260727T150000Z
+DTEND:20260727T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:VLR vs TPX⁠
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T130000Z
+UID:pandascore-match-1560414@esport-ics
+DTSTART:20260729T130000Z
+DTEND:20260729T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:WLG vs VLR
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T150000Z
+UID:pandascore-match-1560417@esport-ics
+DTSTART:20260804T150000Z
+DTEND:20260804T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:VLR vs ZRL
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+END:VCALENDAR

@@ -237,4 +237,81 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Spring 2026 - Group C
 SUMMARY:Decider match: G2N vs WLG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T150000Z
+UID:pandascore-match-1560393@esport-ics
+DTSTART:20260630T150000Z
+DTEND:20260630T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:GSMC vs WLG
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260707T130000Z
+UID:pandascore-match-1560398@esport-ics
+DTSTART:20260707T130000Z
+DTEND:20260707T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:WLG vs TPX⁠
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T130000Z
+UID:pandascore-match-1560400@esport-ics
+DTSTART:20260708T130000Z
+DTEND:20260708T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:ZRL vs WLG
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T150000Z
+UID:pandascore-match-1560405@esport-ics
+DTSTART:20260716T150000Z
+DTEND:20260716T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:WLG vs TP
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T130000Z
+UID:pandascore-match-1560408@esport-ics
+DTSTART:20260722T130000Z
+DTEND:20260722T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:SPAR vs WLG
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T130000Z
+UID:pandascore-match-1560414@esport-ics
+DTSTART:20260729T130000Z
+DTEND:20260729T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:WLG vs VLR
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T150000Z
+UID:pandascore-match-1560419@esport-ics
+DTSTART:20260805T150000Z
+DTEND:20260805T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/helleniclegends
+SUMMARY:WLG vs ALMO
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+END:VEVENT
 END:VCALENDAR
