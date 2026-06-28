@@ -969,7 +969,7 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #5 2026 - Group A\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:ASTR vs BERG
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260628T173000Z
@@ -980,6 +980,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #5 2026 - Group A\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:ASTR vs SINQU Rehti
+URL:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T130000Z
+UID:pandascore-match-1551592@esport-ics
+DTSTART:20260629T130000Z
+DTEND:20260629T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Playoffs\nWatch: https://kick.com/u
+ rbancontenders
+SUMMARY:Semifinal 1: TBD vs ASTR
 URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR

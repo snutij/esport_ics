@@ -186,6 +186,61 @@ CLASS:PUBLIC
 DESCRIPTION:China Evolution Series - Act 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorantesports_cn
 SUMMARY:Quarterfinal 3: JDG vs NOVA
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T110000Z
+UID:pandascore-match-1562272@esport-ics
+DTSTART:20260710T110000Z
+DTEND:20260710T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:JDG vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260715T090000Z
+UID:pandascore-match-1562279@esport-ics
+DTSTART:20260715T090000Z
+DTEND:20260715T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:JDG vs FPX
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T070000Z
+UID:pandascore-match-1562283@esport-ics
+DTSTART:20260717T070000Z
+DTEND:20260717T091500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:NOVA vs JDG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T130000Z
+UID:pandascore-match-1562290@esport-ics
+DTSTART:20260719T130000Z
+DTEND:20260719T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:EDG vs JDG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T090000Z
+UID:pandascore-match-1562293@esport-ics
+DTSTART:20260721T090000Z
+DTEND:20260721T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:JDG vs TE
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

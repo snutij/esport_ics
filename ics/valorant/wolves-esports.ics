@@ -107,6 +107,61 @@ CLASS:PUBLIC
 DESCRIPTION:China Evolution Series - Act 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorantesports_cn
 SUMMARY:Round of 16 match 2: FPX vs WOL
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T080000Z
+UID:pandascore-match-1562269@esport-ics
+DTSTART:20260709T080000Z
+DTEND:20260709T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:WOL vs TEC
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T110000Z
+UID:pandascore-match-1562274@esport-ics
+DTSTART:20260711T110000Z
+DTEND:20260711T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:BLG vs WOL
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T090000Z
+UID:pandascore-match-1562277@esport-ics
+DTSTART:20260714T090000Z
+DTEND:20260714T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:WOL vs AG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T100000Z
+UID:pandascore-match-1562289@esport-ics
+DTSTART:20260719T100000Z
+DTEND:20260719T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:DRG vs WOL
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T090000Z
+UID:pandascore-match-1562295@esport-ics
+DTSTART:20260722T090000Z
+DTEND:20260722T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:XLG vs WOL
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

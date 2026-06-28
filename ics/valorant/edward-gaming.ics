@@ -225,4 +225,59 @@ DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
 SUMMARY:EDG vs BBL
 URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260715T120000Z
+UID:pandascore-match-1562280@esport-ics
+DTSTART:20260715T120000Z
+DTEND:20260715T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:EDG vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T130000Z
+UID:pandascore-match-1562285@esport-ics
+DTSTART:20260717T130000Z
+DTEND:20260717T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:TE vs EDG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T130000Z
+UID:pandascore-match-1562290@esport-ics
+DTSTART:20260719T130000Z
+DTEND:20260719T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:EDG vs JDG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T120000Z
+UID:pandascore-match-1562294@esport-ics
+DTSTART:20260721T120000Z
+DTEND:20260721T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:EDG vs NOVA
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T120000Z
+UID:pandascore-match-1562298@esport-ics
+DTSTART:20260723T120000Z
+DTEND:20260723T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:FPX vs EDG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
 END:VCALENDAR

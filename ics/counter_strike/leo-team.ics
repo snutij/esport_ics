@@ -699,7 +699,7 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #5 2026 - Group B\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:Leo vs Aimhaus
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260628T120000Z
@@ -710,7 +710,7 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #5 2026 - Group B\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:Leo vs ex-CLS
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260628T130000Z
@@ -721,6 +721,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #5 2026 - Group B\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:GHY vs Leo
+URL:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T130000Z
+UID:pandascore-match-1551593@esport-ics
+DTSTART:20260629T130000Z
+DTEND:20260629T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Playoffs\nWatch: https://kick.com/u
+ rbancontenders
+SUMMARY:Semifinal 2: TBD vs Leo
 URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR

@@ -778,6 +778,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - South American Series #1 2026 
  - Playoffs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Semifinal 2: FX vs UNO
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T000000Z
+UID:pandascore-match-1549557@esport-ics
+DTSTART:20260629T000000Z
+DTEND:20260629T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - South American Series #1 2026 
+ - Playoffs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Grand final: UNO vs TBD
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

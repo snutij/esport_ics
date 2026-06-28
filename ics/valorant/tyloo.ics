@@ -206,6 +206,61 @@ CLASS:PUBLIC
 DESCRIPTION:China Evolution Series - Act 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorantesports_cn
 SUMMARY:3rd Place match: AG vs TYLOO
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T110000Z
+UID:pandascore-match-1562272@esport-ics
+DTSTART:20260710T110000Z
+DTEND:20260710T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:JDG vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T110000Z
+UID:pandascore-match-1562276@esport-ics
+DTSTART:20260712T110000Z
+DTEND:20260712T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:TYLOO vs TE
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260715T120000Z
+UID:pandascore-match-1562280@esport-ics
+DTSTART:20260715T120000Z
+DTEND:20260715T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:EDG vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T100000Z
+UID:pandascore-match-1562284@esport-ics
+DTSTART:20260717T100000Z
+DTEND:20260717T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:TYLOO vs FPX
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T090000Z
+UID:pandascore-match-1562297@esport-ics
+DTSTART:20260723T090000Z
+DTEND:20260723T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:TYLOO vs NOVA
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

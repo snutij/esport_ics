@@ -140,6 +140,61 @@ CLASS:PUBLIC
 DESCRIPTION:China Evolution Series - Act 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorantesports_cn
 SUMMARY:Grand final: TEC vs NOVA
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T080000Z
+UID:pandascore-match-1562275@esport-ics
+DTSTART:20260712T080000Z
+DTEND:20260712T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:NOVA vs FPX
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T070000Z
+UID:pandascore-match-1562283@esport-ics
+DTSTART:20260717T070000Z
+DTEND:20260717T091500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:NOVA vs JDG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T070000Z
+UID:pandascore-match-1562288@esport-ics
+DTSTART:20260719T070000Z
+DTEND:20260719T091500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:TE vs NOVA
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T120000Z
+UID:pandascore-match-1562294@esport-ics
+DTSTART:20260721T120000Z
+DTEND:20260721T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:EDG vs NOVA
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T090000Z
+UID:pandascore-match-1562297@esport-ics
+DTSTART:20260723T090000Z
+DTEND:20260723T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:TYLOO vs NOVA
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

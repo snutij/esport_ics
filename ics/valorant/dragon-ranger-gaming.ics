@@ -186,6 +186,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters London 2026 - Group Stage\nWatch: https://www.twi
  tch.tv/VALORANT
 SUMMARY:Round 2: DRG vs XLG
-URL;VALUE=URI:https://www.twitch.tv/VALORANT
+URL:https://www.twitch.tv/VALORANT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T110000Z
+UID:pandascore-match-1562270@esport-ics
+DTSTART:20260709T110000Z
+DTEND:20260709T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:DRG vs BLG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T080000Z
+UID:pandascore-match-1562273@esport-ics
+DTSTART:20260711T080000Z
+DTEND:20260711T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:DRG vs TEC
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T120000Z
+UID:pandascore-match-1562282@esport-ics
+DTSTART:20260716T120000Z
+DTEND:20260716T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:XLG vs DRG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T100000Z
+UID:pandascore-match-1562289@esport-ics
+DTSTART:20260719T100000Z
+DTEND:20260719T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:DRG vs WOL
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T120000Z
+UID:pandascore-match-1562296@esport-ics
+DTSTART:20260722T120000Z
+DTEND:20260722T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - China Stage 2 2026 - Group Omega\nWatch: https://www.twit
+ ch.tv/valorantesports_cn
+SUMMARY:AG vs DRG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

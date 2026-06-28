@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 51 2026 - Group A\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: CLS vs ME
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T100000Z
+UID:pandascore-match-1551590@esport-ics
+DTSTART:20260629T100000Z
+DTEND:20260629T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #5 2026 - Playoffs\nWatch: https://kick.com/u
+ rbancontenders
+SUMMARY:Quarterfinal 1: CLS vs SINQU Rehti
+URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR
