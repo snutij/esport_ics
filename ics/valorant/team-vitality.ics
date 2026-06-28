@@ -223,6 +223,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters London 2026 - Playoffs\nWatch: https://www.twitch
  .tv/VALORANT
 SUMMARY:Lower bracket semifinal: VIT vs LEV
-URL;VALUE=URI:https://www.twitch.tv/VALORANT
+URL:https://www.twitch.tv/VALORANT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T134500Z
+UID:pandascore-match-1561295@esport-ics
+DTSTART:20260702T134500Z
+DTEND:20260702T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:VIT vs KC
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 END:VCALENDAR

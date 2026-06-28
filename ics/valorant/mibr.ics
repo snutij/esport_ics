@@ -133,6 +133,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 2\nWatch: h
  ttps://www.youtube.com/watch?v=16P1n9Iwspo
 SUMMARY:Upper bracket semifinal 1: LEV vs MIBR
-URL;VALUE=URI:https://www.youtube.com/watch?v=16P1n9Iwspo
+URL:https://www.youtube.com/watch?v=16P1n9Iwspo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T110000Z
+UID:pandascore-match-1561305@esport-ics
+DTSTART:20260703T110000Z
+DTEND:20260703T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group D
+SUMMARY:MIBR vs GE
 END:VEVENT
 END:VCALENDAR

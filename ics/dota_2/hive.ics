@@ -67,6 +67,61 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 38 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Lower bracket quarterfinal match 2: Hive vs Flame Team
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T120000Z
+UID:pandascore-match-1561053@esport-ics
+DTSTART:20260628T120000Z
+DTEND:20260628T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Hive vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T160000Z
+UID:pandascore-match-1561058@esport-ics
+DTSTART:20260629T160000Z
+DTEND:20260629T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs Hive
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T070000Z
+UID:pandascore-match-1561063@esport-ics
+DTSTART:20260701T070000Z
+DTEND:20260701T091500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Team Aoin vs Hive
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T190000Z
+UID:pandascore-match-1561074@esport-ics
+DTSTART:20260703T190000Z
+DTEND:20260703T211500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Hive vs PckCp
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T160000Z
+UID:pandascore-match-1561089@esport-ics
+DTSTART:20260704T160000Z
+DTEND:20260704T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Hive vs 4iki
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

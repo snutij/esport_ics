@@ -384,6 +384,39 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:DAN vs ILL
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T100000Z
+UID:pandascore-match-1561056@esport-ics
+DTSTART:20260629T100000Z
+DTEND:20260629T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:BALU vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T100000Z
+UID:pandascore-match-1561060@esport-ics
+DTSTART:20260630T100000Z
+DTEND:20260630T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ILL vs Habibis
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T130000Z
+UID:pandascore-match-1561090@esport-ics
+DTSTART:20260705T130000Z
+DTEND:20260705T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ILL vs Flame Team
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

@@ -212,6 +212,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters London 2026 - Playoffs\nWatch: https://www.twitch
  .tv/VALORANT
 SUMMARY:Lower bracket final: EDG vs LEV
-URL;VALUE=URI:https://www.twitch.tv/VALORANT
+URL:https://www.twitch.tv/VALORANT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T110000Z
+UID:pandascore-match-1561289@esport-ics
+DTSTART:20260702T110000Z
+DTEND:20260702T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:EDG vs BBL
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 END:VCALENDAR

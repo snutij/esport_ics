@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Habibis
+SLUG:habibis
+BEGIN:VEVENT
+DTSTAMP:20260629T070000Z
+UID:pandascore-match-1561055@esport-ics
+DTSTART:20260629T070000Z
+DTEND:20260629T091500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Habibis vs SB
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T100000Z
+UID:pandascore-match-1561060@esport-ics
+DTSTART:20260630T100000Z
+DTEND:20260630T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ILL vs Habibis
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T160000Z
+UID:pandascore-match-1561070@esport-ics
+DTSTART:20260702T160000Z
+DTEND:20260702T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:BALU vs Habibis
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T160000Z
+UID:pandascore-match-1561073@esport-ics
+DTSTART:20260703T160000Z
+DTEND:20260703T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Flame Team vs Habibis
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T130000Z
+UID:pandascore-match-1561088@esport-ics
+DTSTART:20260704T130000Z
+DTEND:20260704T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Habibis vs Invasion
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+END:VCALENDAR

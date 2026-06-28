@@ -486,4 +486,48 @@ CLASS:PUBLIC
 DESCRIPTION:The International - Europe Open Qualifier 2 2026 - Playoffs
 SUMMARY:Quarterfinal 3: ICxI vs Nemiga
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T150000Z
+UID:pandascore-match-1561054@esport-ics
+DTSTART:20260628T150000Z
+DTEND:20260628T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:4iki vs Nemiga
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T160000Z
+UID:pandascore-match-1561058@esport-ics
+DTSTART:20260629T160000Z
+DTEND:20260629T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs Hive
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T130000Z
+UID:pandascore-match-1561065@esport-ics
+DTSTART:20260701T130000Z
+DTEND:20260701T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:PckCp vs Nemiga
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T100000Z
+UID:pandascore-match-1561068@esport-ics
+DTSTART:20260702T100000Z
+DTEND:20260702T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs Team Aoin
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
 END:VCALENDAR

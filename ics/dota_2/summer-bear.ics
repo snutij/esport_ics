@@ -100,6 +100,50 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 38 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Lower bracket quarterfinal match 1: Z10 vs SB
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T070000Z
+UID:pandascore-match-1561055@esport-ics
+DTSTART:20260629T070000Z
+DTEND:20260629T091500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Habibis vs SB
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T130000Z
+UID:pandascore-match-1561061@esport-ics
+DTSTART:20260630T130000Z
+DTEND:20260630T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Flame Team vs SB
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T160000Z
+UID:pandascore-match-1561066@esport-ics
+DTSTART:20260701T160000Z
+DTEND:20260701T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Invasion vs SB
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T130000Z
+UID:pandascore-match-1561069@esport-ics
+DTSTART:20260702T130000Z
+DTEND:20260702T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:BALU vs SB
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
