@@ -258,4 +258,59 @@ DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
 SUMMARY:G2 vs NS
 URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T210000Z
+UID:pandascore-match-1561510@esport-ics
+DTSTART:20260718T210000Z
+DTEND:20260718T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:G2 vs 100T
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T210000Z
+UID:pandascore-match-1561516@esport-ics
+DTSTART:20260725T210000Z
+DTEND:20260725T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:G2 vs C9
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T210000Z
+UID:pandascore-match-1561520@esport-ics
+DTSTART:20260730T210000Z
+DTEND:20260730T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:KRÜ vs G2
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T000000Z
+UID:pandascore-match-1561527@esport-ics
+DTSTART:20260803T000000Z
+DTEND:20260803T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:G2 vs SEN
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T000000Z
+UID:pandascore-match-1561531@esport-ics
+DTSTART:20260808T000000Z
+DTEND:20260808T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:G2 vs LOUD
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
 END:VCALENDAR

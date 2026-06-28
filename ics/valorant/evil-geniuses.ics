@@ -100,4 +100,59 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 1
 SUMMARY:Grand final: EG vs SEN
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T210000Z
+UID:pandascore-match-1561508@esport-ics
+DTSTART:20260717T210000Z
+DTEND:20260717T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:NV vs EG
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T210000Z
+UID:pandascore-match-1561512@esport-ics
+DTSTART:20260723T210000Z
+DTEND:20260723T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:EG vs LEV
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T000000Z
+UID:pandascore-match-1561523@esport-ics
+DTSTART:20260801T000000Z
+DTEND:20260801T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:EG vs MIBR
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T210000Z
+UID:pandascore-match-1561528@esport-ics
+DTSTART:20260806T210000Z
+DTEND:20260806T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:EG vs FUR
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T210000Z
+UID:pandascore-match-1561534@esport-ics
+DTSTART:20260809T210000Z
+DTEND:20260809T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:EG vs NRG
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
 END:VCALENDAR

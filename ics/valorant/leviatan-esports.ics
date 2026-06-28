@@ -232,6 +232,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters London 2026 - Playoffs\nWatch: https://www.twitch
  .tv/VALORANT
 SUMMARY:Grand final: PR vs LEV
-URL;VALUE=URI:https://www.twitch.tv/VALORANT
+URL:https://www.twitch.tv/VALORANT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T210000Z
+UID:pandascore-match-1561506@esport-ics
+DTSTART:20260716T210000Z
+DTEND:20260716T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:LEV vs FUR
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T210000Z
+UID:pandascore-match-1561512@esport-ics
+DTSTART:20260723T210000Z
+DTEND:20260723T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:EG vs LEV
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T210000Z
+UID:pandascore-match-1561518@esport-ics
+DTSTART:20260726T210000Z
+DTEND:20260726T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:NV vs LEV
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T000000Z
+UID:pandascore-match-1561525@esport-ics
+DTSTART:20260802T000000Z
+DTEND:20260802T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:LEV vs NRG
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T000000Z
+UID:pandascore-match-1561533@esport-ics
+DTSTART:20260809T000000Z
+DTEND:20260809T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:LEV vs MIBR
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

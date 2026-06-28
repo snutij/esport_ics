@@ -173,4 +173,59 @@ DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
 SUMMARY:G2 vs NS
 URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T080000Z
+UID:pandascore-match-1561467@esport-ics
+DTSTART:20260717T080000Z
+DTEND:20260717T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:FS vs NS
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T080000Z
+UID:pandascore-match-1561471@esport-ics
+DTSTART:20260719T080000Z
+DTEND:20260719T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:NS vs Gen.G
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T080000Z
+UID:pandascore-match-1561477@esport-ics
+DTSTART:20260725T080000Z
+DTEND:20260725T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:NS vs GE
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T110000Z
+UID:pandascore-match-1561488@esport-ics
+DTSTART:20260802T110000Z
+DTEND:20260802T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:ZETA vs NS
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T110000Z
+UID:pandascore-match-1561494@esport-ics
+DTSTART:20260809T110000Z
+DTEND:20260809T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:NS vs RRQ
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
 END:VCALENDAR

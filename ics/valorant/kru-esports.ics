@@ -100,4 +100,59 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 2
 SUMMARY:Lower bracket quarterfinal 1: SEN vs KRÜ
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T000000Z
+UID:pandascore-match-1561509@esport-ics
+DTSTART:20260718T000000Z
+DTEND:20260718T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:KRÜ vs LOUD
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T000000Z
+UID:pandascore-match-1561515@esport-ics
+DTSTART:20260725T000000Z
+DTEND:20260725T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:100T vs KRÜ
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T210000Z
+UID:pandascore-match-1561520@esport-ics
+DTSTART:20260730T210000Z
+DTEND:20260730T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:KRÜ vs G2
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T210000Z
+UID:pandascore-match-1561526@esport-ics
+DTSTART:20260802T210000Z
+DTEND:20260802T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:C9 vs KRÜ
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T210000Z
+UID:pandascore-match-1561532@esport-ics
+DTSTART:20260808T210000Z
+DTEND:20260808T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:KRÜ vs SEN
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
 END:VCALENDAR

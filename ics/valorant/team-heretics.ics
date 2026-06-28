@@ -165,7 +165,9 @@ UID:pandascore-match-1561304@esport-ics
 DTSTART:20260703T110000Z
 DTEND:20260703T131500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group D
+DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
 SUMMARY:TH vs AG
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 END:VCALENDAR

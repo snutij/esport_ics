@@ -309,4 +309,59 @@ DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
 SUMMARY:PR vs NRG
 URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T000000Z
+UID:pandascore-match-1561511@esport-ics
+DTSTART:20260719T000000Z
+DTEND:20260719T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:NRG vs MIBR
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T210000Z
+UID:pandascore-match-1561514@esport-ics
+DTSTART:20260724T210000Z
+DTEND:20260724T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:FUR vs NRG
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T000000Z
+UID:pandascore-match-1561525@esport-ics
+DTSTART:20260802T000000Z
+DTEND:20260802T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:LEV vs NRG
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T000000Z
+UID:pandascore-match-1561529@esport-ics
+DTSTART:20260807T000000Z
+DTEND:20260807T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:NV vs NRG
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T210000Z
+UID:pandascore-match-1561534@esport-ics
+DTSTART:20260809T210000Z
+DTEND:20260809T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:EG vs NRG
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
 END:VCALENDAR

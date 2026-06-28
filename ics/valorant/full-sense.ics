@@ -153,6 +153,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters London 2026 - Group Stage\nWatch: https://www.twi
  tch.tv/VALORANT
 SUMMARY:Round 2: GE vs FS
-URL;VALUE=URI:https://www.twitch.tv/VALORANT
+URL:https://www.twitch.tv/VALORANT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T080000Z
+UID:pandascore-match-1561467@esport-ics
+DTSTART:20260717T080000Z
+DTEND:20260717T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:FS vs NS
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T080000Z
+UID:pandascore-match-1561473@esport-ics
+DTSTART:20260723T080000Z
+DTEND:20260723T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:GE vs FS
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T110000Z
+UID:pandascore-match-1561482@esport-ics
+DTSTART:20260730T110000Z
+DTEND:20260730T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:FS vs ZETA
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T110000Z
+UID:pandascore-match-1561486@esport-ics
+DTSTART:20260801T110000Z
+DTEND:20260801T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:FS vs RRQ
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T110000Z
+UID:pandascore-match-1561490@esport-ics
+DTSTART:20260807T110000Z
+DTEND:20260807T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Alpha\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:Gen.G vs FS
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR

@@ -98,4 +98,59 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Pacific Qualifier 2026 - Stage 2
 SUMMARY:Lower bracket semifinal 1: NS vs KRX
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T110000Z
+UID:pandascore-match-1561468@esport-ics
+DTSTART:20260717T110000Z
+DTEND:20260717T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Omega\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:KRX vs DFM
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T110000Z
+UID:pandascore-match-1561472@esport-ics
+DTSTART:20260719T110000Z
+DTEND:20260719T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Omega\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:KRX vs TS
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T080000Z
+UID:pandascore-match-1561479@esport-ics
+DTSTART:20260726T080000Z
+DTEND:20260726T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Omega\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:PR vs KRX
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T080000Z
+UID:pandascore-match-1561487@esport-ics
+DTSTART:20260802T080000Z
+DTEND:20260802T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Omega\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:VARREL vs KRX
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T080000Z
+UID:pandascore-match-1561491@esport-ics
+DTSTART:20260808T080000Z
+DTEND:20260808T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Omega\nWatch: https://www.tw
+ itch.tv/valorant_pacific
+SUMMARY:KRX vs T1
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
 END:VCALENDAR

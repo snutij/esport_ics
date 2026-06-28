@@ -109,6 +109,61 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 2\nWatch: h
  ttps://www.youtube.com/watch?v=oAEua7HC3Fs
 SUMMARY:Lower bracket final: LOUD vs NRG
-URL;VALUE=URI:https://www.youtube.com/watch?v=oAEua7HC3Fs
+URL:https://www.youtube.com/watch?v=oAEua7HC3Fs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T000000Z
+UID:pandascore-match-1561509@esport-ics
+DTSTART:20260718T000000Z
+DTEND:20260718T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:KRÜ vs LOUD
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T000000Z
+UID:pandascore-match-1561517@esport-ics
+DTSTART:20260726T000000Z
+DTEND:20260726T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:SEN vs LOUD
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T210000Z
+UID:pandascore-match-1561522@esport-ics
+DTSTART:20260731T210000Z
+DTEND:20260731T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:C9 vs LOUD
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T000000Z
+UID:pandascore-match-1561531@esport-ics
+DTSTART:20260808T000000Z
+DTEND:20260808T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:G2 vs LOUD
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260810T000000Z
+UID:pandascore-match-1561535@esport-ics
+DTSTART:20260810T000000Z
+DTEND:20260810T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Omega\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:LOUD vs 100T
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

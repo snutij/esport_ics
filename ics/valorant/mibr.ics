@@ -141,7 +141,64 @@ UID:pandascore-match-1561305@esport-ics
 DTSTART:20260703T110000Z
 DTEND:20260703T131500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group D
+DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
 SUMMARY:MIBR vs GE
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T000000Z
+UID:pandascore-match-1561511@esport-ics
+DTSTART:20260719T000000Z
+DTEND:20260719T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:NRG vs MIBR
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T000000Z
+UID:pandascore-match-1561513@esport-ics
+DTSTART:20260724T000000Z
+DTEND:20260724T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:NV vs MIBR
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T000000Z
+UID:pandascore-match-1561519@esport-ics
+DTSTART:20260727T000000Z
+DTEND:20260727T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:FUR vs MIBR
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T000000Z
+UID:pandascore-match-1561523@esport-ics
+DTSTART:20260801T000000Z
+DTEND:20260801T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:EG vs MIBR
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T000000Z
+UID:pandascore-match-1561533@esport-ics
+DTSTART:20260809T000000Z
+DTEND:20260809T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Group Alpha\nWatch: https://www.t
+ witch.tv/valorant_americas
+SUMMARY:LEV vs MIBR
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR
