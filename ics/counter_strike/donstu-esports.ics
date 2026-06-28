@@ -784,4 +784,15 @@ DESCRIPTION:European Pro League - Series 8 Closed Qualifier 2026 - Group C\
 SUMMARY:Elimination match: DNT vs FOR
 URL;VALUE=URI:https://www.kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T110000Z
+UID:pandascore-match-1550154@esport-ics
+DTSTART:20260630T110000Z
+DTEND:20260630T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Lower bracket round 1 match 3: OBSB vs DNT
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
