@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 Closed Qualifier 2026 - Group A\
  nWatch: https://www.kick.com/eplcs_en
 SUMMARY:Winners match: ex-MANA vs Subtop De France
-URL;VALUE=URI:https://www.kick.com/eplcs_en
+URL:https://www.kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T080000Z
+UID:pandascore-match-1561928@esport-ics
+DTSTART:20260630T080000Z
+DTEND:20260630T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 51 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket final : ex-MANA vs INF
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
