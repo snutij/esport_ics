@@ -23,6 +23,16 @@ DTEND:20260628T111500Z
 CLASS:PUBLIC
 DESCRIPTION:Douyu Cup - 2026 - Playoffs\nWatch: https://www.douyu.com/3484
 SUMMARY:Semifinal 2: TY vs Oliveira
+URL:https://www.douyu.com/3484
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T090000Z
+UID:pandascore-match-1556180@esport-ics
+DTSTART:20260628T090000Z
+DTEND:20260628T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Douyu Cup - 2026 - Playoffs\nWatch: https://www.douyu.com/3484
+SUMMARY:Grand final: Scarlett vs Oliveira
 URL;VALUE=URI:https://www.douyu.com/3484
 END:VEVENT
 END:VCALENDAR

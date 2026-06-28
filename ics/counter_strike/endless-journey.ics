@@ -233,6 +233,17 @@ SUMMARY:Upper bracket round 1 match 1: BIG.A vs EJ
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260629T134500Z
+UID:pandascore-match-1550152@esport-ics
+DTSTART:20260629T134500Z
+DTEND:20260629T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Upper bracket quarterfinal 1: MISA vs EJ
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260630T103000Z
 UID:pandascore-match-1553992@esport-ics
 DTSTART:20260630T103000Z

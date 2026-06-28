@@ -303,6 +303,17 @@ SUMMARY:KHK vs SGE
 URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260713T180000Z
+UID:pandascore-match-1560088@esport-ics
+DTSTART:20260713T180000Z
+DTEND:20260713T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Regular Season\nWatch
+ : https://www.twitch.tv/primeleague
+SUMMARY:SGE vs EWI
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260716T180000Z
 UID:pandascore-match-1560093@esport-ics
 DTSTART:20260716T180000Z

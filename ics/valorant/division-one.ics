@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 3 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/valorant_northamerica
 SUMMARY:Round 6: D1 vs PGS
+URL:https://www.twitch.tv/valorant_northamerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T200000Z
+UID:pandascore-match-1561050@esport-ics
+DTSTART:20260628T200000Z
+DTEND:20260628T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 3 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/valorant_northamerica
+SUMMARY:Round 7: D1 vs QoR
 URL;VALUE=URI:https://www.twitch.tv/valorant_northamerica
 END:VEVENT
 END:VCALENDAR
