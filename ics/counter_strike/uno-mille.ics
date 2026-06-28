@@ -770,14 +770,14 @@ SUMMARY:Quarterfinal 2: BHE vs UNO
 URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T210000Z
+DTSTAMP:20260628T180000Z
 UID:pandascore-match-1549556@esport-ics
-DTSTART:20260628T210000Z
-DTEND:20260628T231500Z
+DTSTART:20260628T180000Z
+DTEND:20260628T201500Z
 CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - South American Series #1 2026 
  - Playoffs\nWatch: https://www.twitch.tv/thunderpicktv
-SUMMARY:Semifinal 2: UNO vs FX
+SUMMARY:Semifinal 2: FX vs UNO
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
