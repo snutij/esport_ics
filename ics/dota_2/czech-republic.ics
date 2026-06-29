@@ -3,15 +3,15 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Lithuania
-SLUG:lithuania
+X-WR-CALNAME:Czech Republic
+SLUG:czech-republic
 BEGIN:VEVENT
 DTSTAMP:20260630T140000Z
-UID:pandascore-match-1563855@esport-ics
+UID:pandascore-match-1563860@esport-ics
 DTSTART:20260630T140000Z
 DTEND:20260630T161500Z
 CLASS:PUBLIC
 DESCRIPTION:Esports Nations Cup - Europe East Qualifier 2026 - Playoffs
-SUMMARY:Lower bracket round 2 match 2: Lithuania vs Latvia
+SUMMARY:Upper bracket semifinal 1: CZK vs GRE
 END:VEVENT
 END:VCALENDAR

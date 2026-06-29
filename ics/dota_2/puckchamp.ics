@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:PuckChamp
 SLUG:puckchamp
 BEGIN:VEVENT
-DTSTAMP:20260629T190000Z
-UID:pandascore-match-1561059@esport-ics
-DTSTART:20260629T190000Z
-DTEND:20260629T211500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 39 2026 - Group A\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:TS.A vs PckCp
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260701T130000Z
 UID:pandascore-match-1561065@esport-ics
 DTSTART:20260701T130000Z
@@ -47,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 39 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:Team AION vs PckCp
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T100000Z
+UID:pandascore-match-1561059@esport-ics
+DTSTART:20260705T100000Z
+DTEND:20260705T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:TS.A vs PckCp
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT

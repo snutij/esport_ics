@@ -14,4 +14,13 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Nations Cup - Europe West Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 4: Finland vs Switzerland
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T150000Z
+UID:pandascore-match-1563824@esport-ics
+DTSTART:20260630T150000Z
+DTEND:20260630T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Nations Cup - Europe West Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 2: Finland vs TBD
+END:VEVENT
 END:VCALENDAR
