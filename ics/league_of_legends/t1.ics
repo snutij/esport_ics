@@ -278,6 +278,17 @@ CLASS:PUBLIC
 DESCRIPTION:Mid-Season Invitational - 2026 - Play-In\nWatch: https://www.tw
  itch.tv/riotgames
 SUMMARY:Upper bracket final: T1 vs KC
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T080000Z
+UID:pandascore-match-1524757@esport-ics
+DTSTART:20260701T080000Z
+DTEND:20260701T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid-Season Invitational - 2026 - Play-In\nWatch: https://www.tw
+ itch.tv/riotgames
+SUMMARY:Grand final: T1 vs TBD
 URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

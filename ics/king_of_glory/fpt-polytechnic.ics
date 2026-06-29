@@ -278,6 +278,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
  s://www.youtube.com/watch?v=VszT9ojycBs
 SUMMARY:Round 5: FW vs FPL
-URL;VALUE=URI:https://www.youtube.com/watch?v=VszT9ojycBs
+URL:https://www.youtube.com/watch?v=VszT9ojycBs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T060000Z
+UID:pandascore-match-1562830@esport-ics
+DTSTART:20260705T060000Z
+DTEND:20260705T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor Premier League - 2026 - Playoffs\nWatch: https:/
+ /www.youtube.com/@LienQuanMobileSportsGarena/live
+SUMMARY:Upper bracket quarterfinal 3: FS vs FPL
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/live
 END:VEVENT
 END:VCALENDAR

@@ -223,6 +223,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 2 2026 - Round Robin Stage\nWatch: https://li
  ve.bilibili.com/23612045
 SUMMARY:SV vs AG
+URL:https://live.bilibili.com/23612045
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T090000Z
+UID:pandascore-match-1562797@esport-ics
+DTSTART:20260704T090000Z
+DTEND:20260704T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 2 2026 - Playoffs\nWatch: https://live.bilibi
+ li.com/23612045
+SUMMARY:Upper bracket semifinals match 1: WBG vs SV
 URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR

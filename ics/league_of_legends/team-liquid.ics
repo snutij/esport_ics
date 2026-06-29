@@ -238,6 +238,17 @@ CLASS:PUBLIC
 DESCRIPTION:Mid-Season Invitational - 2026 - Play-In\nWatch: https://www.tw
  itch.tv/riotgames
 SUMMARY:Lower bracket semifinal: DCG vs TL
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T080000Z
+UID:pandascore-match-1524759@esport-ics
+DTSTART:20260630T080000Z
+DTEND:20260630T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid-Season Invitational - 2026 - Play-In\nWatch: https://www.tw
+ itch.tv/riotgames
+SUMMARY:Lower bracket final: KC vs TL
 URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR
