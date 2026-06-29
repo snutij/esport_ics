@@ -113,6 +113,83 @@ CLASS:PUBLIC
 DESCRIPTION:LCS - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/lcs
 SUMMARY:SEN vs DIG
+URL:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T230000Z
+UID:pandascore-match-1563936@esport-ics
+DTSTART:20260725T230000Z
+DTEND:20260726T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:DIG vs SEN
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T200000Z
+UID:pandascore-match-1563939@esport-ics
+DTSTART:20260801T200000Z
+DTEND:20260801T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:C9 vs DIG
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T200000Z
+UID:pandascore-match-1563945@esport-ics
+DTSTART:20260809T200000Z
+DTEND:20260809T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:DIG vs LY
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T230000Z
+UID:pandascore-match-1563948@esport-ics
+DTSTART:20260815T230000Z
+DTEND:20260816T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:SR vs DIG
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T230000Z
+UID:pandascore-match-1563954@esport-ics
+DTSTART:20260823T230000Z
+DTEND:20260824T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:DIG vs FLY
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T230000Z
+UID:pandascore-match-1563956@esport-ics
+DTSTART:20260829T230000Z
+DTEND:20260830T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:DSG vs DIG
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T230000Z
+UID:pandascore-match-1563960@esport-ics
+DTSTART:20260905T230000Z
+DTEND:20260906T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:TL vs DIG
 URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR

@@ -239,6 +239,83 @@ CLASS:PUBLIC
 DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
  e.com/eragonuk
 SUMMARY:KRX vs FLY
-URL;VALUE=URI:https://www.sooplive.com/eragonuk
+URL:https://www.sooplive.com/eragonuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T200000Z
+UID:pandascore-match-1563935@esport-ics
+DTSTART:20260725T200000Z
+DTEND:20260725T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:FLY vs LY
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T230000Z
+UID:pandascore-match-1563940@esport-ics
+DTSTART:20260801T230000Z
+DTEND:20260802T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:FLY vs DSG
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T230000Z
+UID:pandascore-match-1563946@esport-ics
+DTSTART:20260809T230000Z
+DTEND:20260810T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:FLY vs TL
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T200000Z
+UID:pandascore-match-1563949@esport-ics
+DTSTART:20260816T200000Z
+DTEND:20260816T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:FLY vs C9
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T230000Z
+UID:pandascore-match-1563954@esport-ics
+DTSTART:20260823T230000Z
+DTEND:20260824T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:DIG vs FLY
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T200000Z
+UID:pandascore-match-1563955@esport-ics
+DTSTART:20260829T200000Z
+DTEND:20260829T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:SEN vs FLY
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T200000Z
+UID:pandascore-match-1563961@esport-ics
+DTSTART:20260906T200000Z
+DTEND:20260906T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:SR vs FLY
+URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR

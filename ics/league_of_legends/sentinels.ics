@@ -208,6 +208,83 @@ DTEND:20260530T234500Z
 CLASS:PUBLIC
 DESCRIPTION:LCS - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/LCS
 SUMMARY:Lower bracket quarterfinal 1: FLY vs SEN
-URL;VALUE=URI:https://www.twitch.tv/LCS
+URL:https://www.twitch.tv/LCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T230000Z
+UID:pandascore-match-1563936@esport-ics
+DTSTART:20260725T230000Z
+DTEND:20260726T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:DIG vs SEN
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T230000Z
+UID:pandascore-match-1563942@esport-ics
+DTSTART:20260802T230000Z
+DTEND:20260803T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:TL vs SEN
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T230000Z
+UID:pandascore-match-1563944@esport-ics
+DTSTART:20260808T230000Z
+DTEND:20260809T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:SEN vs SR
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T230000Z
+UID:pandascore-match-1563950@esport-ics
+DTSTART:20260816T230000Z
+DTEND:20260817T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:LY vs SEN
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T200000Z
+UID:pandascore-match-1563953@esport-ics
+DTSTART:20260823T200000Z
+DTEND:20260823T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:DSG vs SEN
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T200000Z
+UID:pandascore-match-1563955@esport-ics
+DTSTART:20260829T200000Z
+DTEND:20260829T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:SEN vs FLY
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T200000Z
+UID:pandascore-match-1563959@esport-ics
+DTSTART:20260905T200000Z
+DTEND:20260905T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:SEN vs C9
+URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR
