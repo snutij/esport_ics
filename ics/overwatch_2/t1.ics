@@ -278,6 +278,39 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Korea Stage 2 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/ow_esports_jp
 SUMMARY:ZSG vs T1
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T110000Z
+UID:pandascore-match-1526077@esport-ics
+DTSTART:20260703T110000Z
+DTEND:20260703T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Seeding Decider\nWatch: https://www.
+ twitch.tv/ow_esports_jp
+SUMMARY:ZETA vs T1
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T073000Z
+UID:pandascore-match-1526080@esport-ics
+DTSTART:20260704T073000Z
+DTEND:20260704T094500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Seeding Decider\nWatch: https://www.
+ twitch.tv/ow_esports_jp
+SUMMARY:CR vs T1
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T090000Z
+UID:pandascore-match-1526081@esport-ics
+DTSTART:20260705T090000Z
+DTEND:20260705T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Seeding Decider\nWatch: https://www.
+ twitch.tv/ow_esports_jp
+SUMMARY:T1 vs FAL
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

@@ -289,6 +289,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 3 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs
 SUMMARY:Round 1: ex-KRÜ Esports vs MAG
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T190000Z
+UID:pandascore-match-1555104@esport-ics
+DTSTART:20260629T190000Z
+DTEND:20260629T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 3 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs
+SUMMARY:Round 2: VEXA vs ex-KRÜ Esports
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
