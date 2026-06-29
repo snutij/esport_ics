@@ -454,6 +454,15 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 4 Major 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/CallofDuty
 SUMMARY:Grand final: LAT vs TEX
-URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+URL:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T220000Z
+UID:pandascore-match-1563461@esport-ics
+DTSTART:20260716T220000Z
+DTEND:20260717T014500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Championship 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: TEX vs MH
 END:VEVENT
 END:VCALENDAR

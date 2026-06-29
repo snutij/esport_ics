@@ -452,6 +452,15 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 4 Major 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/CallofDuty
 SUMMARY:Lower bracket semifinal: PAR vs FAZE.V
-URL;VALUE=URI:https://www.twitch.tv/CallofDuty
+URL:https://www.twitch.tv/CallofDuty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T203000Z
+UID:pandascore-match-1563464@esport-ics
+DTSTART:20260716T203000Z
+DTEND:20260717T001500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Championship 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 4: FAZE.V vs MIN
 END:VEVENT
 END:VCALENDAR

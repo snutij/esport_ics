@@ -544,8 +544,10 @@ UID:pandascore-match-1526528@esport-ics
 DTSTART:20260701T070000Z
 DTEND:20260701T074500Z
 CLASS:PUBLIC
-DESCRIPTION:XSE Pro League - 2026 - Group Stage
+DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
+ ecs
 SUMMARY:Round 1: BB vs EYE
+URL;VALUE=URI:https://kick.com/xsecs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260701T090000Z
@@ -553,7 +555,9 @@ UID:pandascore-match-1533031@esport-ics
 DTSTART:20260701T090000Z
 DTEND:20260701T094500Z
 CLASS:PUBLIC
-DESCRIPTION:XSE Pro League - 2026 - Group Stage
+DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
+ ecs
 SUMMARY:Round 1: BB vs SIN
+URL;VALUE=URI:https://kick.com/xsecs
 END:VEVENT
 END:VCALENDAR

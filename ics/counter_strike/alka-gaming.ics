@@ -259,7 +259,9 @@ UID:pandascore-match-1557770@esport-ics
 DTSTART:20260630T200000Z
 DTEND:20260630T221500Z
 CLASS:PUBLIC
-DESCRIPTION:Gamers Club Liga Série A - June 2026 - Group D
+DESCRIPTION:Gamers Club Liga Série A - June 2026 - Group D\nWatch: https:/
+ /www.twitch.tv/GamersClubCS
 SUMMARY:Decider match: ALKA vs paiN.A
+URL;VALUE=URI:https://www.twitch.tv/GamersClubCS
 END:VEVENT
 END:VCALENDAR

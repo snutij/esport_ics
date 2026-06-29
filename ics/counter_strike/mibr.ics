@@ -338,8 +338,10 @@ UID:pandascore-match-1526524@esport-ics
 DTSTART:20260701T070000Z
 DTEND:20260701T074500Z
 CLASS:PUBLIC
-DESCRIPTION:XSE Pro League - 2026 - Group Stage
+DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
+ ecs
 SUMMARY:Round 1: MNTE vs MIBR
+URL;VALUE=URI:https://kick.com/xsecs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260701T100000Z
@@ -347,7 +349,9 @@ UID:pandascore-match-1533033@esport-ics
 DTSTART:20260701T100000Z
 DTEND:20260701T104500Z
 CLASS:PUBLIC
-DESCRIPTION:XSE Pro League - 2026 - Group Stage
+DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
+ ecs
 SUMMARY:Round 1: B8 vs MIBR
+URL;VALUE=URI:https://kick.com/xsecs
 END:VEVENT
 END:VCALENDAR

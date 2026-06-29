@@ -340,7 +340,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:Lower bracket round 1 match 2: MEGO vs SAW
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260701T080000Z
@@ -352,5 +352,16 @@ DESCRIPTION:European Pro League - Series 8 Closed Qualifier 2026 - Group D\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:Elimination match: SAW vs WBT
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T110000Z
+UID:pandascore-match-1550159@esport-ics
+DTSTART:20260701T110000Z
+DTEND:20260701T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Lower bracket round 2 match 2: SAW vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
