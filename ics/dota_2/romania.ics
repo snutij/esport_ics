@@ -14,4 +14,13 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Nations Cup - Europe East Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 2: ROU vs SRB
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T100000Z
+UID:pandascore-match-1563863@esport-ics
+DTSTART:20260701T100000Z
+DTEND:20260701T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Nations Cup - Europe East Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: ROU vs TBD
+END:VEVENT
 END:VCALENDAR
