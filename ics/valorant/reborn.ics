@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 3 2026 - Playoffs\nWatch: https://www.twitch.
  tv/valorant_emea
 SUMMARY:Upper bracket quarterfinal 4: RBN vs JL
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T150000Z
+UID:pandascore-match-1534537@esport-ics
+DTSTART:20260701T150000Z
+DTEND:20260701T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Stage 3 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/valorant_emea
+SUMMARY:Upper bracket semifinal 2: RBN vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
