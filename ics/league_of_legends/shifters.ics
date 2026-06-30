@@ -157,6 +157,105 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - EMEA Qualifier 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/ewclol2026
 SUMMARY:Lower bracket round 2 match 1: SHFT vs GAL
-URL;VALUE=URI:https://www.twitch.tv/ewclol2026
+URL:https://www.twitch.tv/ewclol2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T171500Z
+UID:pandascore-match-1564645@esport-ics
+DTSTART:20260731T171500Z
+DTEND:20260731T193000Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:MKOI vs SHFT
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T150000Z
+UID:pandascore-match-1564650@esport-ics
+DTSTART:20260803T150000Z
+DTEND:20260803T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:Navi vs SHFT
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T150000Z
+UID:pandascore-match-1564652@esport-ics
+DTSTART:20260807T150000Z
+DTEND:20260807T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:SHFT vs GX
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T150000Z
+UID:pandascore-match-1564686@esport-ics
+DTSTART:20260814T150000Z
+DTEND:20260814T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:SHFT vs SK
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T171500Z
+UID:pandascore-match-1564691@esport-ics
+DTSTART:20260815T171500Z
+DTEND:20260815T193000Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:G2 vs SHFT
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T150000Z
+UID:pandascore-match-1564738@esport-ics
+DTSTART:20260822T150000Z
+DTEND:20260822T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:FNC vs SHFT
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T171500Z
+UID:pandascore-match-1564741@esport-ics
+DTSTART:20260823T171500Z
+DTEND:20260823T193000Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:SHFT vs KC
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T150000Z
+UID:pandascore-match-1564744@esport-ics
+DTSTART:20260828T150000Z
+DTEND:20260828T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:SHFT vs TH
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T120000Z
+UID:pandascore-match-1564779@esport-ics
+DTSTART:20260830T120000Z
+DTEND:20260830T141500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:SHFT vs VIT
+URL;VALUE=URI:https://www.twitch.tv/lec
 END:VEVENT
 END:VCALENDAR

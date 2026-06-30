@@ -773,6 +773,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 51 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket final : ex-MANA vs INF
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T080000Z
+UID:pandascore-match-1562051@esport-ics
+DTSTART:20260702T080000Z
+DTEND:20260702T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 51 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Grand final: INF vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

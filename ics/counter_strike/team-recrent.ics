@@ -65,6 +65,17 @@ CLASS:PUBLIC
 DESCRIPTION:Winline Star Series - Season 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/kartash0v
 SUMMARY:Lower bracket quarterfinal 2: Team Morphilina vs Recrent
-URL;VALUE=URI:https://www.twitch.tv/kartash0v
+URL:https://www.twitch.tv/kartash0v
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T090000Z
+UID:pandascore-match-1564594@esport-ics
+DTSTART:20260701T090000Z
+DTEND:20260701T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 5 2026 - Group A\nWatch: http
+ s://www.twitch.tv/betboom_sb_cs
+SUMMARY:StRoGo vs Recrent
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_cs
 END:VEVENT
 END:VCALENDAR

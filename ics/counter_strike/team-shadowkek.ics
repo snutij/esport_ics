@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Shadowkek
+SLUG:team-shadowkek
+BEGIN:VEVENT
+DTSTAMP:20260630T150000Z
+UID:pandascore-match-1564606@esport-ics
+DTSTART:20260630T150000Z
+DTEND:20260630T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 5 2026 - Group B\nWatch: http
+ s://www.twitch.tv/betboom_sb_cs
+SUMMARY:Shadowkek vs SHOKE
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T180000Z
+UID:pandascore-match-1564609@esport-ics
+DTSTART:20260701T180000Z
+DTEND:20260701T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 5 2026 - Group B\nWatch: http
+ s://www.twitch.tv/betboom_sb_cs
+SUMMARY:zoneR vs Shadowkek
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_cs
+END:VEVENT
+END:VCALENDAR

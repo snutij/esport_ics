@@ -177,6 +177,105 @@ CLASS:PUBLIC
 DESCRIPTION:LEC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/lec
 SUMMARY:FNC vs VIT
+URL:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T171500Z
+UID:pandascore-match-1564649@esport-ics
+DTSTART:20260802T171500Z
+DTEND:20260802T193000Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:FNC vs MKOI
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T171500Z
+UID:pandascore-match-1564653@esport-ics
+DTSTART:20260807T171500Z
+DTEND:20260807T193000Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:TH vs FNC
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T171500Z
+UID:pandascore-match-1564657@esport-ics
+DTSTART:20260809T171500Z
+DTEND:20260809T193000Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:FNC vs KC
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T150000Z
+UID:pandascore-match-1564690@esport-ics
+DTSTART:20260815T150000Z
+DTEND:20260815T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:SK vs FNC
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T171500Z
+UID:pandascore-match-1564693@esport-ics
+DTSTART:20260816T171500Z
+DTEND:20260816T193000Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:G2 vs FNC
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T150000Z
+UID:pandascore-match-1564738@esport-ics
+DTSTART:20260822T150000Z
+DTEND:20260822T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:FNC vs SHFT
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260824T150000Z
+UID:pandascore-match-1564742@esport-ics
+DTSTART:20260824T150000Z
+DTEND:20260824T171500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:Navi vs FNC
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T171500Z
+UID:pandascore-match-1564745@esport-ics
+DTSTART:20260828T171500Z
+DTEND:20260828T193000Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:VIT vs FNC
+URL;VALUE=URI:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T163000Z
+UID:pandascore-match-1564790@esport-ics
+DTSTART:20260830T163000Z
+DTEND:20260830T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lec
+SUMMARY:FNC vs GX
 URL;VALUE=URI:https://www.twitch.tv/lec
 END:VEVENT
 END:VCALENDAR
