@@ -14,4 +14,13 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Nations Cup - North America Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 3: Cuba vs Honduras
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T000000Z
+UID:pandascore-match-1563166@esport-ics
+DTSTART:20260630T000000Z
+DTEND:20260630T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Nations Cup - North America Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 2: Cuba vs TBD
+END:VEVENT
 END:VCALENDAR
