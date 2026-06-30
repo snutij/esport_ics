@@ -947,7 +947,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:Upper bracket quarterfinal 1: EJ vs MISA
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260701T103000Z
@@ -959,6 +959,17 @@ DESCRIPTION:European Pro League - Series 8 Closed Qualifier 2026 - Group D\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:Winners match: IC.A vs MISA
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T134500Z
+UID:pandascore-match-1550161@esport-ics
+DTSTART:20260701T134500Z
+DTEND:20260701T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Lower bracket round 2 match 4: LILMIX vs MISA
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T160000Z

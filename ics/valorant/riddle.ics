@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Japan Split 2 2026 - Main Stage\nWatch: https://www.twitc
  h.tv/valorant_jpn
 SUMMARY:RC vs RDL
+URL:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T070000Z
+UID:pandascore-match-1565213@esport-ics
+DTSTART:20260705T070000Z
+DTEND:20260705T091500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Japan Season Finals 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/valorant_jpn
+SUMMARY:Quarterfinal 1: RDL vs IGZ
 URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
 END:VEVENT
 END:VCALENDAR
