@@ -692,6 +692,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 3 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs
 SUMMARY:Round 2: MIBR.A vs PCY
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260630T183000Z
+UID:pandascore-match-1564528@esport-ics
+DTSTART:20260630T183000Z
+DTEND:20260630T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - June 2026 - Playoffs
+SUMMARY:Quarterfinals match 1: RED.A vs MIBR.A
 END:VEVENT
 END:VCALENDAR

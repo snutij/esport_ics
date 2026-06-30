@@ -14,4 +14,13 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Nations Cup - South America Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 3: Bolivia vs COL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T180000Z
+UID:pandascore-match-1563380@esport-ics
+DTSTART:20260701T180000Z
+DTEND:20260701T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Nations Cup - South America Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket final: Peru vs Bolivia
+END:VEVENT
 END:VCALENDAR
