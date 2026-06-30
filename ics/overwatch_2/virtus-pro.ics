@@ -179,6 +179,15 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - EMEA Stage 2 2026 - Group Stage\nWatch: https://www.twitc
  h.tv/ow_esports
 SUMMARY:VP vs 1234
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T170000Z
+UID:pandascore-match-1564531@esport-ics
+DTSTART:20260703T170000Z
+DTEND:20260703T191500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 2 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 1: VP vs Al Qadsiah
 END:VEVENT
 END:VCALENDAR

@@ -20,7 +20,9 @@ UID:pandascore-match-1564529@esport-ics
 DTSTART:20260630T210000Z
 DTEND:20260630T231500Z
 CLASS:PUBLIC
-DESCRIPTION:Gamers Club Liga Série A - June 2026 - Playoffs
+DESCRIPTION:Gamers Club Liga Série A - June 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/gamersclubcs
 SUMMARY:Quarterfinals match 2: ODK vs HAT
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR

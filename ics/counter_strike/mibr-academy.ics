@@ -700,7 +700,9 @@ UID:pandascore-match-1564528@esport-ics
 DTSTART:20260630T183000Z
 DTEND:20260630T204500Z
 CLASS:PUBLIC
-DESCRIPTION:Gamers Club Liga Série A - June 2026 - Playoffs
+DESCRIPTION:Gamers Club Liga Série A - June 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/gamersclubcs
 SUMMARY:Quarterfinals match 1: RED.A vs MIBR.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR
