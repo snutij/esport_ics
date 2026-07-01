@@ -768,6 +768,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:Lower bracket round 2 match 4: LILMIX vs MISA
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T110000Z
+UID:pandascore-match-1550163@esport-ics
+DTSTART:20260702T110000Z
+DTEND:20260702T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Lower bracket round 3 match 2: DNT vs LILMIX
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
