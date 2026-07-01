@@ -122,18 +122,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:Invision vs SB
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260701T190000Z
-UID:pandascore-match-1561061@esport-ics
-DTSTART:20260701T190000Z
-DTEND:20260701T211500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:STX vs SB
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260702T130000Z
@@ -144,6 +133,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:BALU vs SB
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260706T100000Z
+UID:pandascore-match-1561061@esport-ics
+DTSTART:20260706T100000Z
+DTEND:20260706T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:STX vs SB
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

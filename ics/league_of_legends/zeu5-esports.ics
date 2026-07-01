@@ -113,6 +113,83 @@ CLASS:PUBLIC
 DESCRIPTION:LRN - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  acelatam
 SUMMARY:Lower bracket semifinal: Z5 vs SDM
+URL:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T220000Z
+UID:pandascore-match-1567142@esport-ics
+DTSTART:20260704T220000Z
+DTEND:20260705T001500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:PLS vs Z5
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T190000Z
+UID:pandascore-match-1567144@esport-ics
+DTSTART:20260705T190000Z
+DTEND:20260705T211500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:Z5 vs FUE
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T220000Z
+UID:pandascore-match-1567150@esport-ics
+DTSTART:20260711T220000Z
+DTEND:20260712T001500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:KITS vs Z5
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T190000Z
+UID:pandascore-match-1567151@esport-ics
+DTSTART:20260712T190000Z
+DTEND:20260712T211500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:NCG  vs Z5
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260713T230000Z
+UID:pandascore-match-1567155@esport-ics
+DTSTART:20260713T230000Z
+DTEND:20260714T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:3V vs Z5
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T230000Z
+UID:pandascore-match-1567159@esport-ics
+DTSTART:20260718T230000Z
+DTEND:20260719T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:SDM vs Z5
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T020000Z
+UID:pandascore-match-1567165@esport-ics
+DTSTART:20260720T020000Z
+DTEND:20260720T041500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:LYN.A vs Z5
 URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:3v Team
+SLUG:3v-team
+BEGIN:VEVENT
+DTSTAMP:20260704T190000Z
+UID:pandascore-match-1567140@esport-ics
+DTSTART:20260704T190000Z
+DTEND:20260704T211500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:3V vs LYN.A
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T190000Z
+UID:pandascore-match-1567143@esport-ics
+DTSTART:20260705T190000Z
+DTEND:20260705T211500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:PLS vs 3V
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T190000Z
+UID:pandascore-match-1567147@esport-ics
+DTSTART:20260711T190000Z
+DTEND:20260711T211500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:3V vs SDM
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T220000Z
+UID:pandascore-match-1567153@esport-ics
+DTSTART:20260712T220000Z
+DTEND:20260713T001500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:KITS vs 3V
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260713T230000Z
+UID:pandascore-match-1567155@esport-ics
+DTSTART:20260713T230000Z
+DTEND:20260714T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:3V vs Z5
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T020000Z
+UID:pandascore-match-1567162@esport-ics
+DTSTART:20260719T020000Z
+DTEND:20260719T041500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:3V vs FUE
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T020000Z
+UID:pandascore-match-1567166@esport-ics
+DTSTART:20260720T020000Z
+DTEND:20260720T041500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:3V vs NCG 
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+END:VCALENDAR

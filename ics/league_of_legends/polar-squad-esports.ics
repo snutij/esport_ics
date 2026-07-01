@@ -80,7 +80,7 @@ CLASS:PUBLIC
 DESCRIPTION:LRN - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  acelatam
 SUMMARY:Lower bracket quarterfinal 1: Z5 vs PLS
-URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+URL:https://www.twitch.tv/lolacelatam
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T200000Z
@@ -92,5 +92,82 @@ DESCRIPTION:LRS - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  acelatam
 SUMMARY:Lower bracket quarterfinal 1: TBD vs PLS
 URL:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T220000Z
+UID:pandascore-match-1567142@esport-ics
+DTSTART:20260704T220000Z
+DTEND:20260705T001500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:PLS vs Z5
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T190000Z
+UID:pandascore-match-1567143@esport-ics
+DTSTART:20260705T190000Z
+DTEND:20260705T211500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:PLS vs 3V
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T190000Z
+UID:pandascore-match-1567148@esport-ics
+DTSTART:20260711T190000Z
+DTEND:20260711T211500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:PLS vs NCG 
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T220000Z
+UID:pandascore-match-1567154@esport-ics
+DTSTART:20260712T220000Z
+DTEND:20260713T001500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:PLS vs LYN.A
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T020000Z
+UID:pandascore-match-1567158@esport-ics
+DTSTART:20260714T020000Z
+DTEND:20260714T041500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:PLS vs SDM
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T020000Z
+UID:pandascore-match-1567161@esport-ics
+DTSTART:20260719T020000Z
+DTEND:20260719T041500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:PLS vs KITS
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T230000Z
+UID:pandascore-match-1567163@esport-ics
+DTSTART:20260719T230000Z
+DTEND:20260720T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:PLS vs FUE
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR
