@@ -166,6 +166,39 @@ CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Spring 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/road_of_legends
 SUMMARY:Lower bracket final: BAN vs MCN
+URL:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T170000Z
+UID:pandascore-match-1567169@esport-ics
+DTSTART:20260716T170000Z
+DTEND:20260716T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Summer 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:FEC vs BAN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T180000Z
+UID:pandascore-match-1567174@esport-ics
+DTSTART:20260723T180000Z
+DTEND:20260723T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Summer 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:BAN vs ZNT
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T180000Z
+UID:pandascore-match-1567176@esport-ics
+DTSTART:20260728T180000Z
+DTEND:20260728T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Summer 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:BAN vs MYTH
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 END:VCALENDAR

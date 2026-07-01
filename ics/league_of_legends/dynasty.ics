@@ -102,6 +102,39 @@ CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Spring 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/road_of_legends
 SUMMARY:Lower bracket quarterfinal 1: DYN vs OUAT
+URL:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T170000Z
+UID:pandascore-match-1567167@esport-ics
+DTSTART:20260714T170000Z
+DTEND:20260714T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Summer 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:MCN vs DYN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T170000Z
+UID:pandascore-match-1567173@esport-ics
+DTSTART:20260723T170000Z
+DTEND:20260723T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Summer 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:MYTH vs DYN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T170000Z
+UID:pandascore-match-1567175@esport-ics
+DTSTART:20260728T170000Z
+DTEND:20260728T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Summer 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:ZNT vs DYN
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 END:VCALENDAR
