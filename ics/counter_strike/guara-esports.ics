@@ -312,6 +312,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 3 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs
 SUMMARY:Round 2: PDAF vs GE
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T220000Z
+UID:pandascore-match-1555113@esport-ics
+DTSTART:20260701T220000Z
+DTEND:20260702T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 3 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs
+SUMMARY:Round 3: paiN.A vs GE
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

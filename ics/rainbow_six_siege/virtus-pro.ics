@@ -232,6 +232,17 @@ CLASS:PUBLIC
 DESCRIPTION:Europe MENA League - Stage 1 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/rainbow6
 SUMMARY:VP vs FLCS
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260706T190000Z
+UID:pandascore-match-1555255@esport-ics
+DTSTART:20260706T190000Z
+DTEND:20260706T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 1 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/rainbow6
+SUMMARY:Upper bracket semifinal 2: VP vs GE
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

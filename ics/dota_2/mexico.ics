@@ -23,4 +23,13 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Nations Cup - North America Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket final: Canada vs MEX
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T200000Z
+UID:pandascore-match-1563173@esport-ics
+DTSTART:20260701T200000Z
+DTEND:20260701T221500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Nations Cup - North America Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket final: MEX vs Cuba
+END:VEVENT
 END:VCALENDAR
