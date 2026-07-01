@@ -187,7 +187,9 @@ UID:pandascore-match-1564531@esport-ics
 DTSTART:20260703T170000Z
 DTEND:20260703T191500Z
 CLASS:PUBLIC
-DESCRIPTION:OCS - EMEA Stage 2 2026 - Playoffs
+DESCRIPTION:OCS - EMEA Stage 2 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/ow_esports
 SUMMARY:Upper bracket semifinal 1: VP vs Al Qadsiah
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

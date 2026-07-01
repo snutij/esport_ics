@@ -102,6 +102,83 @@ CLASS:PUBLIC
 DESCRIPTION:LRS - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  acelatam
 SUMMARY:Lower bracket final: 9ZG vs VTC
+URL:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T230000Z
+UID:pandascore-match-1567113@esport-ics
+DTSTART:20260701T230000Z
+DTEND:20260702T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:9ZG vs 7D
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T230000Z
+UID:pandascore-match-1567118@esport-ics
+DTSTART:20260702T230000Z
+DTEND:20260703T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:9ZG vs GL
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T200000Z
+UID:pandascore-match-1567120@esport-ics
+DTSTART:20260703T200000Z
+DTEND:20260703T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:9ZG vs MAZ
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T200000Z
+UID:pandascore-match-1567123@esport-ics
+DTSTART:20260708T200000Z
+DTEND:20260708T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:9ZG vs DOH
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T200000Z
+UID:pandascore-match-1567127@esport-ics
+DTSTART:20260709T200000Z
+DTEND:20260709T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:9ZG vs VTC
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T230000Z
+UID:pandascore-match-1567133@esport-ics
+DTSTART:20260710T230000Z
+DTEND:20260711T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:9ZG vs ZEN
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T230000Z
+UID:pandascore-match-1567138@esport-ics
+DTSTART:20260714T230000Z
+DTEND:20260715T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:9ZG vs MG
 URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR

@@ -91,6 +91,83 @@ CLASS:PUBLIC
 DESCRIPTION:LRS - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  acelatam
 SUMMARY:Lower bracket quarterfinal 1: 7D vs 9ZG
+URL:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T230000Z
+UID:pandascore-match-1567113@esport-ics
+DTSTART:20260701T230000Z
+DTEND:20260702T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:9ZG vs 7D
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T200000Z
+UID:pandascore-match-1567115@esport-ics
+DTSTART:20260702T200000Z
+DTEND:20260702T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:7D vs DOH
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T230000Z
+UID:pandascore-match-1567122@esport-ics
+DTSTART:20260703T230000Z
+DTEND:20260704T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:7D vs ZEN
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T200000Z
+UID:pandascore-match-1567124@esport-ics
+DTSTART:20260708T200000Z
+DTEND:20260708T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:7D vs MAZ
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T230000Z
+UID:pandascore-match-1567129@esport-ics
+DTSTART:20260709T230000Z
+DTEND:20260710T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:7D vs GL
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T200000Z
+UID:pandascore-match-1567131@esport-ics
+DTSTART:20260710T200000Z
+DTEND:20260710T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:MG vs 7D
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T230000Z
+UID:pandascore-match-1567137@esport-ics
+DTSTART:20260714T230000Z
+DTEND:20260715T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:VTC vs 7D
 URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR

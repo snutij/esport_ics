@@ -72,6 +72,83 @@ CLASS:PUBLIC
 DESCRIPTION:VCS - Summer 2026 - Playoffs\nWatch: https://www.youtube.com/@v
  cslmht/streams
 SUMMARY:Lower bracket final: ZEN vs DINO
-URL;VALUE=URI:https://www.youtube.com/@vcslmht/streams
+URL:https://www.youtube.com/@vcslmht/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T200000Z
+UID:pandascore-match-1567112@esport-ics
+DTSTART:20260701T200000Z
+DTEND:20260701T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:GL vs ZEN
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T200000Z
+UID:pandascore-match-1567116@esport-ics
+DTSTART:20260702T200000Z
+DTEND:20260702T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:MG vs ZEN
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T230000Z
+UID:pandascore-match-1567122@esport-ics
+DTSTART:20260703T230000Z
+DTEND:20260704T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:7D vs ZEN
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T230000Z
+UID:pandascore-match-1567125@esport-ics
+DTSTART:20260708T230000Z
+DTEND:20260709T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:VTC vs ZEN
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T200000Z
+UID:pandascore-match-1567128@esport-ics
+DTSTART:20260709T200000Z
+DTEND:20260709T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:MAZ vs ZEN
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T230000Z
+UID:pandascore-match-1567133@esport-ics
+DTSTART:20260710T230000Z
+DTEND:20260711T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:9ZG vs ZEN
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T200000Z
+UID:pandascore-match-1567136@esport-ics
+DTSTART:20260714T200000Z
+DTEND:20260714T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:ZEN vs DOH
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR

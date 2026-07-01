@@ -102,6 +102,83 @@ CLASS:PUBLIC
 DESCRIPTION:LRS - Split 1 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  acelatam
 SUMMARY:Grand final: GL vs VTC
+URL:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T200000Z
+UID:pandascore-match-1567112@esport-ics
+DTSTART:20260701T200000Z
+DTEND:20260701T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:GL vs ZEN
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260702T230000Z
+UID:pandascore-match-1567118@esport-ics
+DTSTART:20260702T230000Z
+DTEND:20260703T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:9ZG vs GL
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T230000Z
+UID:pandascore-match-1567121@esport-ics
+DTSTART:20260703T230000Z
+DTEND:20260704T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:GL vs DOH
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T230000Z
+UID:pandascore-match-1567126@esport-ics
+DTSTART:20260708T230000Z
+DTEND:20260709T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:MG vs GL
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T230000Z
+UID:pandascore-match-1567129@esport-ics
+DTSTART:20260709T230000Z
+DTEND:20260710T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:7D vs GL
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T200000Z
+UID:pandascore-match-1567132@esport-ics
+DTSTART:20260710T200000Z
+DTEND:20260710T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:VTC vs GL
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T200000Z
+UID:pandascore-match-1567135@esport-ics
+DTSTART:20260714T200000Z
+DTEND:20260714T221500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
+ tv/lolacelatam
+SUMMARY:GL vs MAZ
 URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR
