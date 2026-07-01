@@ -3,19 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:HeRoMaRinE
-SLUG:heromarine
-BEGIN:VEVENT
-DTSTAMP:20260327T195000Z
-UID:pandascore-match-1418609@esport-ics
-DTSTART:20260327T195000Z
-DTEND:20260327T233500Z
-CLASS:PUBLIC
-DESCRIPTION:Basilisk Big Brain Bouts - Season 110 2026 - Playoffs\nWatch: h
- ttps://www.twitch.tv/rotterdam08
-SUMMARY:Reynor vs HeRoMaRinE
-URL:https://www.twitch.tv/rotterdam08
-END:VEVENT
+X-WR-CALNAME:Shino
+SLUG:shino
 BEGIN:VEVENT
 DTSTAMP:20260703T110000Z
 UID:pandascore-match-1567196@esport-ics
@@ -29,46 +18,46 @@ URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T121500Z
-UID:pandascore-match-1567198@esport-ics
+UID:pandascore-match-1567200@esport-ics
 DTSTART:20260703T121500Z
 DTEND:20260703T143000Z
 CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group  A\nWatch: https://www.twitch
  .tv/taketv
-SUMMARY:HeRoMaRinE vs Jumy
+SUMMARY:Reynor vs Shino
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T131500Z
-UID:pandascore-match-1567203@esport-ics
+UID:pandascore-match-1567201@esport-ics
 DTSTART:20260703T131500Z
 DTEND:20260703T153000Z
 CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group  A\nWatch: https://www.twitch
  .tv/taketv
-SUMMARY:HeRoMaRinE vs HolyHit
+SUMMARY:Jumy vs Shino
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T141500Z
-UID:pandascore-match-1567204@esport-ics
+UID:pandascore-match-1567206@esport-ics
 DTSTART:20260703T141500Z
 DTEND:20260703T163000Z
 CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group  A\nWatch: https://www.twitch
  .tv/taketv
-SUMMARY:HeRoMaRinE vs Krystianer
+SUMMARY:Shino vs HolyHit
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T151500Z
-UID:pandascore-match-1567209@esport-ics
+UID:pandascore-match-1567207@esport-ics
 DTSTART:20260703T151500Z
 DTEND:20260703T173000Z
 CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group  A\nWatch: https://www.twitch
  .tv/taketv
-SUMMARY:Reynor vs HeRoMaRinE
+SUMMARY:Krystianer vs Shino
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cellsidus
+SLUG:cellsidus
+BEGIN:VEVENT
+DTSTAMP:20260704T110000Z
+UID:pandascore-match-1567226@esport-ics
+DTSTART:20260704T110000Z
+DTEND:20260704T131500Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Harstem vs Cellsidus
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T121500Z
+UID:pandascore-match-1567230@esport-ics
+DTSTART:20260704T121500Z
+DTEND:20260704T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Serral vs Cellsidus
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T131500Z
+UID:pandascore-match-1567231@esport-ics
+DTSTART:20260704T131500Z
+DTEND:20260704T153000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Gerald vs Cellsidus
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T141500Z
+UID:pandascore-match-1567236@esport-ics
+DTSTART:20260704T141500Z
+DTEND:20260704T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Cellsidus vs HiGhDrA
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T151500Z
+UID:pandascore-match-1567237@esport-ics
+DTSTART:20260704T151500Z
+DTEND:20260704T173000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:uThermal vs Cellsidus
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+END:VCALENDAR

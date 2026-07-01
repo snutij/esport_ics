@@ -36,7 +36,7 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Wildcard Group B\nWatch: https://www.tw
  itch.tv/lckclchallengersleague
 SUMMARY:HUNS vs Verso Time
-URL;VALUE=URI:https://www.twitch.tv/lckclchallengersleague
+URL:https://www.twitch.tv/lckclchallengersleague
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260702T111500Z
@@ -44,7 +44,9 @@ UID:pandascore-match-1564604@esport-ics
 DTSTART:20260702T111500Z
 DTEND:20260702T120000Z
 CLASS:PUBLIC
-DESCRIPTION:Mid Season Cup - 2026 - Wildcard Group B
+DESCRIPTION:Mid Season Cup - 2026 - Wildcard Group B\nWatch: https://www.tw
+ itch.tv/lckclchallengersleague
 SUMMARY:HUNS vs NME
+URL;VALUE=URI:https://www.twitch.tv/lckclchallengersleague
 END:VEVENT
 END:VCALENDAR

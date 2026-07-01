@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HiGhDrA
+SLUG:highdra
+BEGIN:VEVENT
+DTSTAMP:20260704T110000Z
+UID:pandascore-match-1567225@esport-ics
+DTSTART:20260704T110000Z
+DTEND:20260704T131500Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Serral vs HiGhDrA
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T121500Z
+UID:pandascore-match-1567229@esport-ics
+DTSTART:20260704T121500Z
+DTEND:20260704T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:uThermal vs HiGhDrA
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T131500Z
+UID:pandascore-match-1567233@esport-ics
+DTSTART:20260704T131500Z
+DTEND:20260704T153000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Harstem vs HiGhDrA
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T141500Z
+UID:pandascore-match-1567236@esport-ics
+DTSTART:20260704T141500Z
+DTEND:20260704T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Cellsidus vs HiGhDrA
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T151500Z
+UID:pandascore-match-1567238@esport-ics
+DTSTART:20260704T151500Z
+DTEND:20260704T173000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Gerald vs HiGhDrA
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+END:VCALENDAR

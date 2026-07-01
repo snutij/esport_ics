@@ -168,6 +168,61 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 2 - Group B\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:Gerald vs Solar
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T110000Z
+UID:pandascore-match-1567227@esport-ics
+DTSTART:20260704T110000Z
+DTEND:20260704T131500Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:uThermal vs Gerald
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T121500Z
+UID:pandascore-match-1567228@esport-ics
+DTSTART:20260704T121500Z
+DTEND:20260704T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Harstem vs Gerald
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T131500Z
+UID:pandascore-match-1567231@esport-ics
+DTSTART:20260704T131500Z
+DTEND:20260704T153000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Gerald vs Cellsidus
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T141500Z
+UID:pandascore-match-1567235@esport-ics
+DTSTART:20260704T141500Z
+DTEND:20260704T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Serral vs Gerald
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T151500Z
+UID:pandascore-match-1567238@esport-ics
+DTSTART:20260704T151500Z
+DTEND:20260704T173000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Gerald vs HiGhDrA
+URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 END:VCALENDAR

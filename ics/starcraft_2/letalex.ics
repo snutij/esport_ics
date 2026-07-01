@@ -3,28 +3,17 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Fjant
-SLUG:fjant
-BEGIN:VEVENT
-DTSTAMP:20260327T170000Z
-UID:pandascore-match-1418607@esport-ics
-DTSTART:20260327T170000Z
-DTEND:20260327T204500Z
-CLASS:PUBLIC
-DESCRIPTION:Basilisk Big Brain Bouts - Season 110 2026 - Playoffs\nWatch: h
- ttps://www.twitch.tv/rotterdam08
-SUMMARY:Fjant vs SortOf
-URL:https://www.twitch.tv/rotterdam08
-END:VEVENT
+X-WR-CALNAME:LetaleX
+SLUG:letalex
 BEGIN:VEVENT
 DTSTAMP:20260704T164500Z
-UID:pandascore-match-1567242@esport-ics
+UID:pandascore-match-1567240@esport-ics
 DTSTART:20260704T164500Z
 DTEND:20260704T190000Z
 CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group D\nWatch: https://www.twitch.
  tv/taketv
-SUMMARY:Fjant vs BabyMarine
+SUMMARY:Lambo vs LetaleX
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
@@ -40,35 +29,35 @@ URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T184500Z
-UID:pandascore-match-1567247@esport-ics
+UID:pandascore-match-1567248@esport-ics
 DTSTART:20260704T184500Z
 DTEND:20260704T210000Z
 CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group D\nWatch: https://www.twitch.
  tv/taketv
-SUMMARY:Lambo vs Fjant
+SUMMARY:SKillous vs LetaleX
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T194500Z
-UID:pandascore-match-1567249@esport-ics
+UID:pandascore-match-1567251@esport-ics
 DTSTART:20260704T194500Z
 DTEND:20260704T220000Z
 CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group D\nWatch: https://www.twitch.
  tv/taketv
-SUMMARY:SKillous vs Fjant
+SUMMARY:Mixu vs LetaleX
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T204500Z
-UID:pandascore-match-1567252@esport-ics
+UID:pandascore-match-1567253@esport-ics
 DTSTART:20260704T204500Z
 DTEND:20260704T230000Z
 CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group D\nWatch: https://www.twitch.
  tv/taketv
-SUMMARY:Fjant vs Mixu
+SUMMARY:BabyMarine vs LetaleX
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 END:VCALENDAR

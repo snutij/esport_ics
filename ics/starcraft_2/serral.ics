@@ -102,6 +102,61 @@ CLASS:PUBLIC
 DESCRIPTION:PiG Sty Festival - Season 7 2026 - Playoffs\nWatch: https://www
  .youtube.com/watch?v=opL8K3w20mk
 SUMMARY:Semifinal 1: Clem vs Serral
-URL;VALUE=URI:https://www.youtube.com/watch?v=opL8K3w20mk
+URL:https://www.youtube.com/watch?v=opL8K3w20mk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T110000Z
+UID:pandascore-match-1567225@esport-ics
+DTSTART:20260704T110000Z
+DTEND:20260704T131500Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Serral vs HiGhDrA
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T121500Z
+UID:pandascore-match-1567230@esport-ics
+DTSTART:20260704T121500Z
+DTEND:20260704T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Serral vs Cellsidus
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T131500Z
+UID:pandascore-match-1567232@esport-ics
+DTSTART:20260704T131500Z
+DTEND:20260704T153000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Serral vs uThermal
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T141500Z
+UID:pandascore-match-1567235@esport-ics
+DTSTART:20260704T141500Z
+DTEND:20260704T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Serral vs Gerald
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T151500Z
+UID:pandascore-match-1567239@esport-ics
+DTSTART:20260704T151500Z
+DTEND:20260704T173000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Serral vs Harstem
+URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 END:VCALENDAR

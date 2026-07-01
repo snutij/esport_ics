@@ -190,4 +190,48 @@ DESCRIPTION:Road Of Legends - Summer 2026 - Regular Season\nWatch: https://
 SUMMARY:MCN vs SEC
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T170000Z
+UID:pandascore-match-1567179@esport-ics
+DTSTART:20260804T170000Z
+DTEND:20260804T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Summer 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:MCN vs BAN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260811T170000Z
+UID:pandascore-match-1567183@esport-ics
+DTSTART:20260811T170000Z
+DTEND:20260811T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Summer 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:FEC vs MCN
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T180000Z
+UID:pandascore-match-1567188@esport-ics
+DTSTART:20260818T180000Z
+DTEND:20260818T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Summer 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:MCN vs MYTH
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T170000Z
+UID:pandascore-match-1567193@esport-ics
+DTSTART:20260827T170000Z
+DTEND:20260827T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Summer 2026 - Regular Season\nWatch: https://
+ www.twitch.tv/road_of_legends
+SUMMARY:MCN vs ZNT
+URL;VALUE=URI:https://www.twitch.tv/road_of_legends
+END:VEVENT
 END:VCALENDAR

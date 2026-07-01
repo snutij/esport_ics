@@ -135,7 +135,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group A\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:ShoWTimE vs Nicoract
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260521T134000Z
@@ -146,6 +146,61 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group A\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:Rogue vs ShoWTimE
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T164500Z
+UID:pandascore-match-1567211@esport-ics
+DTSTART:20260703T164500Z
+DTEND:20260703T190000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group B\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:ShoWTimE vs sebesdes
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T174500Z
+UID:pandascore-match-1567213@esport-ics
+DTSTART:20260703T174500Z
+DTEND:20260703T200000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group B\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:ShoWTimE vs Arrogfire
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T184500Z
+UID:pandascore-match-1567218@esport-ics
+DTSTART:20260703T184500Z
+DTEND:20260703T210000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group B\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:ShoWTimE vs Lorimbo
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T194500Z
+UID:pandascore-match-1567219@esport-ics
+DTSTART:20260703T194500Z
+DTEND:20260703T220000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group B\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:ShoWTimE vs Elazer
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T204500Z
+UID:pandascore-match-1567224@esport-ics
+DTSTART:20260703T204500Z
+DTEND:20260703T230000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group B\nWatch: https://www.twitch.
+ tv/taketv
+SUMMARY:Clem vs ShoWTimE
+URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 END:VCALENDAR

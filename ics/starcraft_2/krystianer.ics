@@ -135,6 +135,61 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group B\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:trigger vs Krystianer
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T110000Z
+UID:pandascore-match-1567197@esport-ics
+DTSTART:20260703T110000Z
+DTEND:20260703T131500Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group  A\nWatch: https://www.twitch
+ .tv/taketv
+SUMMARY:Krystianer vs Jumy
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T121500Z
+UID:pandascore-match-1567199@esport-ics
+DTSTART:20260703T121500Z
+DTEND:20260703T143000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group  A\nWatch: https://www.twitch
+ .tv/taketv
+SUMMARY:Krystianer vs HolyHit
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T131500Z
+UID:pandascore-match-1567202@esport-ics
+DTSTART:20260703T131500Z
+DTEND:20260703T153000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group  A\nWatch: https://www.twitch
+ .tv/taketv
+SUMMARY:Reynor vs Krystianer
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T141500Z
+UID:pandascore-match-1567204@esport-ics
+DTSTART:20260703T141500Z
+DTEND:20260703T163000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group  A\nWatch: https://www.twitch
+ .tv/taketv
+SUMMARY:HeRoMaRinE vs Krystianer
+URL;VALUE=URI:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T151500Z
+UID:pandascore-match-1567207@esport-ics
+DTSTART:20260703T151500Z
+DTEND:20260703T173000Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Group  A\nWatch: https://www.twitch
+ .tv/taketv
+SUMMARY:Krystianer vs Shino
+URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 END:VCALENDAR
