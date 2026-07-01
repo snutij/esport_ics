@@ -11,8 +11,10 @@ UID:pandascore-match-1564601@esport-ics
 DTSTART:20260701T111500Z
 DTEND:20260701T120000Z
 CLASS:PUBLIC
-DESCRIPTION:Mid Season Cup - 2026 - Wildcard Group B
+DESCRIPTION:Mid Season Cup - 2026 - Wildcard Group B\nWatch: https://www.tw
+ itch.tv/mlbbofficial
 SUMMARY:SR vs FAL
+URL;VALUE=URI:https://www.twitch.tv/mlbbofficial
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260701T124500Z
@@ -20,8 +22,19 @@ UID:pandascore-match-1564602@esport-ics
 DTSTART:20260701T124500Z
 DTEND:20260701T133000Z
 CLASS:PUBLIC
-DESCRIPTION:Mid Season Cup - 2026 - Wildcard Group B
+DESCRIPTION:Mid Season Cup - 2026 - Wildcard Group B\nWatch: https://www.tw
+ itch.tv/mlbbofficial
 SUMMARY:HUNS vs FAL
+URL;VALUE=URI:https://www.twitch.tv/mlbbofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T210000Z
+UID:pandascore-match-1564612@esport-ics
+DTSTART:20260701T210000Z
+DTEND:20260701T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Wildcard Group B
+SUMMARY:FAL vs Verso Time
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260702T124500Z
