@@ -330,6 +330,15 @@ CLASS:PUBLIC
 DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
  e.com/eragonuk
 SUMMARY:DK vs C9
-URL;VALUE=URI:https://www.sooplive.com/eragonuk
+URL:https://www.sooplive.com/eragonuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T100000Z
+UID:pandascore-match-1568903@esport-ics
+DTSTART:20260730T100000Z
+DTEND:20260730T121500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - 2026 - Round 3-4 Legend Group
+SUMMARY:HLE vs DK
 END:VEVENT
 END:VCALENDAR

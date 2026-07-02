@@ -36,7 +36,7 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Wildcard Group A\nWatch: https://www.yo
  utube.com/watch?v=fYpW8zCVWP4
 SUMMARY:FUT vs A7
-URL;VALUE=URI:https://www.youtube.com/watch?v=fYpW8zCVWP4
+URL:https://www.youtube.com/watch?v=fYpW8zCVWP4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260702T143000Z
@@ -47,6 +47,15 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Wildcard Group A\nWatch: https://www.tw
  itch.tv/lckclchallengersleague
 SUMMARY:VSG vs A7
-URL;VALUE=URI:https://www.twitch.tv/lckclchallengersleague
+URL:https://www.twitch.tv/lckclchallengersleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T133000Z
+UID:pandascore-match-1568884@esport-ics
+DTSTART:20260703T133000Z
+DTEND:20260703T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Cross-Group Gauntlet
+SUMMARY:Round 2 match 1: A7N vs TBD
 END:VEVENT
 END:VCALENDAR

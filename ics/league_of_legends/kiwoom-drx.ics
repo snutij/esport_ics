@@ -227,6 +227,15 @@ CLASS:PUBLIC
 DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
  e.com/eragonuk
 SUMMARY:KRX vs FLY
-URL;VALUE=URI:https://www.sooplive.com/eragonuk
+URL:https://www.sooplive.com/eragonuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T080000Z
+UID:pandascore-match-1568902@esport-ics
+DTSTART:20260729T080000Z
+DTEND:20260729T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - 2026 - Round 3-4 Rise Group
+SUMMARY:KRX vs NS
 END:VEVENT
 END:VCALENDAR

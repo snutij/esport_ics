@@ -47,6 +47,15 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Wildcard Group A\nWatch: https://www.yo
  utube.com/watch?v=fYpW8zCVWP4
 SUMMARY:MNZ vs A7
-URL;VALUE=URI:https://www.youtube.com/watch?v=fYpW8zCVWP4
+URL:https://www.youtube.com/watch?v=fYpW8zCVWP4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T090000Z
+UID:pandascore-match-1568883@esport-ics
+DTSTART:20260703T090000Z
+DTEND:20260703T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Cross-Group Gauntlet
+SUMMARY:Round 1 match 2: NME vs MNZ
 END:VEVENT
 END:VCALENDAR

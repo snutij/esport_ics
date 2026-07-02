@@ -45,6 +45,15 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Wildcard Group B\nWatch: https://www.yo
  utube.com/watch?v=fYpW8zCVWP4
 SUMMARY:NME vs FAL
-URL;VALUE=URI:https://www.youtube.com/watch?v=fYpW8zCVWP4
+URL:https://www.youtube.com/watch?v=fYpW8zCVWP4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T120000Z
+UID:pandascore-match-1568885@esport-ics
+DTSTART:20260703T120000Z
+DTEND:20260703T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Cross-Group Gauntlet
+SUMMARY:Round 2 match 2: FAL vs TBD
 END:VEVENT
 END:VCALENDAR

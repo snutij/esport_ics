@@ -796,6 +796,17 @@ CLASS:PUBLIC
 DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
  ecsb
 SUMMARY:Round 2: B8 vs NEM
-URL;VALUE=URI:https://kick.com/xsecsb
+URL:https://kick.com/xsecsb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T130000Z
+UID:pandascore-match-1551617@esport-ics
+DTSTART:20260703T130000Z
+DTEND:20260703T151500Z
+CLASS:PUBLIC
+DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
+ ecs
+SUMMARY:Round 3: BB vs NEM
+URL;VALUE=URI:https://kick.com/xsecs
 END:VEVENT
 END:VCALENDAR

@@ -261,4 +261,13 @@ DESCRIPTION:Mid-Season Invitational - 2026 - Playoffs\nWatch: https://www.t
 SUMMARY:Upper bracket quarterfinal 3: HLE vs TSW
 URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T100000Z
+UID:pandascore-match-1568903@esport-ics
+DTSTART:20260730T100000Z
+DTEND:20260730T121500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - 2026 - Round 3-4 Legend Group
+SUMMARY:HLE vs DK
+END:VEVENT
 END:VCALENDAR

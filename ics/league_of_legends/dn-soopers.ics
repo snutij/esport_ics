@@ -279,6 +279,15 @@ CLASS:PUBLIC
 DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
  e.com/eragonuk
 SUMMARY:DNS vs LOS
-URL;VALUE=URI:https://www.sooplive.com/eragonuk
+URL:https://www.sooplive.com/eragonuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T080000Z
+UID:pandascore-match-1568904@esport-ics
+DTSTART:20260730T080000Z
+DTEND:20260730T101500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - 2026 - Round 3-4 Rise Group
+SUMMARY:DNS vs BFX
 END:VEVENT
 END:VCALENDAR

@@ -574,6 +574,17 @@ CLASS:PUBLIC
 DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
  ecs
 SUMMARY:Round 2: 9z vs SIN
+URL:https://kick.com/xsecs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T100000Z
+UID:pandascore-match-1551616@esport-ics
+DTSTART:20260703T100000Z
+DTEND:20260703T104500Z
+CLASS:PUBLIC
+DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
+ ecs
+SUMMARY:Round 3: 3DMAX vs 9z
 URL;VALUE=URI:https://kick.com/xsecs
 END:VEVENT
 END:VCALENDAR
