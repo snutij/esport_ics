@@ -156,6 +156,17 @@ SUMMARY:RRQ vs 100T
 URL:https://www.twitch.tv/ewc_stcarena_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260704T110000Z
+UID:pandascore-match-1561292@esport-ics
+DTSTART:20260704T110000Z
+DTEND:20260704T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Elimination match: RRQ vs EDG
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260718T080000Z
 UID:pandascore-match-1561469@esport-ics
 DTSTART:20260718T080000Z

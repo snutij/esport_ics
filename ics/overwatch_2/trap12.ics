@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Pacific Stage 2 2026 - Group Stage\nWatch: https://www.tw
  itch.tv/ow_esports_th
 SUMMARY:TS vs T12
+URL:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T110000Z
+UID:pandascore-match-1525751@esport-ics
+DTSTART:20260709T110000Z
+DTEND:20260709T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 2 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/ow_esports_th
+SUMMARY:Semifinal 1: SSE vs T12
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
 END:VEVENT
 END:VCALENDAR
