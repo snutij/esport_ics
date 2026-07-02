@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 51 2026 - Group A\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Elimination match: ME vs EAC Rising
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260706T103000Z
+UID:pandascore-match-1568959@esport-ics
+DTSTART:20260706T103000Z
+DTEND:20260706T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 52 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:ESB vs EAC Rising
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

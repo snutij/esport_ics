@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Svenska CS-Ligan - 2026 - Group B\nWatch: https://www.twitch.tv
  /fragbite
 SUMMARY:Elimination match: VEN vs LEO
-URL;VALUE=URI:https://www.twitch.tv/fragbite
+URL:https://www.twitch.tv/fragbite
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T080000Z
+UID:pandascore-match-1568948@esport-ics
+DTSTART:20260704T080000Z
+DTEND:20260704T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 52 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:FaZe UN vs LEO
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

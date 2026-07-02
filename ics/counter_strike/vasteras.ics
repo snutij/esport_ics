@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Journey - Spring 2026 - Group C\nWatch: https://www.twitch.tv/j
  ourney_cs2
 SUMMARY:Winners match: vsters vs BCA
-URL;VALUE=URI:https://www.twitch.tv/journey_cs2
+URL:https://www.twitch.tv/journey_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T103000Z
+UID:pandascore-match-1568949@esport-ics
+DTSTART:20260704T103000Z
+DTEND:20260704T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 52 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Prestige Academy vs vsters
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
