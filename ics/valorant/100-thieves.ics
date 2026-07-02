@@ -156,15 +156,15 @@ DESCRIPTION:Esports World Cup - Americas Qualifier 2026 - Stage 2
 SUMMARY:Upper bracket semifinal 2: 100T vs LOUD
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260702T110000Z
+DTSTAMP:20260702T113000Z
 UID:pandascore-match-1561290@esport-ics
-DTSTART:20260702T110000Z
-DTEND:20260702T131500Z
+DTSTART:20260702T113000Z
+DTEND:20260702T134500Z
 CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
- v/ewc_stcarena_en
+ v/ewc_stcarena_en2
 SUMMARY:RRQ vs 100T
-URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260718T210000Z
