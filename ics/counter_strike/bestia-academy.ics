@@ -599,6 +599,17 @@ SUMMARY:Quarterfinal 3: Alzon vs BST.A
 URL:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260702T210000Z
+UID:pandascore-match-1567946@esport-ics
+DTSTART:20260702T210000Z
+DTEND:20260702T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - June 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/gamersclubcs
+SUMMARY:Semifinal 2: ALKA vs BST.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260702T220000Z
 UID:pandascore-match-1555117@esport-ics
 DTSTART:20260702T220000Z
