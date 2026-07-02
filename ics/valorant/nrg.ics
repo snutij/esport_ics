@@ -310,6 +310,17 @@ SUMMARY:PR vs NRG
 URL:https://www.twitch.tv/EWC_STCArena_EN
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260704T134500Z
+UID:pandascore-match-1561296@esport-ics
+DTSTART:20260704T134500Z
+DTEND:20260704T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Winners match: VIT vs NRG
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260719T000000Z
 UID:pandascore-match-1561511@esport-ics
 DTSTART:20260719T000000Z
