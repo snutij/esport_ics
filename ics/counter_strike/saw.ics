@@ -373,6 +373,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:Lower bracket round 3 match 1: Wampirki vs SAW
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T110000Z
+UID:pandascore-match-1550166@esport-ics
+DTSTART:20260703T110000Z
+DTEND:20260703T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Lower bracket quarterfinal 1: SAW vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

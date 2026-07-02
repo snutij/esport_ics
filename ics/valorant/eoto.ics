@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Japan Split 2 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/valorant_jpn
 SUMMARY:Upper bracket semifinal 2: EOTO vs SSQ
+URL:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T070000Z
+UID:pandascore-match-1566312@esport-ics
+DTSTART:20260703T070000Z
+DTEND:20260703T091500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Japan Split 2 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/valorant_jpn
+SUMMARY:Lower bracket semifinal: SGGC vs EOTO
 URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
 END:VEVENT
 END:VCALENDAR
