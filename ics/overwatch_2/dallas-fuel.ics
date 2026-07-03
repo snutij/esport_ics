@@ -176,7 +176,9 @@ UID:pandascore-match-1564539@esport-ics
 DTSTART:20260703T213000Z
 DTEND:20260703T234500Z
 CLASS:PUBLIC
-DESCRIPTION:OCS - North America Stage 2 2026 - Playoffs
+DESCRIPTION:OCS - North America Stage 2 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/ow_esports
 SUMMARY:Upper bracket semifinal 2: DAL vs TL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

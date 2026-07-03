@@ -262,6 +262,17 @@ SUMMARY:Upper bracket quarterfinal 3: HLE vs TSW
 URL:https://www.twitch.tv/riotgames
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260705T080000Z
+UID:pandascore-match-1541770@esport-ics
+DTSTART:20260705T080000Z
+DTEND:20260705T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid-Season Invitational - 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/riotgames
+SUMMARY:Upper bracket semifinal 1: HLE vs TBD
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260730T100000Z
 UID:pandascore-match-1568903@esport-ics
 DTSTART:20260730T100000Z
