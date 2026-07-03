@@ -76,6 +76,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 5 2026 - Group A\nWatch: http
  s://www.twitch.tv/betboom_sb_cs
 SUMMARY:StRoGo vs Recrent
+URL:https://www.twitch.tv/betboom_sb_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T100000Z
+UID:pandascore-match-1569488@esport-ics
+DTSTART:20260703T100000Z
+DTEND:20260703T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 5 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_cs
+SUMMARY:Lower bracket quarterfinals match 1: Burger vs Recrent
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_cs
 END:VEVENT
 END:VCALENDAR

@@ -63,6 +63,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 5 2026 - Group A\nWatch: http
  s://www.twitch.tv/betboom_sb_cs
 SUMMARY:HOOCH vs OverDrive
+URL:https://www.twitch.tv/betboom_sb_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T130000Z
+UID:pandascore-match-1569489@esport-ics
+DTSTART:20260703T130000Z
+DTEND:20260703T151500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 5 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_cs
+SUMMARY:Lower bracket quarterfinals match 2: SHOKE vs OverDrive
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_cs
 END:VEVENT
 END:VCALENDAR

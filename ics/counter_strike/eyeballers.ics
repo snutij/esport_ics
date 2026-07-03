@@ -440,7 +440,9 @@ UID:pandascore-match-1551611@esport-ics
 DTSTART:20260703T050000Z
 DTEND:20260703T071500Z
 CLASS:PUBLIC
-DESCRIPTION:XSE Pro League - 2026 - Group Stage
+DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://www.youtube
+ .com/watch?v=P5iPpweTfKI
 SUMMARY:Round 3: EYE vs TYLOO
+URL;VALUE=URI:https://www.youtube.com/watch?v=P5iPpweTfKI
 END:VEVENT
 END:VCALENDAR
