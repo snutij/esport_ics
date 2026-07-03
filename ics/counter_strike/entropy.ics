@@ -298,4 +298,15 @@ DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
 SUMMARY:Lower bracket quarterfinal 1: Entropy vs SAW
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260707T103000Z
+UID:pandascore-match-1568946@esport-ics
+DTSTART:20260707T103000Z
+DTEND:20260707T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 52 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Elimination match: Entropy vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
