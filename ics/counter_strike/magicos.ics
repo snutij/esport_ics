@@ -204,7 +204,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 3 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs
 SUMMARY:Round 3: MIBR.A vs MAG
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260702T160000Z
@@ -216,5 +216,16 @@ DESCRIPTION:CCT South America - Series 3 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs
 SUMMARY:Round 3: MAG vs VEXA
 URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T190000Z
+UID:pandascore-match-1555119@esport-ics
+DTSTART:20260703T190000Z
+DTEND:20260703T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 3 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs
+SUMMARY:Round 4: MW vs MAG
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

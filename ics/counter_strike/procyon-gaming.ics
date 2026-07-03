@@ -493,6 +493,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 3 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs
 SUMMARY:Round 3: PCY vs ex-KRÜ Esports
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T160000Z
+UID:pandascore-match-1555118@esport-ics
+DTSTART:20260703T160000Z
+DTEND:20260703T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 3 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs
+SUMMARY:Round 4: GE vs PCY
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
