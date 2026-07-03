@@ -212,6 +212,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 3 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Upper bracket quarterfinal 3: SaD vs NRG.A
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T230000Z
+UID:pandascore-match-1563470@esport-ics
+DTSTART:20260705T230000Z
+DTEND:20260706T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - North America: Stage 3 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/VALORANT_NorthAmerica
+SUMMARY:Upper bracket semifinal 2: SaD vs TBD
 URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
 END:VEVENT
 END:VCALENDAR

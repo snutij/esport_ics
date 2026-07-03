@@ -399,6 +399,17 @@ CLASS:PUBLIC
 DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://www.youtube
  .com/watch?v=QggQ-Lagwb4
 SUMMARY:Round 3: LG vs NIP
-URL;VALUE=URI:https://www.youtube.com/watch?v=QggQ-Lagwb4
+URL:https://www.youtube.com/watch?v=QggQ-Lagwb4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T080000Z
+UID:pandascore-match-1551622@esport-ics
+DTSTART:20260704T080000Z
+DTEND:20260704T101500Z
+CLASS:PUBLIC
+DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
+ ecs
+SUMMARY:Round 4: BIG vs NIP
+URL;VALUE=URI:https://kick.com/xsecs
 END:VEVENT
 END:VCALENDAR
