@@ -837,6 +837,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:Lower bracket quarterfinal 2: Subtop De France vs DNT
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T134500Z
+UID:pandascore-match-1550169@esport-ics
+DTSTART:20260704T134500Z
+DTEND:20260704T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 4 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Lower bracket semifinal: DNT vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

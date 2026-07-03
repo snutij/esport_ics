@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
  v/ewc_stcarena_en
 SUMMARY:TH vs AG.AL
+URL:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T134500Z
+UID:pandascore-match-1561307@esport-ics
+DTSTART:20260705T134500Z
+DTEND:20260705T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Elimination match: GE vs AG.AL
 URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 END:VCALENDAR
