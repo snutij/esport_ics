@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:uThermal
-SLUG:uthermal
+X-WR-CALNAME:Vaeda
+SLUG:vaeda
 BEGIN:VEVENT
 DTSTAMP:20260704T110000Z
-UID:pandascore-match-1567227@esport-ics
+UID:pandascore-match-1567225@esport-ics
 DTSTART:20260704T110000Z
 DTEND:20260704T131500Z
 CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
  tv/taketv
-SUMMARY:uThermal vs Gerald
+SUMMARY:Serral vs Vaeda
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
@@ -29,35 +29,35 @@ URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T131500Z
-UID:pandascore-match-1567232@esport-ics
+UID:pandascore-match-1567233@esport-ics
 DTSTART:20260704T131500Z
 DTEND:20260704T153000Z
 CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
  tv/taketv
-SUMMARY:Serral vs uThermal
+SUMMARY:Harstem vs Vaeda
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T141500Z
-UID:pandascore-match-1567234@esport-ics
+UID:pandascore-match-1567236@esport-ics
 DTSTART:20260704T141500Z
 DTEND:20260704T163000Z
 CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
  tv/taketv
-SUMMARY:Harstem vs uThermal
+SUMMARY:Cellsidus vs Vaeda
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T151500Z
-UID:pandascore-match-1567237@esport-ics
+UID:pandascore-match-1567238@esport-ics
 DTSTART:20260704T151500Z
 DTEND:20260704T173000Z
 CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
  tv/taketv
-SUMMARY:uThermal vs Cellsidus
+SUMMARY:Gerald vs Vaeda
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 END:VCALENDAR

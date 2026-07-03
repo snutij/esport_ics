@@ -56,6 +56,17 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Cross-Group Gauntlet\nWatch: https://ww
  w.youtube.com/watch?v=ywGYg8k7dTQ
 SUMMARY:Round 2 match 2: FAL vs NME
-URL;VALUE=URI:https://www.youtube.com/watch?v=ywGYg8k7dTQ
+URL:https://www.youtube.com/watch?v=ywGYg8k7dTQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T103000Z
+UID:pandascore-match-1570444@esport-ics
+DTSTART:20260704T103000Z
+DTEND:20260704T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Wildcard Decider\nWatch: https://www.yo
+ utube.com/@mlbbesportsofficial/live
+SUMMARY:Semifinal 1: FUT vs FAL
+URL;VALUE=URI:https://www.youtube.com/@mlbbesportsofficial/live
 END:VEVENT
 END:VCALENDAR

@@ -171,6 +171,17 @@ SUMMARY:ex-MANA vs MISA
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260704T103000Z
+UID:pandascore-match-1554001@esport-ics
+DTSTART:20260704T103000Z
+DTEND:20260704T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 Closed Qualifier 2026 - Play-In\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:ex-MANA vs WBT
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260707T080000Z
 UID:pandascore-match-1568945@esport-ics
 DTSTART:20260707T080000Z

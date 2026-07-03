@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 5 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/betboom_sb_cs
 SUMMARY:Lower bracket quarterfinals match 2: SHOKE vs OverDrive
+URL:https://www.twitch.tv/betboom_sb_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T190000Z
+UID:pandascore-match-1569490@esport-ics
+DTSTART:20260703T190000Z
+DTEND:20260703T211500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 5 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_cs
+SUMMARY:Lower bracket semifinal: Recrent vs SHOKE
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_cs
 END:VEVENT
 END:VCALENDAR
