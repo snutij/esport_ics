@@ -113,7 +113,7 @@ CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
  tv/taketv
 SUMMARY:Serral vs Vaeda
-URL;VALUE=URI:https://www.twitch.tv/taketv
+URL:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T121500Z
@@ -124,7 +124,7 @@ CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
  tv/taketv
 SUMMARY:Serral vs Cellsidus
-URL;VALUE=URI:https://www.twitch.tv/taketv
+URL:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T131500Z
@@ -133,9 +133,9 @@ DTSTART:20260704T131500Z
 DTEND:20260704T153000Z
 CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group C\nWatch: https://www.twitch.
- tv/taketv
+ tv/steadfastsc
 SUMMARY:Serral vs uThermal
-URL;VALUE=URI:https://www.twitch.tv/taketv
+URL;VALUE=URI:https://www.twitch.tv/steadfastsc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T141500Z
