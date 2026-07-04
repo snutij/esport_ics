@@ -230,6 +230,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - European Finals season 57 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/GoYareGo
 SUMMARY:Quarterfinal 4: ARCH vs WBT
-URL;VALUE=URI:https://www.twitch.tv/GoYareGo
+URL:https://www.twitch.tv/GoYareGo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T181500Z
+UID:pandascore-match-1572137@esport-ics
+DTSTART:20260704T181500Z
+DTEND:20260704T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #6 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs3
+SUMMARY:Upper bracket round 1 match 8: maybe vs ARCH
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

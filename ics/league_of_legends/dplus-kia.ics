@@ -333,6 +333,17 @@ SUMMARY:DK vs C9
 URL:https://www.sooplive.com/eragonuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260715T112000Z
+UID:pandascore-match-1572103@esport-ics
+DTSTART:20260715T112000Z
+DTEND:20260715T120500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Upper bracket semifinal 2: AG.AL vs DK
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260721T064500Z
 UID:pandascore-match-1570041@esport-ics
 DTSTART:20260721T064500Z

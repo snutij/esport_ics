@@ -324,6 +324,17 @@ SUMMARY:Lower bracket final: KC vs TL
 URL:https://www.twitch.tv/riotgames
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260715T090000Z
+UID:pandascore-match-1572108@esport-ics
+DTSTART:20260715T090000Z
+DTEND:20260715T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Upper bracket semifinal 2: GEN vs KC
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260724T170000Z
 UID:pandascore-match-1564639@esport-ics
 DTSTART:20260724T170000Z

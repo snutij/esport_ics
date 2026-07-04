@@ -138,6 +138,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - European Finals season 57 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/baks_esports
 SUMMARY:Quarterfinal 2: RT vs BAKS
-URL;VALUE=URI:https://www.twitch.tv/baks_esports
+URL:https://www.twitch.tv/baks_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T153000Z
+UID:pandascore-match-1572135@esport-ics
+DTSTART:20260705T153000Z
+DTEND:20260705T174500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #6 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs3
+SUMMARY:Upper bracket round 1 match 6: GAT vs BAKS
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

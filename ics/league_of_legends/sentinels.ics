@@ -211,6 +211,17 @@ SUMMARY:Lower bracket quarterfinal 1: FLY vs SEN
 URL:https://www.twitch.tv/LCS
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260715T090000Z
+UID:pandascore-match-1572107@esport-ics
+DTSTART:20260715T090000Z
+DTEND:20260715T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Upper bracket semifinal 1: TS vs SEN
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260725T230000Z
 UID:pandascore-match-1563936@esport-ics
 DTSTART:20260725T230000Z
