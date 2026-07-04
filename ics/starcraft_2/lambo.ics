@@ -179,7 +179,7 @@ CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group D\nWatch: https://www.twitch.
  tv/taketv
 SUMMARY:Lambo vs Fjant
-URL;VALUE=URI:https://www.twitch.tv/taketv
+URL:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T194500Z
@@ -190,7 +190,7 @@ CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group D\nWatch: https://www.twitch.
  tv/taketv
 SUMMARY:Lambo vs BabyMarine
-URL;VALUE=URI:https://www.twitch.tv/taketv
+URL:https://www.twitch.tv/taketv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T204500Z
@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Group D\nWatch: https://www.twitch.
  tv/taketv
 SUMMARY:Lambo vs SKillous
+URL:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T130000Z
+UID:pandascore-match-1572149@esport-ics
+DTSTART:20260705T130000Z
+DTEND:20260705T164500Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/taketv
+SUMMARY:Upper bracket quarterfinal 4: Lambo vs Harstem
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 END:VCALENDAR
