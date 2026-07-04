@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:North America League - Stage 1 2026 - Group Stage\nWatch: https
  ://www.twitch.tv/rainbow6
 SUMMARY:100T vs SSG
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T180000Z
+UID:pandascore-match-1555262@esport-ics
+DTSTART:20260709T180000Z
+DTEND:20260709T201500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/rainbow6
+SUMMARY:Upper bracket semifinal 1: M80 vs 100T
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 52 2026 - Group B\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Prestige Academy vs vsters
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T103000Z
+UID:pandascore-match-1568951@esport-ics
+DTSTART:20260708T103000Z
+DTEND:20260708T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 52 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Elimination match: LEO vs Prestige Academy
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
