@@ -596,6 +596,17 @@ CLASS:PUBLIC
 DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
  ecsb
 SUMMARY:Round 4: ALL vs 9z
-URL;VALUE=URI:https://kick.com/xsecsb
+URL:https://kick.com/xsecsb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T060000Z
+UID:pandascore-match-1551625@esport-ics
+DTSTART:20260705T060000Z
+DTEND:20260705T081500Z
+CLASS:PUBLIC
+DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
+ ecs
+SUMMARY:Round 5: MIBR vs 9z
+URL;VALUE=URI:https://kick.com/xsecs
 END:VEVENT
 END:VCALENDAR
