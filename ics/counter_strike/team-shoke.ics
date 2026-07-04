@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 5 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/betboom_sb_cs
 SUMMARY:Lower bracket semifinal: Recrent vs SHOKE
+URL:https://www.twitch.tv/betboom_sb_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T120000Z
+UID:pandascore-match-1569494@esport-ics
+DTSTART:20260704T120000Z
+DTEND:20260704T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 5 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_cs
+SUMMARY:Lower bracket final: AUNK vs SHOKE
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_cs
 END:VEVENT
 END:VCALENDAR

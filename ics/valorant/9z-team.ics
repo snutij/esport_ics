@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America South: Stage 2 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/valorant_la
 SUMMARY:Upper bracket semifinal 2: BST vs 9z
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T220000Z
+UID:pandascore-match-1557788@esport-ics
+DTSTART:20260705T220000Z
+DTEND:20260706T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America South: Stage 2 2026 - Playoffs\nWatch: http
+ s://www.twitch.tv/valorant_la
+SUMMARY:Lower bracket semifinal: UW vs 9z
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR
