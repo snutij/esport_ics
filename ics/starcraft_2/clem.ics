@@ -410,6 +410,17 @@ CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Playoffs\nWatch: https://www.twitch
  .tv/taketv
 SUMMARY:Upper bracket quarterfinal 3: Clem vs Krystianer
+URL:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T150000Z
+UID:pandascore-match-1572151@esport-ics
+DTSTART:20260705T150000Z
+DTEND:20260705T184500Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/taketv
+SUMMARY:Upper bracket semifinal 2: Clem vs Lambo
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 END:VCALENDAR

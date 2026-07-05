@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Playoffs\nWatch: https://www.twitch
  .tv/taketv
 SUMMARY:Upper bracket semifinal 1: Serral vs Reynor
+URL:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T180000Z
+UID:pandascore-match-1572152@esport-ics
+DTSTART:20260705T180000Z
+DTEND:20260705T214500Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/taketv
+SUMMARY:Upper bracket final : Reynor vs TBD
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 END:VCALENDAR
