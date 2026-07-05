@@ -47,6 +47,28 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 Closed Qualifier 2026 - Play-In\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:ex-MANA vs WBT
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260706T103000Z
+UID:pandascore-match-1554005@esport-ics
+DTSTART:20260706T103000Z
+DTEND:20260706T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Group A\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:ILWL vs WBT
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T103000Z
+UID:pandascore-match-1554006@esport-ics
+DTSTART:20260710T103000Z
+DTEND:20260710T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Group A\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Winners match: WBT vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

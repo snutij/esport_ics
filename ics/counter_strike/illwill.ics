@@ -662,6 +662,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #4 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs2
 SUMMARY:Round 5: KOL vs ILWL
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260706T103000Z
+UID:pandascore-match-1554005@esport-ics
+DTSTART:20260706T103000Z
+DTEND:20260706T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Group A\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:ILWL vs WBT
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T080000Z
+UID:pandascore-match-1554007@esport-ics
+DTSTART:20260710T080000Z
+DTEND:20260710T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Group A\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Elimination match: ILWL vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

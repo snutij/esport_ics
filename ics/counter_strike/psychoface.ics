@@ -325,6 +325,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #2 2026 - Group C\nWa
  tch: https://www.twitch.tv/gluck_esports
 SUMMARY:PF vs Avtostopom Po Galaktike
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260707T103000Z
+UID:pandascore-match-1554010@esport-ics
+DTSTART:20260707T103000Z
+DTEND:20260707T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Group B\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:PF vs ENJOY
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
