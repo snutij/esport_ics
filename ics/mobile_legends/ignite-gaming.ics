@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IGNITE Gaming
+SLUG:ignite-gaming
+BEGIN:VEVENT
+DTSTAMP:20260722T133000Z
+UID:pandascore-match-1572754@esport-ics
+DTSTART:20260722T133000Z
+DTEND:20260722T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Group A\nWatch: https://www.twitch.tv/l
+ ckclchallengersleague
+SUMMARY:Upper bracket quarterfinal 4: TS vs IGN
+URL;VALUE=URI:https://www.twitch.tv/lckclchallengersleague
+END:VEVENT
+END:VCALENDAR

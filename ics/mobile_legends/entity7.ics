@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Entity7
+SLUG:entity7
+BEGIN:VEVENT
+DTSTAMP:20260723T120000Z
+UID:pandascore-match-1572757@esport-ics
+DTSTART:20260723T120000Z
+DTEND:20260723T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Group B\nWatch: https://www.twitch.tv/l
+ ckclchallengersleague
+SUMMARY:Upper bracket quarterfinal 3: ONIC vs E7
+URL;VALUE=URI:https://www.twitch.tv/lckclchallengersleague
+END:VEVENT
+END:VCALENDAR

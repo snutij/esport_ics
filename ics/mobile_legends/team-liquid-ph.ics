@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Philippines - Season 17 2026 - Playoffs\nWatch: https://www
  .youtube.com/watch?v=SbnOSPAZVPE
 SUMMARY:Grand final: TLPH vs Team Falcons PH
-URL;VALUE=URI:https://www.youtube.com/watch?v=SbnOSPAZVPE
+URL:https://www.youtube.com/watch?v=SbnOSPAZVPE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T103000Z
+UID:pandascore-match-1572758@esport-ics
+DTSTART:20260723T103000Z
+DTEND:20260723T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Group B\nWatch: https://www.twitch.tv/l
+ ckclchallengersleague
+SUMMARY:Upper bracket quarterfinal 4: TLPH vs RORT
+URL;VALUE=URI:https://www.twitch.tv/lckclchallengersleague
 END:VEVENT
 END:VCALENDAR
