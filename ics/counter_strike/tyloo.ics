@@ -527,6 +527,15 @@ CLASS:PUBLIC
 DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://www.youtube
  .com/watch?v=P5iPpweTfKI
 SUMMARY:Round 3: EYE vs TYLOO
-URL;VALUE=URI:https://www.youtube.com/watch?v=P5iPpweTfKI
+URL:https://www.youtube.com/watch?v=P5iPpweTfKI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T080000Z
+UID:pandascore-match-1551628@esport-ics
+DTSTART:20260709T080000Z
+DTEND:20260709T101500Z
+CLASS:PUBLIC
+DESCRIPTION:XSE Pro League - 2026 - Playoffs
+SUMMARY:Quarterfinal 1: TYLOO vs 9z
 END:VEVENT
 END:VCALENDAR

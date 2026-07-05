@@ -750,6 +750,15 @@ CLASS:PUBLIC
 DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
  ecsb
 SUMMARY:Round 4: ALL vs 9z
-URL;VALUE=URI:https://kick.com/xsecsb
+URL:https://kick.com/xsecsb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T110000Z
+UID:pandascore-match-1551629@esport-ics
+DTSTART:20260709T110000Z
+DTEND:20260709T131500Z
+CLASS:PUBLIC
+DESCRIPTION:XSE Pro League - 2026 - Playoffs
+SUMMARY:Quarterfinal 2: ALL vs NEM
 END:VEVENT
 END:VCALENDAR

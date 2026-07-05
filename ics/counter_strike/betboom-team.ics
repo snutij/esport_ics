@@ -580,6 +580,15 @@ CLASS:PUBLIC
 DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
  ecsb
 SUMMARY:Round 3: BB vs NEM
-URL;VALUE=URI:https://kick.com/xsecsb
+URL:https://kick.com/xsecsb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T110000Z
+UID:pandascore-match-1551631@esport-ics
+DTSTART:20260710T110000Z
+DTEND:20260710T131500Z
+CLASS:PUBLIC
+DESCRIPTION:XSE Pro League - 2026 - Playoffs
+SUMMARY:Quarterfinal 4: FaZe vs BB
 END:VEVENT
 END:VCALENDAR
