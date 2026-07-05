@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Playoffs\nWatch: https://www.twitch
  .tv/taketv
 SUMMARY:Upper bracket quarterfinal 1: Serral vs SKillous
+URL:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T150000Z
+UID:pandascore-match-1572150@esport-ics
+DTSTART:20260705T150000Z
+DTEND:20260705T184500Z
+CLASS:PUBLIC
+DESCRIPTION:HomeStory Cup - XXIX 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/taketv
+SUMMARY:Upper bracket semifinal 1: Serral vs Reynor
 URL;VALUE=URI:https://www.twitch.tv/taketv
 END:VEVENT
 END:VCALENDAR

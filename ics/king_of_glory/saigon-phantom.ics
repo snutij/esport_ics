@@ -311,6 +311,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Valor Premier League - 2026 - Playoffs\nWatch: https:/
  /www.youtube.com/watch?v=a3-oh0sKz_Q
 SUMMARY:Upper bracket quarterfinal 4: DCG vs SP
+URL:https://www.youtube.com/watch?v=a3-oh0sKz_Q
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T123000Z
+UID:pandascore-match-1562837@esport-ics
+DTSTART:20260705T123000Z
+DTEND:20260705T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor Premier League - 2026 - Playoffs\nWatch: https:/
+ /www.youtube.com/watch?v=a3-oh0sKz_Q
+SUMMARY:Lower bracket round 1 match 2: FPL vs SP
 URL;VALUE=URI:https://www.youtube.com/watch?v=a3-oh0sKz_Q
 END:VEVENT
 END:VCALENDAR
