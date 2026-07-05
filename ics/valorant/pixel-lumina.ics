@@ -238,6 +238,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 3 2026 - Group C\nWatch: https://www.twitch.t
  v/valorant_tur
 SUMMARY:Elimination match: PL vs FKS
-URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+URL:https://www.twitch.tv/valorant_tur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260707T173000Z
+UID:pandascore-match-1572656@esport-ics
+DTSTART:20260707T173000Z
+DTEND:20260707T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Last Chance Qualifier 2026 - Group A\nWatch: https:
+ //www.twitch.tv/valorant_emea
+SUMMARY:TSE vs PL
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

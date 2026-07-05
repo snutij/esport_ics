@@ -116,6 +116,17 @@ SUMMARY:Lower bracket quarterfinal 2: MIBR.A vs LM
 URL:https://www.twitch.tv/gamersclubvalorant
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260707T150000Z
+UID:pandascore-match-1572665@esport-ics
+DTSTART:20260707T150000Z
+DTEND:20260707T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Last Chance Qualifier 2026 - Group C\nWatch: https:
+ //www.twitch.tv/valorant_emea
+SUMMARY:MDR vs LM
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260707T200000Z
 UID:pandascore-match-1488959@esport-ics
 DTSTART:20260707T200000Z

@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Stage 3 2026 - Group B\nWatch: https://www.twitch.t
  v/valorant_emea
 SUMMARY:Elimination match: BAR vs CGN
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260707T173000Z
+UID:pandascore-match-1572661@esport-ics
+DTSTART:20260707T173000Z
+DTEND:20260707T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Last Chance Qualifier 2026 - Group B\nWatch: https:
+ //www.twitch.tv/valorant_emea
+SUMMARY:BJK vs CGN
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
