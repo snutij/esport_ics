@@ -889,4 +889,15 @@ DESCRIPTION:European Pro League - Series 8 2026 - Group A\nWatch: https://k
 SUMMARY:Elimination match: ILWL vs Lavked
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260715T080000Z
+UID:pandascore-match-1554008@esport-ics
+DTSTART:20260715T080000Z
+DTEND:20260715T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Group A\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Decider match: Lavked vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
