@@ -261,6 +261,17 @@ SUMMARY:Upper bracket semifinal 1: BLG vs LY
 URL:https://www.twitch.tv/riotgames
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260708T030000Z
+UID:pandascore-match-1541776@esport-ics
+DTSTART:20260708T030000Z
+DTEND:20260708T064500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid-Season Invitational - 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/riotgames
+SUMMARY:Lower bracket quarterfinal 1: LY vs TSW
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260715T123000Z
 UID:pandascore-match-1572118@esport-ics
 DTSTART:20260715T123000Z

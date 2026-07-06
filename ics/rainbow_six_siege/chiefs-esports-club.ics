@@ -144,4 +144,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 1: CHF vs RE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T110000Z
+UID:pandascore-match-1555273@esport-ics
+DTSTART:20260714T110000Z
+DTEND:20260714T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Oceania - Stage 1 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/rainbow6
+SUMMARY:Upper bracket final: CHF vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
 END:VCALENDAR
