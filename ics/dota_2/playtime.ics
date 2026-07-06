@@ -300,8 +300,10 @@ UID:pandascore-match-1565609@esport-ics
 DTSTART:20260707T113000Z
 DTEND:20260707T130000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group B
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:Liquid vs PlayTime
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260708T113000Z
@@ -309,8 +311,10 @@ UID:pandascore-match-1565613@esport-ics
 DTSTART:20260708T113000Z
 DTEND:20260708T130000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group B
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:L1GA vs PlayTime
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260709T113000Z
@@ -318,8 +322,10 @@ UID:pandascore-match-1565617@esport-ics
 DTSTART:20260709T113000Z
 DTEND:20260709T130000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group B
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:PlayTime vs LVLUP
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260710T113000Z
@@ -327,8 +333,10 @@ UID:pandascore-match-1565618@esport-ics
 DTSTART:20260710T113000Z
 DTEND:20260710T130000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group B
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:AUR vs PlayTime
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260711T113000Z
@@ -336,7 +344,9 @@ UID:pandascore-match-1565622@esport-ics
 DTSTART:20260711T113000Z
 DTEND:20260711T130000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group B
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:PlayTime vs NGX
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 END:VCALENDAR

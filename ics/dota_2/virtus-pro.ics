@@ -374,8 +374,10 @@ UID:pandascore-match-1565641@esport-ics
 DTSTART:20260707T163000Z
 DTEND:20260707T180000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group D
+DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:LGD vs VP
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260708T163000Z
@@ -383,8 +385,10 @@ UID:pandascore-match-1565643@esport-ics
 DTSTART:20260708T163000Z
 DTEND:20260708T180000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group D
+DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:VP vs 1WIN
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260709T163000Z
@@ -392,8 +396,10 @@ UID:pandascore-match-1565647@esport-ics
 DTSTART:20260709T163000Z
 DTEND:20260709T180000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group D
+DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:VP vs TY
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260710T163000Z
@@ -401,8 +407,10 @@ UID:pandascore-match-1565651@esport-ics
 DTSTART:20260710T163000Z
 DTEND:20260710T180000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group D
+DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:ICxI vs VP
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260712T163000Z
@@ -410,7 +418,9 @@ UID:pandascore-match-1565653@esport-ics
 DTSTART:20260712T163000Z
 DTEND:20260712T180000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group D
+DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:OG vs VP
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 END:VCALENDAR

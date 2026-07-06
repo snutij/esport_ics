@@ -715,8 +715,10 @@ UID:pandascore-match-1565594@esport-ics
 DTSTART:20260707T090000Z
 DTEND:20260707T103000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group A
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:FLC vs BB
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260708T090000Z
@@ -724,8 +726,10 @@ UID:pandascore-match-1565599@esport-ics
 DTSTART:20260708T090000Z
 DTEND:20260708T103000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group A
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:FLC vs RE
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260709T090000Z
@@ -733,8 +737,10 @@ UID:pandascore-match-1565600@esport-ics
 DTSTART:20260709T090000Z
 DTEND:20260709T103000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group A
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:GL vs FLC
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260710T090000Z
@@ -742,8 +748,10 @@ UID:pandascore-match-1565604@esport-ics
 DTSTART:20260710T090000Z
 DTEND:20260710T103000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group A
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:Poor Rangers vs FLC
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260711T090000Z
@@ -751,7 +759,9 @@ UID:pandascore-match-1565606@esport-ics
 DTSTART:20260711T090000Z
 DTEND:20260711T103000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group A
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:Xtreme vs FLC
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 END:VCALENDAR

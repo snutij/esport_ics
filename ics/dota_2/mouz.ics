@@ -522,8 +522,10 @@ UID:pandascore-match-1565624@esport-ics
 DTSTART:20260707T140000Z
 DTEND:20260707T153000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group C
+DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:TS vs MOUZ
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260708T140000Z
@@ -531,8 +533,10 @@ UID:pandascore-match-1565628@esport-ics
 DTSTART:20260708T140000Z
 DTEND:20260708T153000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group C
+DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:RNX vs MOUZ
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260709T140000Z
@@ -540,8 +544,10 @@ UID:pandascore-match-1565631@esport-ics
 DTSTART:20260709T140000Z
 DTEND:20260709T153000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group C
+DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:MOUZ vs Nem
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260710T140000Z
@@ -549,8 +555,10 @@ UID:pandascore-match-1565633@esport-ics
 DTSTART:20260710T140000Z
 DTEND:20260710T153000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group C
+DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:PARI vs MOUZ
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260712T140000Z
@@ -558,7 +566,9 @@ UID:pandascore-match-1565638@esport-ics
 DTSTART:20260712T140000Z
 DTEND:20260712T153000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group C
+DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
+ v/ewc
 SUMMARY:MOUZ vs VG
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 END:VCALENDAR

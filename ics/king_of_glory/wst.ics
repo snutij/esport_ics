@@ -234,6 +234,61 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 3\nWatch: https:/
  /live.bilibili.com/55
 SUMMARY:KSG vs WST
+URL:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260713T090000Z
+UID:pandascore-match-1574749@esport-ics
+DTSTART:20260713T090000Z
+DTEND:20260713T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 2 Group B\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:DYG vs WST
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260715T090000Z
+UID:pandascore-match-1574750@esport-ics
+DTSTART:20260715T090000Z
+DTEND:20260715T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 2 Group B\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:WE vs WST
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T060000Z
+UID:pandascore-match-1574753@esport-ics
+DTSTART:20260718T060000Z
+DTEND:20260718T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 2 Group B\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:DRG vs WST
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T060000Z
+UID:pandascore-match-1574758@esport-ics
+DTSTART:20260724T060000Z
+DTEND:20260724T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 2 Group B\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:RNG.M vs WST
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T060000Z
+UID:pandascore-match-1574759@esport-ics
+DTSTART:20260726T060000Z
+DTEND:20260726T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 2 Group B\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:WST vs ESP
 URL;VALUE=URI:https://live.bilibili.com/55
 END:VEVENT
 END:VCALENDAR

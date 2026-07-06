@@ -201,6 +201,61 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Summer 2026 - Stage 1 Group 1\nWatch: https:/
  /live.bilibili.com/55
 SUMMARY:TTG vs SYG
+URL:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260713T120000Z
+UID:pandascore-match-1574764@esport-ics
+DTSTART:20260713T120000Z
+DTEND:20260713T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 2 Group S\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:LGD vs TTG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T120000Z
+UID:pandascore-match-1574626@esport-ics
+DTSTART:20260716T120000Z
+DTEND:20260716T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 2 Group S\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:JDG vs TTG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T120000Z
+UID:pandascore-match-1574628@esport-ics
+DTSTART:20260719T120000Z
+DTEND:20260719T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 2 Group S\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:AG.SP vs TTG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T120000Z
+UID:pandascore-match-1574630@esport-ics
+DTSTART:20260722T120000Z
+DTEND:20260722T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 2 Group S\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:WB vs TTG
+URL;VALUE=URI:https://live.bilibili.com/55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T090000Z
+UID:pandascore-match-1574632@esport-ics
+DTSTART:20260725T090000Z
+DTEND:20260725T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 2 Group S\nWatch: https:/
+ /live.bilibili.com/55
+SUMMARY:KSG vs TTG
 URL;VALUE=URI:https://live.bilibili.com/55
 END:VEVENT
 END:VCALENDAR
