@@ -587,6 +587,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - South American Series #1 2026 
  - Playoffs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Quarterfinal 3: FDB vs LDP
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260706T190000Z
+UID:pandascore-match-1555129@esport-ics
+DTSTART:20260706T190000Z
+DTEND:20260706T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 3 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs
+SUMMARY:Round of 16 match 3: FDB vs ex-Vexa
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
