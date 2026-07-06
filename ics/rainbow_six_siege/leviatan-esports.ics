@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/rainbow6
 SUMMARY:LEV vs Titan Esports Club
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T103000Z
+UID:pandascore-match-1523095@esport-ics
+DTSTART:20260710T103000Z
+DTEND:20260710T124500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/rainbow6
+SUMMARY:Upper bracket quarterfinal 2: AG vs LEV
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

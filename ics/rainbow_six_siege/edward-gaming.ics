@@ -223,6 +223,17 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://live.bil
  ibili.com/1814198336
 SUMMARY:AG vs EDG
-URL;VALUE=URI:https://live.bilibili.com/1814198336
+URL:https://live.bilibili.com/1814198336
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T103000Z
+UID:pandascore-match-1523097@esport-ics
+DTSTART:20260711T103000Z
+DTEND:20260711T124500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/rainbow6
+SUMMARY:Upper bracket semifinal 2: EDG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

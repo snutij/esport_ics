@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Stage 1 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/rainbow6
 SUMMARY:TYLOO vs OC
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T070000Z
+UID:pandascore-match-1523096@esport-ics
+DTSTART:20260711T070000Z
+DTEND:20260711T091500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/rainbow6
+SUMMARY:Upper bracket semifinal 1: TYLOO vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

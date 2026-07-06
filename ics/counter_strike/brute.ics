@@ -658,6 +658,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 2 2026 - Group Stage\nWatch: https://kick.c
  om/cct_cs2
 SUMMARY:Round 5: ALGO vs BRUTE
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T080000Z
+UID:pandascore-match-1554019@esport-ics
+DTSTART:20260709T080000Z
+DTEND:20260709T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Group D\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:G1 vs BRUTE
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
