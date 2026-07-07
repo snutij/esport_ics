@@ -239,6 +239,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Cologne Major 2026 - Stage 2\nWatch: https://www.twitch.t
  v/eslcsb
 SUMMARY:Round 3: FLY vs paiN
-URL;VALUE=URI:https://www.twitch.tv/eslcsb
+URL:https://www.twitch.tv/eslcsb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T050000Z
+UID:pandascore-match-1576461@esport-ics
+DTSTART:20260717T050000Z
+DTEND:20260717T054500Z
+CLASS:PUBLIC
+DESCRIPTION:HyperX & Intel Nationals - 2026 - Group B\nWatch: https://www.t
+ witch.tv/dfragtv
+SUMMARY:FLY vs DXA
+URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR

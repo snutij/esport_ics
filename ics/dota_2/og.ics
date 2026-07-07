@@ -435,15 +435,15 @@ SUMMARY:Grand final: OG vs TBD
 URL:https://www.twitch.tv/pgl_dota2en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260707T163000Z
+DTSTAMP:20260707T180000Z
 UID:pandascore-match-1565640@esport-ics
-DTSTART:20260707T163000Z
-DTEND:20260707T180000Z
+DTSTART:20260707T180000Z
+DTEND:20260707T193000Z
 CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
- v/ewc
+ v/ewc_legiongauntlet_en
 SUMMARY:TY vs OG
-URL;VALUE=URI:https://www.twitch.tv/ewc
+URL;VALUE=URI:https://www.twitch.tv/ewc_legiongauntlet_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260708T163000Z

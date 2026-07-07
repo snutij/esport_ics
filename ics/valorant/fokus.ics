@@ -300,6 +300,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Last Chance Qualifier 2026 - Group A\nWatch: https:
  //www.twitch.tv/valorant_emea
 SUMMARY:FKS vs FG
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T150000Z
+UID:pandascore-match-1572657@esport-ics
+DTSTART:20260708T150000Z
+DTEND:20260708T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Last Chance Qualifier 2026 - Group A\nWatch: https:
+ //www.twitch.tv/valorant_emea
+SUMMARY:Winners match: FKS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
