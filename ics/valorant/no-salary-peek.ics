@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - South Asia: Split 2 2026 - Playoffs\nWatch: https://www.y
  outube.com/watch?v=zI0iBupVp5Q
 SUMMARY:Grand final: S8UL vs NSP
-URL;VALUE=URI:https://www.youtube.com/watch?v=zI0iBupVp5Q
+URL:https://www.youtube.com/watch?v=zI0iBupVp5Q
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260707T080000Z
+UID:pandascore-match-1575851@esport-ics
+DTSTART:20260707T080000Z
+DTEND:20260707T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Pacific: Last Chance Qualifier 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/valorant_pacific
+SUMMARY:Upper Bracket Semifinals 1: 555 vs NSP
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR

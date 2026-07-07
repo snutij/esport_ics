@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Yi-Jing
+SLUG:yi-jing
+BEGIN:VEVENT
+DTSTAMP:20260707T110000Z
+UID:pandascore-match-1575852@esport-ics
+DTSTART:20260707T110000Z
+DTEND:20260707T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Pacific: Last Chance Qualifier 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/valorant_pacific
+SUMMARY:Upper Bracket Semifinals 2: FCY vs YJ
+URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+END:VCALENDAR
