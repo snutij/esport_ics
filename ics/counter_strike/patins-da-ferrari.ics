@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 3 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs
 SUMMARY:Round of 16 match 7: UNO vs PDAF
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T220000Z
+UID:pandascore-match-1555158@esport-ics
+DTSTART:20260708T220000Z
+DTEND:20260709T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 3 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs
+SUMMARY:Quarterfinal 4: PDAF vs FX
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
