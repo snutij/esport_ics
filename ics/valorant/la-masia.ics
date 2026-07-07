@@ -135,7 +135,7 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Brazil: Stage 2 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/gamersclubvalorant
 SUMMARY:Lower bracket semifinal: MAS vs RED
-URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+URL:https://www.twitch.tv/gamersclubvalorant
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260708T173000Z
@@ -145,7 +145,7 @@ DTEND:20260708T194500Z
 CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Last Chance Qualifier 2026 - Group C\nWatch: https:
  //www.twitch.tv/valorant_emea
-SUMMARY:Elimination match: LM vs TBD
+SUMMARY:Elimination match: LM vs UCAM
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

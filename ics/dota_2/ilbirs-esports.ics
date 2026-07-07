@@ -417,6 +417,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 39 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:ILL vs STX
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T120000Z
+UID:pandascore-match-1576764@esport-ics
+DTSTART:20260708T120000Z
+DTEND:20260708T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 39 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Upper bracket quarterfinal 3: ILL vs SB
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
