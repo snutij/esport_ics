@@ -849,6 +849,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 2026 - Group B\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:BMB vs TLR
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T080000Z
+UID:pandascore-match-1554012@esport-ics
+DTSTART:20260711T080000Z
+DTEND:20260711T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Group B\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Elimination match: TLR vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
