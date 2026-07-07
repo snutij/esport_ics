@@ -34,6 +34,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #6 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs3
 SUMMARY:Upper bracket quarterfinal 1: mellren vs NXT
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T181500Z
+UID:pandascore-match-1575323@esport-ics
+DTSTART:20260709T181500Z
+DTEND:20260709T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #6 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs3
+SUMMARY:Upper bracket semifinal 1: mellren vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
