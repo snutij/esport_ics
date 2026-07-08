@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Overtake Sector
+SLUG:overtake-sector
+BEGIN:VEVENT
+DTSTAMP:20260710T013000Z
+UID:pandascore-match-1577278@esport-ics
+DTSTART:20260710T013000Z
+DTEND:20260710T034500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - North American Qualifier Fall 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/circuitxofficial
+SUMMARY:Quarterfinal 2: LAG vs OT
+URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+END:VCALENDAR

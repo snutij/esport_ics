@@ -482,6 +482,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Finals season 51 2026 - P
  layoffs\nWatch: https://kick.com/eslcs
 SUMMARY:Grand final: M80 vs VOCA
-URL;VALUE=URI:https://kick.com/eslcs
+URL:https://kick.com/eslcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T223000Z
+UID:pandascore-match-1577279@esport-ics
+DTSTART:20260709T223000Z
+DTEND:20260710T004500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - North American Qualifier Fall 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/circuitxofficial
+SUMMARY:Quarterfinal 3: VOCA vs NT
+URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR
