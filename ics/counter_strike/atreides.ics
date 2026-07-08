@@ -647,6 +647,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 2026 - Group C\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Atreides vs EP
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T103000Z
+UID:pandascore-match-1554016@esport-ics
+DTSTART:20260712T103000Z
+DTEND:20260712T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Group C\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Winners match: Atreides vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

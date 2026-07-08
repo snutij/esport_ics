@@ -318,6 +318,17 @@ SUMMARY:Lower bracket quarterfinal 2: G2 vs T1
 URL:https://www.twitch.tv/riotgames
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260710T080000Z
+UID:pandascore-match-1541778@esport-ics
+DTSTART:20260710T080000Z
+DTEND:20260710T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid-Season Invitational - 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/riotgames
+SUMMARY:Lower bracket semifinal: G2 vs LY
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260715T112000Z
 UID:pandascore-match-1572102@esport-ics
 DTSTART:20260715T112000Z
