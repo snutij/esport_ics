@@ -148,4 +148,15 @@ DESCRIPTION:VCL - EMEA: Last Chance Qualifier 2026 - Group C\nWatch: https:
 SUMMARY:Elimination match: LM vs UCAM
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T200000Z
+UID:pandascore-match-1488960@esport-ics
+DTSTART:20260710T200000Z
+DTEND:20260710T234500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/gamersclubvalorant
+SUMMARY:Lower bracket final: MAS vs TS
+URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
 END:VCALENDAR
