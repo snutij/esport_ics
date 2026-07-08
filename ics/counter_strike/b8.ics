@@ -566,6 +566,17 @@ CLASS:PUBLIC
 DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
  ecs
 SUMMARY:Round 5: B8 vs BIG
-URL;VALUE=URI:https://kick.com/xsecs
+URL:https://kick.com/xsecs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T090000Z
+UID:pandascore-match-1577262@esport-ics
+DTSTART:20260709T090000Z
+DTEND:20260709T111500Z
+CLASS:PUBLIC
+DESCRIPTION:RES Showdown - Europe Fall 2026 - Playoffs\nWatch: https://kick
+ .com/rlgcs
+SUMMARY:Quarterfinal 1: B8 vs Sangrija
+URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR

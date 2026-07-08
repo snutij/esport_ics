@@ -435,6 +435,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X Base Recife - 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/circuitxofficial
 SUMMARY:Grand final: BST vs LDP
-URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T230000Z
+UID:pandascore-match-1577271@esport-ics
+DTSTART:20260709T230000Z
+DTEND:20260710T011500Z
+CLASS:PUBLIC
+DESCRIPTION:RES Showdown - South America Fall 2026 - Playoffs\nWatch: https
+ ://kick.com/rlgcs
+SUMMARY:Quarterfinal 3: BST vs FXW7
+URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR

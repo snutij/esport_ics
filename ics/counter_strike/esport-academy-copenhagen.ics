@@ -230,6 +230,17 @@ CLASS:PUBLIC
 DESCRIPTION:Super DraculaN - Season 1 2026 - Group B\nWatch: https://kick.c
  om/draculancs
 SUMMARY:Lower bracket semifinal 1: EAC vs BCA
-URL;VALUE=URI:https://kick.com/draculancs
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T180000Z
+UID:pandascore-match-1577265@esport-ics
+DTSTART:20260709T180000Z
+DTEND:20260709T201500Z
+CLASS:PUBLIC
+DESCRIPTION:RES Showdown - Europe Fall 2026 - Playoffs\nWatch: https://kick
+ .com/rlgcs
+SUMMARY:Quarterfinal 4: EAC vs MGC
+URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR

@@ -140,6 +140,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/rainbow6
 SUMMARY:Upper bracket semifinal 2: DK vs KNT
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T070000Z
+UID:pandascore-match-1566660@esport-ics
+DTSTART:20260716T070000Z
+DTEND:20260716T091500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:Lower bracket semifinal: SZ vs KNT
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

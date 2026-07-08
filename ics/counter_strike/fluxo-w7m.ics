@@ -308,6 +308,17 @@ CLASS:PUBLIC
 DESCRIPTION:Odyssey Cup - Brazil 2026 - Group Stage\nWatch: https://www.you
  tube.com/watch?v=K78sHELCdq0
 SUMMARY:Round 5: FXW7 vs FDB
-URL;VALUE=URI:https://www.youtube.com/watch?v=K78sHELCdq0
+URL:https://www.youtube.com/watch?v=K78sHELCdq0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T230000Z
+UID:pandascore-match-1577271@esport-ics
+DTSTART:20260709T230000Z
+DTEND:20260710T011500Z
+CLASS:PUBLIC
+DESCRIPTION:RES Showdown - South America Fall 2026 - Playoffs\nWatch: https
+ ://kick.com/rlgcs
+SUMMARY:Quarterfinal 3: BST vs FXW7
+URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR
