@@ -544,6 +544,17 @@ SUMMARY:YAW vs MW
 URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260709T160000Z
+UID:pandascore-match-1574385@esport-ics
+DTSTART:20260709T160000Z
+DTEND:20260709T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - South American Series #2 2026 
+ - Group B\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Winners match: YAW vs TBD
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260709T200000Z
 UID:pandascore-match-1577272@esport-ics
 DTSTART:20260709T200000Z

@@ -601,4 +601,15 @@ DESCRIPTION:RES Showdown - South America Fall 2026 - Playoffs\nWatch: https
 SUMMARY:Quarterfinal 1: paiN vs MW
 URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T220000Z
+UID:pandascore-match-1574386@esport-ics
+DTSTART:20260709T220000Z
+DTEND:20260710T001500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - South American Series #2 2026 
+ - Group B\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Elimination match: MW vs TBD
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR
