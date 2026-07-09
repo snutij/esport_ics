@@ -565,4 +565,15 @@ DESCRIPTION:RES Showdown - South America Fall 2026 - Playoffs\nWatch: https
 SUMMARY:Quarterfinal 4: YAW vs SHK
 URL;VALUE=URI:https://kick.com/rlgcs_b
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T210000Z
+UID:pandascore-match-1574387@esport-ics
+DTSTART:20260710T210000Z
+DTEND:20260710T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - South American Series #2 2026 
+ - Group B\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Decider match: YAW vs TBD
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR
