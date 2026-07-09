@@ -454,6 +454,17 @@ CLASS:PUBLIC
 DESCRIPTION:RES Showdown - South America Fall 2026 - Playoffs\nWatch: https
  ://kick.com/rlgcs_b
 SUMMARY:Quarterfinal 4: YAW vs SHK
-URL;VALUE=URI:https://kick.com/rlgcs_b
+URL:https://kick.com/rlgcs_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T230000Z
+UID:pandascore-match-1577275@esport-ics
+DTSTART:20260710T230000Z
+DTEND:20260711T011500Z
+CLASS:PUBLIC
+DESCRIPTION:RES Showdown - South America Fall 2026 - Playoffs\nWatch: https
+ ://kick.com/rlgcs
+SUMMARY:Semifinal 2: SHK vs TBD
+URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR
