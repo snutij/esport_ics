@@ -454,6 +454,17 @@ CLASS:PUBLIC
 DESCRIPTION:RES Showdown - Europe Fall 2026 - Playoffs\nWatch: https://kick
  .com/rlgcs
 SUMMARY:Quarterfinal 4: EAC vs MGC
+URL:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T160000Z
+UID:pandascore-match-1577267@esport-ics
+DTSTART:20260710T160000Z
+DTEND:20260710T181500Z
+CLASS:PUBLIC
+DESCRIPTION:RES Showdown - Europe Fall 2026 - Playoffs\nWatch: https://kick
+ .com/rlgcs
+SUMMARY:Semifinal 2: ICE vs MGC
 URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR
