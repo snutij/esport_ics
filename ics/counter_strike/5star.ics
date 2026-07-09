@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asian Champions League - 2026 - Group A\nWatch: https://www.huy
  a.com/18525153
 SUMMARY:Lower bracket final: TYLOO vs 5S
-URL;VALUE=URI:https://www.huya.com/18525153
+URL:https://www.huya.com/18525153
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T100000Z
+UID:pandascore-match-1579764@esport-ics
+DTSTART:20260710T100000Z
+DTEND:20260710T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Asian Qualifier Fall 2026 - Playoffs\nWatch: https
+ ://www.huya.com/blast
+SUMMARY:Quarterfinal 3: 5S vs AE
+URL;VALUE=URI:https://www.huya.com/blast
 END:VEVENT
 END:VCALENDAR

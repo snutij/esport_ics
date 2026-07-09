@@ -162,6 +162,61 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
  v/ewc_stcarena_en
 SUMMARY:Decider match: NRG vs KC
-URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+URL:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T150000Z
+UID:pandascore-match-1579651@esport-ics
+DTSTART:20260717T150000Z
+DTEND:20260717T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:KC vs EF
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T150000Z
+UID:pandascore-match-1579658@esport-ics
+DTSTART:20260719T150000Z
+DTEND:20260719T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:GX vs KC
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T180000Z
+UID:pandascore-match-1579660@esport-ics
+DTSTART:20260722T180000Z
+DTEND:20260722T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:FNC vs KC
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T180000Z
+UID:pandascore-match-1579670@esport-ics
+DTSTART:20260726T180000Z
+DTEND:20260726T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:TH vs KC
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T180000Z
+UID:pandascore-match-1579674@esport-ics
+DTSTART:20260801T180000Z
+DTEND:20260801T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:KC vs TL
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

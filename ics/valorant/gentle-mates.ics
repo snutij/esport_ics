@@ -210,6 +210,61 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ewc_stcarena_en
 SUMMARY:Quarterfinal 4: M8 vs NRG
-URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+URL:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T180000Z
+UID:pandascore-match-1579629@esport-ics
+DTSTART:20260716T180000Z
+DTEND:20260716T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:PCFIC vs M8
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T150000Z
+UID:pandascore-match-1579631@esport-ics
+DTSTART:20260718T150000Z
+DTEND:20260718T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:M8 vs FUT
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T180000Z
+UID:pandascore-match-1579634@esport-ics
+DTSTART:20260723T180000Z
+DTEND:20260723T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:M8 vs NAVI
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T150000Z
+UID:pandascore-match-1579638@esport-ics
+DTSTART:20260729T150000Z
+DTEND:20260729T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:M8 vs VIT
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T150000Z
+UID:pandascore-match-1579640@esport-ics
+DTSTART:20260731T150000Z
+DTEND:20260731T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:BBL vs M8
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

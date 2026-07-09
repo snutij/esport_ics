@@ -332,6 +332,17 @@ CLASS:PUBLIC
 DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
  ecs
 SUMMARY:Round 4: B8 vs LVG
-URL;VALUE=URI:https://kick.com/xsecs
+URL:https://kick.com/xsecs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T123000Z
+UID:pandascore-match-1579765@esport-ics
+DTSTART:20260710T123000Z
+DTEND:20260710T144500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Asian Qualifier Fall 2026 - Playoffs\nWatch: https
+ ://www.huya.com/blast
+SUMMARY:Quarterfinal 4: GZ vs LVG
+URL;VALUE=URI:https://www.huya.com/blast
 END:VEVENT
 END:VCALENDAR

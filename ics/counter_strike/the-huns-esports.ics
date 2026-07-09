@@ -321,6 +321,17 @@ CLASS:PUBLIC
 DESCRIPTION:LG UltraGear Tournament - 2026 - Playoffs\nWatch: https://www.t
  witch.tv/myskill_top
 SUMMARY:Semifinal 1: THE vs CSH.P
-URL;VALUE=URI:https://www.twitch.tv/myskill_top
+URL:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T050000Z
+UID:pandascore-match-1579763@esport-ics
+DTSTART:20260710T050000Z
+DTEND:20260710T071500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Asian Qualifier Fall 2026 - Playoffs\nWatch: https
+ ://www.huya.com/blast
+SUMMARY:Quarterfinal 2: KG vs THE
+URL;VALUE=URI:https://www.huya.com/blast
 END:VEVENT
 END:VCALENDAR

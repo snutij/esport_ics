@@ -133,4 +133,59 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - EMEA Qualifier 2026 - Stage 2
 SUMMARY:Lower bracket quarterfinal 2: BBL vs EF
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260715T180000Z
+UID:pandascore-match-1579648@esport-ics
+DTSTART:20260715T180000Z
+DTEND:20260715T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:TL vs EF
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T150000Z
+UID:pandascore-match-1579651@esport-ics
+DTSTART:20260717T150000Z
+DTEND:20260717T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:KC vs EF
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T150000Z
+UID:pandascore-match-1579667@esport-ics
+DTSTART:20260723T150000Z
+DTEND:20260723T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:EF vs TH
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T180000Z
+UID:pandascore-match-1579669@esport-ics
+DTSTART:20260725T180000Z
+DTEND:20260725T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:EF vs GX
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T180000Z
+UID:pandascore-match-1579672@esport-ics
+DTSTART:20260730T180000Z
+DTEND:20260730T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Omega\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:EF vs FNC
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
 END:VCALENDAR

@@ -451,7 +451,8 @@ UID:pandascore-match-1551630@esport-ics
 DTSTART:20260710T080000Z
 DTEND:20260710T101500Z
 CLASS:PUBLIC
-DESCRIPTION:XSE Pro League - 2026 - Playoffs
+DESCRIPTION:XSE Pro League - 2026 - Playoffs\nWatch: https://kick.com/xsecs
 SUMMARY:Quarterfinal 3: PRV vs BIG
+URL;VALUE=URI:https://kick.com/xsecs
 END:VEVENT
 END:VCALENDAR

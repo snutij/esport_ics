@@ -232,6 +232,61 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Masters London 2026 - Playoffs\nWatch: https://www.twitch
  .tv/VALORANT
 SUMMARY:Lower bracket quarterfinal 1: VIT vs FUT
-URL;VALUE=URI:https://www.twitch.tv/VALORANT
+URL:https://www.twitch.tv/VALORANT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260715T150000Z
+UID:pandascore-match-1579628@esport-ics
+DTSTART:20260715T150000Z
+DTEND:20260715T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:FUT vs NAVI
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T150000Z
+UID:pandascore-match-1579631@esport-ics
+DTSTART:20260718T150000Z
+DTEND:20260718T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:M8 vs FUT
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T150000Z
+UID:pandascore-match-1579633@esport-ics
+DTSTART:20260722T150000Z
+DTEND:20260722T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:FUT vs PCFIC
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T150000Z
+UID:pandascore-match-1579635@esport-ics
+DTSTART:20260724T150000Z
+DTEND:20260724T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:FUT vs BBL
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T150000Z
+UID:pandascore-match-1579641@esport-ics
+DTSTART:20260801T150000Z
+DTEND:20260801T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:FUT vs VIT
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

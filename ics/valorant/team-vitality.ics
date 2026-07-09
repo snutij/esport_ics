@@ -258,4 +258,59 @@ DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
 SUMMARY:Quarterfinal 2: VIT vs NS
 URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T180000Z
+UID:pandascore-match-1579630@esport-ics
+DTSTART:20260717T180000Z
+DTEND:20260717T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:VIT vs NAVI
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T180000Z
+UID:pandascore-match-1579632@esport-ics
+DTSTART:20260719T180000Z
+DTEND:20260719T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:VIT vs BBL
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T150000Z
+UID:pandascore-match-1579636@esport-ics
+DTSTART:20260725T150000Z
+DTEND:20260725T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:PCFIC vs VIT
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T150000Z
+UID:pandascore-match-1579638@esport-ics
+DTSTART:20260729T150000Z
+DTEND:20260729T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:M8 vs VIT
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T150000Z
+UID:pandascore-match-1579641@esport-ics
+DTSTART:20260801T150000Z
+DTEND:20260801T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:FUT vs VIT
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
 END:VCALENDAR

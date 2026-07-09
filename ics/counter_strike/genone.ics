@@ -902,10 +902,10 @@ SUMMARY:G1 vs BRUTE
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260709T150000Z
+DTSTAMP:20260709T160000Z
 UID:pandascore-match-1577264@esport-ics
-DTSTART:20260709T150000Z
-DTEND:20260709T171500Z
+DTSTART:20260709T160000Z
+DTEND:20260709T181500Z
 CLASS:PUBLIC
 DESCRIPTION:RES Showdown - Europe Fall 2026 - Playoffs\nWatch: https://kick
  .com/rlgcs
@@ -920,7 +920,7 @@ DTEND:20260713T101500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 2026 - Group D\nWatch: https://k
  ick.com/eplcs_en
-SUMMARY:Elimination match: G1 vs TBD
+SUMMARY:Elimination match: G1 vs RUST
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

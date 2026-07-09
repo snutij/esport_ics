@@ -195,6 +195,72 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/EWC_STCArena_EN
 SUMMARY:Quarterfinal 1: TH vs BBL
-URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
+URL:https://www.twitch.tv/EWC_STCArena_EN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T134500Z
+UID:pandascore-match-1561436@esport-ics
+DTSTART:20260711T134500Z
+DTEND:20260711T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ewc_stcarena_en
+SUMMARY:Semifinal 2: BBL vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T180000Z
+UID:pandascore-match-1579632@esport-ics
+DTSTART:20260719T180000Z
+DTEND:20260719T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:VIT vs BBL
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T150000Z
+UID:pandascore-match-1579635@esport-ics
+DTSTART:20260724T150000Z
+DTEND:20260724T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:FUT vs BBL
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T150000Z
+UID:pandascore-match-1579637@esport-ics
+DTSTART:20260726T150000Z
+DTEND:20260726T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:BBL vs NAVI
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T150000Z
+UID:pandascore-match-1579640@esport-ics
+DTSTART:20260731T150000Z
+DTEND:20260731T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:BBL vs M8
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T150000Z
+UID:pandascore-match-1579642@esport-ics
+DTSTART:20260802T150000Z
+DTEND:20260802T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Alpha\nWatch: https://www.twitc
+ h.tv/valorant_emea
+SUMMARY:BBL vs PCFIC
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

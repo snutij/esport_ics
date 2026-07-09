@@ -29,8 +29,10 @@ UID:pandascore-match-1575339@esport-ics
 DTSTART:20260709T183000Z
 DTEND:20260709T204500Z
 CLASS:PUBLIC
-DESCRIPTION:Equal eSports Cup - 2026 - Group Stage
+DESCRIPTION:Equal eSports Cup - 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/equalesportsgg
 SUMMARY:BCEB vs ETR
+URL;VALUE=URI:https://www.twitch.tv/equalesportsgg
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260714T183000Z
