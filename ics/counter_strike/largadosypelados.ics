@@ -808,7 +808,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 3 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs
 SUMMARY:Quarterfinal 2: LDP vs FDB
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260709T140000Z
@@ -820,5 +820,16 @@ DESCRIPTION:RES Showdown - South America Fall 2026 - Playoffs\nWatch: https
  ://kick.com/rlgcs
 SUMMARY:Quarterfinal 2: LDP vs SHIN
 URL;VALUE=URI:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260709T150000Z
+UID:pandascore-match-1555159@esport-ics
+DTSTART:20260709T150000Z
+DTEND:20260709T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 3 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs
+SUMMARY:Semifinal 1: IMP vs LDP
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
