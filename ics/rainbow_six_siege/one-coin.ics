@@ -190,6 +190,15 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/rainbow6
 SUMMARY:Upper bracket quarterfinal 1: KZ vs OC
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T053000Z
+UID:pandascore-match-1523098@esport-ics
+DTSTART:20260712T053000Z
+DTEND:20260712T074500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: OC vs TBD
 END:VEVENT
 END:VCALENDAR

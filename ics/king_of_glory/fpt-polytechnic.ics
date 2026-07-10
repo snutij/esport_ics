@@ -311,6 +311,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Valor Premier League - 2026 - Playoffs\nWatch: https:/
  /www.youtube.com/@LienQuanMobileSportsGarena/live
 SUMMARY: Lower bracket quarterfinal 2: TF vs FPL
+URL:https://www.youtube.com/@LienQuanMobileSportsGarena/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T050000Z
+UID:pandascore-match-1562840@esport-ics
+DTSTART:20260718T050000Z
+DTEND:20260718T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor Premier League - 2026 - Playoffs\nWatch: https:/
+ /www.youtube.com/@LienQuanMobileSportsGarena/live
+SUMMARY: Lower bracket semifinal: FPL vs TBD
 URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/live
 END:VEVENT
 END:VCALENDAR

@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 52 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Winners match: PSN.A vs ESB
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T103000Z
+UID:pandascore-match-1568962@esport-ics
+DTSTART:20260712T103000Z
+DTEND:20260712T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 52 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider match: PSN.A vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
