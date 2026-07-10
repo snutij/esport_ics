@@ -503,6 +503,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - North American Qualifier Fall 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/circuitxofficial
 SUMMARY:Quarterfinal 2: LAG vs OT
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T223000Z
+UID:pandascore-match-1577281@esport-ics
+DTSTART:20260710T223000Z
+DTEND:20260711T004500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - North American Qualifier Fall 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/circuitxofficial
+SUMMARY:Semifinal 1: M80 vs LAG
 URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR
