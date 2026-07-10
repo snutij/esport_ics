@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Last Chance Qualifier 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/valorant_emea
 SUMMARY:Quarterfinals match 2: FF vs CLK
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T150000Z
+UID:pandascore-match-1572679@esport-ics
+DTSTART:20260711T150000Z
+DTEND:20260711T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - EMEA: Last Chance Qualifier 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/valorant_emea
+SUMMARY:Semifinals match  1: CGN vs CLK
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
