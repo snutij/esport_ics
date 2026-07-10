@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Brazil: Stage 2 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/gamersclubvalorant
 SUMMARY:Lower bracket final: MAS vs TS
+URL:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T200000Z
+UID:pandascore-match-1488961@esport-ics
+DTSTART:20260712T200000Z
+DTEND:20260712T234500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Brazil: Stage 2 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/gamersclubvalorant
+SUMMARY:Grand final: 2GAME vs MAS
 URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
 END:VEVENT
 END:VCALENDAR
