@@ -153,6 +153,28 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 5 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/tastelesstv
 SUMMARY:Lower bracket round 1 match 2: Rogue vs Bunny
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T090000Z
+UID:pandascore-match-1580655@esport-ics
+DTSTART:20260711T090000Z
+DTEND:20260711T111500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 6 2026 - Group A\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:Serral vs Bunny
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T094500Z
+UID:pandascore-match-1580656@esport-ics
+DTSTART:20260711T094500Z
+DTEND:20260711T120000Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 6 2026 - Group A\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:Bunny vs GgMaChine
 URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR

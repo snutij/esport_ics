@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - Asian Qualifier Fall 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/vanfantv
 SUMMARY:Quarterfinal 3: 5S vs AE
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T053000Z
+UID:pandascore-match-1579767@esport-ics
+DTSTART:20260711T053000Z
+DTEND:20260711T074500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Asian Qualifier Fall 2026 - Playoffs\nWatch: https
+ ://www.huya.com/blast
+SUMMARY:Semifinal 2: 5S vs TBD
+URL;VALUE=URI:https://www.huya.com/blast
 END:VEVENT
 END:VCALENDAR
