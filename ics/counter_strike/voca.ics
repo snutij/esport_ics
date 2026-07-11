@@ -504,6 +504,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - North American Qualifier Fall 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/circuitxofficial
 SUMMARY:Semifinal 2: VOCA vs REGAIN
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T233000Z
+UID:pandascore-match-1577283@esport-ics
+DTSTART:20260711T233000Z
+DTEND:20260712T014500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - North American Qualifier Fall 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/circuitxofficial
+SUMMARY:Grand final: M80 vs VOCA
 URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR
