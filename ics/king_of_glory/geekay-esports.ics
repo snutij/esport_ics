@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - Challenger Cup 2026 - Stage 1\nWatch: https://
  www.youtube.com/@2019KPL/streams
 SUMMARY:Round 1 match 3: ESP vs GE
-URL;VALUE=URI:https://www.youtube.com/@2019KPL/streams
+URL:https://www.youtube.com/@2019KPL/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T110000Z
+UID:pandascore-match-1583233@esport-ics
+DTSTART:20260801T110000Z
+DTEND:20260801T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - World Cup 2026 - Group D
+SUMMARY:GE vs TBD
 END:VEVENT
 END:VCALENDAR
