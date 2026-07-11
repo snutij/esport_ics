@@ -393,6 +393,15 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 Closed Qualifier 2026 - Play-In\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:IC.A vs Honvéd
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T130000Z
+UID:pandascore-match-1582112@esport-ics
+DTSTART:20260712T130000Z
+DTEND:20260712T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #1 season 52 2026 - Group A
+SUMMARY:IC.A vs BRUTE
 END:VEVENT
 END:VCALENDAR

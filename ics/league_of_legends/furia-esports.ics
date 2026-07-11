@@ -231,4 +231,81 @@ DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
 SUMMARY:Upper bracket semifinal 1: G2 vs FUR
 URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T160000Z
+UID:pandascore-match-1582083@esport-ics
+DTSTART:20260725T160000Z
+DTEND:20260725T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:FUR vs LOS
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T160000Z
+UID:pandascore-match-1582087@esport-ics
+DTSTART:20260801T160000Z
+DTEND:20260801T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:VKS vs FUR
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T230000Z
+UID:pandascore-match-1582092@esport-ics
+DTSTART:20260807T230000Z
+DTEND:20260808T011500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:FUR vs LLL
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T180000Z
+UID:pandascore-match-1582096@esport-ics
+DTSTART:20260809T180000Z
+DTEND:20260809T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:FXW7 vs FUR
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T160000Z
+UID:pandascore-match-1582099@esport-ics
+DTSTART:20260815T160000Z
+DTEND:20260815T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:FUR vs RED
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T180000Z
+UID:pandascore-match-1582102@esport-ics
+DTSTART:20260822T180000Z
+DTEND:20260822T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:PNG vs FUR
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T180000Z
+UID:pandascore-match-1582108@esport-ics
+DTSTART:20260830T180000Z
+DTEND:20260830T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:FUR vs LEV
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
 END:VCALENDAR

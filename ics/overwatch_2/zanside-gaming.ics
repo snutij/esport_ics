@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Korea Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ow_esports_jp
 SUMMARY:Semifinal 1: CR vs ZSG
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T060000Z
+UID:pandascore-match-1526064@esport-ics
+DTSTART:20260712T060000Z
+DTEND:20260712T090000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ow_esports_jp
+SUMMARY:3rd Place match: ZSG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

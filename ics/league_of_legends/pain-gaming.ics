@@ -113,6 +113,83 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - South America & LATAM Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/EWC_STCArena_EN
 SUMMARY:Lower Bracket Quarterfinal 1: LOS vs PNG
-URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
+URL:https://www.twitch.tv/EWC_STCArena_EN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T180000Z
+UID:pandascore-match-1582084@esport-ics
+DTSTART:20260725T180000Z
+DTEND:20260725T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:LLL vs PNG
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T180000Z
+UID:pandascore-match-1582088@esport-ics
+DTSTART:20260801T180000Z
+DTEND:20260801T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:LEV vs PNG
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T160000Z
+UID:pandascore-match-1582093@esport-ics
+DTSTART:20260808T160000Z
+DTEND:20260808T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:RED vs PNG
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260810T230000Z
+UID:pandascore-match-1582098@esport-ics
+DTSTART:20260810T230000Z
+DTEND:20260811T011500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:LOS vs PNG
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T180000Z
+UID:pandascore-match-1582110@esport-ics
+DTSTART:20260816T180000Z
+DTEND:20260816T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:PNG vs FXW7
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T180000Z
+UID:pandascore-match-1582102@esport-ics
+DTSTART:20260822T180000Z
+DTEND:20260822T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:PNG vs FUR
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T160000Z
+UID:pandascore-match-1582107@esport-ics
+DTSTART:20260830T160000Z
+DTEND:20260830T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:PNG vs VKS
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

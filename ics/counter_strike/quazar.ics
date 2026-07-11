@@ -431,6 +431,15 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #2 2026 - Group C\nWa
  tch: https://www.twitch.tv/gluck_esports
 SUMMARY:Winners match: QUA vs DNT
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T130000Z
+UID:pandascore-match-1582117@esport-ics
+DTSTART:20260712T130000Z
+DTEND:20260712T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #1 season 52 2026 - Group B
+SUMMARY:QUA vs TLR
 END:VEVENT
 END:VCALENDAR

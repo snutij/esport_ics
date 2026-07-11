@@ -146,6 +146,83 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - South America & LATAM Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/EWC_STCArena_EN
 SUMMARY:Lower Bracket Quarterfinal 2: FXW7 vs LLL
-URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN
+URL:https://www.twitch.tv/EWC_STCArena_EN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T160000Z
+UID:pandascore-match-1582085@esport-ics
+DTSTART:20260726T160000Z
+DTEND:20260726T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:FXW7 vs LEV
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T160000Z
+UID:pandascore-match-1582089@esport-ics
+DTSTART:20260802T160000Z
+DTEND:20260802T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:FXW7 vs LLL
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T210000Z
+UID:pandascore-match-1582091@esport-ics
+DTSTART:20260807T210000Z
+DTEND:20260807T231500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:VKS vs FXW7
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T180000Z
+UID:pandascore-match-1582096@esport-ics
+DTSTART:20260809T180000Z
+DTEND:20260809T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:FXW7 vs FUR
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T180000Z
+UID:pandascore-match-1582110@esport-ics
+DTSTART:20260816T180000Z
+DTEND:20260816T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:PNG vs FXW7
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T160000Z
+UID:pandascore-match-1582103@esport-ics
+DTSTART:20260823T160000Z
+DTEND:20260823T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:RED vs FXW7
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T180000Z
+UID:pandascore-match-1582106@esport-ics
+DTSTART:20260829T180000Z
+DTEND:20260829T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:FXW7 vs LOS
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

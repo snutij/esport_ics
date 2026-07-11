@@ -254,6 +254,83 @@ CLASS:PUBLIC
 DESCRIPTION:Cross Regional - 2026 - Group Stage\nWatch: https://www.soopliv
  e.com/eragonuk
 SUMMARY:DNS vs LOS
-URL;VALUE=URI:https://www.sooplive.com/eragonuk
+URL:https://www.sooplive.com/eragonuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T160000Z
+UID:pandascore-match-1582083@esport-ics
+DTSTART:20260725T160000Z
+DTEND:20260725T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:FUR vs LOS
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T180000Z
+UID:pandascore-match-1582090@esport-ics
+DTSTART:20260802T180000Z
+DTEND:20260802T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:LOS vs RED
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T180000Z
+UID:pandascore-match-1582094@esport-ics
+DTSTART:20260808T180000Z
+DTEND:20260808T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:LOS vs LEV
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260810T230000Z
+UID:pandascore-match-1582098@esport-ics
+DTSTART:20260810T230000Z
+DTEND:20260811T011500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:LOS vs PNG
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T180000Z
+UID:pandascore-match-1582100@esport-ics
+DTSTART:20260815T180000Z
+DTEND:20260815T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:VKS vs LOS
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T180000Z
+UID:pandascore-match-1582104@esport-ics
+DTSTART:20260823T180000Z
+DTEND:20260823T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:LOS vs LLL
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T180000Z
+UID:pandascore-match-1582106@esport-ics
+DTSTART:20260829T180000Z
+DTEND:20260829T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
+ h.tv/cblol
+SUMMARY:FXW7 vs LOS
+URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

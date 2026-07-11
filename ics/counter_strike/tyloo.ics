@@ -558,6 +558,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - Asian Qualifier Fall 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/vanfantv
 SUMMARY:Semifinal 1: THE vs TYLOO
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T063000Z
+UID:pandascore-match-1579768@esport-ics
+DTSTART:20260712T063000Z
+DTEND:20260712T084500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Asian Qualifier Fall 2026 - Playoffs\nWatch: https
+ ://www.huya.com/blast
+SUMMARY:Grand final: TYLOO vs TBD
+URL;VALUE=URI:https://www.huya.com/blast
 END:VEVENT
 END:VCALENDAR
