@@ -254,6 +254,17 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/esix_france
 SUMMARY:Upper bracket semifinal 2: EDG vs AG
+URL:https://www.twitch.tv/esix_france
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T090000Z
+UID:pandascore-match-1523098@esport-ics
+DTSTART:20260712T090000Z
+DTEND:20260712T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/esix_france
+SUMMARY:Lower bracket quarterfinal 2: OC vs AG
 URL;VALUE=URI:https://www.twitch.tv/esix_france
 END:VEVENT
 END:VCALENDAR

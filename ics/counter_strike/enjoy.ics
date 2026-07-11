@@ -473,6 +473,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 2026 - Group B\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Winners match: BMB vs ENJOY
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260715T103000Z
+UID:pandascore-match-1554013@esport-ics
+DTSTART:20260715T103000Z
+DTEND:20260715T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Group B\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Decider match: TLR vs ENJOY
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
