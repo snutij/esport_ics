@@ -713,6 +713,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
  v/EWC_LegionGauntlet_EN3
 SUMMARY:L1GA vs LVLUP
-URL;VALUE=URI:https://www.twitch.tv/EWC_LegionGauntlet_EN3
+URL:https://www.twitch.tv/EWC_LegionGauntlet_EN3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T110000Z
+UID:pandascore-match-1583157@esport-ics
+DTSTART:20260731T110000Z
+DTEND:20260731T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Group D
+SUMMARY:L1GA vs RNX
 END:VEVENT
 END:VCALENDAR

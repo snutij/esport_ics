@@ -58,6 +58,15 @@ CLASS:PUBLIC
 DESCRIPTION:The International - Europe Closed Qualifier 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Lower bracket round 2 match 4: Enjoy vs HULIGANI
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T110000Z
+UID:pandascore-match-1583153@esport-ics
+DTSTART:20260731T110000Z
+DTEND:20260731T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Group C
+SUMMARY:Enjoy vs GLYPH
 END:VEVENT
 END:VCALENDAR

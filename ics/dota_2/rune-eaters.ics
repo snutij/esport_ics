@@ -648,6 +648,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
  v/EWC_LegionGauntlet_EN3
 SUMMARY:Poor Rangers vs RE
-URL;VALUE=URI:https://www.twitch.tv/EWC_LegionGauntlet_EN3
+URL:https://www.twitch.tv/EWC_LegionGauntlet_EN3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T050000Z
+UID:pandascore-match-1583148@esport-ics
+DTSTART:20260731T050000Z
+DTEND:20260731T071500Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Group B
+SUMMARY:RE vs Midas
 END:VEVENT
 END:VCALENDAR

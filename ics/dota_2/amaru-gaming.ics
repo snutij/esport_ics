@@ -187,6 +187,15 @@ CLASS:PUBLIC
 DESCRIPTION:The International - South America Closed Qualifier 2026 - Playo
  ffs\nWatch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Lower bracket final: PlayTime vs Amaru Gaming
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T080000Z
+UID:pandascore-match-1583145@esport-ics
+DTSTART:20260731T080000Z
+DTEND:20260731T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Group A
+SUMMARY:VG vs Amaru Gaming
 END:VEVENT
 END:VCALENDAR

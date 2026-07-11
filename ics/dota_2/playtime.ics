@@ -347,6 +347,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
  v/EWC_LegionGauntlet_EN2
 SUMMARY:PlayTime vs NGX
-URL;VALUE=URI:https://www.twitch.tv/EWC_LegionGauntlet_EN2
+URL:https://www.twitch.tv/EWC_LegionGauntlet_EN2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T080000Z
+UID:pandascore-match-1583149@esport-ics
+DTSTART:20260731T080000Z
+DTEND:20260731T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Group B
+SUMMARY:TR vs PlayTime
 END:VEVENT
 END:VCALENDAR
