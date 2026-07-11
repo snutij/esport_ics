@@ -433,6 +433,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 3 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs
 SUMMARY:Semifinal 1: IMP vs LDP
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T190000Z
+UID:pandascore-match-1577287@esport-ics
+DTSTART:20260711T190000Z
+DTEND:20260711T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - South American Series #2 2026 
+ - Playoffs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Quarterfinal 4: IMP vs ISG
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

@@ -340,7 +340,9 @@ UID:pandascore-match-1579766@esport-ics
 DTSTART:20260711T063000Z
 DTEND:20260711T084500Z
 CLASS:PUBLIC
-DESCRIPTION:BLAST Open - Asian Qualifier Fall 2026 - Playoffs
+DESCRIPTION:BLAST Open - Asian Qualifier Fall 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/vanfantv
 SUMMARY:Semifinal 1: THE vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/vanfantv
 END:VEVENT
 END:VCALENDAR

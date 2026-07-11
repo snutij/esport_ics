@@ -799,6 +799,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 3 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs
 SUMMARY:Grand final: BHE vs TBD
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T130000Z
+UID:pandascore-match-1577285@esport-ics
+DTSTART:20260711T130000Z
+DTEND:20260711T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - South American Series #2 2026 
+ - Playoffs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Quarterfinal 2: BHE vs Keyd
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
