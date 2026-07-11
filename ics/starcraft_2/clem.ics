@@ -443,6 +443,17 @@ CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Playoffs\nWatch: https://www.twitch
  .tv/taketv
 SUMMARY:Grand final: Clem vs Serral
-URL;VALUE=URI:https://www.twitch.tv/taketv
+URL:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T090000Z
+UID:pandascore-match-1580670@esport-ics
+DTSTART:20260718T090000Z
+DTEND:20260718T111500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 6 2026 - Group D\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:Clem vs Lambo
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR

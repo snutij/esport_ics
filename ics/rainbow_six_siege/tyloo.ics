@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/rainbow6
 SUMMARY:Upper bracket semifinal 1: TYLOO vs KZ
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T103000Z
+UID:pandascore-match-1523101@esport-ics
+DTSTART:20260718T103000Z
+DTEND:20260718T124500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/esix_france
+SUMMARY:Upper bracket final: TYLOO vs TBD
+URL;VALUE=URI:https://www.twitch.tv/esix_france
 END:VEVENT
 END:VCALENDAR

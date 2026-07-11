@@ -409,6 +409,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/wardiii
 SUMMARY:Lower bracket final: Cure vs TBD
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T094500Z
+UID:pandascore-match-1580671@esport-ics
+DTSTART:20260718T094500Z
+DTEND:20260718T120000Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 6 2026 - Group D\nWatch: https://www.twitc
+ h.tv/tastelesstv
+SUMMARY:Scarlett vs Cure
+URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR
