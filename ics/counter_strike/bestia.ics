@@ -468,6 +468,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - South American Series #2 2026 
  - Playoffs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Quarterfinal 1: BST vs MIBR.A
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T180000Z
+UID:pandascore-match-1577289@esport-ics
+DTSTART:20260712T180000Z
+DTEND:20260712T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - South American Series #2 2026 
+ - Playoffs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Semifinal 1: BST vs Keyd
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
