@@ -67,6 +67,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #6 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs3
 SUMMARY:Lower bracket final: mellren vs Tricksters
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260712T181500Z
+UID:pandascore-match-1575326@esport-ics
+DTSTART:20260712T181500Z
+DTEND:20260712T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #6 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs3
+SUMMARY:Grand final: LPH vs mellren
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

@@ -776,6 +776,17 @@ SUMMARY:Xtreme vs FLC
 URL:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260714T143000Z
+UID:pandascore-match-1565797@esport-ics
+DTSTART:20260714T143000Z
+DTEND:20260714T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Survival\nWatch: https://www.twitch.
+ tv/ewc
+SUMMARY:Round 1 match 3: Liquid vs Xtreme
+URL;VALUE=URI:https://www.twitch.tv/ewc
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260731T140000Z
 UID:pandascore-match-1583158@esport-ics
 DTSTART:20260731T140000Z

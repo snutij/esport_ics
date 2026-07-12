@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 52 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: VIT.A vs ADN
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260713T103000Z
+UID:pandascore-match-1584699@esport-ics
+DTSTART:20260713T103000Z
+DTEND:20260713T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 52 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket quarterfinal 2: FaZe UN vs ADN
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
