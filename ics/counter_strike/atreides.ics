@@ -666,7 +666,9 @@ UID:pandascore-match-1582122@esport-ics
 DTSTART:20260712T130000Z
 DTEND:20260712T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #1 season 52 2026 - Group C
+DESCRIPTION:ESL Challenger League - Europe Cup #1 season 52 2026 - Group C\
+ nWatch: https://www.twitch.tv/Mikotohero
 SUMMARY:Atreides vs Just Players
+URL;VALUE=URI:https://www.twitch.tv/Mikotohero
 END:VEVENT
 END:VCALENDAR
