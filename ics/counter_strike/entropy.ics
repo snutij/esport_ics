@@ -329,6 +329,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #1 season 52 2026 - Group C\
  nWatch: https://www.twitch.tv/iamfusiion
 SUMMARY:G1 vs Entropy
-URL;VALUE=URI:https://www.twitch.tv/iamfusiion
+URL:https://www.twitch.tv/iamfusiion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T080000Z
+UID:pandascore-match-1582145@esport-ics
+DTSTART:20260716T080000Z
+DTEND:20260716T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Play-In Group D\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Entropy vs MISA
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

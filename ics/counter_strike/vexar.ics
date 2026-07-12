@@ -252,4 +252,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #1 season 52 2026 - Group A
 SUMMARY:HOTU vs Vexar
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T140000Z
+UID:pandascore-match-1582143@esport-ics
+DTSTART:20260716T140000Z
+DTEND:20260716T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Play-In Group C\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:SAW.Y vs Vexar
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
