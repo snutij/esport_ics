@@ -113,7 +113,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 2026 - Group D\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Winners match: BRUTE vs Honvéd
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260713T110000Z
@@ -124,7 +124,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Play-In Group A\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Honvéd vs JUL
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260714T103000Z
