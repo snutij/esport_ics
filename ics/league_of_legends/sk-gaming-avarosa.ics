@@ -40,7 +40,9 @@ UID:pandascore-match-1575341@esport-ics
 DTSTART:20260714T160000Z
 DTEND:20260714T181500Z
 CLASS:PUBLIC
-DESCRIPTION:Equal eSports Cup - 2026 - Group Stage
+DESCRIPTION:Equal eSports Cup - 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/euniverse_tv
 SUMMARY:SK.A vs RB
+URL;VALUE=URI:https://www.twitch.tv/euniverse_tv
 END:VEVENT
 END:VCALENDAR
