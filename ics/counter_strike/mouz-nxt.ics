@@ -716,7 +716,9 @@ UID:pandascore-match-1582130@esport-ics
 DTSTART:20260713T130000Z
 DTEND:20260713T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #1 season 52 2026 - Group D
+DESCRIPTION:ESL Challenger League - Europe Cup #1 season 52 2026 - Group D\
+ nWatch: https://www.twitch.tv/vanfantv
 SUMMARY:Decider match: SPARTA vs MOUZ.N
+URL;VALUE=URI:https://www.twitch.tv/vanfantv
 END:VEVENT
 END:VCALENDAR

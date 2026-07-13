@@ -252,6 +252,72 @@ DTEND:20260523T143000Z
 CLASS:PUBLIC
 DESCRIPTION:LPL - Split 2 2026 - Play-In\nWatch: https://www.huya.com/lpl
 SUMMARY:IG vs TT
-URL;VALUE=URI:https://www.huya.com/lpl
+URL:https://www.huya.com/lpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T090000Z
+UID:pandascore-match-1585257@esport-ics
+DTSTART:20260725T090000Z
+DTEND:20260725T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:IG vs WB
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T090000Z
+UID:pandascore-match-1585273@esport-ics
+DTSTART:20260802T090000Z
+DTEND:20260802T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:LNG vs IG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T090000Z
+UID:pandascore-match-1585278@esport-ics
+DTSTART:20260806T090000Z
+DTEND:20260806T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:IG vs NIP
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T070000Z
+UID:pandascore-match-1585286@esport-ics
+DTSTART:20260809T070000Z
+DTEND:20260809T091500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:IG vs LNG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T090000Z
+UID:pandascore-match-1585301@esport-ics
+DTSTART:20260816T090000Z
+DTEND:20260816T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:WB vs IG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T090000Z
+UID:pandascore-match-1585312@esport-ics
+DTSTART:20260822T090000Z
+DTEND:20260822T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:NIP vs IG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
 END:VEVENT
 END:VCALENDAR

@@ -291,6 +291,160 @@ DTEND:20260613T124500Z
 CLASS:PUBLIC
 DESCRIPTION:LPL - Split 2 2026 - Playoffs\nWatch: https://www.huya.com/lpl
 SUMMARY:Lower bracket final: WE vs BLG
-URL;VALUE=URI:https://www.huya.com/lpl
+URL:https://www.huya.com/lpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T110000Z
+UID:pandascore-match-1585250@esport-ics
+DTSTART:20260722T110000Z
+DTEND:20260722T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:TES vs WE
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T090000Z
+UID:pandascore-match-1585254@esport-ics
+DTSTART:20260724T090000Z
+DTEND:20260724T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:WE vs JDG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T070000Z
+UID:pandascore-match-1585256@esport-ics
+DTSTART:20260725T070000Z
+DTEND:20260725T091500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:LGD vs WE
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T090000Z
+UID:pandascore-match-1585265@esport-ics
+DTSTART:20260730T090000Z
+DTEND:20260730T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:EDG vs WE
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T090000Z
+UID:pandascore-match-1585268@esport-ics
+DTSTART:20260731T090000Z
+DTEND:20260731T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:WE vs BLG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T070000Z
+UID:pandascore-match-1585272@esport-ics
+DTSTART:20260802T070000Z
+DTEND:20260802T091500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:TT vs WE
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T110000Z
+UID:pandascore-match-1585279@esport-ics
+DTSTART:20260806T110000Z
+DTEND:20260806T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:WE vs AL
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T090000Z
+UID:pandascore-match-1585281@esport-ics
+DTSTART:20260807T090000Z
+DTEND:20260807T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:WE vs TT
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T110000Z
+UID:pandascore-match-1585288@esport-ics
+DTSTART:20260809T110000Z
+DTEND:20260809T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:JDG vs WE
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T090000Z
+UID:pandascore-match-1585295@esport-ics
+DTSTART:20260814T090000Z
+DTEND:20260814T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:WE vs TES
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T110000Z
+UID:pandascore-match-1585299@esport-ics
+DTSTART:20260815T110000Z
+DTEND:20260815T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:BLG vs WE
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260819T110000Z
+UID:pandascore-match-1585304@esport-ics
+DTSTART:20260819T110000Z
+DTEND:20260819T131500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:WE vs EDG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260821T070000Z
+UID:pandascore-match-1585308@esport-ics
+DTSTART:20260821T070000Z
+DTEND:20260821T091500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:AL vs WE
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T090000Z
+UID:pandascore-match-1585315@esport-ics
+DTSTART:20260823T090000Z
+DTEND:20260823T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Ascend\nWatch: https://www.twitch.tv
+ /lplenglish
+SUMMARY:WE vs LGD
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
 END:VEVENT
 END:VCALENDAR

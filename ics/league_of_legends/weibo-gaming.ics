@@ -272,6 +272,72 @@ DTEND:20260524T144500Z
 CLASS:PUBLIC
 DESCRIPTION:LPL - Split 2 2026 - Play-In\nWatch: https://www.huya.com/lpl
 SUMMARY:WB vs LGD
-URL;VALUE=URI:https://www.huya.com/lpl
+URL:https://www.huya.com/lpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T090000Z
+UID:pandascore-match-1585257@esport-ics
+DTSTART:20260725T090000Z
+DTEND:20260725T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:IG vs WB
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T070000Z
+UID:pandascore-match-1585264@esport-ics
+DTSTART:20260730T070000Z
+DTEND:20260730T091500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:NIP vs WB
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T070000Z
+UID:pandascore-match-1585283@esport-ics
+DTSTART:20260808T070000Z
+DTEND:20260808T091500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:WB vs LNG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T070000Z
+UID:pandascore-match-1585291@esport-ics
+DTSTART:20260813T070000Z
+DTEND:20260813T091500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:WB vs NIP
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T090000Z
+UID:pandascore-match-1585301@esport-ics
+DTSTART:20260816T090000Z
+DTEND:20260816T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:WB vs IG
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T070000Z
+UID:pandascore-match-1585314@esport-ics
+DTSTART:20260823T070000Z
+DTEND:20260823T091500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Group Nirvana\nWatch: https://www.twitch.t
+ v/lplenglish
+SUMMARY:LNG vs WB
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
 END:VEVENT
 END:VCALENDAR

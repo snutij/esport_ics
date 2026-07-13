@@ -943,6 +943,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 2026 - Group D\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Elimination match: G1 vs RUST
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T103000Z
+UID:pandascore-match-1554023@esport-ics
+DTSTART:20260714T103000Z
+DTEND:20260714T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Group D\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Decider match: Honvéd vs G1
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
