@@ -561,6 +561,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #1 season 52 2026 - Group B\
  nWatch: https://www.twitch.tv/sh1ngekiiii
 SUMMARY:Winners match: FNC vs TLR
-URL;VALUE=URI:https://www.twitch.tv/sh1ngekiiii
+URL:https://www.twitch.tv/sh1ngekiiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260713T170000Z
+UID:pandascore-match-1582134@esport-ics
+DTSTART:20260713T170000Z
+DTEND:20260713T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #1 season 52 2026 - Playoffs
+SUMMARY:Quarterfinal 4: FNC vs TBD
 END:VEVENT
 END:VCALENDAR
