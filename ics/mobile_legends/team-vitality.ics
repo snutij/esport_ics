@@ -11,8 +11,10 @@ UID:pandascore-match-1583251@esport-ics
 DTSTART:20260714T130000Z
 DTEND:20260714T151500Z
 CLASS:PUBLIC
-DESCRIPTION:MLBB Women's International - 2026 - Group B
+DESCRIPTION:MLBB Women's International - 2026 - Group B\nWatch: https://www
+ .youtube.com/watch?v=f8_p4wghqxU
 SUMMARY:Upper bracket quarterfinal 2: Team Vitality vs MIBR.LOS
+URL;VALUE=URI:https://www.youtube.com/watch?v=f8_p4wghqxU
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260722T120000Z
