@@ -98,6 +98,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Split 2 2026 - Regular Season\nWatch: https://www.twitch.
  tv/lolpacificen
 SUMMARY:DFM vs TSW
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T090000Z
+UID:pandascore-match-1586279@esport-ics
+DTSTART:20260726T090000Z
+DTEND:20260726T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 3 2026 - Swiss Stage\nWatch: https://www.twitch.tv/
+ lolpacificen
+SUMMARY:Round 1: DFM vs GAM
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR

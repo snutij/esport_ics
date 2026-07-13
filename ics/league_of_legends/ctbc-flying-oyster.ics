@@ -140,6 +140,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Split 2 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  pacificen
 SUMMARY:Upper bracket quarterfinal 1: MVK vs CFO
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T113000Z
+UID:pandascore-match-1586280@esport-ics
+DTSTART:20260726T113000Z
+DTEND:20260726T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 3 2026 - Swiss Stage\nWatch: https://www.twitch.tv/
+ lolpacificen
+SUMMARY:Round 1: CFO vs DCG
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR

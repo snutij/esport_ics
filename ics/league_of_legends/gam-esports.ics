@@ -191,4 +191,15 @@ DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
 SUMMARY:Upper bracket semifinal 2: T1 vs GAM
 URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T090000Z
+UID:pandascore-match-1586279@esport-ics
+DTSTART:20260726T090000Z
+DTEND:20260726T111500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 3 2026 - Swiss Stage\nWatch: https://www.twitch.tv/
+ lolpacificen
+SUMMARY:Round 1: DFM vs GAM
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
 END:VCALENDAR

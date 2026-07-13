@@ -237,6 +237,17 @@ CLASS:PUBLIC
 DESCRIPTION:Mid-Season Invitational - 2026 - Play-In\nWatch: https://www.tw
  itch.tv/riotgames
 SUMMARY:Lower bracket semifinal: DCG vs TL
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T113000Z
+UID:pandascore-match-1586280@esport-ics
+DTSTART:20260726T113000Z
+DTEND:20260726T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 3 2026 - Swiss Stage\nWatch: https://www.twitch.tv/
+ lolpacificen
+SUMMARY:Round 1: CFO vs DCG
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR
