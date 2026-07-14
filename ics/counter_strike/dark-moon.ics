@@ -34,6 +34,15 @@ CLASS:PUBLIC
 DESCRIPTION:LG UltraGear Tournament - 2026 - Group B\nWatch: https://www.tw
  itch.tv/myskill_top
 SUMMARY:CSH.P vs DM
-URL;VALUE=URI:https://www.twitch.tv/myskill_top
+URL:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T183000Z
+UID:pandascore-match-1586802@esport-ics
+DTSTART:20260714T183000Z
+DTEND:20260714T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:FOR vs DM
 END:VEVENT
 END:VCALENDAR

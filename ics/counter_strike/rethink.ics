@@ -670,6 +670,15 @@ CLASS:PUBLIC
 DESCRIPTION:Svenska CS-Ligan - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/fragbite
 SUMMARY:Grand final: RT vs TBD
-URL;VALUE=URI:https://www.twitch.tv/fragbite
+URL:https://www.twitch.tv/fragbite
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T183000Z
+UID:pandascore-match-1586799@esport-ics
+DTSTART:20260714T183000Z
+DTEND:20260714T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:DRAMA vs RT
 END:VEVENT
 END:VCALENDAR

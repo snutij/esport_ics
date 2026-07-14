@@ -265,6 +265,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #6 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs3
 SUMMARY:Lower Bracket Quarterfinals 1: PURE vs Tricksters
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T180000Z
+UID:pandascore-match-1586797@esport-ics
+DTSTART:20260714T180000Z
+DTEND:20260714T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:PURE vs A Great Chaos
 END:VEVENT
 END:VCALENDAR

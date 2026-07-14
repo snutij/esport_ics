@@ -137,6 +137,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 57 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/GoYareGo
 SUMMARY:Lower bracket quarterfinal 2: OLDBOYS PL vs ARCH
-URL;VALUE=URI:https://www.twitch.tv/GoYareGo
+URL:https://www.twitch.tv/GoYareGo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T183000Z
+UID:pandascore-match-1586804@esport-ics
+DTSTART:20260714T183000Z
+DTEND:20260714T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:CC.FE vs OLDBOYS PL
 END:VEVENT
 END:VCALENDAR

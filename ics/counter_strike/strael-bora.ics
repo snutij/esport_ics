@@ -168,6 +168,15 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship
 SUMMARY:Lower bracket semifinal: S-B vs FOR
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260714T183000Z
+UID:pandascore-match-1586801@esport-ics
+DTSTART:20260714T183000Z
+DTEND:20260714T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:S-B vs QUA
 END:VEVENT
 END:VCALENDAR
