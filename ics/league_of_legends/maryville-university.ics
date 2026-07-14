@@ -124,6 +124,61 @@ CLASS:PUBLIC
 DESCRIPTION:North American Challengers League - Spring 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/NACL
 SUMMARY:Lower bracket round 1 match 1: WU vs MVU
+URL:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T000000Z
+UID:pandascore-match-1586819@esport-ics
+DTSTART:20260717T000000Z
+DTEND:20260717T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs DOG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T210000Z
+UID:pandascore-match-1586830@esport-ics
+DTSTART:20260731T210000Z
+DTEND:20260731T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs CPD
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T210000Z
+UID:pandascore-match-1586834@esport-ics
+DTSTART:20260806T210000Z
+DTEND:20260806T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs CCG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T000000Z
+UID:pandascore-match-1586837@esport-ics
+DTSTART:20260808T000000Z
+DTEND:20260808T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs CONT
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T210000Z
+UID:pandascore-match-1586840@esport-ics
+DTSTART:20260813T210000Z
+DTEND:20260813T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs WU
 URL;VALUE=URI:https://www.twitch.tv/NACL
 END:VEVENT
 END:VCALENDAR

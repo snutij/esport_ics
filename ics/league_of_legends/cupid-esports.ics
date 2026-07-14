@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cupid Esports
+SLUG:cupid-esports
+BEGIN:VEVENT
+DTSTAMP:20260716T210000Z
+UID:pandascore-match-1586818@esport-ics
+DTSTART:20260716T210000Z
+DTEND:20260716T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:CNV vs CPD
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T210000Z
+UID:pandascore-match-1586824@esport-ics
+DTSTART:20260723T210000Z
+DTEND:20260723T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:BLUE vs CPD
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T210000Z
+UID:pandascore-match-1586830@esport-ics
+DTSTART:20260731T210000Z
+DTEND:20260731T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs CPD
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T000000Z
+UID:pandascore-match-1586833@esport-ics
+DTSTART:20260806T000000Z
+DTEND:20260806T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:NRG vs CPD
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T210000Z
+UID:pandascore-match-1586838@esport-ics
+DTSTART:20260812T210000Z
+DTEND:20260812T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MISS vs CPD
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+END:VCALENDAR

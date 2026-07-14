@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:LJL - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/leagueoflegendsjp
 SUMMARY:L Guide Gaming vs RCK
+URL:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T080000Z
+UID:pandascore-match-1586808@esport-ics
+DTSTART:20260717T080000Z
+DTEND:20260717T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/leag
+ ueoflegendsjp
+SUMMARY:Upper bracket quarterfinal 1: RCK vs L Guide Gaming
 URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
 END:VEVENT
 END:VCALENDAR

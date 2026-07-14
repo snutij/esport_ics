@@ -168,6 +168,105 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Desafiante - Split 1 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/cblol
 SUMMARY:Lower bracket final: KBM vs PNG.A
-URL;VALUE=URI:https://www.twitch.tv/cblol
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T000000Z
+UID:pandascore-match-1586851@esport-ics
+DTSTART:20260721T000000Z
+DTEND:20260721T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:EST vs PNG.A
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T210000Z
+UID:pandascore-match-1586853@esport-ics
+DTSTART:20260721T210000Z
+DTEND:20260721T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:PNG.A vs RMD
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T000000Z
+UID:pandascore-match-1586861@esport-ics
+DTSTART:20260723T000000Z
+DTEND:20260723T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:RED.A vs PNG.A
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T210000Z
+UID:pandascore-match-1586863@esport-ics
+DTSTART:20260727T210000Z
+DTEND:20260727T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:PNG.A vs NERD
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T200000Z
+UID:pandascore-match-1586867@esport-ics
+DTSTART:20260728T200000Z
+DTEND:20260728T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:PNG.A vs TS
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T220000Z
+UID:pandascore-match-1586874@esport-ics
+DTSTART:20260729T220000Z
+DTEND:20260729T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:PNG.A vs 7REX
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T220000Z
+UID:pandascore-match-1586891@esport-ics
+DTSTART:20260803T220000Z
+DTEND:20260803T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:PNG.A vs VKS.A
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T230000Z
+UID:pandascore-match-1586897@esport-ics
+DTSTART:20260804T230000Z
+DTEND:20260804T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:KBM vs PNG.A
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T000000Z
+UID:pandascore-match-1586903@esport-ics
+DTSTART:20260806T000000Z
+DTEND:20260806T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:ITZ vs PNG.A
+URL;VALUE=URI:https://twitch.tv/ltasul
 END:VEVENT
 END:VCALENDAR

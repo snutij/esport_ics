@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:University of Mississippi
+SLUG:university-of-mississippi
+BEGIN:VEVENT
+DTSTAMP:20260718T000000Z
+UID:pandascore-match-1586821@esport-ics
+DTSTART:20260718T000000Z
+DTEND:20260718T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MISS vs WU
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T000000Z
+UID:pandascore-match-1586823@esport-ics
+DTSTART:20260723T000000Z
+DTEND:20260723T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MISS vs CONT
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T210000Z
+UID:pandascore-match-1586826@esport-ics
+DTSTART:20260729T210000Z
+DTEND:20260729T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MISS vs CCG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T210000Z
+UID:pandascore-match-1586838@esport-ics
+DTSTART:20260812T210000Z
+DTEND:20260812T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MISS vs CPD
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T000000Z
+UID:pandascore-match-1586841@esport-ics
+DTSTART:20260814T000000Z
+DTEND:20260814T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MISS vs DOG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+END:VCALENDAR

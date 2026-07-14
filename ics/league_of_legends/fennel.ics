@@ -210,6 +210,17 @@ CLASS:PUBLIC
 DESCRIPTION:LJL - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/leag
  ueoflegendsjp
 SUMMARY:Grand final: RG vs FNL
+URL:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T080000Z
+UID:pandascore-match-1586810@esport-ics
+DTSTART:20260719T080000Z
+DTEND:20260719T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/leag
+ ueoflegendsjp
+SUMMARY:Upper bracket semifinal 1: FNL vs TBD
 URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
 END:VEVENT
 END:VCALENDAR

@@ -124,6 +124,105 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Desafiante - Split 1 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/cblol
 SUMMARY:Lower bracket round 1 match 1: NERD vs EST
-URL;VALUE=URI:https://www.twitch.tv/cblol
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T220000Z
+UID:pandascore-match-1586849@esport-ics
+DTSTART:20260720T220000Z
+DTEND:20260720T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:RED.A vs NERD
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T230000Z
+UID:pandascore-match-1586855@esport-ics
+DTSTART:20260721T230000Z
+DTEND:20260721T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:TS vs NERD
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T230000Z
+UID:pandascore-match-1586860@esport-ics
+DTSTART:20260722T230000Z
+DTEND:20260722T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:NERD vs 7REX
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T210000Z
+UID:pandascore-match-1586863@esport-ics
+DTSTART:20260727T210000Z
+DTEND:20260727T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:PNG.A vs NERD
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T210000Z
+UID:pandascore-match-1586868@esport-ics
+DTSTART:20260728T210000Z
+DTEND:20260728T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:NERD vs VKS.A
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T200000Z
+UID:pandascore-match-1586872@esport-ics
+DTSTART:20260729T200000Z
+DTEND:20260729T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:NERD vs ITZ
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T200000Z
+UID:pandascore-match-1586877@esport-ics
+DTSTART:20260803T200000Z
+DTEND:20260803T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:RMD vs NERD
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T000000Z
+UID:pandascore-match-1586898@esport-ics
+DTSTART:20260805T000000Z
+DTEND:20260805T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:EST vs NERD
+URL;VALUE=URI:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T220000Z
+UID:pandascore-match-1586901@esport-ics
+DTSTART:20260805T220000Z
+DTEND:20260805T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
+ ps://twitch.tv/ltasul
+SUMMARY:NERD vs KBM
+URL;VALUE=URI:https://twitch.tv/ltasul
 END:VEVENT
 END:VCALENDAR

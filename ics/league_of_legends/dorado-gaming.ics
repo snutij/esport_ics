@@ -102,6 +102,61 @@ CLASS:PUBLIC
 DESCRIPTION:North American Challengers League - Spring 2026 - Regular Seaso
  n\nWatch: https://www.twitch.tv/NACL
 SUMMARY:DOG vs CCG
+URL:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T000000Z
+UID:pandascore-match-1586819@esport-ics
+DTSTART:20260717T000000Z
+DTEND:20260717T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs DOG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T000000Z
+UID:pandascore-match-1586829@esport-ics
+DTSTART:20260731T000000Z
+DTEND:20260731T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:CNV vs DOG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T000000Z
+UID:pandascore-match-1586831@esport-ics
+DTSTART:20260801T000000Z
+DTEND:20260801T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:NRG vs DOG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T210000Z
+UID:pandascore-match-1586836@esport-ics
+DTSTART:20260807T210000Z
+DTEND:20260807T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:BLUE vs DOG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T000000Z
+UID:pandascore-match-1586841@esport-ics
+DTSTART:20260814T000000Z
+DTEND:20260814T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MISS vs DOG
 URL;VALUE=URI:https://www.twitch.tv/NACL
 END:VEVENT
 END:VCALENDAR

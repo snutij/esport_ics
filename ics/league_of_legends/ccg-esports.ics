@@ -157,6 +157,61 @@ CLASS:PUBLIC
 DESCRIPTION:North American Challengers League - Spring 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/NACL
 SUMMARY:Grand final: CNV vs CCG
+URL:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T210000Z
+UID:pandascore-match-1586820@esport-ics
+DTSTART:20260717T210000Z
+DTEND:20260717T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:BLUE vs CCG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T210000Z
+UID:pandascore-match-1586822@esport-ics
+DTSTART:20260722T210000Z
+DTEND:20260722T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:NRG vs CCG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T210000Z
+UID:pandascore-match-1586826@esport-ics
+DTSTART:20260729T210000Z
+DTEND:20260729T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MISS vs CCG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T210000Z
+UID:pandascore-match-1586834@esport-ics
+DTSTART:20260806T210000Z
+DTEND:20260806T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs CCG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T000000Z
+UID:pandascore-match-1586839@esport-ics
+DTSTART:20260813T000000Z
+DTEND:20260813T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:CNV vs CCG
 URL;VALUE=URI:https://www.twitch.tv/NACL
 END:VEVENT
 END:VCALENDAR

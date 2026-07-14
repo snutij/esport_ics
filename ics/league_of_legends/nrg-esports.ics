@@ -124,6 +124,61 @@ CLASS:PUBLIC
 DESCRIPTION:North American Challengers League - Spring 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/NACL
 SUMMARY:Lower bracket semifinal: NRG vs WU
+URL:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T210000Z
+UID:pandascore-match-1586822@esport-ics
+DTSTART:20260722T210000Z
+DTEND:20260722T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:NRG vs CCG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T210000Z
+UID:pandascore-match-1586828@esport-ics
+DTSTART:20260730T210000Z
+DTEND:20260730T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:NRG vs WU
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T000000Z
+UID:pandascore-match-1586831@esport-ics
+DTSTART:20260801T000000Z
+DTEND:20260801T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:NRG vs DOG
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T000000Z
+UID:pandascore-match-1586833@esport-ics
+DTSTART:20260806T000000Z
+DTEND:20260806T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:NRG vs CPD
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T030000Z
+UID:pandascore-match-1586842@esport-ics
+DTSTART:20260814T030000Z
+DTEND:20260814T051500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:NRG vs CONT
 URL;VALUE=URI:https://www.twitch.tv/NACL
 END:VEVENT
 END:VCALENDAR

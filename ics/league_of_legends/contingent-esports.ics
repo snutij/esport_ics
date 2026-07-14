@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Contingent Esports
+SLUG:contingent-esports
+BEGIN:VEVENT
+DTSTAMP:20260723T000000Z
+UID:pandascore-match-1586823@esport-ics
+DTSTART:20260723T000000Z
+DTEND:20260723T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MISS vs CONT
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T000000Z
+UID:pandascore-match-1586827@esport-ics
+DTSTART:20260730T000000Z
+DTEND:20260730T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:BLUE vs CONT
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T000000Z
+UID:pandascore-match-1586835@esport-ics
+DTSTART:20260807T000000Z
+DTEND:20260807T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:CNV vs CONT
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T000000Z
+UID:pandascore-match-1586837@esport-ics
+DTSTART:20260808T000000Z
+DTEND:20260808T021500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:MVU vs CONT
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T030000Z
+UID:pandascore-match-1586842@esport-ics
+DTSTART:20260814T030000Z
+DTEND:20260814T051500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/NACL
+SUMMARY:NRG vs CONT
+URL;VALUE=URI:https://www.twitch.tv/NACL
+END:VEVENT
+END:VCALENDAR
