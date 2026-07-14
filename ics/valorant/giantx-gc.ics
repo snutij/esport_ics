@@ -212,6 +212,105 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers EMEA Stage 2 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/valorant_emea
 SUMMARY:Lower bracket semifinal: GX GC vs SK.N
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T150000Z
+UID:pandascore-match-1588032@esport-ics
+DTSTART:20260720T150000Z
+DTEND:20260720T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers EMEA Stage 3 2026 - Group Stage\nWatch: htt
+ ps://www.twitch.tv/valorant_emea
+SUMMARY:SK.N vs GX GC
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T150000Z
+UID:pandascore-match-1588034@esport-ics
+DTSTART:20260721T150000Z
+DTEND:20260721T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers EMEA Stage 3 2026 - Group Stage\nWatch: htt
+ ps://www.twitch.tv/valorant_emea
+SUMMARY:GX GC vs BAR
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T150000Z
+UID:pandascore-match-1588039@esport-ics
+DTSTART:20260722T150000Z
+DTEND:20260722T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers EMEA Stage 3 2026 - Group Stage\nWatch: htt
+ ps://www.twitch.tv/valorant_emea
+SUMMARY:GX GC vs FKS
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T180000Z
+UID:pandascore-match-1588045@esport-ics
+DTSTART:20260723T180000Z
+DTEND:20260723T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers EMEA Stage 3 2026 - Group Stage\nWatch: htt
+ ps://www.twitch.tv/valorant_emea
+SUMMARY:GX GC vs TMO
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T150000Z
+UID:pandascore-match-1588046@esport-ics
+DTSTART:20260727T150000Z
+DTEND:20260727T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers EMEA Stage 3 2026 - Group Stage\nWatch: htt
+ ps://www.twitch.tv/valorant_emea
+SUMMARY:M8.GC vs GX GC
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T180000Z
+UID:pandascore-match-1588056@esport-ics
+DTSTART:20260729T180000Z
+DTEND:20260729T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers EMEA Stage 3 2026 - Group Stage\nWatch: htt
+ ps://www.twitch.tv/valorant_emea
+SUMMARY:GX GC vs HBS
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T180000Z
+UID:pandascore-match-1588059@esport-ics
+DTSTART:20260730T180000Z
+DTEND:20260730T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers EMEA Stage 3 2026 - Group Stage\nWatch: htt
+ ps://www.twitch.tv/valorant_emea
+SUMMARY:GX GC vs AAR
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T150000Z
+UID:pandascore-match-1588069@esport-ics
+DTSTART:20260805T150000Z
+DTEND:20260805T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers EMEA Stage 3 2026 - Group Stage\nWatch: htt
+ ps://www.twitch.tv/valorant_emea
+SUMMARY:G2 vs GX GC
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T150000Z
+UID:pandascore-match-1588074@esport-ics
+DTSTART:20260806T150000Z
+DTEND:20260806T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers EMEA Stage 3 2026 - Group Stage\nWatch: htt
+ ps://www.twitch.tv/valorant_emea
+SUMMARY:GX GC vs KC
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

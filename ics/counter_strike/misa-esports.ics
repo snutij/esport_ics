@@ -1069,13 +1069,15 @@ SUMMARY:Upper bracket quarterfinal 4: ESB vs MISA
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260714T183000Z
+DTSTAMP:20260714T184500Z
 UID:pandascore-match-1586807@esport-ics
-DTSTART:20260714T183000Z
-DTEND:20260714T191500Z
+DTSTART:20260714T184500Z
+DTEND:20260714T193000Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/iamfusiion
 SUMMARY:MISA vs Subtop De France
+URL;VALUE=URI:https://www.twitch.tv/iamfusiion
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260716T080000Z
@@ -1087,6 +1089,17 @@ DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Play-In Group D\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Entropy vs MISA
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T103000Z
+UID:pandascore-match-1588030@esport-ics
+DTSTART:20260716T103000Z
+DTEND:20260716T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 52 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket round 1 match 2: Inner Circle Prospect vs MISA
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260717T170000Z

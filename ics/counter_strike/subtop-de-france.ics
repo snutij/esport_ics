@@ -138,13 +138,15 @@ SUMMARY:Lower bracket quarterfinal 2: Subtop De France vs DNT
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260714T183000Z
+DTSTAMP:20260714T184500Z
 UID:pandascore-match-1586807@esport-ics
-DTSTART:20260714T183000Z
-DTEND:20260714T191500Z
+DTSTART:20260714T184500Z
+DTEND:20260714T193000Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/iamfusiion
 SUMMARY:MISA vs Subtop De France
+URL;VALUE=URI:https://www.twitch.tv/iamfusiion
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260715T170000Z
