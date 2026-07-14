@@ -370,6 +370,17 @@ DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:Entropy vs BJNG
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260715T140000Z
+UID:pandascore-match-1586958@esport-ics
+DTSTART:20260715T140000Z
+DTEND:20260715T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #5 2026 - Group B\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:Entropy vs Honvéd
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260716T080000Z
 UID:pandascore-match-1582145@esport-ics
 DTSTART:20260716T080000Z
