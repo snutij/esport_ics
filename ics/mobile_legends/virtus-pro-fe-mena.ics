@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Women's International - 2026 - Group A\nWatch: https://www
  .youtube.com/watch?v=aotSbbIWHtU
 SUMMARY:Upper bracket quarterfinal 4: VPM vs TWVN
-URL;VALUE=URI:https://www.youtube.com/watch?v=aotSbbIWHtU
+URL:https://www.youtube.com/watch?v=aotSbbIWHtU
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260715T113000Z
+UID:pandascore-match-1587845@esport-ics
+DTSTART:20260715T113000Z
+DTEND:20260715T134500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Women's International - 2026 - Group A
+SUMMARY:Lower bracket quarterfinal 2: GKFE vs VPM
 END:VEVENT
 END:VCALENDAR
