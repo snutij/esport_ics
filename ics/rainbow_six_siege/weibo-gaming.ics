@@ -223,7 +223,9 @@ UID:pandascore-match-1566230@esport-ics
 DTSTART:20260715T090000Z
 DTEND:20260715T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Playoffs
+DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/rainbow6
 SUMMARY:Upper bracket final: WBG vs DAY
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

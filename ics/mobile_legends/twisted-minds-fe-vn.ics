@@ -17,12 +17,14 @@ SUMMARY:Upper bracket quarterfinal 4: VPM vs TWVN
 URL:https://www.youtube.com/watch?v=aotSbbIWHtU
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260715T100000Z
+DTSTAMP:20260715T113000Z
 UID:pandascore-match-1587743@esport-ics
-DTSTART:20260715T100000Z
-DTEND:20260715T121500Z
+DTSTART:20260715T113000Z
+DTEND:20260715T134500Z
 CLASS:PUBLIC
-DESCRIPTION:MLBB Women's International - 2026 - Group A
+DESCRIPTION:MLBB Women's International - 2026 - Group A\nWatch: https://www
+ .youtube.com/watch?v=5Ab0AYlSp_8
 SUMMARY:Upper bracket semifinal 2: GCT vs TWVN
+URL;VALUE=URI:https://www.youtube.com/watch?v=5Ab0AYlSp_8
 END:VEVENT
 END:VCALENDAR
