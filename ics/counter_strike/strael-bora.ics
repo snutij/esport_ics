@@ -179,6 +179,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/kerpros
 SUMMARY:S-B vs QUA
-URL;VALUE=URI:https://www.twitch.tv/kerpros
+URL:https://www.twitch.tv/kerpros
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T183000Z
+UID:pandascore-match-1589650@esport-ics
+DTSTART:20260716T183000Z
+DTEND:20260716T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:DM vs S-B
 END:VEVENT
 END:VCALENDAR
