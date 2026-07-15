@@ -45,6 +45,39 @@ CLASS:PUBLIC
 DESCRIPTION:Equal eSports Cup - 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/euniverse_tv
 SUMMARY:Solary Eclipse vs BLU
-URL;VALUE=URI:https://www.twitch.tv/euniverse_tv
+URL:https://www.twitch.tv/euniverse_tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260715T160000Z
+UID:pandascore-match-1575345@esport-ics
+DTSTART:20260715T160000Z
+DTEND:20260715T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Equal eSports Cup - 2026 - Lucky Losers Group\nWatch: https://w
+ ww.twitch.tv/equalesportsgg
+SUMMARY:SK.A vs Solary Eclipse
+URL;VALUE=URI:https://www.twitch.tv/equalesportsgg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260715T170000Z
+UID:pandascore-match-1575347@esport-ics
+DTSTART:20260715T170000Z
+DTEND:20260715T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Equal eSports Cup - 2026 - Lucky Losers Group\nWatch: https://w
+ ww.twitch.tv/equalesportsgg
+SUMMARY:BLU vs Solary Eclipse
+URL;VALUE=URI:https://www.twitch.tv/equalesportsgg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260715T180000Z
+UID:pandascore-match-1575350@esport-ics
+DTSTART:20260715T180000Z
+DTEND:20260715T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Equal eSports Cup - 2026 - Lucky Losers Group\nWatch: https://w
+ ww.twitch.tv/equalesportsgg
+SUMMARY:Solary Eclipse vs BCEB
+URL;VALUE=URI:https://www.twitch.tv/equalesportsgg
 END:VEVENT
 END:VCALENDAR

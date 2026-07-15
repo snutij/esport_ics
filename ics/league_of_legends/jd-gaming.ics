@@ -336,7 +336,18 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
  v/EWC_STCArena_EN2
 SUMMARY:Upper bracket semifinal 2: LY vs JDG
-URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN2
+URL:https://www.twitch.tv/EWC_STCArena_EN2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T101000Z
+UID:pandascore-match-1572119@esport-ics
+DTSTART:20260716T101000Z
+DTEND:20260716T105500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Upper bracket final : HLE vs JDG
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260723T090000Z

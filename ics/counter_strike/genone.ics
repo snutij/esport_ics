@@ -963,6 +963,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 2026 - Group D\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Decider match: Honvéd vs G1
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T080000Z
+UID:pandascore-match-1554026@esport-ics
+DTSTART:20260717T080000Z
+DTEND:20260717T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Round of 16 match 3: 1WIN vs G1
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

@@ -1100,6 +1100,17 @@ SUMMARY:Entropy vs MISA
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260717T103000Z
+UID:pandascore-match-1588648@esport-ics
+DTSTART:20260717T103000Z
+DTEND:20260717T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 52 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket quarterfinal 2: MISA vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260717T170000Z
 UID:pandascore-match-1586969@esport-ics
 DTSTART:20260717T170000Z

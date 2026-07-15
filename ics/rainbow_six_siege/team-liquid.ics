@@ -185,7 +185,9 @@ UID:pandascore-match-1585240@esport-ics
 DTSTART:20260716T210000Z
 DTEND:20260716T231500Z
 CLASS:PUBLIC
-DESCRIPTION:South America League - Stage 1 2026 - Playoffs
+DESCRIPTION:South America League - Stage 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/rainbow6
 SUMMARY:Upper bracket semifinal 1: FaZe vs Liquid
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
