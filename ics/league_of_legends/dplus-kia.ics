@@ -355,6 +355,17 @@ SUMMARY:Lower bracket semifinal: FUR vs DK
 URL:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260716T135000Z
+UID:pandascore-match-1572106@esport-ics
+DTSTART:20260716T135000Z
+DTEND:20260716T160500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Lower bracket final: DK vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260721T064500Z
 UID:pandascore-match-1570041@esport-ics
 DTSTART:20260721T064500Z

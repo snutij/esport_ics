@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
  v/ewc_stcarena_en
 SUMMARY:Lower bracket semifinal: MILO vs LY
+URL:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T135000Z
+UID:pandascore-match-1572121@esport-ics
+DTSTART:20260716T135000Z
+DTEND:20260716T160500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Lower bracket final: MILO vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 END:VCALENDAR
