@@ -853,6 +853,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 3 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/starladder_cs_en
 SUMMARY:Upper Bracket Quarterfinals 1: paiN vs PHA
+URL:https://www.twitch.tv/starladder_cs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T173000Z
+UID:pandascore-match-1578255@esport-ics
+DTSTART:20260716T173000Z
+DTEND:20260716T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/starladder_cs_en
+SUMMARY:Upper Bracket Semifinals 1: HERO vs PHA
 URL;VALUE=URI:https://www.twitch.tv/starladder_cs_en
 END:VEVENT
 END:VCALENDAR
