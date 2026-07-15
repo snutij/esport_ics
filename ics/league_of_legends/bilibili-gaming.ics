@@ -390,15 +390,15 @@ SUMMARY:Grand final: BLG vs HLE
 URL:https://www.twitch.tv/riotgames
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260715T101000Z
+DTSTAMP:20260715T105000Z
 UID:pandascore-match-1572112@esport-ics
-DTSTART:20260715T101000Z
-DTEND:20260715T105500Z
+DTSTART:20260715T105000Z
+DTEND:20260715T113500Z
 CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
- v/ewc_stcarena_en
+ v/EWC_STCArena_EN2
 SUMMARY:Upper bracket semifinal 1: BLG vs MKOI
-URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260723T110000Z
