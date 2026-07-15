@@ -238,7 +238,9 @@ UID:pandascore-match-1585241@esport-ics
 DTSTART:20260717T000000Z
 DTEND:20260717T021500Z
 CLASS:PUBLIC
-DESCRIPTION:South America League - Stage 1 2026 - Playoffs
+DESCRIPTION:South America League - Stage 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/rainbow6
 SUMMARY:Upper bracket semifinal 2: FURIA vs NIP
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
