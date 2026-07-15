@@ -54,13 +54,13 @@ CLASS:PUBLIC
 DESCRIPTION:Equal eSports Cup - 2026 - Lucky Losers Group\nWatch: https://w
  ww.twitch.tv/equalesportsgg
 SUMMARY:SK.A vs Solary Eclipse
-URL;VALUE=URI:https://www.twitch.tv/equalesportsgg
+URL:https://www.twitch.tv/equalesportsgg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260715T170000Z
+DTSTAMP:20260715T180000Z
 UID:pandascore-match-1575348@esport-ics
-DTSTART:20260715T170000Z
-DTEND:20260715T174500Z
+DTSTART:20260715T180000Z
+DTEND:20260715T184500Z
 CLASS:PUBLIC
 DESCRIPTION:Equal eSports Cup - 2026 - Lucky Losers Group\nWatch: https://w
  ww.twitch.tv/equalesportsgg
@@ -68,10 +68,10 @@ SUMMARY:BCEB vs SK.A
 URL;VALUE=URI:https://www.twitch.tv/equalesportsgg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260715T180000Z
+DTSTAMP:20260715T200000Z
 UID:pandascore-match-1575349@esport-ics
-DTSTART:20260715T180000Z
-DTEND:20260715T184500Z
+DTSTART:20260715T200000Z
+DTEND:20260715T204500Z
 CLASS:PUBLIC
 DESCRIPTION:Equal eSports Cup - 2026 - Lucky Losers Group\nWatch: https://w
  ww.twitch.tv/equalesportsgg
