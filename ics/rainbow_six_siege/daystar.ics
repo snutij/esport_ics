@@ -188,6 +188,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/rainbow6
 SUMMARY:Upper bracket final: WBG vs DAY
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T090000Z
+UID:pandascore-match-1566232@esport-ics
+DTSTART:20260718T090000Z
+DTEND:20260718T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Playoffs
+SUMMARY:Lower bracket final: DAY vs TBD
 END:VEVENT
 END:VCALENDAR

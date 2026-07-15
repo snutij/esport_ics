@@ -336,6 +336,17 @@ SUMMARY:Upper bracket semifinal 2: T1 vs GAM
 URL:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260716T090000Z
+UID:pandascore-match-1572114@esport-ics
+DTSTART:20260716T090000Z
+DTEND:20260716T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Upper bracket final : BLG vs T1
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260721T073000Z
 UID:pandascore-match-1570042@esport-ics
 DTSTART:20260721T073000Z

@@ -192,6 +192,17 @@ SUMMARY:Upper bracket semifinal 2: T1 vs GAM
 URL:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260715T134000Z
+UID:pandascore-match-1572115@esport-ics
+DTSTART:20260715T134000Z
+DTEND:20260715T155500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Lower bracket semifinal: MKOI vs GAM
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260726T090000Z
 UID:pandascore-match-1586279@esport-ics
 DTSTART:20260726T090000Z

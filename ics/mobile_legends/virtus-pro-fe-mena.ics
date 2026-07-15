@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Women's International - 2026 - Group A\nWatch: https://www
  .youtube.com/watch?v=5Ab0AYlSp_8
 SUMMARY:Lower bracket quarterfinal 2: GKFE vs VPM
-URL;VALUE=URI:https://www.youtube.com/watch?v=5Ab0AYlSp_8
+URL:https://www.youtube.com/watch?v=5Ab0AYlSp_8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T100000Z
+UID:pandascore-match-1587847@esport-ics
+DTSTART:20260716T100000Z
+DTEND:20260716T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Women's International - 2026 - Group A
+SUMMARY:Lower bracket semifinal 2: VPM vs SETA
 END:VEVENT
 END:VCALENDAR
