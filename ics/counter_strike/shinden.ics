@@ -605,6 +605,17 @@ CLASS:PUBLIC
 DESCRIPTION:RES Showdown - South America Fall 2026 - Playoffs\nWatch: https
  ://kick.com/rlgcs
 SUMMARY:Quarterfinal 2: LDP vs SHIN
-URL;VALUE=URI:https://kick.com/rlgcs
+URL:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T160000Z
+UID:pandascore-match-1580346@esport-ics
+DTSTART:20260716T160000Z
+DTEND:20260716T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom RUSH B! - Summit season 4 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/btsbrasilfps
+SUMMARY:Upper bracket semifinal 1: SHIN vs TBD
+URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
 END:VEVENT
 END:VCALENDAR

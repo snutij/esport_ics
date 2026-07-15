@@ -669,6 +669,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #1 season 52 2026 - Group C\
  nWatch: https://www.twitch.tv/Mikotohero
 SUMMARY:Atreides vs Just Players
-URL;VALUE=URI:https://www.twitch.tv/Mikotohero
+URL:https://www.twitch.tv/Mikotohero
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T103000Z
+UID:pandascore-match-1554029@esport-ics
+DTSTART:20260718T103000Z
+DTEND:20260718T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Round of 16 match 6: NTR vs Atreides
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

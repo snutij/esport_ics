@@ -729,6 +729,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #1 season 52 2026 - Playoffs
  \nWatch: https://www.twitch.tv/watchfulTVc
 SUMMARY:Semifinal 2: FNC vs BRUTE
-URL;VALUE=URI:https://www.twitch.tv/watchfulTVc
+URL:https://www.twitch.tv/watchfulTVc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T080000Z
+UID:pandascore-match-1554028@esport-ics
+DTSTART:20260718T080000Z
+DTEND:20260718T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Round of 16 match 5: EF vs BRUTE
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
