@@ -394,10 +394,10 @@ SUMMARY:Winners match: Entropy vs IC.A
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260716T183000Z
+DTSTAMP:20260716T184000Z
 UID:pandascore-match-1589643@esport-ics
-DTSTART:20260716T183000Z
-DTEND:20260716T191500Z
+DTSTART:20260716T184000Z
+DTEND:20260716T192500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:Entropy vs VP.P
@@ -421,7 +421,7 @@ DTEND:20260719T131500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #5 2026 - Group B\nWatch:
   https://kick.com/cct_cs
-SUMMARY:Decider match: Entropy vs TBD
+SUMMARY:Decider match: Entropy vs Honvéd
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
