@@ -291,6 +291,17 @@ SUMMARY:Upper bracket final : SEN vs GEN
 URL:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260717T133000Z
+UID:pandascore-match-1572124@esport-ics
+DTSTART:20260717T133000Z
+DTEND:20260717T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ewc_stcarena_en
+SUMMARY:Quarterfinal 3: GEN vs JDG
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260721T060000Z
 UID:pandascore-match-1570040@esport-ics
 DTSTART:20260721T060000Z

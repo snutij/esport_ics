@@ -357,6 +357,17 @@ SUMMARY:Lower bracket final: KC vs TBD
 URL:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260717T110000Z
+UID:pandascore-match-1572123@esport-ics
+DTSTART:20260717T110000Z
+DTEND:20260717T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ewc_stcarena_en
+SUMMARY:Quarterfinal 2: AG.AL vs KC
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260724T170000Z
 UID:pandascore-match-1564639@esport-ics
 DTSTART:20260724T170000Z

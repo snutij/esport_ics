@@ -861,6 +861,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ewc_legiongauntlet_en
 SUMMARY:Quarterfinal 4: PARI vs RE
-URL;VALUE=URI:https://www.twitch.tv/ewc_legiongauntlet_en
+URL:https://www.twitch.tv/ewc_legiongauntlet_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T143000Z
+UID:pandascore-match-1566160@esport-ics
+DTSTART:20260718T143000Z
+DTEND:20260718T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ewc
+SUMMARY:Semifinal 2: TY vs PARI
+URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 END:VCALENDAR
