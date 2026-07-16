@@ -465,6 +465,17 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Championship 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/callofduty
 SUMMARY:Upper bracket quarterfinal 2: PAR vs TOR
+URL:https://www.twitch.tv/callofduty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T233000Z
+UID:pandascore-match-1567949@esport-ics
+DTSTART:20260717T233000Z
+DTEND:20260718T031500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Championship 2026 - Playoffs\nWatch: http
+ s://www.twitch.tv/callofduty
+SUMMARY:Upper bracket semifinal 1: PAR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/callofduty
 END:VEVENT
 END:VCALENDAR

@@ -465,6 +465,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 3 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Upper Bracket Semifinals 1: HERO vs PHA
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T150000Z
+UID:pandascore-match-1578260@esport-ics
+DTSTART:20260717T150000Z
+DTEND:20260717T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/starladder_cs_en
+SUMMARY:Upper Bracket Final: NIP vs HERO
+URL;VALUE=URI:https://www.twitch.tv/starladder_cs_en
 END:VEVENT
 END:VCALENDAR
