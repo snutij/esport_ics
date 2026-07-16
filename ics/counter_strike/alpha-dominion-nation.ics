@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 52 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket semifinal 1: EAC Rising vs ADN
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T103000Z
+UID:pandascore-match-1588648@esport-ics
+DTSTART:20260717T103000Z
+DTEND:20260717T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 52 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket quarterfinal 2: MISA vs ADN
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

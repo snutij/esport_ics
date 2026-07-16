@@ -348,7 +348,18 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
  v/ewc_stcarena_en
 SUMMARY:Upper bracket final : G2 vs AG.AL
-URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+URL:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T135000Z
+UID:pandascore-match-1572106@esport-ics
+DTSTART:20260716T135000Z
+DTEND:20260716T160500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
+ v/EWC_STCArena_EN2
+SUMMARY:Lower bracket final: G2 vs DK
+URL;VALUE=URI:https://www.twitch.tv/EWC_STCArena_EN2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260724T140000Z
