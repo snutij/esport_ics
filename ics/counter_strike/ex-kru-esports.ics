@@ -322,6 +322,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 4 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 1: ex-KRÜ Esports vs Alzon
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T220000Z
+UID:pandascore-match-1580379@esport-ics
+DTSTART:20260716T220000Z
+DTEND:20260717T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 4 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 2: CHAMA vs ex-KRÜ Esports
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

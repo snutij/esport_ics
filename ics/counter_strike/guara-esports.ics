@@ -356,6 +356,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 4 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 1: BST.A vs GE
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T160000Z
+UID:pandascore-match-1580378@esport-ics
+DTSTART:20260716T160000Z
+DTEND:20260716T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 4 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 2: GE vs MW
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
