@@ -341,6 +341,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom RUSH B! - Summit season 4 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/btsbrasilfps
 SUMMARY:Upper bracket semifinal 2: IMP vs FXW7
+URL:https://www.twitch.tv/btsbrasilfps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T220000Z
+UID:pandascore-match-1580349@esport-ics
+DTSTART:20260717T220000Z
+DTEND:20260718T001500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom RUSH B! - Summit season 4 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/btsbrasilfps
+SUMMARY:Upper bracket final: BHE vs FXW7
 URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
 END:VEVENT
 END:VCALENDAR

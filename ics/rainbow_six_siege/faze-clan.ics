@@ -296,6 +296,17 @@ CLASS:PUBLIC
 DESCRIPTION:South America League - Stage 1 2026 - Playoffs\nWatch: https://
  www.twitch.tv/rainbow6
 SUMMARY:Upper bracket semifinal 1: FaZe vs Liquid
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T000000Z
+UID:pandascore-match-1585246@esport-ics
+DTSTART:20260718T000000Z
+DTEND:20260718T021500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/rainbow6
+SUMMARY:Lower bracket quarterfinal 2: LOS vs FaZe
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
