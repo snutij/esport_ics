@@ -36,6 +36,28 @@ CLASS:PUBLIC
 DESCRIPTION:Nexus League - Spring 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/teamtskofficiel
 SUMMARY:Grand final: KCBS vs PCS
+URL:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T100000Z
+UID:pandascore-match-1590164@esport-ics
+DTSTART:20260718T100000Z
+DTEND:20260718T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/teamtskofficiel
+SUMMARY:PCS vs CLA
+URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T140000Z
+UID:pandascore-match-1590173@esport-ics
+DTSTART:20260719T140000Z
+DTEND:20260719T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/teamtskofficiel
+SUMMARY:LIL vs PCS
 URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
 END:VEVENT
 END:VCALENDAR
