@@ -28,12 +28,14 @@ SUMMARY:Upper bracket semifinal 1: GEN vs Team Vitality FE
 URL:https://www.youtube.com/watch?v=5Ab0AYlSp_8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260716T171500Z
+DTSTAMP:20260716T141500Z
 UID:pandascore-match-1583257@esport-ics
-DTSTART:20260716T171500Z
-DTEND:20260716T193000Z
+DTSTART:20260716T141500Z
+DTEND:20260716T163000Z
 CLASS:PUBLIC
-DESCRIPTION:MLBB Women's International - 2026 - Playoffs
-SUMMARY:Quarterfinal 4: Team Vitality FE vs TBD
+DESCRIPTION:MLBB Women's International - 2026 - Playoffs\nWatch: https://ww
+ w.youtube.com/watch?v=VFOcWndseHE
+SUMMARY:Quarterfinal 4: Team Vitality FE vs Falcons Vega
+URL;VALUE=URI:https://www.youtube.com/watch?v=VFOcWndseHE
 END:VEVENT
 END:VCALENDAR

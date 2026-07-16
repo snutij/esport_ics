@@ -60,4 +60,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Play-In Group C\nWatch:
 SUMMARY:SAW.Y vs Vexar
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T140000Z
+UID:pandascore-match-1588641@esport-ics
+DTSTART:20260717T140000Z
+DTEND:20260717T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Play-In Group C\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Elimination match: SAW.Y vs TBD
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
