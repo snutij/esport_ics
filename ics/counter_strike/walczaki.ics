@@ -622,6 +622,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Round of 16 match 2: WAL vs SPARTA
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T080000Z
+UID:pandascore-match-1554032@esport-ics
+DTSTART:20260720T080000Z
+DTEND:20260720T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 8 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Quarterfinal 1: JustP vs WAL
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

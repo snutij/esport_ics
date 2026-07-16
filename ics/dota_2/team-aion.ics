@@ -58,6 +58,61 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 39 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:Team AION vs Hive
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T190000Z
+UID:pandascore-match-1591154@esport-ics
+DTSTART:20260721T190000Z
+DTEND:20260721T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Z10 vs Team AION
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T100000Z
+UID:pandascore-match-1591156@esport-ics
+DTSTART:20260722T100000Z
+DTEND:20260722T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Nemiga vs Team AION
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T160000Z
+UID:pandascore-match-1591159@esport-ics
+DTSTART:20260723T160000Z
+DTEND:20260723T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:LVLUP vs Team AION
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T070000Z
+UID:pandascore-match-1591161@esport-ics
+DTSTART:20260724T070000Z
+DTEND:20260724T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Team AION vs XctN
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T070000Z
+UID:pandascore-match-1591164@esport-ics
+DTSTART:20260725T070000Z
+DTEND:20260725T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:ILL vs Team AION
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

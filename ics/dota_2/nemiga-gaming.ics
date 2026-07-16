@@ -583,6 +583,61 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 39 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Grand final: RE.Arise vs Nemiga
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T130000Z
+UID:pandascore-match-1591151@esport-ics
+DTSTART:20260720T130000Z
+DTEND:20260720T151500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Z10 vs Nemiga
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T070000Z
+UID:pandascore-match-1591153@esport-ics
+DTSTART:20260721T070000Z
+DTEND:20260721T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Nemiga vs XctN
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T100000Z
+UID:pandascore-match-1591156@esport-ics
+DTSTART:20260722T100000Z
+DTEND:20260722T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Nemiga vs Team AION
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T190000Z
+UID:pandascore-match-1591160@esport-ics
+DTSTART:20260723T190000Z
+DTEND:20260723T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Nemiga vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T190000Z
+UID:pandascore-match-1591163@esport-ics
+DTSTART:20260724T190000Z
+DTEND:20260724T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Nemiga vs LVLUP
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

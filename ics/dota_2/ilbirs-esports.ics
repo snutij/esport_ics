@@ -459,6 +459,61 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 39 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Lower bracket semifinal: ILL vs TS.A
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T190000Z
+UID:pandascore-match-1591152@esport-ics
+DTSTART:20260720T190000Z
+DTEND:20260720T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:LVLUP vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T070000Z
+UID:pandascore-match-1591155@esport-ics
+DTSTART:20260722T070000Z
+DTEND:20260722T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:ILL vs XctN
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T190000Z
+UID:pandascore-match-1591160@esport-ics
+DTSTART:20260723T190000Z
+DTEND:20260723T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Nemiga vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T160000Z
+UID:pandascore-match-1591162@esport-ics
+DTSTART:20260724T160000Z
+DTEND:20260724T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Z10 vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T070000Z
+UID:pandascore-match-1591164@esport-ics
+DTSTART:20260725T070000Z
+DTEND:20260725T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:ILL vs Team AION
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

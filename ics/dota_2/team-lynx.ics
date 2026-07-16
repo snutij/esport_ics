@@ -704,4 +704,59 @@ DESCRIPTION:Esports World Cup - Western Europe Closed Qualifier 2026 - Play
  offs
 SUMMARY:Lower bracket round 1 match 1: BALU vs LYNX
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T070000Z
+UID:pandascore-match-1591136@esport-ics
+DTSTART:20260720T070000Z
+DTEND:20260720T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Nem vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T100000Z
+UID:pandascore-match-1591137@esport-ics
+DTSTART:20260720T100000Z
+DTEND:20260720T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:LYNX vs PckCp
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T130000Z
+UID:pandascore-match-1591140@esport-ics
+DTSTART:20260721T130000Z
+DTEND:20260721T151500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:LYNX vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T160000Z
+UID:pandascore-match-1591141@esport-ics
+DTSTART:20260721T160000Z
+DTEND:20260721T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Team Jenz vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T190000Z
+UID:pandascore-match-1591150@esport-ics
+DTSTART:20260725T190000Z
+DTEND:20260725T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:LYNX vs ICxI
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
 END:VCALENDAR
