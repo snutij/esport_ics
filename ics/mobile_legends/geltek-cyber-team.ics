@@ -47,6 +47,15 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Women's International - 2026 - Playoffs\nWatch: https://ww
  w.youtube.com/watch?v=ChgU3TGDFbs
 SUMMARY:Semifinal 2: Team Vitality FE vs GCT
-URL;VALUE=URI:https://www.youtube.com/watch?v=ChgU3TGDFbs
+URL:https://www.youtube.com/watch?v=ChgU3TGDFbs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T100000Z
+UID:pandascore-match-1583260@esport-ics
+DTSTART:20260718T100000Z
+DTEND:20260718T134500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Women's International - 2026 - Playoffs
+SUMMARY:3rd Place match: GXP vs GCT
 END:VEVENT
 END:VCALENDAR
