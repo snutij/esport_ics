@@ -307,7 +307,7 @@ CLASS:PUBLIC
 DESCRIPTION:South America League - Stage 1 2026 - Playoffs\nWatch: https://
  www.twitch.tv/rainbow6
 SUMMARY:Lower bracket quarterfinal 1: FaZe vs LOUD
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260718T000000Z
@@ -319,5 +319,14 @@ DESCRIPTION:South America League - Stage 1 2026 - Playoffs\nWatch: https://
  www.twitch.tv/rainbow6
 SUMMARY:Lower bracket quarterfinal 2: LOS vs FaZe
 URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T190000Z
+UID:pandascore-match-1585247@esport-ics
+DTSTART:20260718T190000Z
+DTEND:20260718T211500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 1 2026 - Playoffs
+SUMMARY:Lower bracket semifinal : FaZe vs TBD
 END:VEVENT
 END:VCALENDAR
