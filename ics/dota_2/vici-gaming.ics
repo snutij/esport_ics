@@ -479,6 +479,17 @@ SUMMARY:Quarterfinal 2: FLC vs VG
 URL:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260718T110000Z
+UID:pandascore-match-1566159@esport-ics
+DTSTART:20260718T110000Z
+DTEND:20260718T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ewc
+SUMMARY:Semifinal 1: VG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ewc
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260731T080000Z
 UID:pandascore-match-1583145@esport-ics
 DTSTART:20260731T080000Z
