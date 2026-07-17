@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #5 2026 - Group D\nWatch:
   https://kick.com/cct_cs
 SUMMARY:ex-MANA vs BG
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T170000Z
+UID:pandascore-match-1586970@esport-ics
+DTSTART:20260718T170000Z
+DTEND:20260718T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #5 2026 - Group D\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:Winners match: BG vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

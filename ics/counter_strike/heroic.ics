@@ -476,6 +476,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 3 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Upper Bracket Final: NIP vs HERO
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T153000Z
+UID:pandascore-match-1578262@esport-ics
+DTSTART:20260718T153000Z
+DTEND:20260718T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 3 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Grand final: HERO vs TBD
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

@@ -323,6 +323,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - Series #2 2026 - Playoffs\nWatch: https://www.
  twitch.tv/gluck_esports
 SUMMARY:Upper bracket quarterfinal 3: QUA vs TS.A
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260717T173000Z
+UID:pandascore-match-1584739@esport-ics
+DTSTART:20260717T173000Z
+DTEND:20260717T194500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Series #2 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/gluck_esports
+SUMMARY:Upper bracket semifinal 2: TS.A vs TBD
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR
