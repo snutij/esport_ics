@@ -534,6 +534,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #5 2026 - Group D\nWatch:
   https://kick.com/cct_cs
 SUMMARY:MISA vs OBSB
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T110000Z
+UID:pandascore-match-1586971@esport-ics
+DTSTART:20260718T110000Z
+DTEND:20260718T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #5 2026 - Group D\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:Elimination match: ex-MANA vs OBSB
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
