@@ -303,6 +303,17 @@ CLASS:PUBLIC
 DESCRIPTION:Super DraculaN - Season 1 2026 - Group B\nWatch: https://kick.c
  om/draculancs
 SUMMARY:Lower bracket quarterfinal 1: BCA vs OG
-URL;VALUE=URI:https://kick.com/draculancs
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T170000Z
+UID:pandascore-match-1592755@esport-ics
+DTSTART:20260723T170000Z
+DTEND:20260723T191500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
+ ch.tv/BLASTPremier
+SUMMARY:Round of 32 match 2: TS vs OG
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

@@ -692,6 +692,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 3 2026 - Playoffs\nWatch: https://kick.com/
  cct_cs
 SUMMARY:Round 16 match 5: NEMI vs BW
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T123000Z
+UID:pandascore-match-1592764@esport-ics
+DTSTART:20260722T123000Z
+DTEND:20260722T144500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
+ ch.tv/BLASTPremier
+SUMMARY:Round of 32 match 11: NEMI vs G2
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

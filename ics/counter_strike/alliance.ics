@@ -770,6 +770,17 @@ DTEND:20260711T101500Z
 CLASS:PUBLIC
 DESCRIPTION:XSE Pro League - 2026 - Playoffs\nWatch: https://kick.com/xsecs
 SUMMARY:Semifinal 1: 9z vs ALL
-URL;VALUE=URI:https://kick.com/xsecs
+URL:https://kick.com/xsecs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T173000Z
+UID:pandascore-match-1592769@esport-ics
+DTSTART:20260721T173000Z
+DTEND:20260721T194500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
+ ch.tv/BLASTPremier
+SUMMARY:Round of 32 match 16: ALL vs WC
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

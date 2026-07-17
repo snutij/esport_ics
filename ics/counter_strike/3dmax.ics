@@ -524,6 +524,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 3 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Lower Bracket Semifinal : 3DMAX vs K27
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T100000Z
+UID:pandascore-match-1592765@esport-ics
+DTSTART:20260724T100000Z
+DTEND:20260724T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
+ ch.tv/BLASTPremier
+SUMMARY:Round of 32 match 12: MGC vs 3DMAX
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

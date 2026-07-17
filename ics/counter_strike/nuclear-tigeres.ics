@@ -653,4 +653,15 @@ DESCRIPTION:European Pro League - Series 8 2026 - Playoffs\nWatch: https://
 SUMMARY:Round of 16 match 6: NTR vs Atreides
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T150000Z
+UID:pandascore-match-1592757@esport-ics
+DTSTART:20260721T150000Z
+DTEND:20260721T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
+ ch.tv/BLASTPremier
+SUMMARY:Round of 32 match 4: NTR vs MOUZ
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+END:VEVENT
 END:VCALENDAR

@@ -419,6 +419,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 3 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Lower Bracket Quarterfinals 1: 3DMAX vs M8
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T150000Z
+UID:pandascore-match-1592766@esport-ics
+DTSTART:20260723T150000Z
+DTEND:20260723T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
+ ch.tv/BLASTPremier
+SUMMARY:Round of 32 match 13: M8 vs paiN
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

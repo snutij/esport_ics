@@ -462,6 +462,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 3 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/starladder_cs_en
 SUMMARY:Lower Bracket Round 1 Match 2: K27 vs WC
-URL;VALUE=URI:https://www.twitch.tv/starladder_cs_en
+URL:https://www.twitch.tv/starladder_cs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T173000Z
+UID:pandascore-match-1592769@esport-ics
+DTSTART:20260721T173000Z
+DTEND:20260721T194500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
+ ch.tv/BLASTPremier
+SUMMARY:Round of 32 match 16: ALL vs WC
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

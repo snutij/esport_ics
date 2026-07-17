@@ -559,6 +559,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Cologne Major 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ESLCS
 SUMMARY:Quarterfinal 1: TS vs G2
-URL;VALUE=URI:https://www.twitch.tv/ESLCS
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T123000Z
+UID:pandascore-match-1592764@esport-ics
+DTSTART:20260722T123000Z
+DTEND:20260722T144500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
+ ch.tv/BLASTPremier
+SUMMARY:Round of 32 match 11: NEMI vs G2
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR
