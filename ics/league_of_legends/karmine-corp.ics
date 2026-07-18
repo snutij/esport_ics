@@ -379,6 +379,17 @@ SUMMARY:Semifinal 1: T1 vs KC
 URL:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260719T123000Z
+UID:pandascore-match-1572129@esport-ics
+DTSTART:20260719T123000Z
+DTEND:20260719T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ewc_stcarena_en
+SUMMARY:Grand final: KC vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260724T170000Z
 UID:pandascore-match-1564639@esport-ics
 DTSTART:20260724T170000Z
