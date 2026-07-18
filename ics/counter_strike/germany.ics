@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Germany
+SLUG:germany
+BEGIN:VEVENT
+DTSTAMP:20260719T110000Z
+UID:pandascore-match-1593368@esport-ics
+DTSTART:20260719T110000Z
+DTEND:20260719T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Nations Cup - West European Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/enc
+SUMMARY:Upper bracket round 3 match 1: DEU vs FRA
+URL;VALUE=URI:https://www.twitch.tv/enc
+END:VEVENT
+END:VCALENDAR

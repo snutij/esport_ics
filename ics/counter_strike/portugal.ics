@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portugal
+SLUG:portugal
+BEGIN:VEVENT
+DTSTAMP:20260718T120000Z
+UID:pandascore-match-1593372@esport-ics
+DTSTART:20260718T120000Z
+DTEND:20260718T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Nations Cup - West European Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/enc
+SUMMARY:Lower bracket round 2 match 3: DNK vs PRT
+URL;VALUE=URI:https://www.twitch.tv/enc
+END:VEVENT
+END:VCALENDAR
