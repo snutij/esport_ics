@@ -229,14 +229,14 @@ SUMMARY:Upper bracket final: WBG vs DAY
 URL:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260718T120000Z
+DTSTAMP:20260718T130000Z
 UID:pandascore-match-1566231@esport-ics
-DTSTART:20260718T120000Z
-DTEND:20260718T141500Z
+DTSTART:20260718T130000Z
+DTEND:20260718T151500Z
 CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 1 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/rainbow6
-SUMMARY:Grand final: WBG vs TBD
+SUMMARY:Grand final: WBG vs TO
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
