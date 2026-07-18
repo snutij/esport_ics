@@ -380,6 +380,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - Series #2 2026 - Playoffs\nWatch: https://www.
  twitch.tv/gluck_esports
 SUMMARY:Lower bracket final: PF vs TBD
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T180000Z
+UID:pandascore-match-1584741@esport-ics
+DTSTART:20260718T180000Z
+DTEND:20260718T201500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Series #2 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/gluck_esports
+SUMMARY:Grand final: ex-RUBY vs PF
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR
