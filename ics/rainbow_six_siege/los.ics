@@ -284,7 +284,9 @@ UID:pandascore-match-1585247@esport-ics
 DTSTART:20260718T190000Z
 DTEND:20260718T211500Z
 CLASS:PUBLIC
-DESCRIPTION:South America League - Stage 1 2026 - Playoffs
+DESCRIPTION:South America League - Stage 1 2026 - Playoffs\nWatch: https://
+ www.youtube.com/watch?v=AFEVV9eSb54
 SUMMARY:Lower bracket semifinal : FaZe vs LOS
+URL;VALUE=URI:https://www.youtube.com/watch?v=AFEVV9eSb54
 END:VEVENT
 END:VCALENDAR
