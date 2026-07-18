@@ -157,6 +157,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers North America Stage 1 2026 - Playoffs\nWatc
  h: https://www.twitch.tv/valorant_americas
 SUMMARY:Lower bracket final: FLY.R vs SRG
-URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T210000Z
+UID:pandascore-match-1593397@esport-ics
+DTSTART:20260720T210000Z
+DTEND:20260720T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers North America Stage 2 2026 - Group Stage
+SUMMARY:Round 2: C9.GC vs FLY.R
 END:VEVENT
 END:VCALENDAR
