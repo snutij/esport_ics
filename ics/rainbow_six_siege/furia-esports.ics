@@ -265,6 +265,17 @@ CLASS:PUBLIC
 DESCRIPTION:South America League - Stage 1 2026 - Playoffs\nWatch: https://
  www.twitch.tv/rainbow6
 SUMMARY:Upper bracket final : Liquid vs FURIA
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T190000Z
+UID:pandascore-match-1585244@esport-ics
+DTSTART:20260720T190000Z
+DTEND:20260720T211500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/rainbow6
+SUMMARY:Grand final: FURIA vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

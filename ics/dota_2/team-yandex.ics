@@ -619,6 +619,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ewc
 SUMMARY:Semifinal 2: TY vs PARI
+URL:https://www.twitch.tv/ewc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T100000Z
+UID:pandascore-match-1566161@esport-ics
+DTSTART:20260719T100000Z
+DTEND:20260719T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ewc
+SUMMARY:Third place match: VG vs TY
 URL;VALUE=URI:https://www.twitch.tv/ewc
 END:VEVENT
 END:VCALENDAR

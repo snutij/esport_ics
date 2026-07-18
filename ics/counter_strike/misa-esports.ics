@@ -1172,7 +1172,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #5 2026 - Group D\nWatch:
   https://kick.com/cct_cs
 SUMMARY:Winners match: BG vs MISA
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260719T080000Z
@@ -1184,5 +1184,16 @@ DESCRIPTION:United21 - Season 52 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Lower bracket final: EAC Rising vs MISA
 URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T170000Z
+UID:pandascore-match-1586972@esport-ics
+DTSTART:20260719T170000Z
+DTEND:20260719T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #5 2026 - Group D\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:Decider match: ex-MANA vs MISA
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
