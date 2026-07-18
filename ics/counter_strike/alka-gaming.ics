@@ -375,6 +375,17 @@ SUMMARY:Round 2: GH vs ALKA
 URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260719T130000Z
+UID:pandascore-match-1580389@esport-ics
+DTSTART:20260719T130000Z
+DTEND:20260719T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 4 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 3: Grêmio Esports vs ALKA
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260720T200000Z
 UID:pandascore-match-1588570@esport-ics
 DTSTART:20260720T200000Z

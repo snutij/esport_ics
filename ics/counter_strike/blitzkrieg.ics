@@ -178,6 +178,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 4 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 2: paiN.A vs BK
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260718T130000Z
+UID:pandascore-match-1580385@esport-ics
+DTSTART:20260718T130000Z
+DTEND:20260718T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 4 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 3: BK vs VSC
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
