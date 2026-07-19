@@ -91,6 +91,61 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 39 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Lower bracket quarterfinal 2: TS.A vs STX
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T070000Z
+UID:pandascore-match-1591136@esport-ics
+DTSTART:20260720T070000Z
+DTEND:20260720T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:STX vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T100000Z
+UID:pandascore-match-1591139@esport-ics
+DTSTART:20260721T100000Z
+DTEND:20260721T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:PckCp vs STX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T130000Z
+UID:pandascore-match-1591142@esport-ics
+DTSTART:20260722T130000Z
+DTEND:20260722T151500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:STX vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T100000Z
+UID:pandascore-match-1591146@esport-ics
+DTSTART:20260724T100000Z
+DTEND:20260724T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:ICxI vs STX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T100000Z
+UID:pandascore-match-1591148@esport-ics
+DTSTART:20260725T100000Z
+DTEND:20260725T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Team Jenz vs STX
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

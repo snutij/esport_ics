@@ -47,7 +47,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:DAN vs Flame Team
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260617T090000Z
@@ -58,6 +58,61 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 38 2026 - Group B\nWatch: https://
  www.twitch.tv/betbist
 SUMMARY:DAN vs Noir
-URL;VALUE=URI:https://www.twitch.tv/betbist
+URL:https://www.twitch.tv/betbist
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T070000Z
+UID:pandascore-match-1591153@esport-ics
+DTSTART:20260721T070000Z
+DTEND:20260721T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Nemiga vs DAN
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T070000Z
+UID:pandascore-match-1591155@esport-ics
+DTSTART:20260722T070000Z
+DTEND:20260722T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:ILL vs DAN
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T070000Z
+UID:pandascore-match-1591158@esport-ics
+DTSTART:20260723T070000Z
+DTEND:20260723T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:DAN vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T070000Z
+UID:pandascore-match-1591161@esport-ics
+DTSTART:20260724T070000Z
+DTEND:20260724T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:Team AION vs DAN
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T130000Z
+UID:pandascore-match-1591165@esport-ics
+DTSTART:20260725T130000Z
+DTEND:20260725T151500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:DAN vs LVLUP
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
