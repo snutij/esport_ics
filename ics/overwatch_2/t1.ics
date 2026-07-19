@@ -344,6 +344,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Korea Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ow_esports_jp
 SUMMARY:3rd Place match: ZSG vs T1
-URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T111500Z
+UID:pandascore-match-1594981@esport-ics
+DTSTART:20260729T111500Z
+DTEND:20260729T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Midseason Championship 2026 - Group A\nWatch: https://www
+ .twitch.tv/ow_esports
+SUMMARY:Upper bracket quarterfinal 2: T1 vs TM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:9z Team
+SLUG:9z-team
+BEGIN:VEVENT
+DTSTAMP:20260729T100000Z
+UID:pandascore-match-1594980@esport-ics
+DTSTART:20260729T100000Z
+DTEND:20260729T113000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Midseason Championship 2026 - Group A\nWatch: https://www
+ .twitch.tv/ow_esports
+SUMMARY:Upper bracket quarterfinal 1: VP vs 9z
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+END:VCALENDAR
