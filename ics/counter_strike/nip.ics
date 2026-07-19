@@ -478,4 +478,15 @@ DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
 SUMMARY:Round of 32 match 15: M80 vs NIP
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T130000Z
+UID:pandascore-match-1595607@esport-ics
+DTSTART:20260722T130000Z
+DTEND:20260722T151500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - Fall 2026 - Group D\nWatch: https://kic
+ k.com/starladder1
+SUMMARY:NIP vs 100T
+URL;VALUE=URI:https://kick.com/starladder1
+END:VEVENT
 END:VCALENDAR

@@ -422,6 +422,17 @@ SUMMARY:Lower Bracket Quarterfinals 1: 3DMAX vs M8
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260721T130000Z
+UID:pandascore-match-1595606@esport-ics
+DTSTART:20260721T130000Z
+DTEND:20260721T151500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - Fall 2026 - Group C\nWatch: https://kic
+ k.com/starladder1
+SUMMARY:3DMAX vs M8
+URL;VALUE=URI:https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260723T150000Z
 UID:pandascore-match-1592766@esport-ics
 DTSTART:20260723T150000Z

@@ -664,4 +664,15 @@ DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
 SUMMARY:Round of 32 match 4: NTR vs MOUZ
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T160000Z
+UID:pandascore-match-1595608@esport-ics
+DTSTART:20260722T160000Z
+DTEND:20260722T181500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - Fall 2026 - Group D\nWatch: https://kic
+ k.com/starladder1
+SUMMARY:NTR vs ECHO
+URL;VALUE=URI:https://kick.com/starladder1
+END:VEVENT
 END:VCALENDAR

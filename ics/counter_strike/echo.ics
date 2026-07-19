@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:Super DraculaN - Season 1 2026 - Playoffs\nWatch: https://kick.
  com/draculancs
 SUMMARY:3rd place decider: SHK vs ECHO
-URL;VALUE=URI:https://kick.com/draculancs
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T160000Z
+UID:pandascore-match-1595608@esport-ics
+DTSTART:20260722T160000Z
+DTEND:20260722T181500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - Fall 2026 - Group D\nWatch: https://kic
+ k.com/starladder1
+SUMMARY:NTR vs ECHO
+URL;VALUE=URI:https://kick.com/starladder1
 END:VEVENT
 END:VCALENDAR
