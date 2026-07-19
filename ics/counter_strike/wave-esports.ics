@@ -298,6 +298,15 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 5 2026 - Playoffs\nWatch: https://www.
  twitch.tv/dachcs
 SUMMARY:Lower bracket semifinal: WAVE vs Ducks
-URL;VALUE=URI:https://www.twitch.tv/dachcs
+URL:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260719T160000Z
+UID:pandascore-match-1594907@esport-ics
+DTSTART:20260719T160000Z
+DTEND:20260719T164500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:bankaPEPSI vs WAVE
 END:VEVENT
 END:VCALENDAR
