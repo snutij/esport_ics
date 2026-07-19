@@ -113,6 +113,83 @@ CLASS:PUBLIC
 DESCRIPTION:LIT - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/LITo
  fficial
 SUMMARY:Lower bracket round 3: ZENA vs AE
+URL:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T190000Z
+UID:pandascore-match-1594955@esport-ics
+DTSTART:20260722T190000Z
+DTEND:20260722T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:P11 vs AE
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T170000Z
+UID:pandascore-match-1594957@esport-ics
+DTSTART:20260723T170000Z
+DTEND:20260723T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:AE vs ZENA
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T190000Z
+UID:pandascore-match-1594963@esport-ics
+DTSTART:20260724T190000Z
+DTEND:20260724T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:AE vs EKO
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T170000Z
+UID:pandascore-match-1594965@esport-ics
+DTSTART:20260730T170000Z
+DTEND:20260730T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:GMB vs AE
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T180000Z
+UID:pandascore-match-1594970@esport-ics
+DTSTART:20260731T180000Z
+DTEND:20260731T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:AE vs CG
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T160000Z
+UID:pandascore-match-1594972@esport-ics
+DTSTART:20260806T160000Z
+DTEND:20260806T164500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:HMBLE vs AE
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T160000Z
+UID:pandascore-match-1594976@esport-ics
+DTSTART:20260807T160000Z
+DTEND:20260807T164500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:AE vs TTS
 URL;VALUE=URI:https://www.twitch.tv/LITofficial
 END:VEVENT
 END:VCALENDAR

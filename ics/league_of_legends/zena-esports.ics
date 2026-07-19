@@ -102,6 +102,83 @@ CLASS:PUBLIC
 DESCRIPTION:LIT - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/LITo
  fficial
 SUMMARY:Lower bracket quarterfinal: GMB vs ZENA
+URL:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T160000Z
+UID:pandascore-match-1594952@esport-ics
+DTSTART:20260722T160000Z
+DTEND:20260722T164500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:ZENA vs CG
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T170000Z
+UID:pandascore-match-1594957@esport-ics
+DTSTART:20260723T170000Z
+DTEND:20260723T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:AE vs ZENA
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T180000Z
+UID:pandascore-match-1594962@esport-ics
+DTSTART:20260724T180000Z
+DTEND:20260724T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:ZENA vs HMBLE
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T190000Z
+UID:pandascore-match-1594967@esport-ics
+DTSTART:20260730T190000Z
+DTEND:20260730T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:EKO vs ZENA
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T190000Z
+UID:pandascore-match-1594971@esport-ics
+DTSTART:20260731T190000Z
+DTEND:20260731T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:ZENA vs TTS
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T180000Z
+UID:pandascore-match-1594974@esport-ics
+DTSTART:20260806T180000Z
+DTEND:20260806T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:GMB vs ZENA
+URL;VALUE=URI:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T170000Z
+UID:pandascore-match-1594977@esport-ics
+DTSTART:20260807T170000Z
+DTEND:20260807T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/LITofficial
+SUMMARY:ZENA vs P11
 URL;VALUE=URI:https://www.twitch.tv/LITofficial
 END:VEVENT
 END:VCALENDAR
