@@ -168,7 +168,7 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:DEER vs DMG
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL:https://www.twitch.tv/nlclol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260527T180000Z
@@ -179,7 +179,7 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:DMG vs BLD
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL:https://www.twitch.tv/nlclol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260527T190000Z
@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:DMG vs LL
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T160000Z
+UID:pandascore-match-1597203@esport-ics
+DTSTART:20260722T160000Z
+DTEND:20260722T181500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:Round 1: DMG vs EA
 URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR

@@ -243,6 +243,72 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Spring 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/lolesports_ar
 SUMMARY:Lower bracket final: FN vs BAM
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T183000Z
+UID:pandascore-match-1597543@esport-ics
+DTSTART:20260721T183000Z
+DTEND:20260721T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:PIV vs BAM
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T160000Z
+UID:pandascore-match-1597546@esport-ics
+DTSTART:20260723T160000Z
+DTEND:20260723T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:BAM vs JSK
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T183000Z
+UID:pandascore-match-1597551@esport-ics
+DTSTART:20260729T183000Z
+DTEND:20260729T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:DS vs BAM
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T183000Z
+UID:pandascore-match-1597555@esport-ics
+DTSTART:20260804T183000Z
+DTEND:20260804T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:BAM vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T160000Z
+UID:pandascore-match-1597558@esport-ics
+DTSTART:20260806T160000Z
+DTEND:20260806T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:ONE vs BAM
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260811T183000Z
+UID:pandascore-match-1597561@esport-ics
+DTSTART:20260811T183000Z
+DTEND:20260811T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:BAM vs GNG
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

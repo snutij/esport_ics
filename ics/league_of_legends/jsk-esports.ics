@@ -111,6 +111,61 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Spring 2026 - Last Stand\nWatch: https://www.t
  witch.tv/lolesports_ar
 SUMMARY:3BL vs JSK
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T160000Z
+UID:pandascore-match-1597546@esport-ics
+DTSTART:20260723T160000Z
+DTEND:20260723T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:BAM vs JSK
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T160000Z
+UID:pandascore-match-1597548@esport-ics
+DTSTART:20260728T160000Z
+DTEND:20260728T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:JSK vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T183000Z
+UID:pandascore-match-1597553@esport-ics
+DTSTART:20260730T183000Z
+DTEND:20260730T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:GNG vs JSK
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T160000Z
+UID:pandascore-match-1597556@esport-ics
+DTSTART:20260805T160000Z
+DTEND:20260805T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:JSK vs PIV
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T160000Z
+UID:pandascore-match-1597562@esport-ics
+DTSTART:20260812T160000Z
+DTEND:20260812T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:DS vs JSK
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

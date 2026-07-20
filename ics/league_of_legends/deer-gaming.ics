@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
  ol
 SUMMARY:Lower bracket final: RUD vs DEER
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T180000Z
+UID:pandascore-match-1597205@esport-ics
+DTSTART:20260722T180000Z
+DTEND:20260722T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:Round 1: DEER vs 2 Massive
 URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR

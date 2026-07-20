@@ -146,6 +146,72 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Spring 2026 - Last Stand\nWatch: https://www.t
  witch.tv/lolesports_ar
 SUMMARY:ONE vs GNG
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T160000Z
+UID:pandascore-match-1597542@esport-ics
+DTSTART:20260721T160000Z
+DTEND:20260721T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:ONE vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T160000Z
+UID:pandascore-match-1597544@esport-ics
+DTSTART:20260722T160000Z
+DTEND:20260722T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:GNG vs ONE
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T183000Z
+UID:pandascore-match-1597549@esport-ics
+DTSTART:20260728T183000Z
+DTEND:20260728T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:ONE vs PIV
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T160000Z
+UID:pandascore-match-1597552@esport-ics
+DTSTART:20260730T160000Z
+DTEND:20260730T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:DS vs ONE
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T160000Z
+UID:pandascore-match-1597558@esport-ics
+DTSTART:20260806T160000Z
+DTEND:20260806T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:ONE vs BAM
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T183000Z
+UID:pandascore-match-1597563@esport-ics
+DTSTART:20260812T183000Z
+DTEND:20260812T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:ONE vs ANB
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

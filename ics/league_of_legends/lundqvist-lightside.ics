@@ -100,7 +100,7 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:LL vs VDN
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL:https://www.twitch.tv/nlclol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260527T180000Z
@@ -111,7 +111,7 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:LL vs LEO
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL:https://www.twitch.tv/nlclol
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260527T190000Z
@@ -122,6 +122,17 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Spring 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:DMG vs LL
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T180000Z
+UID:pandascore-match-1597202@esport-ics
+DTSTART:20260720T180000Z
+DTEND:20260720T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:Round 1: LL vs B2U
 URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR

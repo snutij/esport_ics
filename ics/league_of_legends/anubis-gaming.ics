@@ -208,6 +208,61 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Spring 2026 - Group D\nWatch: https://www.twitch
  .tv/primeleague
 SUMMARY:Decider match: ES vs ANB
-URL;VALUE=URI:https://www.twitch.tv/primeleague
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T183000Z
+UID:pandascore-match-1597545@esport-ics
+DTSTART:20260722T183000Z
+DTEND:20260722T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:3BL vs ANB
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T160000Z
+UID:pandascore-match-1597550@esport-ics
+DTSTART:20260729T160000Z
+DTEND:20260729T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:ANB vs GNG
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T160000Z
+UID:pandascore-match-1597554@esport-ics
+DTSTART:20260804T160000Z
+DTEND:20260804T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:PIV vs ANB
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T183000Z
+UID:pandascore-match-1597557@esport-ics
+DTSTART:20260805T183000Z
+DTEND:20260805T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:ANB vs DS
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T183000Z
+UID:pandascore-match-1597563@esport-ics
+DTSTART:20260812T183000Z
+DTEND:20260812T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:ONE vs ANB
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

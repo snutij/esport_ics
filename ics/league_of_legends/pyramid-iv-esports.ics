@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pyramid IV Esports
+SLUG:pyramid-iv-esports
+BEGIN:VEVENT
+DTSTAMP:20260721T183000Z
+UID:pandascore-match-1597543@esport-ics
+DTSTART:20260721T183000Z
+DTEND:20260721T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:PIV vs BAM
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T183000Z
+UID:pandascore-match-1597547@esport-ics
+DTSTART:20260723T183000Z
+DTEND:20260723T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:PIV vs DS
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T183000Z
+UID:pandascore-match-1597549@esport-ics
+DTSTART:20260728T183000Z
+DTEND:20260728T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:ONE vs PIV
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T160000Z
+UID:pandascore-match-1597554@esport-ics
+DTSTART:20260804T160000Z
+DTEND:20260804T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:PIV vs ANB
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T160000Z
+UID:pandascore-match-1597556@esport-ics
+DTSTART:20260805T160000Z
+DTEND:20260805T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:JSK vs PIV
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260811T160000Z
+UID:pandascore-match-1597560@esport-ics
+DTSTART:20260811T160000Z
+DTEND:20260811T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:PIV vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+END:VCALENDAR

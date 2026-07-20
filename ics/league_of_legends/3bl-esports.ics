@@ -212,6 +212,72 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Spring 2026 - Last Chance\nWatch: https://www.
  twitch.tv/lolesports_ar
 SUMMARY:Qualification match: BAM vs 3BL
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T160000Z
+UID:pandascore-match-1597542@esport-ics
+DTSTART:20260721T160000Z
+DTEND:20260721T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:ONE vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T183000Z
+UID:pandascore-match-1597545@esport-ics
+DTSTART:20260722T183000Z
+DTEND:20260722T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:3BL vs ANB
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T160000Z
+UID:pandascore-match-1597548@esport-ics
+DTSTART:20260728T160000Z
+DTEND:20260728T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:JSK vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T183000Z
+UID:pandascore-match-1597555@esport-ics
+DTSTART:20260804T183000Z
+DTEND:20260804T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:BAM vs 3BL
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T183000Z
+UID:pandascore-match-1597559@esport-ics
+DTSTART:20260806T183000Z
+DTEND:20260806T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:3BL vs GNG
+URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260811T160000Z
+UID:pandascore-match-1597560@esport-ics
+DTSTART:20260811T160000Z
+DTEND:20260811T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/lolesports_ar
+SUMMARY:PIV vs 3BL
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR
