@@ -814,4 +814,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Play-In Group D\nWatch:
 SUMMARY:Decider Match: MISA vs LILMIX
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T100000Z
+UID:pandascore-match-1596605@esport-ics
+DTSTART:20260803T100000Z
+DTEND:20260803T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat I 2026 - Group D\nWatch: https://kick.com/st
+ ake_esports
+SUMMARY:FNC vs LILMIX
+URL;VALUE=URI:https://kick.com/stake_esports
+END:VEVENT
 END:VCALENDAR

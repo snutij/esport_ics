@@ -581,6 +581,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #1 season 52 2026 - Playoffs
  \nWatch: https://www.twitch.tv/watchfulTVc
 SUMMARY:Semifinal 2: FNC vs BRUTE
-URL;VALUE=URI:https://www.twitch.tv/watchfulTVc
+URL:https://www.twitch.tv/watchfulTVc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T100000Z
+UID:pandascore-match-1596605@esport-ics
+DTSTART:20260803T100000Z
+DTEND:20260803T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat I 2026 - Group D\nWatch: https://kick.com/st
+ ake_esports
+SUMMARY:FNC vs LILMIX
+URL;VALUE=URI:https://kick.com/stake_esports
 END:VEVENT
 END:VCALENDAR

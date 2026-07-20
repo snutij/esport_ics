@@ -521,6 +521,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom RUSH B! - Summit season 4 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/btsbrasilfps
 SUMMARY:Grand final: FXW7 vs IMP
-URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
+URL:https://www.twitch.tv/btsbrasilfps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T210000Z
+UID:pandascore-match-1596524@esport-ics
+DTSTART:20260728T210000Z
+DTEND:20260728T231500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - South American Qualifier Fall 2026 - Pl
+ ayoffs\nWatch: https://kick.com/starladder1
+SUMMARY:Upper bracket quarterfinal 4: IMP vs BST
+URL;VALUE=URI:https://kick.com/starladder1
 END:VEVENT
 END:VCALENDAR

@@ -301,6 +301,39 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Spring 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/makariagaming
 SUMMARY:Quarterfinal 1: UCAM vs KCB
-URL;VALUE=URI:https://www.twitch.tv/makariagaming
+URL:https://www.twitch.tv/makariagaming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T180000Z
+UID:pandascore-match-1596611@esport-ics
+DTSTART:20260721T180000Z
+DTEND:20260721T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
+ /otplol_
+SUMMARY:KCB vs ZYB
+URL;VALUE=URI:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T200000Z
+UID:pandascore-match-1596618@esport-ics
+DTSTART:20260722T200000Z
+DTEND:20260722T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
+ /otplol_
+SUMMARY:KCB vs ES
+URL;VALUE=URI:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T200000Z
+UID:pandascore-match-1596623@esport-ics
+DTSTART:20260723T200000Z
+DTEND:20260723T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
+ /otplol_
+SUMMARY:KCB vs TLNP
+URL;VALUE=URI:http://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

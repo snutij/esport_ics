@@ -190,6 +190,39 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Spring 2026 - Playoffs\nWatch: http://www.twitch.tv/otplo
  l_
 SUMMARY:Lower bracket round 1 match 1: ZYB vs VIT.B
+URL:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T180000Z
+UID:pandascore-match-1596611@esport-ics
+DTSTART:20260721T180000Z
+DTEND:20260721T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
+ /otplol_
+SUMMARY:KCB vs ZYB
+URL;VALUE=URI:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T170000Z
+UID:pandascore-match-1596615@esport-ics
+DTSTART:20260722T170000Z
+DTEND:20260722T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
+ /otplol_
+SUMMARY:ZYB vs SC
+URL;VALUE=URI:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T190000Z
+UID:pandascore-match-1596622@esport-ics
+DTSTART:20260723T190000Z
+DTEND:20260723T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
+ /otplol_
+SUMMARY:SLY vs ZYB
 URL;VALUE=URI:http://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

@@ -236,29 +236,29 @@ CLASS:PUBLIC
 DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
  @KeSPA/live
 SUMMARY:NS vs KT
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL:https://www.youtube.com/@KeSPA/live
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260720T095500Z
+DTSTAMP:20260720T102000Z
 UID:pandascore-match-1570036@esport-ics
-DTSTART:20260720T095500Z
-DTEND:20260720T104000Z
+DTSTART:20260720T102000Z
+DTEND:20260720T110500Z
 CLASS:PUBLIC
-DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
- @KeSPA/live
+DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.twitch.tv/bl
+ vjaysmith
 SUMMARY:DNS vs KT
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL;VALUE=URI:https://www.twitch.tv/blvjaysmith
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260720T121000Z
+DTSTAMP:20260720T123500Z
 UID:pandascore-match-1570039@esport-ics
-DTSTART:20260720T121000Z
-DTEND:20260720T125500Z
+DTSTART:20260720T123500Z
+DTEND:20260720T132000Z
 CLASS:PUBLIC
-DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
- @KeSPA/live
+DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.twitch.tv/bl
+ vjaysmith
 SUMMARY:KRX vs KT
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL;VALUE=URI:https://www.twitch.tv/blvjaysmith
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260721T081500Z

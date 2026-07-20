@@ -225,4 +225,15 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs
 SUMMARY:Grand final: CCE vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T190000Z
+UID:pandascore-match-1596577@esport-ics
+DTSTART:20260729T190000Z
+DTEND:20260729T211500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - North American Qualifier Fall 2026 - Pl
+ ayoffs\nWatch: https://kick.com/starladder
+SUMMARY:Upper bracket quarterfinal 3: CCE vs SportsBetExpert
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
 END:VCALENDAR

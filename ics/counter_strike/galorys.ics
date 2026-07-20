@@ -588,6 +588,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X Base Recife - 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/circuitxofficial
 SUMMARY:3rd place match: FX vs GLS
-URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T150000Z
+UID:pandascore-match-1596523@esport-ics
+DTSTART:20260729T150000Z
+DTEND:20260729T171500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - South American Qualifier Fall 2026 - Pl
+ ayoffs\nWatch: https://kick.com/starladder1
+SUMMARY:Upper bracket quarterfinal 3: SHIN vs GLS
+URL;VALUE=URI:https://kick.com/starladder1
 END:VEVENT
 END:VCALENDAR

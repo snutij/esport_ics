@@ -396,6 +396,17 @@ CLASS:PUBLIC
 DESCRIPTION:XSE Pro League - 2026 - Group Stage\nWatch: https://kick.com/xs
  ecs
 SUMMARY:Round 5: MIBR vs 9z
-URL;VALUE=URI:https://kick.com/xsecs
+URL:https://kick.com/xsecs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T150000Z
+UID:pandascore-match-1596521@esport-ics
+DTSTART:20260728T150000Z
+DTEND:20260728T171500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - South American Qualifier Fall 2026 - Pl
+ ayoffs\nWatch: https://kick.com/starladder1
+SUMMARY:Upper bracket quarterfinal 1: MIBR vs FXW7
+URL;VALUE=URI:https://kick.com/starladder1
 END:VEVENT
 END:VCALENDAR

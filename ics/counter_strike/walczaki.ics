@@ -633,7 +633,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Quarterfinal 1: JustP vs WAL
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260721T100000Z
@@ -641,8 +641,8 @@ UID:pandascore-match-1595605@esport-ics
 DTSTART:20260721T100000Z
 DTEND:20260721T121500Z
 CLASS:PUBLIC
-DESCRIPTION:StarLadder StarSeries - Fall 2026 - Group C\nWatch: https://kic
- k.com/starladder1
+DESCRIPTION:StarLadder StarSeries - European Qualifier Fall 2026 - Group C\
+ nWatch: https://kick.com/starladder1
 SUMMARY:MGC vs WAL
 URL;VALUE=URI:https://kick.com/starladder1
 END:VEVENT

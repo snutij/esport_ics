@@ -837,6 +837,17 @@ CLASS:PUBLIC
 DESCRIPTION:Super DraculaN - Season 1 2026 - Playoffs\nWatch: https://kick.
  com/draculancs
 SUMMARY:Grand final: ICE vs ACE
-URL;VALUE=URI:https://kick.com/draculancs
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T100000Z
+UID:pandascore-match-1596599@esport-ics
+DTSTART:20260802T100000Z
+DTEND:20260802T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat I 2026 - Group C\nWatch: https://kick.com/st
+ ake_esports
+SUMMARY:ACE vs 6666
+URL;VALUE=URI:https://kick.com/stake_esports
 END:VEVENT
 END:VCALENDAR

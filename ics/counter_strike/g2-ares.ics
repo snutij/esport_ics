@@ -859,6 +859,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Play-In\nWatch: https:/
  /kick.com/nodwin_cs2
 SUMMARY:Qualification match 4: G2.A vs MEGO
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T100000Z
+UID:pandascore-match-1596590@esport-ics
+DTSTART:20260731T100000Z
+DTEND:20260731T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat I 2026 - Group A\nWatch: https://kick.com/st
+ ake_esports
+SUMMARY:EAC vs G2.A
+URL;VALUE=URI:https://kick.com/stake_esports
 END:VEVENT
 END:VCALENDAR

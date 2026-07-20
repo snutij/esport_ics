@@ -514,6 +514,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - North American Qualifier Fall 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/circuitxofficial
 SUMMARY:Semifinal 1: M80 vs LAG
-URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T220000Z
+UID:pandascore-match-1596576@esport-ics
+DTSTART:20260728T220000Z
+DTEND:20260729T001500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - North American Qualifier Fall 2026 - Pl
+ ayoffs\nWatch: https://kick.com/starladder
+SUMMARY:Upper bracket quarterfinal 2: LAG vs MARS
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

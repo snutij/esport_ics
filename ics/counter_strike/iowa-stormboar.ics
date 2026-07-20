@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:NSTLGA League - Season 1 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/nstlga_gg
 SUMMARY:Lower bracket final: FL vs IOWA
-URL;VALUE=URI:https://www.twitch.tv/nstlga_gg
+URL:https://www.twitch.tv/nstlga_gg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T190000Z
+UID:pandascore-match-1596575@esport-ics
+DTSTART:20260728T190000Z
+DTEND:20260728T211500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - North American Qualifier Fall 2026 - Pl
+ ayoffs\nWatch: https://kick.com/starladder
+SUMMARY:Upper bracket quarterfinal 1: NRG vs IOWA
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
