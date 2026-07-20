@@ -270,6 +270,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 4 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 3: RF vs MAG
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T190000Z
+UID:pandascore-match-1580394@esport-ics
+DTSTART:20260720T190000Z
+DTEND:20260720T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 4 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 4: MAG vs BK
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

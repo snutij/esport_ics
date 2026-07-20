@@ -654,4 +654,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - July 2026 - Group B
 SUMMARY:RED.A vs MW
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T220000Z
+UID:pandascore-match-1580395@esport-ics
+DTSTART:20260720T220000Z
+DTEND:20260721T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 4 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 4: Grêmio Esports vs MW
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR
