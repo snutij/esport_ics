@@ -110,7 +110,9 @@ UID:pandascore-match-1593399@esport-ics
 DTSTART:20260720T233000Z
 DTEND:20260721T014500Z
 CLASS:PUBLIC
-DESCRIPTION:VCT - Game Changers North America Stage 2 2026 - Group Stage
+DESCRIPTION:VCT - Game Changers North America Stage 2 2026 - Group Stage\nW
+ atch: https://www.twitch.tv/valorant_americas
 SUMMARY:Round 2: SWIM vs SaD
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

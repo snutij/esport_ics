@@ -11,7 +11,9 @@ UID:pandascore-match-1593401@esport-ics
 DTSTART:20260720T210000Z
 DTEND:20260720T231500Z
 CLASS:PUBLIC
-DESCRIPTION:VCT - Game Changers North America Stage 2 2026 - Group Stage
+DESCRIPTION:VCT - Game Changers North America Stage 2 2026 - Group Stage\nW
+ atch: https://www.twitch.tv/valorant_americas
 SUMMARY:Round 2: HIM vs EFA
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

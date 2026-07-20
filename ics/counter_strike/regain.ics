@@ -342,6 +342,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - North American Qualifier Fall 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/circuitxofficial
 SUMMARY:Semifinal 2: VOCA vs REGAIN
-URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T010000Z
+UID:pandascore-match-1596578@esport-ics
+DTSTART:20260729T010000Z
+DTEND:20260729T031500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - North American Qualifier Fall 2026 - Pl
+ ayoffs\nWatch: https://kick.com/starladder
+SUMMARY:Upper bracket quarterfinal 4: REGAIN vs VOCA
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
