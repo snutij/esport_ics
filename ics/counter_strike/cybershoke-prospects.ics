@@ -849,6 +849,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #2 2026 - Group D\nWa
  tch: https://www.twitch.tv/gluck_esports
 SUMMARY:Elimination match: NEXORA vs CSH.P
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T080000Z
+UID:pandascore-match-1587516@esport-ics
+DTSTART:20260721T080000Z
+DTEND:20260721T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #5 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs
+SUMMARY:Round 1: CSH.P vs G2.A
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

@@ -777,6 +777,17 @@ CLASS:PUBLIC
 DESCRIPTION:LG UltraGear Tournament - 2026 - Playoffs\nWatch: https://www.t
  witch.tv/myskill_top
 SUMMARY:Semifinal 2: PCF vs RE
-URL;VALUE=URI:https://www.twitch.tv/myskill_top
+URL:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T080000Z
+UID:pandascore-match-1587520@esport-ics
+DTSTART:20260722T080000Z
+DTEND:20260722T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #5 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs
+SUMMARY:Round 1: Black Phoenix vs RE
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
