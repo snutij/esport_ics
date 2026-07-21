@@ -256,6 +256,50 @@ CLASS:PUBLIC
 DESCRIPTION:Prime League 1st Division - Summer 2026 - Regular Season\nWatch
  : https://www.twitch.tv/primeleague
 SUMMARY:USE vs TOG
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T150000Z
+UID:pandascore-match-1598198@esport-ics
+DTSTART:20260722T150000Z
+DTEND:20260722T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:TOG vs G2N
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T170000Z
+UID:pandascore-match-1598201@esport-ics
+DTSTART:20260729T170000Z
+DTEND:20260729T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:TOG vs USE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T170000Z
+UID:pandascore-match-1598207@esport-ics
+DTSTART:20260805T170000Z
+DTEND:20260805T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:TOG vs KHK
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260811T170000Z
+UID:pandascore-match-1598221@esport-ics
+DTSTART:20260811T170000Z
+DTEND:20260811T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:VFB vs TOG
 URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 END:VCALENDAR

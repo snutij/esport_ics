@@ -300,6 +300,50 @@ CLASS:PUBLIC
 DESCRIPTION:Prime League 1st Division - Summer 2026 - Regular Season\nWatch
  : https://www.twitch.tv/primeleague
 SUMMARY:VFB vs KHK
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T170000Z
+UID:pandascore-match-1598199@esport-ics
+DTSTART:20260722T170000Z
+DTEND:20260722T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:KHK vs USE
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T170000Z
+UID:pandascore-match-1598203@esport-ics
+DTSTART:20260730T170000Z
+DTEND:20260730T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:VFB vs KHK
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T170000Z
+UID:pandascore-match-1598207@esport-ics
+DTSTART:20260805T170000Z
+DTEND:20260805T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:TOG vs KHK
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260811T150000Z
+UID:pandascore-match-1598220@esport-ics
+DTSTART:20260811T150000Z
+DTEND:20260811T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Group B\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:KHK vs G2N
 URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 END:VCALENDAR

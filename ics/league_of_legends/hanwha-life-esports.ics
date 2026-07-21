@@ -347,29 +347,29 @@ CLASS:PUBLIC
 DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
  @KeSPA/live
 SUMMARY:GEN vs HLE
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL:https://www.youtube.com/@KeSPA/live
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260721T094500Z
+DTSTAMP:20260721T102500Z
 UID:pandascore-match-1570045@esport-ics
-DTSTART:20260721T094500Z
-DTEND:20260721T103000Z
+DTSTART:20260721T102500Z
+DTEND:20260721T111000Z
 CLASS:PUBLIC
-DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
- @KeSPA/live
+DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.twitch.tv/ke
+ spa2026lck
 SUMMARY:HLE vs NS
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL;VALUE=URI:https://www.twitch.tv/kespa2026lck
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260721T111500Z
+DTSTAMP:20260721T115500Z
 UID:pandascore-match-1570047@esport-ics
-DTSTART:20260721T111500Z
-DTEND:20260721T120000Z
+DTSTART:20260721T115500Z
+DTEND:20260721T124000Z
 CLASS:PUBLIC
-DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
- @KeSPA/live
+DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.twitch.tv/ke
+ spa2026lck
 SUMMARY:HLE vs DNS
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL;VALUE=URI:https://www.twitch.tv/kespa2026lck
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260727T064500Z

@@ -407,18 +407,18 @@ CLASS:PUBLIC
 DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
  @KeSPA/live
 SUMMARY:BFX vs DK
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL:https://www.youtube.com/@KeSPA/live
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260721T081500Z
+DTSTAMP:20260721T085500Z
 UID:pandascore-match-1570043@esport-ics
-DTSTART:20260721T081500Z
-DTEND:20260721T090000Z
+DTSTART:20260721T085500Z
+DTEND:20260721T094000Z
 CLASS:PUBLIC
-DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
- @KeSPA/live
+DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.twitch.tv/ke
+ spa2026lck
 SUMMARY:KT vs DK
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL;VALUE=URI:https://www.twitch.tv/kespa2026lck
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260727T064500Z

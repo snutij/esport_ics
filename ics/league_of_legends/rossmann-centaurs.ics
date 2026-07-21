@@ -289,6 +289,50 @@ CLASS:PUBLIC
 DESCRIPTION:Prime League 1st Division - Summer 2026 - Regular Season\nWatch
  : https://www.twitch.tv/primeleague
 SUMMARY:ROSS vs USE
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T170000Z
+UID:pandascore-match-1598197@esport-ics
+DTSTART:20260723T170000Z
+DTEND:20260723T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Group A\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:ROSS vs EWI
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T150000Z
+UID:pandascore-match-1598202@esport-ics
+DTSTART:20260730T150000Z
+DTEND:20260730T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Group A\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:ES vs ROSS
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T170000Z
+UID:pandascore-match-1598209@esport-ics
+DTSTART:20260806T170000Z
+DTEND:20260806T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Group A\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:ROSS vs BIG
+URL;VALUE=URI:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T160000Z
+UID:pandascore-match-1598223@esport-ics
+DTSTART:20260812T160000Z
+DTEND:20260812T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Group A\nWatch: https
+ ://www.twitch.tv/primeleague
+SUMMARY:SGE vs ROSS
 URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 END:VCALENDAR
