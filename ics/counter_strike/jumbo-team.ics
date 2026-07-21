@@ -410,6 +410,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #6 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs3
 SUMMARY:Lower Bracket Round  2 Match 2: BAKS vs JUMBO
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T183000Z
+UID:pandascore-match-1597637@esport-ics
+DTSTART:20260721T183000Z
+DTEND:20260721T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:DM vs JUMBO
 END:VEVENT
 END:VCALENDAR

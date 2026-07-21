@@ -36,6 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #2 2026 - Group D\nWa
  tch: https://www.twitch.tv/gluck_esports
 SUMMARY:Decider match: WING vs NEXORA
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T183000Z
+UID:pandascore-match-1597629@esport-ics
+DTSTART:20260721T183000Z
+DTEND:20260721T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:NEXORA vs BG
 END:VEVENT
 END:VCALENDAR

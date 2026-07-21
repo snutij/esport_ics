@@ -221,6 +221,15 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 52 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Grand final: ESB vs EAC Rising
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T183000Z
+UID:pandascore-match-1597635@esport-ics
+DTSTART:20260721T183000Z
+DTEND:20260721T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:ESB vs FRT
 END:VEVENT
 END:VCALENDAR
