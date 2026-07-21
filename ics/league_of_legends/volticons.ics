@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:LRS - Split 2 2026 - Regular Season\nWatch: https://www.youtube
  .com/watch?v=b2MJN-uSqLQ
 SUMMARY:VTC vs 7D
-URL;VALUE=URI:https://www.youtube.com/watch?v=b2MJN-uSqLQ
+URL:https://www.youtube.com/watch?v=b2MJN-uSqLQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T200000Z
+UID:pandascore-match-1595025@esport-ics
+DTSTART:20260721T200000Z
+DTEND:20260721T234500Z
+CLASS:PUBLIC
+DESCRIPTION:LRS - Split 2 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ acelatam
+SUMMARY:Upper bracket semifinal 1: GL vs VTC
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR

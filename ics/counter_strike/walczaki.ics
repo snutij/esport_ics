@@ -644,6 +644,17 @@ CLASS:PUBLIC
 DESCRIPTION:StarLadder StarSeries - European Qualifier Fall 2026 - Group C\
  nWatch: https://kick.com/starladder
 SUMMARY:MGC vs WAL
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T110000Z
+UID:pandascore-match-1596461@esport-ics
+DTSTART:20260723T110000Z
+DTEND:20260723T131500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - European Qualifier Fall 2026 - Group C\
+ nWatch: https://kick.com/starladder1
+SUMMARY:Elimination match: WAL vs TBD
+URL;VALUE=URI:https://kick.com/starladder1
 END:VEVENT
 END:VCALENDAR
