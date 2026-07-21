@@ -568,4 +568,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:GE vs QUA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T170000Z
+UID:pandascore-match-1596631@esport-ics
+DTSTART:20260722T170000Z
+DTEND:20260722T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #6 2026 - Group B\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:Winners match: QUA vs SAW.Y
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

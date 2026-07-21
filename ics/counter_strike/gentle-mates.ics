@@ -443,4 +443,15 @@ DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
 SUMMARY:Round of 32 match 13: M8 vs paiN
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T160000Z
+UID:pandascore-match-1596462@esport-ics
+DTSTART:20260724T160000Z
+DTEND:20260724T181500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - European Qualifier Fall 2026 - Group C\
+ nWatch: https://kick.com/starladder1
+SUMMARY:Decider match: M8 vs TBD
+URL;VALUE=URI:https://kick.com/starladder1
+END:VEVENT
 END:VCALENDAR
