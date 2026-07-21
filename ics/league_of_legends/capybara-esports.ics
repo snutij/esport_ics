@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Capybara Esports
+SLUG:capybara-esports
+BEGIN:VEVENT
+DTSTAMP:20260723T180000Z
+UID:pandascore-match-1598308@esport-ics
+DTSTART:20260723T180000Z
+DTEND:20260723T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Summer 2026 - Swiss Stage\nWatch: https://www.twitch.tv
+ /rtparenalol
+SUMMARY:Round 1: CAPY vs EXG
+URL;VALUE=URI:https://www.twitch.tv/rtparenalol
+END:VEVENT
+END:VCALENDAR
