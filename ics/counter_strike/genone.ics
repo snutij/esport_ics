@@ -974,6 +974,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Round of 16 match 3: 1WIN vs G1
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T170000Z
+UID:pandascore-match-1582154@esport-ics
+DTSTART:20260724T170000Z
+DTEND:20260724T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: G1 vs Atreides
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

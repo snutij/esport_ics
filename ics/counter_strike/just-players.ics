@@ -371,4 +371,15 @@ DESCRIPTION:European Pro League - Series 8 2026 - Playoffs\nWatch: https://
 SUMMARY:Semifinal 1: JustP vs 1WIN
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T170000Z
+UID:pandascore-match-1582150@esport-ics
+DTSTART:20260723T170000Z
+DTEND:20260723T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: BTF vs JustP
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

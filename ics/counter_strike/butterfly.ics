@@ -16,4 +16,15 @@ DESCRIPTION:CCT Europe - Series #5 2026 - Group Stage\nWatch: https://kick.
 SUMMARY:Round 1: BTF vs BG
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T170000Z
+UID:pandascore-match-1582150@esport-ics
+DTSTART:20260723T170000Z
+DTEND:20260723T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: BTF vs JustP
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
