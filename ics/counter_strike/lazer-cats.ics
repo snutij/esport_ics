@@ -508,6 +508,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 7 2026 - Group D\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Elimination match: LC vs G1
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T110000Z
+UID:pandascore-match-1600632@esport-ics
+DTSTART:20260725T110000Z
+DTEND:20260725T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Grou
+ p A\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:LC vs IC.A
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

@@ -530,4 +530,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Group Stage\nWatch: htt
 SUMMARY:Round 1: INOX vs IC.A
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T110000Z
+UID:pandascore-match-1600632@esport-ics
+DTSTART:20260725T110000Z
+DTEND:20260725T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Grou
+ p A\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:LC vs IC.A
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR
