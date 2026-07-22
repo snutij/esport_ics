@@ -17,6 +17,17 @@ SUMMARY:Round 1: Black Phoenix vs RE
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260724T140000Z
+UID:pandascore-match-1587530@esport-ics
+DTSTART:20260724T140000Z
+DTEND:20260724T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #5 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs
+SUMMARY:Round 2: EAC vs Black Phoenix
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260727T140000Z
 UID:pandascore-match-1600646@esport-ics
 DTSTART:20260727T140000Z

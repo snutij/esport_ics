@@ -609,6 +609,17 @@ SUMMARY:Round 1: Atreides vs LK
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260723T110000Z
+UID:pandascore-match-1587525@esport-ics
+DTSTART:20260723T110000Z
+DTEND:20260723T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #5 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs
+SUMMARY:Round 2: LK vs SAW.Y
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260725T140000Z
 UID:pandascore-match-1600636@esport-ics
 DTSTART:20260725T140000Z

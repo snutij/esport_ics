@@ -498,6 +498,17 @@ SUMMARY:Entropy vs Subtop De France
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260723T080000Z
+UID:pandascore-match-1587524@esport-ics
+DTSTART:20260723T080000Z
+DTEND:20260723T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #5 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs
+SUMMARY:Round 2: RE vs Entropy
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260727T080000Z
 UID:pandascore-match-1600641@esport-ics
 DTSTART:20260727T080000Z
