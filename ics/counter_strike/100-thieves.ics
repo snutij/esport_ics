@@ -652,7 +652,7 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
  ch.tv/BLASTPremier
 SUMMARY:Round of 32 match 3: FAL vs 100T
-URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+URL:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260723T130000Z
@@ -662,7 +662,7 @@ DTEND:20260723T151500Z
 CLASS:PUBLIC
 DESCRIPTION:StarLadder StarSeries - European Qualifier Fall 2026 - Group D\
  nWatch: https://kick.com/starladder1
-SUMMARY:Elimination match: 100T vs TBD
+SUMMARY:Elimination match: 100T vs NTR
 URL;VALUE=URI:https://kick.com/starladder1
 END:VEVENT
 END:VCALENDAR

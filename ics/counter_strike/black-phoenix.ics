@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #5 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs
 SUMMARY:Round 1: Black Phoenix vs RE
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T140000Z
+UID:pandascore-match-1600646@esport-ics
+DTSTART:20260727T140000Z
+DTEND:20260727T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Grou
+ p D\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Black Phoenix vs MISA
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

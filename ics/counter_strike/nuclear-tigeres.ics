@@ -673,6 +673,17 @@ CLASS:PUBLIC
 DESCRIPTION:StarLadder StarSeries - European Qualifier Fall 2026 - Group D\
  nWatch: https://kick.com/starladder1
 SUMMARY:NTR vs ECHO
+URL:https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T130000Z
+UID:pandascore-match-1596464@esport-ics
+DTSTART:20260723T130000Z
+DTEND:20260723T151500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - European Qualifier Fall 2026 - Group D\
+ nWatch: https://kick.com/starladder1
+SUMMARY:Elimination match: 100T vs NTR
 URL;VALUE=URI:https://kick.com/starladder1
 END:VEVENT
 END:VCALENDAR

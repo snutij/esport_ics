@@ -28,14 +28,14 @@ SUMMARY:Team Jenz vs LYNX
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260722T190000Z
-UID:pandascore-match-1591143@esport-ics
-DTSTART:20260722T190000Z
-DTEND:20260722T211500Z
+DTSTAMP:20260722T200000Z
+UID:pandascore-match-1591148@esport-ics
+DTSTART:20260722T200000Z
+DTEND:20260722T221500Z
 CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
  pldota_en2
-SUMMARY:PckCp vs Team Jenz
+SUMMARY:Team Jenz vs STX
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
@@ -51,13 +51,13 @@ URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260725T100000Z
-UID:pandascore-match-1591148@esport-ics
+UID:pandascore-match-1591143@esport-ics
 DTSTART:20260725T100000Z
 DTEND:20260725T121500Z
 CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
  pldota_en2
-SUMMARY:Team Jenz vs STX
+SUMMARY:PckCp vs Team Jenz
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

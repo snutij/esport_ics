@@ -137,4 +137,15 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #6 2026 - Group A\nWatch:
 SUMMARY:Decider match: EP vs Mai Tai
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T110000Z
+UID:pandascore-match-1600642@esport-ics
+DTSTART:20260727T110000Z
+DTEND:20260727T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Grou
+ p C\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:UNiTY vs Mai Tai
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR

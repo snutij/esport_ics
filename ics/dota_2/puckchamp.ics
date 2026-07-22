@@ -83,17 +83,6 @@ SUMMARY:PckCp vs STX
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260722T190000Z
-UID:pandascore-match-1591143@esport-ics
-DTSTART:20260722T190000Z
-DTEND:20260722T211500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
- pldota_en2
-SUMMARY:PckCp vs Team Jenz
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260723T100000Z
 UID:pandascore-match-1591144@esport-ics
 DTSTART:20260723T100000Z
@@ -102,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
  pldota_en2
 SUMMARY:TS.A vs PckCp
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T100000Z
+UID:pandascore-match-1591143@esport-ics
+DTSTART:20260725T100000Z
+DTEND:20260725T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
+ pldota_en2
+SUMMARY:PckCp vs Team Jenz
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
