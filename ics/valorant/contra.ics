@@ -256,6 +256,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America North: Stage 2 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/valorant_la
 SUMMARY:Grand final: FEO vs BBB
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T190000Z
+UID:pandascore-match-1600328@esport-ics
+DTSTART:20260727T190000Z
+DTEND:20260727T224500Z
+CLASS:PUBLIC
+DESCRIPTION:VCL - Latin America Finals 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/valorant_la
+SUMMARY:Grand final: BST vs BBB
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

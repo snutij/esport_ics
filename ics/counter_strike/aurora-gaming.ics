@@ -430,6 +430,17 @@ SUMMARY:AUR vs K27
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260722T160000Z
+UID:pandascore-match-1596454@esport-ics
+DTSTART:20260722T160000Z
+DTEND:20260722T181500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - European Qualifier Fall 2026 - Group A\
+ nWatch: https://kick.com/starladder1
+SUMMARY:Winners match: AUR vs TBD
+URL;VALUE=URI:https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260723T100000Z
 UID:pandascore-match-1592759@esport-ics
 DTSTART:20260723T100000Z
