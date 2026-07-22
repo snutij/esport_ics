@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers North America Stage 2 2026 - Group Stage\nW
  atch: https://www.twitch.tv/Raidiant_glow
 SUMMARY:Round 2: HIM vs EFA
-URL;VALUE=URI:https://www.twitch.tv/Raidiant_glow
+URL:https://www.twitch.tv/Raidiant_glow
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T233000Z
+UID:pandascore-match-1599711@esport-ics
+DTSTART:20260727T233000Z
+DTEND:20260728T014500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers North America Stage 2 2026 - Group Stage\nW
+ atch: https://www.twitch.tv/valorant_americas
+SUMMARY:Round 3: HIM vs ROSO
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR
