@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.youtube
  .com/watch?v=npcB_6R2Q70
 SUMMARY:LYN.A vs Z5
-URL;VALUE=URI:https://www.youtube.com/watch?v=npcB_6R2Q70
+URL:https://www.youtube.com/watch?v=npcB_6R2Q70
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T230000Z
+UID:pandascore-match-1601263@esport-ics
+DTSTART:20260803T230000Z
+DTEND:20260804T024500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ acelatam
+SUMMARY:Upper bracket semifinal 2: Z5 vs 3V
+URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR

@@ -420,6 +420,39 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 6 2026 - Group D\nWatch: https://www.twitc
  h.tv/tastelesstv
 SUMMARY:Scarlett vs Cure
-URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T140000Z
+UID:pandascore-match-1601274@esport-ics
+DTSTART:20260723T140000Z
+DTEND:20260723T161500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group C\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:Mixu vs Cure
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T144000Z
+UID:pandascore-match-1601275@esport-ics
+DTSTART:20260723T144000Z
+DTEND:20260723T165500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group C\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:Cure vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T152000Z
+UID:pandascore-match-1601276@esport-ics
+DTSTART:20260723T152000Z
+DTEND:20260723T173500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group C\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:Cure vs Krystianer
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

@@ -324,6 +324,39 @@ SUMMARY:ByuN vs GgMaChine
 URL:https://www.twitch.tv/tastelesstv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260724T132000Z
+UID:pandascore-match-1601279@esport-ics
+DTSTART:20260724T132000Z
+DTEND:20260724T153500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group D\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:MaNa vs ByuN
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T140000Z
+UID:pandascore-match-1601280@esport-ics
+DTSTART:20260724T140000Z
+DTEND:20260724T161500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group D\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:herO vs ByuN
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T152000Z
+UID:pandascore-match-1601282@esport-ics
+DTSTART:20260724T152000Z
+DTEND:20260724T173500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group D\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:ByuN vs Rogue
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260726T090000Z
 UID:pandascore-match-1595613@esport-ics
 DTSTART:20260726T090000Z

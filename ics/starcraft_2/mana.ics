@@ -80,6 +80,39 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Group Stage 1 - Group B\nW
  atch: https://www.twitch.tv/wardiii
 SUMMARY:trigger vs MaNa
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T120000Z
+UID:pandascore-match-1601277@esport-ics
+DTSTART:20260724T120000Z
+DTEND:20260724T141500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group D\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:MaNa vs herO
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T124000Z
+UID:pandascore-match-1601278@esport-ics
+DTSTART:20260724T124000Z
+DTEND:20260724T145500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group D\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:MaNa vs Rogue
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T132000Z
+UID:pandascore-match-1601279@esport-ics
+DTSTART:20260724T132000Z
+DTEND:20260724T153500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group D\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:MaNa vs ByuN
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

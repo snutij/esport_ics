@@ -102,6 +102,28 @@ CLASS:PUBLIC
 DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
  .twitch.tv/teamtskofficiel
 SUMMARY:LIL vs PCS
+URL:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T100000Z
+UID:pandascore-match-1590174@esport-ics
+DTSTART:20260725T100000Z
+DTEND:20260725T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/teamtskofficiel
+SUMMARY:AO vs LIL
+URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T140000Z
+UID:pandascore-match-1590183@esport-ics
+DTSTART:20260726T140000Z
+DTEND:20260726T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/teamtskofficiel
+SUMMARY:LIL vs CLA
 URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
 END:VEVENT
 END:VCALENDAR

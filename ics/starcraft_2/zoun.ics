@@ -364,7 +364,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/wardiii
 SUMMARY:Lower bracket round 2 match 1: Zoun vs SHIN
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260621T110000Z
@@ -375,6 +375,39 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Spring 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/wardiii
 SUMMARY:Lower bracket quarterfinal 1: Classic vs Zoun
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T120000Z
+UID:pandascore-match-1601271@esport-ics
+DTSTART:20260723T120000Z
+DTEND:20260723T141500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group C\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:Zoun vs Krystianer
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T132000Z
+UID:pandascore-match-1601273@esport-ics
+DTSTART:20260723T132000Z
+DTEND:20260723T153500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group C\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:Mixu vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T144000Z
+UID:pandascore-match-1601275@esport-ics
+DTSTART:20260723T144000Z
+DTEND:20260723T165500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group C\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:Cure vs Zoun
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

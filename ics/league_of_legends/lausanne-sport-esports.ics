@@ -25,6 +25,28 @@ CLASS:PUBLIC
 DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
  .twitch.tv/teamtskofficiel
 SUMMARY:ELS vs KCBS
+URL:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T110000Z
+UID:pandascore-match-1590175@esport-ics
+DTSTART:20260725T110000Z
+DTEND:20260725T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/teamtskofficiel
+SUMMARY:PCS vs ELS
+URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T110000Z
+UID:pandascore-match-1590180@esport-ics
+DTSTART:20260726T110000Z
+DTEND:20260726T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/teamtskofficiel
+SUMMARY:ELS vs AO
 URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
 END:VEVENT
 END:VCALENDAR

@@ -434,6 +434,39 @@ SUMMARY:SHIN vs herO
 URL:https://www.twitch.tv/tastelesstv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260724T120000Z
+UID:pandascore-match-1601277@esport-ics
+DTSTART:20260724T120000Z
+DTEND:20260724T141500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group D\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:MaNa vs herO
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T140000Z
+UID:pandascore-match-1601280@esport-ics
+DTSTART:20260724T140000Z
+DTEND:20260724T161500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group D\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:herO vs ByuN
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T144000Z
+UID:pandascore-match-1601281@esport-ics
+DTSTART:20260724T144000Z
+DTEND:20260724T165500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group D\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:herO vs Rogue
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260725T101500Z
 UID:pandascore-match-1595615@esport-ics
 DTSTART:20260725T101500Z

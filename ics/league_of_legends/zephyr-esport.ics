@@ -25,6 +25,28 @@ CLASS:PUBLIC
 DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
  .twitch.tv/teamtskofficiel
 SUMMARY:ZPR vs THG
+URL:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T140000Z
+UID:pandascore-match-1590178@esport-ics
+DTSTART:20260725T140000Z
+DTEND:20260725T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/teamtskofficiel
+SUMMARY:KCBS vs ZPR
+URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T100000Z
+UID:pandascore-match-1590179@esport-ics
+DTSTART:20260726T100000Z
+DTEND:20260726T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/teamtskofficiel
+SUMMARY:ZPR vs PCS
 URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
 END:VEVENT
 END:VCALENDAR

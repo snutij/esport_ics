@@ -76,6 +76,15 @@ CLASS:PUBLIC
 DESCRIPTION:Equal eSports Cup - 2026 - Lucky Losers Group\nWatch: https://w
  ww.twitch.tv/equalesportsgg
 SUMMARY:Solary Eclipse vs BCEB
-URL;VALUE=URI:https://www.twitch.tv/equalesportsgg
+URL:https://www.twitch.tv/equalesportsgg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T183000Z
+UID:pandascore-match-1575356@esport-ics
+DTSTART:20260729T183000Z
+DTEND:20260729T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Equal eSports Cup - 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: TBD vs BCEB
 END:VEVENT
 END:VCALENDAR

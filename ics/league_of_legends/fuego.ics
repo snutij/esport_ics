@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:LRN - Split 2 2026 - Regular season\nWatch: https://www.twitch.
  tv/lolacelatam
 SUMMARY:PLS vs FUE
+URL:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T230000Z
+UID:pandascore-match-1601262@esport-ics
+DTSTART:20260727T230000Z
+DTEND:20260728T024500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ acelatam
+SUMMARY:Upper bracket semifinal 1: FUE vs KITS
 URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR

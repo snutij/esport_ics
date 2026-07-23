@@ -201,6 +201,39 @@ CLASS:PUBLIC
 DESCRIPTION:HomeStory Cup - XXIX 2026 - Playoffs\nWatch: https://www.twitch
  .tv/taketv
 SUMMARY:Upper bracket quarterfinal 3: Clem vs Krystianer
-URL;VALUE=URI:https://www.twitch.tv/taketv
+URL:https://www.twitch.tv/taketv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T120000Z
+UID:pandascore-match-1601271@esport-ics
+DTSTART:20260723T120000Z
+DTEND:20260723T141500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group C\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:Zoun vs Krystianer
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T124000Z
+UID:pandascore-match-1601272@esport-ics
+DTSTART:20260723T124000Z
+DTEND:20260723T145500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group C\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:Mixu vs Krystianer
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T152000Z
+UID:pandascore-match-1601276@esport-ics
+DTSTART:20260723T152000Z
+DTEND:20260723T173500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Group C\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:Cure vs Krystianer
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR
