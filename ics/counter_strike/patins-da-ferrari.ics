@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 4 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 3: PDAF vs ODK
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T220000Z
+UID:pandascore-match-1580357@esport-ics
+DTSTART:20260723T220000Z
+DTEND:20260724T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 4 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs3
+SUMMARY:Round of 16 match 4: ISG vs PDAF
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
