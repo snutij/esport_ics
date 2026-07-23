@@ -354,6 +354,17 @@ SUMMARY:Upper bracket quarterfinal 4: TS vs IGN
 URL:https://www.youtube.com/watch?v=Q6hD8it8Yng
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260724T103000Z
+UID:pandascore-match-1602197@esport-ics
+DTSTART:20260724T103000Z
+DTEND:20260724T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Group A\nWatch: https://www.twitch.tv/l
+ ckclchallengersleague
+SUMMARY:Upper bracket semifinal 2: VAM vs TS
+URL;VALUE=URI:https://www.twitch.tv/lckclchallengersleague
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260822T110000Z
 UID:pandascore-match-1547965@esport-ics
 DTSTART:20260822T110000Z

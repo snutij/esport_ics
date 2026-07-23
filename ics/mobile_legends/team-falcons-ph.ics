@@ -212,6 +212,17 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Group A\nWatch: https://www.youtube.com
  /watch?v=Q6hD8it8Yng
 SUMMARY:Upper bracket quarterfinal 2: Team Falcons PH vs GG
-URL;VALUE=URI:https://www.youtube.com/watch?v=Q6hD8it8Yng
+URL:https://www.youtube.com/watch?v=Q6hD8it8Yng
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T120000Z
+UID:pandascore-match-1602196@esport-ics
+DTSTART:20260724T120000Z
+DTEND:20260724T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Group A\nWatch: https://www.twitch.tv/l
+ ckclchallengersleague
+SUMMARY:Upper bracket semifinal 1: VIT vs Team Falcons PH
+URL;VALUE=URI:https://www.twitch.tv/lckclchallengersleague
 END:VEVENT
 END:VCALENDAR

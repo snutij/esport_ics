@@ -229,6 +229,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - China Stage 2 2026 - Group Alpha\nWatch: https://www.twit
  ch.tv/valorantesports_cn
 SUMMARY:FPX vs EDG
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T090000Z
+UID:pandascore-match-1562302@esport-ics
+DTSTART:20260726T090000Z
+DTEND:20260726T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 2 2026 - Seed Deciders\nWatch: https://www.tw
+ itch.tv/valorantesports_cn
+SUMMARY:Seeding match 4: FPX vs WOL
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR
