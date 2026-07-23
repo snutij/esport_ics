@@ -885,6 +885,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 4 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs3
 SUMMARY:Round of 16 match 2: FX vs paiN.A
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T190000Z
+UID:pandascore-match-1602200@esport-ics
+DTSTART:20260727T190000Z
+DTEND:20260727T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - July 2026 - Group D
+SUMMARY:Winners match: ODK vs paiN.A
 END:VEVENT
 END:VCALENDAR
