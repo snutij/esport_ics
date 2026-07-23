@@ -619,10 +619,10 @@ SUMMARY:Nemiga vs Team AION
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260723T213000Z
+DTSTAMP:20260723T223000Z
 UID:pandascore-match-1591160@esport-ics
-DTSTART:20260723T213000Z
-DTEND:20260723T234500Z
+DTSTART:20260723T223000Z
+DTEND:20260724T004500Z
 CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
  pldota_en2
@@ -639,5 +639,16 @@ DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
  pldota_en2
 SUMMARY:Nemiga vs LVLUP
 URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T130000Z
+UID:pandascore-match-1602275@esport-ics
+DTSTART:20260725T130000Z
+DTEND:20260725T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Paragon Turbina - 2026 - Group A\nWatch: https://www.twitch.tv/
+ dota2_paragon_ru
+SUMMARY:YeS vs Nemiga
+URL;VALUE=URI:https://www.twitch.tv/dota2_paragon_ru
 END:VEVENT
 END:VCALENDAR

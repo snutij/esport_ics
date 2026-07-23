@@ -497,6 +497,17 @@ SUMMARY:Lower bracket semifinal 1: NGX vs YeS
 URL:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260725T130000Z
+UID:pandascore-match-1602275@esport-ics
+DTSTART:20260725T130000Z
+DTEND:20260725T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Paragon Turbina - 2026 - Group A\nWatch: https://www.twitch.tv/
+ dota2_paragon_ru
+SUMMARY:YeS vs Nemiga
+URL;VALUE=URI:https://www.twitch.tv/dota2_paragon_ru
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260731T050000Z
 UID:pandascore-match-1583144@esport-ics
 DTSTART:20260731T050000Z
