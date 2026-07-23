@@ -854,6 +854,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom RUSH B! - Summit season 4 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/btsbrasilfps
 SUMMARY:Lower bracket final: BHE vs IMP
-URL;VALUE=URI:https://www.twitch.tv/btsbrasilfps
+URL:https://www.twitch.tv/btsbrasilfps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260724T160000Z
+UID:pandascore-match-1580359@esport-ics
+DTSTART:20260724T160000Z
+DTEND:20260724T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 4 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs3
+SUMMARY:Round of 16 match 6: BHE vs ODK
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
