@@ -416,4 +416,13 @@ DESCRIPTION:CCT South America - Series 4 2026 - Playoffs\nWatch: https://ki
 SUMMARY:Round of 16 match 7: Keyd vs ALKA
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T210000Z
+UID:pandascore-match-1601543@esport-ics
+DTSTART:20260728T210000Z
+DTEND:20260728T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - July 2026 - Group A
+SUMMARY:Winners match: ALKA vs QUIN
+END:VEVENT
 END:VCALENDAR
