@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - APAC North - Stage 1 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/rainbow6
 SUMMARY:Grand final: CAG vs TBD
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T010000Z
+UID:pandascore-match-1602865@esport-ics
+DTSTART:20260805T010000Z
+DTEND:20260805T014500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Play-In Group B\nWatch: https://www.
+ twitch.tv/rainbow6
+SUMMARY:Upper bracket semifinal 1: CAG vs FNC
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

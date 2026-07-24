@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Trainwrecks eSports
+SLUG:trainwrecks-esports
+BEGIN:VEVENT
+DTSTAMP:20260731T080000Z
+UID:pandascore-match-1602990@esport-ics
+DTSTART:20260731T080000Z
+DTEND:20260731T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #1 2026 - Group B\nWatch: https://www.t
+ witch.tv/elisaviihdesport
+SUMMARY:Round 1: HAVU vs Trainwrecks eSports
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T140000Z
+UID:pandascore-match-1602993@esport-ics
+DTSTART:20260731T140000Z
+DTEND:20260731T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #1 2026 - Group B\nWatch: https://www.t
+ witch.tv/elisaviihdesport
+SUMMARY:Round 2: RGG vs Trainwrecks eSports
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T160000Z
+UID:pandascore-match-1602994@esport-ics
+DTSTART:20260731T160000Z
+DTEND:20260731T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #1 2026 - Group B\nWatch: https://www.t
+ witch.tv/elisaviihdesport
+SUMMARY:Round 3: BCG vs Trainwrecks eSports
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+END:VCALENDAR

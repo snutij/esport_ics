@@ -729,6 +729,39 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 51 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: ex-MANA vs KSM
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T080000Z
+UID:pandascore-match-1602901@esport-ics
+DTSTART:20260730T080000Z
+DTEND:20260730T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #1 2026 - Group A\nWatch: https://www.t
+ witch.tv/elisaviihdesport
+SUMMARY:Round 1: KSM vs SINQU
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T120000Z
+UID:pandascore-match-1602923@esport-ics
+DTSTART:20260730T120000Z
+DTEND:20260730T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #1 2026 - Group A\nWatch: https://www.t
+ witch.tv/elisaviihdesport
+SUMMARY:Round 2: KSM vs BJNG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T180000Z
+UID:pandascore-match-1602957@esport-ics
+DTSTART:20260730T180000Z
+DTEND:20260730T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #1 2026 - Group A\nWatch: https://www.t
+ witch.tv/elisaviihdesport
+SUMMARY:Round 3: ENCE vs KSM
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 END:VCALENDAR

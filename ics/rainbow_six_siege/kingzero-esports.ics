@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/esix_france
 SUMMARY:Lower bracket semifinal: KZ vs AG
-URL;VALUE=URI:https://www.twitch.tv/esix_france
+URL:https://www.twitch.tv/esix_france
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T023000Z
+UID:pandascore-match-1602866@esport-ics
+DTSTART:20260805T023000Z
+DTEND:20260805T031500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Play-In Group B\nWatch: https://www.
+ twitch.tv/rainbow6
+SUMMARY:Upper bracket semifinal 2: MIBR.LOS vs KZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
