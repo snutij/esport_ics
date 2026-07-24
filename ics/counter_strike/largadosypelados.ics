@@ -874,7 +874,18 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 4 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs3
 SUMMARY:Round of 16 match 1: LDP vs MAG
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T180000Z
+UID:pandascore-match-1603924@esport-ics
+DTSTART:20260728T180000Z
+DTEND:20260728T201500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - South American Qualifier Fall 2026 - Pl
+ ayoffs\nWatch: https://kick.com/starladder1
+SUMMARY:Upper bracket quarterfinals match 2: BHE vs LDP
+URL;VALUE=URI:https://kick.com/starladder1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260728T180000Z

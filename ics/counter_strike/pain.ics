@@ -432,6 +432,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
  ch.tv/BLASTPremier
 SUMMARY:Round of 32 match 13: M8 vs paiN
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T100000Z
+UID:pandascore-match-1592776@esport-ics
+DTSTART:20260726T100000Z
+DTEND:20260726T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
+ ch.tv/BLASTPremier
+SUMMARY:Round of 16 match 5: NIP vs paiN
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

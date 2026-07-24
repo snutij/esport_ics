@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
  ch.tv/BLASTPremier
 SUMMARY:Round of 32 match 9: DENDELE CS vs FURIA
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T100000Z
+UID:pandascore-match-1592770@esport-ics
+DTSTART:20260725T100000Z
+DTEND:20260725T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
+ ch.tv/BLASTPremier
+SUMMARY:Round of 16 match 1: DENDELE CS vs FaZe
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

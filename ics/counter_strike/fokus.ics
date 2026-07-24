@@ -633,6 +633,17 @@ CLASS:PUBLIC
 DESCRIPTION:StarLadder StarSeries - European Qualifier Fall 2026 - Group B\
  nWatch: https://kick.com/starladder
 SUMMARY:Elimination match: HERO vs FOKUS
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T173000Z
+UID:pandascore-match-1592773@esport-ics
+DTSTART:20260725T173000Z
+DTEND:20260725T194500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
+ ch.tv/BLASTPremier
+SUMMARY:Round of 16 match 4: FOKUS vs MOUZ
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR
