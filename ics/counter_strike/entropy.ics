@@ -520,6 +520,17 @@ SUMMARY:Winners match: Entropy vs NV
 URL:https://www.twitch.tv/betboom_cs_ru4
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260725T110000Z
+UID:pandascore-match-1587533@esport-ics
+DTSTART:20260725T110000Z
+DTEND:20260725T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #5 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs
+SUMMARY:Round 3: LK vs Entropy
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260727T080000Z
 UID:pandascore-match-1600641@esport-ics
 DTSTART:20260727T080000Z
