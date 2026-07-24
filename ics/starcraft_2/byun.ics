@@ -332,7 +332,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Cup Summer 2026 - Group D\nWatch: https://www.twitch.
  tv/wardiii
 SUMMARY:MaNa vs ByuN
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260724T140000Z
@@ -343,13 +343,13 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Cup Summer 2026 - Group D\nWatch: https://www.twitch.
  tv/wardiii
 SUMMARY:herO vs ByuN
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260724T152000Z
+DTSTAMP:20260724T143500Z
 UID:pandascore-match-1601282@esport-ics
-DTSTART:20260724T152000Z
-DTEND:20260724T173500Z
+DTSTART:20260724T143500Z
+DTEND:20260724T165000Z
 CLASS:PUBLIC
 DESCRIPTION:WardiTV - Cup Summer 2026 - Group D\nWatch: https://www.twitch.
  tv/wardiii
