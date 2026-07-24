@@ -168,6 +168,39 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
  /otplol_
 SUMMARY:SC vs ES
+URL:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T170000Z
+UID:pandascore-match-1603910@esport-ics
+DTSTART:20260728T170000Z
+DTEND:20260728T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
+ /otplol_
+SUMMARY:ZYB vs ES
+URL;VALUE=URI:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T180000Z
+UID:pandascore-match-1603916@esport-ics
+DTSTART:20260729T180000Z
+DTEND:20260729T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
+ /otplol_
+SUMMARY:SLY vs ES
+URL;VALUE=URI:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T200000Z
+UID:pandascore-match-1603923@esport-ics
+DTSTART:20260730T200000Z
+DTEND:20260730T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
+ /otplol_
+SUMMARY:TLNP vs ES
 URL;VALUE=URI:http://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR
