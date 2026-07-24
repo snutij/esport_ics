@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:Round 1: DEER vs 2 Massive
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T160000Z
+UID:pandascore-match-1597207@esport-ics
+DTSTART:20260727T160000Z
+DTEND:20260727T181500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:Round 2: DEER vs EA
 URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR

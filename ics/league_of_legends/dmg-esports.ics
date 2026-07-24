@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:Round 1: DMG vs EA
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T180000Z
+UID:pandascore-match-1597213@esport-ics
+DTSTART:20260729T180000Z
+DTEND:20260729T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:Round 2: DMG vs 2M
 URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR
