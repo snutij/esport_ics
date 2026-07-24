@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Group B\nWatch: https://www.youtube.com
  /watch?v=KEyCQP_bJso
 SUMMARY:Upper bracket quarterfinal 3: ONIC vs E7
-URL;VALUE=URI:https://www.youtube.com/watch?v=KEyCQP_bJso
+URL:https://www.youtube.com/watch?v=KEyCQP_bJso
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T133000Z
+UID:pandascore-match-1602816@esport-ics
+DTSTART:20260725T133000Z
+DTEND:20260725T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Group B\nWatch: https://www.twitch.tv/l
+ ckclchallengersleague
+SUMMARY: Lower bracket quarterfinal 2: E7 vs TLPH
+URL;VALUE=URI:https://www.twitch.tv/lckclchallengersleague
 END:VEVENT
 END:VCALENDAR
