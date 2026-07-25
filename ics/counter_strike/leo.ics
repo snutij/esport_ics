@@ -99,8 +99,10 @@ UID:pandascore-match-1596443@esport-ics
 DTSTART:20260727T153000Z
 DTEND:20260727T161500Z
 CLASS:PUBLIC
-DESCRIPTION:Urban Riga - Open #6 2026 - Group B
+DESCRIPTION:Urban Riga - Open #6 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
 SUMMARY:Round 1: MOUZ.N vs LEO
+URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260727T163000Z
@@ -108,8 +110,10 @@ UID:pandascore-match-1596445@esport-ics
 DTSTART:20260727T163000Z
 DTEND:20260727T171500Z
 CLASS:PUBLIC
-DESCRIPTION:Urban Riga - Open #6 2026 - Group B
+DESCRIPTION:Urban Riga - Open #6 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
 SUMMARY:Round 2: NAVI.J vs LEO
+URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260727T173000Z
@@ -117,7 +121,9 @@ UID:pandascore-match-1596447@esport-ics
 DTSTART:20260727T173000Z
 DTEND:20260727T181500Z
 CLASS:PUBLIC
-DESCRIPTION:Urban Riga - Open #6 2026 - Group B
+DESCRIPTION:Urban Riga - Open #6 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
 SUMMARY:Round 3: BRUTE vs LEO
+URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR
