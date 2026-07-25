@@ -450,6 +450,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Quarterfinal 2: ARC vs 1WIN
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T060000Z
+UID:pandascore-match-1604774@esport-ics
+DTSTART:20260727T060000Z
+DTEND:20260727T081500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 6 2026 - Group A\nWatch: https://
+ www.twitch.tv/MPKBK
+SUMMARY:ARC vs TF
+URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 END:VCALENDAR
