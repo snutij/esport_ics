@@ -604,7 +604,7 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
  ch.tv/BLASTPremier
 SUMMARY:Round of 16 match 3: HOTU vs AST
-URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+URL:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260726T130000Z
@@ -614,7 +614,7 @@ DTEND:20260726T151500Z
 CLASS:PUBLIC
 DESCRIPTION:StarLadder StarSeries - European Qualifier Fall 2026 - Play-In\
  nWatch: https://kick.com/starladder
-SUMMARY:Semifinal 1: HOTU vs TBD
+SUMMARY:Semifinal 1: AUR vs HOTU
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
