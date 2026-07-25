@@ -208,7 +208,7 @@ CLASS:PUBLIC
 DESCRIPTION:Paragon Turbina - 2026 - Group A\nWatch: https://www.twitch.tv/
  dota2_paragon_ru
 SUMMARY:LVLUP vs TS.A
-URL;VALUE=URI:https://www.twitch.tv/dota2_paragon_ru
+URL:https://www.twitch.tv/dota2_paragon_ru
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260725T130000Z
@@ -219,6 +219,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Play-In 2026 - Group B\nWatch: https://kick.com/e
  pldota_en2
 SUMMARY:DAN vs LVLUP
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T143000Z
+UID:pandascore-match-1602277@esport-ics
+DTSTART:20260725T143000Z
+DTEND:20260725T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Paragon Turbina - 2026 - Group A\nWatch: https://www.twitch.tv/
+ dota2_paragon_ru
+SUMMARY:Elimination match: Nemiga vs LVLUP
+URL;VALUE=URI:https://www.twitch.tv/dota2_paragon_ru
 END:VEVENT
 END:VCALENDAR

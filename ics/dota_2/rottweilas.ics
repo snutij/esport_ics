@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Paragon Turbina - 2026 - Group B\nWatch: https://www.twitch.tv/
  dota2_paragon_ru
 SUMMARY:Z10 vs Rottweilas
+URL:https://www.twitch.tv/dota2_paragon_ru
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T143000Z
+UID:pandascore-match-1602282@esport-ics
+DTSTART:20260725T143000Z
+DTEND:20260725T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Paragon Turbina - 2026 - Group B\nWatch: https://www.twitch.tv/
+ dota2_paragon_ru
+SUMMARY:Elimination match: Rottweilas vs STX
 URL;VALUE=URI:https://www.twitch.tv/dota2_paragon_ru
 END:VEVENT
 END:VCALENDAR
