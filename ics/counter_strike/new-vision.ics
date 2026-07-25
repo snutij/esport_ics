@@ -453,4 +453,15 @@ DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Grou
 SUMMARY:Elimination match: NV vs ex-MANA
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T140000Z
+UID:pandascore-match-1596746@esport-ics
+DTSTART:20260726T140000Z
+DTEND:20260726T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #6 2026 - Play-In\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:QUA vs NV
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
