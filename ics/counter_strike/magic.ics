@@ -498,6 +498,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
  ch.tv/BLASTPremier
 SUMMARY:Round of 32 match 12: MGC vs 3DMAX
-URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T140000Z
+UID:pandascore-match-1596468@esport-ics
+DTSTART:20260725T140000Z
+DTEND:20260725T161500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - European Qualifier Fall 2026 - Play-In\
+ nWatch: https://kick.com/starladder
+SUMMARY:Quarterfinal 3: MGC vs M8
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

@@ -585,6 +585,17 @@ SUMMARY:Round of 32 match 7: HOTU vs GL
 URL:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260725T110000Z
+UID:pandascore-match-1596466@esport-ics
+DTSTART:20260725T110000Z
+DTEND:20260725T131500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - European Qualifier Fall 2026 - Play-In\
+ nWatch: https://kick.com/starladder
+SUMMARY:Quarterfinal 1: HOTU vs INF
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260725T150000Z
 UID:pandascore-match-1592772@esport-ics
 DTSTART:20260725T150000Z

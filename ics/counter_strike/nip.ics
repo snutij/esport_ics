@@ -501,6 +501,17 @@ SUMMARY:Winners match: NIP vs ECHO
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260725T160000Z
+UID:pandascore-match-1596469@esport-ics
+DTSTART:20260725T160000Z
+DTEND:20260725T181500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - European Qualifier Fall 2026 - Play-In\
+ nWatch: https://kick.com/starladder
+SUMMARY:Quarterfinal 4: NIP vs HERO
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260726T100000Z
 UID:pandascore-match-1592776@esport-ics
 DTSTART:20260726T100000Z
