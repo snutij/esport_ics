@@ -223,6 +223,15 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Group A\nWatch: https://www.youtube.com
  /watch?v=ixSaWuGYRSo
 SUMMARY:Upper bracket semifinal 1: VIT vs Team Falcons PH
-URL;VALUE=URI:https://www.youtube.com/watch?v=ixSaWuGYRSo
+URL:https://www.youtube.com/watch?v=ixSaWuGYRSo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T133000Z
+UID:pandascore-match-1605605@esport-ics
+DTSTART:20260726T133000Z
+DTEND:20260726T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Group A
+SUMMARY:Lower bracket semifinal 2: FAL vs Team Falcons PH
 END:VEVENT
 END:VCALENDAR

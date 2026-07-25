@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Group B\nWatch: https://www.youtube.com
  /watch?v=sTNT13491Q4
 SUMMARY:Upper bracket semifinal 1: YG vs PRO
-URL;VALUE=URI:https://www.youtube.com/watch?v=sTNT13491Q4
+URL:https://www.youtube.com/watch?v=sTNT13491Q4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T103000Z
+UID:pandascore-match-1605606@esport-ics
+DTSTART:20260726T103000Z
+DTEND:20260726T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Group B\nWatch: https://www.twitch.tv/l
+ ckclchallengersleague
+SUMMARY:Lower bracket semifinal 1: PRO vs E7
+URL;VALUE=URI:https://www.twitch.tv/lckclchallengersleague
 END:VEVENT
 END:VCALENDAR

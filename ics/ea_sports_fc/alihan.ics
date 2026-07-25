@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:eChampions League - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/easportsfc
 SUMMARY:Quarterfinal 3: Nassada vs Alihan
-URL;VALUE=URI:https://www.twitch.tv/easportsfc
+URL:https://www.twitch.tv/easportsfc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T124000Z
+UID:pandascore-match-1605626@esport-ics
+DTSTART:20260726T124000Z
+DTEND:20260726T132500Z
+CLASS:PUBLIC
+DESCRIPTION:FC Pro World Championship - 2026 - Knockout Stage
+SUMMARY:Quarterfinal 3: Alihan vs RvPLegend10
 END:VEVENT
 END:VCALENDAR

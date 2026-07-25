@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:eChampions League - 2026 - Knockout Stage\nWatch: https://www.t
  witch.tv/easportsfc
 SUMMARY:Round 1 match 5: GugaFerraz vs Bonanno
-URL;VALUE=URI:https://www.twitch.tv/easportsfc
+URL:https://www.twitch.tv/easportsfc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260726T110000Z
+UID:pandascore-match-1605624@esport-ics
+DTSTART:20260726T110000Z
+DTEND:20260726T114500Z
+CLASS:PUBLIC
+DESCRIPTION:FC Pro World Championship - 2026 - Knockout Stage
+SUMMARY:Quarterfinal 1: Bonanno vs HHEzerS
 END:VEVENT
 END:VCALENDAR
