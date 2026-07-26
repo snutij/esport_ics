@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:VooDooSh Team
+SLUG:voodoosh-team
+BEGIN:VEVENT
+DTSTAMP:20260727T180000Z
+UID:pandascore-match-1607227@esport-ics
+DTSTART:20260727T180000Z
+DTEND:20260727T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:VDS vs AVI
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T150000Z
+UID:pandascore-match-1607230@esport-ics
+DTSTART:20260728T150000Z
+DTEND:20260728T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:VDS vs DXK
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T120000Z
+UID:pandascore-match-1607232@esport-ics
+DTSTART:20260729T120000Z
+DTEND:20260729T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:YBN vs VDS
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+END:VCALENDAR

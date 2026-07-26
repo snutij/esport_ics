@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:avice Team
+SLUG:avice-team
+BEGIN:VEVENT
+DTSTAMP:20260727T180000Z
+UID:pandascore-match-1607227@esport-ics
+DTSTART:20260727T180000Z
+DTEND:20260727T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:VDS vs AVI
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T180000Z
+UID:pandascore-match-1607231@esport-ics
+DTSTART:20260728T180000Z
+DTEND:20260728T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:YBN vs AVI
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T150000Z
+UID:pandascore-match-1607236@esport-ics
+DTSTART:20260730T150000Z
+DTEND:20260730T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:AVI vs DXK
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+END:VCALENDAR

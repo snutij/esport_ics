@@ -151,6 +151,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Split 3 2026 - Group Stage\nWatch: https://www.twitch.tv/
  lolpacificen
 SUMMARY:Round 1: CFO vs DCG
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T113000Z
+UID:pandascore-match-1602791@esport-ics
+DTSTART:20260731T113000Z
+DTEND:20260731T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 3 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolpacificen
+SUMMARY:Round 2: CFO vs GAM
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR

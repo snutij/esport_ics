@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NS Team
+SLUG:ns-team
+BEGIN:VEVENT
+DTSTAMP:20260727T150000Z
+UID:pandascore-match-1607225@esport-ics
+DTSTART:20260727T150000Z
+DTEND:20260727T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:NS vs RT
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T120000Z
+UID:pandascore-match-1607228@esport-ics
+DTSTART:20260728T120000Z
+DTEND:20260728T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:NS vs TT
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T150000Z
+UID:pandascore-match-1607233@esport-ics
+DTSTART:20260729T150000Z
+DTEND:20260729T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:NS vs Stray
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+END:VCALENDAR
