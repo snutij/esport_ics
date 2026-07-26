@@ -64,8 +64,10 @@ UID:pandascore-match-1606248@esport-ics
 DTSTART:20260727T180000Z
 DTEND:20260727T201500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 1 2026 - Group B
+DESCRIPTION:EPL Masters - Season 1 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:Bald vs KW
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260728T120000Z
@@ -73,7 +75,42 @@ UID:pandascore-match-1606250@esport-ics
 DTSTART:20260728T120000Z
 DTEND:20260728T141500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 1 2026 - Group B
+DESCRIPTION:EPL Masters - Season 1 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:Bald vs LVLUP
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T120000Z
+UID:pandascore-match-1606262@esport-ics
+DTSTART:20260806T120000Z
+DTEND:20260806T141500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
+SUMMARY:RE.Arise vs Bald
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T150000Z
+UID:pandascore-match-1606263@esport-ics
+DTSTART:20260806T150000Z
+DTEND:20260806T171500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
+SUMMARY:Bald vs PckCp
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T090000Z
+UID:pandascore-match-1606265@esport-ics
+DTSTART:20260807T090000Z
+DTEND:20260807T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
+SUMMARY:Bald vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

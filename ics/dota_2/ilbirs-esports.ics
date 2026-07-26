@@ -531,7 +531,42 @@ UID:pandascore-match-1606247@esport-ics
 DTSTART:20260727T150000Z
 DTEND:20260727T171500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 1 2026 - Group A
+DESCRIPTION:EPL Masters - Season 1 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:Team Jenz vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T180000Z
+UID:pandascore-match-1606260@esport-ics
+DTSTART:20260730T180000Z
+DTEND:20260730T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
+SUMMARY:Amaru Gaming vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T180000Z
+UID:pandascore-match-1606264@esport-ics
+DTSTART:20260806T180000Z
+DTEND:20260806T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
+SUMMARY:PR vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T120000Z
+UID:pandascore-match-1606266@esport-ics
+DTSTART:20260807T120000Z
+DTEND:20260807T141500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
+SUMMARY:ILL vs STX
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

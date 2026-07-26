@@ -234,6 +234,17 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Group A\nWatch: https://www.youtube.com
  /watch?v=ixSaWuGYRSo
 SUMMARY:Upper bracket semifinal 2: VAM vs TS
-URL;VALUE=URI:https://www.youtube.com/watch?v=ixSaWuGYRSo
+URL:https://www.youtube.com/watch?v=ixSaWuGYRSo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T100000Z
+UID:pandascore-match-1606271@esport-ics
+DTSTART:20260729T100000Z
+DTEND:20260729T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Mid Season Cup - 2026 - Playoffs\nWatch: https://www.youtube.co
+ m/@mlbbesportsofficial/streams
+SUMMARY:Quarterfinal 1: VAM vs TBD
+URL;VALUE=URI:https://www.youtube.com/@mlbbesportsofficial/streams
 END:VEVENT
 END:VCALENDAR

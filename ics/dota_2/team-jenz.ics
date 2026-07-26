@@ -75,8 +75,10 @@ UID:pandascore-match-1606247@esport-ics
 DTSTART:20260727T150000Z
 DTEND:20260727T171500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 1 2026 - Group A
+DESCRIPTION:EPL Masters - Season 1 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:Team Jenz vs ILL
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260728T180000Z
@@ -84,7 +86,31 @@ UID:pandascore-match-1606252@esport-ics
 DTSTART:20260728T180000Z
 DTEND:20260728T201500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 1 2026 - Group A
+DESCRIPTION:EPL Masters - Season 1 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:Amaru Gaming vs Team Jenz
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T150000Z
+UID:pandascore-match-1606267@esport-ics
+DTSTART:20260807T150000Z
+DTEND:20260807T171500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
+SUMMARY:PR vs Team Jenz
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T180000Z
+UID:pandascore-match-1606268@esport-ics
+DTSTART:20260807T180000Z
+DTEND:20260807T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
+SUMMARY:Team Jenz vs Nemiga
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
