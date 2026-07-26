@@ -56,6 +56,24 @@ CLASS:PUBLIC
 DESCRIPTION:The International - Europe Closed Qualifier 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Lower bracket round 2 match 1: PR vs Bald
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T180000Z
+UID:pandascore-match-1606248@esport-ics
+DTSTART:20260727T180000Z
+DTEND:20260727T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Group B
+SUMMARY:Bald vs KW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T120000Z
+UID:pandascore-match-1606250@esport-ics
+DTSTART:20260728T120000Z
+DTEND:20260728T141500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Group B
+SUMMARY:Bald vs LVLUP
 END:VEVENT
 END:VCALENDAR
