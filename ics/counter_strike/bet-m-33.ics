@@ -310,6 +310,17 @@ SUMMARY:Round 2: G1 vs 33
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260728T080000Z
+UID:pandascore-match-1582167@esport-ics
+DTSTART:20260728T080000Z
+DTEND:20260728T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 3: 33 vs Honvéd
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260728T150000Z
 UID:pandascore-match-1605009@esport-ics
 DTSTART:20260728T150000Z

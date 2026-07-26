@@ -749,6 +749,17 @@ SUMMARY:Round 3: EAC vs Atreides
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260727T080000Z
+UID:pandascore-match-1582163@esport-ics
+DTSTART:20260727T080000Z
+DTEND:20260727T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 3: INOX vs Atreides
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260727T170000Z
 UID:pandascore-match-1596476@esport-ics
 DTSTART:20260727T170000Z
@@ -758,5 +769,16 @@ DESCRIPTION:CCT Europe - Series #6 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs2
 SUMMARY:Round 1: Atreides vs Mai Tai
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T110000Z
+UID:pandascore-match-1587544@esport-ics
+DTSTART:20260728T110000Z
+DTEND:20260728T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #5 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs
+SUMMARY:Round 4: Atreides vs ex-RUSTEC
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
