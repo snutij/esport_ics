@@ -462,6 +462,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #6 2026 - Play-In\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:QUA vs NV
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T140000Z
+UID:pandascore-match-1596479@esport-ics
+DTSTART:20260728T140000Z
+DTEND:20260728T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #6 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 1: G1 vs NV
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

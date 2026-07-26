@@ -892,4 +892,15 @@ DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Grou
 SUMMARY:UNiTY vs Mai Tai
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T170000Z
+UID:pandascore-match-1596480@esport-ics
+DTSTART:20260728T170000Z
+DTEND:20260728T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #6 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 1: LK vs UNiTY
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
