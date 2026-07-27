@@ -893,6 +893,17 @@ SUMMARY:UNiTY vs Mai Tai
 URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260728T140000Z
+UID:pandascore-match-1600644@esport-ics
+DTSTART:20260728T140000Z
+DTEND:20260728T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Grou
+ p C\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Winners match: ex-RUSTEC vs UNiTY
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260728T170000Z
 UID:pandascore-match-1596480@esport-ics
 DTSTART:20260728T170000Z

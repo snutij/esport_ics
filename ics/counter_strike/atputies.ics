@@ -145,7 +145,7 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #6 2026 - Group A\nWatch: https://www.twitch.
  tv/kleverrgg
 SUMMARY:Round 2: Noir Verse vs Atputies
-URL;VALUE=URI:https://www.twitch.tv/kleverrgg
+URL:https://www.twitch.tv/kleverrgg
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260727T130000Z
@@ -156,7 +156,7 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #6 2026 - Group A\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:Round 3: ASTR vs Atputies
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260801T100000Z

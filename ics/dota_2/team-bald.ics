@@ -89,7 +89,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 1 2026 - Group B\nWatch: https://kick.com/
  epldota_en2
 SUMMARY:RE.Arise vs Bald
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260806T150000Z
@@ -100,7 +100,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 1 2026 - Group B\nWatch: https://kick.com/
  epldota_en2
 SUMMARY:Bald vs PckCp
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260807T090000Z
@@ -111,6 +111,6 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 1 2026 - Group B\nWatch: https://kick.com/
  epldota_en2
 SUMMARY:Bald vs Z10
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

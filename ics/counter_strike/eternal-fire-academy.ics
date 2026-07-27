@@ -353,6 +353,17 @@ CLASS:PUBLIC
 DESCRIPTION:TESFED League - Season 3 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/TESFED
 SUMMARY:Lower bracket round 1 match  2: BW vs EF.A
-URL;VALUE=URI:https://www.twitch.tv/TESFED
+URL:https://www.twitch.tv/TESFED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T080000Z
+UID:pandascore-match-1608571@esport-ics
+DTSTART:20260730T080000Z
+DTEND:20260730T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 53 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:EAC Rising vs EF.A
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

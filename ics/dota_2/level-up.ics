@@ -287,4 +287,15 @@ DESCRIPTION:EPL Masters - Season 1 2026 - Group B\nWatch: https://kick.com/
 SUMMARY:RE.Arise vs LVLUP
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T150000Z
+UID:pandascore-match-1608667@esport-ics
+DTSTART:20260806T150000Z
+DTEND:20260806T171500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
+SUMMARY:NH vs LVLUP
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
 END:VCALENDAR
