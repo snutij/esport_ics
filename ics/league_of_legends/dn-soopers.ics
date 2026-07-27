@@ -337,6 +337,17 @@ SUMMARY:T1 vs DNS
 URL:https://www.twitch.tv/lolesportshub
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260728T103000Z
+UID:pandascore-match-1599719@esport-ics
+DTSTART:20260728T103000Z
+DTEND:20260728T124500Z
+CLASS:PUBLIC
+DESCRIPTION:KeSPA Cup - 2026 - Last Chance Qualifier\nWatch: https://www.yo
+ utube.com/@KeSPA/live
+SUMMARY:Round 1 match 3: DNS vs BRO
+URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260730T080000Z
 UID:pandascore-match-1568904@esport-ics
 DTSTART:20260730T080000Z
