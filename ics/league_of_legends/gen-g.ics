@@ -365,18 +365,18 @@ CLASS:PUBLIC
 DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
  @KeSPA/live
 SUMMARY:BFX vs GEN
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL:https://www.youtube.com/@KeSPA/live
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260727T073000Z
+DTSTAMP:20260727T074500Z
 UID:pandascore-match-1570050@esport-ics
-DTSTART:20260727T073000Z
-DTEND:20260727T081500Z
+DTSTART:20260727T074500Z
+DTEND:20260727T083000Z
 CLASS:PUBLIC
-DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
- @KeSPA/live
+DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.twitch.tv/lo
+ lesportshub
 SUMMARY:KT vs GEN
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL;VALUE=URI:https://www.twitch.tv/lolesportshub
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260731T080000Z

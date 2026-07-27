@@ -380,18 +380,18 @@ CLASS:PUBLIC
 DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
  @KeSPA/live
 SUMMARY:DK vs HLE
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL:https://www.youtube.com/@KeSPA/live
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260727T090000Z
+DTSTAMP:20260727T091500Z
 UID:pandascore-match-1570052@esport-ics
-DTSTART:20260727T090000Z
-DTEND:20260727T094500Z
+DTSTART:20260727T091500Z
+DTEND:20260727T100000Z
 CLASS:PUBLIC
-DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
- @KeSPA/live
+DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.twitch.tv/lo
+ lesportshub
 SUMMARY:HLE vs KRX
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL;VALUE=URI:https://www.twitch.tv/lolesportshub
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260730T100000Z

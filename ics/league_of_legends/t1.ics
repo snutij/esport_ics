@@ -402,37 +402,37 @@ SUMMARY:T1 vs KRX
 URL:https://www.twitch.tv/kespa2026lck
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260727T081500Z
+DTSTAMP:20260727T083000Z
 UID:pandascore-match-1570051@esport-ics
-DTSTART:20260727T081500Z
-DTEND:20260727T090000Z
+DTSTART:20260727T083000Z
+DTEND:20260727T091500Z
 CLASS:PUBLIC
-DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
- @KeSPA/live
+DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.twitch.tv/lo
+ lesportshub
 SUMMARY:DK vs T1
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL;VALUE=URI:https://www.twitch.tv/lolesportshub
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260727T094500Z
+DTSTAMP:20260727T100000Z
 UID:pandascore-match-1570053@esport-ics
-DTSTART:20260727T094500Z
-DTEND:20260727T103000Z
+DTSTART:20260727T100000Z
+DTEND:20260727T104500Z
 CLASS:PUBLIC
-DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
- @KeSPA/live
+DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.twitch.tv/lo
+ lesportshub
 SUMMARY:T1 vs NS
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL;VALUE=URI:https://www.twitch.tv/lolesportshub
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260727T111500Z
+DTSTAMP:20260727T113000Z
 UID:pandascore-match-1570055@esport-ics
-DTSTART:20260727T111500Z
-DTEND:20260727T120000Z
+DTSTART:20260727T113000Z
+DTEND:20260727T121500Z
 CLASS:PUBLIC
-DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.youtube.com/
- @KeSPA/live
+DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.twitch.tv/lo
+ lesportshub
 SUMMARY:T1 vs DNS
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL;VALUE=URI:https://www.twitch.tv/lolesportshub
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260729T100000Z
