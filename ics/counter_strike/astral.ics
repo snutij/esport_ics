@@ -1013,7 +1013,7 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #6 2026 - Group A\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:Round 2: PURE vs ASTR
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260727T130000Z
@@ -1024,6 +1024,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #6 2026 - Group A\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:Round 3: ASTR vs Atputies
+URL:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T100000Z
+UID:pandascore-match-1596448@esport-ics
+DTSTART:20260728T100000Z
+DTEND:20260728T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #6 2026 - Playoffs\nWatch: https://kick.com/u
+ rbancontenders
+SUMMARY:Quarterfinal 1: ASTR vs NAVI.J
 URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR

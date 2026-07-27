@@ -119,7 +119,7 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #6 2026 - Group A\nWatch: https://www.twitch.
  tv/kleverrgg
 SUMMARY:Round 2: Noir Verse vs Atputies
-URL;VALUE=URI:https://www.twitch.tv/kleverrgg
+URL:https://www.twitch.tv/kleverrgg
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260727T130000Z
@@ -130,6 +130,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #6 2026 - Group A\nWatch: https://www.twitch.
  tv/kleverrgg
 SUMMARY:Round 3: Noir Verse vs PURE
-URL;VALUE=URI:https://www.twitch.tv/kleverrgg
+URL:https://www.twitch.tv/kleverrgg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260728T100000Z
+UID:pandascore-match-1596449@esport-ics
+DTSTART:20260728T100000Z
+DTEND:20260728T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #6 2026 - Playoffs\nWatch: https://kick.com/u
+ rbancontenders
+SUMMARY:Quarterfinal 2: Noir Verse vs MOUZ.N
+URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR
