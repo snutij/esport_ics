@@ -226,6 +226,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - China Stage 2 2026 - Seed Deciders\nWatch: https://www.tw
  itch.tv/valorantesports_cn
 SUMMARY:Seeding match 6: TE vs TEC
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T080000Z
+UID:pandascore-match-1607774@esport-ics
+DTSTART:20260805T080000Z
+DTEND:20260805T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 2 2026 - Play-Ins\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Upper bracket round 1 match 1: TE vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

@@ -307,7 +307,7 @@ CLASS:PUBLIC
 DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group\nWat
  ch: https://www.twitch.tv/lckclleaguechallenge
 SUMMARY:T1.A vs NS.EA
-URL;VALUE=URI:https://www.twitch.tv/lckclleaguechallenge
+URL:https://www.twitch.tv/lckclleaguechallenge
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260729T050000Z
@@ -315,8 +315,10 @@ UID:pandascore-match-1589231@esport-ics
 DTSTART:20260729T050000Z
 DTEND:20260729T071500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group\nWat
+ ch: https://play-origin.sooplive.com/afchall
 SUMMARY:NS.EA vs DNS.C
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260805T050000Z
@@ -324,8 +326,10 @@ UID:pandascore-match-1589236@esport-ics
 DTSTART:20260805T050000Z
 DTEND:20260805T071500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group\nWat
+ ch: https://play-origin.sooplive.com/afchall
 SUMMARY:DK.C vs NS.EA
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260807T050000Z
@@ -333,8 +337,10 @@ UID:pandascore-match-1589238@esport-ics
 DTSTART:20260807T050000Z
 DTEND:20260807T071500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group\nWat
+ ch: https://play-origin.sooplive.com/afchall
 SUMMARY:NS.EA vs KT.C
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260811T100000Z
@@ -342,8 +348,10 @@ UID:pandascore-match-1589301@esport-ics
 DTSTART:20260811T100000Z
 DTEND:20260811T121500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group\nWat
+ ch: https://play-origin.sooplive.com/afchall
 SUMMARY:NS.EA vs DK.C
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260813T050000Z
@@ -351,8 +359,10 @@ UID:pandascore-match-1589360@esport-ics
 DTSTART:20260813T050000Z
 DTEND:20260813T071500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group\nWat
+ ch: https://play-origin.sooplive.com/afchall
 SUMMARY:KT.C vs NS.EA
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260818T080000Z
@@ -360,8 +370,10 @@ UID:pandascore-match-1589519@esport-ics
 DTSTART:20260818T080000Z
 DTEND:20260818T101500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group\nWat
+ ch: https://play-origin.sooplive.com/afchall
 SUMMARY:DNS.C vs NS.EA
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260821T050000Z
@@ -369,7 +381,9 @@ UID:pandascore-match-1589522@esport-ics
 DTSTART:20260821T050000Z
 DTEND:20260821T071500Z
 CLASS:PUBLIC
-DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group
+DESCRIPTION:LCK Challengers League - 2026 - Rounds 3-4 Challenge Group\nWat
+ ch: https://play-origin.sooplive.com/afchall
 SUMMARY:NS.EA vs T1.A
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 END:VCALENDAR

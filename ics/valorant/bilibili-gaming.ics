@@ -237,6 +237,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - China Stage 2 2026 - Seed Deciders\nWatch: https://www.tw
  itch.tv/valorantesports_cn
 SUMMARY:Seeding match 1: NOVA vs BLG
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T100000Z
+UID:pandascore-match-1607793@esport-ics
+DTSTART:20260815T100000Z
+DTEND:20260815T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Upper bracket quarterfinal 4: BLG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

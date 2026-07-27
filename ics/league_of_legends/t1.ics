@@ -410,7 +410,7 @@ CLASS:PUBLIC
 DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.twitch.tv/lo
  lesportshub
 SUMMARY:DK vs T1
-URL;VALUE=URI:https://www.twitch.tv/lolesportshub
+URL:https://www.twitch.tv/lolesportshub
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260727T100000Z
@@ -421,13 +421,13 @@ CLASS:PUBLIC
 DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.twitch.tv/lo
  lesportshub
 SUMMARY:T1 vs NS
-URL;VALUE=URI:https://www.twitch.tv/lolesportshub
+URL:https://www.twitch.tv/lolesportshub
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260727T113000Z
+DTSTAMP:20260727T120500Z
 UID:pandascore-match-1570055@esport-ics
-DTSTART:20260727T113000Z
-DTEND:20260727T121500Z
+DTSTART:20260727T120500Z
+DTEND:20260727T125000Z
 CLASS:PUBLIC
 DESCRIPTION:KeSPA Cup - 2026 - Group Stage\nWatch: https://www.twitch.tv/lo
  lesportshub

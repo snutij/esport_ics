@@ -171,6 +171,17 @@ SUMMARY:Upper bracket quarterfinal 1: RCK vs L Guide Gaming
 URL:https://www.twitch.tv/leagueoflegendsjp
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260729T080000Z
+UID:pandascore-match-1586817@esport-ics
+DTSTART:20260729T080000Z
+DTEND:20260729T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LJL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/leag
+ ueoflegendsjp
+SUMMARY:Lower bracket quarterfinal: LGG vs ARB
+URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260811T080000Z
 UID:pandascore-match-1586815@esport-ics
 DTSTART:20260811T080000Z
@@ -179,6 +190,6 @@ CLASS:PUBLIC
 DESCRIPTION:LJL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/leag
  ueoflegendsjp
 SUMMARY:Lower bracket semifinal: LGG vs TBD
-URL;VALUE=URI:https://www.twitch.tv/leagueoflegendsjp
+URL:https://www.twitch.tv/leagueoflegendsjp
 END:VEVENT
 END:VCALENDAR
