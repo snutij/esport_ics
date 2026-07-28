@@ -284,7 +284,9 @@ UID:pandascore-match-1600326@esport-ics
 DTSTART:20260729T010000Z
 DTEND:20260729T031500Z
 CLASS:PUBLIC
-DESCRIPTION:VCL - Americas: Last Chance Qualifier 2026 - Group Stage
+DESCRIPTION:VCL - Americas: Last Chance Qualifier 2026 - Group Stage\nWatch
+ : https://www.twitch.tv/valorant_northamerica
 SUMMARY:2GAME vs BBB
+URL;VALUE=URI:https://www.twitch.tv/valorant_northamerica
 END:VEVENT
 END:VCALENDAR
