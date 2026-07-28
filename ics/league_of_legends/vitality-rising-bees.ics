@@ -54,6 +54,17 @@ CLASS:PUBLIC
 DESCRIPTION:Equal eSports Cup - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/euniverse_tv
 SUMMARY:Upper bracket semifinal 1: RB vs G2H
-URL;VALUE=URI:https://www.twitch.tv/euniverse_tv
+URL:https://www.twitch.tv/euniverse_tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T160000Z
+UID:pandascore-match-1575353@esport-ics
+DTSTART:20260815T160000Z
+DTEND:20260815T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Equal eSports Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/equalesportsgg
+SUMMARY:Upper bracket final: RB vs TBD
+URL;VALUE=URI:https://www.twitch.tv/equalesportsgg
 END:VEVENT
 END:VCALENDAR

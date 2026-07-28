@@ -190,17 +190,6 @@ SUMMARY:Lower bracket final: PlayTime vs Amaru Gaming
 URL:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260728T180000Z
-UID:pandascore-match-1606252@esport-ics
-DTSTART:20260728T180000Z
-DTEND:20260728T201500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 1 2026 - Group A\nWatch: https://kick.com/
- epldota_en2
-SUMMARY:Amaru Gaming vs Team Jenz
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260729T150000Z
 UID:pandascore-match-1606255@esport-ics
 DTSTART:20260729T150000Z
@@ -252,5 +241,16 @@ DTEND:20260731T101500Z
 CLASS:PUBLIC
 DESCRIPTION:Games of the Future - 2026 - Group A
 SUMMARY:VG vs Amaru Gaming
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T180000Z
+UID:pandascore-match-1606252@esport-ics
+DTSTART:20260808T180000Z
+DTEND:20260808T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
+SUMMARY:Amaru Gaming vs Team Jenz
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
