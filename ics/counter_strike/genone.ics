@@ -1018,6 +1018,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #6 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs2
 SUMMARY:Round 1: G1 vs NV
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T140000Z
+UID:pandascore-match-1582173@esport-ics
+DTSTART:20260729T140000Z
+DTEND:20260729T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 4: ex-RUBY vs G1
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T170000Z
+UID:pandascore-match-1596484@esport-ics
+DTSTART:20260729T170000Z
+DTEND:20260729T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #6 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 2: G1 vs Honvéd
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

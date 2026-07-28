@@ -575,6 +575,17 @@ SUMMARY:Elimination match: Entropy vs Mai Tai
 URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260729T110000Z
+UID:pandascore-match-1587549@esport-ics
+DTSTART:20260729T110000Z
+DTEND:20260729T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #5 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs
+SUMMARY:Round 5: Black Phoenix vs Entropy
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260729T140000Z
 UID:pandascore-match-1600645@esport-ics
 DTSTART:20260729T140000Z

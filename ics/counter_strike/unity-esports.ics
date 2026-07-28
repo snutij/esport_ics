@@ -925,4 +925,15 @@ DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Grou
 SUMMARY:Decider match: Entropy vs UNiTY
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T110000Z
+UID:pandascore-match-1596486@esport-ics
+DTSTART:20260730T110000Z
+DTEND:20260730T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #6 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 2: RE vs UNiTY
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
