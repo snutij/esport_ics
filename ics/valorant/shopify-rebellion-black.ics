@@ -319,8 +319,10 @@ UID:pandascore-match-1600324@esport-ics
 DTSTART:20260728T190000Z
 DTEND:20260728T211500Z
 CLASS:PUBLIC
-DESCRIPTION:VCL - Americas: Last Chance Qualifier 2026 - Group Stage
+DESCRIPTION:VCL - Americas: Last Chance Qualifier 2026 - Group Stage\nWatch
+ : https://www.twitch.tv/valorant_northamerica
 SUMMARY:2GAME vs SRB
+URL;VALUE=URI:https://www.twitch.tv/valorant_northamerica
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260728T220000Z

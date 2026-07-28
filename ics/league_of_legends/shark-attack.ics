@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Shark Attack
+SLUG:shark-attack
+BEGIN:VEVENT
+DTSTAMP:20260729T143000Z
+UID:pandascore-match-1609383@esport-ics
+DTSTART:20260729T143000Z
+DTEND:20260729T164500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Summer 2026 - Play-Ins\nWatch: https://www.twitch.tv/riot
+ gamesturkish
+SUMMARY:Upper bracket round 1 match 1: SHA vs DP
+URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+END:VCALENDAR
