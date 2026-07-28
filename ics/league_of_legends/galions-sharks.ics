@@ -69,6 +69,28 @@ CLASS:PUBLIC
 DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
  .twitch.tv/teamtskofficiel
 SUMMARY:GLS vs THG
+URL:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T140000Z
+UID:pandascore-match-1590188@esport-ics
+DTSTART:20260801T140000Z
+DTEND:20260801T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/teamtskofficiel
+SUMMARY:LIL vs GLS
+URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T120000Z
+UID:pandascore-match-1590191@esport-ics
+DTSTART:20260802T120000Z
+DTEND:20260802T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/teamtskofficiel
+SUMMARY:KCBS vs GLS
 URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
 END:VEVENT
 END:VCALENDAR
