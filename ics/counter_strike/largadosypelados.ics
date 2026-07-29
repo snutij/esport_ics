@@ -929,6 +929,17 @@ CLASS:PUBLIC
 DESCRIPTION:StarLadder StarSeries - South American Qualifier Fall 2026 - Pl
  ayoffs\nWatch: https://kick.com/starladder1
 SUMMARY:Upper bracket semifinal 1: MIBR vs LDP
+URL:https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T210000Z
+UID:pandascore-match-1596532@esport-ics
+DTSTART:20260731T210000Z
+DTEND:20260731T231500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - South American Qualifier Fall 2026 - Pl
+ ayoffs\nWatch: https://kick.com/starladder1
+SUMMARY:Lower bracket quarterfinal 2: LDP vs TBD
 URL;VALUE=URI:https://kick.com/starladder1
 END:VEVENT
 END:VCALENDAR
