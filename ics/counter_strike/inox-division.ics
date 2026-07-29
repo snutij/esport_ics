@@ -553,6 +553,28 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 3: INOX vs Atreides
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T080000Z
+UID:pandascore-match-1587555@esport-ics
+DTSTART:20260730T080000Z
+DTEND:20260730T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #5 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs
+SUMMARY:Round of 16 match 2: NPG vs INOX
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T110000Z
+UID:pandascore-match-1602186@esport-ics
+DTSTART:20260731T110000Z
+DTEND:20260731T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Round of 16 match 8: INOX vs FAL.F
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

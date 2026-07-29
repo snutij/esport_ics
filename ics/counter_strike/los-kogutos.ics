@@ -683,6 +683,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Grou
  p B\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Decider match: ex-MANA vs LK
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T080000Z
+UID:pandascore-match-1602181@esport-ics
+DTSTART:20260730T080000Z
+DTEND:20260730T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Round of 16 match 7: 1WIN vs LK
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

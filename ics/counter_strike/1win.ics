@@ -510,6 +510,28 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 8 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Grand final: 1WIN vs EF
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T080000Z
+UID:pandascore-match-1602181@esport-ics
+DTSTART:20260730T080000Z
+DTEND:20260730T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Round of 16 match 7: 1WIN vs LK
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T110000Z
+UID:pandascore-match-1587556@esport-ics
+DTSTART:20260730T110000Z
+DTEND:20260730T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #5 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs
+SUMMARY:Round of 16 match 8: 1WIN vs BTF
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

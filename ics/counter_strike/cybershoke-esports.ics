@@ -688,6 +688,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 6 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/mpkbk
 SUMMARY:Quarterfinal 3: CS vs VP
-URL;VALUE=URI:https://www.twitch.tv/mpkbk
+URL:https://www.twitch.tv/mpkbk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T170000Z
+UID:pandascore-match-1602188@esport-ics
+DTSTART:20260731T170000Z
+DTEND:20260731T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Round of 16 match 3: CS vs STA
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
