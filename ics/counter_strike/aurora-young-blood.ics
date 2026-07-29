@@ -494,6 +494,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #7 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs5
 SUMMARY:Upper bracket quarterfinals match 3: AUR.YB vs Y.TigeRES
-URL;VALUE=URI:https://kick.com/cct_cs5
+URL:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T181500Z
+UID:pandascore-match-1610747@esport-ics
+DTSTART:20260729T181500Z
+DTEND:20260729T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #7 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs4
+SUMMARY:Lower Bracket Round 2 Match 2: AUR.YB vs gribo4ki
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

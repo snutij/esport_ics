@@ -714,6 +714,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 6 2026 - Group C\nWatch: https://
  www.twitch.tv/MPKBK
 SUMMARY:NEMI vs K28
-URL;VALUE=URI:https://www.twitch.tv/MPKBK
+URL:https://www.twitch.tv/MPKBK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T150000Z
+UID:pandascore-match-1607767@esport-ics
+DTSTART:20260729T150000Z
+DTEND:20260729T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 6 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/mpkbk
+SUMMARY:Quarterfinal 2: NEMI vs TDK
+URL;VALUE=URI:https://www.twitch.tv/mpkbk
 END:VEVENT
 END:VCALENDAR
