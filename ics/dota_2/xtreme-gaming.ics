@@ -792,7 +792,9 @@ UID:pandascore-match-1583158@esport-ics
 DTSTART:20260731T140000Z
 DTEND:20260731T161500Z
 CLASS:PUBLIC
-DESCRIPTION:Games of the Future - 2026 - Group D
+DESCRIPTION:Games of the Future - 2026 - Group D\nWatch: https://www.twitch
+ .tv/gamesofuture_dota2
 SUMMARY:Xtreme vs LGD
+URL;VALUE=URI:https://www.twitch.tv/gamesofuture_dota2
 END:VEVENT
 END:VCALENDAR

@@ -480,7 +480,9 @@ UID:pandascore-match-1583157@esport-ics
 DTSTART:20260731T110000Z
 DTEND:20260731T131500Z
 CLASS:PUBLIC
-DESCRIPTION:Games of the Future - 2026 - Group D
+DESCRIPTION:Games of the Future - 2026 - Group D\nWatch: https://www.twitch
+ .tv/gamesofuture_dota2
 SUMMARY:L1GA vs RNX
+URL;VALUE=URI:https://www.twitch.tv/gamesofuture_dota2
 END:VEVENT
 END:VCALENDAR
