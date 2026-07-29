@@ -525,6 +525,17 @@ CLASS:PUBLIC
 DESCRIPTION:StarLadder StarSeries - North American Qualifier Fall 2026 - Pl
  ayoffs\nWatch: https://kick.com/starladder1
 SUMMARY:Upper bracket quarterfinal 2: LAG vs MARS
-URL;VALUE=URI:https://kick.com/starladder1
+URL:https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T010000Z
+UID:pandascore-match-1596583@esport-ics
+DTSTART:20260730T010000Z
+DTEND:20260730T031500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - North American Qualifier Fall 2026 - Pl
+ ayoffs\nWatch: https://kick.com/starladder
+SUMMARY:Lower bracket round 1 match 1: IOWA vs LAG
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
