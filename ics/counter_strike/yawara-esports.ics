@@ -574,6 +574,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - South American Series #2 2026 
  - Group B\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Decider match: YAW vs MIBR.A
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T140000Z
+UID:pandascore-match-1611490@esport-ics
+DTSTART:20260804T140000Z
+DTEND:20260804T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 4 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 1: YAW vs ex-GUARA
+URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR

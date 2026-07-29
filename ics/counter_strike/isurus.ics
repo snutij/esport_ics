@@ -767,6 +767,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 4 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs3
 SUMMARY:Grand final: ODK vs ISG
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T140000Z
+UID:pandascore-match-1611486@esport-ics
+DTSTART:20260803T140000Z
+DTEND:20260803T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 4 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 1: ISG vs ODK.A
+URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR

@@ -601,4 +601,15 @@ DESCRIPTION:StarLadder StarSeries - South American Qualifier Fall 2026 - Pl
 SUMMARY:Upper bracket quarterfinal 3: SHIN vs GLS
 URL;VALUE=URI:https://kick.com/starladder1
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T200000Z
+UID:pandascore-match-1611492@esport-ics
+DTSTART:20260804T200000Z
+DTEND:20260804T221500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 4 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 1: GLS vs MEIA NOITE
+URL;VALUE=URI:https://www.twitch.tv/dust2br
+END:VEVENT
 END:VCALENDAR
