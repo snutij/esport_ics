@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Wildcard Decider\nWatch: https://www.yo
  utube.com/watch?v=jox-FGEdSkI
 SUMMARY:Semifinal 1: FUT vs FAL
-URL;VALUE=URI:https://www.youtube.com/watch?v=jox-FGEdSkI
+URL:https://www.youtube.com/watch?v=jox-FGEdSkI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T105500Z
+UID:pandascore-match-1610797@esport-ics
+DTSTART:20260804T105500Z
+DTEND:20260804T131000Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Group B\nWatch: https://www.youtub
+ e.com/@GamesoftheFutureOfficial
+SUMMARY:Upper bracket semifinal 2: FUT vs BW
+URL;VALUE=URI:https://www.youtube.com/@GamesoftheFutureOfficial
 END:VEVENT
 END:VCALENDAR

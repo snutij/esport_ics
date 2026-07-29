@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 53 2026 - Group A\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:TTBS vs PCIFIC
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T080000Z
+UID:pandascore-match-1608568@esport-ics
+DTSTART:20260802T080000Z
+DTEND:20260802T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 53 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Winners match: PCIFIC vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

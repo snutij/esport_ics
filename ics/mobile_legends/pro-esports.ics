@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Playoffs\nWatch: https://www.youtube.co
  m/watch?v=jnPyDklbGa8
 SUMMARY:Quarterfinal 4: YG vs PRO
-URL;VALUE=URI:https://www.youtube.com/watch?v=jnPyDklbGa8
+URL:https://www.youtube.com/watch?v=jnPyDklbGa8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T125000Z
+UID:pandascore-match-1610804@esport-ics
+DTSTART:20260804T125000Z
+DTEND:20260804T150500Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Group D\nWatch: https://www.youtub
+ e.com/@GamesoftheFutureOfficial
+SUMMARY:Upper bracket semifinal 1: ONIC vs PRO
+URL;VALUE=URI:https://www.youtube.com/@GamesoftheFutureOfficial
 END:VEVENT
 END:VCALENDAR
