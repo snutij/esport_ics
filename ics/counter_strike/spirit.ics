@@ -356,6 +356,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
  ch.tv/BLASTPremier
 SUMMARY:Round of 16 match 8: 100T vs TS
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T153000Z
+UID:pandascore-match-1593364@esport-ics
+DTSTART:20260731T153000Z
+DTEND:20260731T174500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Bounty - Summer 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/BLASTPremier
+SUMMARY:Quarterfinal 4: TL vs TS
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

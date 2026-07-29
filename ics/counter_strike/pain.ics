@@ -443,6 +443,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
  ch.tv/BLASTPremier
 SUMMARY:Round of 16 match 5: NIP vs paiN
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T130000Z
+UID:pandascore-match-1593361@esport-ics
+DTSTART:20260730T130000Z
+DTEND:20260730T151500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Bounty - Summer 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/BLASTPremier
+SUMMARY:Quarterfinal 1: paiN vs AST
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR
