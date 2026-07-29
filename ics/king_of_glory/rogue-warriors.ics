@@ -168,6 +168,61 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Summer 2026 - Stage 2 Group A\nWatch: https:/
  /live.bilibili.com/21144080
 SUMMARY:Hero vs RW
+URL:https://live.bilibili.com/21144080
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T060000Z
+UID:pandascore-match-1610752@esport-ics
+DTSTART:20260731T060000Z
+DTEND:20260731T094500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 3 Group A\nWatch: https:/
+ /live.bilibili.com/21144080
+SUMMARY:LGD vs RW
+URL;VALUE=URI:https://live.bilibili.com/21144080
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T090000Z
+UID:pandascore-match-1610753@esport-ics
+DTSTART:20260812T090000Z
+DTEND:20260812T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 3 Group A\nWatch: https:/
+ /live.bilibili.com/21144080
+SUMMARY:RW vs EDG
+URL;VALUE=URI:https://live.bilibili.com/21144080
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T090000Z
+UID:pandascore-match-1610755@esport-ics
+DTSTART:20260813T090000Z
+DTEND:20260813T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 3 Group A\nWatch: https:/
+ /live.bilibili.com/21144080
+SUMMARY:KSG vs RW
+URL;VALUE=URI:https://live.bilibili.com/21144080
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T090000Z
+UID:pandascore-match-1610760@esport-ics
+DTSTART:20260820T090000Z
+DTEND:20260820T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 3 Group A\nWatch: https:/
+ /live.bilibili.com/21144080
+SUMMARY:SYG vs RW
+URL;VALUE=URI:https://live.bilibili.com/21144080
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T090000Z
+UID:pandascore-match-1610763@esport-ics
+DTSTART:20260822T090000Z
+DTEND:20260822T124500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Stage 3 Group A\nWatch: https:/
+ /live.bilibili.com/21144080
+SUMMARY:Hero vs RW
 URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 END:VCALENDAR
