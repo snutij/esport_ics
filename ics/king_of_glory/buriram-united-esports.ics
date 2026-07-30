@@ -231,7 +231,9 @@ UID:pandascore-match-1583207@esport-ics
 DTSTART:20260730T080000Z
 DTEND:20260730T101500Z
 CLASS:PUBLIC
-DESCRIPTION:Honor of Kings - World Cup 2026 - Play-In Group A
+DESCRIPTION:Honor of Kings - World Cup 2026 - Play-In Group A\nWatch: https
+ ://www.youtube.com/watch?v=4cdwn42Vq6c
 SUMMARY:BUE vs TF
+URL;VALUE=URI:https://www.youtube.com/watch?v=4cdwn42Vq6c
 END:VEVENT
 END:VCALENDAR
