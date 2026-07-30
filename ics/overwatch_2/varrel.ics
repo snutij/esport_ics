@@ -267,6 +267,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Midseason Championship 2026 - Group B\nWatch: https://www
  .twitch.tv/ow_esports
 SUMMARY:Lower bracket quarterfinal 2: VAR vs AG.AL
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T161500Z
+UID:pandascore-match-1594999@esport-ics
+DTSTART:20260731T161500Z
+DTEND:20260731T174500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Midseason Championship 2026 - Group B\nWatch: https://www
+ .twitch.tv/ow_esports
+SUMMARY:Lower bracket semifinal 2: SSG vs VAR
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR
