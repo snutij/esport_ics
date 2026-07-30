@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - World Cup 2026 - Play-In Group A\nWatch: https
  ://www.youtube.com/watch?v=4cdwn42Vq6c
 SUMMARY:S8UL vs INF
-URL;VALUE=URI:https://www.youtube.com/watch?v=4cdwn42Vq6c
+URL:https://www.youtube.com/watch?v=4cdwn42Vq6c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T080000Z
+UID:pandascore-match-1583210@esport-ics
+DTSTART:20260731T080000Z
+DTEND:20260731T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - World Cup 2026 - Play-In Group A
+SUMMARY:Elimination match: TF vs S8UL
 END:VEVENT
 END:VCALENDAR

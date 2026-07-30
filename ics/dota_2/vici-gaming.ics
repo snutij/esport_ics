@@ -537,8 +537,10 @@ UID:pandascore-match-1607178@esport-ics
 DTSTART:20260731T130000Z
 DTEND:20260731T143000Z
 CLASS:PUBLIC
-DESCRIPTION:1win Essence - Season 2 2026 - Group B
+DESCRIPTION:1win Essence - Season 2 2026 - Group B\nWatch: https://w.tv/1wi
+ n_dota
 SUMMARY:1WIN vs VG
+URL;VALUE=URI:https://w.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260802T150000Z
@@ -546,7 +548,9 @@ UID:pandascore-match-1607189@esport-ics
 DTSTART:20260802T150000Z
 DTEND:20260802T163000Z
 CLASS:PUBLIC
-DESCRIPTION:1win Essence - Season 2 2026 - Group B
+DESCRIPTION:1win Essence - Season 2 2026 - Group B\nWatch: https://w.tv/1wi
+ n_dota
 SUMMARY:VG vs OG
+URL;VALUE=URI:https://w.tv/1win_dota
 END:VEVENT
 END:VCALENDAR
