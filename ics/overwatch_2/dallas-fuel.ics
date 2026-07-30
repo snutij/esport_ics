@@ -223,6 +223,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Midseason Championship 2026 - Group A\nWatch: https://www
  .twitch.tv/ow_esports
 SUMMARY:Lower bracket quarterfinal 2: TL vs DAL
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T134500Z
+UID:pandascore-match-1594989@esport-ics
+DTSTART:20260731T134500Z
+DTEND:20260731T151500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Midseason Championship 2026 - Group A\nWatch: https://www
+ .twitch.tv/ow_esports
+SUMMARY:Lower bracket semifinal 2: DAL vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR
