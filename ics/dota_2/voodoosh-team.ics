@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Group B\nWatch: htt
  ps://www.twitch.tv/betboom_sb_dota
 SUMMARY:YBN vs VDS
+URL:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T120000Z
+UID:pandascore-match-1607238@esport-ics
+DTSTART:20260731T120000Z
+DTEND:20260731T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/betboom_sb_dota
+SUMMARY:Upper bracket quarterfinal 2: TT vs VDS
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 END:VCALENDAR

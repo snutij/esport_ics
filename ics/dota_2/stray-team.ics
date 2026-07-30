@@ -138,6 +138,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Group A\nWatch: htt
  ps://www.twitch.tv/betboom_sb_dota
 SUMMARY:Stray vs TT
+URL:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T150000Z
+UID:pandascore-match-1607239@esport-ics
+DTSTART:20260731T150000Z
+DTEND:20260731T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/betboom_sb_dota
+SUMMARY:Upper bracket semifinal 1: TBD vs Stray
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 END:VCALENDAR
