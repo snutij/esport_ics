@@ -934,6 +934,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #6 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs2
 SUMMARY:Round 2: RE vs UNiTY
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T110000Z
+UID:pandascore-match-1596490@esport-ics
+DTSTART:20260731T110000Z
+DTEND:20260731T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #6 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 3: UNiTY vs Mai Tai
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

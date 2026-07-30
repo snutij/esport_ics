@@ -588,6 +588,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #6 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs2
 SUMMARY:Round 2: Atreides vs ENJOY
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T170000Z
+UID:pandascore-match-1596496@esport-ics
+DTSTART:20260731T170000Z
+DTEND:20260731T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #6 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 3: G1 vs ENJOY
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

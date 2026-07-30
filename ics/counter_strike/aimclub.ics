@@ -602,6 +602,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #7 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs4
 SUMMARY:Upper bracket semifinal 1: AIMC vs TS.A
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T153000Z
+UID:pandascore-match-1611821@esport-ics
+DTSTART:20260801T153000Z
+DTEND:20260801T174500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #7 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs4
+SUMMARY:Upper bracket final: Y.TigeRES vs AIMC
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR
