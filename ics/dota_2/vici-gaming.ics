@@ -506,8 +506,10 @@ UID:pandascore-match-1607173@esport-ics
 DTSTART:20260730T130000Z
 DTEND:20260730T143000Z
 CLASS:PUBLIC
-DESCRIPTION:1win Essence - Season 2 2026 - Group B
+DESCRIPTION:1win Essence - Season 2 2026 - Group B\nWatch: https://w.tv/1wi
+ n_dota
 SUMMARY:NGX vs VG
+URL;VALUE=URI:https://w.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260730T150000Z

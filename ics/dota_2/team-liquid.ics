@@ -834,8 +834,10 @@ UID:pandascore-match-1607179@esport-ics
 DTSTART:20260731T150000Z
 DTEND:20260731T163000Z
 CLASS:PUBLIC
-DESCRIPTION:1win Essence - Season 2 2026 - Group A
+DESCRIPTION:1win Essence - Season 2 2026 - Group A\nWatch: https://w.tv/1wi
+ n_dota
 SUMMARY:BB vs Liquid
+URL;VALUE=URI:https://w.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260801T170000Z
@@ -852,7 +854,9 @@ UID:pandascore-match-1607190@esport-ics
 DTSTART:20260802T170000Z
 DTEND:20260802T183000Z
 CLASS:PUBLIC
-DESCRIPTION:1win Essence - Season 2 2026 - Group A
+DESCRIPTION:1win Essence - Season 2 2026 - Group A\nWatch: https://w.tv/1wi
+ n_dota
 SUMMARY:Liquid vs LGD
+URL;VALUE=URI:https://w.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

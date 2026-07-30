@@ -588,8 +588,10 @@ UID:pandascore-match-1607172@esport-ics
 DTSTART:20260730T110000Z
 DTEND:20260730T123000Z
 CLASS:PUBLIC
-DESCRIPTION:1win Essence - Season 2 2026 - Group A
+DESCRIPTION:1win Essence - Season 2 2026 - Group A\nWatch: https://w.tv/1wi
+ n_dota
 SUMMARY:LGD vs MOUZ
+URL;VALUE=URI:https://w.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260730T170000Z
@@ -606,8 +608,10 @@ UID:pandascore-match-1607177@esport-ics
 DTSTART:20260731T110000Z
 DTEND:20260731T123000Z
 CLASS:PUBLIC
-DESCRIPTION:1win Essence - Season 2 2026 - Group A
+DESCRIPTION:1win Essence - Season 2 2026 - Group A\nWatch: https://w.tv/1wi
+ n_dota
 SUMMARY:BB vs MOUZ
+URL;VALUE=URI:https://w.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260802T110000Z
@@ -615,7 +619,9 @@ UID:pandascore-match-1607187@esport-ics
 DTSTART:20260802T110000Z
 DTEND:20260802T123000Z
 CLASS:PUBLIC
-DESCRIPTION:1win Essence - Season 2 2026 - Group A
+DESCRIPTION:1win Essence - Season 2 2026 - Group A\nWatch: https://w.tv/1wi
+ n_dota
 SUMMARY:GL vs MOUZ
+URL;VALUE=URI:https://w.tv/1win_dota
 END:VEVENT
 END:VCALENDAR
