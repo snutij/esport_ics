@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:Games of the Future - 2026 - Group C\nWatch: https://www.twitch
  .tv/gamesofuture_dota2
 SUMMARY:Enjoy vs GLYPH
+URL:https://www.twitch.tv/gamesofuture_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T110000Z
+UID:pandascore-match-1583155@esport-ics
+DTSTART:20260801T110000Z
+DTEND:20260801T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Group C\nWatch: https://www.twitch
+ .tv/gamesofuture_dota2
+SUMMARY:Elimination match: Enjoy vs TBD
 URL;VALUE=URI:https://www.twitch.tv/gamesofuture_dota2
 END:VEVENT
 END:VCALENDAR
