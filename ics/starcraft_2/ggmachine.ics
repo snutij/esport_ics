@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 6 2026 - Group A\nWatch: https://www.twitc
  h.tv/tastelesstv
 SUMMARY:ByuN vs GgMaChine
-URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T170000Z
+UID:pandascore-match-1613919@esport-ics
+DTSTART:20260731T170000Z
+DTEND:20260731T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Basilisk Big Brain Bouts - Season 124 2026 - Playoffs\nWatch: h
+ ttps://twitch.tv/rotterdam08
+SUMMARY:GgMaChine vs Percival
+URL;VALUE=URI:https://twitch.tv/rotterdam08
 END:VEVENT
 END:VCALENDAR

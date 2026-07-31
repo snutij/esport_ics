@@ -35,6 +35,17 @@ CLASS:PUBLIC
 DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 1 - Gr
  oup A\nWatch: https://play.sooplive.com/gslenglish/294161241
 SUMMARY:Elimination match: sOs vs TBD
-URL;VALUE=URI:https://play.sooplive.com/gslenglish/294161241
+URL:https://play.sooplive.com/gslenglish/294161241
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T160000Z
+UID:pandascore-match-1613918@esport-ics
+DTSTART:20260731T160000Z
+DTEND:20260731T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Basilisk Big Brain Bouts - Season 124 2026 - Playoffs\nWatch: h
+ ttps://twitch.tv/rotterdam08
+SUMMARY:Spirit vs sOs
+URL;VALUE=URI:https://twitch.tv/rotterdam08
 END:VEVENT
 END:VCALENDAR

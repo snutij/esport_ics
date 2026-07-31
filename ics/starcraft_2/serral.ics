@@ -237,6 +237,17 @@ SUMMARY:Upper bracket quarterfinal 2: Serral vs SHIN
 URL:https://www.twitch.tv/tastelesstv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260731T180000Z
+UID:pandascore-match-1613920@esport-ics
+DTSTART:20260731T180000Z
+DTEND:20260731T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Basilisk Big Brain Bouts - Season 124 2026 - Playoffs\nWatch: h
+ ttps://twitch.tv/rotterdam08
+SUMMARY:Serral vs MaxPax
+URL;VALUE=URI:https://twitch.tv/rotterdam08
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260802T090000Z
 UID:pandascore-match-1595617@esport-ics
 DTSTART:20260802T090000Z

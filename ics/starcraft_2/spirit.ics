@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Winter 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/wardiii
 SUMMARY:Lower bracket round 1 match 3: Spirit vs Bunny
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T160000Z
+UID:pandascore-match-1613918@esport-ics
+DTSTART:20260731T160000Z
+DTEND:20260731T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Basilisk Big Brain Bouts - Season 124 2026 - Playoffs\nWatch: h
+ ttps://twitch.tv/rotterdam08
+SUMMARY:Spirit vs sOs
+URL;VALUE=URI:https://twitch.tv/rotterdam08
 END:VEVENT
 END:VCALENDAR
