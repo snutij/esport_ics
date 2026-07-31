@@ -25,4 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - World Cup 2026 - Play-In Group B
 SUMMARY:Elimination match: OG vs BLCK
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T093000Z
+UID:pandascore-match-1583218@esport-ics
+DTSTART:20260802T093000Z
+DTEND:20260802T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - World Cup 2026 - Group A\nWatch: https://www.t
+ witch.tv/hok_esports
+SUMMARY:MILO vs BLCK
+URL;VALUE=URI:https://www.twitch.tv/hok_esports
+END:VEVENT
 END:VCALENDAR

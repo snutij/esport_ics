@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Aurora Gaming
-SLUG:aurora-gaming
+X-WR-CALNAME:Titan Esports Club
+SLUG:titan-esports-club
 BEGIN:VEVENT
 DTSTAMP:20260801T080000Z
 UID:pandascore-match-1583222@esport-ics

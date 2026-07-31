@@ -164,6 +164,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Split 3 2026 - Group Stage\nWatch: https://www.twitch.tv/
  lolpacificen
 SUMMARY:Round 2: DCG vs GZ
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T090000Z
+UID:pandascore-match-1602797@esport-ics
+DTSTART:20260806T090000Z
+DTEND:20260806T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 3 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolpacificen
+SUMMARY:Round 3: SHG vs GZ
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR

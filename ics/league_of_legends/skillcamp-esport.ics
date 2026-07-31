@@ -245,6 +245,39 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
  /otplol_
 SUMMARY:JL vs SC
+URL:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T160000Z
+UID:pandascore-match-1614704@esport-ics
+DTSTART:20260804T160000Z
+DTEND:20260804T164500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
+ /otplol_
+SUMMARY:IJC vs SC
+URL;VALUE=URI:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T200000Z
+UID:pandascore-match-1614713@esport-ics
+DTSTART:20260805T200000Z
+DTEND:20260805T204500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
+ /otplol_
+SUMMARY:VIT.B vs SC
+URL;VALUE=URI:http://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T170000Z
+UID:pandascore-match-1614715@esport-ics
+DTSTART:20260806T170000Z
+DTEND:20260806T174500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Regular Season\nWatch: http://www.twitch.tv
+ /otplol_
+SUMMARY:KCB vs SC
 URL;VALUE=URI:http://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

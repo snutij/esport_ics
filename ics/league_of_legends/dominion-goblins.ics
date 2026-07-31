@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:LPLOL - Summer 2026 - Group Stage\nWatch: https://www.twitch.tv
  /rtparenalol
 SUMMARY:Round 2: DOMI vs CAPY
+URL:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T180000Z
+UID:pandascore-match-1598324@esport-ics
+DTSTART:20260805T180000Z
+DTEND:20260805T201500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Summer 2026 - Group Stage\nWatch: https://www.twitch.tv
+ /rtparenalol
+SUMMARY:Round 3: DOMI vs HYPE
 URL;VALUE=URI:https://www.twitch.tv/rtparenalol
 END:VEVENT
 END:VCALENDAR

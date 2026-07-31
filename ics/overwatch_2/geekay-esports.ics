@@ -212,6 +212,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Midseason Championship 2026 - Group B\nWatch: https://www
  .twitch.tv/ow_esports
 SUMMARY:Lower bracket semifinal 1: JDG vs GE
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T100000Z
+UID:pandascore-match-1595000@esport-ics
+DTSTART:20260801T100000Z
+DTEND:20260801T121500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Midseason Championship 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/ow_esports
+SUMMARY:Quarterfinal 1: TM vs GE
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

@@ -116,6 +116,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/betboom_sb_dota
 SUMMARY:Upper bracket quarterfinal 2: TT vs VDS
+URL:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260731T180000Z
+UID:pandascore-match-1607240@esport-ics
+DTSTART:20260731T180000Z
+DTEND:20260731T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/betboom_sb_dota
+SUMMARY:Upper bracket semifinal 2: TT vs DXK
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 END:VCALENDAR

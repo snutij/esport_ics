@@ -300,6 +300,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Midseason Championship 2026 - Group A\nWatch: https://www
  .twitch.tv/ow_esports
 SUMMARY:Upper bracket semifinal 2: WBG vs FAL
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T114500Z
+UID:pandascore-match-1595001@esport-ics
+DTSTART:20260801T114500Z
+DTEND:20260801T140000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Midseason Championship 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/ow_esports
+SUMMARY:Quarterfinal 2: WBG vs SSG
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR
