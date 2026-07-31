@@ -170,14 +170,14 @@ DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:mellren vs HEC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260731T183000Z
+DTSTAMP:20260731T153000Z
 UID:pandascore-match-1611825@esport-ics
-DTSTART:20260731T183000Z
-DTEND:20260731T204500Z
+DTSTART:20260731T153000Z
+DTEND:20260731T174500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #7 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs4
-SUMMARY:Lower bracket quarterfinal 2: mellren vs banda chuya
+SUMMARY:Lower bracket quarterfinal 2: banda chuya vs mellren
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

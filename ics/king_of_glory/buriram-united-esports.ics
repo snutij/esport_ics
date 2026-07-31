@@ -253,7 +253,9 @@ UID:pandascore-match-1583211@esport-ics
 DTSTART:20260731T110000Z
 DTEND:20260731T131500Z
 CLASS:PUBLIC
-DESCRIPTION:Honor of Kings - World Cup 2026 - Play-In Group A
+DESCRIPTION:Honor of Kings - World Cup 2026 - Play-In Group A\nWatch: https
+ ://www.youtube.com/watch?v=FYLyeP_bb3s
 SUMMARY:Decider match: BRU vs TBD
+URL;VALUE=URI:https://www.youtube.com/watch?v=FYLyeP_bb3s
 END:VEVENT
 END:VCALENDAR
