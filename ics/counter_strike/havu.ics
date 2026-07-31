@@ -665,6 +665,17 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa BreakOut - Series #1 2026 - Group B\nWatch: https://kick.
  com/elisaesports
 SUMMARY:Round 3: HAVU vs RGG
+URL:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T080000Z
+UID:pandascore-match-1602996@esport-ics
+DTSTART:20260801T080000Z
+DTEND:20260801T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #1 2026 - Playoffs\nWatch: https://kick
+ .com/elisaesports
+SUMMARY:Semifinal 1: ENCE vs HAVU
 URL;VALUE=URI:https://kick.com/elisaesports
 END:VEVENT
 END:VCALENDAR
