@@ -840,4 +840,15 @@ DESCRIPTION:CCT Europe - Series #5 2026 - Playoffs\nWatch: https://kick.com
 SUMMARY:Semifinal 1: SIN vs SPARTA
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T140000Z
+UID:pandascore-match-1596501@esport-ics
+DTSTART:20260803T140000Z
+DTEND:20260803T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #6 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 4: SPARTA vs ex-Young Ninjas
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
