@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/betboom_sb_dota
 SUMMARY:Lower bracket quarterfinal 2: NS vs VDS
+URL:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T210000Z
+UID:pandascore-match-1607244@esport-ics
+DTSTART:20260801T210000Z
+DTEND:20260801T231500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/betboom_sb_dota
+SUMMARY:Lower bracket semifinal: AVI vs NS
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 END:VCALENDAR
