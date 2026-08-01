@@ -847,6 +847,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #2 2026 - Group A\nWa
  tch: https://www.twitch.tv/gluck_esports
 SUMMARY:Decider match: TS.A vs OMG
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T104000Z
+UID:pandascore-match-1615304@esport-ics
+DTSTART:20260801T104000Z
+DTEND:20260801T125500Z
+CLASS:PUBLIC
+DESCRIPTION:BRO SUMMER CUP - 2026 - Group A\nWatch: https://www.twitch.tv/b
+ rochillgame
+SUMMARY:Winners' match: TU vs OMG
+URL;VALUE=URI:https://www.twitch.tv/brochillgame
 END:VEVENT
 END:VCALENDAR

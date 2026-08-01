@@ -552,6 +552,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Play
  offs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Quarterfinal 3: WAL vs LC
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T130000Z
+UID:pandascore-match-1602194@esport-ics
+DTSTART:20260802T130000Z
+DTEND:20260802T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Semifinal 2: LC vs TBD
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

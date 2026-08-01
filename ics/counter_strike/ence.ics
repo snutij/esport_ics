@@ -507,6 +507,17 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa BreakOut - Series #1 2026 - Playoffs\nWatch: https://kick
  .com/elisaesports
 SUMMARY:Semifinal 1: ENCE vs HAVU
+URL:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T170000Z
+UID:pandascore-match-1602998@esport-ics
+DTSTART:20260801T170000Z
+DTEND:20260801T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #1 2026 - Playoffs\nWatch: https://kick
+ .com/elisaesports
+SUMMARY:Grand final: ENCE vs TBD
 URL;VALUE=URI:https://kick.com/elisaesports
 END:VEVENT
 END:VCALENDAR

@@ -699,6 +699,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Play
  offs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Quarterfinal 3: WAL vs LC
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T170000Z
+UID:pandascore-match-1582183@esport-ics
+DTSTART:20260803T170000Z
+DTEND:20260803T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Playoffs\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 4: WAL vs ex-RUSTEC
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

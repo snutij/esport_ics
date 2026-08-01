@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 53 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:PHTM.Ac vs DE.P
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T080000Z
+UID:pandascore-match-1608663@esport-ics
+DTSTART:20260805T080000Z
+DTEND:20260805T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 53 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Winners match: DE.P vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

@@ -1302,6 +1302,15 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Grou
  p D\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Decider match: BBP vs MISA
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T130000Z
+UID:pandascore-match-1615319@esport-ics
+DTSTART:20260802T130000Z
+DTEND:20260802T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #2 season 52 2026 - Group D
+SUMMARY:FAV vs MISA
 END:VEVENT
 END:VCALENDAR
