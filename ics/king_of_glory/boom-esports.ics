@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - World Cup 2026 - Group D\nWatch: https://www.t
  witch.tv/hok_esports
 SUMMARY:BOOM vs NEM
+URL:https://www.twitch.tv/hok_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T093000Z
+UID:pandascore-match-1583236@esport-ics
+DTSTART:20260803T093000Z
+DTEND:20260803T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - World Cup 2026 - Group D\nWatch: https://www.t
+ witch.tv/hok_esports
+SUMMARY:Elimination match: DCG vs BOOM
 URL;VALUE=URI:https://www.twitch.tv/hok_esports
 END:VEVENT
 END:VCALENDAR

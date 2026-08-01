@@ -100,6 +100,17 @@ CLASS:PUBLIC
 DESCRIPTION:BRO SUMMER CUP - 2026 - Group A\nWatch: https://www.twitch.tv/b
  rochillgame
 SUMMARY:Winners' match: TU vs OMG
-URL;VALUE=URI:https://www.twitch.tv/brochillgame
+URL:https://www.twitch.tv/brochillgame
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T143000Z
+UID:pandascore-match-1615309@esport-ics
+DTSTART:20260801T143000Z
+DTEND:20260801T164500Z
+CLASS:PUBLIC
+DESCRIPTION:BRO SUMMER CUP - 2026 - Group A\nWatch: https://www.twitch.tv/j
+ am_mie
+SUMMARY:Decider match: TU vs TM
+URL;VALUE=URI:https://www.twitch.tv/jam_mie
 END:VEVENT
 END:VCALENDAR

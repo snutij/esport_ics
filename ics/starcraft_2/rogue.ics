@@ -487,7 +487,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Cup Summer 2026 - Playoffs\nWatch: https://www.twitch
  .tv/wardiii
 SUMMARY:Quarterfinal 2: Cure vs Rogue
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260802T101500Z
@@ -499,5 +499,16 @@ DESCRIPTION:RSL Revival - Season 6 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/tastelesstv
 SUMMARY:Upper bracket semifinal 2: herO vs Rogue
 URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T110000Z
+UID:pandascore-match-1612874@esport-ics
+DTSTART:20260802T110000Z
+DTEND:20260802T144500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Cup Summer 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/wardiii
+SUMMARY:Semifinal 1: Percival vs Rogue
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

@@ -564,4 +564,15 @@ DESCRIPTION:1win Essence - Season 2 2026 - Group B\nWatch: https://w.tv/1wi
 SUMMARY:VG vs OG
 URL;VALUE=URI:https://w.tv/1win_dota
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T110000Z
+UID:pandascore-match-1583167@esport-ics
+DTSTART:20260803T110000Z
+DTEND:20260803T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/gamesofuture_dota2
+SUMMARY:Quarterfinal 3: TBD vs VG
+URL;VALUE=URI:https://www.twitch.tv/gamesofuture_dota2
+END:VEVENT
 END:VCALENDAR
