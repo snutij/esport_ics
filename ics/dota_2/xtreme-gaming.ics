@@ -806,6 +806,17 @@ CLASS:PUBLIC
 DESCRIPTION:Games of the Future - 2026 - Group D\nWatch: https://www.twitch
  .tv/gamesofuture_dota2
 SUMMARY:Winners match: RNX vs Xtreme
+URL:https://www.twitch.tv/gamesofuture_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T080000Z
+UID:pandascore-match-1583166@esport-ics
+DTSTART:20260803T080000Z
+DTEND:20260803T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/gamesofuture_dota2
+SUMMARY:Quarterfinal 2: TBD vs Xtreme
 URL;VALUE=URI:https://www.twitch.tv/gamesofuture_dota2
 END:VEVENT
 END:VCALENDAR

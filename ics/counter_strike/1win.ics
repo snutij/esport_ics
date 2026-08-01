@@ -556,4 +556,15 @@ DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Play
 SUMMARY:Semifinal 2: LC vs 1WIN
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T110000Z
+UID:pandascore-match-1582181@esport-ics
+DTSTART:20260803T110000Z
+DTEND:20260803T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Playoffs\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 2: 1WIN vs ex-RUBY
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
