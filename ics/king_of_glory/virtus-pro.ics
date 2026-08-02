@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - World Cup 2026 - Group C\nWatch: https://www.t
  witch.tv/hok_esports
 SUMMARY:VP vs BRU
+URL:https://www.twitch.tv/hok_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T133000Z
+UID:pandascore-match-1583230@esport-ics
+DTSTART:20260802T133000Z
+DTEND:20260802T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - World Cup 2026 - Group C\nWatch: https://www.t
+ witch.tv/hok_esports
+SUMMARY:Winners match: KSG vs VP
 URL;VALUE=URI:https://www.twitch.tv/hok_esports
 END:VEVENT
 END:VCALENDAR

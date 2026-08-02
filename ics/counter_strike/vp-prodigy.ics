@@ -732,4 +732,15 @@ DESCRIPTION:United21 - Season 53 2026 - Group B\nWatch: https://kick.com/un
 SUMMARY:Winners match: EF.A vs VP.P
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T103000Z
+UID:pandascore-match-1616792@esport-ics
+DTSTART:20260804T103000Z
+DTEND:20260804T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Group B\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:VP.P vs SINQU Rehti
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

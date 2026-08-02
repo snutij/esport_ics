@@ -61,6 +61,17 @@ SUMMARY:FaZe UN vs VIT.A
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260803T103000Z
+UID:pandascore-match-1616787@esport-ics
+DTSTART:20260803T103000Z
+DTEND:20260803T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:FaZe UN vs 3DMAX.A
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260805T080000Z
 UID:pandascore-match-1608663@esport-ics
 DTSTART:20260805T080000Z

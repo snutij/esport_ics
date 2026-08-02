@@ -787,6 +787,17 @@ SUMMARY:Inner Circle Prospect vs STA
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260803T080000Z
+UID:pandascore-match-1616786@esport-ics
+DTSTART:20260803T080000Z
+DTEND:20260803T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:B8.A vs STA
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260804T080000Z
 UID:pandascore-match-1608658@esport-ics
 DTSTART:20260804T080000Z

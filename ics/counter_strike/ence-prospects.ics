@@ -25,4 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 53 2026 - Group C
 SUMMARY:Elimination match: ENCE.P vs Inner Circle Prospect
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T080000Z
+UID:pandascore-match-1616892@esport-ics
+DTSTART:20260805T080000Z
+DTEND:20260805T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:INOX vs ENCE.P
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR
