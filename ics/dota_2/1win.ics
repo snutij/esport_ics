@@ -521,6 +521,17 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 2 2026 - Group B\nWatch: https://w.tv/1wi
  n_dota
 SUMMARY:FLC vs 1WIN
+URL:https://w.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T090000Z
+UID:pandascore-match-1607199@esport-ics
+DTSTART:20260803T090000Z
+DTEND:20260803T111500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 2 2026 - Playoffs\nWatch: https://w.tv/1w
+ in_dota
+SUMMARY:Lower bracket round 1 match 1: LGD vs 1WIN
 URL;VALUE=URI:https://w.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

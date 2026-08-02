@@ -531,6 +531,17 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 2 2026 - Group B\nWatch: https://w.tv/1wi
  n_dota
 SUMMARY:VG vs OG
+URL:https://w.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T120000Z
+UID:pandascore-match-1607200@esport-ics
+DTSTART:20260803T120000Z
+DTEND:20260803T141500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 2 2026 - Playoffs\nWatch: https://w.tv/1w
+ in_dota
+SUMMARY:Lower bracket round 1 match 2: OG vs GL
 URL;VALUE=URI:https://w.tv/1win_dota
 END:VEVENT
 END:VCALENDAR
