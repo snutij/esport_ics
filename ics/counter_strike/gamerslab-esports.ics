@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:GamersLab Esports
+SLUG:gamerslab-esports
+BEGIN:VEVENT
+DTSTAMP:20260805T110000Z
+UID:pandascore-match-1616702@esport-ics
+DTSTART:20260805T110000Z
+DTEND:20260805T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/playzonecz
+SUMMARY:GamersLab Esports vs ESB
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T140000Z
+UID:pandascore-match-1616704@esport-ics
+DTSTART:20260805T140000Z
+DTEND:20260805T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/playzonecz
+SUMMARY:GamersLab Esports vs NAVI.J
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T170000Z
+UID:pandascore-match-1616707@esport-ics
+DTSTART:20260805T170000Z
+DTEND:20260805T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/playzonecz
+SUMMARY:GamersLab Esports vs JAM
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T140000Z
+UID:pandascore-match-1616711@esport-ics
+DTSTART:20260806T140000Z
+DTEND:20260806T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/playzonecz
+SUMMARY:GamersLab Esports vs maybe
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+END:VCALENDAR

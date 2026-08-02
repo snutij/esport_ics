@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - World Cup 2026 - Group C\nWatch: https://www.t
  witch.tv/hok_esports
 SUMMARY:KSG vs RXS
+URL:https://www.twitch.tv/hok_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T103000Z
+UID:pandascore-match-1583231@esport-ics
+DTSTART:20260804T103000Z
+DTEND:20260804T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - World Cup 2026 - Group C\nWatch: https://www.t
+ witch.tv/hok_esports
+SUMMARY:Elimination match: RXS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/hok_esports
 END:VEVENT
 END:VCALENDAR

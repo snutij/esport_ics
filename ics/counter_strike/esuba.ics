@@ -242,6 +242,50 @@ DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:BW vs ESB
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260805T110000Z
+UID:pandascore-match-1616702@esport-ics
+DTSTART:20260805T110000Z
+DTEND:20260805T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/playzonecz
+SUMMARY:GamersLab Esports vs ESB
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T140000Z
+UID:pandascore-match-1616705@esport-ics
+DTSTART:20260805T140000Z
+DTEND:20260805T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/playzonecz
+SUMMARY:JAM vs ESB
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T170000Z
+UID:pandascore-match-1616706@esport-ics
+DTSTART:20260805T170000Z
+DTEND:20260805T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/playzonecz
+SUMMARY:maybe vs ESB
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T110000Z
+UID:pandascore-match-1616708@esport-ics
+DTSTART:20260806T110000Z
+DTEND:20260806T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/playzonecz
+SUMMARY:ESB vs NAVI.J
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260811T170000Z
 UID:pandascore-match-1608765@esport-ics
 DTSTART:20260811T170000Z

@@ -448,4 +448,48 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:UUST vs NAVI.J
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T110000Z
+UID:pandascore-match-1616703@esport-ics
+DTSTART:20260805T110000Z
+DTEND:20260805T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/playzonecz
+SUMMARY:NAVI.J vs maybe
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T140000Z
+UID:pandascore-match-1616704@esport-ics
+DTSTART:20260805T140000Z
+DTEND:20260805T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/playzonecz
+SUMMARY:GamersLab Esports vs NAVI.J
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T110000Z
+UID:pandascore-match-1616708@esport-ics
+DTSTART:20260806T110000Z
+DTEND:20260806T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/playzonecz
+SUMMARY:ESB vs NAVI.J
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T140000Z
+UID:pandascore-match-1616710@esport-ics
+DTSTART:20260806T140000Z
+DTEND:20260806T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Group Stage\nWatch: https://www.t
+ witch.tv/playzonecz
+SUMMARY:NAVI.J vs JAM
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
 END:VCALENDAR

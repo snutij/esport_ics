@@ -793,8 +793,19 @@ DTSTART:20260802T100000Z
 DTEND:20260802T121500Z
 CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat I 2026 - Group C\nWatch: https://kick.com/st
- ake_esports
+ ake_pulse
 SUMMARY:9INE vs BRUTE
-URL;VALUE=URI:https://kick.com/stake_esports
+URL;VALUE=URI:https://kick.com/stake_pulse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T140000Z
+UID:pandascore-match-1616725@esport-ics
+DTSTART:20260807T140000Z
+DTEND:20260807T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/playzonecz
+SUMMARY:Upper bracket quarterfinal 4: TBD vs BRUTE
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR
