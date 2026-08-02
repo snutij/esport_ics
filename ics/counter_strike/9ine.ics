@@ -397,6 +397,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat I 2026 - Group C\nWatch: https://kick.com/st
  ake_pulse
 SUMMARY:9INE vs BRUTE
-URL;VALUE=URI:https://kick.com/stake_pulse
+URL:https://kick.com/stake_pulse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T160000Z
+UID:pandascore-match-1596603@esport-ics
+DTSTART:20260802T160000Z
+DTEND:20260802T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat I 2026 - Group C\nWatch: https://kick.com/st
+ ake_esports
+SUMMARY:Decider match: 9INE vs TBD
+URL;VALUE=URI:https://kick.com/stake_esports
 END:VEVENT
 END:VCALENDAR
