@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ex-1win
+SLUG:ex-1win
+BEGIN:VEVENT
+DTSTAMP:20260802T100000Z
+UID:pandascore-match-1602194@esport-ics
+DTSTART:20260802T100000Z
+DTEND:20260802T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Play
+ offs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Semifinal 2: ex-1win vs LC
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+END:VCALENDAR
