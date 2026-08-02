@@ -356,17 +356,6 @@ SUMMARY:Elimination match: L1GA vs LGD
 URL:https://www.twitch.tv/gamesofuture_dota2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T180000Z
-UID:pandascore-match-1583164@esport-ics
-DTSTART:20260802T180000Z
-DTEND:20260802T201500Z
-CLASS:PUBLIC
-DESCRIPTION:Games of the Future - 2026 - Playoffs\nWatch: https://www.twitc
- h.tv/gamesofuture_dota2
-SUMMARY:Round 1 match 4: Z10 vs LGD
-URL;VALUE=URI:https://www.twitch.tv/gamesofuture_dota2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260802T183000Z
 UID:pandascore-match-1607190@esport-ics
 DTSTART:20260802T183000Z
@@ -376,5 +365,16 @@ DESCRIPTION:1win Essence - Season 2 2026 - Group A\nWatch: https://w.tv/1wi
  n_dota
 SUMMARY:Liquid vs LGD
 URL;VALUE=URI:https://w.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T190000Z
+UID:pandascore-match-1583164@esport-ics
+DTSTART:20260802T190000Z
+DTEND:20260802T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/gamesofuture_dota2
+SUMMARY:Round 1 match 4: Z10 vs LGD
+URL;VALUE=URI:https://www.twitch.tv/gamesofuture_dota2
 END:VEVENT
 END:VCALENDAR
