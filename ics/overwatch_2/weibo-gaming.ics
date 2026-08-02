@@ -322,6 +322,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Midseason Championship 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/ow_esports
 SUMMARY:Semifinal 1: TM vs WBG
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260802T134500Z
+UID:pandascore-match-1595006@esport-ics
+DTSTART:20260802T134500Z
+DTEND:20260802T160000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Midseason Championship 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/ow_esports
+SUMMARY:3rd Place match: T1 vs WBG
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR
