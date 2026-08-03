@@ -980,6 +980,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat I 2026 - Group A\nWatch: https://kick.com/st
  ake_esports
 SUMMARY:Winners match: HOTU vs G2.A
+URL:https://kick.com/stake_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T080000Z
+UID:pandascore-match-1607888@esport-ics
+DTSTART:20260804T080000Z
+DTEND:20260804T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat I 2026 - Playoffs\nWatch: https://kick.com/s
+ take_esports
+SUMMARY:Quarterfinal 1: G2.A vs JS
 URL;VALUE=URI:https://kick.com/stake_esports
 END:VEVENT
 END:VCALENDAR

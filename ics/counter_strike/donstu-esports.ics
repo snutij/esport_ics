@@ -952,6 +952,15 @@ CLASS:PUBLIC
 DESCRIPTION:BRO SUMMER CUP - 2026 - Playoffs\nWatch: https://www.twitch.tv/
  brochillgame
 SUMMARY:Semifinal 1: OMG vs DNT
-URL;VALUE=URI:https://www.twitch.tv/brochillgame
+URL:https://www.twitch.tv/brochillgame
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T183000Z
+UID:pandascore-match-1619108@esport-ics
+DTSTART:20260804T183000Z
+DTEND:20260804T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:WAVE vs DNT
 END:VEVENT
 END:VCALENDAR

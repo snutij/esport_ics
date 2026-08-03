@@ -321,6 +321,17 @@ SUMMARY:Decider match: EAC vs HOTU
 URL:https://kick.com/stake_esports
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260804T170000Z
+UID:pandascore-match-1607891@esport-ics
+DTSTART:20260804T170000Z
+DTEND:20260804T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat I 2026 - Playoffs\nWatch: https://kick.com/s
+ take_esports
+SUMMARY:Quarterfinal 4: FNC vs EAC
+URL;VALUE=URI:https://kick.com/stake_esports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260806T080000Z
 UID:pandascore-match-1616923@esport-ics
 DTSTART:20260806T080000Z

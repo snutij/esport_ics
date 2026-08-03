@@ -603,6 +603,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat I 2026 - Group D\nWatch: https://kick.com/st
  ake_esports
 SUMMARY:Winners match: FNC vs MZP
+URL:https://kick.com/stake_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T170000Z
+UID:pandascore-match-1607891@esport-ics
+DTSTART:20260804T170000Z
+DTEND:20260804T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat I 2026 - Playoffs\nWatch: https://kick.com/s
+ take_esports
+SUMMARY:Quarterfinal 4: FNC vs EAC
 URL;VALUE=URI:https://kick.com/stake_esports
 END:VEVENT
 END:VCALENDAR
