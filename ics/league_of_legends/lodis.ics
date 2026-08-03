@@ -124,6 +124,61 @@ CLASS:PUBLIC
 DESCRIPTION:Rift Legends - Spring 2026 - Regular Season\nWatch: https://www
  .twitch.tv/nervarien
 SUMMARY:GLR vs LDS
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T150000Z
+UID:pandascore-match-1618171@esport-ics
+DTSTART:20260804T150000Z
+DTEND:20260804T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:LDS vs BCE
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260811T170000Z
+UID:pandascore-match-1618176@esport-ics
+DTSTART:20260811T170000Z
+DTEND:20260811T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:LDS vs FSK
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T170000Z
+UID:pandascore-match-1618180@esport-ics
+DTSTART:20260818T170000Z
+DTEND:20260818T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:BOOM vs LDS
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260825T150000Z
+UID:pandascore-match-1618185@esport-ics
+DTSTART:20260825T150000Z
+DTEND:20260825T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:LDS vs DV1
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T170000Z
+UID:pandascore-match-1618190@esport-ics
+DTSTART:20260827T170000Z
+DTEND:20260827T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:UP2UMEDIA Cebulaki vs LDS
 URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR

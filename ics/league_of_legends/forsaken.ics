@@ -208,6 +208,61 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Spring 2026 - Group B\nWatch: https://www.twitch
  .tv/otplol_
 SUMMARY:Decider match: FSK vs KCB
-URL;VALUE=URI:https://www.twitch.tv/otplol_
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T150000Z
+UID:pandascore-match-1618173@esport-ics
+DTSTART:20260805T150000Z
+DTEND:20260805T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:UP2UMEDIA Cebulaki vs FSK
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260811T170000Z
+UID:pandascore-match-1618176@esport-ics
+DTSTART:20260811T170000Z
+DTEND:20260811T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:LDS vs FSK
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T150000Z
+UID:pandascore-match-1618179@esport-ics
+DTSTART:20260818T150000Z
+DTEND:20260818T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:AE vs FSK
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260825T170000Z
+UID:pandascore-match-1618186@esport-ics
+DTSTART:20260825T170000Z
+DTEND:20260825T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:DOC vs FSK
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T150000Z
+UID:pandascore-match-1618187@esport-ics
+DTSTART:20260826T150000Z
+DTEND:20260826T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:FSK vs BCE
+URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR

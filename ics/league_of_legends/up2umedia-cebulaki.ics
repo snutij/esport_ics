@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UP2UMEDIA Cebulaki
+SLUG:up2umedia-cebulaki
+BEGIN:VEVENT
+DTSTAMP:20260805T150000Z
+UID:pandascore-match-1618173@esport-ics
+DTSTART:20260805T150000Z
+DTEND:20260805T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:UP2UMEDIA Cebulaki vs FSK
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T170000Z
+UID:pandascore-match-1618178@esport-ics
+DTSTART:20260812T170000Z
+DTEND:20260812T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:UP2UMEDIA Cebulaki vs DOC
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260819T150000Z
+UID:pandascore-match-1618181@esport-ics
+DTSTART:20260819T150000Z
+DTEND:20260819T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:UP2UMEDIA Cebulaki vs DV1
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T150000Z
+UID:pandascore-match-1618183@esport-ics
+DTSTART:20260820T150000Z
+DTEND:20260820T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:UP2UMEDIA Cebulaki vs BOOM
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T170000Z
+UID:pandascore-match-1618190@esport-ics
+DTSTART:20260827T170000Z
+DTEND:20260827T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:UP2UMEDIA Cebulaki vs LDS
+URL;VALUE=URI:https://www.twitch.tv/nervarien
+END:VEVENT
+END:VCALENDAR
