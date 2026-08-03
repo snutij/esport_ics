@@ -175,6 +175,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 2 2026 - Group Omega\nWatch: https://www.twitc
  h.tv/valorant_emea
 SUMMARY:GX vs TH
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T150000Z
+UID:pandascore-match-1608111@esport-ics
+DTSTART:20260806T150000Z
+DTEND:20260806T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Play-Ins\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:Upper bracket round 1 match 1: GX vs SGE
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
