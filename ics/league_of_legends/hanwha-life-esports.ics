@@ -427,6 +427,17 @@ SUMMARY:Round 1 match 2: GEN vs HLE
 URL:https://www.youtube.com/@KeSPA/live
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260804T060000Z
+UID:pandascore-match-1599722@esport-ics
+DTSTART:20260804T060000Z
+DTEND:20260804T081500Z
+CLASS:PUBLIC
+DESCRIPTION:KeSPA Cup - 2026 - Last Chance Qualifier\nWatch: https://www.yo
+ utube.com/@KeSPA/live
+SUMMARY:Round 2 match 1: T1 vs HLE
+URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260805T100000Z
 UID:pandascore-match-1568912@esport-ics
 DTSTART:20260805T100000Z
