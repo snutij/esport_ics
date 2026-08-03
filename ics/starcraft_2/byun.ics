@@ -387,6 +387,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Cup Summer 2026 - Playoffs\nWatch: https://www.twitch
  .tv/wardiii
 SUMMARY:Quarterfinal 4: ByuN vs youngYakov
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T130000Z
+UID:pandascore-match-1618357@esport-ics
+DTSTART:20260804T130000Z
+DTEND:20260804T164500Z
+CLASS:PUBLIC
+DESCRIPTION:iNu's Battles - Season 19 2026 - Playoffs\nWatch: https://www.y
+ outube.com/@intothe/live
+SUMMARY:Quarterfinal 3: ByuN vs Classic
+URL;VALUE=URI:https://www.youtube.com/@intothe/live
 END:VEVENT
 END:VCALENDAR

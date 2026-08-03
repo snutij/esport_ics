@@ -402,6 +402,17 @@ CLASS:PUBLIC
 DESCRIPTION:Games of the Future - 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/gamesofuture_dota2
 SUMMARY:Quarterfinal 1: GLYPH vs PlayTime
+URL:https://www.twitch.tv/gamesofuture_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T110000Z
+UID:pandascore-match-1583169@esport-ics
+DTSTART:20260804T110000Z
+DTEND:20260804T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/gamesofuture_dota2
+SUMMARY:Semifinal 1: PlayTime vs TBD
 URL;VALUE=URI:https://www.twitch.tv/gamesofuture_dota2
 END:VEVENT
 END:VCALENDAR

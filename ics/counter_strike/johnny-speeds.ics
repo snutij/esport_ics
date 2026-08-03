@@ -745,6 +745,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat I 2026 - Group D\nWatch: https://kick.com/st
  ake_pulse
 SUMMARY:MZP vs JS
-URL;VALUE=URI:https://kick.com/stake_pulse
+URL:https://kick.com/stake_pulse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260803T130000Z
+UID:pandascore-match-1596607@esport-ics
+DTSTART:20260803T130000Z
+DTEND:20260803T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat I 2026 - Group D\nWatch: https://kick.com/st
+ ake_esports
+SUMMARY:Elimination match: LILMIX vs JS
+URL;VALUE=URI:https://kick.com/stake_esports
 END:VEVENT
 END:VCALENDAR

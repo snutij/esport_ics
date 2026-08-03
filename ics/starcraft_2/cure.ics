@@ -464,6 +464,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Cup Summer 2026 - Playoffs\nWatch: https://www.twitch
  .tv/wardiii
 SUMMARY:Quarterfinal 2: Cure vs Rogue
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T120000Z
+UID:pandascore-match-1618356@esport-ics
+DTSTART:20260804T120000Z
+DTEND:20260804T154500Z
+CLASS:PUBLIC
+DESCRIPTION:iNu's Battles - Season 19 2026 - Playoffs\nWatch: https://www.y
+ outube.com/@intothe/live
+SUMMARY:Quarterfinal 2: Cure vs Rogue
+URL;VALUE=URI:https://www.youtube.com/@intothe/live
 END:VEVENT
 END:VCALENDAR
