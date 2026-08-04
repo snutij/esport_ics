@@ -173,6 +173,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Play-In Group A\nWatch: https://www.
  twitch.tv/ewc_allianzvault_en2
 SUMMARY:Upper bracket semifinal 2: CHF vs TYLOO
-URL;VALUE=URI:https://www.twitch.tv/ewc_allianzvault_en2
+URL:https://www.twitch.tv/ewc_allianzvault_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T174000Z
+UID:pandascore-match-1602840@esport-ics
+DTSTART:20260804T174000Z
+DTEND:20260804T195500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Play-In Group A\nWatch: https://www.
+ twitch.tv/rainbow6
+SUMMARY:Lower bracket semifinal: AIU vs CHF
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

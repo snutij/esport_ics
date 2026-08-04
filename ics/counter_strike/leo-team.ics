@@ -772,6 +772,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 52 2026 - Playoffs
  \nWatch: https://kick.com/arhavalcom
 SUMMARY:Semifinal 1: BW vs Leo
-URL;VALUE=URI:https://kick.com/arhavalcom
+URL:https://kick.com/arhavalcom
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T170000Z
+UID:pandascore-match-1615336@esport-ics
+DTSTART:20260804T170000Z
+DTEND:20260804T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #2 season 52 2026 - Playoffs
+SUMMARY:3rd place decider: BMB vs Leo
 END:VEVENT
 END:VCALENDAR

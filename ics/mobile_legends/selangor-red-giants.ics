@@ -234,6 +234,17 @@ CLASS:PUBLIC
 DESCRIPTION:Games of the Future - 2026 - Group C\nWatch: https://www.youtub
  e.com/watch?v=wQfJMXiHRLM
 SUMMARY:Upper bracket semifinal 1: SRG vs RORA
-URL;VALUE=URI:https://www.youtube.com/watch?v=wQfJMXiHRLM
+URL:https://www.youtube.com/watch?v=wQfJMXiHRLM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T144500Z
+UID:pandascore-match-1610802@esport-ics
+DTSTART:20260805T144500Z
+DTEND:20260805T170000Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Group C\nWatch: https://www.youtub
+ e.com/@GamesoftheFutureOfficial
+SUMMARY:Upper bracket final: SRG vs TBD
+URL;VALUE=URI:https://www.youtube.com/@GamesoftheFutureOfficial
 END:VEVENT
 END:VCALENDAR

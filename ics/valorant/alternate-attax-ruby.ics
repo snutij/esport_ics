@@ -226,15 +226,15 @@ SUMMARY:G2 vs AAR
 URL:https://www.twitch.tv/remakeval
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260804T180000Z
+DTSTAMP:20260804T165000Z
 UID:pandascore-match-1588068@esport-ics
-DTSTART:20260804T180000Z
-DTEND:20260804T201500Z
+DTSTART:20260804T165000Z
+DTEND:20260804T190500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers EMEA Stage 3 2026 - Group Stage\nWatch: htt
- ps://www.twitch.tv/valorant_emea
+ ps://www.twitch.tv/remakeval
 SUMMARY:AAR vs HBS
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL;VALUE=URI:https://www.twitch.tv/remakeval
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260805T180000Z
