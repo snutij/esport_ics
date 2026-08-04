@@ -725,6 +725,17 @@ CLASS:PUBLIC
 DESCRIPTION:Games of the Future - 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/gamesofuture_dota2
 SUMMARY:Semifinal 2: YB vs RE
+URL:https://www.twitch.tv/gamesofuture_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T080000Z
+UID:pandascore-match-1583171@esport-ics
+DTSTART:20260805T080000Z
+DTEND:20260805T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/gamesofuture_dota2
+SUMMARY:3rd Place match: TR vs RE
 URL;VALUE=URI:https://www.twitch.tv/gamesofuture_dota2
 END:VEVENT
 END:VCALENDAR

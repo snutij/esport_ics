@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Play-In Group B\nWatch: https://www.
  twitch.tv/rainbow6bravo
 SUMMARY:Upper bracket final: FNC vs MIBR.LOS
-URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
+URL:https://www.twitch.tv/rainbow6bravo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T140000Z
+UID:pandascore-match-1602869@esport-ics
+DTSTART:20260805T140000Z
+DTEND:20260805T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Play-In Group B\nWatch: https://www.
+ twitch.tv/ewc_allianzvault_en
+SUMMARY:Lower bracket final: MIBR.LOS vs CAG
+URL;VALUE=URI:https://www.twitch.tv/ewc_allianzvault_en
 END:VEVENT
 END:VCALENDAR
