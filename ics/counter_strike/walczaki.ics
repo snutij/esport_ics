@@ -710,6 +710,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Playoffs\nWatch: https:
  //kick.com/nodwin_cs2
 SUMMARY:Round of 16 match 4: WAL vs ex-RUSTEC
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T140000Z
+UID:pandascore-match-1596512@esport-ics
+DTSTART:20260806T140000Z
+DTEND:20260806T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #6 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs2
+SUMMARY:Round of 16 match 7: WAL vs UNiTY
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

@@ -567,6 +567,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #6 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs2
 SUMMARY:Round 5: JustP vs ENJOY
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T080000Z
+UID:pandascore-match-1596506@esport-ics
+DTSTART:20260805T080000Z
+DTEND:20260805T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #6 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs2
+SUMMARY:Round of 16 match 1: ARC vs JustP
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

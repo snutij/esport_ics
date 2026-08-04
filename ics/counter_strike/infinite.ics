@@ -716,6 +716,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #5 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs
 SUMMARY:Round of 16 match 4: INF vs SPARTA
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T090000Z
+UID:pandascore-match-1620546@esport-ics
+DTSTART:20260807T090000Z
+DTEND:20260807T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 5
+SUMMARY:INF vs AOG
 END:VEVENT
 END:VCALENDAR

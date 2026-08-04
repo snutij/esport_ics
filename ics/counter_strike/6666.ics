@@ -123,6 +123,15 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat I 2026 - Group C\nWatch: https://kick.com/st
  ake_cs2
 SUMMARY:ACE vs 6666
-URL;VALUE=URI:https://kick.com/stake_cs2
+URL:https://kick.com/stake_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T090000Z
+UID:pandascore-match-1620561@esport-ics
+DTSTART:20260807T090000Z
+DTEND:20260807T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 8
+SUMMARY:IS vs 6666
 END:VEVENT
 END:VCALENDAR

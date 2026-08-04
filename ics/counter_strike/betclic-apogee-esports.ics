@@ -575,4 +575,13 @@ DESCRIPTION:Stake Pulse - Beat I 2026 - Playoffs\nWatch: https://kick.com/s
 SUMMARY:Semifinal 1: JS vs BCA
 URL;VALUE=URI:https://kick.com/stake_pulse
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T090000Z
+UID:pandascore-match-1620547@esport-ics
+DTSTART:20260807T090000Z
+DTEND:20260807T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 5
+SUMMARY:GPN vs BCA
+END:VEVENT
 END:VCALENDAR

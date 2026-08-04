@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - World Cup 2026 - Group B\nWatch: https://www.t
  witch.tv/hok_esports
 SUMMARY:Decider match: RORA vs TBD
+URL:https://www.twitch.tv/hok_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T120000Z
+UID:pandascore-match-1583241@esport-ics
+DTSTART:20260806T120000Z
+DTEND:20260806T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Honor of Kings - World Cup 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/hok_esports
+SUMMARY:Quarterfinal 1: AG.AL vs RORA
 URL;VALUE=URI:https://www.twitch.tv/hok_esports
 END:VEVENT
 END:VCALENDAR

@@ -674,6 +674,15 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
  ch.tv/BLASTPremier
 SUMMARY:Round of 16 match 8: 100T vs TS
-URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T160000Z
+UID:pandascore-match-1620576@esport-ics
+DTSTART:20260807T160000Z
+DTEND:20260807T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 11
+SUMMARY:100T vs SF
 END:VEVENT
 END:VCALENDAR

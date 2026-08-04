@@ -520,6 +520,33 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Play
  offs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Round of 16 match 8: INOX vs FAL.F
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T160000Z
+UID:pandascore-match-1620634@esport-ics
+DTSTART:20260805T160000Z
+DTEND:20260805T164500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:Diamant Esports vs FAL.F
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T170000Z
+UID:pandascore-match-1620636@esport-ics
+DTSTART:20260805T170000Z
+DTEND:20260805T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:FAL.F vs Spirit Academy Green
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T180000Z
+UID:pandascore-match-1620638@esport-ics
+DTSTART:20260805T180000Z
+DTEND:20260805T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:PG vs FAL.F
 END:VEVENT
 END:VCALENDAR

@@ -564,6 +564,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #5 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs
 SUMMARY:Semifinal 1: SIN vs SPARTA
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T160000Z
+UID:pandascore-match-1620597@esport-ics
+DTSTART:20260807T160000Z
+DTEND:20260807T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 15
+SUMMARY:MGN vs SIN
 END:VEVENT
 END:VCALENDAR
