@@ -378,7 +378,7 @@ CLASS:PUBLIC
 DESCRIPTION:KeSPA Cup - 2026 - Last Chance Qualifier\nWatch: https://www.yo
  utube.com/@KeSPA/live
 SUMMARY:Round 2 match 2: GEN vs DNS
-URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
+URL:https://www.youtube.com/@KeSPA/live
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260806T080000Z
@@ -401,6 +401,17 @@ DESCRIPTION:LCK - 2026 - Round 3-4 Rise Group\nWatch: https://www.twitch.tv
  /lck
 SUMMARY:NS vs DNS
 URL;VALUE=URI:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260810T081500Z
+UID:pandascore-match-1599726@esport-ics
+DTSTART:20260810T081500Z
+DTEND:20260810T103000Z
+CLASS:PUBLIC
+DESCRIPTION:KeSPA Cup - 2026 - Last Chance Qualifier\nWatch: https://www.yo
+ utube.com/@KeSPA/live
+SUMMARY:Round 3 match 2: DNS vs TBD
+URL;VALUE=URI:https://www.youtube.com/@KeSPA/live
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260812T080000Z
