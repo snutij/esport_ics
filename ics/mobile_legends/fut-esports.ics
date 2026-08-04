@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:Games of the Future - 2026 - Group B\nWatch: https://www.youtub
  e.com/watch?v=gbJ0mWT-728
 SUMMARY:Upper bracket semifinal 2: FUT vs BW
-URL;VALUE=URI:https://www.youtube.com/watch?v=gbJ0mWT-728
+URL:https://www.youtube.com/watch?v=gbJ0mWT-728
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T105500Z
+UID:pandascore-match-1610798@esport-ics
+DTSTART:20260805T105500Z
+DTEND:20260805T131000Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Group B\nWatch: https://www.youtub
+ e.com/@GamesoftheFutureOfficial
+SUMMARY:Upper bracket final: BTR vs FUT
+URL;VALUE=URI:https://www.youtube.com/@GamesoftheFutureOfficial
 END:VEVENT
 END:VCALENDAR

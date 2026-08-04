@@ -562,6 +562,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat I 2026 - Playoffs\nWatch: https://kick.com/s
  take_esports
 SUMMARY:Quarterfinal 2: ACE vs BCA
+URL:https://kick.com/stake_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T100000Z
+UID:pandascore-match-1607892@esport-ics
+DTSTART:20260805T100000Z
+DTEND:20260805T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat I 2026 - Playoffs\nWatch: https://kick.com/s
+ take_esports
+SUMMARY:Semifinal 1: JS vs BCA
 URL;VALUE=URI:https://kick.com/stake_esports
 END:VEVENT
 END:VCALENDAR

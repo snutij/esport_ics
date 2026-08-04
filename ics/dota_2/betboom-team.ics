@@ -960,6 +960,17 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 2 2026 - Playoffs\nWatch: https://w.tv/1w
  in_dota
 SUMMARY:Lower bracket quarterfinal 2: BB vs OG
+URL:https://w.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T180000Z
+UID:pandascore-match-1607196@esport-ics
+DTSTART:20260804T180000Z
+DTEND:20260804T201500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 2 2026 - Playoffs\nWatch: https://w.tv/1w
+ in_dota
+SUMMARY:Lower bracket semifinal: BB vs TBD
 URL;VALUE=URI:https://w.tv/1win_dota
 END:VEVENT
 END:VCALENDAR
