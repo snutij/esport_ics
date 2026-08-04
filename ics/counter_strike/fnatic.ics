@@ -614,6 +614,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat I 2026 - Playoffs\nWatch: https://kick.com/s
  take_esports
 SUMMARY:Quarterfinal 4: FNC vs EAC
-URL;VALUE=URI:https://kick.com/stake_esports
+URL:https://kick.com/stake_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T130000Z
+UID:pandascore-match-1607893@esport-ics
+DTSTART:20260805T130000Z
+DTEND:20260805T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat I 2026 - Playoffs\nWatch: https://kick.com/s
+ take_pulse
+SUMMARY:Semifinal 2: TL vs FNC
+URL;VALUE=URI:https://kick.com/stake_pulse
 END:VEVENT
 END:VCALENDAR
