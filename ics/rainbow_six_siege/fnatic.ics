@@ -226,14 +226,14 @@ SUMMARY:Upper bracket final: FNC vs MIBR.LOS
 URL:https://www.twitch.tv/rainbow6bravo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260805T170000Z
+DTSTAMP:20260805T174500Z
 UID:pandascore-match-1602871@esport-ics
-DTSTART:20260805T170000Z
-DTEND:20260805T191500Z
+DTSTART:20260805T174500Z
+DTEND:20260805T200000Z
 CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Play-In Playoffs\nWatch: https://www
- .twitch.tv/ewc_allianzvault_en
-SUMMARY:Semifinal 2: FNC vs TBD
-URL;VALUE=URI:https://www.twitch.tv/ewc_allianzvault_en
+ .youtube.com/watch?v=jm7CaLkKCYc
+SUMMARY:Semifinal 2: FNC vs AIU
+URL;VALUE=URI:https://www.youtube.com/watch?v=jm7CaLkKCYc
 END:VEVENT
 END:VCALENDAR
