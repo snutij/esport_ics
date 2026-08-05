@@ -886,14 +886,14 @@ SUMMARY:Upper bracket final : FLC vs Liquid
 URL:https://w.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260805T120000Z
+DTSTAMP:20260805T130500Z
 UID:pandascore-match-1607195@esport-ics
-DTSTART:20260805T120000Z
-DTEND:20260805T141500Z
+DTSTART:20260805T130500Z
+DTEND:20260805T152000Z
 CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 2 2026 - Playoffs\nWatch: https://w.tv/1w
  in_dota
-SUMMARY:Lower bracket final: Liquid vs TBD
+SUMMARY:Lower bracket final: Liquid vs 1WIN
 URL;VALUE=URI:https://w.tv/1win_dota
 END:VEVENT
 END:VCALENDAR
