@@ -116,17 +116,6 @@ SUMMARY:HOOL vs SPK
 URL:https://www.twitch.tv/fortuna
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260805T180000Z
-UID:pandascore-match-1597572@esport-ics
-DTSTART:20260805T180000Z
-DTEND:20260805T201500Z
-CLASS:PUBLIC
-DESCRIPTION:EBL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
- v/fortuna
-SUMMARY:SPK vs LPS
-URL;VALUE=URI:https://www.twitch.tv/fortuna
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260806T180000Z
 UID:pandascore-match-1597574@esport-ics
 DTSTART:20260806T180000Z
@@ -157,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:EBL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
  v/fortuna
 SUMMARY:MGZ vs SPK
+URL:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T160000Z
+UID:pandascore-match-1597572@esport-ics
+DTSTART:20260813T160000Z
+DTEND:20260813T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/fortuna
+SUMMARY:SPK vs LPS
 URL;VALUE=URI:https://www.twitch.tv/fortuna
 END:VEVENT
 END:VCALENDAR
