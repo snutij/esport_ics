@@ -529,6 +529,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - July 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/gamersclubcs
 SUMMARY:Quarterfinal 2: ODK vs RED.A
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260805T183000Z
+UID:pandascore-match-1618168@esport-ics
+DTSTART:20260805T183000Z
+DTEND:20260805T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - July 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/gamersclubcs
+SUMMARY:Semifinal 1: QUIN vs ODK
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR
