@@ -33,8 +33,10 @@ UID:pandascore-match-1614326@esport-ics
 DTSTART:20260805T110000Z
 DTEND:20260805T131500Z
 CLASS:PUBLIC
-DESCRIPTION:Winline Star Series - Season 3 2026 - Group B
+DESCRIPTION:Winline Star Series - Season 3 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/kartash0v
 SUMMARY:Lixxx Club vs PCH3LK1N Club
+URL;VALUE=URI:https://www.twitch.tv/kartash0v
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260805T134500Z
@@ -42,7 +44,9 @@ UID:pandascore-match-1614327@esport-ics
 DTSTART:20260805T134500Z
 DTEND:20260805T160000Z
 CLASS:PUBLIC
-DESCRIPTION:Winline Star Series - Season 3 2026 - Group B
+DESCRIPTION:Winline Star Series - Season 3 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/kartash0v
 SUMMARY:Lixxx Club vs shoke Club
+URL;VALUE=URI:https://www.twitch.tv/kartash0v
 END:VEVENT
 END:VCALENDAR

@@ -44,7 +44,9 @@ UID:pandascore-match-1609925@esport-ics
 DTSTART:20260805T164500Z
 DTEND:20260805T203000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group A
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.youtube.
+ com/watch?v=ASPG-e_KtgE
 SUMMARY:Upper bracket quarterfinal 4: M8 vs OMiT
+URL;VALUE=URI:https://www.youtube.com/watch?v=ASPG-e_KtgE
 END:VEVENT
 END:VCALENDAR
