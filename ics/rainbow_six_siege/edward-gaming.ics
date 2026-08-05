@@ -256,6 +256,17 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Stage 1 2026 - Playoffs\nWatch: https://www.twitch.
  tv/esix_france
 SUMMARY:Grand final: EDG vs AG
-URL;VALUE=URI:https://www.twitch.tv/esix_france
+URL:https://www.twitch.tv/esix_france
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T164000Z
+UID:pandascore-match-1602884@esport-ics
+DTSTART:20260806T164000Z
+DTEND:20260806T172500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/rainbow6
+SUMMARY:Upper bracket quarterfinal 2: VP vs EDG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

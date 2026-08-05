@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:Round 3: Brod n Friends vs EA
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260810T180000Z
+UID:pandascore-match-1597225@esport-ics
+DTSTART:20260810T180000Z
+DTEND:20260810T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/nlclol
+SUMMARY:Round 4: AP vs Brod n Friends
 URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR

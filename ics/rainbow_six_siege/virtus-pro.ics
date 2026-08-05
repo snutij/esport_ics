@@ -276,6 +276,17 @@ CLASS:PUBLIC
 DESCRIPTION:Europe MENA League - Stage 1 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/rainbow6
 SUMMARY:Grand final: FLCS vs VP
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T164000Z
+UID:pandascore-match-1602884@esport-ics
+DTSTART:20260806T164000Z
+DTEND:20260806T172500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/rainbow6
+SUMMARY:Upper bracket quarterfinal 2: VP vs EDG
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

@@ -234,6 +234,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Play-In Playoffs\nWatch: https://www
  .youtube.com/watch?v=jm7CaLkKCYc
 SUMMARY:Semifinal 2: FNC vs AIU
-URL;VALUE=URI:https://www.youtube.com/watch?v=jm7CaLkKCYc
+URL:https://www.youtube.com/watch?v=jm7CaLkKCYc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T164000Z
+UID:pandascore-match-1602883@esport-ics
+DTSTART:20260806T164000Z
+DTEND:20260806T172500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/rainbow6
+SUMMARY:Upper bracket quarterfinal 1: FaZe vs FNC
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
