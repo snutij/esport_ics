@@ -647,6 +647,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 52 2026 - Group B\
  nWatch: https://kick.com/dutchboycasts
 SUMMARY:Decider match: Leo vs IC.A
-URL;VALUE=URI:https://kick.com/dutchboycasts
+URL:https://kick.com/dutchboycasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T160000Z
+UID:pandascore-match-1622135@esport-ics
+DTSTART:20260806T160000Z
+DTEND:20260806T164500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:IC.A vs OBOYS
 END:VEVENT
 END:VCALENDAR
