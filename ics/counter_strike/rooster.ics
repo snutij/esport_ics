@@ -442,6 +442,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dfrag - Open Series #6 2026 - Group A\nWatch: https://www.twitc
  h.tv/dfragtv
 SUMMARY:Winners match: RSTR vs FURY
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260810T100000Z
+UID:pandascore-match-1615353@esport-ics
+DTSTART:20260810T100000Z
+DTEND:20260810T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Dfrag - Open Series #6 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/dfragtv
+SUMMARY:Upper bracket semifinal 1: RSTR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR

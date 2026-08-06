@@ -490,6 +490,17 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #1 2026 - Group Stage\nWatch: https://www.t
  witch.tv/playzonecz
 SUMMARY:NAVI.J vs JAM
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T140000Z
+UID:pandascore-match-1616725@esport-ics
+DTSTART:20260807T140000Z
+DTEND:20260807T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/playzonecz
+SUMMARY:Upper bracket quarterfinal 4: BRUTE vs NAVI.J
 URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR
