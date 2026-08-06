@@ -240,6 +240,17 @@ SUMMARY:Upper bracket round 1 match 1: TE vs AT
 URL:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260807T080000Z
+UID:pandascore-match-1607776@esport-ics
+DTSTART:20260807T080000Z
+DTEND:20260807T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 2 2026 - Play-Ins\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Upper bracket quarterfinal 1: AG vs TE
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260807T100000Z
 UID:pandascore-match-1607778@esport-ics
 DTSTART:20260807T100000Z
@@ -248,6 +259,6 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - China Stage 2 2026 - Play-Ins\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Upper bracket quarterfinal 3: EDG vs TE
-URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+URL:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

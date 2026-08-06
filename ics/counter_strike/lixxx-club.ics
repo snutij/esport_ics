@@ -47,6 +47,15 @@ CLASS:PUBLIC
 DESCRIPTION:Winline Star Series - Season 3 2026 - Group B\nWatch: https://w
  ww.twitch.tv/kartash0v
 SUMMARY:Lixxx Club vs shoke Club
-URL;VALUE=URI:https://www.twitch.tv/kartash0v
+URL:https://www.twitch.tv/kartash0v
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T090000Z
+UID:pandascore-match-1623248@esport-ics
+DTSTART:20260807T090000Z
+DTEND:20260807T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Winline Star Series - Season 3 2026 - Group B
+SUMMARY:Tiebreaker: Lixxx Club vs SNAILKICK Club
 END:VEVENT
 END:VCALENDAR

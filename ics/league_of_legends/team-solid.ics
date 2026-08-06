@@ -212,6 +212,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Desafiante - Split 2 2026 - Regular Season\nWatch: htt
  ps://www.twitch.tv/cblol
 SUMMARY:TS vs 7REX
-URL;VALUE=URI:https://www.twitch.tv/cblol
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260811T200000Z
+UID:pandascore-match-1586904@esport-ics
+DTSTART:20260811T200000Z
+DTEND:20260811T221500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Play-In\nWatch: https://tw
+ itch.tv/ltasul
+SUMMARY:Upper bracket final: TS vs 7REX
+URL;VALUE=URI:https://twitch.tv/ltasul
 END:VEVENT
 END:VCALENDAR
