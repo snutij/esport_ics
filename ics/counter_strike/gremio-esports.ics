@@ -100,7 +100,7 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 4 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 2: BST vs Grêmio Esports
-URL;VALUE=URI:https://www.twitch.tv/dust2br
+URL:https://www.twitch.tv/dust2br
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260806T183000Z
@@ -110,7 +110,7 @@ DTEND:20260806T204500Z
 CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - July 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/gamersclubcs
-SUMMARY:Grand final: Grêmio Esports vs TBD
+SUMMARY:Grand final: Grêmio Esports vs QUIN
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR
