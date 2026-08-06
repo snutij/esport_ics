@@ -263,6 +263,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - China Stage 2 2026 - Play-Ins\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Upper bracket quarterfinal 2: FPX vs JDG
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260810T080000Z
+UID:pandascore-match-1607780@esport-ics
+DTSTART:20260810T080000Z
+DTEND:20260810T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 2 2026 - Play-Ins\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Upper bracket semifinal 1: JDG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR
