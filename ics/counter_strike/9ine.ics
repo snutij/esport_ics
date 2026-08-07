@@ -441,6 +441,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 7\nWatch: https
  ://www.twitch.tv/pelaajatcom
 SUMMARY:Winners match: HERO vs 9INE
-URL;VALUE=URI:https://www.twitch.tv/pelaajatcom
+URL:https://www.twitch.tv/pelaajatcom
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T150000Z
+UID:pandascore-match-1620560@esport-ics
+DTSTART:20260808T150000Z
+DTEND:20260808T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 7
+SUMMARY:Decider match: 9INE vs ABT
 END:VEVENT
 END:VCALENDAR

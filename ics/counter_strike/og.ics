@@ -322,7 +322,9 @@ UID:pandascore-match-1620567@esport-ics
 DTSTART:20260807T160000Z
 DTEND:20260807T181500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 9
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 9\nWatch: https
+ ://www.twitch.tv/albi1985
 SUMMARY:VAEL vs OG
+URL;VALUE=URI:https://www.twitch.tv/albi1985
 END:VEVENT
 END:VCALENDAR
