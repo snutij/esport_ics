@@ -757,6 +757,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Play-In 2026 - Group A\nWatch: https://kick.com/e
  pldota_en2
 SUMMARY:LYNX vs KW
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T180000Z
+UID:pandascore-match-1624075@esport-ics
+DTSTART:20260807T180000Z
+DTEND:20260807T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/asgard_championship
+SUMMARY:Upper bracket quarterfinal 3: PckCp vs LYNX
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FTS
+SLUG:fts
+BEGIN:VEVENT
+DTSTAMP:20260807T150000Z
+UID:pandascore-match-1624076@esport-ics
+DTSTART:20260807T150000Z
+DTEND:20260807T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/asgard_championship
+SUMMARY:Upper bracket quarterfinal 4: FTS vs LVLUP
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship
+END:VEVENT
+END:VCALENDAR

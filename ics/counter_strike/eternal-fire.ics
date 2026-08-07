@@ -660,7 +660,9 @@ UID:pandascore-match-1620577@esport-ics
 DTSTART:20260807T160000Z
 DTEND:20260807T181500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 11
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 11\nWatch: http
+ s://www.twitch.tv/rootthegamer
 SUMMARY:NADE vs EF
+URL;VALUE=URI:https://www.twitch.tv/rootthegamer
 END:VEVENT
 END:VCALENDAR

@@ -449,7 +449,9 @@ UID:pandascore-match-1620581@esport-ics
 DTSTART:20260807T160000Z
 DTEND:20260807T181500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 12
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 12\nWatch: http
+ s://www.twitch.tv/le_CanapS
 SUMMARY:TL vs DHA
+URL;VALUE=URI:https://www.twitch.tv/le_CanapS
 END:VEVENT
 END:VCALENDAR

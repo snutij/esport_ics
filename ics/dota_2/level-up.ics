@@ -296,6 +296,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 1 2026 - Group B\nWatch: https://kick.com/
  epldota_en2
 SUMMARY:NH vs LVLUP
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T150000Z
+UID:pandascore-match-1624076@esport-ics
+DTSTART:20260807T150000Z
+DTEND:20260807T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/asgard_championship
+SUMMARY:Upper bracket quarterfinal 4: FTS vs LVLUP
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship
 END:VEVENT
 END:VCALENDAR
