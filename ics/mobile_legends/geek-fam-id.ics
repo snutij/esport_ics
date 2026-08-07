@@ -223,6 +223,61 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Indonesia - Season 17 2026 - Playoffs\nWatch: https://www.y
  outube.com/watch?v=niQhkQSz8jo
 SUMMARY:Lower bracket final: GEEK vs BTR
-URL;VALUE=URI:https://www.youtube.com/watch?v=niQhkQSz8jo
+URL:https://www.youtube.com/watch?v=niQhkQSz8jo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T070000Z
+UID:pandascore-match-1624755@esport-ics
+DTSTART:20260815T070000Z
+DTEND:20260815T091500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:TLID vs GEEK
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T100000Z
+UID:pandascore-match-1624759@esport-ics
+DTSTART:20260816T100000Z
+DTEND:20260816T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:GEEK vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T100000Z
+UID:pandascore-match-1624764@esport-ics
+DTSTART:20260822T100000Z
+DTEND:20260822T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:NAVI vs GEEK
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T130000Z
+UID:pandascore-match-1624768@esport-ics
+DTSTART:20260823T130000Z
+DTEND:20260823T151500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:GEEK vs EVOS
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T110000Z
+UID:pandascore-match-1624770@esport-ics
+DTSTART:20260828T110000Z
+DTEND:20260828T131500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:DEWA vs GEEK
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
 END:VEVENT
 END:VCALENDAR

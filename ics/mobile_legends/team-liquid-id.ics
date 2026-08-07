@@ -201,6 +201,61 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Indonesia - Season 17 2026 - Playoffs\nWatch: https://www.y
  outube.com/watch?v=iL8y34hB5Lw
 SUMMARY:Lower bracket semifinal: TLID vs BTR
-URL;VALUE=URI:https://www.youtube.com/watch?v=iL8y34hB5Lw
+URL:https://www.youtube.com/watch?v=iL8y34hB5Lw
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T070000Z
+UID:pandascore-match-1624755@esport-ics
+DTSTART:20260815T070000Z
+DTEND:20260815T091500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:TLID vs GEEK
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T070000Z
+UID:pandascore-match-1624758@esport-ics
+DTSTART:20260816T070000Z
+DTEND:20260816T091500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:TLID vs DEWA
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260821T080000Z
+UID:pandascore-match-1624761@esport-ics
+DTSTART:20260821T080000Z
+DTEND:20260821T101500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:TLID vs NAVI
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T070000Z
+UID:pandascore-match-1624763@esport-ics
+DTSTART:20260822T070000Z
+DTEND:20260822T091500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:TLID vs EVOS
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T070000Z
+UID:pandascore-match-1624771@esport-ics
+DTSTART:20260829T070000Z
+DTEND:20260829T091500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:TLID vs ONIC
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
 END:VEVENT
 END:VCALENDAR

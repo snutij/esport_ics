@@ -26,12 +26,14 @@ DESCRIPTION:Esports World Cup - 2026 - Group A
 SUMMARY:Upper bracket semifinal 1: KOI vs FaZe Clan
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260807T141500Z
+DTSTAMP:20260807T130000Z
 UID:pandascore-match-1609931@esport-ics
-DTSTART:20260807T141500Z
-DTEND:20260807T180000Z
+DTSTART:20260807T130000Z
+DTEND:20260807T164500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Group A
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.youtube.
+ com/watch?v=VsU-lSakJJs
 SUMMARY:Lower bracket semifinal 2: KOI vs C9
+URL;VALUE=URI:https://www.youtube.com/watch?v=VsU-lSakJJs
 END:VEVENT
 END:VCALENDAR

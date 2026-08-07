@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #1 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/playzonecz
 SUMMARY:Upper bracket quarterfinal 1: NXS vs GamersLab Esports
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T110000Z
+UID:pandascore-match-1616720@esport-ics
+DTSTART:20260808T110000Z
+DTEND:20260808T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/playzonecz
+SUMMARY:Lower bracket round 1 match 1: GamersLab Esports vs TBD
 URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR

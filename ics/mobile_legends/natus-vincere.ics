@@ -179,6 +179,72 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Indonesia - Season 17 2026 - Regular Season\nWatch: https:/
  /www.youtube.com/@MLBBeSports/live
 SUMMARY:NAVI vs GEEK
-URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+URL:https://www.youtube.com/@MLBBeSports/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T110000Z
+UID:pandascore-match-1624754@esport-ics
+DTSTART:20260814T110000Z
+DTEND:20260814T131500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:NAVI vs AE
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T130000Z
+UID:pandascore-match-1624757@esport-ics
+DTSTART:20260815T130000Z
+DTEND:20260815T151500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:EVOS vs NAVI
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260821T080000Z
+UID:pandascore-match-1624761@esport-ics
+DTSTART:20260821T080000Z
+DTEND:20260821T101500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:TLID vs NAVI
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T100000Z
+UID:pandascore-match-1624764@esport-ics
+DTSTART:20260822T100000Z
+DTEND:20260822T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:NAVI vs GEEK
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T080000Z
+UID:pandascore-match-1624769@esport-ics
+DTSTART:20260828T080000Z
+DTEND:20260828T101500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:BTR vs NAVI
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T070000Z
+UID:pandascore-match-1624774@esport-ics
+DTSTART:20260830T070000Z
+DTEND:20260830T091500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:NAVI vs ONIC
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
 END:VEVENT
 END:VCALENDAR
