@@ -578,6 +578,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 4 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 2: BST vs Grêmio Esports
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T200000Z
+UID:pandascore-match-1611504@esport-ics
+DTSTART:20260807T200000Z
+DTEND:20260807T221500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 4 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/dust2br
+SUMMARY:Round 3: BST vs YAW
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR
