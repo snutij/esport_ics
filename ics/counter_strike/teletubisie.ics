@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 53 2026 - Group A\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: PCIFIC vs TTBS
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T103000Z
+UID:pandascore-match-1625144@esport-ics
+DTSTART:20260809T103000Z
+DTEND:20260809T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 53 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Quarterfinal 4: FaZe UN vs TTBS
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

@@ -853,6 +853,17 @@ SUMMARY:INF vs Inner Circle Prospect
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260809T080000Z
+UID:pandascore-match-1625143@esport-ics
+DTSTART:20260809T080000Z
+DTEND:20260809T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 53 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Quarterfinal 3: INF vs EAC Rising
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260809T103000Z
 UID:pandascore-match-1616895@esport-ics
 DTSTART:20260809T103000Z

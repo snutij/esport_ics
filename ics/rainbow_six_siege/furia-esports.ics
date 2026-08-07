@@ -298,6 +298,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
  v/rainbow6
 SUMMARY:Upper bracket semifinal 2: FURIA vs GE
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T170000Z
+UID:pandascore-match-1602891@esport-ics
+DTSTART:20260809T170000Z
+DTEND:20260809T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/rainbow6
+SUMMARY:Lower bracket semifinal 1: FURIA vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
