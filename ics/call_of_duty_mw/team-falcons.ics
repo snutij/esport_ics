@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.youtube.
  com/watch?v=YjDOClXZDm8
 SUMMARY:Upper bracket semifinal 2: HTCS vs FAL
-URL;VALUE=URI:https://www.youtube.com/watch?v=YjDOClXZDm8
+URL:https://www.youtube.com/watch?v=YjDOClXZDm8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T144000Z
+UID:pandascore-match-1609943@esport-ics
+DTSTART:20260808T144000Z
+DTEND:20260808T195500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs
+SUMMARY:Quarterfinal 2: FAL vs M8
 END:VEVENT
 END:VCALENDAR

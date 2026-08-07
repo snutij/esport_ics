@@ -475,6 +475,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 12\nWatch: http
  s://www.twitch.tv/Metizport
 SUMMARY:PRE vs MZP
-URL;VALUE=URI:https://www.twitch.tv/Metizport
+URL:https://www.twitch.tv/Metizport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T090000Z
+UID:pandascore-match-1620584@esport-ics
+DTSTART:20260808T090000Z
+DTEND:20260808T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 12
+SUMMARY:Elimination match: DHA vs PRE
 END:VEVENT
 END:VCALENDAR

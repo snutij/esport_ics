@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.youtube.
  com/watch?v=YjDOClXZDm8
 SUMMARY:Upper bracket semifinal 1: OG vs 100T
-URL;VALUE=URI:https://www.youtube.com/watch?v=YjDOClXZDm8
+URL:https://www.youtube.com/watch?v=YjDOClXZDm8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T162000Z
+UID:pandascore-match-1609944@esport-ics
+DTSTART:20260808T162000Z
+DTEND:20260808T213500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs
+SUMMARY:Quarterfinal 3: 100T vs KOI
 END:VEVENT
 END:VCALENDAR

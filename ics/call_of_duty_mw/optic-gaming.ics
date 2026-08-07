@@ -36,6 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.youtube.
  com/watch?v=VsU-lSakJJs
 SUMMARY:Lower bracket semifinal 2: OG vs PN
-URL;VALUE=URI:https://www.youtube.com/watch?v=VsU-lSakJJs
+URL:https://www.youtube.com/watch?v=VsU-lSakJJs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T180000Z
+UID:pandascore-match-1609945@esport-ics
+DTSTART:20260808T180000Z
+DTEND:20260808T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs
+SUMMARY:Quarterfinal 4: FAZE vs OG
 END:VEVENT
 END:VCALENDAR

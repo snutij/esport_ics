@@ -352,6 +352,17 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #1 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/playzoneup
 SUMMARY:Upper bracket semifinal 1: NXS vs JAM
-URL;VALUE=URI:https://www.twitch.tv/playzoneup
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T140000Z
+UID:pandascore-match-1616719@esport-ics
+DTSTART:20260808T140000Z
+DTEND:20260808T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/playzonecz
+SUMMARY:Lower bracket quarterfinal 2: NXS vs TBD
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR

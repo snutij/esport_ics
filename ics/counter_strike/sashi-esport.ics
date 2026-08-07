@@ -650,6 +650,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 13\nWatch: http
  s://www.twitch.tv/d0kt0r3n
 SUMMARY:OW vs SASHI
-URL;VALUE=URI:https://www.twitch.tv/d0kt0r3n
+URL:https://www.twitch.tv/d0kt0r3n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T090000Z
+UID:pandascore-match-1620588@esport-ics
+DTSTART:20260808T090000Z
+DTEND:20260808T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 13
+SUMMARY:Winners match: SASHI vs FOKUS
 END:VEVENT
 END:VCALENDAR

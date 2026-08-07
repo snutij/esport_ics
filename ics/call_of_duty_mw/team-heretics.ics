@@ -36,6 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.youtube.
  com/watch?v=VsU-lSakJJs
 SUMMARY:Lower bracket semifinal 1: HTCS vs WaR
-URL;VALUE=URI:https://www.youtube.com/watch?v=VsU-lSakJJs
+URL:https://www.youtube.com/watch?v=VsU-lSakJJs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T130000Z
+UID:pandascore-match-1609942@esport-ics
+DTSTART:20260808T130000Z
+DTEND:20260808T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs
+SUMMARY:Quarterfinal 1: G2 vs HTCS
 END:VEVENT
 END:VCALENDAR
