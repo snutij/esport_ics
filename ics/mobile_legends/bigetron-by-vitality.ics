@@ -278,7 +278,7 @@ CLASS:PUBLIC
 DESCRIPTION:Games of the Future - 2026 - Playoffs\nWatch: https://www.youtu
  be.com/@GamesoftheFutureOfficial
 SUMMARY:Quarterfinal 4: BTR vs PRO
-URL;VALUE=URI:https://www.youtube.com/@GamesoftheFutureOfficial
+URL:https://www.youtube.com/@GamesoftheFutureOfficial
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260816T100000Z
@@ -333,6 +333,127 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
  /www.youtube.com/@MPLIndonesia/live
 SUMMARY:RRQ vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T100000Z
+UID:pandascore-match-1624780@esport-ics
+DTSTART:20260905T100000Z
+DTEND:20260905T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:EVOS vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T130000Z
+UID:pandascore-match-1624784@esport-ics
+DTSTART:20260906T130000Z
+DTEND:20260906T151500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:BTR vs AE
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T070000Z
+UID:pandascore-match-1624787@esport-ics
+DTSTART:20260912T070000Z
+DTEND:20260912T091500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:TLID vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T130000Z
+UID:pandascore-match-1624797@esport-ics
+DTSTART:20260919T130000Z
+DTEND:20260919T151500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:BTR vs TLID
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T100000Z
+UID:pandascore-match-1624799@esport-ics
+DTSTART:20260920T100000Z
+DTEND:20260920T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:BTR vs ONIC
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T080000Z
+UID:pandascore-match-1624801@esport-ics
+DTSTART:20261002T080000Z
+DTEND:20261002T101500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:GEEK vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T100000Z
+UID:pandascore-match-1624804@esport-ics
+DTSTART:20261003T100000Z
+DTEND:20261003T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:BTR vs RRQ
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T080000Z
+UID:pandascore-match-1624809@esport-ics
+DTSTART:20261008T080000Z
+DTEND:20261008T101500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:AE vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T130000Z
+UID:pandascore-match-1624816@esport-ics
+DTSTART:20261011T130000Z
+DTEND:20261011T151500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:DEWA vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T100000Z
+UID:pandascore-match-1624820@esport-ics
+DTSTART:20261017T100000Z
+DTEND:20261017T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:BTR vs EVOS
+URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T100000Z
+UID:pandascore-match-1624823@esport-ics
+DTSTART:20261018T100000Z
+DTEND:20261018T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
+ /www.youtube.com/@MPLIndonesia/live
+SUMMARY:NAVI vs BTR
 URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
 END:VEVENT
 END:VCALENDAR
