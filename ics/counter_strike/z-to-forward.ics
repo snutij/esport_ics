@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 2\nWatch: https
  ://www.twitch.tv/zonixxcs
 SUMMARY:BIG vs ZTF
-URL;VALUE=URI:https://www.twitch.tv/zonixxcs
+URL:https://www.twitch.tv/zonixxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T120000Z
+UID:pandascore-match-1620534@esport-ics
+DTSTART:20260807T120000Z
+DTEND:20260807T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 2
+SUMMARY:Elimination match: ZTF vs DUSTY
 END:VEVENT
 END:VCALENDAR

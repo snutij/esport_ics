@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 3\nWatch: https
  ://kick.com/lorranbs
 SUMMARY:DENDELE CS vs QC
-URL;VALUE=URI:https://kick.com/lorranbs
+URL:https://kick.com/lorranbs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T120000Z
+UID:pandascore-match-1620544@esport-ics
+DTSTART:20260807T120000Z
+DTEND:20260807T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 3
+SUMMARY:Elimination match: QC vs TBD
 END:VEVENT
 END:VCALENDAR

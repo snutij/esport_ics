@@ -636,6 +636,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 8\nWatch: https
  ://www.twitch.tv/lyonder_cast
 SUMMARY:FKO vs FNC
-URL;VALUE=URI:https://www.twitch.tv/lyonder_cast
+URL:https://www.twitch.tv/lyonder_cast
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T120000Z
+UID:pandascore-match-1620563@esport-ics
+DTSTART:20260807T120000Z
+DTEND:20260807T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 8
+SUMMARY:Winners match: TBD vs FNC
 END:VEVENT
 END:VCALENDAR

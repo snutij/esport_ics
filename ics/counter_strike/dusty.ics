@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 2\nWatch: https
  ://kick.com/cosiq
 SUMMARY:DUSTY vs FXW7
-URL;VALUE=URI:https://kick.com/cosiq
+URL:https://kick.com/cosiq
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T120000Z
+UID:pandascore-match-1620534@esport-ics
+DTSTART:20260807T120000Z
+DTEND:20260807T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 2
+SUMMARY:Elimination match: ZTF vs DUSTY
 END:VEVENT
 END:VCALENDAR

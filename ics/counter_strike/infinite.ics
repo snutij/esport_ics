@@ -727,6 +727,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 5\nWatch: https
  ://www.twitch.tv/litonn
 SUMMARY:INF vs AOG
-URL;VALUE=URI:https://www.twitch.tv/litonn
+URL:https://www.twitch.tv/litonn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T120000Z
+UID:pandascore-match-1620548@esport-ics
+DTSTART:20260807T120000Z
+DTEND:20260807T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 5\nWatch: https
+ ://www.twitch.tv/byalli
+SUMMARY:Winners match: INF vs BCA
+URL;VALUE=URI:https://www.twitch.tv/byalli
 END:VEVENT
 END:VCALENDAR
