@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 9\nWatch: https
  ://www.twitch.tv/albi1985
 SUMMARY:VAEL vs OG
-URL;VALUE=URI:https://www.twitch.tv/albi1985
+URL:https://www.twitch.tv/albi1985
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T090000Z
+UID:pandascore-match-1620569@esport-ics
+DTSTART:20260808T090000Z
+DTEND:20260808T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 9
+SUMMARY:Elimination match: PC vs VAEL
 END:VEVENT
 END:VCALENDAR

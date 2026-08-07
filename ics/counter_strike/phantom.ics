@@ -941,6 +941,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 10\nWatch: http
  s://www.twitch.tv/officialhyper
 SUMMARY:LONE vs PHA
-URL;VALUE=URI:https://www.twitch.tv/officialhyper
+URL:https://www.twitch.tv/officialhyper
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T090000Z
+UID:pandascore-match-1620573@esport-ics
+DTSTART:20260808T090000Z
+DTEND:20260808T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 10
+SUMMARY:Winners match: EYE vs PHA
 END:VEVENT
 END:VCALENDAR

@@ -751,6 +751,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 15\nWatch: http
  s://www.twitch.tv/minicasterr
 SUMMARY:K27 vs DT
-URL;VALUE=URI:https://www.twitch.tv/minicasterr
+URL:https://www.twitch.tv/minicasterr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T090000Z
+UID:pandascore-match-1620598@esport-ics
+DTSTART:20260808T090000Z
+DTEND:20260808T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 15
+SUMMARY:Winners match: K27 vs SIN
 END:VEVENT
 END:VCALENDAR

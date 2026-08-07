@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 12\nWatch: http
  s://www.twitch.tv/fl0m
 SUMMARY:TL vs DHA
-URL;VALUE=URI:https://www.twitch.tv/fl0m
+URL:https://www.twitch.tv/fl0m
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T090000Z
+UID:pandascore-match-1620584@esport-ics
+DTSTART:20260808T090000Z
+DTEND:20260808T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 12
+SUMMARY:Elimination match: DHA vs TBD
 END:VEVENT
 END:VCALENDAR
