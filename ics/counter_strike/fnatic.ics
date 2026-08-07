@@ -633,7 +633,9 @@ UID:pandascore-match-1620562@esport-ics
 DTSTART:20260807T090000Z
 DTEND:20260807T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 8
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 8\nWatch: https
+ ://www.twitch.tv/lyonder_cast
 SUMMARY:FKO vs FNC
+URL;VALUE=URI:https://www.twitch.tv/lyonder_cast
 END:VEVENT
 END:VCALENDAR

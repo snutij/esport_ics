@@ -11,7 +11,9 @@ UID:pandascore-match-1620546@esport-ics
 DTSTART:20260807T090000Z
 DTEND:20260807T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 5
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 5\nWatch: https
+ ://www.twitch.tv/litonn
 SUMMARY:INF vs AOG
+URL;VALUE=URI:https://www.twitch.tv/litonn
 END:VEVENT
 END:VCALENDAR

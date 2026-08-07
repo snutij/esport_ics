@@ -348,7 +348,9 @@ UID:pandascore-match-1620542@esport-ics
 DTSTART:20260807T090000Z
 DTEND:20260807T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 3
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 3\nWatch: https
+ ://www.twitch.tv/roman
 SUMMARY:SAW vs EAC
+URL;VALUE=URI:https://www.twitch.tv/roman
 END:VEVENT
 END:VCALENDAR

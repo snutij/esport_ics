@@ -592,7 +592,9 @@ UID:pandascore-match-1620547@esport-ics
 DTSTART:20260807T090000Z
 DTEND:20260807T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 5
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 5\nWatch: https
+ ://kick.com/innocenttt
 SUMMARY:GPN vs BCA
+URL;VALUE=URI:https://kick.com/innocenttt
 END:VEVENT
 END:VCALENDAR

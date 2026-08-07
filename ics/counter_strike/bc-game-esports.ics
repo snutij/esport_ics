@@ -317,7 +317,9 @@ UID:pandascore-match-1620552@esport-ics
 DTSTART:20260807T090000Z
 DTEND:20260807T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 6
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 6\nWatch: https
+ ://www.twitch.tv/psp1g
 SUMMARY:BCG vs BMB
+URL;VALUE=URI:https://www.twitch.tv/psp1g
 END:VEVENT
 END:VCALENDAR
