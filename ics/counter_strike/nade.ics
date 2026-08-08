@@ -22,7 +22,9 @@ UID:pandascore-match-1620578@esport-ics
 DTSTART:20260808T090000Z
 DTEND:20260808T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 11
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 11\nWatch: http
+ s://www.twitch.tv/roman
 SUMMARY:Winners match: 100T vs NADE
+URL;VALUE=URI:https://www.twitch.tv/roman
 END:VEVENT
 END:VCALENDAR

@@ -275,7 +275,9 @@ UID:pandascore-match-1620603@esport-ics
 DTSTART:20260808T090000Z
 DTEND:20260808T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 16
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 16\nWatch: http
+ s://www.twitch.tv/krat0ntv
 SUMMARY:Winners match: JJH vs VP
+URL;VALUE=URI:https://www.twitch.tv/krat0ntv
 END:VEVENT
 END:VCALENDAR
