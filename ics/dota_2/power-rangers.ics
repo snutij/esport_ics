@@ -703,6 +703,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 1 2026 - Group A\nWatch: https://kick.com/
  epldota_en2
 SUMMARY:PR vs STX
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T090000Z
+UID:pandascore-match-1606799@esport-ics
+DTSTART:20260809T090000Z
+DTEND:20260809T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Playoffs\nWatch: https://kick.com
+ /epldota_en2
+SUMMARY:Upper bracket quarterfinal 1: PR vs YeS
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

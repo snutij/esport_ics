@@ -738,6 +738,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 1 2026 - Group B\nWatch: https://kick.com/
  epldota_en2
 SUMMARY:Z10 vs KW
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T180000Z
+UID:pandascore-match-1606802@esport-ics
+DTSTART:20260809T180000Z
+DTEND:20260809T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Playoffs\nWatch: https://kick.com
+ /epldota_en2
+SUMMARY:Upper bracket quarterfinal 4: Z10 vs Na`Vi
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
