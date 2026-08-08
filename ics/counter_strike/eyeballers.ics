@@ -498,6 +498,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 10\nWatch: http
  s://kick.com/innocenttt
 SUMMARY:Winners match: EYE vs PHA
-URL;VALUE=URI:https://kick.com/innocenttt
+URL:https://kick.com/innocenttt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T090000Z
+UID:pandascore-match-1620607@esport-ics
+DTSTART:20260809T090000Z
+DTEND:20260809T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+SUMMARY:Round of 32 match 2: SIN vs EYE
 END:VEVENT
 END:VCALENDAR

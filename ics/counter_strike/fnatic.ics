@@ -647,6 +647,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 8\nWatch: https
  ://www.twitch.tv/minicasterr
 SUMMARY:Winners match: 6666 vs FNC
-URL;VALUE=URI:https://www.twitch.tv/minicasterr
+URL:https://www.twitch.tv/minicasterr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T090000Z
+UID:pandascore-match-1620609@esport-ics
+DTSTART:20260809T090000Z
+DTEND:20260809T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+SUMMARY:Round of 32 match 4: FXW7 vs FNC
 END:VEVENT
 END:VCALENDAR

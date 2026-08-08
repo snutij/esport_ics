@@ -963,6 +963,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 10\nWatch: http
  s://kick.com/dutchboycasts
 SUMMARY:Decider match: LONE vs PHA
-URL;VALUE=URI:https://kick.com/dutchboycasts
+URL:https://kick.com/dutchboycasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T090000Z
+UID:pandascore-match-1620614@esport-ics
+DTSTART:20260809T090000Z
+DTEND:20260809T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+SUMMARY:Round of 32 match 9: NRG vs PHA
 END:VEVENT
 END:VCALENDAR

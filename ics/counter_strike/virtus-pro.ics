@@ -278,6 +278,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 16\nWatch: http
  s://www.twitch.tv/krat0ntv
 SUMMARY:Winners match: JJH vs VP
-URL;VALUE=URI:https://www.twitch.tv/krat0ntv
+URL:https://www.twitch.tv/krat0ntv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T090000Z
+UID:pandascore-match-1620610@esport-ics
+DTSTART:20260809T090000Z
+DTEND:20260809T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+SUMMARY:Round of 32 match 5: VP vs SASHI
 END:VEVENT
 END:VCALENDAR

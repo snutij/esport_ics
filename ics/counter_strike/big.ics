@@ -585,6 +585,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 2\nWatch: https
  ://www.twitch.tv/zonixxcs
 SUMMARY:Winners match: BIG vs FXW7
-URL;VALUE=URI:https://www.twitch.tv/zonixxcs
+URL:https://www.twitch.tv/zonixxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T090000Z
+UID:pandascore-match-1620613@esport-ics
+DTSTART:20260809T090000Z
+DTEND:20260809T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+SUMMARY:Round of 32 match 8: EF vs BIG
 END:VEVENT
 END:VCALENDAR

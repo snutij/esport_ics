@@ -495,6 +495,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 12\nWatch: http
  s://www.twitch.tv/Metizport
 SUMMARY:Decider match: PRE vs MZP
-URL;VALUE=URI:https://www.twitch.tv/Metizport
+URL:https://www.twitch.tv/Metizport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T090000Z
+UID:pandascore-match-1620611@esport-ics
+DTSTART:20260809T090000Z
+DTEND:20260809T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+SUMMARY:Round of 32 match 6: PRE vs BCA
 END:VEVENT
 END:VCALENDAR

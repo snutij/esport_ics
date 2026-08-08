@@ -670,6 +670,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 4\nWatch: https
  ://www.twitch.tv/krl_stream
 SUMMARY:Winners match: HOTU vs G1
-URL;VALUE=URI:https://www.twitch.tv/krl_stream
+URL:https://www.twitch.tv/krl_stream
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T090000Z
+UID:pandascore-match-1620617@esport-ics
+DTSTART:20260809T090000Z
+DTEND:20260809T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+SUMMARY:Round of 32 match 12: 9INE vs HOTU
 END:VEVENT
 END:VCALENDAR

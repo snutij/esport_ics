@@ -586,6 +586,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 15\nWatch: http
  s://kick.com/bladeito
 SUMMARY:Winners match: K27 vs SIN
-URL;VALUE=URI:https://kick.com/bladeito
+URL:https://kick.com/bladeito
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T090000Z
+UID:pandascore-match-1620607@esport-ics
+DTSTART:20260809T090000Z
+DTEND:20260809T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+SUMMARY:Round of 32 match 2: SIN vs EYE
 END:VEVENT
 END:VCALENDAR

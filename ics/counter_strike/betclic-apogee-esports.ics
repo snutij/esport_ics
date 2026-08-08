@@ -606,6 +606,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 5\nWatch: https
  ://www.twitch.tv/byalli
 SUMMARY:Winners match: INF vs BCA
-URL;VALUE=URI:https://www.twitch.tv/byalli
+URL:https://www.twitch.tv/byalli
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T090000Z
+UID:pandascore-match-1620611@esport-ics
+DTSTART:20260809T090000Z
+DTEND:20260809T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+SUMMARY:Round of 32 match 6: PRE vs BCA
 END:VEVENT
 END:VCALENDAR

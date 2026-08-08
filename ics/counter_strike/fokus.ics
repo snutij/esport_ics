@@ -666,6 +666,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 13\nWatch: http
  s://www.twitch.tv/jester_andrew
 SUMMARY:Winners match: SASHI vs FOKUS
-URL;VALUE=URI:https://www.twitch.tv/jester_andrew
+URL:https://www.twitch.tv/jester_andrew
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T090000Z
+UID:pandascore-match-1620618@esport-ics
+DTSTART:20260809T090000Z
+DTEND:20260809T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+SUMMARY:Round of 32 match 13: FOKUS vs ACE
 END:VEVENT
 END:VCALENDAR
