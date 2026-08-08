@@ -495,7 +495,9 @@ UID:pandascore-match-1620573@esport-ics
 DTSTART:20260808T090000Z
 DTEND:20260808T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 10
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 10\nWatch: http
+ s://kick.com/innocenttt
 SUMMARY:Winners match: EYE vs PHA
+URL;VALUE=URI:https://kick.com/innocenttt
 END:VEVENT
 END:VCALENDAR

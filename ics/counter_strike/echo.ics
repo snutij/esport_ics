@@ -152,7 +152,9 @@ UID:pandascore-match-1620568@esport-ics
 DTSTART:20260808T090000Z
 DTEND:20260808T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 9
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 9\nWatch: https
+ ://kick.com/teameac
 SUMMARY:Winners match: ECHO vs OG
+URL;VALUE=URI:https://kick.com/teameac
 END:VEVENT
 END:VCALENDAR

@@ -663,7 +663,9 @@ UID:pandascore-match-1620588@esport-ics
 DTSTART:20260808T090000Z
 DTEND:20260808T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 13
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 13\nWatch: http
+ s://www.twitch.tv/jester_andrew
 SUMMARY:Winners match: SASHI vs FOKUS
+URL;VALUE=URI:https://www.twitch.tv/jester_andrew
 END:VEVENT
 END:VCALENDAR

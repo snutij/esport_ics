@@ -22,7 +22,9 @@ UID:pandascore-match-1620594@esport-ics
 DTSTART:20260808T090000Z
 DTEND:20260808T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 14
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 14\nWatch: http
+ s://www.twitch.tv/litonn
 SUMMARY:Elimination match: VAN vs SHU
+URL;VALUE=URI:https://www.twitch.tv/litonn
 END:VEVENT
 END:VCALENDAR
