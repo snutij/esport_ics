@@ -531,6 +531,17 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 6 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/tastelesstv
 SUMMARY:Upper bracket final: Serral vs Rogue
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T101500Z
+UID:pandascore-match-1595627@esport-ics
+DTSTART:20260809T101500Z
+DTEND:20260809T153000Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 6 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/tastelesstv
+SUMMARY:Lower bracket final: Rogue vs TBD
 URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR

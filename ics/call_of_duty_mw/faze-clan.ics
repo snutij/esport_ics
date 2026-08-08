@@ -31,7 +31,9 @@ UID:pandascore-match-1609945@esport-ics
 DTSTART:20260808T180000Z
 DTEND:20260808T231500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Playoffs
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.youtube
+ .com/watch?v=ciOaZXz8CdQ
 SUMMARY:Quarterfinal 4: FAZE vs OG
+URL;VALUE=URI:https://www.youtube.com/watch?v=ciOaZXz8CdQ
 END:VEVENT
 END:VCALENDAR

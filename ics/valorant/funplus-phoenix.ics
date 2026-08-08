@@ -262,6 +262,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - China Stage 2 2026 - Play-Ins\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Lower bracket round 1 match 2: KBG vs FPX
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T100000Z
+UID:pandascore-match-1607787@esport-ics
+DTSTART:20260809T100000Z
+DTEND:20260809T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 2 2026 - Play-Ins\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Lower bracket quarterfinal 2: TE vs FPX
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

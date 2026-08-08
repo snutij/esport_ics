@@ -44,7 +44,9 @@ UID:pandascore-match-1609943@esport-ics
 DTSTART:20260808T144000Z
 DTEND:20260808T195500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - 2026 - Playoffs
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.youtube
+ .com/watch?v=ciOaZXz8CdQ
 SUMMARY:Quarterfinal 2: FAL vs M8
+URL;VALUE=URI:https://www.youtube.com/watch?v=ciOaZXz8CdQ
 END:VEVENT
 END:VCALENDAR
