@@ -26,12 +26,14 @@ DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 10
 SUMMARY:Elimination match: REV vs LONE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260808T120000Z
+DTSTAMP:20260808T124500Z
 UID:pandascore-match-1620575@esport-ics
-DTSTART:20260808T120000Z
-DTEND:20260808T141500Z
+DTSTART:20260808T124500Z
+DTEND:20260808T150000Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 10
-SUMMARY:Decider match: LONE vs TBD
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 10\nWatch: http
+ s://kick.com/dutchboycasts
+SUMMARY:Decider match: LONE vs PHA
+URL;VALUE=URI:https://kick.com/dutchboycasts
 END:VEVENT
 END:VCALENDAR

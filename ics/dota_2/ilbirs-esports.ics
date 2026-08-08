@@ -580,4 +580,15 @@ DESCRIPTION:EPL Masters - Season 1 2026 - Group A\nWatch: https://kick.com/
 SUMMARY:JENZ vs ILL
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T180000Z
+UID:pandascore-match-1625139@esport-ics
+DTSTART:20260809T180000Z
+DTEND:20260809T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/asgard_championship
+SUMMARY:Lower bracket round 1 match 1: RE.Arise vs ILL
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship
+END:VEVENT
 END:VCALENDAR

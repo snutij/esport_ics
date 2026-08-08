@@ -783,4 +783,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:BB vs VP.P
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T103000Z
+UID:pandascore-match-1616795@esport-ics
+DTSTART:20260812T103000Z
+DTEND:20260812T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Group B\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: PSN.A vs VP.P
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

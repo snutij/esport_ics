@@ -325,6 +325,17 @@ SUMMARY:Semifinal 1: SRG vs ONIC
 URL:https://www.youtube.com/watch?v=yq_oVgCS4L0
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260809T130000Z
+UID:pandascore-match-1610818@esport-ics
+DTSTART:20260809T130000Z
+DTEND:20260809T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Games of the Future - 2026 - Playoffs\nWatch: https://www.youtu
+ be.com/@GamesoftheFutureOfficial
+SUMMARY:Grand final: ONIC vs TBD
+URL;VALUE=URI:https://www.youtube.com/@GamesoftheFutureOfficial
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260816T130000Z
 UID:pandascore-match-1624760@esport-ics
 DTSTART:20260816T130000Z
