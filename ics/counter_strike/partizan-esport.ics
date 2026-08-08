@@ -333,4 +333,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 13
 SUMMARY:Elimination match: OW vs PAR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T114000Z
+UID:pandascore-match-1620590@esport-ics
+DTSTART:20260808T114000Z
+DTEND:20260808T135500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 13\nWatch: http
+ s://www.twitch.tv/jester_andrew
+SUMMARY:Decider match: PAR vs SASHI
+URL;VALUE=URI:https://www.twitch.tv/jester_andrew
+END:VEVENT
 END:VCALENDAR

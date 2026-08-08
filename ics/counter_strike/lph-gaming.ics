@@ -986,14 +986,14 @@ SUMMARY:Upper bracket quarterfinal 2: JAM vs LPH
 URL:https://www.twitch.tv/playzonecz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260808T110000Z
+DTSTAMP:20260808T113000Z
 UID:pandascore-match-1616720@esport-ics
-DTSTART:20260808T110000Z
-DTEND:20260808T131500Z
+DTSTART:20260808T113000Z
+DTEND:20260808T134500Z
 CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #1 2026 - Playoffs\nWatch: https://www.twit
- ch.tv/playzonecz
+ ch.tv/playzoneup
 SUMMARY:Lower bracket round 1 match 1: GamersLab Esports vs LPH
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL;VALUE=URI:https://www.twitch.tv/playzoneup
 END:VEVENT
 END:VCALENDAR

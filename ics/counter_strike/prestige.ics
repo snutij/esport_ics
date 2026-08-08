@@ -487,12 +487,14 @@ DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 12
 SUMMARY:Elimination match: DHA vs PRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260808T120000Z
+DTSTAMP:20260808T113000Z
 UID:pandascore-match-1620585@esport-ics
-DTSTART:20260808T120000Z
-DTEND:20260808T141500Z
+DTSTART:20260808T113000Z
+DTEND:20260808T134500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 12
-SUMMARY:Decider match: PRE vs TBD
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 12\nWatch: http
+ s://www.twitch.tv/Metizport
+SUMMARY:Decider match: PRE vs MZP
+URL;VALUE=URI:https://www.twitch.tv/Metizport
 END:VEVENT
 END:VCALENDAR
