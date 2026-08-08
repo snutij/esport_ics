@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #1 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/playzonecz
 SUMMARY:Upper bracket final: JAM vs UNiTY
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T140000Z
+UID:pandascore-match-1616712@esport-ics
+DTSTART:20260809T140000Z
+DTEND:20260809T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #1 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/playzonecz
+SUMMARY:Grand final: JAM vs TBD
 URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR
