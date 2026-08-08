@@ -193,6 +193,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #7 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs4
 SUMMARY:Lower bracket quarterfinal 2: banda chuya vs mellren
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T183000Z
+UID:pandascore-match-1626684@esport-ics
+DTSTART:20260809T183000Z
+DTEND:20260809T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:GoldRashers vs banda chuya
 END:VEVENT
 END:VCALENDAR

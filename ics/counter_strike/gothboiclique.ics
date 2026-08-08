@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Gothboiclique
+X-WR-CALNAME:gothboiclique
 SLUG:gothboiclique
 BEGIN:VEVENT
 DTSTAMP:20260212T104500Z
@@ -118,6 +118,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #7 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs4
 SUMMARY:Lower bracket round 1 match 3: GBC vs TrafficPills Esports
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T183000Z
+UID:pandascore-match-1626682@esport-ics
+DTSTART:20260809T183000Z
+DTEND:20260809T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:GBC vs NoTime
 END:VEVENT
 END:VCALENDAR
