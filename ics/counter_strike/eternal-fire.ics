@@ -674,6 +674,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 11\nWatch: http
  s://kick.com/ismetsener
 SUMMARY:Elimination match: SF vs EF
-URL;VALUE=URI:https://kick.com/ismetsener
+URL:https://kick.com/ismetsener
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T120000Z
+UID:pandascore-match-1620580@esport-ics
+DTSTART:20260808T120000Z
+DTEND:20260808T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 11
+SUMMARY:Decider match: EF vs TBD
 END:VEVENT
 END:VCALENDAR
