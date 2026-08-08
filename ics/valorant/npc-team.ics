@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NPC Team
+SLUG:npc-team
+BEGIN:VEVENT
+DTSTAMP:20260810T220000Z
+UID:pandascore-match-1626599@esport-ics
+DTSTART:20260810T220000Z
+DTEND:20260811T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Main Event 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:Lower bracket semifinal: NPC Team vs OG
+URL;VALUE=URI:https://www.twitch.tv/valorant_la
+END:VEVENT
+END:VCALENDAR

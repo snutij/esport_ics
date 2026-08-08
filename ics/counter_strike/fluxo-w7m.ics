@@ -437,7 +437,9 @@ UID:pandascore-match-1620535@esport-ics
 DTSTART:20260808T143000Z
 DTEND:20260808T164500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 2
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 2\nWatch: https
+ ://kick.com/michel
 SUMMARY:Decider match: FXW7 vs DUSTY
+URL;VALUE=URI:https://kick.com/michel
 END:VEVENT
 END:VCALENDAR
