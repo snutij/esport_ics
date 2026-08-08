@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 14\nWatch: http
  s://www.twitch.tv/litonn
 SUMMARY:Elimination match: VAN vs SHU
-URL;VALUE=URI:https://www.twitch.tv/litonn
+URL:https://www.twitch.tv/litonn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T120000Z
+UID:pandascore-match-1620595@esport-ics
+DTSTART:20260808T120000Z
+DTEND:20260808T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 14
+SUMMARY:Decider match: SHU vs TBD
 END:VEVENT
 END:VCALENDAR

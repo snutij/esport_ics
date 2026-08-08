@@ -473,6 +473,17 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 6 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/tastelesstv
 SUMMARY:Lower bracket quarterfinal 1: herO vs SHIN
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T090000Z
+UID:pandascore-match-1595626@esport-ics
+DTSTART:20260809T090000Z
+DTEND:20260809T124500Z
+CLASS:PUBLIC
+DESCRIPTION:RSL Revival - Season 6 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/tastelesstv
+SUMMARY:Lower bracket semifinal: SHIN vs TBD
 URL;VALUE=URI:https://www.twitch.tv/tastelesstv
 END:VEVENT
 END:VCALENDAR
