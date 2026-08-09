@@ -491,6 +491,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 2 2026 - Play-Ins\nWatch: https://www.twitch.t
  v/valorant_emea
 SUMMARY:Upper bracket quarterfinal 4: M8 vs EP
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T180000Z
+UID:pandascore-match-1608149@esport-ics
+DTSTART:20260815T180000Z
+DTEND:20260815T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Play-Ins\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:Upper bracket semifinal 2: FF vs EP
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

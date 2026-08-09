@@ -440,6 +440,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 1 2026 - Playoffs\nWatch: https://kick.com
  /epldota_en2
 SUMMARY:Upper bracket quarterfinal 4: Z10 vs Na`Vi
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260810T180000Z
+UID:pandascore-match-1606804@esport-ics
+DTSTART:20260810T180000Z
+DTEND:20260810T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Playoffs\nWatch: https://kick.com
+ /epldota_en2
+SUMMARY:Upper bracket semifinal 2: RE vs Na`Vi
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
