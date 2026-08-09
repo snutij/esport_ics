@@ -707,6 +707,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
  s://www.twitch.tv/Zerpherr
 SUMMARY:Round of 32 match 16: INF vs 100T
-URL;VALUE=URI:https://www.twitch.tv/Zerpherr
+URL:https://www.twitch.tv/Zerpherr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T114500Z
+UID:pandascore-match-1620629@esport-ics
+DTSTART:20260809T114500Z
+DTEND:20260809T140000Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+SUMMARY:Round of 16 match 8: 100T vs BCG
 END:VEVENT
 END:VCALENDAR
