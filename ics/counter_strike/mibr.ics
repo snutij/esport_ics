@@ -440,6 +440,17 @@ CLASS:PUBLIC
 DESCRIPTION:StarLadder StarSeries - South American Qualifier Fall 2026 - Pl
  ayoffs\nWatch: https://kick.com/starladder
 SUMMARY:Grand final: MIBR vs BST
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T132000Z
+UID:pandascore-match-1624088@esport-ics
+DTSTART:20260812T132000Z
+DTEND:20260812T140500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Upper bracket quarterfinal 2: MIBR vs AST
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 END:VCALENDAR

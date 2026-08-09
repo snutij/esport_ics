@@ -727,4 +727,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
 SUMMARY:Quarterfinal 4: 100T vs 1WIN
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T154000Z
+UID:pandascore-match-1624231@esport-ics
+DTSTART:20260812T154000Z
+DTEND:20260812T162500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Upper bracket quarterfinal 1: VIT vs 100T
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
 END:VCALENDAR

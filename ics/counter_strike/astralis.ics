@@ -454,6 +454,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Bounty - Summer 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/BLASTPremier
 SUMMARY:Semifinal 2: AST vs MOUZ
-URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T132000Z
+UID:pandascore-match-1624088@esport-ics
+DTSTART:20260812T132000Z
+DTEND:20260812T140500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Upper bracket quarterfinal 2: MIBR vs AST
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 END:VCALENDAR

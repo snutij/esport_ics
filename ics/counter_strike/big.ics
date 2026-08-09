@@ -596,6 +596,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
  s://www.twitch.tv/zonixxcs
 SUMMARY:Round of 32 match 8: EF vs BIG
-URL;VALUE=URI:https://www.twitch.tv/zonixxcs
+URL:https://www.twitch.tv/zonixxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T121000Z
+UID:pandascore-match-1624080@esport-ics
+DTSTART:20260812T121000Z
+DTEND:20260812T125500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Upper bracket quarterfinal 4: BIG vs AUR
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 END:VCALENDAR

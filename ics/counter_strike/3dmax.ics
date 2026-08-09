@@ -579,6 +579,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Bounty - Summer 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/BLASTPremier
 SUMMARY:Quarterfinal 3: 3DMAX vs MOUZ
-URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T180000Z
+UID:pandascore-match-1624319@esport-ics
+DTSTART:20260812T180000Z
+DTEND:20260812T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Upper bracket quarterfinal 1: NAVI vs 3DMAX
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 END:VCALENDAR
