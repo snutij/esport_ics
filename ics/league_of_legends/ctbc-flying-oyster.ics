@@ -184,6 +184,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Split 3 2026 - Group Stage\nWatch: https://www.twitch.tv/
  lolpacificen
 SUMMARY:Round 4: CFO vs GZ
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T090000Z
+UID:pandascore-match-1602804@esport-ics
+DTSTART:20260814T090000Z
+DTEND:20260814T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 3 2026 - Group Stage\nWatch: https://www.twitch.tv/
+ lolpacificen
+SUMMARY:Seeding match 1: MVK vs CFO
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR

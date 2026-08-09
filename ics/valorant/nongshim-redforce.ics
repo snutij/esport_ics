@@ -281,6 +281,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Pacific Stage 2 2026 - Group Alpha\nWatch: https://www.tw
  itch.tv/valorant_pacific
 SUMMARY:NS vs RRQ
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T110000Z
+UID:pandascore-match-1619616@esport-ics
+DTSTART:20260816T110000Z
+DTEND:20260816T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Play-In\nWatch: https://www.twitch
+ .tv/valorant_pacific
+SUMMARY:Upper bracket round 2 match 4: TBD vs NS
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR
