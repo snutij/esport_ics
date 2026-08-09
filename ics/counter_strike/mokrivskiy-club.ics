@@ -70,6 +70,17 @@ CLASS:PUBLIC
 DESCRIPTION:Winline Star Series - Season 3 2026 - Playoffs\nWatch: https://
  www.twitch.tv/kartash0v
 SUMMARY:Lower bracket final: mokrivskiy Club vs Perfecto Club
+URL:https://www.twitch.tv/kartash0v
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T170000Z
+UID:pandascore-match-1614342@esport-ics
+DTSTART:20260809T170000Z
+DTEND:20260809T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Winline Star Series - Season 3 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/kartash0v
+SUMMARY:Grand final: Buster Club vs mokrivskiy Club
 URL;VALUE=URI:https://www.twitch.tv/kartash0v
 END:VEVENT
 END:VCALENDAR
