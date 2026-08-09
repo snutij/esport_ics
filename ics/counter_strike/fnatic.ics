@@ -670,12 +670,14 @@ DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
 SUMMARY:Round of 16 match 2: HERO vs FNC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260809T150000Z
+DTSTAMP:20260809T153000Z
 UID:pandascore-match-1620630@esport-ics
-DTSTART:20260809T150000Z
-DTEND:20260809T171500Z
+DTSTART:20260809T153000Z
+DTEND:20260809T174500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
-SUMMARY:Quarterfinal 1: FNC vs TBD
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
+ s://www.twitch.tv/aidstarcs
+SUMMARY:Quarterfinal 1: FNC vs K27
+URL;VALUE=URI:https://www.twitch.tv/aidstarcs
 END:VEVENT
 END:VCALENDAR

@@ -635,6 +635,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 1 2026 - Playoffs\nWatch: https://kick.com
  /epldota_en2
 SUMMARY:Upper bracket quarterfinal 2: LVLUP vs MOUZ
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260810T090000Z
+UID:pandascore-match-1606807@esport-ics
+DTSTART:20260810T090000Z
+DTEND:20260810T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Playoffs\nWatch: https://kick.com
+ /epldota_en2
+SUMMARY:Lower bracket round 1 match 1: PR vs MOUZ
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
