@@ -572,7 +572,9 @@ UID:pandascore-match-1620608@esport-ics
 DTSTART:20260809T090000Z
 DTEND:20260809T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
+ s://www.twitch.tv/sneakybeakyttv
 SUMMARY:Round of 32 match 3: HERO vs ASTR
+URL;VALUE=URI:https://www.twitch.tv/sneakybeakyttv
 END:VEVENT
 END:VCALENDAR

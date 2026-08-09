@@ -405,7 +405,9 @@ UID:pandascore-match-1620615@esport-ics
 DTSTART:20260809T090000Z
 DTEND:20260809T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
+ s://www.twitch.tv/kabrafps
 SUMMARY:Round of 32 match 10: JJH vs DENDELE CS
+URL;VALUE=URI:https://www.twitch.tv/kabrafps
 END:VEVENT
 END:VCALENDAR

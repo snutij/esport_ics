@@ -635,7 +635,9 @@ UID:pandascore-match-1620619@esport-ics
 DTSTART:20260809T090000Z
 DTEND:20260809T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
+ s://www.twitch.tv/vanfantv
 SUMMARY:Round of 32 match 14: 1WIN vs TL
+URL;VALUE=URI:https://www.twitch.tv/vanfantv
 END:VEVENT
 END:VCALENDAR

@@ -503,7 +503,9 @@ UID:pandascore-match-1620611@esport-ics
 DTSTART:20260809T090000Z
 DTEND:20260809T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
+ s://kick.com/innocenttt
 SUMMARY:Round of 32 match 6: PRE vs BCA
+URL;VALUE=URI:https://kick.com/innocenttt
 END:VEVENT
 END:VCALENDAR

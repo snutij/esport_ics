@@ -680,7 +680,9 @@ UID:pandascore-match-1620610@esport-ics
 DTSTART:20260809T090000Z
 DTEND:20260809T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
+ s://www.twitch.tv/dayneez
 SUMMARY:Round of 32 match 5: VP vs SASHI
+URL;VALUE=URI:https://www.twitch.tv/dayneez
 END:VEVENT
 END:VCALENDAR

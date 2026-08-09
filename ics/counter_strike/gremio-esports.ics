@@ -135,4 +135,15 @@ DESCRIPTION:BetBoom Storm - Season 4 2026 - Group Stage\nWatch: https://www
 SUMMARY:Round 4: GRE vs PCY
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T234500Z
+UID:pandascore-match-1627169@esport-ics
+DTSTART:20260809T234500Z
+DTEND:20260810T020000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Challengers #2 2026 - Playoffs\nWatch: http
+ s://kick.com/cct_cs3
+SUMMARY:Upper bracket round 1 match 8: GRE vs QUIN
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR

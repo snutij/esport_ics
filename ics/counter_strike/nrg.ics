@@ -336,7 +336,9 @@ UID:pandascore-match-1620614@esport-ics
 DTSTART:20260809T090000Z
 DTEND:20260809T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
+ s://www.twitch.tv/endiezcasts
 SUMMARY:Round of 32 match 9: NRG vs PHA
+URL;VALUE=URI:https://www.twitch.tv/endiezcasts
 END:VEVENT
 END:VCALENDAR

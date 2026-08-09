@@ -328,7 +328,9 @@ UID:pandascore-match-1620620@esport-ics
 DTSTART:20260809T090000Z
 DTEND:20260809T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins
+DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
+ s://www.twitch.tv/psp1g
 SUMMARY:Round of 32 match 15: BCG vs OG
+URL;VALUE=URI:https://www.twitch.tv/psp1g
 END:VEVENT
 END:VCALENDAR
