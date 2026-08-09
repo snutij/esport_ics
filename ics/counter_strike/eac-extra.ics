@@ -27,4 +27,15 @@ DESCRIPTION:European Pro League - Regular season 6 2026 - Group D\nWatch: h
 SUMMARY:Elimination match: EACE vs BW
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260810T103000Z
+UID:pandascore-match-1626616@esport-ics
+DTSTART:20260810T103000Z
+DTEND:20260810T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 53 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket round 1 match 2: EACE vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
