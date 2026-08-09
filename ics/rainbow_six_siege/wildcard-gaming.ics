@@ -320,6 +320,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
  v/rainbow6
 SUMMARY:Upper bracket semifinal 2: FLCS vs WCG
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T140000Z
+UID:pandascore-match-1602893@esport-ics
+DTSTART:20260812T140000Z
+DTEND:20260812T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/rainbow6
+SUMMARY:Quarterfinal 1: WCG vs FURIA
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

@@ -270,6 +270,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.youtube.
  com/watch?v=0WLHje5J62s
 SUMMARY:Lower bracket semifinal 2: VP vs WBG
-URL;VALUE=URI:https://www.youtube.com/watch?v=0WLHje5J62s
+URL:https://www.youtube.com/watch?v=0WLHje5J62s
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T170000Z
+UID:pandascore-match-1602894@esport-ics
+DTSTART:20260812T170000Z
+DTEND:20260812T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/rainbow6
+SUMMARY:Quarterfinal 2: DZ vs WBG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
