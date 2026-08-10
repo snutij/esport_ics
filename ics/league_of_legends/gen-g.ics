@@ -456,6 +456,17 @@ SUMMARY:Round 3 match 1: HLE vs GEN
 URL:https://www.youtube.com/@KeSPA/live
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260810T111500Z
+UID:pandascore-match-1599727@esport-ics
+DTSTART:20260810T111500Z
+DTEND:20260810T133000Z
+CLASS:PUBLIC
+DESCRIPTION:KeSPA Cup - 2026 - Last Chance Qualifier\nWatch: https://www.tw
+ itch.tv/kespacarry
+SUMMARY:Round 4: GEN vs TBD
+URL;VALUE=URI:https://www.twitch.tv/kespacarry
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260813T100000Z
 UID:pandascore-match-1568923@esport-ics
 DTSTART:20260813T100000Z

@@ -256,6 +256,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - North America: Stage 3 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/VALORANT_NorthAmerica
 SUMMARY:Grand final: M80 vs SRB
-URL;VALUE=URI:https://www.twitch.tv/VALORANT_NorthAmerica
+URL:https://www.twitch.tv/VALORANT_NorthAmerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T000000Z
+UID:pandascore-match-1616149@esport-ics
+DTSTART:20260814T000000Z
+DTEND:20260814T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Play-In\nWatch: https://www.twitc
+ h.tv/valorant_americas
+SUMMARY:Upper bracket round 1 match 2: NV vs M80
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR
