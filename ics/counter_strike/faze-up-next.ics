@@ -126,4 +126,15 @@ DESCRIPTION:European Pro League - Regular season 6 2026 - Group A\nWatch: h
 SUMMARY:Decider match: FaZe UN vs B8.A
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T103000Z
+UID:pandascore-match-1629137@esport-ics
+DTSTART:20260812T103000Z
+DTEND:20260812T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 53 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket quarterfinal 2: FaZe UN vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
