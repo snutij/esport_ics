@@ -875,17 +875,6 @@ SUMMARY:Winners match: INOX vs INF
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260811T080000Z
-UID:pandascore-match-1616912@esport-ics
-DTSTART:20260811T080000Z
-DTEND:20260811T101500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Regular season 6 2026 - Group C\nWatch: h
- ttps://kick.com/eplcs_en
-SUMMARY:Decider match: INF vs TBD
-URL;VALUE=URI:https://kick.com/eplcs_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260811T103000Z
 UID:pandascore-match-1626618@esport-ics
 DTSTART:20260811T103000Z
@@ -895,5 +884,16 @@ DESCRIPTION:United21 - Season 53 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket semifinal 2: INF vs TTBS
 URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T133000Z
+UID:pandascore-match-1616912@esport-ics
+DTSTART:20260812T133000Z
+DTEND:20260812T154500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider match: INF vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

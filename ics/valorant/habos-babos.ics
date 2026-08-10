@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers EMEA Stage 3 2026 - Group Stage\nWatch: htt
  ps://www.twitch.tv/valorant_emea
 SUMMARY:FKS vs HBS
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T150000Z
+UID:pandascore-match-1629293@esport-ics
+DTSTART:20260814T150000Z
+DTEND:20260814T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers EMEA Stage 3 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/valorant_emea
+SUMMARY:Upper bracket quarterfinal 3: HBS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
