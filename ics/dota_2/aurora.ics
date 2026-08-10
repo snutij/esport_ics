@@ -916,6 +916,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Survival\nWatch: https://www.twitch.
  tv/ewc_legiongauntlet_en2
 SUMMARY:Round 2 match 4: AUR vs RE
-URL;VALUE=URI:https://www.twitch.tv/ewc_legiongauntlet_en2
+URL:https://www.twitch.tv/ewc_legiongauntlet_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T050000Z
+UID:pandascore-match-1628657@esport-ics
+DTSTART:20260813T050000Z
+DTEND:20260813T071500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/dota2ti
+SUMMARY:Round 1: AUR vs GL
+URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR

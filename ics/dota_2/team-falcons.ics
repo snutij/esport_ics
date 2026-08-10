@@ -848,4 +848,15 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 2 2026 - Playoffs
 SUMMARY:Grand final: FLC vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T020000Z
+UID:pandascore-match-1628651@esport-ics
+DTSTART:20260813T020000Z
+DTEND:20260813T041500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/dota2ti
+SUMMARY:Round 1: FLC vs LGD
+URL;VALUE=URI:https://www.twitch.tv/dota2ti
+END:VEVENT
 END:VCALENDAR

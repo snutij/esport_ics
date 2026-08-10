@@ -397,6 +397,17 @@ CLASS:PUBLIC
 DESCRIPTION:Games of the Future - 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/gamesofuture_dota2
 SUMMARY:Quarterfinal 4: RE vs LGD
-URL;VALUE=URI:https://www.twitch.tv/gamesofuture_dota2
+URL:https://www.twitch.tv/gamesofuture_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T020000Z
+UID:pandascore-match-1628651@esport-ics
+DTSTART:20260813T020000Z
+DTEND:20260813T041500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/dota2ti
+SUMMARY:Round 1: FLC vs LGD
+URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR

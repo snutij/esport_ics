@@ -619,6 +619,17 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 2 2026 - Playoffs\nWatch: https://w.tv/1w
  in_dota
 SUMMARY:Lower bracket round 1 match 2: OG vs GL
-URL;VALUE=URI:https://w.tv/1win_dota
+URL:https://w.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T050000Z
+UID:pandascore-match-1628657@esport-ics
+DTSTART:20260813T050000Z
+DTEND:20260813T071500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/dota2ti
+SUMMARY:Round 1: AUR vs GL
+URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR

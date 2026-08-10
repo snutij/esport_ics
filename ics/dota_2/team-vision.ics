@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - Europe Closed Qualifier 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Upper bracket semifinal 2: VP vs VSN
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T020000Z
+UID:pandascore-match-1628654@esport-ics
+DTSTART:20260813T020000Z
+DTEND:20260813T041500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/dota2ti
+SUMMARY:Round 1: VSN vs TR
+URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR
