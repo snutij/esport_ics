@@ -804,6 +804,17 @@ SUMMARY:Lower bracket round 1 match 1: VP.P vs PHTM.Ac
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260812T080000Z
+UID:pandascore-match-1629136@esport-ics
+DTSTART:20260812T080000Z
+DTEND:20260812T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 53 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket quarterfinal 1: TBD vs VP.P
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260812T103000Z
 UID:pandascore-match-1616795@esport-ics
 DTSTART:20260812T103000Z
