@@ -157,6 +157,83 @@ CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Spring 2026 - Playoffs\nWatch: https://www.t
  witch.tv/hitpointcz
 SUMMARY:Lower bracket final: NBS vs ESB
+URL:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T140000Z
+UID:pandascore-match-1630203@esport-ics
+DTSTART:20260812T140000Z
+DTEND:20260812T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Summer 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:OT vs ESB
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T140000Z
+UID:pandascore-match-1630205@esport-ics
+DTSTART:20260813T140000Z
+DTEND:20260813T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Summer 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:NBS vs ESB
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260825T163000Z
+UID:pandascore-match-1630214@esport-ics
+DTSTART:20260825T163000Z
+DTEND:20260825T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Summer 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:ESB vs BRT
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T163000Z
+UID:pandascore-match-1630216@esport-ics
+DTSTART:20260826T163000Z
+DTEND:20260826T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Summer 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:ESB vs CKZ
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T163000Z
+UID:pandascore-match-1630224@esport-ics
+DTSTART:20260903T163000Z
+DTEND:20260903T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Summer 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:EXE vs ESB
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T120000Z
+UID:pandascore-match-1630226@esport-ics
+DTSTART:20260905T120000Z
+DTEND:20260905T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Summer 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:ESB vs BG
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T120000Z
+UID:pandascore-match-1630228@esport-ics
+DTSTART:20260906T120000Z
+DTEND:20260906T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Summer 2026 - Regular Season\nWatch: https:/
+ /www.twitch.tv/hitpointcz
+SUMMARY:MVE vs ESB
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 END:VCALENDAR
