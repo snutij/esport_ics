@@ -991,6 +991,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat I 2026 - Playoffs\nWatch: https://kick.com/s
  take_esports
 SUMMARY:Quarterfinal 1: G2.A vs JS
-URL;VALUE=URI:https://kick.com/stake_esports
+URL:https://kick.com/stake_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T140000Z
+UID:pandascore-match-1630931@esport-ics
+DTSTART:20260816T140000Z
+DTEND:20260816T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Play-In group C\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:G2.A vs LK
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

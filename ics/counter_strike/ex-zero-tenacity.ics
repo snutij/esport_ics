@@ -1082,6 +1082,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #4 2026 - Play-In\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:BL vs ex-Zero Tenacity
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T170000Z
+UID:pandascore-match-1630934@esport-ics
+DTSTART:20260816T170000Z
+DTEND:20260816T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Play-In Group D\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:boomerang vs ex-Zero Tenacity
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

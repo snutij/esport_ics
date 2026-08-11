@@ -385,6 +385,17 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #1 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/playzonecz
 SUMMARY:Lower bracket final: UNiTY vs NXS
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T080000Z
+UID:pandascore-match-1630930@esport-ics
+DTSTART:20260816T080000Z
+DTEND:20260816T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Play-In group C\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:NXS vs BW
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

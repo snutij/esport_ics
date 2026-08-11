@@ -960,6 +960,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Play
  offs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Round of 16 match 5: WAL vs BBP
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T140000Z
+UID:pandascore-match-1631015@esport-ics
+DTSTART:20260813T140000Z
+DTEND:20260813T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Play-In Group B\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Honvéd vs BBP
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

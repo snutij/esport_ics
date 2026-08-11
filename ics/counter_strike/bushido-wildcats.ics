@@ -777,4 +777,15 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #7 2026 - Group A\nWatch:
 SUMMARY:BW vs ex-MANA
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T080000Z
+UID:pandascore-match-1630930@esport-ics
+DTSTART:20260816T080000Z
+DTEND:20260816T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Play-In group C\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:NXS vs BW
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

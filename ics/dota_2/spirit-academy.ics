@@ -604,6 +604,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 1 2026 - Playoffs\nWatch: https://
  www.twitch.tv/asgard_championship
 SUMMARY:Lower bracket final: TS.A vs NH
+URL:https://www.twitch.tv/asgard_championship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260811T150000Z
+UID:pandascore-match-1629601@esport-ics
+DTSTART:20260811T150000Z
+DTEND:20260811T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 1 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/asgard_championship
+SUMMARY:Grand final: TS.A vs LVLUP
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship
 END:VEVENT
 END:VCALENDAR
