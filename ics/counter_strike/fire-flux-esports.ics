@@ -725,4 +725,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:FF vs PENSIONERS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T103000Z
+UID:pandascore-match-1629137@esport-ics
+DTSTART:20260812T103000Z
+DTEND:20260812T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 53 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket quarterfinal 2: FaZe UN vs FF
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
