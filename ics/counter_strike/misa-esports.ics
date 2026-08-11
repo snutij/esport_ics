@@ -1331,6 +1331,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 52 2026 - Group D\
  nWatch: https://www.twitch.tv/vanfantv
 SUMMARY:Decider match: MOUZ.N vs MISA
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260811T183000Z
+UID:pandascore-match-1630197@esport-ics
+DTSTART:20260811T183000Z
+DTEND:20260811T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:NV vs MISA
 END:VEVENT
 END:VCALENDAR
