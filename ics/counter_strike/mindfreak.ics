@@ -389,6 +389,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dfrag - Open Series #6 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/flamboyantttt
 SUMMARY:Lower bracket semifinal: RSTR vs MF
-URL;VALUE=URI:https://www.twitch.tv/flamboyantttt
+URL:https://www.twitch.tv/flamboyantttt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T100000Z
+UID:pandascore-match-1615362@esport-ics
+DTSTART:20260812T100000Z
+DTEND:20260812T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Dfrag - Open Series #6 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/dfragtv
+SUMMARY:Lower bracket final: GZ vs MF
+URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR
