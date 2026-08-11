@@ -223,6 +223,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Desafiante - Split 2 2026 - Play-In\nWatch: https://tw
  itch.tv/ltasul
 SUMMARY:Upper bracket final: TS vs 7REX
+URL:https://twitch.tv/ltasul
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T200000Z
+UID:pandascore-match-1586906@esport-ics
+DTSTART:20260812T200000Z
+DTEND:20260812T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Desafiante - Split 2 2026 - Play-In\nWatch: https://tw
+ itch.tv/ltasul
+SUMMARY:Lower bracket final: TS vs TBD
 URL;VALUE=URI:https://twitch.tv/ltasul
 END:VEVENT
 END:VCALENDAR
