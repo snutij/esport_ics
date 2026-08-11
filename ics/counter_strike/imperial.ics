@@ -598,6 +598,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 4 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 3: IMP vs GLS
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T230000Z
+UID:pandascore-match-1611485@esport-ics
+DTSTART:20260813T230000Z
+DTEND:20260814T011500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Storm - Season 4 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/dust2br
+SUMMARY:Quarterfinal 1: IMP vs ISG
 URL;VALUE=URI:https://www.twitch.tv/dust2br
 END:VEVENT
 END:VCALENDAR
