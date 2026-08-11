@@ -462,6 +462,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 1 2026 - Playoffs\nWatch: https://kick.com
  /epldota_en2
 SUMMARY:Upper bracket final: LVLUP vs Na`Vi
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T130000Z
+UID:pandascore-match-1606806@esport-ics
+DTSTART:20260812T130000Z
+DTEND:20260812T164500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Playoffs\nWatch: https://kick.com
+ /epldota_en2
+SUMMARY:Grand final: Na`Vi vs TBD
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
