@@ -769,6 +769,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 1 2026 - Playoffs\nWatch: https://kick.com
  /epldota_en2
 SUMMARY:Lower bracket quarterfinal 1: MOUZ vs RE
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260811T180000Z
+UID:pandascore-match-1606811@esport-ics
+DTSTART:20260811T180000Z
+DTEND:20260811T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 1 2026 - Playoffs\nWatch: https://kick.com
+ /epldota_en2
+SUMMARY:Lower bracket semifinal: RE vs TBD
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
