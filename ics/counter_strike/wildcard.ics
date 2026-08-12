@@ -495,6 +495,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
  v/EWC_Plus_EN2
 SUMMARY:Upper bracket quarterfinal 4: WC vs FURIA
-URL;VALUE=URI:https://www.twitch.tv/EWC_Plus_EN2
+URL:https://www.twitch.tv/EWC_Plus_EN2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T140000Z
+UID:pandascore-match-1624326@esport-ics
+DTSTART:20260815T140000Z
+DTEND:20260815T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
+ v/EWC_plus_en
+SUMMARY:Lower bracket quarterfinal 2: WC vs TBD
+URL;VALUE=URI:https://www.twitch.tv/EWC_plus_en
 END:VEVENT
 END:VCALENDAR

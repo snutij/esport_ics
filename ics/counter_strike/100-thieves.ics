@@ -736,6 +736,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
  v/EWC_plus_en
 SUMMARY:Upper bracket quarterfinal 1: VIT vs 100T
+URL:https://www.twitch.tv/EWC_plus_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T170000Z
+UID:pandascore-match-1624295@esport-ics
+DTSTART:20260814T170000Z
+DTEND:20260814T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group C\nWatch: https://www.twitch.t
+ v/EWC_plus_en
+SUMMARY:Lower bracket quarterfinal 1: PRV vs 100T
 URL;VALUE=URI:https://www.twitch.tv/EWC_plus_en
 END:VEVENT
 END:VCALENDAR
