@@ -734,6 +734,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 53 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Lower bracket quarterfinal 2: FaZe UN vs FF
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T080000Z
+UID:pandascore-match-1632604@esport-ics
+DTSTART:20260814T080000Z
+DTEND:20260814T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group D\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:FF vs GUESS
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

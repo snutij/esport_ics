@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Raccoons
+SLUG:raccoons
+BEGIN:VEVENT
+DTSTAMP:20260813T140000Z
+UID:pandascore-match-1632591@esport-ics
+DTSTART:20260813T140000Z
+DTEND:20260813T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group A\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Winners match: RGG vs Raccoons
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+END:VCALENDAR

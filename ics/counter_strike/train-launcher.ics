@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Svenska CS-Ligan - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/fragbite
 SUMMARY:Lower bracket final: train launcher vs TBD
-URL;VALUE=URI:https://www.twitch.tv/fragbite
+URL:https://www.twitch.tv/fragbite
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T110000Z
+UID:pandascore-match-1632597@esport-ics
+DTSTART:20260813T110000Z
+DTEND:20260813T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group B\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Elimination match: DNT vs train launcher
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

@@ -378,6 +378,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #2 season 52 2026 - Group B\
  nWatch: https://www.twitch.tv/theeb1ye
 SUMMARY:Elimination match: Vexar vs IC.A
-URL;VALUE=URI:https://www.twitch.tv/theeb1ye
+URL:https://www.twitch.tv/theeb1ye
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T170000Z
+UID:pandascore-match-1632592@esport-ics
+DTSTART:20260813T170000Z
+DTEND:20260813T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group A\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Elimination match: Subtop De France vs Vexar
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

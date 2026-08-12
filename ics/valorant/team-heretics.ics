@@ -267,6 +267,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 2 2026 - Play-Ins\nWatch: https://www.twitch.t
  v/valorant_emea
 SUMMARY:Lower bracket round 1 match 2: TH vs NAVI
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T150000Z
+UID:pandascore-match-1608165@esport-ics
+DTSTART:20260814T150000Z
+DTEND:20260814T171500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Stage 2 2026 - Play-Ins\nWatch: https://www.twitch.t
+ v/valorant_emea
+SUMMARY:Lower bracket quarterfinal 1: SGE vs TH
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR
