@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.youtube.
  com/watch?v=88rpI6rdG8o
 SUMMARY:Upper bracket quarterfinal 3: R8 vs FLCN
-URL;VALUE=URI:https://www.youtube.com/watch?v=88rpI6rdG8o
+URL:https://www.youtube.com/watch?v=88rpI6rdG8o
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T120500Z
+UID:pandascore-match-1619652@esport-ics
+DTSTART:20260814T120500Z
+DTEND:20260814T172000Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/ewc_stcarena_en
+SUMMARY:Lower bracket quarterfinal 2: R8 vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 END:VCALENDAR
