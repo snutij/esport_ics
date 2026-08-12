@@ -465,6 +465,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
  v/EWC_Plus_EN2
 SUMMARY:Upper bracket quarterfinal 2: MIBR vs AST
-URL;VALUE=URI:https://www.twitch.tv/EWC_Plus_EN2
+URL:https://www.twitch.tv/EWC_Plus_EN2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T170000Z
+UID:pandascore-match-1624091@esport-ics
+DTSTART:20260813T170000Z
+DTEND:20260813T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
+ v/EWC_plus_en
+SUMMARY:Upper bracket semifinal 1: FAL vs AST
+URL;VALUE=URI:https://www.twitch.tv/EWC_plus_en
 END:VEVENT
 END:VCALENDAR
