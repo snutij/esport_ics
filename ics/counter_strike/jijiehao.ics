@@ -430,6 +430,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
  v/EWC_plus_en
 SUMMARY:Upper bracket quarterfinal 1: TS vs JJH
+URL:https://www.twitch.tv/EWC_plus_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T110000Z
+UID:pandascore-match-1624081@esport-ics
+DTSTART:20260813T110000Z
+DTEND:20260813T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
+ v/EWC_plus_en
+SUMMARY:Upper bracket semifinal 1: GL vs JJH
 URL;VALUE=URI:https://www.twitch.tv/EWC_plus_en
 END:VEVENT
 END:VCALENDAR
