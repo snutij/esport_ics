@@ -111,6 +111,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America North Main Event 2026 - Playo
  ffs\nWatch: https://www.twitch.tv/valorant_la
 SUMMARY:Upper bracket final: AEB vs NSB
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T220000Z
+UID:pandascore-match-1626595@esport-ics
+DTSTART:20260818T220000Z
+DTEND:20260819T014500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America North Main Event 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:Lower bracket final: NSB vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR
