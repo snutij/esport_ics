@@ -209,6 +209,17 @@ SUMMARY:Seeding match 1: NOVA vs BLG
 URL:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260814T080000Z
+UID:pandascore-match-1607790@esport-ics
+DTSTART:20260814T080000Z
+DTEND:20260814T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - China Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Upper bracket quarterfinal 1: NOVA vs JDG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260814T100000Z
 UID:pandascore-match-1607791@esport-ics
 DTSTART:20260814T100000Z
@@ -217,6 +228,6 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - China Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Upper bracket quarterfinal 2: NOVA vs TBD
-URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+URL:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR
