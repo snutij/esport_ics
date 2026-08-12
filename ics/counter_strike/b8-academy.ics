@@ -416,4 +416,13 @@ DESCRIPTION:European Pro League - Regular season 6 2026 - Group A\nWatch: h
 SUMMARY:Decider match: FaZe UN vs B8.A
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T170000Z
+UID:pandascore-match-1631190@esport-ics
+DTSTART:20260812T170000Z
+DTEND:20260812T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:banda chuya vs B8.A
+END:VEVENT
 END:VCALENDAR

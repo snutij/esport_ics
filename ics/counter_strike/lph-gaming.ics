@@ -1016,6 +1016,15 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #1 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/playzonecz
 SUMMARY:Lower bracket semifinal: NXS vs LPH
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T180000Z
+UID:pandascore-match-1631191@esport-ics
+DTSTART:20260812T180000Z
+DTEND:20260812T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:GBC vs LPH
 END:VEVENT
 END:VCALENDAR
