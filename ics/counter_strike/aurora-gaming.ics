@@ -482,6 +482,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
  v/EWC_plus_en
 SUMMARY:Upper bracket quarterfinal 4: BIG vs AUR
+URL:https://www.twitch.tv/EWC_plus_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T140000Z
+UID:pandascore-match-1624084@esport-ics
+DTSTART:20260813T140000Z
+DTEND:20260813T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
+ v/EWC_plus_en
+SUMMARY:Lower bracket quarterfinal 2: AUR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/EWC_plus_en
 END:VEVENT
 END:VCALENDAR
