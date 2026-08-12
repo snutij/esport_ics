@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:HLL - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
  v/helleniclegends
 SUMMARY:SPAR vs GSMC
+URL:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260825T130000Z
+UID:pandascore-match-1631696@esport-ics
+DTSTART:20260825T130000Z
+DTEND:20260825T151500Z
+CLASS:PUBLIC
+DESCRIPTION:HLL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/hell
+ eniclegends
+SUMMARY:Upper bracket quarterfinal 1: GSMC vs SPAR
 URL;VALUE=URI:https://www.twitch.tv/helleniclegends
 END:VEVENT
 END:VCALENDAR
