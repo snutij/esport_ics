@@ -641,6 +641,26 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 6 2026 - Group C\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Winners match: INOX vs INF
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T080000Z
+UID:pandascore-match-1633214@esport-ics
+DTSTART:20260814T080000Z
+DTEND:20260814T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper bracket quarterfinal 3: INOX vs VP.P
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T130000Z
+UID:pandascore-match-1633185@esport-ics
+DTSTART:20260814T130000Z
+DTEND:20260814T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group A
+SUMMARY:INOX vs ex-MANA
 END:VEVENT
 END:VCALENDAR

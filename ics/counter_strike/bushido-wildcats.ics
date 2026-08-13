@@ -769,6 +769,17 @@ SUMMARY:BW vs ex-MANA
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260813T130000Z
+UID:pandascore-match-1633213@esport-ics
+DTSTART:20260813T130000Z
+DTEND:20260813T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper bracket quarterfinal 1: STA vs BW
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260813T140000Z
 UID:pandascore-match-1630368@esport-ics
 DTSTART:20260813T140000Z

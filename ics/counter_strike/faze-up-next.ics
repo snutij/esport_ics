@@ -148,4 +148,15 @@ DESCRIPTION:United21 - Season 53 2026 - Playoffs\nWatch: https://kick.com/u
 SUMMARY:Lower bracket semifinal: TTBS vs FaZe UN
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T103000Z
+UID:pandascore-match-1633215@esport-ics
+DTSTART:20260814T103000Z
+DTEND:20260814T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper bracket quarterfinal4: FaZe UN vs VIT.A
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

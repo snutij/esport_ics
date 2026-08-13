@@ -445,6 +445,26 @@ SUMMARY:Lower bracket round 1 match 1: VP.P vs PHTM.Ac
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260813T103000Z
+UID:pandascore-match-1633217@esport-ics
+DTSTART:20260813T103000Z
+DTEND:20260813T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper bracket quarterfinal 2: PHTM.Ac vs Inner Circle Prospect
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T130000Z
+UID:pandascore-match-1633190@esport-ics
+DTSTART:20260814T130000Z
+DTEND:20260814T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group B
+SUMMARY:BMB vs PHTM.Ac
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260814T170000Z
 UID:pandascore-match-1632600@esport-ics
 DTSTART:20260814T170000Z
