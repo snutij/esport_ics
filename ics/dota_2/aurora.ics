@@ -927,6 +927,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/dota2ti
 SUMMARY:Round 1: AUR vs GL
+URL:https://www.twitch.tv/dota2ti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T020000Z
+UID:pandascore-match-1633562@esport-ics
+DTSTART:20260814T020000Z
+DTEND:20260814T041500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/dota2ti
+SUMMARY:Round 2: TS vs AUR
 URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR
