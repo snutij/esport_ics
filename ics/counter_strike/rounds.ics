@@ -444,4 +444,13 @@ DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group A\nWatc
 SUMMARY:Winners match: RGG vs Raccoons
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T170000Z
+UID:pandascore-match-1633148@esport-ics
+DTSTART:20260813T170000Z
+DTEND:20260813T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:RGG vs IC.A
+END:VEVENT
 END:VCALENDAR
