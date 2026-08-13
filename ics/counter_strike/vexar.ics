@@ -389,6 +389,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group A\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:Elimination match: Subtop De France vs Vexar
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T080000Z
+UID:pandascore-match-1632593@esport-ics
+DTSTART:20260816T080000Z
+DTEND:20260816T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group A\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Decider match: RGG vs Vexar
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR
