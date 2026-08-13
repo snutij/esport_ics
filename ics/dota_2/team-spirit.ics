@@ -754,14 +754,14 @@ SUMMARY:Quarterfinal 3: TY vs TS
 URL:https://www.twitch.tv/ewc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260813T050000Z
+DTSTAMP:20260813T070000Z
 UID:pandascore-match-1628655@esport-ics
-DTSTART:20260813T050000Z
-DTEND:20260813T071500Z
+DTSTART:20260813T070000Z
+DTEND:20260813T091500Z
 CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
- ch.tv/dota2ti
+ ch.tv/dota2ti_2
 SUMMARY:Round 1: TS vs Xtreme
-URL;VALUE=URI:https://www.twitch.tv/dota2ti
+URL;VALUE=URI:https://www.twitch.tv/dota2ti_2
 END:VEVENT
 END:VCALENDAR
