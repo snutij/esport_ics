@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/dota2ti_3
 SUMMARY:Round 1: BoomBoys vs OG
-URL;VALUE=URI:https://www.twitch.tv/dota2ti_3
+URL:https://www.twitch.tv/dota2ti_3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T050000Z
+UID:pandascore-match-1634150@esport-ics
+DTSTART:20260814T050000Z
+DTEND:20260814T071500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/dota2ti
+SUMMARY:Round 3: BoomBoys vs VSN
+URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR
