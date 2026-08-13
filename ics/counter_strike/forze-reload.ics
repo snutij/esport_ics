@@ -323,6 +323,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group B\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:Winners match: FORZE.R vs BG
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T110000Z
+UID:pandascore-match-1632598@esport-ics
+DTSTART:20260816T110000Z
+DTEND:20260816T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group B\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Decider match: FORZE.R vs TBD
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR
