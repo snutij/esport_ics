@@ -839,7 +839,7 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/dota2ti_3
 SUMMARY:Round 2: Xtreme vs GL
-URL;VALUE=URI:https://www.twitch.tv/dota2ti_3
+URL:https://www.twitch.tv/dota2ti_3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260814T020000Z
@@ -850,6 +850,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/dota2ti
 SUMMARY:Round 2: TS vs Xtreme
+URL:https://www.twitch.tv/dota2ti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T090000Z
+UID:pandascore-match-1634157@esport-ics
+DTSTART:20260814T090000Z
+DTEND:20260814T111500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/dota2ti
+SUMMARY:Round 3: Xtreme vs HULIGANI
 URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR

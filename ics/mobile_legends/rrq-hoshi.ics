@@ -182,15 +182,15 @@ SUMMARY:RRQ vs DEWA
 URL:https://www.youtube.com/@MLBBeSports/live
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260814T080000Z
+DTSTAMP:20260814T081000Z
 UID:pandascore-match-1624753@esport-ics
-DTSTART:20260814T080000Z
-DTEND:20260814T101500Z
+DTSTART:20260814T081000Z
+DTEND:20260814T102500Z
 CLASS:PUBLIC
 DESCRIPTION:MPL Indonesia - Season 18 2026 - Regular Season\nWatch: https:/
- /www.youtube.com/@MPLIndonesia/live
+ /www.youtube.com/watch?v=SOcK-6ztbSo
 SUMMARY:EVOS vs RRQ
-URL;VALUE=URI:https://www.youtube.com/@MPLIndonesia/live
+URL;VALUE=URI:https://www.youtube.com/watch?v=SOcK-6ztbSo
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260815T100000Z

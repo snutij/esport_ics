@@ -749,7 +749,9 @@ UID:pandascore-match-1633190@esport-ics
 DTSTART:20260814T130000Z
 DTEND:20260814T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group B
+DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group B\
+ nWatch: https://www.twitch.tv/piaskees
 SUMMARY:BMB vs PHTM.Ac
+URL;VALUE=URI:https://www.twitch.tv/piaskees
 END:VEVENT
 END:VCALENDAR
