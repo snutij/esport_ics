@@ -353,7 +353,18 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Play-In Group B\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:TLR vs Honvéd
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T110000Z
+UID:pandascore-match-1630672@esport-ics
+DTSTART:20260815T110000Z
+DTEND:20260815T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #7 2026 - Group D\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:Elimination match: Honvéd vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260816T134500Z

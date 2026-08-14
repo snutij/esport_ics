@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 6 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Upper bracket quarterfinal4: FaZe UN vs VIT.A
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T103000Z
+UID:pandascore-match-1633566@esport-ics
+DTSTART:20260816T103000Z
+DTEND:20260816T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper bracket semifinal 2: INOX vs VIT.A
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

@@ -617,6 +617,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/dota2ti_4
 SUMMARY:Round 2: HULIGANI vs VG
-URL;VALUE=URI:https://www.twitch.tv/dota2ti_4
+URL:https://www.twitch.tv/dota2ti_4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T050000Z
+UID:pandascore-match-1634753@esport-ics
+DTSTART:20260815T050000Z
+DTEND:20260815T071500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/dota2ti
+SUMMARY:Round 4: NGX vs VG
+URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR

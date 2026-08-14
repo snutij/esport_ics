@@ -916,6 +916,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/dota2ti_2
 SUMMARY:Round 2: TY vs Liquid
-URL;VALUE=URI:https://www.twitch.tv/dota2ti_2
+URL:https://www.twitch.tv/dota2ti_2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T050000Z
+UID:pandascore-match-1634755@esport-ics
+DTSTART:20260815T050000Z
+DTEND:20260815T071500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/dota2ti
+SUMMARY:Round 4: Iron Wing vs Liquid
+URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR
