@@ -742,4 +742,13 @@ DESCRIPTION:CCT South America - Challengers #2 2026 - Playoffs\nWatch: http
 SUMMARY:Lower bracket quarterfinal 2: MW vs MEIA NOITE
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260817T200000Z
+UID:pandascore-match-1635568@esport-ics
+DTSTART:20260817T200000Z
+DTEND:20260817T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - August 2026 - Group B
+SUMMARY:Rush vs MW
+END:VEVENT
 END:VCALENDAR
