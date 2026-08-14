@@ -442,6 +442,17 @@ SUMMARY:INOX vs ex-MANA
 URL;VALUE=URI:https://www.twitch.tv/theeb1ye
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260815T134500Z
+UID:pandascore-match-1634729@esport-ics
+DTSTART:20260815T134500Z
+DTEND:20260815T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Upper bracket round 1 match 8: ex-MANA vs MISA
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260816T080000Z
 UID:pandascore-match-1630370@esport-ics
 DTSTART:20260816T080000Z

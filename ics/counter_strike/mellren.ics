@@ -200,4 +200,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:UUST vs mellren
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T134500Z
+UID:pandascore-match-1634726@esport-ics
+DTSTART:20260816T134500Z
+DTEND:20260816T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Upper bracket round 1 match 5: Honvéd vs mellren
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

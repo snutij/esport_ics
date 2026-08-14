@@ -192,4 +192,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:ARCH vs WBT
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T110000Z
+UID:pandascore-match-1634724@esport-ics
+DTSTART:20260816T110000Z
+DTEND:20260816T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Upper bracket round 1 match 3: ENCE vs WBT
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
