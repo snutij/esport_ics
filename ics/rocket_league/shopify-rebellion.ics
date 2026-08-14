@@ -234,6 +234,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
  v/ewc_stcarena_en
 SUMMARY:Lower bracket semifinal 1: TSM vs SR
+URL:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T140000Z
+UID:pandascore-match-1619657@esport-ics
+DTSTART:20260815T140000Z
+DTEND:20260815T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ewc_stcarena_en
+SUMMARY:Quarterfinal 3: SSG vs SR
 URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 END:VCALENDAR

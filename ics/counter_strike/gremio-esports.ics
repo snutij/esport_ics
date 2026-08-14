@@ -196,7 +196,9 @@ UID:pandascore-match-1634767@esport-ics
 DTSTART:20260814T180000Z
 DTEND:20260814T184500Z
 CLASS:PUBLIC
-DESCRIPTION:Gamers Club Liga Série A - August 2026 - Group A
+DESCRIPTION:Gamers Club Liga Série A - August 2026 - Group A\nWatch: https
+ ://www.twitch.tv/GamersClubCS
 SUMMARY:GRE vs Low Cortisol
+URL;VALUE=URI:https://www.twitch.tv/GamersClubCS
 END:VEVENT
 END:VCALENDAR
