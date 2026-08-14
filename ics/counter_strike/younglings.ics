@@ -200,4 +200,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:YL vs ENRAGE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T153000Z
+UID:pandascore-match-1635619@esport-ics
+DTSTART:20260815T153000Z
+DTEND:20260815T174500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
+SUMMARY:Upper bracket round 1 match 7: YL vs EmberKoca
+URL;VALUE=URI:https://kick.com/cct_cs5
+END:VEVENT
 END:VCALENDAR

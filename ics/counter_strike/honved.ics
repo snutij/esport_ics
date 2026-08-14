@@ -356,6 +356,17 @@ SUMMARY:TLR vs Honvéd
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260815T080000Z
+UID:pandascore-match-1635625@esport-ics
+DTSTART:20260815T080000Z
+DTEND:20260815T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Play-In Group B\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:BBP vs Honvéd
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260815T110000Z
 UID:pandascore-match-1630672@esport-ics
 DTSTART:20260815T110000Z

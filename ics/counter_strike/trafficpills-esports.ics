@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #7 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs4
 SUMMARY:Lower Bracket Round 2 Match 3: GS vs TrafficPills Esports
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T181500Z
+UID:pandascore-match-1635617@esport-ics
+DTSTART:20260816T181500Z
+DTEND:20260816T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
+SUMMARY:Upper bracket round 1 match 5: FORZE.R vs TrafficPills Esports
+URL;VALUE=URI:https://kick.com/cct_cs5
 END:VEVENT
 END:VCALENDAR

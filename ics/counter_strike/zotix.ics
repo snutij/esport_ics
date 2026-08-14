@@ -333,6 +333,17 @@ DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:ZOTIX vs ENRAGE
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260815T181500Z
+UID:pandascore-match-1635613@esport-ics
+DTSTART:20260815T181500Z
+DTEND:20260815T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
+SUMMARY:Upper bracket round 1 match 1: ZOTIX vs Insiders Esport
+URL;VALUE=URI:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260821T190000Z
 UID:pandascore-match-1628106@esport-ics
 DTSTART:20260821T190000Z

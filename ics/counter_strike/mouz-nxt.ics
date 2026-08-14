@@ -852,6 +852,17 @@ SUMMARY:Winners match: INOX vs MOUZ.N
 URL:https://www.twitch.tv/floppyacs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260815T103000Z
+UID:pandascore-match-1635622@esport-ics
+DTSTART:20260815T103000Z
+DTEND:20260815T124500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Play-In Group A\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:MOUZ.N vs ENCE
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260815T130000Z
 UID:pandascore-match-1633189@esport-ics
 DTSTART:20260815T130000Z

@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
  s://www.twitch.tv/elisaviihdesport
 SUMMARY:Round 7: KSM vs Nordic Valor
-URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+URL:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T153000Z
+UID:pandascore-match-1635614@esport-ics
+DTSTART:20260816T153000Z
+DTEND:20260816T174500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
+SUMMARY:Upper bracket round 1 match 2: Aritmije vs NV
+URL;VALUE=URI:https://kick.com/cct_cs5
 END:VEVENT
 END:VCALENDAR
