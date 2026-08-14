@@ -153,6 +153,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 2 2026 - Play-In\nWatch: https://www.twitc
  h.tv/valorant_americas
 SUMMARY:Upper bracket round 1 match 2: NV vs M80
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T000000Z
+UID:pandascore-match-1616153@esport-ics
+DTSTART:20260816T000000Z
+DTEND:20260816T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Play-In\nWatch: https://www.twitc
+ h.tv/valorant_americas
+SUMMARY:Upper bracket round 2 match 2: NV vs SEN
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR
