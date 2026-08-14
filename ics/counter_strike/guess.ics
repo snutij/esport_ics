@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group D\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:FF vs GUESS
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T110000Z
+UID:pandascore-match-1632607@esport-ics
+DTSTART:20260815T110000Z
+DTEND:20260815T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group D\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Elimination match: GUESS vs TBD
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR
