@@ -593,7 +593,9 @@ UID:pandascore-match-1633188@esport-ics
 DTSTART:20260814T170000Z
 DTEND:20260814T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group A
+DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group A\
+ nWatch: https://www.twitch.tv/lzrcats
 SUMMARY:Elimination match: ex-MANA vs LC
+URL;VALUE=URI:https://www.twitch.tv/lzrcats
 END:VEVENT
 END:VCALENDAR

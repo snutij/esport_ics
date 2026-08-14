@@ -486,6 +486,17 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/otpl
  ol_
 SUMMARY:Upper bracket quarterfinal 2: SLY vs VIT.B
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T160000Z
+UID:pandascore-match-1635558@esport-ics
+DTSTART:20260818T160000Z
+DTEND:20260818T181500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/otpl
+ ol_
+SUMMARY:Upper bracket semifinal 1: SLY vs TLNP
 URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

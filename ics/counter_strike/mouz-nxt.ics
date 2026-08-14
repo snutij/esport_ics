@@ -846,7 +846,9 @@ UID:pandascore-match-1633187@esport-ics
 DTSTART:20260814T170000Z
 DTEND:20260814T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group A
+DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group A\
+ nWatch: https://www.twitch.tv/floppyacs
 SUMMARY:Winners match: INOX vs MOUZ.N
+URL;VALUE=URI:https://www.twitch.tv/floppyacs
 END:VEVENT
 END:VCALENDAR

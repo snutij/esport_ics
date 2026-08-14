@@ -234,6 +234,17 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/otpl
  ol_
 SUMMARY:Upper bracket quarterfinal 1: IJC vs TLNP
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260819T160000Z
+UID:pandascore-match-1635561@esport-ics
+DTSTART:20260819T160000Z
+DTEND:20260819T181500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/otpl
+ ol_
+SUMMARY:Lower bracket round 1 match 1: VIT.B vs IJC
 URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

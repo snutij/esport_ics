@@ -289,6 +289,17 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/otpl
  ol_
 SUMMARY:Upper bracket quarterfinal 4: SC vs KCB
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260819T190000Z
+UID:pandascore-match-1635560@esport-ics
+DTSTART:20260819T190000Z
+DTEND:20260819T211500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/otpl
+ ol_
+SUMMARY:Lower bracket round 1 match 2: JL vs SC
 URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

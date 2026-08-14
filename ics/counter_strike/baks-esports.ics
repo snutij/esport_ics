@@ -248,4 +248,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group D
 SUMMARY:BAKS vs FF
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260814T170000Z
+UID:pandascore-match-1633202@esport-ics
+DTSTART:20260814T170000Z
+DTEND:20260814T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group D\
+ nWatch: https://www.twitch.tv/mgfongabe
+SUMMARY:Winners match: OG vs BAKS
+URL;VALUE=URI:https://www.twitch.tv/mgfongabe
+END:VEVENT
 END:VCALENDAR

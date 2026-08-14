@@ -1027,7 +1027,9 @@ UID:pandascore-match-1633192@esport-ics
 DTSTART:20260814T170000Z
 DTEND:20260814T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group B
-SUMMARY:Winners match: LAVK vs TBD
+DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group B\
+ nWatch: https://www.twitch.tv/basementboys_cs
+SUMMARY:Winners match: BMB vs LAVK
+URL;VALUE=URI:https://www.twitch.tv/basementboys_cs
 END:VEVENT
 END:VCALENDAR
