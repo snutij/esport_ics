@@ -785,7 +785,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group D\
  nWatch: https://www.twitch.tv/eslcs
 SUMMARY:Decider match: FF vs OG
-URL;VALUE=URI:https://www.twitch.tv/eslcs
+URL:https://www.twitch.tv/eslcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260816T170000Z
@@ -795,7 +795,7 @@ DTEND:20260816T191500Z
 CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group D\nWatc
  h: https://kick.com/fiesta_cs
-SUMMARY:Decider match: FF vs TBD
+SUMMARY:Decider match: FF vs GUESS
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

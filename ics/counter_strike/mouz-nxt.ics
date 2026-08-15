@@ -863,14 +863,14 @@ SUMMARY:MOUZ.N vs ENCE
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T130000Z
+DTSTAMP:20260815T133500Z
 UID:pandascore-match-1633189@esport-ics
-DTSTART:20260815T130000Z
-DTEND:20260815T151500Z
+DTSTART:20260815T133500Z
+DTEND:20260815T155000Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group A\
- nWatch: https://www.twitch.tv/floppyacs
+ nWatch: https://www.twitch.tv/endiezcasts
 SUMMARY:Decider match: MOUZ.N vs ex-MANA
-URL;VALUE=URI:https://www.twitch.tv/floppyacs
+URL;VALUE=URI:https://www.twitch.tv/endiezcasts
 END:VEVENT
 END:VCALENDAR
