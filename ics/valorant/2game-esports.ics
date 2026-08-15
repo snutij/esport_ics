@@ -283,6 +283,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 2 2026 - Play-In\nWatch: https://www.twitc
  h.tv/valorant_americas
 SUMMARY:Upper bracket round 1 match 3: FUR vs 2GAME
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T210000Z
+UID:pandascore-match-1616160@esport-ics
+DTSTART:20260820T210000Z
+DTEND:20260820T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Play-In\nWatch: https://www.twitc
+ h.tv/valorant_americas
+SUMMARY:Lower bracket round 1 match 3: 2GAME vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR
