@@ -453,6 +453,17 @@ SUMMARY:Elimination match: ex-MANA vs LC
 URL:https://www.twitch.tv/lzrcats
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260815T110000Z
+UID:pandascore-match-1634729@esport-ics
+DTSTART:20260815T110000Z
+DTEND:20260815T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Upper bracket round 1 match 8: ex-MANA vs MISA
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260815T130000Z
 UID:pandascore-match-1633189@esport-ics
 DTSTART:20260815T130000Z
@@ -460,17 +471,6 @@ DTEND:20260815T151500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group A
 SUMMARY:Decider match: MOUZ.N vs ex-MANA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260815T134500Z
-UID:pandascore-match-1634729@esport-ics
-DTSTART:20260815T134500Z
-DTEND:20260815T160000Z
-CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
- : https://kick.com/cct_cs2
-SUMMARY:Upper bracket round 1 match 8: ex-MANA vs MISA
-URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260816T080000Z
