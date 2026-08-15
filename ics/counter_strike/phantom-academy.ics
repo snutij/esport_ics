@@ -497,7 +497,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 6 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Lower bracket round 1 match 1: BW vs PHTM.Ac
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260815T170000Z
@@ -509,5 +509,16 @@ DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group C\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:Elimination match: PG vs PHTM.Ac
 URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260817T080000Z
+UID:pandascore-match-1633567@esport-ics
+DTSTART:20260817T080000Z
+DTEND:20260817T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Lower bracket quarterfinal 1: PHTM.Ac vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

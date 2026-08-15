@@ -142,6 +142,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Pacific Stage 2 2026 - Play-In\nWatch: https://www.twitch
  .tv/valorant_pacific
 SUMMARY:Upper bracket round 2 match 1: KRX vs ZETA
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T110000Z
+UID:pandascore-match-1619622@esport-ics
+DTSTART:20260820T110000Z
+DTEND:20260820T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Play-In\nWatch: https://www.twitch
+ .tv/valorant_pacific
+SUMMARY:Lower bracket round 1 match 4: XE vs ZETA
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR
