@@ -1004,4 +1004,13 @@ DESCRIPTION:CCT South America - Challengers #2 2026 - Playoffs\nWatch: http
 SUMMARY:Upper bracket final: paiN.A vs ALKA
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260817T190000Z
+UID:pandascore-match-1636200@esport-ics
+DTSTART:20260817T190000Z
+DTEND:20260817T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - August 2026 - Group D
+SUMMARY:RED.A vs paiN.A
+END:VEVENT
 END:VCALENDAR

@@ -294,4 +294,13 @@ DESCRIPTION:CCT South America - Challengers #2 2026 - Playoffs\nWatch: http
 SUMMARY:Lower bracket semifinal: QUIN vs MW
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260817T210000Z
+UID:pandascore-match-1636199@esport-ics
+DTSTART:20260817T210000Z
+DTEND:20260817T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - August 2026 - Group B
+SUMMARY:QUIN vs HR
+END:VEVENT
 END:VCALENDAR

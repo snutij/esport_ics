@@ -618,4 +618,15 @@ DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
 SUMMARY:Upper bracket round 1 match 6: Noir Verse vs Entropy
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T110000Z
+UID:pandascore-match-1634740@esport-ics
+DTSTART:20260818T110000Z
+DTEND:20260818T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Lower bracket round 1 match 3: Entropy vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
