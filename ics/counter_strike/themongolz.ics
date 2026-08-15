@@ -476,6 +476,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
  v/EWC_plus_en
 SUMMARY:Upper bracket semifinal 1: MGLZ vs NAVI
+URL:https://www.twitch.tv/EWC_plus_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T170000Z
+UID:pandascore-match-1624328@esport-ics
+DTSTART:20260816T170000Z
+DTEND:20260816T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
+ v/EWC_plus_en
+SUMMARY:Lower bracket semifinal 2: MGLZ vs paiN
 URL;VALUE=URI:https://www.twitch.tv/EWC_plus_en
 END:VEVENT
 END:VCALENDAR
