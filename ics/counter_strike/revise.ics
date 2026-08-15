@@ -17,12 +17,14 @@ SUMMARY:PHTM.Ac vs Revise
 URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T140000Z
+DTSTAMP:20260815T170000Z
 UID:pandascore-match-1632601@esport-ics
-DTSTART:20260815T140000Z
-DTEND:20260815T161500Z
+DTSTART:20260815T170000Z
+DTEND:20260815T191500Z
 CLASS:PUBLIC
-DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group C
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group C\nWatc
+ h: https://kick.com/fiesta_cs
 SUMMARY:Winners match: EP vs Revise
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR
