@@ -766,6 +766,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - July 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/gamersclubcs
 SUMMARY:Quarterfinal 1: QUIN vs BST.A
-URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260817T210000Z
+UID:pandascore-match-1637092@esport-ics
+DTSTART:20260817T210000Z
+DTEND:20260817T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - August 2026 - Group A
+SUMMARY:BST.A vs RF
 END:VEVENT
 END:VCALENDAR
