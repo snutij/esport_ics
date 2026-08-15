@@ -774,6 +774,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group B\
  nWatch: https://www.twitch.tv/sinquesports
 SUMMARY:Decider match: SINQU vs BMB
-URL;VALUE=URI:https://www.twitch.tv/sinquesports
+URL:https://www.twitch.tv/sinquesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T170000Z
+UID:pandascore-match-1633206@esport-ics
+DTSTART:20260815T170000Z
+DTEND:20260815T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Playoffs
+SUMMARY:Quarterfinal 2: BMB vs BAKS
 END:VEVENT
 END:VCALENDAR
