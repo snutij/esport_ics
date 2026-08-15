@@ -740,14 +740,14 @@ SUMMARY:Round 3: LGD vs NGX
 URL:https://www.twitch.tv/dota2ti
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T050000Z
+DTSTAMP:20260815T052000Z
 UID:pandascore-match-1634753@esport-ics
-DTSTART:20260815T050000Z
-DTEND:20260815T071500Z
+DTSTART:20260815T052000Z
+DTEND:20260815T073500Z
 CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
- ch.tv/dota2ti
+ ch.tv/dota2ti_4
 SUMMARY:Round 4: NGX vs VG
-URL;VALUE=URI:https://www.twitch.tv/dota2ti
+URL;VALUE=URI:https://www.twitch.tv/dota2ti_4
 END:VEVENT
 END:VCALENDAR
