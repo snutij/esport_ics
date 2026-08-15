@@ -116,14 +116,14 @@ SUMMARY:Upper bracket quarterfinal 3: HBS vs GX GC
 URL:https://www.twitch.tv/valorant_emea2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T170000Z
+DTSTAMP:20260815T180000Z
 UID:pandascore-match-1629603@esport-ics
-DTSTART:20260815T170000Z
-DTEND:20260815T191500Z
+DTSTART:20260815T180000Z
+DTEND:20260815T201500Z
 CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers EMEA Stage 3 2026 - Playoffs\nWatch: https:
- //www.twitch.tv/valorant_emea
+ //www.twitch.tv/valorant_emea2
 SUMMARY:Lower bracket round 1 match 2: HBS vs TMO
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea2
 END:VEVENT
 END:VCALENDAR
