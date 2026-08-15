@@ -868,7 +868,9 @@ UID:pandascore-match-1633189@esport-ics
 DTSTART:20260815T130000Z
 DTEND:20260815T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group A
+DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group A\
+ nWatch: https://www.twitch.tv/floppyacs
 SUMMARY:Decider match: MOUZ.N vs ex-MANA
+URL;VALUE=URI:https://www.twitch.tv/floppyacs
 END:VEVENT
 END:VCALENDAR

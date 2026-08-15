@@ -412,7 +412,9 @@ UID:pandascore-match-1633194@esport-ics
 DTSTART:20260815T130000Z
 DTEND:20260815T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group B
+DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group B\
+ nWatch: https://www.twitch.tv/sinquesports
 SUMMARY:Decider match: SINQU vs BMB
+URL;VALUE=URI:https://www.twitch.tv/sinquesports
 END:VEVENT
 END:VCALENDAR
