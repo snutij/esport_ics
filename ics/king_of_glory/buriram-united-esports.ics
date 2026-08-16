@@ -289,6 +289,182 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - World Cup 2026 - Group C\nWatch: https://www.t
  witch.tv/hok_esports
 SUMMARY:Decider match: VP vs BRU
-URL;VALUE=URI:https://www.twitch.tv/hok_esports
+URL:https://www.twitch.tv/hok_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T050000Z
+UID:pandascore-match-1637637@esport-ics
+DTSTART:20260822T050000Z
+DTEND:20260822T084500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:KOG vs BRU
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T110000Z
+UID:pandascore-match-1637642@esport-ics
+DTSTART:20260823T110000Z
+DTEND:20260823T144500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:SOL vs BRU
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T110000Z
+UID:pandascore-match-1637649@esport-ics
+DTSTART:20260829T110000Z
+DTEND:20260829T144500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:BRU vs FS
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T080000Z
+UID:pandascore-match-1637651@esport-ics
+DTSTART:20260830T080000Z
+DTEND:20260830T114500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:eA vs BRU
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T090000Z
+UID:pandascore-match-1637655@esport-ics
+DTSTART:20260904T090000Z
+DTEND:20260904T124500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:BRU vs TEN
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T050000Z
+UID:pandascore-match-1637660@esport-ics
+DTSTART:20260906T050000Z
+DTEND:20260906T084500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:BRU vs BAC
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T090000Z
+UID:pandascore-match-1637665@esport-ics
+DTSTART:20260911T090000Z
+DTEND:20260911T124500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:BRU vs HE
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T080000Z
+UID:pandascore-match-1637668@esport-ics
+DTSTART:20260912T080000Z
+DTEND:20260912T114500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:GC vs BRU
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T050000Z
+UID:pandascore-match-1637673@esport-ics
+DTSTART:20260919T050000Z
+DTEND:20260919T084500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:BRU vs SOL
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T110000Z
+UID:pandascore-match-1637678@esport-ics
+DTSTART:20260920T110000Z
+DTEND:20260920T144500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:FS vs BRU
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T120000Z
+UID:pandascore-match-1637682@esport-ics
+DTSTART:20260925T120000Z
+DTEND:20260925T154500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:BRU vs KOG
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T110000Z
+UID:pandascore-match-1637685@esport-ics
+DTSTART:20260926T110000Z
+DTEND:20260926T144500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:BAC vs BRU
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T120000Z
+UID:pandascore-match-1637692@esport-ics
+DTSTART:20261002T120000Z
+DTEND:20261002T154500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:BRU vs eA
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T080000Z
+UID:pandascore-match-1637694@esport-ics
+DTSTART:20261003T080000Z
+DTEND:20261003T114500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:HE vs BRU
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T080000Z
+UID:pandascore-match-1637704@esport-ics
+DTSTART:20261010T080000Z
+DTEND:20261010T114500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:BRU vs GC
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T050000Z
+UID:pandascore-match-1637706@esport-ics
+DTSTART:20261011T050000Z
+DTEND:20261011T084500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
+ youtube.com/GarenaRoVThailand/live
+SUMMARY:TEN vs BRU
+URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
 END:VEVENT
 END:VCALENDAR
