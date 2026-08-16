@@ -295,6 +295,17 @@ SUMMARY:Lower bracket semifinal: QUIN vs MW
 URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260816T210000Z
+UID:pandascore-match-1632587@esport-ics
+DTSTART:20260816T210000Z
+DTEND:20260816T231500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Challengers #2 2026 - Playoffs\nWatch: http
+ s://kick.com/cct_cs3
+SUMMARY:Lower bracket final: paiN.A vs QUIN
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260817T210000Z
 UID:pandascore-match-1636199@esport-ics
 DTSTART:20260817T210000Z
