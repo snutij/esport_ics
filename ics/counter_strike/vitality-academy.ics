@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 6 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Upper bracket semifinal 2: INOX vs VIT.A
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260817T080000Z
+UID:pandascore-match-1633567@esport-ics
+DTSTART:20260817T080000Z
+DTEND:20260817T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Lower bracket quarterfinal 1: PHTM.Ac vs VIT.A
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

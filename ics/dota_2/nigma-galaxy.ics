@@ -759,6 +759,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/dota2ti
 SUMMARY:Round 5: NGX vs TS
+URL:https://www.twitch.tv/dota2ti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T110000Z
+UID:pandascore-match-1638190@esport-ics
+DTSTART:20260820T110000Z
+DTEND:20260820T131500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/dota2ti
+SUMMARY:Upper bracket quarterfinal 1 match 4: NGX vs FLC
 URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR

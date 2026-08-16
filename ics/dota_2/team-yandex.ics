@@ -696,6 +696,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Elimination Round\nWatch: https://ww
  w.twitch.tv/dota2ti
 SUMMARY:LGD vs TY
+URL:https://www.twitch.tv/dota2ti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T080000Z
+UID:pandascore-match-1638178@esport-ics
+DTSTART:20260820T080000Z
+DTEND:20260820T101500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/dota2ti
+SUMMARY:Upper bracket quarterfinal 1 match 3: Liquid vs TY
 URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR
