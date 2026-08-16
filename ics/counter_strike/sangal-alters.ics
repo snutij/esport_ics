@@ -486,6 +486,15 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 53 2026 - Group A\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Elimination match: TTBS vs SNG
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260817T170000Z
+UID:pandascore-match-1638623@esport-ics
+DTSTART:20260817T170000Z
+DTEND:20260817T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:SNG vs DM
 END:VEVENT
 END:VCALENDAR

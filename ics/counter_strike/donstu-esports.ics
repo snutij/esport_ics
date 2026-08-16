@@ -1012,6 +1012,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group B\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:Decider match: FORZE.R vs DNT
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260817T170000Z
+UID:pandascore-match-1638626@esport-ics
+DTSTART:20260817T170000Z
+DTEND:20260817T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:DNT vs KSM
 END:VEVENT
 END:VCALENDAR
