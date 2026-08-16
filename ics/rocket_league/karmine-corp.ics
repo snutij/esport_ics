@@ -267,6 +267,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ewc_stcarena_en
 SUMMARY:Semifinal 1: KC vs FLCN
+URL:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T163000Z
+UID:pandascore-match-1619662@esport-ics
+DTSTART:20260816T163000Z
+DTEND:20260816T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ewc_stcarena_en
+SUMMARY:3rd place match: KC vs NIP.eStar
 URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 END:VCALENDAR
