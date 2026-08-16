@@ -345,6 +345,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs5
 SUMMARY:Upper bracket round 1 match 5: FORZE.R vs TrafficPills Esports
-URL;VALUE=URI:https://kick.com/cct_cs5
+URL:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260817T170000Z
+UID:pandascore-match-1632612@esport-ics
+DTSTART:20260817T170000Z
+DTEND:20260817T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Play-In\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:REV vs FORZE.R
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

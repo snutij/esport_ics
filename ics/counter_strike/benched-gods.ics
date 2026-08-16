@@ -318,6 +318,17 @@ DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group C
 SUMMARY:Elimination match: Leo vs BG
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260817T080000Z
+UID:pandascore-match-1632609@esport-ics
+DTSTART:20260817T080000Z
+DTEND:20260817T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Play-In\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:BG vs PHTM.Ac
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260817T183000Z
 UID:pandascore-match-1611841@esport-ics
 DTSTART:20260817T183000Z
