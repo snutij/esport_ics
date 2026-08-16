@@ -518,6 +518,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
  v/EWC_Plus_EN2
 SUMMARY:Lower bracket semifinal 1: LGC vs MIBR
-URL;VALUE=URI:https://www.twitch.tv/EWC_Plus_EN2
+URL:https://www.twitch.tv/EWC_Plus_EN2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T110000Z
+UID:pandascore-match-1624401@esport-ics
+DTSTART:20260820T110000Z
+DTEND:20260820T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/EWC_plus_en
+SUMMARY:Round of 16 match 5: NAVI vs LGC
+URL;VALUE=URI:https://www.twitch.tv/EWC_plus_en
 END:VEVENT
 END:VCALENDAR
