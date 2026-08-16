@@ -1002,6 +1002,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Play-In Group C\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:G2.A vs PERM
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260817T140000Z
+UID:pandascore-match-1638606@esport-ics
+DTSTART:20260817T140000Z
+DTEND:20260817T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Play-In Group C\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Elimination match: NXS vs G2.A
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

@@ -709,6 +709,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #7 2026 - Group B\nWatch:
   https://kick.com/cct_cs
 SUMMARY:Decider match: BERG vs HAVU
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260817T170000Z
+UID:pandascore-match-1630677@esport-ics
+DTSTART:20260817T170000Z
+DTEND:20260817T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #7 2026 - Play-In\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:ENJOY vs HAVU
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
