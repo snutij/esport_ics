@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs5
 SUMMARY:Upper bracket round 1 match 3: BANGARANGA vs maybe
+URL:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260817T181500Z
+UID:pandascore-match-1639146@esport-ics
+DTSTART:20260817T181500Z
+DTEND:20260817T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
+SUMMARY:Upper bracket quarterfinal 2: maybe vs Spirit Academy Green
 URL;VALUE=URI:https://kick.com/cct_cs5
 END:VEVENT
 END:VCALENDAR

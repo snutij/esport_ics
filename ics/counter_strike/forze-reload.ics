@@ -358,4 +358,15 @@ DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Play-In\nWatc
 SUMMARY:REV vs FORZE.R
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T181500Z
+UID:pandascore-match-1639147@esport-ics
+DTSTART:20260818T181500Z
+DTEND:20260818T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
+SUMMARY:Upper bracket quarterfinal 3: FORZE.R vs 300FPS
+URL;VALUE=URI:https://kick.com/cct_cs5
+END:VEVENT
 END:VCALENDAR

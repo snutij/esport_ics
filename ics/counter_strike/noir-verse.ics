@@ -220,7 +220,9 @@ UID:pandascore-match-1634732@esport-ics
 DTSTART:20260817T134500Z
 DTEND:20260817T160000Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs
+DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
 SUMMARY:Upper bracket quarterfinal 3: Noir Verse vs mellren
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

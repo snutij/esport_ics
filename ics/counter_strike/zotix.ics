@@ -344,6 +344,17 @@ SUMMARY:Upper bracket round 1 match 1: ZOTIX vs Insiders Esport
 URL:https://kick.com/cct_cs5
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260817T153000Z
+UID:pandascore-match-1639149@esport-ics
+DTSTART:20260817T153000Z
+DTEND:20260817T174500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
+SUMMARY:Lower bracket round 1 match 1: ZOTIX vs Aritmije
+URL;VALUE=URI:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260817T190000Z
 UID:pandascore-match-1638632@esport-ics
 DTSTART:20260817T190000Z
