@@ -69,6 +69,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs5
 SUMMARY:Upper bracket round 1 match 5: FORZE.R vs TrafficPills Esports
+URL:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T153000Z
+UID:pandascore-match-1639151@esport-ics
+DTSTART:20260818T153000Z
+DTEND:20260818T174500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
+SUMMARY:Lower bracket round 1 match 3: TrafficPills Esports vs TTBS
+URL;VALUE=URI:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260819T181500Z
+UID:pandascore-match-1640170@esport-ics
+DTSTART:20260819T181500Z
+DTEND:20260819T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
+SUMMARY:Lower bracket round 2 match 3: TBD vs TrafficPills Esports
 URL;VALUE=URI:https://kick.com/cct_cs5
 END:VEVENT
 END:VCALENDAR
