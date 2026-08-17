@@ -266,6 +266,17 @@ SUMMARY:Upper bracket round 1 match 4: Mai Tai vs BERG
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260818T080000Z
+UID:pandascore-match-1632613@esport-ics
+DTSTART:20260818T080000Z
+DTEND:20260818T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 1: ENCE vs Mai Tai
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260818T134500Z
 UID:pandascore-match-1634731@esport-ics
 DTSTART:20260818T134500Z

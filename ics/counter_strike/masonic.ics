@@ -862,6 +862,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 32 2026 - Group B\nWatch: https://www.
  twitch.tv/dust2tv
 SUMMARY:Decider match: st0ny vs MSC
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T110000Z
+UID:pandascore-match-1630679@esport-ics
+DTSTART:20260818T110000Z
+DTEND:20260818T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #7 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs
+SUMMARY:Round 1: MSC vs BBP
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

@@ -226,6 +226,17 @@ SUMMARY:Upper bracket quarterfinal 3: Noir Verse vs mellren
 URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260818T170000Z
+UID:pandascore-match-1632616@esport-ics
+DTSTART:20260818T170000Z
+DTEND:20260818T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 1: Honvéd vs Noir Verse
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260819T110000Z
 UID:pandascore-match-1634743@esport-ics
 DTSTART:20260819T110000Z
