@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:TCL - Summer 2026 - Play-Ins\nWatch: https://www.twitch.tv/riot
  gamesturkish
 SUMMARY:Mid bracket round 2 match 1: SHA vs SU
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260819T150000Z
+UID:pandascore-match-1639586@esport-ics
+DTSTART:20260819T150000Z
+DTEND:20260819T184500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
+ gamesturkish
+SUMMARY:Upper bracket quarterfinal 2: SU vs DP
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 END:VCALENDAR
