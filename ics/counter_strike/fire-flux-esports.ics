@@ -809,4 +809,15 @@ DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Play-In\nWatc
 SUMMARY:RAC vs FF
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T130000Z
+UID:pandascore-match-1639285@esport-ics
+DTSTART:20260818T130000Z
+DTEND:20260818T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 52 2026 - Group A\
+ nWatch: https://kick.com/ESLCS
+SUMMARY:OMG vs FF
+URL;VALUE=URI:https://kick.com/ESLCS
+END:VEVENT
 END:VCALENDAR

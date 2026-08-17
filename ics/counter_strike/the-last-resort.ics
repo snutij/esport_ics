@@ -959,6 +959,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Play-In Group B\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:TLR vs Honvéd
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T130000Z
+UID:pandascore-match-1639291@esport-ics
+DTSTART:20260818T130000Z
+DTEND:20260818T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 52 2026 - Group B\
+ nWatch: https://kick.com/ESLCS
+SUMMARY:TLR vs S-B
+URL;VALUE=URI:https://kick.com/ESLCS
 END:VEVENT
 END:VCALENDAR
