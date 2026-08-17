@@ -191,6 +191,17 @@ SUMMARY:DSG vs TL
 URL:https://www.twitch.tv/lcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260822T230000Z
+UID:pandascore-match-1563956@esport-ics
+DTSTART:20260822T230000Z
+DTEND:20260823T011500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
+ v/lcs
+SUMMARY:DSG vs DIG
+URL;VALUE=URI:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260823T200000Z
 UID:pandascore-match-1563953@esport-ics
 DTSTART:20260823T200000Z
@@ -199,17 +210,6 @@ CLASS:PUBLIC
 DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
  v/lcs
 SUMMARY:DSG vs SEN
-URL;VALUE=URI:https://www.twitch.tv/lcs
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260829T230000Z
-UID:pandascore-match-1563956@esport-ics
-DTSTART:20260829T230000Z
-DTEND:20260830T011500Z
-CLASS:PUBLIC
-DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
- v/lcs
-SUMMARY:DSG vs DIG
 URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 BEGIN:VEVENT
