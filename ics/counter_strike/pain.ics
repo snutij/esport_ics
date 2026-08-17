@@ -487,6 +487,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
  v/EWC_Plus_EN2
 SUMMARY:Lower bracket semifinal 2: MGLZ vs paiN
-URL;VALUE=URI:https://www.twitch.tv/EWC_Plus_EN2
+URL:https://www.twitch.tv/EWC_Plus_EN2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T163000Z
+UID:pandascore-match-1640190@esport-ics
+DTSTART:20260826T163000Z
+DTEND:20260826T184500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Porto Fall 2026 - Group A\nWatch: https://www.twit
+ ch.tv/blastpremier
+SUMMARY:Upper bracket quarterfinal 4: FURIA vs paiN
+URL;VALUE=URI:https://www.twitch.tv/blastpremier
 END:VEVENT
 END:VCALENDAR

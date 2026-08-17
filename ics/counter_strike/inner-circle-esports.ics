@@ -598,6 +598,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
  s://www.twitch.tv/mur_cs2
 SUMMARY:Round of 32 match 11: ICE vs IS
-URL;VALUE=URI:https://www.twitch.tv/mur_cs2
+URL:https://www.twitch.tv/mur_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T090000Z
+UID:pandascore-match-1640199@esport-ics
+DTSTART:20260827T090000Z
+DTEND:20260827T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Porto Fall 2026 - Group B\nWatch: https://www.twit
+ ch.tv/blastpremier
+SUMMARY:Upper bracket quarterfinal 1: VIT vs ICE
+URL;VALUE=URI:https://www.twitch.tv/blastpremier
 END:VEVENT
 END:VCALENDAR

@@ -531,4 +531,15 @@ DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
 SUMMARY:Round of 16 match 5: NAVI vs LGC
 URL;VALUE=URI:https://www.twitch.tv/EWC_plus_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T140000Z
+UID:pandascore-match-1640201@esport-ics
+DTSTART:20260827T140000Z
+DTEND:20260827T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Porto Fall 2026 - Group B\nWatch: https://www.twit
+ ch.tv/blastpremier
+SUMMARY:Upper bracket quarterfinal 3: LGC vs FUT
+URL;VALUE=URI:https://www.twitch.tv/blastpremier
+END:VEVENT
 END:VCALENDAR
