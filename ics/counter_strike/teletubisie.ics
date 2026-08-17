@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs6
 SUMMARY:Upper bracket round 1 match 6: 300FPS vs TTBS
-URL;VALUE=URI:https://kick.com/cct_cs6
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T103000Z
+UID:pandascore-match-1640087@esport-ics
+DTSTART:20260820T103000Z
+DTEND:20260820T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 54 2026 - Group D\nWatch: https://www.kick.co
+ m/united21_en
+SUMMARY:TTBS vs PHTM.Ac
+URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

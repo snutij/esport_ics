@@ -781,6 +781,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Bounty - Summer 2026 - Qualifier\nWatch: https://www.twit
  ch.tv/BLASTPremier
 SUMMARY:Round of 32 match 16: ALL vs WC
-URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T080000Z
+UID:pandascore-match-1640086@esport-ics
+DTSTART:20260820T080000Z
+DTEND:20260820T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 54 2026 - Group D\nWatch: https://www.kick.co
+ m/united21_en
+SUMMARY:ALL vs ENCE.P
+URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

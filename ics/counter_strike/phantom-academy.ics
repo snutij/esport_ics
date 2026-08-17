@@ -550,6 +550,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Play-In\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:BG vs PHTM.Ac
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T103000Z
+UID:pandascore-match-1640087@esport-ics
+DTSTART:20260820T103000Z
+DTEND:20260820T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 54 2026 - Group D\nWatch: https://www.kick.co
+ m/united21_en
+SUMMARY:TTBS vs PHTM.Ac
+URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
