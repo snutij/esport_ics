@@ -888,6 +888,17 @@ SUMMARY:Round 1: Black Phoenix vs BW
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260820T134500Z
+UID:pandascore-match-1634735@esport-ics
+DTSTART:20260820T134500Z
+DTEND:20260820T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Upper bracket semifinal 2: mellren vs BW
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260826T160000Z
 UID:pandascore-match-1630196@esport-ics
 DTSTART:20260826T160000Z

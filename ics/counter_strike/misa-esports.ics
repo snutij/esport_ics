@@ -1461,15 +1461,6 @@ URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260818T170000Z
-UID:pandascore-match-1640347@esport-ics
-DTSTART:20260818T170000Z
-DTEND:20260818T174500Z
-CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
-SUMMARY:IC.A vs MISA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260818T170000Z
 UID:pandascore-match-1639307@esport-ics
 DTSTART:20260818T170000Z
 DTEND:20260818T191500Z
@@ -1477,7 +1468,29 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 52 2026 - Group B\
  nWatch: https://kick.com/ESLCS
 SUMMARY:Elimination match: MISA vs S-B
-URL;VALUE=URI:https://kick.com/ESLCS
+URL:https://kick.com/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T171500Z
+UID:pandascore-match-1640347@esport-ics
+DTSTART:20260818T171500Z
+DTEND:20260818T180000Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/egor_babich342
+SUMMARY:IC.A vs MISA
+URL;VALUE=URI:https://www.twitch.tv/egor_babich342
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260819T110000Z
+UID:pandascore-match-1634742@esport-ics
+DTSTART:20260819T110000Z
+DTEND:20260819T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Lower bracket round 2 match 1: ex-Sashi Academy vs MISA
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260828T150000Z

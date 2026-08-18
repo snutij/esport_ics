@@ -540,8 +540,10 @@ UID:pandascore-match-1630195@esport-ics
 DTSTART:20260818T171500Z
 DTEND:20260818T180000Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/reservewolf
 SUMMARY:OLDBOYS PL vs NAVI.J
+URL;VALUE=URI:https://www.twitch.tv/reservewolf
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260826T163000Z
