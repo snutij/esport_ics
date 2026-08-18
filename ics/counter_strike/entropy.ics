@@ -649,6 +649,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 52 2026 - Group A\
  nWatch: https://kick.com/ESLCS
 SUMMARY:Elimination match: OMG vs Entropy
+URL:https://kick.com/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260819T130000Z
+UID:pandascore-match-1639289@esport-ics
+DTSTART:20260819T130000Z
+DTEND:20260819T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #4 season 52 2026 - Group A\
+ nWatch: https://kick.com/ESLCS
+SUMMARY:Decider match: FF vs Entropy
 URL;VALUE=URI:https://kick.com/ESLCS
 END:VEVENT
 END:VCALENDAR
