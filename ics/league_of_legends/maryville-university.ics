@@ -187,7 +187,9 @@ UID:pandascore-match-1636120@esport-ics
 DTSTART:20260821T000000Z
 DTEND:20260821T021500Z
 CLASS:PUBLIC
-DESCRIPTION:North American Challengers League - Summer 2026 - Playoffs
+DESCRIPTION:North American Challengers League - Summer 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/NACL
 SUMMARY:Upper bracket round 1 match 2: DOG vs MVU
+URL;VALUE=URI:https://www.twitch.tv/NACL
 END:VEVENT
 END:VCALENDAR
