@@ -212,6 +212,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:Upper bracket quarterfinal 2: WBT vs Mai Tai
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T134500Z
+UID:pandascore-match-1634734@esport-ics
+DTSTART:20260820T134500Z
+DTEND:20260820T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Upper bracket semifinal 1: LPH vs WBT
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
