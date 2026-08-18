@@ -462,6 +462,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group A\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:Decider match: RGG vs Vexar
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T170000Z
+UID:pandascore-match-1640348@esport-ics
+DTSTART:20260818T170000Z
+DTEND:20260818T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:RGG vs NoTime
 END:VEVENT
 END:VCALENDAR

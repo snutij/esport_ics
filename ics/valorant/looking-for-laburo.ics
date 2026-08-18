@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America South Main Event 2026 - Playo
  ffs\nWatch: https://www.twitch.tv/valorant_la
 SUMMARY:Lower bracket final: NPC Team vs Looking For Laburo
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260824T190000Z
+UID:pandascore-match-1626603@esport-ics
+DTSTART:20260824T190000Z
+DTEND:20260824T224500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Latin America South Main Event 2026 - Playo
+ ffs\nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:Grand final: KRÜ vs Looking For Laburo
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

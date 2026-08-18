@@ -330,6 +330,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Lower bracket round 1 match 2: ENCE vs BERG
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T183000Z
+UID:pandascore-match-1640374@esport-ics
+DTSTART:20260818T183000Z
+DTEND:20260818T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:BERG vs PURE
 END:VEVENT
 END:VCALENDAR
