@@ -256,6 +256,17 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
  v/nlclol
 SUMMARY:Round 4: AP vs Brod n Friends
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260819T180000Z
+UID:pandascore-match-1597233@esport-ics
+DTSTART:20260819T180000Z
+DTEND:20260819T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
+ ol
+SUMMARY:Upper bracket quarterfinal 2: B2U vs AP
 URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR
