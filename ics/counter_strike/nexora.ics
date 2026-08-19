@@ -89,8 +89,10 @@ UID:pandascore-match-1641634@esport-ics
 DTSTART:20260819T183000Z
 DTEND:20260819T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/kuusamogg
 SUMMARY:KSM vs NEXORA
+URL;VALUE=URI:https://www.twitch.tv/kuusamogg
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260819T200000Z
