@@ -179,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:LIT - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/LITo
  fficial
 SUMMARY:Lower bracket round 1: TTS vs P11
+URL:https://www.twitch.tv/LITofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T160000Z
+UID:pandascore-match-1626606@esport-ics
+DTSTART:20260827T160000Z
+DTEND:20260827T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LIT - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/LITo
+ fficial
+SUMMARY:Lower bracket round 2: EKO vs TTS
 URL;VALUE=URI:https://www.twitch.tv/LITofficial
 END:VEVENT
 END:VCALENDAR

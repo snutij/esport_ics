@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #7 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs
 SUMMARY:Round 1: Drip Too Hard vs HS
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T140000Z
+UID:pandascore-match-1630688@esport-ics
+DTSTART:20260820T140000Z
+DTEND:20260820T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #7 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs
+SUMMARY:Round 2: PCIFIC vs Drip Too Hard
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
