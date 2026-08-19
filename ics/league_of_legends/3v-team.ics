@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:LRN - Split 2 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  acelatam
 SUMMARY:Lower bracket semifinal: KITS vs 3V
+URL:https://www.twitch.tv/lolacelatam
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260831T230000Z
+UID:pandascore-match-1601269@esport-ics
+DTSTART:20260831T230000Z
+DTEND:20260901T024500Z
+CLASS:PUBLIC
+DESCRIPTION:LRN - Split 2 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ acelatam
+SUMMARY:Lower bracket final: 3V vs TBD
 URL;VALUE=URI:https://www.twitch.tv/lolacelatam
 END:VEVENT
 END:VCALENDAR
