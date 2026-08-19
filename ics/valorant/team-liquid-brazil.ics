@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Brazil Final Stage 2026 - Playoffs\nWatch: 
  https://www.twitch.tv/valorant_br
 SUMMARY:Upper bracket semifinal 2: TL vs EG.GC
+URL:https://www.twitch.tv/valorant_br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T230000Z
+UID:pandascore-match-1625731@esport-ics
+DTSTART:20260909T230000Z
+DTEND:20260910T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Brazil Final Stage 2026 - Playoffs\nWatch: 
+ https://www.twitch.tv/valorant_br
+SUMMARY:Upper bracket final: MIBR.F vs TL
 URL;VALUE=URI:https://www.twitch.tv/valorant_br
 END:VEVENT
 END:VCALENDAR
