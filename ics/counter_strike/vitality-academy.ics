@@ -161,6 +161,17 @@ URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260819T080000Z
+UID:pandascore-match-1633571@esport-ics
+DTSTART:20260819T080000Z
+DTEND:20260819T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 6 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Lower bracket final: Inner Circle Prospect vs VIT.A
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260819T080000Z
 UID:pandascore-match-1640081@esport-ics
 DTSTART:20260819T080000Z
 DTEND:20260819T101500Z
@@ -169,16 +180,5 @@ DESCRIPTION:United21 - Season 54 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:VIT.A vs SNG
 URL;VALUE=URI:https://kick.com/united21_en
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260819T080000Z
-UID:pandascore-match-1633571@esport-ics
-DTSTART:20260819T080000Z
-DTEND:20260819T101500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Regular season 6 2026 - Playoffs\nWatch: 
- https://kick.com/eplcs_en
-SUMMARY:Lower bracket final: Inner Circle Prospect vs VIT.A
-URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
