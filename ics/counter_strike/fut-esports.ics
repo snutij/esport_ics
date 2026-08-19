@@ -446,6 +446,17 @@ SUMMARY:Round of 16 match 3: FUT vs MGC
 URL:https://www.twitch.tv/EWC_Plus_EN2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260821T110000Z
+UID:pandascore-match-1624406@esport-ics
+DTSTART:20260821T110000Z
+DTEND:20260821T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/EWC_plus_en
+SUMMARY:Quarterfinal 2: FUT vs TBD
+URL;VALUE=URI:https://www.twitch.tv/EWC_plus_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260827T140000Z
 UID:pandascore-match-1640201@esport-ics
 DTSTART:20260827T140000Z

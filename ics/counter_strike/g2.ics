@@ -617,6 +617,17 @@ SUMMARY:Round of 16 match 1: G2 vs AST
 URL:https://www.twitch.tv/EWC_plus_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260820T170000Z
+UID:pandascore-match-1624405@esport-ics
+DTSTART:20260820T170000Z
+DTEND:20260820T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/EWC_plus_en
+SUMMARY:Quarterfinal 1: G2 vs TBD
+URL;VALUE=URI:https://www.twitch.tv/EWC_plus_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260826T090000Z
 UID:pandascore-match-1640187@esport-ics
 DTSTART:20260826T090000Z

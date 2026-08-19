@@ -92,6 +92,17 @@ DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs6
 SUMMARY:Lower bracket round 2 match 3: Spirit Academy Green vs TrafficPills
   Esports
-URL;VALUE=URI:https://kick.com/cct_cs6
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T153000Z
+UID:pandascore-match-1640173@esport-ics
+DTSTART:20260820T153000Z
+DTEND:20260820T174500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
+SUMMARY:Lower bracket round 3 match 2: TrafficPills Esports vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs5
 END:VEVENT
 END:VCALENDAR
