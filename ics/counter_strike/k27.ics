@@ -817,6 +817,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group B\nWatch: https://www.twitch.t
  v/EWC_Plus_EN2
 SUMMARY:Lower bracket quarterfinal 1: K27 vs MIBR
-URL;VALUE=URI:https://www.twitch.tv/EWC_Plus_EN2
+URL:https://www.twitch.tv/EWC_Plus_EN2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T120000Z
+UID:pandascore-match-1643105@esport-ics
+DTSTART:20260823T120000Z
+DTEND:20260823T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage
+SUMMARY:Round 1: K27 vs RE
 END:VEVENT
 END:VCALENDAR

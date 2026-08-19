@@ -1247,6 +1247,15 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 10 2026 - Playoffs\nWatch: https:
  //kick.com/nodwin_cs2
 SUMMARY:Round of 16 match 2: 1WIN vs ex-RUBY
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T180000Z
+UID:pandascore-match-1643107@esport-ics
+DTSTART:20260823T180000Z
+DTEND:20260823T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage
+SUMMARY:Round 1: ex-RUBY vs Black Phoenix
 END:VEVENT
 END:VCALENDAR
