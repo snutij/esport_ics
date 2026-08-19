@@ -267,6 +267,17 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
  ol
 SUMMARY:Upper bracket quarterfinal 2: B2U vs AP
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260831T160000Z
+UID:pandascore-match-1597238@esport-ics
+DTSTART:20260831T160000Z
+DTEND:20260831T181500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
+ ol
+SUMMARY:Upper bracket semifinal 1: VDN vs AP
 URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR
