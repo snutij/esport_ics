@@ -405,6 +405,17 @@ SUMMARY:Round of 16 match 6: FAL vs MGLZ
 URL:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260821T140000Z
+UID:pandascore-match-1624407@esport-ics
+DTSTART:20260821T140000Z
+DTEND:20260821T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/EWC_plus_en
+SUMMARY:Quarterfinal 3: LGC vs FAL
+URL;VALUE=URI:https://www.twitch.tv/EWC_plus_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260827T163000Z
 UID:pandascore-match-1640202@esport-ics
 DTSTART:20260827T163000Z

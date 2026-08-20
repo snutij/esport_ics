@@ -259,6 +259,17 @@ SUMMARY:Lower bracket round 3 match 1: ex-Sashi Academy vs Noir Verse
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260821T110000Z
+UID:pandascore-match-1634748@esport-ics
+DTSTART:20260821T110000Z
+DTEND:20260821T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Lower bracket quarterfinal 1: Noir Verse vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260821T170000Z
 UID:pandascore-match-1632628@esport-ics
 DTSTART:20260821T170000Z
