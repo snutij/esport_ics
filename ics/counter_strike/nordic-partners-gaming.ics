@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #6 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs2
 SUMMARY:Round of 16 match 3: NPG vs G1
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260821T080000Z
+UID:pandascore-match-1633219@esport-ics
+DTSTART:20260821T080000Z
+DTEND:20260821T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: NPG vs 33
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

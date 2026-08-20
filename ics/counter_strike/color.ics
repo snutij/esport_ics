@@ -39,6 +39,17 @@ SUMMARY:Semifinal 2: MZP vs Color
 URL:https://www.twitch.tv/flubytv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260821T110000Z
+UID:pandascore-match-1633220@esport-ics
+DTSTART:20260821T110000Z
+DTEND:20260821T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: Color vs IC.A
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260822T090000Z
 UID:pandascore-match-1643100@esport-ics
 DTSTART:20260822T090000Z

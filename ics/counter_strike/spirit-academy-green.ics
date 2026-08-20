@@ -128,7 +128,9 @@ UID:pandascore-match-1643119@esport-ics
 DTSTART:20260820T183000Z
 DTEND:20260820T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/sshambei
 SUMMARY:GoldRashers vs Spirit Academy Green
+URL;VALUE=URI:https://www.twitch.tv/sshambei
 END:VEVENT
 END:VCALENDAR
