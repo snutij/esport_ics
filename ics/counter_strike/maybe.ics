@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs5
 SUMMARY:Upper bracket semifinal 1: NV vs maybe
+URL:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T153000Z
+UID:pandascore-match-1640166@esport-ics
+DTSTART:20260822T153000Z
+DTEND:20260822T174500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
+SUMMARY:Upper bracket final: maybe vs FORZE.R
 URL;VALUE=URI:https://kick.com/cct_cs5
 END:VEVENT
 END:VCALENDAR
