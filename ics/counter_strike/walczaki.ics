@@ -740,7 +740,9 @@ UID:pandascore-match-1643104@esport-ics
 DTSTART:20260823T090000Z
 DTEND:20260823T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage
+DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/gluck_esports
 SUMMARY:Round 1: WAL vs X-CITY
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

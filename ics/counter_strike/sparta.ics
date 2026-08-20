@@ -918,12 +918,25 @@ SUMMARY:3rd place match: SPARTA vs TBD
 URL:https://kick.com/ESLCS
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260821T170000Z
+UID:pandascore-match-1633222@esport-ics
+DTSTART:20260821T170000Z
+DTEND:20260821T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: SPARTA vs Leo
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260822T180000Z
 UID:pandascore-match-1643103@esport-ics
 DTSTART:20260822T180000Z
 DTEND:20260822T201500Z
 CLASS:PUBLIC
-DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage
+DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/gluck_esports
 SUMMARY:Round 1: NTR vs SPARTA
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

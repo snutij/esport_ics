@@ -699,6 +699,17 @@ SUMMARY:Round 1: Drip Too Hard vs HS
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260821T140000Z
+UID:pandascore-match-1633221@esport-ics
+DTSTART:20260821T140000Z
+DTEND:20260821T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: ex-RUBY vs HS
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260821T170000Z
 UID:pandascore-match-1630693@esport-ics
 DTSTART:20260821T170000Z

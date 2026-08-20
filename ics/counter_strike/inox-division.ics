@@ -727,6 +727,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 6 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Grand final: INOX vs VIT.A
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T140000Z
+UID:pandascore-match-1633225@esport-ics
+DTSTART:20260822T140000Z
+DTEND:20260822T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: INOX vs Honvéd
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

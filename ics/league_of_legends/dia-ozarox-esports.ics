@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:TCL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
  gamesturkish
 SUMMARY:Upper bracket semifinal 1: DIA vs BW
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T150000Z
+UID:pandascore-match-1639610@esport-ics
+DTSTART:20260827T150000Z
+DTEND:20260827T184500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
+ gamesturkish
+SUMMARY:Lower bracket quarterfinal 2: DP vs DIA
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 END:VCALENDAR

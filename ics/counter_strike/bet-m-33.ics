@@ -392,7 +392,9 @@ UID:pandascore-match-1643101@esport-ics
 DTSTART:20260822T120000Z
 DTEND:20260822T141500Z
 CLASS:PUBLIC
-DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage
+DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/gluck_esports
 SUMMARY:Round 1: 1WIN vs 33
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

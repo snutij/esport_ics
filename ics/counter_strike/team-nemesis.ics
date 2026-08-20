@@ -869,7 +869,9 @@ UID:pandascore-match-1643100@esport-ics
 DTSTART:20260822T090000Z
 DTEND:20260822T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage
+DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/gluck_esports
 SUMMARY:Round 1: NEM vs Color
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

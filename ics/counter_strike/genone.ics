@@ -1205,4 +1205,15 @@ DESCRIPTION:CCT Europe - Series #7 2026 - Group Stage\nWatch: https://kick.
 SUMMARY:Round 2: G1 vs HAVU
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T080000Z
+UID:pandascore-match-1633223@esport-ics
+DTSTART:20260822T080000Z
+DTEND:20260822T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: G1 vs ex-ZT
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
