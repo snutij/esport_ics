@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:LPLOL - Summer 2026 - Group Stage\nWatch: https://www.twitch.tv
  /rtparenalol
 SUMMARY:Round 4: TOS vs NORT
+URL:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T170000Z
+UID:pandascore-match-1598335@esport-ics
+DTSTART:20260820T170000Z
+DTEND:20260820T191500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Summer 2026 - Group Stage\nWatch: https://www.twitch.tv
+ /rtparenalol
+SUMMARY:Round 5: NORT vs TUNG
 URL;VALUE=URI:https://www.twitch.tv/rtparenalol
 END:VEVENT
 END:VCALENDAR
