@@ -472,4 +472,15 @@ DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
 SUMMARY:Round 2: FAL.F vs Honvéd
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260821T134500Z
+UID:pandascore-match-1634749@esport-ics
+DTSTART:20260821T134500Z
+DTEND:20260821T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 5 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Lower bracket quarterfinal 2: Honvéd vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
