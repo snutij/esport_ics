@@ -828,6 +828,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/dota2ti
 SUMMARY:Upper bracket quarterfinal 1 match 1: IW vs TS
+URL:https://www.twitch.tv/dota2ti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260821T080000Z
+UID:pandascore-match-1638191@esport-ics
+DTSTART:20260821T080000Z
+DTEND:20260821T101500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/dota2ti
+SUMMARY:Upper bracket semifinal 1: TS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR
