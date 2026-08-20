@@ -153,6 +153,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Pacific Stage 2 2026 - Play-In\nWatch: https://www.twitch
  .tv/valorant_pacific
 SUMMARY:Lower bracket round 1 match 4: ZETA vs XE
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T110000Z
+UID:pandascore-match-1619624@esport-ics
+DTSTART:20260822T110000Z
+DTEND:20260822T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Play-In\nWatch: https://www.twitch
+ .tv/valorant_pacific
+SUMMARY:Lower bracket round 2 match 2: DFM vs ZETA
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR
