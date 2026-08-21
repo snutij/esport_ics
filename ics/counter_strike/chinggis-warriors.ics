@@ -359,6 +359,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asian Champions League - 2026 - Group A\nWatch: https://live.bi
  libili.com/1799897222
 SUMMARY:Lower bracket semifinal: CW vs 5S
-URL;VALUE=URI:https://live.bilibili.com/1799897222
+URL:https://live.bilibili.com/1799897222
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T060000Z
+UID:pandascore-match-1645130@esport-ics
+DTSTART:20260822T060000Z
+DTEND:20260822T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - Asian Qualifier 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/gluck_esports_2
+SUMMARY:CW vs VA
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports_2
 END:VEVENT
 END:VCALENDAR
