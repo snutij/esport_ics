@@ -457,6 +457,17 @@ SUMMARY:Quarterfinal 2: FUT vs MOUZ
 URL:https://www.twitch.tv/EWC_plus_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260822T140000Z
+UID:pandascore-match-1624409@esport-ics
+DTSTART:20260822T140000Z
+DTEND:20260822T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/EWC_plus_en
+SUMMARY:Semifinal 1: FURIA vs FUT
+URL;VALUE=URI:https://www.twitch.tv/EWC_plus_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260827T140000Z
 UID:pandascore-match-1640201@esport-ics
 DTSTART:20260827T140000Z
