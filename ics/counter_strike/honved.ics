@@ -494,4 +494,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Group Stage\nWatch: htt
 SUMMARY:Round 1: INOX vs Honvéd
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T110000Z
+UID:pandascore-match-1632634@esport-ics
+DTSTART:20260823T110000Z
+DTEND:20260823T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 3: Honvéd vs REV
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
 END:VCALENDAR

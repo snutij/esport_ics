@@ -259,6 +259,17 @@ SUMMARY:Round 1: BTF vs Black Phoenix
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260823T140000Z
+UID:pandascore-match-1632635@esport-ics
+DTSTART:20260823T140000Z
+DTEND:20260823T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 3: LVKD vs Black Phoenix
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260823T180000Z
 UID:pandascore-match-1643107@esport-ics
 DTSTART:20260823T180000Z

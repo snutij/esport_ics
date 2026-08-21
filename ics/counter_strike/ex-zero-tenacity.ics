@@ -1183,4 +1183,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Group Stage\nWatch: htt
 SUMMARY:Round 1: G1 vs ex-ZT
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T170000Z
+UID:pandascore-match-1632636@esport-ics
+DTSTART:20260823T170000Z
+DTEND:20260823T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 3: EJ vs ex-ZT
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
 END:VCALENDAR

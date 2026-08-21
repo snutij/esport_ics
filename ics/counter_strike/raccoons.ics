@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
  .com/fiesta_cs
 SUMMARY:Round 2: BW vs RAC
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T080000Z
+UID:pandascore-match-1632633@esport-ics
+DTSTART:20260823T080000Z
+DTEND:20260823T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 3: RAC vs VEX
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR
