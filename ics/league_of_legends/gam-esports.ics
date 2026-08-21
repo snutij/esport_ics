@@ -277,6 +277,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Split 3 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
  pacificen
 SUMMARY:Upper bracket semifinal 2: TSW vs GAM
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T090000Z
+UID:pandascore-match-1602808@esport-ics
+DTSTART:20260822T090000Z
+DTEND:20260822T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Split 3 2026 - Playoffs\nWatch: https://www.twitch.tv/lol
+ pacificen
+SUMMARY:Lower bracket semifinal: MVK vs GAM
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR
