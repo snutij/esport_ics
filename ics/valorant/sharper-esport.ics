@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Pacific Stage 2 2026 - Play-In\nWatch: https://www.twitch
  .tv/valorant_pacific
 SUMMARY:Upper bracket round 3 match 1: KRX vs SPE
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T110000Z
+UID:pandascore-match-1619626@esport-ics
+DTSTART:20260823T110000Z
+DTEND:20260823T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Stage 2 2026 - Play-In\nWatch: https://www.twitch
+ .tv/valorant_pacific
+SUMMARY:Lower bracket round 3 match 2: SPE vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR
