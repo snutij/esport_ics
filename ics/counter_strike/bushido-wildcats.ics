@@ -952,6 +952,17 @@ SUMMARY:Lower bracket quarterfinal 2: Honvéd vs BW
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260822T110000Z
+UID:pandascore-match-1630695@esport-ics
+DTSTART:20260822T110000Z
+DTEND:20260822T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #7 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs
+SUMMARY:Round 3: LVKD vs BW
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260822T134500Z
 UID:pandascore-match-1634750@esport-ics
 DTSTART:20260822T134500Z
