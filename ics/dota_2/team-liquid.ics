@@ -960,6 +960,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/dota2ti
 SUMMARY:Lower bracket round 1 match 2: Liquid vs FLC
+URL:https://www.twitch.tv/dota2ti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T020000Z
+UID:pandascore-match-1638222@esport-ics
+DTSTART:20260822T020000Z
+DTEND:20260822T041500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/dota2ti
+SUMMARY:Lower bracket quarterfinal 2: Liquid vs TBD
 URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR
