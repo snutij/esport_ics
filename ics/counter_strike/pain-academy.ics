@@ -1033,4 +1033,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - August 2026 - Group D
 SUMMARY:Elimination Match: ODK.A vs paiN.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260825T160000Z
+UID:pandascore-match-1645082@esport-ics
+DTSTART:20260825T160000Z
+DTEND:20260825T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 5 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 1: paiN.A vs PLD
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR

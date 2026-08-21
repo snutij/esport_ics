@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Semente do Mal
+SLUG:semente-do-mal
+BEGIN:VEVENT
+DTSTAMP:20260826T220000Z
+UID:pandascore-match-1645088@esport-ics
+DTSTART:20260826T220000Z
+DTEND:20260827T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 5 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 1: GRE vs Semente do Mal
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+END:VCALENDAR

@@ -786,4 +786,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - August 2026 - Group A
 SUMMARY:Winners Match: GRE vs BST.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T190000Z
+UID:pandascore-match-1645087@esport-ics
+DTSTART:20260826T190000Z
+DTEND:20260826T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 5 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 1: BST.A vs Zetta Games
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR
