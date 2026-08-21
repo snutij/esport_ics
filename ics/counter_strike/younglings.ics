@@ -254,6 +254,17 @@ SUMMARY:Lower bracket quarterfinal 2: TrafficPills Esports vs YL
 URL:https://kick.com/cct_cs5
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260822T181500Z
+UID:pandascore-match-1640176@esport-ics
+DTSTART:20260822T181500Z
+DTEND:20260822T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs5
+SUMMARY:Lower bracket semifinal: YL vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260824T173000Z
 UID:pandascore-match-1640744@esport-ics
 DTSTART:20260824T173000Z
