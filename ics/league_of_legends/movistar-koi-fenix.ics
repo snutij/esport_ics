@@ -280,6 +280,17 @@ DTEND:20260820T194500Z
 CLASS:PUBLIC
 DESCRIPTION:LES - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/LES
 SUMMARY:Grand final: MKF vs HRTS
+URL:https://www.twitch.tv/LES
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T150000Z
+UID:pandascore-match-1646875@esport-ics
+DTSTART:20260902T150000Z
+DTEND:20260902T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LES - Summer 2026 - Final Four\nWatch: https://www.twitch.tv/LE
+ S
+SUMMARY:Semifinal: MKF vs TBD
 URL;VALUE=URI:https://www.twitch.tv/LES
 END:VEVENT
 END:VCALENDAR
