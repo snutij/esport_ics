@@ -554,6 +554,17 @@ SUMMARY:Semifinal 2: LGC vs TS
 URL:https://www.twitch.tv/ewc_stcarena_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260823T080000Z
+UID:pandascore-match-1624411@esport-ics
+DTSTART:20260823T080000Z
+DTEND:20260823T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/EWC_plus_en
+SUMMARY:Third place match: FURIA vs LGC
+URL;VALUE=URI:https://www.twitch.tv/EWC_plus_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260827T140000Z
 UID:pandascore-match-1640201@esport-ics
 DTSTART:20260827T140000Z
