@@ -729,6 +729,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/dota2ti
 SUMMARY:Upper bracket final: VSN vs TY
+URL:https://www.twitch.tv/dota2ti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T020000Z
+UID:pandascore-match-1638239@esport-ics
+DTSTART:20260823T020000Z
+DTEND:20260823T041500Z
+CLASS:PUBLIC
+DESCRIPTION:The International - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/dota2ti
+SUMMARY:Lower bracket final: TY vs TBD
 URL;VALUE=URI:https://www.twitch.tv/dota2ti
 END:VEVENT
 END:VCALENDAR
