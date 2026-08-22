@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 54 2026 - Group B\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Elimination match: FaZe UN vs Inner Circle Prospect
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260825T103000Z
+UID:pandascore-match-1640080@esport-ics
+DTSTART:20260825T103000Z
+DTEND:20260825T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 54 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider match: RT vs FaZe UN
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
