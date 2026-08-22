@@ -395,6 +395,17 @@ CLASS:PUBLIC
 DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
  ch: https://www.twitch.tv/gluck_esports
 SUMMARY:Round 1: 1WIN vs 33
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260824T080000Z
+UID:pandascore-match-1633231@esport-ics
+DTSTART:20260824T080000Z
+DTEND:20260824T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 2: 33 vs HS
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
