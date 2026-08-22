@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Moscow Cyber Games - Asian Qualifier 2026 - Group A\nWatch: htt
  ps://www.twitch.tv/gluck_esports_2
 SUMMARY:CW vs VA
+URL:https://www.twitch.tv/gluck_esports_2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260823T060000Z
+UID:pandascore-match-1645132@esport-ics
+DTSTART:20260823T060000Z
+DTEND:20260823T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - Asian Qualifier 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/gluck_esports_2
+SUMMARY:Winners match: RA vs VA
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports_2
 END:VEVENT
 END:VCALENDAR

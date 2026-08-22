@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:LPLOL - Summer 2026 - Group Stage\nWatch: https://www.twitch.tv
  /rtparenalol
 SUMMARY:Round 3: DOMI vs HYPE
+URL:https://www.twitch.tv/rtparenalol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T180000Z
+UID:pandascore-match-1598337@esport-ics
+DTSTART:20260826T180000Z
+DTEND:20260826T214500Z
+CLASS:PUBLIC
+DESCRIPTION:LPLOL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/rt
+ parenalol
+SUMMARY:Quarterfinal 1: HYPE vs BBK
 URL;VALUE=URI:https://www.twitch.tv/rtparenalol
 END:VEVENT
 END:VCALENDAR

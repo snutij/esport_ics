@@ -165,4 +165,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:DNT vs GBC
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T150000Z
+UID:pandascore-match-1646571@esport-ics
+DTSTART:20260826T150000Z
+DTEND:20260826T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Monsters Reloaded - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/monsternotebook
+SUMMARY:Quarterfinal 3: GBC vs PHX
+URL;VALUE=URI:https://www.twitch.tv/monsternotebook
+END:VEVENT
 END:VCALENDAR

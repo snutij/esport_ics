@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chaos Enforcers
+SLUG:chaos-enforcers
+BEGIN:VEVENT
+DTSTAMP:20260826T150000Z
+UID:pandascore-match-1646572@esport-ics
+DTSTART:20260826T150000Z
+DTEND:20260826T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Monsters Reloaded - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/monsternotebook
+SUMMARY:Quarterfinal 4: CE vs RFE
+URL;VALUE=URI:https://www.twitch.tv/monsternotebook
+END:VEVENT
+END:VCALENDAR
