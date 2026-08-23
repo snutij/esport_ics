@@ -381,6 +381,15 @@ CLASS:PUBLIC
 DESCRIPTION:Moscow Cyber Games - Asian Qualifier 2026 - Group A\nWatch: htt
  ps://www.twitch.tv/gluck_esports_2
 SUMMARY:Elimination match: THE vs CW
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports_2
+URL:https://www.twitch.tv/gluck_esports_2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260824T100000Z
+UID:pandascore-match-1649016@esport-ics
+DTSTART:20260824T100000Z
+DTEND:20260824T121500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Asian Open Qualifier 2026 - Playoffs
+SUMMARY:Quarterfinal 2: NEXVOID vs CW
 END:VEVENT
 END:VCALENDAR
