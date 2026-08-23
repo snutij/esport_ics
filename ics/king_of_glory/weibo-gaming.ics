@@ -322,6 +322,17 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Summer 2026 - Stage 3 Group S\nWatch: https:/
  /live.bilibili.com/21144080
 SUMMARY:AG.SP vs WB
-URL;VALUE=URI:https://live.bilibili.com/21144080
+URL:https://live.bilibili.com/21144080
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260831T103000Z
+UID:pandascore-match-1643660@esport-ics
+DTSTART:20260831T103000Z
+DTEND:20260831T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/hok_esports_kpl
+SUMMARY:Lower bracket round 2 match 1: TBD vs WB
+URL;VALUE=URI:https://www.twitch.tv/hok_esports_kpl
 END:VEVENT
 END:VCALENDAR
