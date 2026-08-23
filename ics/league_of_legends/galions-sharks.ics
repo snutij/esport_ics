@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:Nexus League - Summer 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/teamtskofficiel
 SUMMARY:Lower bracket quarterfinal 2: GLS vs CLA
+URL:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T100000Z
+UID:pandascore-match-1648108@esport-ics
+DTSTART:20260830T100000Z
+DTEND:20260830T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Nexus League - Summer 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/teamtskofficiel
+SUMMARY:Lower bracket semifinal: THG vs GLS
 URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
 END:VEVENT
 END:VCALENDAR
