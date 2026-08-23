@@ -439,6 +439,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
  .com/fiesta_cs
 SUMMARY:Round 3: EJ vs ex-ZT
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260824T140000Z
+UID:pandascore-match-1632638@esport-ics
+DTSTART:20260824T140000Z
+DTEND:20260824T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 4: FAL.F vs EJ
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR
