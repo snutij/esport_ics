@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:World Cup - 2026 - Group A\nWatch: https://www.twitch.tv/ow_esp
  orts
 SUMMARY:USA vs SWE
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T220000Z
+UID:pandascore-match-1648696@esport-ics
+DTSTART:20260912T220000Z
+DTEND:20260913T001500Z
+CLASS:PUBLIC
+DESCRIPTION:World Cup - 2026 - Playoffs\nWatch: https://www.twitch.tv/ow_es
+ ports
+SUMMARY:Quarterfinal 3: USA vs KOR
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR
