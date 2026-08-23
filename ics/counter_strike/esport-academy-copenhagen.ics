@@ -444,6 +444,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 52 2026 - Group D\
  nWatch: https://kick.com/teameac
 SUMMARY:Decider match: EAC vs PERM
-URL;VALUE=URI:https://kick.com/teameac
+URL:https://kick.com/teameac
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T140000Z
+UID:pandascore-match-1648235@esport-ics
+DTSTART:20260827T140000Z
+DTEND:20260827T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group A\nWatc
+ h: https://www.twitch.tv/connect_en
+SUMMARY:EAC vs QUA
+URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR

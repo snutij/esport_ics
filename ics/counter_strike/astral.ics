@@ -1086,6 +1086,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
  s://www.twitch.tv/sneakybeakyttv
 SUMMARY:Round of 32 match 3: HERO vs ASTR
-URL;VALUE=URI:https://www.twitch.tv/sneakybeakyttv
+URL:https://www.twitch.tv/sneakybeakyttv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260831T140000Z
+UID:pandascore-match-1648378@esport-ics
+DTSTART:20260831T140000Z
+DTEND:20260831T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group D\nWatc
+ h: https://www.twitch.tv/connect_en
+SUMMARY:BRUTE vs ASTR
+URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR

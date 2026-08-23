@@ -545,6 +545,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 52 2026 - Playoffs
  \nWatch: https://www.twitch.tv/flubytv
 SUMMARY:Semifinal 2: MZP vs Color
-URL;VALUE=URI:https://www.twitch.tv/flubytv
+URL:https://www.twitch.tv/flubytv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260831T110000Z
+UID:pandascore-match-1648367@esport-ics
+DTSTART:20260831T110000Z
+DTEND:20260831T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group D\nWatc
+ h: https://www.twitch.tv/connect_en
+SUMMARY:MZP vs PCIFIC
+URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR

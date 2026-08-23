@@ -461,6 +461,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
  s://www.twitch.tv/9inegg
 SUMMARY:Round of 32 match 12: 9INE vs HOTU
-URL;VALUE=URI:https://www.twitch.tv/9inegg
+URL:https://www.twitch.tv/9inegg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T140000Z
+UID:pandascore-match-1648240@esport-ics
+DTSTART:20260828T140000Z
+DTEND:20260828T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group B\nWatc
+ h: https://www.twitch.tv/connect_en
+SUMMARY:RE vs 9INE
+URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR

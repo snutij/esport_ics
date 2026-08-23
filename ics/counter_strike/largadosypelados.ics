@@ -940,6 +940,17 @@ CLASS:PUBLIC
 DESCRIPTION:StarLadder StarSeries - South American Qualifier Fall 2026 - Pl
  ayoffs\nWatch: https://kick.com/starladder1
 SUMMARY:Lower bracket quarterfinal 2: LDP vs BST
-URL;VALUE=URI:https://kick.com/starladder1
+URL:https://kick.com/starladder1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T140000Z
+UID:pandascore-match-1648313@esport-ics
+DTSTART:20260830T140000Z
+DTEND:20260830T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group C\nWatc
+ h: https://www.twitch.tv/connect_en
+SUMMARY:LDP vs TBD
+URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR

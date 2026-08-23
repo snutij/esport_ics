@@ -431,6 +431,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 52 2026 - Playoffs
  \nWatch: https://kick.com/ESLCS
 SUMMARY:Grand final: OG vs TBD
-URL;VALUE=URI:https://kick.com/ESLCS
+URL:https://kick.com/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T110000Z
+UID:pandascore-match-1648312@esport-ics
+DTSTART:20260830T110000Z
+DTEND:20260830T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group C\nWatc
+ h: https://www.twitch.tv/connect_en
+SUMMARY:OG vs EF
+URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR
