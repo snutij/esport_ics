@@ -400,6 +400,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #7 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs4
 SUMMARY:Lower bracket final: Y.TigeRES vs TS.A
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260824T160000Z
+UID:pandascore-match-1649024@esport-ics
+DTSTART:20260824T160000Z
+DTEND:20260824T164500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs
+SUMMARY:Round of 16 match 6: NTR vs TS.A
 END:VEVENT
 END:VCALENDAR

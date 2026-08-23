@@ -58,6 +58,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs6
 SUMMARY:Lower bracket round 2 match 4: Insiders Esport vs EmberKoca
-URL;VALUE=URI:https://kick.com/cct_cs6
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260824T160000Z
+UID:pandascore-match-1649026@esport-ics
+DTSTART:20260824T160000Z
+DTEND:20260824T164500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs
+SUMMARY:Round of 16 match 8: Insiders Esport vs EAC
 END:VEVENT
 END:VCALENDAR

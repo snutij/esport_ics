@@ -384,7 +384,9 @@ UID:pandascore-match-1649015@esport-ics
 DTSTART:20260824T100000Z
 DTEND:20260824T121500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Beijing: Asian Open Qualifier 2026 - Playoffs
-SUMMARY:Quarterfinal 1: THE vs Not A Squad Esports
+DESCRIPTION:IEM - Beijing: Asian Open Qualifier 2026 - Playoffs\nWatch: htt
+ ps://kick.com/dutchboycasts
+SUMMARY:Quarterfinal 1: THE vs NAS
+URL;VALUE=URI:https://kick.com/dutchboycasts
 END:VEVENT
 END:VCALENDAR

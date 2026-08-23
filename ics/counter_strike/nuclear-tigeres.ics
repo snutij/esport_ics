@@ -750,6 +750,15 @@ CLASS:PUBLIC
 DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
  ch: https://www.twitch.tv/gluck_esports
 SUMMARY:Round 1: NTR vs SPARTA
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260824T160000Z
+UID:pandascore-match-1649024@esport-ics
+DTSTART:20260824T160000Z
+DTEND:20260824T164500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs
+SUMMARY:Round of 16 match 6: NTR vs TS.A
 END:VEVENT
 END:VCALENDAR
