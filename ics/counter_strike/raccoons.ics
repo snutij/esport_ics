@@ -93,4 +93,15 @@ DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
 SUMMARY:Round 4: Mai Tai vs RAC
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T140000Z
+UID:pandascore-match-1648313@esport-ics
+DTSTART:20260830T140000Z
+DTEND:20260830T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group C\nWatc
+ h: https://www.twitch.tv/connect_en
+SUMMARY:LDP vs RAC
+URL;VALUE=URI:https://www.twitch.tv/connect_en
+END:VEVENT
 END:VCALENDAR
