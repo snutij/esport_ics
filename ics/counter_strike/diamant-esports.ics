@@ -395,6 +395,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/untalentedkid785
 SUMMARY:Diamant Esports vs FF
-URL;VALUE=URI:https://www.twitch.tv/untalentedkid785
+URL:https://www.twitch.tv/untalentedkid785
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260825T183000Z
+UID:pandascore-match-1650637@esport-ics
+DTSTART:20260825T183000Z
+DTEND:20260825T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:UUST vs Diamant Esports
 END:VEVENT
 END:VCALENDAR
