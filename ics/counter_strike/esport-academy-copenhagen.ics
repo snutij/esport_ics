@@ -452,8 +452,10 @@ UID:pandascore-match-1649026@esport-ics
 DTSTART:20260824T160000Z
 DTEND:20260824T164500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs
+DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs\nWatch: ht
+ tps://kick.com/teameac
 SUMMARY:Round of 16 match 8: Insiders Esport vs EAC
+URL;VALUE=URI:https://kick.com/teameac
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260827T140000Z

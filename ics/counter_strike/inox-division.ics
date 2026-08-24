@@ -757,7 +757,9 @@ UID:pandascore-match-1649019@esport-ics
 DTSTART:20260824T160000Z
 DTEND:20260824T164500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs
+DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/untalentedkid785
 SUMMARY:Round of 16 match 1: 100T vs INOX
+URL;VALUE=URI:https://www.twitch.tv/untalentedkid785
 END:VEVENT
 END:VCALENDAR

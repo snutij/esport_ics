@@ -896,7 +896,9 @@ UID:pandascore-match-1649021@esport-ics
 DTSTART:20260824T160000Z
 DTEND:20260824T164500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs
+DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/luffastream
 SUMMARY:Round of 16 match 3: ACE vs PHA
+URL;VALUE=URI:https://www.twitch.tv/luffastream
 END:VEVENT
 END:VCALENDAR

@@ -221,6 +221,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 2 2026 - Play-In\nWatch: https://www.twitc
  h.tv/valorant_americas
 SUMMARY:Upper bracket round 3 match 1: MIBR vs NV
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T000000Z
+UID:pandascore-match-1616167@esport-ics
+DTSTART:20260828T000000Z
+DTEND:20260828T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/valorant_americas
+SUMMARY:Upper bracket round 1 match 2: LEV vs MIBR
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

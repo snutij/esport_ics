@@ -1288,8 +1288,10 @@ UID:pandascore-match-1649020@esport-ics
 DTSTART:20260824T160000Z
 DTEND:20260824T164500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs
+DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/ynotcs2
 SUMMARY:Round of 16 match 2: EF vs ex-RUBY
+URL;VALUE=URI:https://www.twitch.tv/ynotcs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260825T150000Z
