@@ -1106,8 +1106,10 @@ UID:pandascore-match-1649033@esport-ics
 DTSTART:20260824T153000Z
 DTEND:20260824T161500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/roundsgg
 SUMMARY:LPH vs RGG
+URL;VALUE=URI:https://www.twitch.tv/roundsgg
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260824T180000Z
