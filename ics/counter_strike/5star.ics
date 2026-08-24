@@ -188,6 +188,15 @@ CLASS:PUBLIC
 DESCRIPTION:Moscow Cyber Games - Asian Qualifier 2026 - Group B\nWatch: htt
  ps://www.twitch.tv/gluck_esports_2
 SUMMARY:Decider match: KG vs 5S
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports_2
+URL:https://www.twitch.tv/gluck_esports_2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260825T130000Z
+UID:pandascore-match-1650453@esport-ics
+DTSTART:20260825T130000Z
+DTEND:20260825T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 8: XDM vs 5S
 END:VEVENT
 END:VCALENDAR

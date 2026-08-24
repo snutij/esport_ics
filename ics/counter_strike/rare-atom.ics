@@ -346,6 +346,15 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Asian Open Qualifier 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/untalentedkid785
 SUMMARY:Quarterfinal 4: MSTAR vs RA
-URL;VALUE=URI:https://www.twitch.tv/untalentedkid785
+URL:https://www.twitch.tv/untalentedkid785
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260825T130000Z
+UID:pandascore-match-1650449@esport-ics
+DTSTART:20260825T130000Z
+DTEND:20260825T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 4: LEGAM vs RA
 END:VEVENT
 END:VCALENDAR
