@@ -400,6 +400,16 @@ CLASS:PUBLIC
 DESCRIPTION:Dfrag - Open Series #6 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/dfragtv
 SUMMARY:Lower bracket final: GZ vs MF
-URL;VALUE=URI:https://www.twitch.tv/dfragtv
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T090000Z
+UID:pandascore-match-1650128@esport-ics
+DTSTART:20260826T090000Z
+DTEND:20260826T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #1 season 52 2026 - Playoff
+ s
+SUMMARY:Upper bracket quarterfinal 1: ARC vs MF
 END:VEVENT
 END:VCALENDAR

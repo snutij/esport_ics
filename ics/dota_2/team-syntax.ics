@@ -223,6 +223,50 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 1 2026 - Group A\nWatch: https://kick.com/
  epldota_en2
 SUMMARY:PR vs STX
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260825T070000Z
+UID:pandascore-match-1649555@esport-ics
+DTSTART:20260825T070000Z
+DTEND:20260825T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 2 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:STX vs KS
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260825T130000Z
+UID:pandascore-match-1649557@esport-ics
+DTSTART:20260825T130000Z
+DTEND:20260825T151500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 2 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:STX vs RE.Arise
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T070000Z
+UID:pandascore-match-1649560@esport-ics
+DTSTART:20260828T070000Z
+DTEND:20260828T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 2 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:LYNX vs STX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T100000Z
+UID:pandascore-match-1649561@esport-ics
+DTSTART:20260828T100000Z
+DTEND:20260828T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 2 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:STX vs TS.A
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
