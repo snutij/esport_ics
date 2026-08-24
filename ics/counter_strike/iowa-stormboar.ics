@@ -80,6 +80,16 @@ CLASS:PUBLIC
 DESCRIPTION:StarLadder StarSeries - North American Qualifier Fall 2026 - Pl
  ayoffs\nWatch: https://kick.com/starladder
 SUMMARY:Lower bracket round 1 match 1: IOWA vs LAG
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T010000Z
+UID:pandascore-match-1650511@esport-ics
+DTSTART:20260826T010000Z
+DTEND:20260826T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Upper bracket round 1 match 6: SHIM vs IOWA
 END:VEVENT
 END:VCALENDAR

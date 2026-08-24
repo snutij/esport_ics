@@ -256,6 +256,17 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
  ol
 SUMMARY:Upper bracket quarterfinal 3: DEER vs DMG
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T180000Z
+UID:pandascore-match-1597237@esport-ics
+DTSTART:20260826T180000Z
+DTEND:20260826T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
+ ol
+SUMMARY:Lower bracket round 1 match 2: DMG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR
