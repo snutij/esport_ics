@@ -1227,4 +1227,15 @@ DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
 SUMMARY:Round 4: Black Phoenix vs ex-ZT
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T110000Z
+UID:pandascore-match-1633258@esport-ics
+DTSTART:20260826T110000Z
+DTEND:20260826T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 3: ex-ZT vs HS
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

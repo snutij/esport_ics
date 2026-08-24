@@ -545,4 +545,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:Honvéd vs BJNG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260825T170000Z
+UID:pandascore-match-1633247@esport-ics
+DTSTART:20260825T170000Z
+DTEND:20260825T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 3: ILWL vs Honvéd
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
