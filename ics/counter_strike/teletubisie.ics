@@ -138,14 +138,14 @@ SUMMARY:TTBS vs PHTM.Ac
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260824T103000Z
+DTSTAMP:20260824T104000Z
 UID:pandascore-match-1640089@esport-ics
-DTSTART:20260824T103000Z
-DTEND:20260824T124500Z
+DTSTART:20260824T104000Z
+DTEND:20260824T125500Z
 CLASS:PUBLIC
-DESCRIPTION:United21 - Season 54 2026 - Group D\nWatch: https://www.kick.co
- m/united21_en
+DESCRIPTION:United21 - Season 54 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
 SUMMARY:Elimination match: ENCE.P vs TTBS
-URL;VALUE=URI:https://www.kick.com/united21_en
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
