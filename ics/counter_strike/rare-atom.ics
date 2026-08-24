@@ -349,6 +349,17 @@ SUMMARY:Quarterfinal 4: MSTAR vs RA
 URL:https://www.twitch.tv/untalentedkid785
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260825T090000Z
+UID:pandascore-match-1648104@esport-ics
+DTSTART:20260825T090000Z
+DTEND:20260825T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - Asian Qualifier 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/gluck_esports_2
+SUMMARY:RA vs 5S
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports_2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260825T130000Z
 UID:pandascore-match-1650449@esport-ics
 DTSTART:20260825T130000Z
