@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
  ch: https://www.twitch.tv/gluck_esports
 SUMMARY:Round 1: WAL vs X-CITY
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260824T180000Z
+UID:pandascore-match-1648075@esport-ics
+DTSTART:20260824T180000Z
+DTEND:20260824T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/gluck_esports
+SUMMARY:Round 2: NEM vs X-CITY
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

@@ -131,6 +131,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/sshambei
 SUMMARY:GoldRashers vs Spirit Academy Green
-URL;VALUE=URI:https://www.twitch.tv/sshambei
+URL:https://www.twitch.tv/sshambei
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260824T170000Z
+UID:pandascore-match-1649038@esport-ics
+DTSTART:20260824T170000Z
+DTEND:20260824T174500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:Spirit Academy Green vs SDF
 END:VEVENT
 END:VCALENDAR
