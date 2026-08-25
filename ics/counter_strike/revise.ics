@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
  .com/fiesta_cs
 SUMMARY:Round 4: REV vs BBP
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T140000Z
+UID:pandascore-match-1632644@esport-ics
+DTSTART:20260826T140000Z
+DTEND:20260826T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 5: Mai Tai vs REV
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR
