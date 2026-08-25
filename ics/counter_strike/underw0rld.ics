@@ -14,4 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - August 2026 - Group C
 SUMMARY:Winners Match: underw0rld vs ???
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260825T210000Z
+UID:pandascore-match-1651146@esport-ics
+DTSTART:20260825T210000Z
+DTEND:20260825T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - August 2026 - Playoffs\nWatch: http
+ s://www.twitch.tv/GamersClubCS
+SUMMARY:Quarterfinal 4: underw0rld vs BST.A
+URL;VALUE=URI:https://www.twitch.tv/GamersClubCS
+END:VEVENT
 END:VCALENDAR
