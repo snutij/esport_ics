@@ -245,6 +245,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Summer 2026 - Play-Ins\nWatch: https://www.twi
  tch.tv/lolesports_ar
 SUMMARY:Upper bracket final: BAM vs GNG
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T160000Z
+UID:pandascore-match-1634721@esport-ics
+DTSTART:20260826T160000Z
+DTEND:20260826T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Play-Ins\nWatch: https://www.twi
+ tch.tv/lolesports_ar
+SUMMARY:Lower bracket final: PIV vs GNG
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR
