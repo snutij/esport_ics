@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs\n
  Watch: https://www.twitch.tv/iamfusiion
 SUMMARY:Upper bracket round 1 match 6: QuantumX vs AE
-URL;VALUE=URI:https://www.twitch.tv/iamfusiion
+URL:https://www.twitch.tv/iamfusiion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T130000Z
+UID:pandascore-match-1650464@esport-ics
+DTSTART:20260826T130000Z
+DTEND:20260826T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 3: The KnockoutX vs QuantumX
 END:VEVENT
 END:VCALENDAR

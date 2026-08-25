@@ -210,4 +210,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 8: XDM vs 5S
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T130000Z
+UID:pandascore-match-1650465@esport-ics
+DTSTART:20260826T130000Z
+DTEND:20260826T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 4: HH vs 5S
+END:VEVENT
 END:VCALENDAR
