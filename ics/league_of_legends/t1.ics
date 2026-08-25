@@ -553,6 +553,16 @@ CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Round 3-4 Legend Group\nWatch: https://www.twitch.
  tv/lck
 SUMMARY:HLE vs T1
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T080000Z
+UID:pandascore-match-1642153@esport-ics
+DTSTART:20260829T080000Z
+DTEND:20260829T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
+SUMMARY:Upper bracket quarterfinal 1: T1 vs TBD
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 END:VCALENDAR
