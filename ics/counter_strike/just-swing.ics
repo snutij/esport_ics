@@ -198,7 +198,9 @@ UID:pandascore-match-1650448@esport-ics
 DTSTART:20260825T130000Z
 DTEND:20260825T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs\n
+ Watch: https://kick.com/dutchboycasts
 SUMMARY:Upper bracket round 1 match 3: KG vs JS
+URL;VALUE=URI:https://kick.com/dutchboycasts
 END:VEVENT
 END:VCALENDAR
