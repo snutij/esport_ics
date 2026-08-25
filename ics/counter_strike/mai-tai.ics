@@ -331,4 +331,15 @@ DESCRIPTION:Exort Fiesta - Season 1 2026 - Group Stage\nWatch: https://kick
 SUMMARY:Round 4: Mai Tai vs RAC
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T170000Z
+UID:pandascore-match-1651280@esport-ics
+DTSTART:20260827T170000Z
+DTEND:20260827T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Group B\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:Mai Tai vs ex-MANA
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

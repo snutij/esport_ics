@@ -400,7 +400,9 @@ UID:pandascore-match-1650452@esport-ics
 DTSTART:20260825T130000Z
 DTEND:20260825T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/mgfongabe
 SUMMARY:Upper bracket round 1 match 7: CW vs HH
+URL;VALUE=URI:https://www.twitch.tv/mgfongabe
 END:VEVENT
 END:VCALENDAR

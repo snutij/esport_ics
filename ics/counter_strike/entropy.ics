@@ -660,6 +660,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 52 2026 - Group A\
  nWatch: https://kick.com/ESLCS
 SUMMARY:Decider match: FF vs Entropy
-URL;VALUE=URI:https://kick.com/ESLCS
+URL:https://kick.com/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T080000Z
+UID:pandascore-match-1651284@esport-ics
+DTSTART:20260829T080000Z
+DTEND:20260829T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Group C\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:ex-RUSTEC vs Entropy
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
