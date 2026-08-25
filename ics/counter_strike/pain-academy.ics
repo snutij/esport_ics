@@ -1062,6 +1062,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/watchfulTVc
 SUMMARY:Upper bracket round 1 match 8: paiN.A vs IMP
-URL;VALUE=URI:https://www.twitch.tv/watchfulTVc
+URL:https://www.twitch.tv/watchfulTVc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T210000Z
+UID:pandascore-match-1650495@esport-ics
+DTSTART:20260826T210000Z
+DTEND:20260826T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Lower bracket round 1 match 4: paiN.A vs ISG
 END:VEVENT
 END:VCALENDAR

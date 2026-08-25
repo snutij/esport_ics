@@ -410,6 +410,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/gwizdakk
 SUMMARY:OLDBOYS PL vs WAVE
-URL;VALUE=URI:https://www.twitch.tv/gwizdakk
+URL:https://www.twitch.tv/gwizdakk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T183000Z
+UID:pandascore-match-1652179@esport-ics
+DTSTART:20260826T183000Z
+DTEND:20260826T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:MISA vs WAVE
 END:VEVENT
 END:VCALENDAR
