@@ -65,7 +65,9 @@ UID:pandascore-match-1650638@esport-ics
 DTSTART:20260825T183000Z
 DTEND:20260825T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/notimeesports
 SUMMARY:NoTime vs PENSIONERS
+URL;VALUE=URI:https://www.twitch.tv/notimeesports
 END:VEVENT
 END:VCALENDAR

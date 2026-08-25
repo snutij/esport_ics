@@ -1538,8 +1538,10 @@ UID:pandascore-match-1650642@esport-ics
 DTSTART:20260825T183000Z
 DTEND:20260825T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/spyhiddentv
 SUMMARY:MISA vs banda chuya
+URL;VALUE=URI:https://www.twitch.tv/spyhiddentv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260826T150000Z

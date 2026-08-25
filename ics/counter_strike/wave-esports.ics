@@ -407,7 +407,9 @@ UID:pandascore-match-1650646@esport-ics
 DTSTART:20260825T183000Z
 DTEND:20260825T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/gwizdakk
 SUMMARY:OLDBOYS PL vs WAVE
+URL;VALUE=URI:https://www.twitch.tv/gwizdakk
 END:VEVENT
 END:VCALENDAR
