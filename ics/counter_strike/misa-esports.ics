@@ -1553,6 +1553,17 @@ SUMMARY:Quarterfinal 2: MISA vs EF.A
 URL;VALUE=URI:https://www.twitch.tv/monsternotebook
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260827T140000Z
+UID:pandascore-match-1651279@esport-ics
+DTSTART:20260827T140000Z
+DTEND:20260827T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Group B\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:PERM vs MISA
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260828T150000Z
 UID:pandascore-match-1637091@esport-ics
 DTSTART:20260828T150000Z
