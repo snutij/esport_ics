@@ -548,6 +548,17 @@ SUMMARY:Semifinal 2: MZP vs Color
 URL:https://www.twitch.tv/flubytv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260828T110000Z
+UID:pandascore-match-1632651@esport-ics
+DTSTART:20260828T110000Z
+DTEND:20260828T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 1 2026 - Playoffs\nWatch: https://kick.co
+ m/fiesta_cs
+SUMMARY:Round of 16 match 3: MZP vs BW
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260831T110000Z
 UID:pandascore-match-1648367@esport-ics
 DTSTART:20260831T110000Z

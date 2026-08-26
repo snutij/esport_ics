@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 54 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:EAC Rising vs PSN.A
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T080000Z
+UID:pandascore-match-1653641@esport-ics
+DTSTART:20260828T080000Z
+DTEND:20260828T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 54 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket quarterfinal 3: EAC Rising vs FaZe UN
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

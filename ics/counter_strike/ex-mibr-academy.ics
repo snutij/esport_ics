@@ -24,6 +24,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
  layoffs\nWatch: https://kick.com/locomas
 SUMMARY:Upper bracket quarterfinal 3: SHIN vs ex-MIBR Academy
-URL;VALUE=URI:https://kick.com/locomas
+URL:https://kick.com/locomas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T210000Z
+UID:pandascore-match-1650497@esport-ics
+DTSTART:20260827T210000Z
+DTEND:20260827T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Lower bracket round 2 match 2: ex-MIBR Academy vs TBD
 END:VEVENT
 END:VCALENDAR

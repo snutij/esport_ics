@@ -677,6 +677,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
  s://www.twitch.tv/iamfusiion
 SUMMARY:Round of 32 match 13: FOKUS vs ACE
-URL;VALUE=URI:https://www.twitch.tv/iamfusiion
+URL:https://www.twitch.tv/iamfusiion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T140000Z
+UID:pandascore-match-1632648@esport-ics
+DTSTART:20260827T140000Z
+DTEND:20260827T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 1 2026 - Playoffs\nWatch: https://kick.co
+ m/fiesta_cs
+SUMMARY:Round of 16 match 5: FOKUS vs ex-ZT
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR
