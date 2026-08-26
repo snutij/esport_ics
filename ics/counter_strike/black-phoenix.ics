@@ -355,6 +355,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #7 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs
 SUMMARY:Round 5: Black Phoenix vs HS
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T180000Z
+UID:pandascore-match-1648084@esport-ics
+DTSTART:20260827T180000Z
+DTEND:20260827T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/gluck_esports
+SUMMARY:Round 3: FORZE.R vs Black Phoenix
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

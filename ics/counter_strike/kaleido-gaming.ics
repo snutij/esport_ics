@@ -172,4 +172,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 2: KG vs LEGAM
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T130000Z
+UID:pandascore-match-1650467@esport-ics
+DTSTART:20260827T130000Z
+DTEND:20260827T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 2: AE vs KG
+END:VEVENT
 END:VCALENDAR
