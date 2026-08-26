@@ -311,6 +311,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCK Challengers League - 2026 - Play-In\nWatch: https://www.twi
  tch.tv/lckclchallengleague
 SUMMARY:Round 2: KRX.C vs FOX.Y
-URL;VALUE=URI:https://www.twitch.tv/lckclchallengleague
+URL:https://www.twitch.tv/lckclchallengleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260831T050000Z
+UID:pandascore-match-1589546@esport-ics
+DTSTART:20260831T050000Z
+DTEND:20260831T084500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK Challengers League - 2026 - Playoffs\nWatch: https://play-o
+ rigin.sooplive.com/afchall
+SUMMARY:Upper bracket quarterfinal 1: KT.C vs KRX.C
+URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 END:VCALENDAR
