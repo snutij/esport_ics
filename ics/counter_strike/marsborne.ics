@@ -499,6 +499,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #1 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/JTMythic
 SUMMARY:Upper bracket round 1 match 5: MARS vs ELU
-URL;VALUE=URI:https://www.twitch.tv/JTMythic
+URL:https://www.twitch.tv/JTMythic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T010000Z
+UID:pandascore-match-1650516@esport-ics
+DTSTART:20260827T010000Z
+DTEND:20260827T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Upper bracket quarterfinal 3: IOWA vs MARS
 END:VEVENT
 END:VCALENDAR
