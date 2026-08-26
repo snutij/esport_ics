@@ -418,4 +418,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 1: THE vs VA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T130000Z
+UID:pandascore-match-1650458@esport-ics
+DTSTART:20260828T130000Z
+DTEND:20260828T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 1: THE vs RA
+END:VEVENT
 END:VCALENDAR

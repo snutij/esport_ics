@@ -414,6 +414,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs\n
  Watch: https://www.twitch.tv/mgfongabe
 SUMMARY:Upper bracket quarterfinal 4: CW vs XDM
-URL;VALUE=URI:https://www.twitch.tv/mgfongabe
+URL:https://www.twitch.tv/mgfongabe
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T130000Z
+UID:pandascore-match-1650459@esport-ics
+DTSTART:20260828T130000Z
+DTEND:20260828T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 2: CW vs TBD
 END:VEVENT
 END:VCALENDAR
