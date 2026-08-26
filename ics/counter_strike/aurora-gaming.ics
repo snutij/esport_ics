@@ -526,6 +526,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - Porto Fall 2026 - Group A\nWatch: https://www.twit
  ch.tv/blastpremier
 SUMMARY:Upper bracket quarterfinal 1: AUR vs G2
+URL:https://www.twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T090000Z
+UID:pandascore-match-1640194@esport-ics
+DTSTART:20260828T090000Z
+DTEND:20260828T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Porto Fall 2026 - Group A\nWatch: https://www.twit
+ ch.tv/blastpremier
+SUMMARY:Lower bracket quarterfinal 1: AUR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/blastpremier
 END:VEVENT
 END:VCALENDAR
