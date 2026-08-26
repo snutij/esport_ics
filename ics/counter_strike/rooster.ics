@@ -473,7 +473,8 @@ DTSTART:20260826T090000Z
 DTEND:20260826T111500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #1 season 52 2026 - Playoff
- s
+ s\nWatch: https://www.twitch.tv/reservewolf
 SUMMARY:Upper bracket quarterfinal 2: RSTR vs MandL
+URL;VALUE=URI:https://www.twitch.tv/reservewolf
 END:VEVENT
 END:VCALENDAR

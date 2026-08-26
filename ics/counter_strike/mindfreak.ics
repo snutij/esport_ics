@@ -409,7 +409,8 @@ DTSTART:20260826T090000Z
 DTEND:20260826T111500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #1 season 52 2026 - Playoff
- s
+ s\nWatch: https://www.twitch.tv/ngsabyts
 SUMMARY:Upper bracket quarterfinal 1: ARC vs MF
+URL;VALUE=URI:https://www.twitch.tv/ngsabyts
 END:VEVENT
 END:VCALENDAR

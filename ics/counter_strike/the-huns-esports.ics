@@ -415,7 +415,9 @@ UID:pandascore-match-1650454@esport-ics
 DTSTART:20260826T130000Z
 DTEND:20260826T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs\n
+ Watch: https://kick.com/dutchboycasts
 SUMMARY:Upper bracket quarterfinal 1: THE vs VA
+URL;VALUE=URI:https://kick.com/dutchboycasts
 END:VEVENT
 END:VCALENDAR
