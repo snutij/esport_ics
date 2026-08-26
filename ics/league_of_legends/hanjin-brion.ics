@@ -401,6 +401,16 @@ DTEND:20260826T114500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Play-In\nWatch: https://www.twitch.tv/lck
 SUMMARY:Upper bracket final: KT vs BRO
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T080000Z
+UID:pandascore-match-1629297@esport-ics
+DTSTART:20260828T080000Z
+DTEND:20260828T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - 2026 - Play-In\nWatch: https://www.twitch.tv/lck
+SUMMARY:Lower bracket final: BRO vs TBD
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 END:VCALENDAR
