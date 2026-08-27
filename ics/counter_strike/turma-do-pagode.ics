@@ -140,4 +140,14 @@ DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
  layoffs
 SUMMARY:Lower bracket round 1 match 3: ALKA vs TdP
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T210000Z
+UID:pandascore-match-1650498@esport-ics
+DTSTART:20260827T210000Z
+DTEND:20260827T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Lower bracket round 2 match 3: BHE vs TdP
+END:VEVENT
 END:VCALENDAR

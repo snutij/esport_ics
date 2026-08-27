@@ -243,4 +243,15 @@ DESCRIPTION:Gamers Club Liga Série A - August 2026 - Playoffs\nWatch: http
 SUMMARY:Semifinal 1: GRE vs ALKA
 URL;VALUE=URI:https://www.twitch.tv/GamersClubCS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T160000Z
+UID:pandascore-match-1645096@esport-ics
+DTSTART:20260828T160000Z
+DTEND:20260828T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 5 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 2: GRE vs BK
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR

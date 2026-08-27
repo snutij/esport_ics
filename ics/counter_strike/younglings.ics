@@ -311,6 +311,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/roundsgg
 SUMMARY:YL vs RGG
-URL;VALUE=URI:https://www.twitch.tv/roundsgg
+URL:https://www.twitch.tv/roundsgg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T183000Z
+UID:pandascore-match-1654138@esport-ics
+DTSTART:20260827T183000Z
+DTEND:20260827T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
+SUMMARY:NAVI.J vs YL
 END:VEVENT
 END:VCALENDAR
