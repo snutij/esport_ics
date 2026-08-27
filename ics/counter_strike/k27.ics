@@ -850,6 +850,15 @@ CLASS:PUBLIC
 DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
  ch: https://www.twitch.tv/vanfantv
 SUMMARY:Round 3: HOTU vs K27
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T090000Z
+UID:pandascore-match-1643631@esport-ics
+DTSTART:20260902T090000Z
+DTEND:20260902T111500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 3: MGC vs K27
 END:VEVENT
 END:VCALENDAR

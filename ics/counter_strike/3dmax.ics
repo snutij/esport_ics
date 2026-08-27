@@ -601,6 +601,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
  v/EWC_Plus_EN2
 SUMMARY:Lower bracket quarterfinal 1: MGC vs 3DMAX
-URL;VALUE=URI:https://www.twitch.tv/EWC_Plus_EN2
+URL:https://www.twitch.tv/EWC_Plus_EN2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T090000Z
+UID:pandascore-match-1643630@esport-ics
+DTSTART:20260902T090000Z
+DTEND:20260902T111500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 2: 3DMAX vs HERO
 END:VEVENT
 END:VCALENDAR

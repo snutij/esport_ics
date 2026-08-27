@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 54 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket quarterfinal 1: B8.A vs TTBS
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T080000Z
+UID:pandascore-match-1654201@esport-ics
+DTSTART:20260830T080000Z
+DTEND:20260830T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 54 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket semifinal 1: TTBS vs INF
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

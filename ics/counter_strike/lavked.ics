@@ -1147,7 +1147,7 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group A\nWatc
  h: https://www.twitch.tv/connect_en
 SUMMARY:BMB vs LVKD
-URL;VALUE=URI:https://www.twitch.tv/connect_en
+URL:https://www.twitch.tv/connect_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260828T140000Z
@@ -1159,5 +1159,16 @@ DESCRIPTION:Exort Fiesta - Season 1 2026 - Playoffs\nWatch: https://kick.co
  m/fiesta_cs
 SUMMARY:Round of 16 match 8: INOX vs LVKD
 URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T080000Z
+UID:pandascore-match-1648237@esport-ics
+DTSTART:20260829T080000Z
+DTEND:20260829T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group A\nWatc
+ h: https://www.twitch.tv/connect_en
+SUMMARY:Elimination match: LVKD vs EAC
+URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR

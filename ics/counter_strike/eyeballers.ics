@@ -520,6 +520,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
  s://www.twitch.tv/krat0ntv
 SUMMARY:Round of 16 match 1: EYE vs K27
-URL;VALUE=URI:https://www.twitch.tv/krat0ntv
+URL:https://www.twitch.tv/krat0ntv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T120000Z
+UID:pandascore-match-1643635@esport-ics
+DTSTART:20260902T120000Z
+DTEND:20260902T141500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 7: DENDELE CS vs EYE
 END:VEVENT
 END:VCALENDAR

@@ -461,7 +461,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 1 2026 - Playoffs\nWatch: https://kick.co
  m/fiesta_cs
 SUMMARY:Round of 16 match 4: ARC vs EJ
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260827T110000Z
@@ -472,6 +472,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Group A\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:EJ vs HAVU
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T080000Z
+UID:pandascore-match-1651277@esport-ics
+DTSTART:20260828T080000Z
+DTEND:20260828T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Group A\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:Elimination match: WBT vs EJ
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T110000Z
+UID:pandascore-match-1632655@esport-ics
+DTSTART:20260829T110000Z
+DTEND:20260829T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 1 2026 - Playoffs\nWatch: https://kick.co
+ m/fiesta_cs
+SUMMARY:Quarterfinal 2: EJ vs TBD
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

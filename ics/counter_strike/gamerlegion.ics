@@ -441,6 +441,26 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ewc_stcarena_en2
 SUMMARY:Round of 16 match 4: GL vs MOUZ
-URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en2
+URL:https://www.twitch.tv/ewc_stcarena_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T090000Z
+UID:pandascore-match-1643632@esport-ics
+DTSTART:20260902T090000Z
+DTEND:20260902T111500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 4: NTR vs GL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T090000Z
+UID:pandascore-match-1654288@esport-ics
+DTSTART:20260908T090000Z
+DTEND:20260908T111500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/fissure_cs_eng
+SUMMARY:Upper bracket quarterfinal 1: LGC vs GL
+URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
 END:VEVENT
 END:VCALENDAR

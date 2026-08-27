@@ -437,6 +437,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - Porto Fall 2026 - Group B\nWatch: https://www.twit
  ch.tv/blastpremier
 SUMMARY:Upper bracket quarterfinal 1: VIT vs ICE
+URL:https://www.twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T090000Z
+UID:pandascore-match-1640206@esport-ics
+DTSTART:20260829T090000Z
+DTEND:20260829T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Porto Fall 2026 - Group B\nWatch: https://www.twit
+ ch.tv/blastpremier
+SUMMARY:Lower bracket quarterfinal 1: VIT vs 9z
 URL;VALUE=URI:https://www.twitch.tv/blastpremier
 END:VEVENT
 END:VCALENDAR
