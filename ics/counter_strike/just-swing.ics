@@ -230,4 +230,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
 SUMMARY:Lower bracket round 3 match 2: VA vs JS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T130000Z
+UID:pandascore-match-1650473@esport-ics
+DTSTART:20260829T130000Z
+DTEND:20260829T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: CW vs JS
+END:VEVENT
 END:VCALENDAR

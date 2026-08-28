@@ -650,6 +650,17 @@ SUMMARY:Upper bracket semifinal 1: G2 vs TS
 URL:https://www.twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260830T113000Z
+UID:pandascore-match-1640197@esport-ics
+DTSTART:20260830T113000Z
+DTEND:20260830T134500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Porto Fall 2026 - Group A\nWatch: https://www.twit
+ ch.tv/blastpremier
+SUMMARY:Lower bracket semifinal 2: G2 vs NAVI
+URL;VALUE=URI:https://www.twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260908T090000Z
 UID:pandascore-match-1654285@esport-ics
 DTSTART:20260908T090000Z

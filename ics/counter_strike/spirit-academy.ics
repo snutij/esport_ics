@@ -411,6 +411,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/fyflo
 SUMMARY:Round of 16 match 6: NTR vs TS.A
-URL;VALUE=URI:https://www.twitch.tv/fyflo
+URL:https://www.twitch.tv/fyflo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T100000Z
+UID:pandascore-match-1656232@esport-ics
+DTSTART:20260829T100000Z
+DTEND:20260829T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Kibertochka - Season 2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/kibertochkaofficial
+SUMMARY:Lower bracket quarterfinal 2: TS.A vs JustP
+URL;VALUE=URI:https://www.twitch.tv/kibertochkaofficial
 END:VEVENT
 END:VCALENDAR

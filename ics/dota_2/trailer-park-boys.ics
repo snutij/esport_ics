@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Trailer Park Boys
+SLUG:trailer-park-boys
+BEGIN:VEVENT
+DTSTAMP:20260829T110000Z
+UID:pandascore-match-1657324@esport-ics
+DTSTART:20260829T110000Z
+DTEND:20260829T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 8 2026 - Pl
+ ayoffs\nWatch: https://www.twitch.tv/rlg_dota2_b
+SUMMARY:Quarterfinal 4: XctN vs TPB
+URL;VALUE=URI:https://www.twitch.tv/rlg_dota2_b
+END:VEVENT
+END:VCALENDAR

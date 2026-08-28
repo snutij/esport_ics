@@ -719,6 +719,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/analiticvitya
 SUMMARY:Upper bracket semifinal 1: FXW7 vs GLS
-URL;VALUE=URI:https://www.twitch.tv/analiticvitya
+URL:https://www.twitch.tv/analiticvitya
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T210000Z
+UID:pandascore-match-1650490@esport-ics
+DTSTART:20260830T210000Z
+DTEND:20260830T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Upper bracket final: IMP vs GLS
 END:VEVENT
 END:VCALENDAR

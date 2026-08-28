@@ -444,7 +444,7 @@ CLASS:PUBLIC
 DESCRIPTION:Kibertochka - Season 2 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/kibertochkaofficial
 SUMMARY:Upper bracket semifinal 2: FORZE.R vs DNT
-URL;VALUE=URI:https://www.twitch.tv/kibertochkaofficial
+URL:https://www.twitch.tv/kibertochkaofficial
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260829T090000Z
@@ -456,5 +456,16 @@ DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
  ch: https://www.twitch.tv/gluck_esports
 SUMMARY:Round 4: Color vs FORZE.R
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T150000Z
+UID:pandascore-match-1656238@esport-ics
+DTSTART:20260829T150000Z
+DTEND:20260829T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Kibertochka - Season 2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/kibertochkaofficial
+SUMMARY:Upper bracket final: ex-RUSTEC vs FORZE.R
+URL;VALUE=URI:https://www.twitch.tv/kibertochkaofficial
 END:VEVENT
 END:VCALENDAR

@@ -715,6 +715,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/kabrafps
 SUMMARY:Upper bracket semifinal 2: SHIN vs IMP
-URL;VALUE=URI:https://www.twitch.tv/kabrafps
+URL:https://www.twitch.tv/kabrafps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T210000Z
+UID:pandascore-match-1650503@esport-ics
+DTSTART:20260829T210000Z
+DTEND:20260829T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Lower bracket quarterfinal 2: SHIN vs TBD
 END:VEVENT
 END:VCALENDAR
