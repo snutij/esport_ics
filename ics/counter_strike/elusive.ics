@@ -36,4 +36,14 @@ DESCRIPTION:ESL Challenger League - North America Cup #1 season 52 2026 - P
  layoffs
 SUMMARY:Lower bracket round 2 match 3: NT vs ELU
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T010000Z
+UID:pandascore-match-1650531@esport-ics
+DTSTART:20260829T010000Z
+DTEND:20260829T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Lower bracket round 3 match 2: ELU vs ZOMB
+END:VEVENT
 END:VCALENDAR

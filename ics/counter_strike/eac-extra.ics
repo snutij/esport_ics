@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 54 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket quarterfinal 3: EACE vs FaZe UN
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T103000Z
+UID:pandascore-match-1654202@esport-ics
+DTSTART:20260830T103000Z
+DTEND:20260830T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 54 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket semifinal 2: EACE vs QUB
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

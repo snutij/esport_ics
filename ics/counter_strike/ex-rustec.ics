@@ -388,7 +388,18 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #7 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs
 SUMMARY:Round of 16 match 5: SASHI vs ex-RUSTEC
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T150000Z
+UID:pandascore-match-1656197@esport-ics
+DTSTART:20260828T150000Z
+DTEND:20260828T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Kibertochka - Season 2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/kibertochkaofficial
+SUMMARY:Upper bracket semifinal 1: JustP vs ex-RUSTEC
+URL;VALUE=URI:https://www.twitch.tv/kibertochkaofficial
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260829T080000Z
@@ -400,5 +411,16 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Group C\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:ex-RUSTEC vs Entropy
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T110000Z
+UID:pandascore-match-1630720@esport-ics
+DTSTART:20260829T110000Z
+DTEND:20260829T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #7 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs
+SUMMARY:Quarterfinal 2: ex-RUSTEC vs INOX
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

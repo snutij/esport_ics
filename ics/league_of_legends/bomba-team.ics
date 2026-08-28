@@ -303,6 +303,17 @@ CLASS:PUBLIC
 DESCRIPTION:Rift Legends - Summer 2026 - Regular Season\nWatch: https://www
  .twitch.tv/nervarien
 SUMMARY:BOOM vs DOC
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T150000Z
+UID:pandascore-match-1618193@esport-ics
+DTSTART:20260901T150000Z
+DTEND:20260901T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Gauntlet Stage\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:Round 2 match 1: LDS vs BOOM
 URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR

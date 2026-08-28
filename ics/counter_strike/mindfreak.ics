@@ -423,4 +423,14 @@ DESCRIPTION:ESL Challenger League - Oceania Cup #1 season 52 2026 - Playoff
  s
 SUMMARY:Upper bracket semifinal 1: TdU vs MF
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T090000Z
+UID:pandascore-match-1650136@esport-ics
+DTSTART:20260829T090000Z
+DTEND:20260829T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #1 season 52 2026 - Playoff
+ s
+SUMMARY:Lower bracket quarterfinal 1: MandL vs MF
+END:VEVENT
 END:VCALENDAR

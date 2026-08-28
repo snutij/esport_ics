@@ -1090,6 +1090,17 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group B\nWatc
  h: https://www.twitch.tv/connect_en
 SUMMARY:STA vs G2.A
+URL:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T170000Z
+UID:pandascore-match-1648241@esport-ics
+DTSTART:20260828T170000Z
+DTEND:20260828T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group B\nWatc
+ h: https://www.twitch.tv/connect_en
+SUMMARY:Winners match: G2.A vs TBD
 URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR

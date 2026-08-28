@@ -472,6 +472,16 @@ DTEND:20260828T114500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Play-In\nWatch: https://www.twitch.tv/lck
 SUMMARY:Lower bracket final: BRO vs BFX
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T080000Z
+UID:pandascore-match-1642153@esport-ics
+DTSTART:20260829T080000Z
+DTEND:20260829T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
+SUMMARY:Upper bracket quarterfinal 1: T1 vs BFX
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 END:VCALENDAR

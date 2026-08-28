@@ -1081,4 +1081,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:DNT vs banda chuya
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T173000Z
+UID:pandascore-match-1656198@esport-ics
+DTSTART:20260828T173000Z
+DTEND:20260828T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Kibertochka - Season 2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/kibertochkaofficial
+SUMMARY:Upper bracket semifinal 2: FORZE.R vs DNT
+URL;VALUE=URI:https://www.twitch.tv/kibertochkaofficial
+END:VEVENT
 END:VCALENDAR

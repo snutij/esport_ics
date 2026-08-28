@@ -221,7 +221,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Play-In season 2 2026 - Group A\nWatch: https://k
  ick.com/epldota_en2
 SUMMARY:PckCp vs ICxI
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260828T160000Z
@@ -230,9 +230,9 @@ DTSTART:20260828T160000Z
 DTEND:20260828T181500Z
 CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Play-In season 2 2026 - Group A\nWatch: https://k
- ick.com/epldota_en2
+ ick.com/epldota_en1
 SUMMARY:DYNASTY vs PckCp
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260829T160000Z

@@ -803,6 +803,17 @@ SUMMARY:Round 3: NEMI vs ex-RUBY
 URL:https://www.twitch.tv/vanfantv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260828T150000Z
+UID:pandascore-match-1648090@esport-ics
+DTSTART:20260828T150000Z
+DTEND:20260828T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/gluck_esports
+SUMMARY:Round 4: NEMI vs NTR
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260829T080000Z
 UID:pandascore-match-1630719@esport-ics
 DTSTART:20260829T080000Z
@@ -811,6 +822,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #7 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs
 SUMMARY:Quarterfinal 1: G1 vs NEMI
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T170000Z
+UID:pandascore-match-1630722@esport-ics
+DTSTART:20260829T170000Z
+DTEND:20260829T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #7 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs
+SUMMARY:Quarterfinal 4: NEMI vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
