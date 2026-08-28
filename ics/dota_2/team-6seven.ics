@@ -15,4 +15,15 @@ DESCRIPTION:BLAST Slam - Southeast Asia Open Qualifier 2 season 7 2026 - Pl
  ayoffs
 SUMMARY:Quarterfinal 1: Team 6seven vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T050000Z
+UID:pandascore-match-1655418@esport-ics
+DTSTART:20260829T050000Z
+DTEND:20260829T071500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 8 2026 - Pl
+ ayoffs\nWatch: https://www.twitch.tv/rlg_dota2_b
+SUMMARY:Quarterfinal 2: Nem vs Team 6seven
+URL;VALUE=URI:https://www.twitch.tv/rlg_dota2_b
+END:VEVENT
 END:VCALENDAR

@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:TCL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
  gamesturkish
 SUMMARY:Lower bracket quarterfinal 2: DIA vs DP
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T150000Z
+UID:pandascore-match-1639623@esport-ics
+DTSTART:20260901T150000Z
+DTEND:20260901T184500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
+ gamesturkish
+SUMMARY:Lower bracket semifinal: PCIFIC  vs DP
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 END:VCALENDAR

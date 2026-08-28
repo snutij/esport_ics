@@ -521,6 +521,17 @@ CLASS:PUBLIC
 DESCRIPTION:Prime League 1st Division - Summer 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/primeleague
 SUMMARY:Upper bracket final: BIG vs G2N
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T120000Z
+UID:pandascore-match-1634175@esport-ics
+DTSTART:20260912T120000Z
+DTEND:20260912T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Playoffs\nWatch: http
+ s://www.twitch.tv/primeleague
+SUMMARY:Grand final: G2N vs TBD
 URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 END:VCALENDAR

@@ -230,6 +230,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 2 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant_americas
 SUMMARY:Upper bracket round 1 match 1: LOUD vs FUR
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T210000Z
+UID:pandascore-match-1616176@esport-ics
+DTSTART:20260829T210000Z
+DTEND:20260829T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/valorant_americas
+SUMMARY:Lower bracket round 1 match 1: FUR vs G2
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

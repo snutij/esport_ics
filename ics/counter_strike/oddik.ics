@@ -584,7 +584,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
  layoffs\nWatch: https://kick.com/lorranbs
 SUMMARY:Lower bracket round 2 match 1: ODK vs YAW
-URL;VALUE=URI:https://kick.com/lorranbs
+URL:https://kick.com/lorranbs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260828T130000Z
@@ -596,5 +596,15 @@ DESCRIPTION:CCT South America - Series 5 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 2: ODK vs ALKA
 URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T210000Z
+UID:pandascore-match-1650500@esport-ics
+DTSTART:20260828T210000Z
+DTEND:20260828T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Lower bracket round 3 match 1: ODK vs ex-MIBR Academy
 END:VEVENT
 END:VCALENDAR

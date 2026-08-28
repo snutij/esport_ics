@@ -286,6 +286,17 @@ CLASS:PUBLIC
 DESCRIPTION:Games of the Future - 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/gamesofuture_dota2
 SUMMARY:Round 1 match 1: PlayTime vs XctN
-URL;VALUE=URI:https://www.twitch.tv/gamesofuture_dota2
+URL:https://www.twitch.tv/gamesofuture_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T110000Z
+UID:pandascore-match-1655420@esport-ics
+DTSTART:20260829T110000Z
+DTEND:20260829T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 8 2026 - Pl
+ ayoffs\nWatch: https://www.twitch.tv/rlg_dota2_b
+SUMMARY:Quarterfinal 4: XctN vs Team Kinetix
+URL;VALUE=URI:https://www.twitch.tv/rlg_dota2_b
 END:VEVENT
 END:VCALENDAR

@@ -847,4 +847,15 @@ DESCRIPTION:EPL Masters - Play-In season 2 2026 - Group B\nWatch: https://k
 SUMMARY:LYNX vs TS.A
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T140000Z
+UID:pandascore-match-1655409@esport-ics
+DTSTART:20260829T140000Z
+DTEND:20260829T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Europe Closed Qualifier season 8 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/rlg_dota2
+SUMMARY:Quarterfinal 3: HULIGANI vs LYNX
+URL;VALUE=URI:https://www.twitch.tv/rlg_dota2
+END:VEVENT
 END:VCALENDAR
