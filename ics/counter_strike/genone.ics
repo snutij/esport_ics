@@ -1280,6 +1280,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #7 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs
 SUMMARY:Quarterfinal 1: ACE vs G1
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T100000Z
+UID:pandascore-match-1630723@esport-ics
+DTSTART:20260830T100000Z
+DTEND:20260830T121500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #7 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs
+SUMMARY:Semifinal 1: INOX vs G1
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

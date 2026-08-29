@@ -902,6 +902,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 52 2026 - Group A\
  nWatch: https://kick.com/ESLCS
 SUMMARY:Elimination match: OMG vs Entropy
-URL;VALUE=URI:https://kick.com/ESLCS
+URL:https://kick.com/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T060000Z
+UID:pandascore-match-1658166@esport-ics
+DTSTART:20260830T060000Z
+DTEND:20260830T081500Z
+CLASS:PUBLIC
+DESCRIPTION:BRO CYBER LEAGUE - PRO Division season 1 2026 - Playoffs
+SUMMARY:Semifinal 1: OMG vs TD
 END:VEVENT
 END:VCALENDAR

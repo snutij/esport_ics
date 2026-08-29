@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG Midwest - St. Louis 2026 - Group D\nWatch: https://www.twi
  tch.tv/fragadelphia
 SUMMARY:Upper bracket round 1 match 1: NT vs Village
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+URL:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T173000Z
+UID:pandascore-match-1657280@esport-ics
+DTSTART:20260829T173000Z
+DTEND:20260829T194500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG Midwest - St. Louis 2026 - Group D
+SUMMARY:Lower bracket round 2 match 1: Village vs TBD
 END:VEVENT
 END:VCALENDAR

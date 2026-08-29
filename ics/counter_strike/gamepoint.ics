@@ -23,6 +23,15 @@ CLASS:PUBLIC
 DESCRIPTION:LG UltraGear Tournament - 2026 - Group A\nWatch: https://www.tw
  itch.tv/myskill_top
 SUMMARY:THE vs GAMEPOINT
-URL;VALUE=URI:https://www.twitch.tv/myskill_top
+URL:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T090000Z
+UID:pandascore-match-1658172@esport-ics
+DTSTART:20260830T090000Z
+DTEND:20260830T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BRO CYBER LEAGUE - PRO Division season 1 2026 - Playoffs
+SUMMARY:Semifinal 2: GAMEPOINT vs DEPO
 END:VEVENT
 END:VCALENDAR
