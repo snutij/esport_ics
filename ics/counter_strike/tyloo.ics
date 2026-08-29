@@ -594,6 +594,17 @@ SUMMARY:Lower bracket quarterfinal 2: TYLOO vs LVG
 URL:https://www.twitch.tv/EWC_plus_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260902T060000Z
+UID:pandascore-match-1658079@esport-ics
+DTSTART:20260902T060000Z
+DTEND:20260902T081500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Asian Qualifier 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/ESLCS
+SUMMARY:Upper bracket quarterfinal 1: TYLOO vs KG
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260908T090000Z
 UID:pandascore-match-1654285@esport-ics
 DTSTART:20260908T090000Z

@@ -236,7 +236,9 @@ UID:pandascore-match-1650473@esport-ics
 DTSTART:20260829T130000Z
 DTEND:20260829T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/floppyacs
 SUMMARY:Lower bracket quarterfinal 2: CW vs JS
+URL;VALUE=URI:https://www.twitch.tv/floppyacs
 END:VEVENT
 END:VCALENDAR

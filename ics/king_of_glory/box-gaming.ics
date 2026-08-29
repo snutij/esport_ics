@@ -201,6 +201,83 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Glory - Spring 2026 - Group Stage 2\nWatch: https://ww
  w.youtube.com/watch?v=_PDK_ml9624
 SUMMARY:SP vs BOX
-URL;VALUE=URI:https://www.youtube.com/watch?v=_PDK_ml9624
+URL:https://www.youtube.com/watch?v=_PDK_ml9624
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T090000Z
+UID:pandascore-match-1658210@esport-ics
+DTSTART:20260903T090000Z
+DTEND:20260903T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:BOX vs BOOM Esports VN
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T123000Z
+UID:pandascore-match-1658214@esport-ics
+DTSTART:20260904T123000Z
+DTEND:20260904T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:TF vs BOX
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T090000Z
+UID:pandascore-match-1658219@esport-ics
+DTSTART:20260906T090000Z
+DTEND:20260906T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:FPL vs BOX
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T060000Z
+UID:pandascore-match-1658223@esport-ics
+DTSTART:20260911T060000Z
+DTEND:20260911T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:BOX vs TS
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T060000Z
+UID:pandascore-match-1658229@esport-ics
+DTSTART:20260913T060000Z
+DTEND:20260913T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:BOX vs OSE
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T090000Z
+UID:pandascore-match-1658233@esport-ics
+DTSTART:20260918T090000Z
+DTEND:20260918T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:RRQ.VN vs BOX
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T123000Z
+UID:pandascore-match-1658237@esport-ics
+DTSTART:20260919T123000Z
+DTEND:20260919T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:BOX vs SP
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
 END:VEVENT
 END:VCALENDAR

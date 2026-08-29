@@ -819,6 +819,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - European Series #2 2026 - Play
  offs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Quarterfinal 2: MEGO vs CS
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T080000Z
+UID:pandascore-match-1658043@esport-ics
+DTSTART:20260902T080000Z
+DTEND:20260902T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group C\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:PERM vs MEGO
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

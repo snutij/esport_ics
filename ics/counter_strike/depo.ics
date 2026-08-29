@@ -187,6 +187,17 @@ CLASS:PUBLIC
 DESCRIPTION:BRO SUMMER CUP - 2026 - Playoffs\nWatch: https://www.twitch.tv/
  brochillgame
 SUMMARY:Semifinal 2: DEPO vs TU
-URL;VALUE=URI:https://www.twitch.tv/brochillgame
+URL:https://www.twitch.tv/brochillgame
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T060000Z
+UID:pandascore-match-1658080@esport-ics
+DTSTART:20260902T060000Z
+DTEND:20260902T081500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Asian Qualifier 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/ESLCS
+SUMMARY:Upper bracket quarterfinal 2: THE vs DEPO
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

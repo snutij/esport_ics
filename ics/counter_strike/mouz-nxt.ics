@@ -915,6 +915,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #4 season 52 2026 - Group C\
  nWatch: https://www.twitch.tv/eslcsc
 SUMMARY:Decider match: SPARTA vs MOUZ.N
-URL;VALUE=URI:https://www.twitch.tv/eslcsc
+URL:https://www.twitch.tv/eslcsc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T130000Z
+UID:pandascore-match-1658122@esport-ics
+DTSTART:20260830T130000Z
+DTEND:20260830T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Group B\
+ nWatch: https://kick.com/ESLCS
+SUMMARY:Entropy vs MOUZ.N
+URL;VALUE=URI:https://kick.com/ESLCS
 END:VEVENT
 END:VCALENDAR

@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 8 2026 - Pl
  ayoffs\nWatch: https://www.twitch.tv/rlg_dota2_b
 SUMMARY:Quarterfinal 3: Ice Cream Men vs Team Kinetix
-URL;VALUE=URI:https://www.twitch.tv/rlg_dota2_b
+URL:https://www.twitch.tv/rlg_dota2_b
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260829T080000Z
@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 8 2026 - Pl
  ayoffs\nWatch: https://www.twitch.tv/rlg_dota2_b
 SUMMARY:Quarterfinal 3: Ice Cream Men vs TPB3
+URL:https://www.twitch.tv/rlg_dota2_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T050000Z
+UID:pandascore-match-1655423@esport-ics
+DTSTART:20260830T050000Z
+DTEND:20260830T071500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 8 2026 - Pl
+ ayoffs\nWatch: https://www.twitch.tv/rlg_dota2_b
+SUMMARY:Semifinal 2: Ice Cream Men vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rlg_dota2_b
 END:VEVENT
 END:VCALENDAR

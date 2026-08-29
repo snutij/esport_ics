@@ -671,6 +671,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Group C\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:ex-RUSTEC vs Entropy
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T080000Z
+UID:pandascore-match-1651288@esport-ics
+DTSTART:20260830T080000Z
+DTEND:20260830T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Group C\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:Elimination match: Entropy vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T130000Z
+UID:pandascore-match-1658122@esport-ics
+DTSTART:20260830T130000Z
+DTEND:20260830T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Group B\
+ nWatch: https://kick.com/ESLCS
+SUMMARY:Entropy vs MOUZ.N
+URL;VALUE=URI:https://kick.com/ESLCS
 END:VEVENT
 END:VCALENDAR

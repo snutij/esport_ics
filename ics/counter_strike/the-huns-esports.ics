@@ -433,7 +433,20 @@ UID:pandascore-match-1650472@esport-ics
 DTSTART:20260829T130000Z
 DTEND:20260829T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/endiezcasts
 SUMMARY:Lower bracket quarterfinal 1: THE vs AE
+URL;VALUE=URI:https://www.twitch.tv/endiezcasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T060000Z
+UID:pandascore-match-1658080@esport-ics
+DTSTART:20260902T060000Z
+DTEND:20260902T081500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Asian Qualifier 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/ESLCS
+SUMMARY:Upper bracket quarterfinal 2: THE vs DEPO
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

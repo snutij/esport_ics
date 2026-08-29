@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #1 2026 - Group B\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:Elimination match: DNT vs train launcher
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T103000Z
+UID:pandascore-match-1658044@esport-ics
+DTSTART:20260902T103000Z
+DTEND:20260902T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group C\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:NAVI.J vs TRAIN
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

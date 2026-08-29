@@ -256,6 +256,83 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Valor Premier League - 2026 - Swiss Stage\nWatch: http
  s://www.youtube.com/watch?v=qF2FwuVeaO8
 SUMMARY:Round 4: BMG vs GAM
-URL;VALUE=URI:https://www.youtube.com/watch?v=qF2FwuVeaO8
+URL:https://www.youtube.com/watch?v=qF2FwuVeaO8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T123000Z
+UID:pandascore-match-1658211@esport-ics
+DTSTART:20260903T123000Z
+DTEND:20260903T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:GAM vs TS
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T060000Z
+UID:pandascore-match-1658215@esport-ics
+DTSTART:20260905T060000Z
+DTEND:20260905T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:BOOM Esports VN vs GAM
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T123000Z
+UID:pandascore-match-1658222@esport-ics
+DTSTART:20260910T123000Z
+DTEND:20260910T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:TF vs GAM
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T123000Z
+UID:pandascore-match-1658225@esport-ics
+DTSTART:20260911T123000Z
+DTEND:20260911T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:SP vs GAM
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T123000Z
+UID:pandascore-match-1658228@esport-ics
+DTSTART:20260912T123000Z
+DTEND:20260912T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:GAM vs FPL
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T060000Z
+UID:pandascore-match-1658232@esport-ics
+DTSTART:20260918T060000Z
+DTEND:20260918T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:GAM vs OSE
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T090000Z
+UID:pandascore-match-1658238@esport-ics
+DTSTART:20260920T090000Z
+DTEND:20260920T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:RRQ.VN vs GAM
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
 END:VEVENT
 END:VCALENDAR
