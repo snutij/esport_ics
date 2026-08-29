@@ -634,7 +634,9 @@ UID:pandascore-match-1659238@esport-ics
 DTSTART:20260830T140000Z
 DTEND:20260830T161500Z
 CLASS:PUBLIC
-DESCRIPTION:Stake Ranked - Episode 4: Open Qualifier 2026 - Playoffs
+DESCRIPTION:Stake Ranked - Episode 4: Open Qualifier 2026 - Playoffs\nWatch
+ : https://kick.com/arhavalcom
 SUMMARY:Round 2 match 3: EF vs ENCE
+URL;VALUE=URI:https://kick.com/arhavalcom
 END:VEVENT
 END:VCALENDAR

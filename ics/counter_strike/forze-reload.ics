@@ -469,6 +469,17 @@ SUMMARY:Upper bracket final: ex-RUSTEC vs FORZE.R
 URL:https://www.twitch.tv/kibertochkaofficial
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260830T090000Z
+UID:pandascore-match-1648094@esport-ics
+DTSTART:20260830T090000Z
+DTEND:20260830T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/gluck_esports
+SUMMARY:Round 5: FORZE.R vs UPGRADE
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260830T150000Z
 UID:pandascore-match-1656240@esport-ics
 DTSTART:20260830T150000Z

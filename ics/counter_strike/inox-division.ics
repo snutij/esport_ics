@@ -818,6 +818,17 @@ SUMMARY:Quarterfinal 4: SASHI vs INOX
 URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260830T070000Z
+UID:pandascore-match-1632659@esport-ics
+DTSTART:20260830T070000Z
+DTEND:20260830T091500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 1 2026 - Playoffs\nWatch: https://kick.co
+ m/fiesta_cs
+SUMMARY:Semifinal 2: ex-ZT vs INOX
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260830T100000Z
 UID:pandascore-match-1630723@esport-ics
 DTSTART:20260830T100000Z
