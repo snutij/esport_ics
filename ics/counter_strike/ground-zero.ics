@@ -629,7 +629,8 @@ DTSTART:20260830T090000Z
 DTEND:20260830T111500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #1 season 52 2026 - Playoff
- s
+ s\nWatch: https://www.twitch.tv/theeb1ye
 SUMMARY:Upper bracket final: TdU vs GZ
+URL;VALUE=URI:https://www.twitch.tv/theeb1ye
 END:VEVENT
 END:VCALENDAR

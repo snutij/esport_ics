@@ -459,6 +459,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 16\nWatch: http
  s://www.twitch.tv/vanfantv
 SUMMARY:Decider match: SNG vs JJH
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T140000Z
+UID:pandascore-match-1659237@esport-ics
+DTSTART:20260830T140000Z
+DTEND:20260830T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 4: Open Qualifier 2026 - Playoffs\nWatch
+ : https://www.twitch.tv/luffastream
+SUMMARY:Round 2 match 2: SNG vs PURE
+URL;VALUE=URI:https://www.twitch.tv/luffastream
 END:VEVENT
 END:VCALENDAR
