@@ -376,4 +376,14 @@ DESCRIPTION:ESL Challenger League - North America Cup #1 season 52 2026 - P
  layoffs
 SUMMARY:Lower bracket round 3 match 2: ELU vs ZOMB
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T010000Z
+UID:pandascore-match-1650533@esport-ics
+DTSTART:20260830T010000Z
+DTEND:20260830T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Lower bracket quarterfinal 2: ZOMB vs CCE
+END:VEVENT
 END:VCALENDAR

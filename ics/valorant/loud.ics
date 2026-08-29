@@ -186,6 +186,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 2 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/valorant_americas
 SUMMARY:Upper bracket semifinal 1: NRG vs LOUD
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260831T000000Z
+UID:pandascore-match-1616175@esport-ics
+DTSTART:20260831T000000Z
+DTEND:20260831T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Stage 2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/valorant_americas
+SUMMARY:Lower bracket quarterfinal 2: LOUD vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

@@ -835,7 +835,7 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - August 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/GamersClubCS
 SUMMARY:Grand final: ALKA vs BST.A
-URL;VALUE=URI:https://www.twitch.tv/GamersClubCS
+URL:https://www.twitch.tv/GamersClubCS
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260828T220000Z
@@ -846,6 +846,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 5 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 2: CHAMA vs BST.A
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T130000Z
+UID:pandascore-match-1645101@esport-ics
+DTSTART:20260830T130000Z
+DTEND:20260830T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 5 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 3: BST.A vs ALKA
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

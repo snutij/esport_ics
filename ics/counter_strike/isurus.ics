@@ -876,6 +876,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
  layoffs\nWatch: https://kick.com/dutchboycasts
 SUMMARY:Lower bracket round 3 match 2: TdP vs ISG
-URL;VALUE=URI:https://kick.com/dutchboycasts
+URL:https://kick.com/dutchboycasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T210000Z
+UID:pandascore-match-1650503@esport-ics
+DTSTART:20260829T210000Z
+DTEND:20260829T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Lower bracket quarterfinal 2: SHIN vs ISG
 END:VEVENT
 END:VCALENDAR

@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG Midwest - St. Louis 2026 - Group C\nWatch: https://www.twi
  tch.tv/floofys
 SUMMARY:Upper bracket round 1 match 2: AURA vs Friendly Fire
-URL;VALUE=URI:https://www.twitch.tv/floofys
+URL:https://www.twitch.tv/floofys
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T151500Z
+UID:pandascore-match-1657262@esport-ics
+DTSTART:20260829T151500Z
+DTEND:20260829T173000Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG Midwest - St. Louis 2026 - Group C\nWatch: https://www.twi
+ tch.tv/fragadelphia
+SUMMARY:Lower bracket round 1 match 1: Lan Crasher vs Friendly Fire
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
 END:VEVENT
 END:VCALENDAR
