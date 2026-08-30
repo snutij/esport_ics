@@ -233,7 +233,8 @@ DTSTART:20260831T090000Z
 DTEND:20260831T111500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #1 season 52 2026 - Playoff
- s
+ s\nWatch: https://kick.com/eslcs
 SUMMARY:Lower bracket final: GZ vs ARC
+URL;VALUE=URI:https://kick.com/eslcs
 END:VEVENT
 END:VCALENDAR
