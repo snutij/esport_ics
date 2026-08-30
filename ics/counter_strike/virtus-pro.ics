@@ -300,6 +300,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Group A\
  nWatch: https://www.twitch.tv/virtuspro
 SUMMARY:VP vs FF
-URL;VALUE=URI:https://www.twitch.tv/virtuspro
+URL:https://www.twitch.tv/virtuspro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260831T170000Z
+UID:pandascore-match-1658136@esport-ics
+DTSTART:20260831T170000Z
+DTEND:20260831T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Playoffs
+SUMMARY:Quarterfinal 1: VP vs TBD
 END:VEVENT
 END:VCALENDAR

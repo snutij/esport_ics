@@ -683,6 +683,17 @@ SUMMARY:Round 3: NEM vs 1WIN
 URL:https://www.twitch.tv/vanfantv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260831T150000Z
+UID:pandascore-match-1648100@esport-ics
+DTSTART:20260831T150000Z
+DTEND:20260831T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/gluck_esports
+SUMMARY:Quarterfinal 4: 1WIN vs ex-RUBY
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260901T140000Z
 UID:pandascore-match-1633298@esport-ics
 DTSTART:20260901T140000Z

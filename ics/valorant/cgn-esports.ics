@@ -245,6 +245,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Last Chance Qualifier 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/valorant_emea
 SUMMARY:Semifinals match  1: CGN vs CLK
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260831T150000Z
+UID:pandascore-match-1661565@esport-ics
+DTSTART:20260831T150000Z
+DTEND:20260831T154500Z
+CLASS:PUBLIC
+DESCRIPTION:THE POKAL - 2026 - Playoffs\nWatch: https://www.twitch.tv/valor
+ antleague_dach
+SUMMARY:Upper bracket round 1 match 4: HK vs CGN
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
 END:VEVENT
 END:VCALENDAR

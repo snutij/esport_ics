@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sissi State Punks
+SLUG:sissi-state-punks
+BEGIN:VEVENT
+DTSTAMP:20260831T180000Z
+UID:pandascore-match-1661607@esport-ics
+DTSTART:20260831T180000Z
+DTEND:20260831T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:SSP vs Pandaric eSports
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T160000Z
+UID:pandascore-match-1661623@esport-ics
+DTSTART:20260916T160000Z
+DTEND:20260916T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:HUSK vs SSP
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T180000Z
+UID:pandascore-match-1661626@esport-ics
+DTSTART:20260921T180000Z
+DTEND:20260921T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:R4G vs SSP
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T160000Z
+UID:pandascore-match-1661630@esport-ics
+DTSTART:20260928T160000Z
+DTEND:20260928T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BLUEJAYS.de vs SSP
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T160000Z
+UID:pandascore-match-1661619@esport-ics
+DTSTART:20261005T160000Z
+DTEND:20261005T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:SSP vs LEI
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T160000Z
+UID:pandascore-match-1661638@esport-ics
+DTSTART:20261014T160000Z
+DTEND:20261014T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:SSP vs Ducks
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T160000Z
+UID:pandascore-match-1661640@esport-ics
+DTSTART:20261019T160000Z
+DTEND:20261019T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:REV vs SSP
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T170000Z
+UID:pandascore-match-1661645@esport-ics
+DTSTART:20261026T170000Z
+DTEND:20261026T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:SSP vs BIG.A
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T190000Z
+UID:pandascore-match-1661660@esport-ics
+DTSTART:20261104T190000Z
+DTEND:20261104T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:Entropy vs SSP
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+END:VCALENDAR

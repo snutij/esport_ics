@@ -682,7 +682,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Group C\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:Elimination match: Entropy vs BW
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260830T130000Z
@@ -693,6 +693,114 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Group B\
  nWatch: https://www.twitch.tv/nagu_fr
 SUMMARY:Entropy vs MOUZ.N
-URL;VALUE=URI:https://www.twitch.tv/nagu_fr
+URL:https://www.twitch.tv/nagu_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260831T160000Z
+UID:pandascore-match-1661605@esport-ics
+DTSTART:20260831T160000Z
+DTEND:20260831T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:Entropy vs BIG.A
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260831T170000Z
+UID:pandascore-match-1658139@esport-ics
+DTSTART:20260831T170000Z
+DTEND:20260831T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Playoffs
+SUMMARY:Quarterfinal 4: TBD vs Entropy
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T160000Z
+UID:pandascore-match-1661617@esport-ics
+DTSTART:20260909T160000Z
+DTEND:20260909T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:Entropy vs Pandaric eSports
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T180000Z
+UID:pandascore-match-1661622@esport-ics
+DTSTART:20260914T180000Z
+DTEND:20260914T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:Ducks vs Entropy
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T180000Z
+UID:pandascore-match-1661629@esport-ics
+DTSTART:20260923T180000Z
+DTEND:20260923T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:LEI vs Entropy
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T180000Z
+UID:pandascore-match-1661634@esport-ics
+DTSTART:20260930T180000Z
+DTEND:20260930T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:Entropy vs R4G
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T180000Z
+UID:pandascore-match-1661637@esport-ics
+DTSTART:20261012T180000Z
+DTEND:20261012T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:HUSK vs Entropy
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T180000Z
+UID:pandascore-match-1661641@esport-ics
+DTSTART:20261019T180000Z
+DTEND:20261019T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:Entropy vs BLUEJAYS.de
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T190000Z
+UID:pandascore-match-1661650@esport-ics
+DTSTART:20261028T190000Z
+DTEND:20261028T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:REV vs Entropy
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T190000Z
+UID:pandascore-match-1661660@esport-ics
+DTSTART:20261104T190000Z
+DTEND:20261104T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:Entropy vs SSP
+URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 END:VCALENDAR

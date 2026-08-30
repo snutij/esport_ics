@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BLUEJAYS.de
+SLUG:bluejays-de
+BEGIN:VEVENT
+DTSTAMP:20260902T160000Z
+UID:pandascore-match-1661609@esport-ics
+DTSTART:20260902T160000Z
+DTEND:20260902T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:HUSK vs BLUEJAYS.de
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T160000Z
+UID:pandascore-match-1661615@esport-ics
+DTSTART:20260907T160000Z
+DTEND:20260907T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BIG.A vs BLUEJAYS.de
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T180000Z
+UID:pandascore-match-1661624@esport-ics
+DTSTART:20260916T180000Z
+DTEND:20260916T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BLUEJAYS.de vs R4G
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T160000Z
+UID:pandascore-match-1661628@esport-ics
+DTSTART:20260923T160000Z
+DTEND:20260923T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:Ducks vs BLUEJAYS.de
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T160000Z
+UID:pandascore-match-1661630@esport-ics
+DTSTART:20260928T160000Z
+DTEND:20260928T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BLUEJAYS.de vs SSP
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T180000Z
+UID:pandascore-match-1661636@esport-ics
+DTSTART:20261012T180000Z
+DTEND:20261012T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BLUEJAYS.de vs REV
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T180000Z
+UID:pandascore-match-1661641@esport-ics
+DTSTART:20261019T180000Z
+DTEND:20261019T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:Entropy vs BLUEJAYS.de
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T180000Z
+UID:pandascore-match-1661648@esport-ics
+DTSTART:20261028T180000Z
+DTEND:20261028T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BLUEJAYS.de vs LEI
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T190000Z
+UID:pandascore-match-1661657@esport-ics
+DTSTART:20261102T190000Z
+DTEND:20261102T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:Pandaric eSports vs BLUEJAYS.de
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+END:VCALENDAR

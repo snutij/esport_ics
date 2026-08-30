@@ -102,6 +102,105 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 5 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/dachcs
 SUMMARY:LEI vs BERG
+URL:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T180000Z
+UID:pandascore-match-1661621@esport-ics
+DTSTART:20260914T180000Z
+DTEND:20260914T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:Pandaric eSports vs LEI
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T180000Z
+UID:pandascore-match-1661629@esport-ics
+DTSTART:20260923T180000Z
+DTEND:20260923T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:LEI vs Entropy
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T180000Z
+UID:pandascore-match-1661632@esport-ics
+DTSTART:20260928T180000Z
+DTEND:20260928T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BIG.A vs LEI
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T160000Z
+UID:pandascore-match-1661619@esport-ics
+DTSTART:20261005T160000Z
+DTEND:20261005T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:SSP vs LEI
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T180000Z
+UID:pandascore-match-1661613@esport-ics
+DTSTART:20261005T180000Z
+DTEND:20261005T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:LEI vs Ducks
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T160000Z
+UID:pandascore-match-1661635@esport-ics
+DTSTART:20261012T160000Z
+DTEND:20261012T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:R4G vs LEI
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T160000Z
+UID:pandascore-match-1661643@esport-ics
+DTSTART:20261021T160000Z
+DTEND:20261021T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:LEI vs HUSK
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T180000Z
+UID:pandascore-match-1661648@esport-ics
+DTSTART:20261028T180000Z
+DTEND:20261028T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BLUEJAYS.de vs LEI
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T170000Z
+UID:pandascore-match-1661654@esport-ics
+DTSTART:20261102T170000Z
+DTEND:20261102T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:LEI vs REV
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 END:VCALENDAR

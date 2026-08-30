@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sissi State Punks
+SLUG:sissi-state-punks
+BEGIN:VEVENT
+DTSTAMP:20260831T150000Z
+UID:pandascore-match-1661561@esport-ics
+DTSTART:20260831T150000Z
+DTEND:20260831T154500Z
+CLASS:PUBLIC
+DESCRIPTION:THE POKAL - 2026 - Playoffs\nWatch: https://www.twitch.tv/valor
+ antleague_dach
+SUMMARY:Upper bracket round 1 match 2: GZE vs SSP
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+END:VCALENDAR

@@ -486,6 +486,16 @@ CLASS:PUBLIC
 DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
  v/lec
 SUMMARY:KC vs SK
+URL:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T150000Z
+UID:pandascore-match-1661673@esport-ics
+DTSTART:20260905T150000Z
+DTEND:20260905T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
+SUMMARY:Upper bracket semifinal 1: KC vs GX
 URL;VALUE=URI:https://www.twitch.tv/lec
 END:VEVENT
 END:VCALENDAR

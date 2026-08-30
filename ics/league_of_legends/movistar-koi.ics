@@ -381,6 +381,16 @@ CLASS:PUBLIC
 DESCRIPTION:LEC - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
  v/lec
 SUMMARY:MKOI vs TH
+URL:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T150000Z
+UID:pandascore-match-1661680@esport-ics
+DTSTART:20260912T150000Z
+DTEND:20260912T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LEC - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
+SUMMARY:Lower bracket quarterfinal 2: TBD vs MKOI
 URL;VALUE=URI:https://www.twitch.tv/lec
 END:VEVENT
 END:VCALENDAR

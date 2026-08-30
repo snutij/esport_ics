@@ -803,6 +803,17 @@ SUMMARY:BIG.A vs Entropy
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260831T160000Z
+UID:pandascore-match-1661605@esport-ics
+DTSTART:20260831T160000Z
+DTEND:20260831T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:Entropy vs BIG.A
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260903T103000Z
 UID:pandascore-match-1658065@esport-ics
 DTSTART:20260903T103000Z
@@ -812,5 +823,93 @@ DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group D\nWatch:
  https://kick.com/eplcs_en
 SUMMARY:FOR vs BIG.A
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T160000Z
+UID:pandascore-match-1661615@esport-ics
+DTSTART:20260907T160000Z
+DTEND:20260907T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BIG.A vs BLUEJAYS.de
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T160000Z
+UID:pandascore-match-1661620@esport-ics
+DTSTART:20260914T160000Z
+DTEND:20260914T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BIG.A vs REV
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T180000Z
+UID:pandascore-match-1661627@esport-ics
+DTSTART:20260921T180000Z
+DTEND:20260921T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BIG.A vs HUSK
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T180000Z
+UID:pandascore-match-1661632@esport-ics
+DTSTART:20260928T180000Z
+DTEND:20260928T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BIG.A vs LEI
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T180000Z
+UID:pandascore-match-1661639@esport-ics
+DTSTART:20261014T180000Z
+DTEND:20261014T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:Pandaric eSports vs BIG.A
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T180000Z
+UID:pandascore-match-1661644@esport-ics
+DTSTART:20261021T180000Z
+DTEND:20261021T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BIG.A vs Ducks
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T170000Z
+UID:pandascore-match-1661645@esport-ics
+DTSTART:20261026T170000Z
+DTEND:20261026T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:SSP vs BIG.A
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T190000Z
+UID:pandascore-match-1661659@esport-ics
+DTSTART:20261104T190000Z
+DTEND:20261104T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BIG.A vs R4G
+URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 END:VCALENDAR
