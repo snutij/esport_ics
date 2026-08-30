@@ -726,6 +726,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/pisodeportivo
 SUMMARY:Lower bracket quarterfinal 2: SHIN vs ISG
-URL;VALUE=URI:https://www.twitch.tv/pisodeportivo
+URL:https://www.twitch.tv/pisodeportivo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T210000Z
+UID:pandascore-match-1650504@esport-ics
+DTSTART:20260830T210000Z
+DTEND:20260830T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Lower bracket semifinal: SHIN vs FXW7
 END:VEVENT
 END:VCALENDAR

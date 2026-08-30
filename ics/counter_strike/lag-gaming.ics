@@ -547,6 +547,15 @@ CLASS:PUBLIC
 DESCRIPTION:StarLadder StarSeries - North American Qualifier Fall 2026 - Pl
  ayoffs\nWatch: https://kick.com/starladder
 SUMMARY:Lower bracket quarterfinal 1: LAG vs SportsBetExpert
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T010000Z
+UID:pandascore-match-1657305@esport-ics
+DTSTART:20260830T010000Z
+DTEND:20260830T014500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG Midwest - St. Louis 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 2: LAG vs DTN
 END:VEVENT
 END:VCALENDAR

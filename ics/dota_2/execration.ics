@@ -311,14 +311,13 @@ SUMMARY:Quarterfinal 4: XctN vs Team Kinetix
 URL:https://www.twitch.tv/rlg_dota2_b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260830T050000Z
+DTSTAMP:20260830T020000Z
 UID:pandascore-match-1655423@esport-ics
-DTSTART:20260830T050000Z
-DTEND:20260830T071500Z
+DTSTART:20260830T020000Z
+DTEND:20260830T041500Z
 CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 8 2026 - Pl
- ayoffs\nWatch: https://www.twitch.tv/rlg_dota2_b
+ ayoffs
 SUMMARY:Semifinal 2: Ice Cream Men vs XctN
-URL;VALUE=URI:https://www.twitch.tv/rlg_dota2_b
 END:VEVENT
 END:VCALENDAR
