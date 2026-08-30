@@ -399,6 +399,16 @@ DTEND:20260830T114500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
 SUMMARY:Upper bracket quarterfinal 2: DK vs KT
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T080000Z
+UID:pandascore-match-1642155@esport-ics
+DTSTART:20260901T080000Z
+DTEND:20260901T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
+SUMMARY:Upper bracket semifinal 1: GEN vs KT
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 END:VCALENDAR

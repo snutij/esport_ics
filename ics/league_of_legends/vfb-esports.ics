@@ -289,6 +289,17 @@ CLASS:PUBLIC
 DESCRIPTION:Prime League 1st Division - Summer 2026 - Group B\nWatch: https
  ://www.twitch.tv/primeleague
 SUMMARY:VFB vs TOG
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T150000Z
+UID:pandascore-match-1660114@esport-ics
+DTSTART:20260908T150000Z
+DTEND:20260908T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Promotion 2027 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/primeleague
+SUMMARY:Upper bracket semifinal 2: VFB vs CGN
 URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 END:VCALENDAR

@@ -388,6 +388,17 @@ CLASS:PUBLIC
 DESCRIPTION:KPL Growth League - Summer 2026 - Group Stage\nWatch: https://w
  ww.douyu.com/1984839
 SUMMARY:XYG vs Q9
-URL;VALUE=URI:https://www.douyu.com/1984839
+URL:https://www.douyu.com/1984839
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T070000Z
+UID:pandascore-match-1544082@esport-ics
+DTSTART:20260906T070000Z
+DTEND:20260906T121500Z
+CLASS:PUBLIC
+DESCRIPTION:KPL Growth League - Summer 2026 - Playoffs\nWatch: https://weib
+ o.com/6723122187
+SUMMARY:Upper bracket semifinal 1: XYG vs Q9
+URL;VALUE=URI:https://weibo.com/6723122187
 END:VEVENT
 END:VCALENDAR

@@ -179,7 +179,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 54 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket semifinal 1: TTBS vs INF
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260830T170000Z
@@ -191,5 +191,16 @@ DESCRIPTION:Stake Ranked - Episode 4: Open Qualifier 2026 - Playoffs\nWatch
  : https://www.twitch.tv/luffastream
 SUMMARY:Round 2 match 1: FNC vs TTBS
 URL;VALUE=URI:https://www.twitch.tv/luffastream
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T080000Z
+UID:pandascore-match-1654205@esport-ics
+DTSTART:20260901T080000Z
+DTEND:20260901T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 54 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper bracket final: TTBS vs QUB
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

@@ -837,6 +837,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #7 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs
 SUMMARY:Semifinal 1: G1 vs INOX
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T160000Z
+UID:pandascore-match-1630725@esport-ics
+DTSTART:20260830T160000Z
+DTEND:20260830T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #7 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs
+SUMMARY:Grand final: INOX vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT

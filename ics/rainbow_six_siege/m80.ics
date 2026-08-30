@@ -245,6 +245,105 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.youtube.
  com/watch?v=CkjXvhuFlZE
 SUMMARY:Lower bracket quarterfinal 2: M80 vs Liquid
-URL;VALUE=URI:https://www.youtube.com/watch?v=CkjXvhuFlZE
+URL:https://www.youtube.com/watch?v=CkjXvhuFlZE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T200000Z
+UID:pandascore-match-1660390@esport-ics
+DTSTART:20260909T200000Z
+DTEND:20260909T204500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:M80 vs SR
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T210000Z
+UID:pandascore-match-1660396@esport-ics
+DTSTART:20260910T210000Z
+DTEND:20260910T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:M80 vs DZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T180000Z
+UID:pandascore-match-1660398@esport-ics
+DTSTART:20260911T180000Z
+DTEND:20260911T184500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:SSG vs M80
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T220000Z
+UID:pandascore-match-1660407@esport-ics
+DTSTART:20260917T220000Z
+DTEND:20260917T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:M80 vs OL
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T190000Z
+UID:pandascore-match-1660409@esport-ics
+DTSTART:20260918T190000Z
+DTEND:20260918T194500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:M80 vs 5F
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T200000Z
+UID:pandascore-match-1660415@esport-ics
+DTSTART:20260924T200000Z
+DTEND:20260924T204500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:C9 vs M80
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T210000Z
+UID:pandascore-match-1660421@esport-ics
+DTSTART:20260925T210000Z
+DTEND:20260925T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:M80 vs FF
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T190000Z
+UID:pandascore-match-1660424@esport-ics
+DTSTART:20261001T190000Z
+DTEND:20261001T194500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:M80 vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T210000Z
+UID:pandascore-match-1660431@esport-ics
+DTSTART:20261002T210000Z
+DTEND:20261002T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:M80 vs 100T
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

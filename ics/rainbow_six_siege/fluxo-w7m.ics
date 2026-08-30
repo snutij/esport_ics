@@ -254,6 +254,105 @@ CLASS:PUBLIC
 DESCRIPTION:South America League - Stage 1 2026 - Group Stage\nWatch: https
  ://www.twitch.tv/rainbow6
 SUMMARY:LOUD vs FX7M
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T183000Z
+UID:pandascore-match-1660138@esport-ics
+DTSTART:20260905T183000Z
+DTEND:20260905T191500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FX7M vs BD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T210000Z
+UID:pandascore-match-1660145@esport-ics
+DTSTART:20260906T210000Z
+DTEND:20260906T214500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FX7M vs FaZe
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T160000Z
+UID:pandascore-match-1660146@esport-ics
+DTSTART:20260912T160000Z
+DTEND:20260912T164500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FX7M vs IMP
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T183000Z
+UID:pandascore-match-1660153@esport-ics
+DTSTART:20260913T183000Z
+DTEND:20260913T191500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:TBD vs FX7M
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T171500Z
+UID:pandascore-match-1660157@esport-ics
+DTSTART:20260919T171500Z
+DTEND:20260919T180000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:LOS vs FX7M
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T194500Z
+UID:pandascore-match-1660164@esport-ics
+DTSTART:20260920T194500Z
+DTEND:20260920T203000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:INTZ vs FX7M
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T210000Z
+UID:pandascore-match-1660176@esport-ics
+DTSTART:20260926T210000Z
+DTEND:20260926T214500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:Liquid vs FX7M
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T194500Z
+UID:pandascore-match-1660180@esport-ics
+DTSTART:20260927T194500Z
+DTEND:20260927T203000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FX7M vs FURIA
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261004T194500Z
+UID:pandascore-match-1660185@esport-ics
+DTSTART:20261004T194500Z
+DTEND:20261004T203000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FX7M vs LOUD
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

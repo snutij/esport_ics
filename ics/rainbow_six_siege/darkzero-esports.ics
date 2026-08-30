@@ -351,6 +351,105 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ewc
 SUMMARY:3rd place decider: DZ vs GE
-URL;VALUE=URI:https://www.twitch.tv/ewc
+URL:https://www.twitch.tv/ewc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T180000Z
+UID:pandascore-match-1660388@esport-ics
+DTSTART:20260909T180000Z
+DTEND:20260909T184500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:DZ vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T210000Z
+UID:pandascore-match-1660396@esport-ics
+DTSTART:20260910T210000Z
+DTEND:20260910T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:M80 vs DZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T200000Z
+UID:pandascore-match-1660400@esport-ics
+DTSTART:20260911T200000Z
+DTEND:20260911T204500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:100T vs DZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T210000Z
+UID:pandascore-match-1660406@esport-ics
+DTSTART:20260917T210000Z
+DTEND:20260917T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:C9 vs DZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T200000Z
+UID:pandascore-match-1660410@esport-ics
+DTSTART:20260918T200000Z
+DTEND:20260918T204500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:SR vs DZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T220000Z
+UID:pandascore-match-1660417@esport-ics
+DTSTART:20260924T220000Z
+DTEND:20260924T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:DZ vs OL
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T200000Z
+UID:pandascore-match-1660420@esport-ics
+DTSTART:20260925T200000Z
+DTEND:20260925T204500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:SSG vs DZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T220000Z
+UID:pandascore-match-1660427@esport-ics
+DTSTART:20261001T220000Z
+DTEND:20261001T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:DZ vs 5F
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T220000Z
+UID:pandascore-match-1660432@esport-ics
+DTSTART:20261002T220000Z
+DTEND:20261002T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FF vs DZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

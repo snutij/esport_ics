@@ -331,6 +331,105 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/rainbow6
 SUMMARY:Quarterfinal 1: WCG vs FURIA
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T180000Z
+UID:pandascore-match-1660388@esport-ics
+DTSTART:20260909T180000Z
+DTEND:20260909T184500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:DZ vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T200000Z
+UID:pandascore-match-1660395@esport-ics
+DTSTART:20260910T200000Z
+DTEND:20260910T204500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:WCG vs 100T
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T220000Z
+UID:pandascore-match-1660402@esport-ics
+DTSTART:20260911T220000Z
+DTEND:20260911T224500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:SR vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T190000Z
+UID:pandascore-match-1660404@esport-ics
+DTSTART:20260917T190000Z
+DTEND:20260917T194500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:WCG vs SSG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T210000Z
+UID:pandascore-match-1660411@esport-ics
+DTSTART:20260918T210000Z
+DTEND:20260918T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:OL vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T210000Z
+UID:pandascore-match-1660416@esport-ics
+DTSTART:20260924T210000Z
+DTEND:20260924T214500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FF vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T180000Z
+UID:pandascore-match-1660418@esport-ics
+DTSTART:20260925T180000Z
+DTEND:20260925T184500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:WCG vs 5F
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T190000Z
+UID:pandascore-match-1660424@esport-ics
+DTSTART:20261001T190000Z
+DTEND:20261001T194500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:M80 vs WCG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T200000Z
+UID:pandascore-match-1660430@esport-ics
+DTSTART:20261002T200000Z
+DTEND:20261002T204500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:C9 vs WCG
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

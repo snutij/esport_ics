@@ -342,6 +342,105 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/EWC_LegionGauntlet_EN
 SUMMARY:Grand final: FURIA vs FaZe
-URL;VALUE=URI:https://www.twitch.tv/EWC_LegionGauntlet_EN
+URL:https://www.twitch.tv/EWC_LegionGauntlet_EN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T210000Z
+UID:pandascore-match-1660140@esport-ics
+DTSTART:20260905T210000Z
+DTEND:20260905T214500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FURIA vs LOS
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T171500Z
+UID:pandascore-match-1660142@esport-ics
+DTSTART:20260906T171500Z
+DTEND:20260906T180000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FURIA vs INTZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T171500Z
+UID:pandascore-match-1660147@esport-ics
+DTSTART:20260912T171500Z
+DTEND:20260912T180000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FURIA vs Liquid
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T171500Z
+UID:pandascore-match-1660152@esport-ics
+DTSTART:20260913T171500Z
+DTEND:20260913T180000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FURIA vs IMP
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T160000Z
+UID:pandascore-match-1660156@esport-ics
+DTSTART:20260919T160000Z
+DTEND:20260919T164500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:LOUD vs FURIA
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T183000Z
+UID:pandascore-match-1660163@esport-ics
+DTSTART:20260920T183000Z
+DTEND:20260920T191500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:BD vs FURIA
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T194500Z
+UID:pandascore-match-1660175@esport-ics
+DTSTART:20260926T194500Z
+DTEND:20260926T203000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FaZe vs FURIA
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T194500Z
+UID:pandascore-match-1660180@esport-ics
+DTSTART:20260927T194500Z
+DTEND:20260927T203000Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FX7M vs FURIA
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261004T210000Z
+UID:pandascore-match-1660186@esport-ics
+DTSTART:20261004T210000Z
+DTEND:20261004T214500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
+ ://www.twitch.tv/rainbow6
+SUMMARY:FURIA vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
