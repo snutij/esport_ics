@@ -641,6 +641,17 @@ DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 5: BIG vs NEMI
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260908T080000Z
+UID:pandascore-match-1660048@esport-ics
+DTSTART:20260908T080000Z
+DTEND:20260908T101500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/fissure_cs_eng
+SUMMARY:Upper bracket quarterfinal 4: BIG vs BB
+URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260908T090000Z
 UID:pandascore-match-1654291@esport-ics
 DTSTART:20260908T090000Z

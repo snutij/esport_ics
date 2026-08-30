@@ -604,6 +604,17 @@ SUMMARY:Lower bracket quarterfinal 1: MGC vs 3DMAX
 URL:https://www.twitch.tv/EWC_Plus_EN2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260831T110000Z
+UID:pandascore-match-1633293@esport-ics
+DTSTART:20260831T110000Z
+DTEND:20260831T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Playoffs\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 1: 3DMAX vs BTF
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260902T090000Z
 UID:pandascore-match-1643630@esport-ics
 DTSTART:20260902T090000Z

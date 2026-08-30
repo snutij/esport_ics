@@ -575,4 +575,15 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 3: MGC vs K27
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T030000Z
+UID:pandascore-match-1660042@esport-ics
+DTSTART:20260908T030000Z
+DTEND:20260908T051500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/fissure_cs_eng
+SUMMARY:Upper bracket quarterfinal 1: LGC vs MGC
+URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
 END:VCALENDAR

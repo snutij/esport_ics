@@ -484,6 +484,17 @@ SUMMARY:Upper bracket final: TS vs FURIA
 URL;VALUE=URI:https://www.twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260908T053000Z
+UID:pandascore-match-1660045@esport-ics
+DTSTART:20260908T053000Z
+DTEND:20260908T074500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/fissure_cs_eng
+SUMMARY:Upper bracket quarterfinal 4: GL vs FURIA
+URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260908T090000Z
 UID:pandascore-match-1654291@esport-ics
 DTSTART:20260908T090000Z

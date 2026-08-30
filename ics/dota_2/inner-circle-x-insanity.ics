@@ -218,8 +218,10 @@ UID:pandascore-match-1659378@esport-ics
 DTSTART:20260830T090000Z
 DTEND:20260830T111500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group A
+DESCRIPTION:EPL Masters - Season 2 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:ICxI vs Team Synapse
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260831T150000Z
@@ -227,8 +229,10 @@ UID:pandascore-match-1659396@esport-ics
 DTSTART:20260831T150000Z
 DTEND:20260831T171500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group A
+DESCRIPTION:EPL Masters - Season 2 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:RE.Arise vs ICxI
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260901T120000Z
@@ -236,8 +240,10 @@ UID:pandascore-match-1659399@esport-ics
 DTSTART:20260901T120000Z
 DTEND:20260901T141500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group A
+DESCRIPTION:EPL Masters - Season 2 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:ICxI vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260902T090000Z
@@ -245,8 +251,10 @@ UID:pandascore-match-1659437@esport-ics
 DTSTART:20260902T090000Z
 DTEND:20260902T111500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group A
+DESCRIPTION:EPL Masters - Season 2 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:PR vs ICxI
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260904T180000Z
@@ -254,7 +262,9 @@ UID:pandascore-match-1659905@esport-ics
 DTSTART:20260904T180000Z
 DTEND:20260904T201500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group A
+DESCRIPTION:EPL Masters - Season 2 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:ICxI vs LVLUP
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

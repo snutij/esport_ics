@@ -680,6 +680,17 @@ CLASS:PUBLIC
 DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
  ch: https://www.twitch.tv/vanfantv
 SUMMARY:Round 3: NEM vs 1WIN
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T140000Z
+UID:pandascore-match-1633298@esport-ics
+DTSTART:20260901T140000Z
+DTEND:20260901T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Playoffs\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 6: 1WIN vs INOX
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

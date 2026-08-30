@@ -320,4 +320,15 @@ DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 8 2026 - Pl
  ayoffs
 SUMMARY:Semifinal 2: Ice Cream Men vs XctN
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260830T080000Z
+UID:pandascore-match-1655428@esport-ics
+DTSTART:20260830T080000Z
+DTEND:20260830T101500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 8 2026 - Pl
+ ayoffs\nWatch: https://www.twitch.tv/rlg_dota2_b
+SUMMARY:Grand final: XctN vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rlg_dota2_b
+END:VEVENT
 END:VCALENDAR

@@ -877,9 +877,18 @@ UID:pandascore-match-1658116@esport-ics
 DTSTART:20260830T130000Z
 DTEND:20260830T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Group A\
- nWatch: https://kick.com/ESLCS
+DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Group A
 SUMMARY:S-B vs IC.A
-URL;VALUE=URI:https://kick.com/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T110000Z
+UID:pandascore-match-1633295@esport-ics
+DTSTART:20260901T110000Z
+DTEND:20260901T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Playoffs\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 4: INF vs IC.A
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

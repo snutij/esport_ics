@@ -425,8 +425,10 @@ UID:pandascore-match-1659380@esport-ics
 DTSTART:20260830T150000Z
 DTEND:20260830T171500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group A
+DESCRIPTION:EPL Masters - Season 2 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:LVLUP vs PR
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260901T150000Z
@@ -434,8 +436,10 @@ UID:pandascore-match-1659400@esport-ics
 DTSTART:20260901T150000Z
 DTEND:20260901T171500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group A
+DESCRIPTION:EPL Masters - Season 2 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:Team Synapse vs LVLUP
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260902T180000Z
@@ -443,8 +447,10 @@ UID:pandascore-match-1659786@esport-ics
 DTSTART:20260902T180000Z
 DTEND:20260902T201500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group A
+DESCRIPTION:EPL Masters - Season 2 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:LVLUP vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260904T180000Z
@@ -452,8 +458,10 @@ UID:pandascore-match-1659905@esport-ics
 DTSTART:20260904T180000Z
 DTEND:20260904T201500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group A
+DESCRIPTION:EPL Masters - Season 2 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:ICxI vs LVLUP
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260905T150000Z
@@ -461,7 +469,9 @@ UID:pandascore-match-1659908@esport-ics
 DTSTART:20260905T150000Z
 DTEND:20260905T171500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group A
+DESCRIPTION:EPL Masters - Season 2 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:LVLUP vs RE.Arise
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

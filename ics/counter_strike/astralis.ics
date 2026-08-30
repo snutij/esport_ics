@@ -511,4 +511,15 @@ DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group A\nWatch: https://ww
 SUMMARY:Upper bracket quarterfinal 4: AST vs BB
 URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T103000Z
+UID:pandascore-match-1660047@esport-ics
+DTSTART:20260908T103000Z
+DTEND:20260908T124500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/fissure_cs_eng
+SUMMARY:Upper bracket quarterfinal 3: G2 vs AST
+URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
 END:VCALENDAR

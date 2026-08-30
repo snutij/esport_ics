@@ -790,8 +790,10 @@ UID:pandascore-match-1659394@esport-ics
 DTSTART:20260831T090000Z
 DTEND:20260831T111500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group B
+DESCRIPTION:EPL Masters - Season 2 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:PckCp vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260901T180000Z
@@ -799,8 +801,10 @@ UID:pandascore-match-1659401@esport-ics
 DTSTART:20260901T180000Z
 DTEND:20260901T201500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group B
+DESCRIPTION:EPL Masters - Season 2 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:Z10 vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260903T090000Z
@@ -808,8 +812,10 @@ UID:pandascore-match-1659873@esport-ics
 DTSTART:20260903T090000Z
 DTEND:20260903T111500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group B
+DESCRIPTION:EPL Masters - Season 2 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:Z10 vs KS
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260904T090000Z
@@ -817,8 +823,10 @@ UID:pandascore-match-1659902@esport-ics
 DTSTART:20260904T090000Z
 DTEND:20260904T111500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group B
+DESCRIPTION:EPL Masters - Season 2 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:Z10 vs YeS
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260906T120000Z
@@ -826,7 +834,9 @@ UID:pandascore-match-1659915@esport-ics
 DTSTART:20260906T120000Z
 DTEND:20260906T141500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 2 2026 - Group B
+DESCRIPTION:EPL Masters - Season 2 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:DYNASTY vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

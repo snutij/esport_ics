@@ -453,6 +453,17 @@ DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 4: NTR vs GL
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260908T053000Z
+UID:pandascore-match-1660045@esport-ics
+DTSTART:20260908T053000Z
+DTEND:20260908T074500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/fissure_cs_eng
+SUMMARY:Upper bracket quarterfinal 4: GL vs FURIA
+URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260908T090000Z
 UID:pandascore-match-1654288@esport-ics
 DTSTART:20260908T090000Z

@@ -817,6 +817,17 @@ SUMMARY:Decider match: ALL vs TTBS
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260908T080000Z
+UID:pandascore-match-1660043@esport-ics
+DTSTART:20260908T080000Z
+DTEND:20260908T101500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/fissure_cs_eng
+SUMMARY:Upper bracket quarterfinal 2: ALL vs FaZe
+URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260908T090000Z
 UID:pandascore-match-1654290@esport-ics
 DTSTART:20260908T090000Z
