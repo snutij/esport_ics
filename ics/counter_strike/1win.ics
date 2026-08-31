@@ -691,6 +691,17 @@ CLASS:PUBLIC
 DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Playoffs\nWatch:
   https://www.twitch.tv/gluck_esports
 SUMMARY:Quarterfinal 4: 1WIN vs ex-RUBY
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T120000Z
+UID:pandascore-match-1648103@esport-ics
+DTSTART:20260901T120000Z
+DTEND:20260901T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/gluck_esports
+SUMMARY:Semifinal 2: NTR vs 1WIN
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT

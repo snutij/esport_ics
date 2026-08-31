@@ -612,6 +612,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Playoffs\nWatch: https:
  //kick.com/nodwin_cs2
 SUMMARY:Round of 16 match 1: 3DMAX vs BTF
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T080000Z
+UID:pandascore-match-1633300@esport-ics
+DTSTART:20260902T080000Z
+DTEND:20260902T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Playoffs\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:Quarterfinal 1: 3DMAX vs TBD
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT

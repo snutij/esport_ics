@@ -237,6 +237,17 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Asian Qualifier 2026 - Playoffs\nWatch: ht
  tps://live.bilibili.com/21622808
 SUMMARY:Upper bracket quarterfinal 4: 5S vs CW
+URL:https://live.bilibili.com/21622808
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T123000Z
+UID:pandascore-match-1661700@esport-ics
+DTSTART:20260901T123000Z
+DTEND:20260901T144500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Asian Qualifier 2026 - Playoffs\nWatch: ht
+ tps://live.bilibili.com/21622808
+SUMMARY:Upper bracket semifinal 2: RA vs 5S
 URL;VALUE=URI:https://live.bilibili.com/21622808
 END:VEVENT
 END:VCALENDAR
