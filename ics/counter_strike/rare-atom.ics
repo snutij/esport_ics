@@ -412,8 +412,10 @@ UID:pandascore-match-1650475@esport-ics
 DTSTART:20260831T130000Z
 DTEND:20260831T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
+DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/eslcsb
 SUMMARY:Lower bracket final: RA vs JS
+URL;VALUE=URI:https://www.twitch.tv/eslcsb
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260902T060000Z

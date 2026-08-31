@@ -886,8 +886,10 @@ UID:pandascore-match-1658120@esport-ics
 DTSTART:20260831T130000Z
 DTEND:20260831T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Group A
+DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Group A\
+ nWatch: https://www.twitch.tv/floppyacs
 SUMMARY:Decider match: IC.A vs FF
+URL;VALUE=URI:https://www.twitch.tv/floppyacs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260901T110000Z

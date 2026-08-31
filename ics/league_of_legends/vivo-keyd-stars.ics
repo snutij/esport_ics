@@ -251,7 +251,8 @@ UID:pandascore-match-1662342@esport-ics
 DTSTART:20260905T160000Z
 DTEND:20260905T194500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 2 2026 - Playoffs
+DESCRIPTION:CBLOL - Split 2 2026 - Playoffs\nWatch: https://twitch.tv/cblol
 SUMMARY:Upper Bracket Quarterfinals 2: VKS vs PNG
+URL;VALUE=URI:https://twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

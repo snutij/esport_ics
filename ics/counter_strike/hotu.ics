@@ -734,7 +734,7 @@ CLASS:PUBLIC
 DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Playoffs\nWatch:
   https://www.twitch.tv/gluck_esports
 SUMMARY:Quarterfinal 1: HOTU vs SPARTA
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260831T140000Z
@@ -746,6 +746,17 @@ DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Playoffs\nWatch: https:
  //kick.com/nodwin_cs2
 SUMMARY:Round of 16 match 7: HOTU vs UPGRADE
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T090000Z
+UID:pandascore-match-1648102@esport-ics
+DTSTART:20260901T090000Z
+DTEND:20260901T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Playoffs\nWatch:
+  https://www.twitch.tv/gluck_esports
+SUMMARY:Semifinal 1: HOTU vs TBD
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260902T120000Z

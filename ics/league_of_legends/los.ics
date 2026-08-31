@@ -339,7 +339,8 @@ UID:pandascore-match-1662349@esport-ics
 DTSTART:20260913T160000Z
 DTEND:20260913T194500Z
 CLASS:PUBLIC
-DESCRIPTION:CBLOL - Split 2 2026 - Playoffs
+DESCRIPTION:CBLOL - Split 2 2026 - Playoffs\nWatch: https://twitch.tv/cblol
 SUMMARY:Upper Bracket Semifinals 2: LOS vs TBD
+URL;VALUE=URI:https://twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

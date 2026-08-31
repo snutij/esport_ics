@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Summer 2026 - Regular Season\nWatch: https://
  www.twitch.tv/road_of_legends
 SUMMARY:OUAT vs SEC
+URL:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T160000Z
+UID:pandascore-match-1662548@esport-ics
+DTSTART:20260901T160000Z
+DTEND:20260901T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Summer 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/road_of_legends
+SUMMARY:Upper bracket semifinal 1: FEC vs SEC
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 END:VCALENDAR

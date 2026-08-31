@@ -901,23 +901,25 @@ SUMMARY:VP vs FF
 URL:https://www.twitch.tv/virtuspro
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260831T103000Z
-UID:pandascore-match-1658034@esport-ics
-DTSTART:20260831T103000Z
-DTEND:20260831T124500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group A\nWatch: 
- https://kick.com/eplcs_en
-SUMMARY:FF vs mellren
-URL;VALUE=URI:https://kick.com/eplcs_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260831T130000Z
 UID:pandascore-match-1658120@esport-ics
 DTSTART:20260831T130000Z
 DTEND:20260831T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Group A
+DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Group A\
+ nWatch: https://www.twitch.tv/floppyacs
 SUMMARY:Decider match: IC.A vs FF
+URL;VALUE=URI:https://www.twitch.tv/floppyacs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T133000Z
+UID:pandascore-match-1658034@esport-ics
+DTSTART:20260902T133000Z
+DTEND:20260902T154500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group A\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:FF vs mellren
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
