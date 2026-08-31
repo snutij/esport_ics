@@ -68,6 +68,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #1 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/chickencoopgg
 SUMMARY:Lower bracket semifinal: OT vs CCE
-URL;VALUE=URI:https://www.twitch.tv/chickencoopgg
+URL:https://www.twitch.tv/chickencoopgg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T010000Z
+UID:pandascore-match-1650535@esport-ics
+DTSTART:20260901T010000Z
+DTEND:20260901T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Lower bracket final: MARS vs OT
 END:VEVENT
 END:VCALENDAR

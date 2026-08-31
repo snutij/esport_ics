@@ -296,6 +296,15 @@ CLASS:PUBLIC
 DESCRIPTION:CBLOL - Split 2 2026 - Regular Season\nWatch: https://www.twitc
  h.tv/cblol
 SUMMARY:LLL vs RED
-URL;VALUE=URI:https://www.twitch.tv/cblol
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T160000Z
+UID:pandascore-match-1662341@esport-ics
+DTSTART:20260906T160000Z
+DTEND:20260906T194500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Playoffs
+SUMMARY:Upper Bracket Quarterfinals 1: FUR vs RED
 END:VEVENT
 END:VCALENDAR

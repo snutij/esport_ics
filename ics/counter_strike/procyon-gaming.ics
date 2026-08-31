@@ -636,6 +636,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 5 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 3: PCY vs Zetta Games
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T190000Z
+UID:pandascore-match-1645109@esport-ics
+DTSTART:20260901T190000Z
+DTEND:20260901T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 5 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 4: PCY vs MEIA NOITE
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

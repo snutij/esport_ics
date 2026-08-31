@@ -737,6 +737,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
  layoffs\nWatch: https://kick.com/locomas
 SUMMARY:Lower bracket semifinal: FXW7 vs SHIN
-URL;VALUE=URI:https://kick.com/locomas
+URL:https://kick.com/locomas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260831T210000Z
+UID:pandascore-match-1650505@esport-ics
+DTSTART:20260831T210000Z
+DTEND:20260831T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
+ layoffs
+SUMMARY:Lower bracket final: IMP vs SHIN
 END:VEVENT
 END:VCALENDAR

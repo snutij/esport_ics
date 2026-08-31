@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 5 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 3: MM vs ex-GUARA
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260831T220000Z
+UID:pandascore-match-1645107@esport-ics
+DTSTART:20260831T220000Z
+DTEND:20260901T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 5 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 4: MM vs Semente do Mal
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
