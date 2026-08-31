@@ -540,7 +540,8 @@ DTSTART:20260901T010000Z
 DTEND:20260901T031500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #1 season 52 2026 - P
- layoffs
+ layoffs\nWatch: https://www.twitch.tv/eslcs
 SUMMARY:Lower bracket final: MARS vs OT
+URL;VALUE=URI:https://www.twitch.tv/eslcs
 END:VEVENT
 END:VCALENDAR

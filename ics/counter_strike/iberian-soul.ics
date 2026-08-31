@@ -43,6 +43,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Play-Ins\nWatch: http
  s://www.twitch.tv/mur_cs2
 SUMMARY:Round of 32 match 11: ICE vs IS
-URL;VALUE=URI:https://www.twitch.tv/mur_cs2
+URL:https://www.twitch.tv/mur_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T090000Z
+UID:pandascore-match-1663808@esport-ics
+DTSTART:20260903T090000Z
+DTEND:20260903T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 4: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 7: IS vs NEMI
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

@@ -909,6 +909,8 @@ DTSTART:20260901T130000Z
 DTEND:20260901T151500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Playoffs
-SUMMARY:Semifinal 2: IC.A vs TBD
+ \nWatch: https://www.twitch.tv/floppyacs
+SUMMARY:Semifinal 2: IC.A vs Entropy
+URL;VALUE=URI:https://www.twitch.tv/floppyacs
 END:VEVENT
 END:VCALENDAR

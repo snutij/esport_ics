@@ -567,6 +567,17 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group D\nWatc
  h: https://kick.com/connect_en
 SUMMARY:MZP vs PCIFIC
-URL;VALUE=URI:https://kick.com/connect_en
+URL:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T170000Z
+UID:pandascore-match-1648393@esport-ics
+DTSTART:20260901T170000Z
+DTEND:20260901T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group D\nWatc
+ h: https://www.twitch.tv/connect_en
+SUMMARY:Decider match: MZP vs TBD
+URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR

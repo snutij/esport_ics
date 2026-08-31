@@ -672,6 +672,17 @@ SUMMARY:Lower bracket final: G2 vs AUR
 URL:https://www.twitch.tv/blastpremier
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260904T130000Z
+UID:pandascore-match-1640211@esport-ics
+DTSTART:20260904T130000Z
+DTEND:20260904T151500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Porto Fall 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/blastpremier
+SUMMARY:Quarterfinal 1: FAL vs G2
+URL;VALUE=URI:https://www.twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260908T090000Z
 UID:pandascore-match-1654285@esport-ics
 DTSTART:20260908T090000Z

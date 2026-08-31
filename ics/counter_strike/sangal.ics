@@ -470,6 +470,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 4: Open Qualifier 2026 - Playoffs\nWatch
  : https://www.twitch.tv/luffastream
 SUMMARY:Round 2 match 2: SNG vs PURE
-URL;VALUE=URI:https://www.twitch.tv/luffastream
+URL:https://www.twitch.tv/luffastream
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T143000Z
+UID:pandascore-match-1663798@esport-ics
+DTSTART:20260903T143000Z
+DTEND:20260903T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 4: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 1: NIP vs SNG
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

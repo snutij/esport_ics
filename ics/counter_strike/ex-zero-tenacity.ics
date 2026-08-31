@@ -1357,6 +1357,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 1 2026 - Playoffs\nWatch: https://kick.co
  m/fiesta_cs
 SUMMARY:Grand final: ex-ZT vs BW
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T110000Z
+UID:pandascore-match-1651407@esport-ics
+DTSTART:20260901T110000Z
+DTEND:20260901T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Play-In\nWatch:
+  https://kick.com/cct_cs2
+SUMMARY:ex-ZT vs Honvéd
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

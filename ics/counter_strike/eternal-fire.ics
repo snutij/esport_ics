@@ -762,4 +762,15 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 1: MIBR vs EF
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T113000Z
+UID:pandascore-match-1663806@esport-ics
+DTSTART:20260904T113000Z
+DTEND:20260904T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 4: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 match 5: HOTU vs EF
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
 END:VCALENDAR

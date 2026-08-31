@@ -325,4 +325,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Playoffs
 SUMMARY:Quarterfinal 2: TBD vs WBT
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260901T130000Z
+UID:pandascore-match-1658140@esport-ics
+DTSTART:20260901T130000Z
+DTEND:20260901T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #5 season 52 2026 - Playoffs
+ \nWatch: https://www.twitch.tv/eslcs
+SUMMARY:Semifinal 1: VP vs WBT
+URL;VALUE=URI:https://www.twitch.tv/eslcs
+END:VEVENT
 END:VCALENDAR
