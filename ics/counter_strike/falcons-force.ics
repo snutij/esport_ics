@@ -732,4 +732,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 11: FAL.F vs FRT
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T103000Z
+UID:pandascore-match-1658041@esport-ics
+DTSTART:20260905T103000Z
+DTEND:20260905T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group B\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Winners match: FAL.F vs MISA
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

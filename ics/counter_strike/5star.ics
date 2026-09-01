@@ -248,6 +248,17 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Asian Qualifier 2026 - Playoffs\nWatch: ht
  tps://kick.com/dutchboycasts
 SUMMARY:Upper bracket semifinal 2: 5S vs NEXVOID
-URL;VALUE=URI:https://kick.com/dutchboycasts
+URL:https://kick.com/dutchboycasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T100000Z
+UID:pandascore-match-1661703@esport-ics
+DTSTART:20260902T100000Z
+DTEND:20260902T121500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Asian Qualifier 2026 - Playoffs\nWatch: ht
+ tps://live.bilibili.com/21622808
+SUMMARY:Upper bracket final: RA vs 5S
+URL;VALUE=URI:https://live.bilibili.com/21622808
 END:VEVENT
 END:VCALENDAR

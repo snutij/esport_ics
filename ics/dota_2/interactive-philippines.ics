@@ -519,4 +519,70 @@ DESCRIPTION:BLAST Slam - Southeast Asia Open Qualifier 2 season 7 2026 - Pl
  ayoffs
 SUMMARY:Quarterfinal 3: IAC vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T060000Z
+UID:pandascore-match-1665206@esport-ics
+DTSTART:20260902T060000Z
+DTEND:20260902T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T090000Z
+UID:pandascore-match-1665209@esport-ics
+DTSTART:20260903T090000Z
+DTEND:20260903T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T030000Z
+UID:pandascore-match-1665210@esport-ics
+DTSTART:20260904T030000Z
+DTEND:20260904T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Dfam vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T060000Z
+UID:pandascore-match-1665214@esport-ics
+DTSTART:20260905T060000Z
+DTEND:20260905T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs Nem
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T060000Z
+UID:pandascore-match-1665217@esport-ics
+DTSTART:20260906T060000Z
+DTEND:20260906T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs DB
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T060000Z
+UID:pandascore-match-1665220@esport-ics
+DTSTART:20260907T060000Z
+DTEND:20260907T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Y123 vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
 END:VCALENDAR

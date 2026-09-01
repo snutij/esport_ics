@@ -469,4 +469,15 @@ DESCRIPTION:IEM - Beijing: Asian Qualifier 2026 - Playoffs\nWatch: https://
 SUMMARY:Upper bracket quarterfinal 2: THE vs DEPO
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T073000Z
+UID:pandascore-match-1661702@esport-ics
+DTSTART:20260902T073000Z
+DTEND:20260902T094500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Asian Qualifier 2026 - Playoffs\nWatch: ht
+ tps://live.bilibili.com/21622808
+SUMMARY:Lower bracket quarterfinal 2: THE vs TBD
+URL;VALUE=URI:https://live.bilibili.com/21622808
+END:VEVENT
 END:VCALENDAR

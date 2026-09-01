@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:BLUEJAYS.de
 SLUG:bluejays-de
 BEGIN:VEVENT
-DTSTAMP:20260902T160000Z
-UID:pandascore-match-1661609@esport-ics
-DTSTART:20260902T160000Z
-DTEND:20260902T181500Z
-CLASS:PUBLIC
-DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
- //www.twitch.tv/dachcs
-SUMMARY:HUSK vs BLUEJAYS.de
-URL;VALUE=URI:https://www.twitch.tv/dachcs
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260907T160000Z
 UID:pandascore-match-1661615@esport-ics
 DTSTART:20260907T160000Z
@@ -58,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
  //www.twitch.tv/dachcs
 SUMMARY:BLUEJAYS.de vs SSP
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T160000Z
+UID:pandascore-match-1661609@esport-ics
+DTSTART:20261007T160000Z
+DTEND:20261007T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:HUSK vs BLUEJAYS.de
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT

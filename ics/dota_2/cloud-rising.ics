@@ -252,4 +252,81 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - China Closed Qualifier 2026 - Playoffs
 SUMMARY:Semifinal 2: CR vs YB
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T090000Z
+UID:pandascore-match-1665209@esport-ics
+DTSTART:20260903T090000Z
+DTEND:20260903T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T030000Z
+UID:pandascore-match-1665216@esport-ics
+DTSTART:20260906T030000Z
+DTEND:20260906T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T090000Z
+UID:pandascore-match-1665221@esport-ics
+DTSTART:20260907T090000Z
+DTEND:20260907T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CR vs Dfam
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T060000Z
+UID:pandascore-match-1665225@esport-ics
+DTSTART:20260908T060000Z
+DTEND:20260908T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CR vs DB
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T030000Z
+UID:pandascore-match-1665228@esport-ics
+DTSTART:20260909T030000Z
+DTEND:20260909T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Nem vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T030000Z
+UID:pandascore-match-1665232@esport-ics
+DTSTART:20260910T030000Z
+DTEND:20260910T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CR vs Team Kinetix
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T090000Z
+UID:pandascore-match-1665238@esport-ics
+DTSTART:20260910T090000Z
+DTEND:20260910T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Y123 vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
 END:VCALENDAR

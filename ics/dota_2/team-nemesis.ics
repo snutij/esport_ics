@@ -467,6 +467,83 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 8 2026 - Pl
  ayoffs\nWatch: https://www.twitch.tv/rlg_dota2_b
 SUMMARY:Semifinal 1: DB vs Nem
-URL;VALUE=URI:https://www.twitch.tv/rlg_dota2_b
+URL:https://www.twitch.tv/rlg_dota2_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T030000Z
+UID:pandascore-match-1665205@esport-ics
+DTSTART:20260902T030000Z
+DTEND:20260902T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Team Kinetix vs Nem
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T060000Z
+UID:pandascore-match-1665208@esport-ics
+DTSTART:20260903T060000Z
+DTEND:20260903T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Nem vs YG
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T060000Z
+UID:pandascore-match-1665211@esport-ics
+DTSTART:20260904T060000Z
+DTEND:20260904T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Nem vs DB
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T060000Z
+UID:pandascore-match-1665214@esport-ics
+DTSTART:20260905T060000Z
+DTEND:20260905T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs Nem
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T090000Z
+UID:pandascore-match-1665218@esport-ics
+DTSTART:20260906T090000Z
+DTEND:20260906T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Nem vs Dfam
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T030000Z
+UID:pandascore-match-1665228@esport-ics
+DTSTART:20260909T030000Z
+DTEND:20260909T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Nem vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T060000Z
+UID:pandascore-match-1665233@esport-ics
+DTSTART:20260910T060000Z
+DTEND:20260910T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Nem vs Y123
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

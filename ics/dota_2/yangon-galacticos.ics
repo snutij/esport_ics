@@ -308,6 +308,72 @@ CLASS:PUBLIC
 DESCRIPTION:The International - Southeast Asia Closed Qualifier 2026 - Play
  offs\nWatch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Lower bracket round 1 match 1: CARST vs YG
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T060000Z
+UID:pandascore-match-1665206@esport-ics
+DTSTART:20260902T060000Z
+DTEND:20260902T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T060000Z
+UID:pandascore-match-1665208@esport-ics
+DTSTART:20260903T060000Z
+DTEND:20260903T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Nem vs YG
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T090000Z
+UID:pandascore-match-1665212@esport-ics
+DTSTART:20260904T090000Z
+DTEND:20260904T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Y123 vs YG
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T090000Z
+UID:pandascore-match-1665215@esport-ics
+DTSTART:20260905T090000Z
+DTEND:20260905T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:DB vs YG
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T030000Z
+UID:pandascore-match-1665216@esport-ics
+DTSTART:20260906T030000Z
+DTEND:20260906T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs CR
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T090000Z
+UID:pandascore-match-1665227@esport-ics
+DTSTART:20260908T090000Z
+DTEND:20260908T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs Team Kinetix
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

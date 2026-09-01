@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 8 2026 - Pl
  ayoffs\nWatch: https://www.twitch.tv/rlg_dota2_b
 SUMMARY:Quarterfinal 3: Ice Cream Men vs Team Kinetix
-URL;VALUE=URI:https://www.twitch.tv/rlg_dota2_b
+URL:https://www.twitch.tv/rlg_dota2_b
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260829T110000Z
@@ -25,6 +25,72 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 8 2026 - Pl
  ayoffs\nWatch: https://www.twitch.tv/rlg_dota2_b
 SUMMARY:Quarterfinal 4: XctN vs Team Kinetix
-URL;VALUE=URI:https://www.twitch.tv/rlg_dota2_b
+URL:https://www.twitch.tv/rlg_dota2_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T030000Z
+UID:pandascore-match-1665205@esport-ics
+DTSTART:20260902T030000Z
+DTEND:20260902T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Team Kinetix vs Nem
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T030000Z
+UID:pandascore-match-1665213@esport-ics
+DTSTART:20260905T030000Z
+DTEND:20260905T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Team Kinetix vs Y123
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T030000Z
+UID:pandascore-match-1665219@esport-ics
+DTSTART:20260907T030000Z
+DTEND:20260907T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:DB vs Team Kinetix
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T090000Z
+UID:pandascore-match-1665227@esport-ics
+DTSTART:20260908T090000Z
+DTEND:20260908T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs Team Kinetix
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T090000Z
+UID:pandascore-match-1665231@esport-ics
+DTSTART:20260909T090000Z
+DTEND:20260909T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Dfam vs Team Kinetix
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T030000Z
+UID:pandascore-match-1665232@esport-ics
+DTSTART:20260910T030000Z
+DTEND:20260910T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CR vs Team Kinetix
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

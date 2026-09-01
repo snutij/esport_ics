@@ -157,6 +157,72 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Playoffs\nWa
  tch: https://kick.com/epldota_en1
 SUMMARY:Lower bracket semifinal: Dfam vs Mentality Monster
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T030000Z
+UID:pandascore-match-1665207@esport-ics
+DTSTART:20260903T030000Z
+DTEND:20260903T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:DB vs Dfam
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T030000Z
+UID:pandascore-match-1665210@esport-ics
+DTSTART:20260904T030000Z
+DTEND:20260904T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Dfam vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T090000Z
+UID:pandascore-match-1665218@esport-ics
+DTSTART:20260906T090000Z
+DTEND:20260906T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Nem vs Dfam
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T090000Z
+UID:pandascore-match-1665221@esport-ics
+DTSTART:20260907T090000Z
+DTEND:20260907T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CR vs Dfam
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T030000Z
+UID:pandascore-match-1665223@esport-ics
+DTSTART:20260908T030000Z
+DTEND:20260908T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Dfam vs Y123
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T090000Z
+UID:pandascore-match-1665231@esport-ics
+DTSTART:20260909T090000Z
+DTEND:20260909T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Dfam vs Team Kinetix
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR
