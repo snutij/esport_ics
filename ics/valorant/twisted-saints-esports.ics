@@ -108,6 +108,17 @@ CLASS:PUBLIC
 DESCRIPTION:THE POKAL - 2026 - Playoffs\nWatch: https://www.twitch.tv/valor
  antleague_dach
 SUMMARY:Upper bracket round 1 match 7: ECO vs TSE
+URL:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T150000Z
+UID:pandascore-match-1661573@esport-ics
+DTSTART:20260903T150000Z
+DTEND:20260903T171500Z
+CLASS:PUBLIC
+DESCRIPTION:THE POKAL - 2026 - Playoffs\nWatch: https://www.twitch.tv/valor
+ antleague_dach
+SUMMARY:Upper bracket quarterfinal 4: Catboys vs TSE
 URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
 END:VEVENT
 END:VCALENDAR
