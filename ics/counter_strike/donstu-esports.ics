@@ -1112,6 +1112,15 @@ CLASS:PUBLIC
 DESCRIPTION:Kibertochka - Season 2 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/kibertochkaofficial
 SUMMARY:Lower bracket semifinal: TS.A vs DNT
-URL;VALUE=URI:https://www.twitch.tv/kibertochkaofficial
+URL:https://www.twitch.tv/kibertochkaofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T173000Z
+UID:pandascore-match-1664484@esport-ics
+DTSTART:20260902T173000Z
+DTEND:20260902T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 15: DNT vs WBT
 END:VEVENT
 END:VCALENDAR

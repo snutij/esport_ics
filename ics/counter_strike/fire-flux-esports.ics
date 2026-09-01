@@ -922,4 +922,13 @@ DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group A\nWatch:
 SUMMARY:FF vs mellren
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T173000Z
+UID:pandascore-match-1664475@esport-ics
+DTSTART:20260902T173000Z
+DTEND:20260902T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 4: FF vs YL
+END:VEVENT
 END:VCALENDAR

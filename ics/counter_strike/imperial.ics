@@ -706,7 +706,8 @@ DTSTART:20260901T210000Z
 DTEND:20260901T231500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
- layoffs
+ layoffs\nWatch: https://kick.com/eslcs
 SUMMARY:Grand final: GLS vs IMP
+URL;VALUE=URI:https://kick.com/eslcs
 END:VEVENT
 END:VCALENDAR
