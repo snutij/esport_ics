@@ -395,6 +395,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCK Challengers League - 2026 - Playoffs\nWatch: https://play-o
  rigin.sooplive.com/afchall
 SUMMARY:Upper bracket quarterfinal 2: NS.EA vs DNS.C
+URL:https://play-origin.sooplive.com/afchall
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T080000Z
+UID:pandascore-match-1589551@esport-ics
+DTSTART:20260908T080000Z
+DTEND:20260908T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK Challengers League - 2026 - Playoffs\nWatch: https://play-o
+ rigin.sooplive.com/afchall
+SUMMARY:Upper bracket semifinal 2: DK.C vs NS.EA
 URL;VALUE=URI:https://play-origin.sooplive.com/afchall
 END:VEVENT
 END:VCALENDAR
