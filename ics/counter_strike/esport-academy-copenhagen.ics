@@ -488,6 +488,28 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group A\nWatc
  h: https://www.twitch.tv/connect_en
 SUMMARY:Decider match: BMB vs EAC
+URL:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T080000Z
+UID:pandascore-match-1651260@esport-ics
+DTSTART:20260902T080000Z
+DTEND:20260902T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/connect_en
+SUMMARY:Round of 16 match 7: SIN vs EAC
 URL;VALUE=URI:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T170000Z
+UID:pandascore-match-1651573@esport-ics
+DTSTART:20260902T170000Z
+DTEND:20260902T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #8 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 1: EAC vs BW
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

@@ -377,6 +377,17 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/otpl
  ol_
 SUMMARY:Lower bracket final: TLNP vs KCB
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T160000Z
+UID:pandascore-match-1643627@esport-ics
+DTSTART:20260902T160000Z
+DTEND:20260902T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/otpl
+ ol_
+SUMMARY:Grand final: GAL vs TLNP
 URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

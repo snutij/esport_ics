@@ -1141,6 +1141,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Play-In\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:PERM vs BW
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T170000Z
+UID:pandascore-match-1651573@esport-ics
+DTSTART:20260902T170000Z
+DTEND:20260902T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #8 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 1: EAC vs BW
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

@@ -615,17 +615,6 @@ SUMMARY:Round of 16 match 1: 3DMAX vs BTF
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260902T080000Z
-UID:pandascore-match-1633300@esport-ics
-DTSTART:20260902T080000Z
-DTEND:20260902T101500Z
-CLASS:PUBLIC
-DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Playoffs\nWatch: https:
- //kick.com/nodwin_cs2
-SUMMARY:Quarterfinal 1: 3DMAX vs WAL
-URL;VALUE=URI:https://kick.com/nodwin_cs2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260902T090000Z
 UID:pandascore-match-1643630@esport-ics
 DTSTART:20260902T090000Z
@@ -633,5 +622,16 @@ DTEND:20260902T111500Z
 CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 2: 3DMAX vs HERO
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T170000Z
+UID:pandascore-match-1633300@esport-ics
+DTSTART:20260902T170000Z
+DTEND:20260902T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Playoffs\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:Quarterfinal 1: 3DMAX vs WAL
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

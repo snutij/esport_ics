@@ -286,8 +286,10 @@ UID:pandascore-match-1664570@esport-ics
 DTSTART:20260904T123000Z
 DTEND:20260904T144500Z
 CLASS:PUBLIC
-DESCRIPTION:CN League - Stage 2 2026 - Group Stage
+DESCRIPTION:CN League - Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
 SUMMARY:AG vs EDG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260906T090000Z
@@ -295,8 +297,10 @@ UID:pandascore-match-1664578@esport-ics
 DTSTART:20260906T090000Z
 DTEND:20260906T111500Z
 CLASS:PUBLIC
-DESCRIPTION:CN League - Stage 2 2026 - Group Stage
+DESCRIPTION:CN League - Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
 SUMMARY:EDG vs LEV
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260911T053000Z
@@ -304,8 +308,10 @@ UID:pandascore-match-1664580@esport-ics
 DTSTART:20260911T053000Z
 DTEND:20260911T074500Z
 CLASS:PUBLIC
-DESCRIPTION:CN League - Stage 2 2026 - Group Stage
+DESCRIPTION:CN League - Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
 SUMMARY:EDG vs POZY
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260913T090000Z
@@ -313,8 +319,10 @@ UID:pandascore-match-1664587@esport-ics
 DTSTART:20260913T090000Z
 DTEND:20260913T111500Z
 CLASS:PUBLIC
-DESCRIPTION:CN League - Stage 2 2026 - Group Stage
+DESCRIPTION:CN League - Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
 SUMMARY:4AM vs EDG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260920T053000Z
@@ -322,8 +330,10 @@ UID:pandascore-match-1664592@esport-ics
 DTSTART:20260920T053000Z
 DTEND:20260920T074500Z
 CLASS:PUBLIC
-DESCRIPTION:CN League - Stage 2 2026 - Group Stage
+DESCRIPTION:CN League - Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
 SUMMARY:KZ vs EDG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260925T090000Z
@@ -331,8 +341,10 @@ UID:pandascore-match-1664599@esport-ics
 DTSTART:20260925T090000Z
 DTEND:20260925T111500Z
 CLASS:PUBLIC
-DESCRIPTION:CN League - Stage 2 2026 - Group Stage
+DESCRIPTION:CN League - Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
 SUMMARY:TYLOO vs EDG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260927T090000Z
@@ -340,8 +352,10 @@ UID:pandascore-match-1664605@esport-ics
 DTSTART:20260927T090000Z
 DTEND:20260927T111500Z
 CLASS:PUBLIC
-DESCRIPTION:CN League - Stage 2 2026 - Group Stage
+DESCRIPTION:CN League - Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
 SUMMARY:EDG vs LGD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261002T123000Z
@@ -349,8 +363,10 @@ UID:pandascore-match-1664610@esport-ics
 DTSTART:20261002T123000Z
 DTEND:20261002T144500Z
 CLASS:PUBLIC
-DESCRIPTION:CN League - Stage 2 2026 - Group Stage
+DESCRIPTION:CN League - Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
 SUMMARY:Titan Esports Club vs EDG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261004T053000Z
@@ -358,7 +374,9 @@ UID:pandascore-match-1664615@esport-ics
 DTSTART:20261004T053000Z
 DTEND:20261004T074500Z
 CLASS:PUBLIC
-DESCRIPTION:CN League - Stage 2 2026 - Group Stage
+DESCRIPTION:CN League - Stage 2 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/rainbow6
 SUMMARY:OC vs EDG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

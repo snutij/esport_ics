@@ -1176,6 +1176,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Play-In\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:UNiTY vs MISA
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T140000Z
+UID:pandascore-match-1651572@esport-ics
+DTSTART:20260902T140000Z
+DTEND:20260902T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #8 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 1: INOX vs UNiTY
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

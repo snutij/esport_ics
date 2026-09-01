@@ -773,9 +773,20 @@ URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260902T110000Z
-UID:pandascore-match-1633301@esport-ics
+UID:pandascore-match-1651261@esport-ics
 DTSTART:20260902T110000Z
 DTEND:20260902T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/connect_en
+SUMMARY:Round of 16 match 5: INF vs EF
+URL;VALUE=URI:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T140000Z
+UID:pandascore-match-1633301@esport-ics
+DTSTART:20260902T140000Z
+DTEND:20260902T161500Z
 CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Playoffs\nWatch: https:
  //kick.com/nodwin_cs2

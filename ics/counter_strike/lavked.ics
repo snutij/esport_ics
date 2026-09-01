@@ -1169,6 +1169,17 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group A\nWatc
  h: https://www.twitch.tv/connect_en
 SUMMARY:Elimination match: LVKD vs EAC
-URL;VALUE=URI:https://www.twitch.tv/connect_en
+URL:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T140000Z
+UID:pandascore-match-1651576@esport-ics
+DTSTART:20260903T140000Z
+DTEND:20260903T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #8 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 1: LVKD vs HAVU
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

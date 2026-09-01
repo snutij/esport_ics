@@ -366,6 +366,17 @@ CLASS:PUBLIC
 DESCRIPTION:Prime League 1st Division - Summer 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/primeleague
 SUMMARY:Lower bracket semifinal: USE vs KHK
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T150000Z
+UID:pandascore-match-1634174@esport-ics
+DTSTART:20260903T150000Z
+DTEND:20260903T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Prime League 1st Division - Summer 2026 - Playoffs\nWatch: http
+ s://www.twitch.tv/primeleague
+SUMMARY:Lower bracket final: BIG vs KHK
 URL;VALUE=URI:https://www.twitch.tv/primeleague
 END:VEVENT
 END:VCALENDAR

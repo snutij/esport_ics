@@ -382,6 +382,17 @@ CLASS:PUBLIC
 DESCRIPTION:LG UltraGear Tournament - 2026 - Group A\nWatch: https://www.tw
  itch.tv/myskill_top
 SUMMARY:Decider match: RE vs NVQ
-URL;VALUE=URI:https://www.twitch.tv/myskill_top
+URL:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T140000Z
+UID:pandascore-match-1651266@esport-ics
+DTSTART:20260903T140000Z
+DTEND:20260903T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/connect_en
+SUMMARY:Round of 16 match 2: NVQ vs RE
+URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR

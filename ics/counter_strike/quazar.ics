@@ -621,6 +621,17 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group A\nWatc
  h: https://www.twitch.tv/connect_en
 SUMMARY:Winners match: BMB vs QUA
+URL:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T170000Z
+UID:pandascore-match-1651267@esport-ics
+DTSTART:20260903T170000Z
+DTEND:20260903T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/connect_en
+SUMMARY:Round of 16 match 8: OMG vs QUA
 URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR
