@@ -311,6 +311,17 @@ SUMMARY:Lower bracket round 1 match 1: CARST vs YG
 URL:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260902T030500Z
+UID:pandascore-match-1666474@esport-ics
+DTSTART:20260902T030500Z
+DTEND:20260902T052000Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Team Kinetix vs YG
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260902T060000Z
 UID:pandascore-match-1665206@esport-ics
 DTSTART:20260902T060000Z
