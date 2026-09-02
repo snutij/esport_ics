@@ -643,4 +643,15 @@ DESCRIPTION:Stake Ranked - Episode 4: Closed Qualifier 2026 - Playoffs\nWat
 SUMMARY:Round of 16 match 6: FOKUS vs SIN
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T170000Z
+UID:pandascore-match-1651271@esport-ics
+DTSTART:20260904T170000Z
+DTEND:20260904T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/connect_en
+SUMMARY:Quarterfinal 4: SIN vs TBD
+URL;VALUE=URI:https://www.twitch.tv/connect_en
+END:VEVENT
 END:VCALENDAR

@@ -778,7 +778,7 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/Trottah
 SUMMARY:Upper bracket round 1 match 6: HOTU vs paiN
-URL;VALUE=URI:https://www.twitch.tv/Trottah
+URL:https://www.twitch.tv/Trottah
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260903T110000Z
@@ -788,7 +788,7 @@ DTEND:20260903T131500Z
 CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Playoffs\nWatch: https:
  //kick.com/nodwin_cs2
-SUMMARY:Semifinal 2: HOTU vs TBD
+SUMMARY:Semifinal 2: HOTU vs NEM
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT

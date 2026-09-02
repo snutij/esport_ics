@@ -762,7 +762,7 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /kick.com/dutchboycasts
 SUMMARY:Upper bracket round 1 match 1: MIBR vs EF
-URL;VALUE=URI:https://kick.com/dutchboycasts
+URL:https://kick.com/dutchboycasts
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260902T110000Z
@@ -773,7 +773,18 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/connect_en
 SUMMARY:Round of 16 match 5: INF vs EF
-URL;VALUE=URI:https://www.twitch.tv/connect_en
+URL:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T150000Z
+UID:pandascore-match-1643637@esport-ics
+DTSTART:20260902T150000Z
+DTEND:20260902T171500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/vanfantv
+SUMMARY:Upper bracket quarterfinal 1: EF vs HERO
+URL;VALUE=URI:https://www.twitch.tv/vanfantv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260904T113000Z

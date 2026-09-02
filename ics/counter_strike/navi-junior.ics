@@ -626,7 +626,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group C\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:NAVI.J vs TRAIN
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260903T173000Z
@@ -636,5 +636,16 @@ DTEND:20260903T194500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 13: NAVI.J vs SDF
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T103000Z
+UID:pandascore-match-1658046@esport-ics
+DTSTART:20260906T103000Z
+DTEND:20260906T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group C\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Winners match: NAVI.J vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

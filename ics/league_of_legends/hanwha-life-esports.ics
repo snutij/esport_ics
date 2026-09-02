@@ -533,6 +533,16 @@ DTEND:20260902T114500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
 SUMMARY:Upper bracket semifinal 2: HLE vs T1
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T080000Z
+UID:pandascore-match-1642157@esport-ics
+DTSTART:20260905T080000Z
+DTEND:20260905T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
+SUMMARY:Upper bracket final: GEN vs HLE
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 END:VCALENDAR
