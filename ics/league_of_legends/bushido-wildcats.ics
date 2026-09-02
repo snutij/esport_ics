@@ -245,6 +245,17 @@ CLASS:PUBLIC
 DESCRIPTION:TCL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
  gamesturkish
 SUMMARY:Upper bracket final: BW vs SU
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T150000Z
+UID:pandascore-match-1639626@esport-ics
+DTSTART:20260911T150000Z
+DTEND:20260911T184500Z
+CLASS:PUBLIC
+DESCRIPTION:TCL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/riot
+ gamesturkish
+SUMMARY:Grand final: BW vs TBD
 URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
 END:VEVENT
 END:VCALENDAR

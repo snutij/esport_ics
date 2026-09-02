@@ -743,4 +743,13 @@ DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group B\nWatch:
 SUMMARY:Winners match: FAL.F vs MISA
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T173000Z
+UID:pandascore-match-1664500@esport-ics
+DTSTART:20260905T173000Z
+DTEND:20260905T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+SUMMARY:Upper bracket round 2 match 6: FAL.F vs ZOTIX
+END:VEVENT
 END:VCALENDAR

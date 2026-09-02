@@ -188,6 +188,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group C\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:PERM vs MEGO
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T103000Z
+UID:pandascore-match-1658046@esport-ics
+DTSTART:20260906T103000Z
+DTEND:20260906T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group C\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Winners match: NAVI.J vs PERM
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

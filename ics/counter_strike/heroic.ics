@@ -606,6 +606,15 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/vanfantv
 SUMMARY:Upper bracket quarterfinal 1: EF vs HERO
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T120000Z
+UID:pandascore-match-1643651@esport-ics
+DTSTART:20260903T120000Z
+DTEND:20260903T141500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 4: HERO vs TBD
 END:VEVENT
 END:VCALENDAR

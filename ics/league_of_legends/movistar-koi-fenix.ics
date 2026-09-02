@@ -291,6 +291,17 @@ CLASS:PUBLIC
 DESCRIPTION:LES - Summer 2026 - Final Four\nWatch: https://www.twitch.tv/LE
  S
 SUMMARY:Round 2: MKF vs UCAM
+URL:https://www.twitch.tv/LES
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T100000Z
+UID:pandascore-match-1646876@esport-ics
+DTSTART:20260906T100000Z
+DTEND:20260906T134500Z
+CLASS:PUBLIC
+DESCRIPTION:LES - Summer 2026 - Final Four\nWatch: https://www.twitch.tv/LE
+ S
+SUMMARY:Grand final: HRTS vs MKF
 URL;VALUE=URI:https://www.twitch.tv/LES
 END:VEVENT
 END:VCALENDAR
