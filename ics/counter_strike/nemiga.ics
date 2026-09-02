@@ -868,4 +868,13 @@ DESCRIPTION:Stake Ranked - Episode 4: Closed Qualifier 2026 - Playoffs\nWat
 SUMMARY:Round of 16 match 7: IS vs NEMI
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T120000Z
+UID:pandascore-match-1643649@esport-ics
+DTSTART:20260903T120000Z
+DTEND:20260903T141500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 2: K27 vs NEMI
+END:VEVENT
 END:VCALENDAR

@@ -559,4 +559,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 6: banda chuya vs B8.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T173000Z
+UID:pandascore-match-1664511@esport-ics
+DTSTART:20260905T173000Z
+DTEND:20260905T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 3: MISA vs B8.A
+END:VEVENT
 END:VCALENDAR
