@@ -520,6 +520,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/Trottah
 SUMMARY:Upper bracket round 1 match 6: HOTU vs paiN
-URL;VALUE=URI:https://www.twitch.tv/Trottah
+URL:https://www.twitch.tv/Trottah
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T180000Z
+UID:pandascore-match-1643646@esport-ics
+DTSTART:20260902T180000Z
+DTEND:20260902T201500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/sneakybeakyttv
+SUMMARY:Lower bracket round 1 match 3: paiN vs BIG
+URL;VALUE=URI:https://www.twitch.tv/sneakybeakyttv
 END:VEVENT
 END:VCALENDAR

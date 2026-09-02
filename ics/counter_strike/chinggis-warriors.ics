@@ -467,6 +467,15 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Asian Qualifier 2026 - Playoffs\nWatch: ht
  tps://live.bilibili.com/21622808
 SUMMARY:Lower bracket quarterfinal 2: THE vs CW
-URL;VALUE=URI:https://live.bilibili.com/21622808
+URL:https://live.bilibili.com/21622808
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T050000Z
+UID:pandascore-match-1661704@esport-ics
+DTSTART:20260903T050000Z
+DTEND:20260903T071500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Asian Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket semifinal: NEXVOID vs CW
 END:VEVENT
 END:VCALENDAR

@@ -300,6 +300,17 @@ CLASS:PUBLIC
 DESCRIPTION:Rift Legends - Summer 2026 - Gauntlet Stage\nWatch: https://www
  .twitch.tv/nervarien
 SUMMARY:Round 2 match 3: BCE vs AE
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T150000Z
+UID:pandascore-match-1618197@esport-ics
+DTSTART:20260903T150000Z
+DTEND:20260903T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Gauntlet Stage\nWatch: https://www
+ .twitch.tv/nervarien
+SUMMARY:Round 3 match 2: DOC vs BCE
 URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR

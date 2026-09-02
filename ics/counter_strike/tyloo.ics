@@ -614,6 +614,17 @@ DESCRIPTION:IEM - Beijing: Asian Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 1: TYLOO vs DEPO
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260903T090000Z
+UID:pandascore-match-1658092@esport-ics
+DTSTART:20260903T090000Z
+DTEND:20260903T111500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Asian Qualifier 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/ESLCS
+SUMMARY:Upper bracket final: TYLOO vs RA
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260908T090000Z
 UID:pandascore-match-1654285@esport-ics
 DTSTART:20260908T090000Z
