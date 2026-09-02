@@ -311,7 +311,7 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Philippines - Season 18 2026 - Regular Season\nWatch: https
  ://www.youtube.com/@MLBBeSports/live
 SUMMARY:ONPH vs AR
-URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
+URL:https://www.youtube.com/@MLBBeSports/live
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260926T113000Z
@@ -347,10 +347,10 @@ SUMMARY:ONPH vs AR
 URL;VALUE=URI:https://www.youtube.com/@MLBBeSports/live
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261008T110000Z
+DTSTAMP:20261008T113000Z
 UID:pandascore-match-1624747@esport-ics
-DTSTART:20261008T110000Z
-DTEND:20261008T131500Z
+DTSTART:20261008T113000Z
+DTEND:20261008T134500Z
 CLASS:PUBLIC
 DESCRIPTION:MPL Philippines - Season 18 2026 - Regular Season\nWatch: https
  ://www.youtube.com/@MLBBeSports/live

@@ -459,7 +459,16 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Asian Qualifier 2026 - Playoffs\nWatch: https://
  www.twitch.tv/ESLCS
 SUMMARY:Upper bracket quarterfinal 4: RA vs LVG
-URL;VALUE=URI:https://www.twitch.tv/ESLCS
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T120000Z
+UID:pandascore-match-1658091@esport-ics
+DTSTART:20260902T120000Z
+DTEND:20260902T141500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Asian Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 2: RA vs FLY
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260902T123000Z
@@ -467,9 +476,7 @@ UID:pandascore-match-1661703@esport-ics
 DTSTART:20260902T123000Z
 DTEND:20260902T144500Z
 CLASS:PUBLIC
-DESCRIPTION:FISSURE PLAYGROUND - Asian Qualifier 2026 - Playoffs\nWatch: ht
- tps://live.bilibili.com/21622808
+DESCRIPTION:FISSURE PLAYGROUND - Asian Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket final: RA vs 5S
-URL;VALUE=URI:https://live.bilibili.com/21622808
 END:VEVENT
 END:VCALENDAR

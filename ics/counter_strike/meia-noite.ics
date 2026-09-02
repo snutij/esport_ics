@@ -176,6 +176,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 5 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 4: PCY vs MEIA NOITE
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260902T160000Z
+UID:pandascore-match-1645111@esport-ics
+DTSTART:20260902T160000Z
+DTEND:20260902T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 5 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 5: GRE vs MEIA NOITE
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

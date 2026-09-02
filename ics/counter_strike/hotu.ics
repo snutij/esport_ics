@@ -767,7 +767,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Playoffs\nWatch: https:
  //kick.com/nodwin_cs2
 SUMMARY:Quarterfinal 4: HOTU vs NTR
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260902T120000Z
@@ -775,8 +775,21 @@ UID:pandascore-match-1643634@esport-ics
 DTSTART:20260902T120000Z
 DTEND:20260902T141500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/Trottah
 SUMMARY:Upper bracket round 1 match 6: HOTU vs paiN
+URL;VALUE=URI:https://www.twitch.tv/Trottah
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T110000Z
+UID:pandascore-match-1633305@esport-ics
+DTSTART:20260903T110000Z
+DTEND:20260903T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Playoffs\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:Semifinal 2: HOTU vs TBD
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260904T113000Z

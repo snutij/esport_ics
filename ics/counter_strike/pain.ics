@@ -517,7 +517,9 @@ UID:pandascore-match-1643634@esport-ics
 DTSTART:20260902T120000Z
 DTEND:20260902T141500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/Trottah
 SUMMARY:Upper bracket round 1 match 6: HOTU vs paiN
+URL;VALUE=URI:https://www.twitch.tv/Trottah
 END:VEVENT
 END:VCALENDAR

@@ -176,7 +176,9 @@ UID:pandascore-match-1643636@esport-ics
 DTSTART:20260902T120000Z
 DTEND:20260902T141500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /kick.com/dutchboycasts
 SUMMARY:Upper bracket round 1 match 8: Color vs B8
+URL;VALUE=URI:https://kick.com/dutchboycasts
 END:VEVENT
 END:VCALENDAR
