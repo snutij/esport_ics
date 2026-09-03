@@ -874,7 +874,9 @@ UID:pandascore-match-1643649@esport-ics
 DTSTART:20260903T120000Z
 DTEND:20260903T141500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /kick.com/dutchboycasts
 SUMMARY:Lower bracket round 2 match 2: K27 vs NEMI
+URL;VALUE=URI:https://kick.com/dutchboycasts
 END:VEVENT
 END:VCALENDAR

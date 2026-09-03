@@ -550,7 +550,9 @@ UID:pandascore-match-1643648@esport-ics
 DTSTART:20260903T120000Z
 DTEND:20260903T141500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/esportstudion
 SUMMARY:Lower bracket round 2 match 1: MIBR vs EYE
+URL;VALUE=URI:https://www.twitch.tv/esportstudion
 END:VEVENT
 END:VCALENDAR

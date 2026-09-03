@@ -198,7 +198,9 @@ UID:pandascore-match-1643651@esport-ics
 DTSTART:20260903T120000Z
 DTEND:20260903T141500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/sneakybeakyttv
 SUMMARY:Lower bracket round 2 match 4: HERO vs Color
+URL;VALUE=URI:https://www.twitch.tv/sneakybeakyttv
 END:VEVENT
 END:VCALENDAR
