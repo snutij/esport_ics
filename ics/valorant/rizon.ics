@@ -116,14 +116,14 @@ SUMMARY:Upper bracket quarterfinal 3: ATTAX vs RZN
 URL:https://www.twitch.tv/valorantleague_dach
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T150000Z
+DTSTAMP:20260904T180000Z
 UID:pandascore-match-1661575@esport-ics
-DTSTART:20260904T150000Z
-DTEND:20260904T171500Z
+DTSTART:20260904T180000Z
+DTEND:20260904T201500Z
 CLASS:PUBLIC
 DESCRIPTION:THE POKAL - 2026 - Playoffs\nWatch: https://www.twitch.tv/valor
  antleague_dach
-SUMMARY:Upper bracket semifinal 2: RZN vs TBD
+SUMMARY:Upper bracket semifinal 2: RZN vs TSE
 URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
 END:VEVENT
 END:VCALENDAR

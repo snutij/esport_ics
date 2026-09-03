@@ -452,6 +452,15 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group A\nWatch: https://www.twitch.t
  v/EWC_Plus_EN2
 SUMMARY:Lower bracket semifinal 2: JJH vs AUR
-URL;VALUE=URI:https://www.twitch.tv/EWC_Plus_EN2
+URL:https://www.twitch.tv/EWC_Plus_EN2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T140000Z
+UID:pandascore-match-1669796@esport-ics
+DTSTART:20260904T140000Z
+DTEND:20260904T144500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - European Open Qualifier #1 2026 - Playoffs
+SUMMARY:Round 16 match 4: JJH vs 33
 END:VEVENT
 END:VCALENDAR

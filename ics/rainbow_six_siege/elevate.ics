@@ -130,8 +130,10 @@ UID:pandascore-match-1660911@esport-ics
 DTSTART:20260904T110000Z
 DTEND:20260904T114500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
 SUMMARY:TO vs ELV
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T110000Z

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SGE & Friends
+SLUG:sge-friends
+BEGIN:VEVENT
+DTSTAMP:20260904T150000Z
+UID:pandascore-match-1661585@esport-ics
+DTSTART:20260904T150000Z
+DTEND:20260904T171500Z
+CLASS:PUBLIC
+DESCRIPTION:THE POKAL - 2026 - Playoffs\nWatch: https://www.twitch.tv/valor
+ antleague_dach
+SUMMARY:Lower bracket round 2 match 4: BERG vs SGE & Friends
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+END:VCALENDAR

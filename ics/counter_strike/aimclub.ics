@@ -624,6 +624,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #7 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs4
 SUMMARY:Grand final: AIMC vs TBD
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T140000Z
+UID:pandascore-match-1669793@esport-ics
+DTSTART:20260904T140000Z
+DTEND:20260904T144500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - European Open Qualifier #1 2026 - Playoffs
+SUMMARY:Round 16 match 1: FOKUS vs AIMC
 END:VEVENT
 END:VCALENDAR

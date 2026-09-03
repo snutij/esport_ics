@@ -542,17 +542,6 @@ SUMMARY:Y123 vs IAC
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T030000Z
-UID:pandascore-match-1665210@esport-ics
-DTSTART:20260904T030000Z
-DTEND:20260904T051500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:Dfam vs IAC
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260905T060000Z
 UID:pandascore-match-1665214@esport-ics
 DTSTART:20260905T060000Z
@@ -582,7 +571,18 @@ DTEND:20260907T081500Z
 CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
-SUMMARY:IAC vs CR
+SUMMARY:CARST vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T030000Z
+UID:pandascore-match-1665210@esport-ics
+DTSTART:20260908T030000Z
+DTEND:20260908T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Dfam vs IAC
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

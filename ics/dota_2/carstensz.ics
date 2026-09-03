@@ -640,6 +640,83 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 16 2026 - Playoffs\nWa
  tch: https://kick.com/epldota_en1
 SUMMARY:Grand final: DB vs CARST
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T030000Z
+UID:pandascore-match-1665216@esport-ics
+DTSTART:20260906T030000Z
+DTEND:20260906T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T060000Z
+UID:pandascore-match-1665209@esport-ics
+DTSTART:20260907T060000Z
+DTEND:20260907T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T090000Z
+UID:pandascore-match-1665221@esport-ics
+DTSTART:20260907T090000Z
+DTEND:20260907T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs Dfam
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T060000Z
+UID:pandascore-match-1665225@esport-ics
+DTSTART:20260908T060000Z
+DTEND:20260908T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs DB
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T030000Z
+UID:pandascore-match-1665228@esport-ics
+DTSTART:20260909T030000Z
+DTEND:20260909T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Nem vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T030000Z
+UID:pandascore-match-1665232@esport-ics
+DTSTART:20260910T030000Z
+DTEND:20260910T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CARST vs Team Kinetix
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T090000Z
+UID:pandascore-match-1665238@esport-ics
+DTSTART:20260910T090000Z
+DTEND:20260910T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Y123 vs CARST
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR
