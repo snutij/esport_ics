@@ -179,8 +179,10 @@ UID:pandascore-match-1660860@esport-ics
 DTSTART:20260908T080000Z
 DTEND:20260908T084500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:Shaiikademy vs 7VEN
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260914T090000Z
@@ -188,8 +190,10 @@ UID:pandascore-match-1660865@esport-ics
 DTSTART:20260914T090000Z
 DTEND:20260914T094500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:Shaiikademy vs EP
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260915T080000Z
@@ -197,8 +201,10 @@ UID:pandascore-match-1660868@esport-ics
 DTSTART:20260915T080000Z
 DTEND:20260915T084500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:ARC vs Shaiikademy
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260921T090000Z
@@ -206,8 +212,10 @@ UID:pandascore-match-1660873@esport-ics
 DTSTART:20260921T090000Z
 DTEND:20260921T094500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:CS vs Shaiikademy
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T080000Z
@@ -215,7 +223,9 @@ UID:pandascore-match-1660876@esport-ics
 DTSTART:20260922T080000Z
 DTEND:20260922T084500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:Shaiikademy vs MAN
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

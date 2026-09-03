@@ -333,6 +333,17 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Summer 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/hok_esports_kpl
 SUMMARY:Lower bracket quarterfinal 2: TTG vs AG.SP
+URL:https://www.twitch.tv/hok_esports_kpl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T103000Z
+UID:pandascore-match-1643666@esport-ics
+DTSTART:20260905T103000Z
+DTEND:20260905T154500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Summer 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/hok_esports_kpl
+SUMMARY:Lower bracket semifinal: TES.A vs TTG
 URL;VALUE=URI:https://www.twitch.tv/hok_esports_kpl
 END:VEVENT
 END:VCALENDAR

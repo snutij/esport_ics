@@ -325,8 +325,10 @@ UID:pandascore-match-1660961@esport-ics
 DTSTART:20260917T130000Z
 DTEND:20260917T134500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
 SUMMARY:TO vs WBG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260923T120000Z
@@ -334,8 +336,10 @@ UID:pandascore-match-1660964@esport-ics
 DTSTART:20260923T120000Z
 DTEND:20260923T124500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
 SUMMARY:WBG vs ELV
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260924T130000Z
@@ -343,7 +347,9 @@ UID:pandascore-match-1660969@esport-ics
 DTSTART:20260924T130000Z
 DTEND:20260924T134500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
 SUMMARY:WBG vs DAY
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

@@ -444,6 +444,17 @@ CLASS:PUBLIC
 DESCRIPTION:Kibertochka - Season 2 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/kibertochkaofficial
 SUMMARY:Lower bracket final: ex-RUSTEC vs TS.A
-URL;VALUE=URI:https://www.twitch.tv/kibertochkaofficial
+URL:https://www.twitch.tv/kibertochkaofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T110000Z
+UID:pandascore-match-1669114@esport-ics
+DTSTART:20260905T110000Z
+DTEND:20260905T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper Bracket Round 1 Match 1: BW vs TS.A
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

@@ -922,4 +922,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
 SUMMARY:Upper bracket round 1 match 3: BJNG vs IC.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T134500Z
+UID:pandascore-match-1669116@esport-ics
+DTSTART:20260905T134500Z
+DTEND:20260905T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper Bracket Round 1 Match 4: IC.A vs PG
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
 END:VCALENDAR

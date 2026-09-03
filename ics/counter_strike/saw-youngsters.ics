@@ -267,6 +267,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Group D\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:Decider match: SAW.Y vs Honvéd
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T110000Z
+UID:pandascore-match-1669118@esport-ics
+DTSTART:20260906T110000Z
+DTEND:20260906T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper Bracket Round 1 Match 6: SAW.Y vs MISA
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

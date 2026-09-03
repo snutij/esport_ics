@@ -280,8 +280,10 @@ UID:pandascore-match-1660858@esport-ics
 DTSTART:20260907T100000Z
 DTEND:20260907T104500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:CS vs EP
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260908T100000Z
@@ -289,8 +291,10 @@ UID:pandascore-match-1660862@esport-ics
 DTSTART:20260908T100000Z
 DTEND:20260908T104500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:MAN vs EP
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260914T090000Z
@@ -298,8 +302,10 @@ UID:pandascore-match-1660865@esport-ics
 DTSTART:20260914T090000Z
 DTEND:20260914T094500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:Shaiikademy vs EP
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260915T110000Z
@@ -307,8 +313,10 @@ UID:pandascore-match-1660871@esport-ics
 DTSTART:20260915T110000Z
 DTEND:20260915T114500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:EP vs CHF
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260921T100000Z
@@ -316,8 +324,10 @@ UID:pandascore-match-1660874@esport-ics
 DTSTART:20260921T100000Z
 DTEND:20260921T104500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:EP vs 7VEN
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T100000Z
@@ -325,7 +335,9 @@ UID:pandascore-match-1660878@esport-ics
 DTSTART:20260922T100000Z
 DTEND:20260922T104500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:ARC vs EP
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

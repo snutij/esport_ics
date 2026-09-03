@@ -942,6 +942,17 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/connect_en
 SUMMARY:Round of 16 match 2: NVQ vs RE
+URL:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T080000Z
+UID:pandascore-match-1651268@esport-ics
+DTSTART:20260904T080000Z
+DTEND:20260904T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/connect_en
+SUMMARY:Quarterfinal 1: 9INE vs RE
 URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR

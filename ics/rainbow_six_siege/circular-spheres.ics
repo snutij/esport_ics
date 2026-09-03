@@ -20,8 +20,10 @@ UID:pandascore-match-1660858@esport-ics
 DTSTART:20260907T100000Z
 DTEND:20260907T104500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:CS vs EP
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260908T090000Z
@@ -38,8 +40,10 @@ UID:pandascore-match-1660867@esport-ics
 DTSTART:20260914T110000Z
 DTEND:20260914T114500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:CHF vs CS
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260915T100000Z
@@ -47,8 +51,10 @@ UID:pandascore-match-1660870@esport-ics
 DTSTART:20260915T100000Z
 DTEND:20260915T104500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:CS vs MAN
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260921T090000Z
@@ -56,8 +62,10 @@ UID:pandascore-match-1660873@esport-ics
 DTSTART:20260921T090000Z
 DTEND:20260921T094500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:CS vs Shaiikademy
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T090000Z
@@ -65,7 +73,9 @@ UID:pandascore-match-1660877@esport-ics
 DTSTART:20260922T090000Z
 DTEND:20260922T094500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Oceania - Stage 2 2026 - Group Stage\nWat
+ ch: https://www.twitch.tv/rainbow6
 SUMMARY:7VEN vs CS
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

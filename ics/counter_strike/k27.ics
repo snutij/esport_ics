@@ -905,6 +905,15 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /kick.com/dutchboycasts
 SUMMARY:Lower bracket round 2 match 2: K27 vs NEMI
-URL;VALUE=URI:https://kick.com/dutchboycasts
+URL:https://kick.com/dutchboycasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T180000Z
+UID:pandascore-match-1643654@esport-ics
+DTSTART:20260903T180000Z
+DTEND:20260903T201500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: K27 vs EF
 END:VEVENT
 END:VCALENDAR

@@ -795,7 +795,16 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/vanfantv
 SUMMARY:Upper bracket semifinal 1: NTR vs EF
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T180000Z
+UID:pandascore-match-1643654@esport-ics
+DTSTART:20260903T180000Z
+DTEND:20260903T201500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: K27 vs EF
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260904T113000Z
