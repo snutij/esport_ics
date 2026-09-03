@@ -559,6 +559,16 @@ DTEND:20260903T114500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
 SUMMARY:Lower bracket round 1: BFX vs DK
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T080000Z
+UID:pandascore-match-1642161@esport-ics
+DTSTART:20260904T080000Z
+DTEND:20260904T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
+SUMMARY:Lower bracket round 2: KT vs DK
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 END:VCALENDAR

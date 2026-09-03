@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group D\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:VEX vs Morrow Esports
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260905T173000Z
@@ -24,5 +24,16 @@ DTEND:20260905T194500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 5: LPH vs Morrow Esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T080000Z
+UID:pandascore-match-1658066@esport-ics
+DTSTART:20260907T080000Z
+DTEND:20260907T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group D\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Elimination match: FOR vs Morrow Esports
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

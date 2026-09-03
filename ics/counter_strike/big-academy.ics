@@ -822,6 +822,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group D\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:FOR vs BIG.A
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T103000Z
+UID:pandascore-match-1658067@esport-ics
+DTSTART:20260907T103000Z
+DTEND:20260907T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group D\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Winners match: BIG.A vs VEX
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT

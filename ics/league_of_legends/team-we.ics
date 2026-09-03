@@ -467,6 +467,17 @@ CLASS:PUBLIC
 DESCRIPTION:LPL - Split 3 2026 - Playoffs\nWatch: https://www.twitch.tv/lpl
  english
 SUMMARY:Upper bracket semifinal 2: BLG vs WE
+URL:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T060000Z
+UID:pandascore-match-1643096@esport-ics
+DTSTART:20260906T060000Z
+DTEND:20260906T094500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Split 3 2026 - Playoffs\nWatch: https://www.twitch.tv/lpl
+ english
+SUMMARY:Lower bracket quarterfinal 1: WE vs TBD
 URL;VALUE=URI:https://www.twitch.tv/lplenglish
 END:VEVENT
 END:VCALENDAR
