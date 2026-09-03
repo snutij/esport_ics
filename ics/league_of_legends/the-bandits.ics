@@ -265,6 +265,17 @@ CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Summer 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/road_of_legends
 SUMMARY:Lower bracket quarterfinal 2: BAN vs ZNT
+URL:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T160000Z
+UID:pandascore-match-1662553@esport-ics
+DTSTART:20260910T160000Z
+DTEND:20260910T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Summer 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/road_of_legends
+SUMMARY:Lower bracket semifinal: SEC vs BAN
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 END:VCALENDAR

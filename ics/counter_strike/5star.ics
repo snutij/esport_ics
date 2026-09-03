@@ -268,6 +268,17 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Asian Qualifier 2026 - Playoffs\nWatch: ht
  tps://live.bilibili.com/21622808
 SUMMARY:Grand final: 5S vs TBD
-URL;VALUE=URI:https://live.bilibili.com/21622808
+URL:https://live.bilibili.com/21622808
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T030000Z
+UID:pandascore-match-1654283@esport-ics
+DTSTART:20260908T030000Z
+DTEND:20260908T051500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/fissure_cs_eng
+SUMMARY:Upper bracket quarterfinal 1: 9z vs 5S
+URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
 END:VEVENT
 END:VCALENDAR
