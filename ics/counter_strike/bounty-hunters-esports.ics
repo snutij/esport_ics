@@ -918,6 +918,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
  layoffs\nWatch: https://kick.com/tris_mara
 SUMMARY:Lower bracket round 2 match 3: BHE vs TdP
-URL;VALUE=URI:https://kick.com/tris_mara
+URL:https://kick.com/tris_mara
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T160000Z
+UID:pandascore-match-1645118@esport-ics
+DTSTART:20260903T160000Z
+DTEND:20260903T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 5 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs3
+SUMMARY:Round of 16 match 5: BHE vs MEIA NOITE
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
