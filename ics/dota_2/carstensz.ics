@@ -643,6 +643,17 @@ SUMMARY:Grand final: DB vs CARST
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260905T060000Z
+UID:pandascore-match-1665228@esport-ics
+DTSTART:20260905T060000Z
+DTEND:20260905T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Nem vs CARST
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260906T030000Z
 UID:pandascore-match-1665216@esport-ics
 DTSTART:20260906T030000Z
@@ -684,17 +695,6 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:CARST vs DB
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260909T030000Z
-UID:pandascore-match-1665228@esport-ics
-DTSTART:20260909T030000Z
-DTEND:20260909T051500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:Nem vs CARST
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT

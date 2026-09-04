@@ -516,6 +516,17 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/connect_en
 SUMMARY:Quarterfinal 1: 9INE vs RE
+URL:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T140000Z
+UID:pandascore-match-1651272@esport-ics
+DTSTART:20260905T140000Z
+DTEND:20260905T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/connect_en
+SUMMARY:Semifinal 1: 9INE vs TBD
 URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR

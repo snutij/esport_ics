@@ -210,7 +210,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
   https://www.twitch.tv/rainbow6
 SUMMARY:LO vs DAY
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T130000Z
@@ -220,7 +220,7 @@ DTEND:20260909T134500Z
 CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
   https://www.twitch.tv/rainbow6
-SUMMARY:DAY vs Ex-Team Orchid
+SUMMARY:DAY vs Sharper
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT

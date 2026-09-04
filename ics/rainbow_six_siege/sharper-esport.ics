@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sharper Esport
+SLUG:sharper-esport
+BEGIN:VEVENT
+DTSTAMP:20260909T130000Z
+UID:pandascore-match-1660917@esport-ics
+DTSTART:20260909T130000Z
+DTEND:20260909T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
+SUMMARY:DAY vs Sharper
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T120000Z
+UID:pandascore-match-1660920@esport-ics
+DTSTART:20260910T120000Z
+DTEND:20260910T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage
+SUMMARY:Sharper vs 999
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T110000Z
+UID:pandascore-match-1660929@esport-ics
+DTSTART:20260916T110000Z
+DTEND:20260916T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
+SUMMARY:DE vs Sharper
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T130000Z
+UID:pandascore-match-1660961@esport-ics
+DTSTART:20260917T130000Z
+DTEND:20260917T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
+SUMMARY:Sharper vs WBG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T100000Z
+UID:pandascore-match-1660962@esport-ics
+DTSTART:20260923T100000Z
+DTEND:20260923T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage
+SUMMARY:LO vs Sharper
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T120000Z
+UID:pandascore-match-1660968@esport-ics
+DTSTART:20260924T120000Z
+DTEND:20260924T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
+SUMMARY:Sharper vs FURY
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
+END:VCALENDAR

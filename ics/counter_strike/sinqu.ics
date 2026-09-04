@@ -437,6 +437,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group A\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Winners match: SINQU vs mellren
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T080000Z
+UID:pandascore-match-1658037@esport-ics
+DTSTART:20260909T080000Z
+DTEND:20260909T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group A\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Decider match: FF vs SINQU
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

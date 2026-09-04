@@ -646,7 +646,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group C\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Winners match: NAVI.J vs PERM
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260905T173000Z
@@ -655,7 +655,7 @@ DTSTART:20260905T173000Z
 DTEND:20260905T194500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
-SUMMARY:Upper bracket round 2 match 7: BG vs NAVI.J
+SUMMARY:Upper bracket round 2 match 7: NAVI.J vs BG
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260906T110000Z

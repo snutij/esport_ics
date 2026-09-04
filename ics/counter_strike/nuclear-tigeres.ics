@@ -913,8 +913,19 @@ DTSTART:20260904T150000Z
 DTEND:20260904T171500Z
 CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
- /www.twitch.tv/watchfulTVb
+ /www.twitch.tv/eslcs
 SUMMARY:Upper bracket final: B8 vs NTR
-URL;VALUE=URI:https://www.twitch.tv/watchfulTVb
+URL;VALUE=URI:https://www.twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T143000Z
+UID:pandascore-match-1664393@esport-ics
+DTSTART:20260905T143000Z
+DTEND:20260905T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 4: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Quarterfinal 1: NIP vs NTR
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
