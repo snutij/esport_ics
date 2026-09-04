@@ -481,6 +481,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - Porto Fall 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/blastpremier
 SUMMARY:Quarterfinal 2: FURIA vs VIT
+URL:https://www.twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T173000Z
+UID:pandascore-match-1640214@esport-ics
+DTSTART:20260905T173000Z
+DTEND:20260905T194500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Porto Fall 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/blastpremier
+SUMMARY:Semifinal 2: MOUZ vs VIT
 URL;VALUE=URI:https://www.twitch.tv/blastpremier
 END:VEVENT
 END:VCALENDAR

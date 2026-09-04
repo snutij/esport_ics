@@ -646,14 +646,14 @@ SUMMARY:Quarterfinal 4: SIN vs QUA
 URL:https://www.twitch.tv/connect_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260905T170000Z
+DTSTAMP:20260905T110000Z
 UID:pandascore-match-1651273@esport-ics
-DTSTART:20260905T170000Z
-DTEND:20260905T191500Z
+DTSTART:20260905T110000Z
+DTEND:20260905T131500Z
 CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/connect_en
-SUMMARY:Semifinal 2: QUA vs TBD
+SUMMARY:Semifinal 2: INF vs QUA
 URL;VALUE=URI:https://www.twitch.tv/connect_en
 END:VEVENT
 END:VCALENDAR
