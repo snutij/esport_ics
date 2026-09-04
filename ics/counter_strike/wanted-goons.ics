@@ -192,7 +192,9 @@ UID:pandascore-match-1669694@esport-ics
 DTSTART:20260905T010000Z
 DTEND:20260905T014500Z
 CLASS:PUBLIC
-DESCRIPTION:NSTLGA League - Season 2 2026 - Group Stage
+DESCRIPTION:NSTLGA League - Season 2 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/iowastormboar
 SUMMARY:Round 2: IOWA vs WG
+URL;VALUE=URI:https://www.twitch.tv/iowastormboar
 END:VEVENT
 END:VCALENDAR

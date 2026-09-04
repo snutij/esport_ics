@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:Rift Legends - Summer 2026 - Gauntlet Stage\nWatch: https://www
  .twitch.tv/nervarien
 SUMMARY:Round 3 match 1: LDS vs DV1
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T150000Z
+UID:pandascore-match-1618199@esport-ics
+DTSTART:20260908T150000Z
+DTEND:20260908T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Rift Legends - Summer 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/nervarien
+SUMMARY:Lower bracket semifinal: DV1 vs LDS
 URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR
