@@ -52,8 +52,10 @@ UID:pandascore-match-1669698@esport-ics
 DTSTART:20260905T000000Z
 DTEND:20260905T004500Z
 CLASS:PUBLIC
-DESCRIPTION:NSTLGA League - Season 2 2026 - Group Stage
+DESCRIPTION:NSTLGA League - Season 2 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/sv_theunknown
 SUMMARY:Round 2: VIL vs OT
+URL;VALUE=URI:https://www.twitch.tv/sv_theunknown
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260905T010000Z

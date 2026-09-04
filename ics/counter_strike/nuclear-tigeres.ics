@@ -904,7 +904,7 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 4: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round of 16 match 2: INF vs NTR
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260904T150000Z
@@ -912,7 +912,9 @@ UID:pandascore-match-1643643@esport-ics
 DTSTART:20260904T150000Z
 DTEND:20260904T171500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/watchfulTVb
 SUMMARY:Upper bracket final: B8 vs NTR
+URL;VALUE=URI:https://www.twitch.tv/watchfulTVb
 END:VEVENT
 END:VCALENDAR

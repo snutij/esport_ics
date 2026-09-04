@@ -52,7 +52,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
   https://www.twitch.tv/rainbow6
 SUMMARY:FURY vs DE
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T120000Z
@@ -60,8 +60,10 @@ UID:pandascore-match-1660916@esport-ics
 DTSTART:20260909T120000Z
 DTEND:20260909T124500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
 SUMMARY:WBG vs DE
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T100000Z
@@ -80,7 +82,7 @@ DTEND:20260916T114500Z
 CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
   https://www.twitch.tv/rainbow6
-SUMMARY:DE vs TO
+SUMMARY:DE vs Ex-Team Orchid
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
@@ -112,6 +114,6 @@ DTSTART:20260924T100000Z
 DTEND:20260924T104500Z
 CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage
-SUMMARY:ex-ELV APA vs DE
+SUMMARY:999 vs DE
 END:VEVENT
 END:VCALENDAR

@@ -132,7 +132,7 @@ DTEND:20260904T114500Z
 CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
   https://www.twitch.tv/rainbow6
-SUMMARY:TO vs ELV
+SUMMARY:Ex-Team Orchid vs ELV
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
@@ -141,8 +141,10 @@ UID:pandascore-match-1660915@esport-ics
 DTSTART:20260909T110000Z
 DTEND:20260909T114500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage\nWatch:
+  https://www.twitch.tv/rainbow6
 SUMMARY:ELV vs FURY
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T110000Z
@@ -162,7 +164,7 @@ DTSTART:20260916T100000Z
 DTEND:20260916T104500Z
 CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - Asia - Stage 2 2026 - Group Stage
-SUMMARY:ex-ELV APA vs ELV
+SUMMARY:999 vs ELV
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260917T110000Z

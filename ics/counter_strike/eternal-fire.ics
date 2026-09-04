@@ -823,7 +823,9 @@ UID:pandascore-match-1643656@esport-ics
 DTSTART:20260904T150000Z
 DTEND:20260904T171500Z
 CLASS:PUBLIC
-DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs
+DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/Trottah
 SUMMARY:Lower bracket semifinal: HERO vs EF
+URL;VALUE=URI:https://www.twitch.tv/Trottah
 END:VEVENT
 END:VCALENDAR
