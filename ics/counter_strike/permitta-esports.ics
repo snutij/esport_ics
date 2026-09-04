@@ -199,6 +199,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group C\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Winners match: NAVI.J vs PERM
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T080000Z
+UID:pandascore-match-1658047@esport-ics
+DTSTART:20260908T080000Z
+DTEND:20260908T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group C\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Decider match: PERM vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

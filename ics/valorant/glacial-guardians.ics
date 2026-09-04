@@ -36,4 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:THE POKAL - 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 3: GG vs SGE Vision
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T150000Z
+UID:pandascore-match-1661587@esport-ics
+DTSTART:20260905T150000Z
+DTEND:20260905T171500Z
+CLASS:PUBLIC
+DESCRIPTION:THE POKAL - 2026 - Playoffs\nWatch: https://www.twitch.tv/valor
+ antleague_dach
+SUMMARY:Lower bracket round 3 match 2: BERG vs GG
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
 END:VCALENDAR

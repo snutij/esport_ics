@@ -457,6 +457,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Open - Porto Fall 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/blastpremier
 SUMMARY:Quarterfinal 1: FAL vs G2
+URL:https://www.twitch.tv/blastpremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T140000Z
+UID:pandascore-match-1640213@esport-ics
+DTSTART:20260905T140000Z
+DTEND:20260905T161500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Open - Porto Fall 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/blastpremier
+SUMMARY:Semifinal 1: TS vs FAL
 URL;VALUE=URI:https://www.twitch.tv/blastpremier
 END:VEVENT
 END:VCALENDAR
