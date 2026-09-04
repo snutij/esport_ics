@@ -506,6 +506,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #1 season 52 2026 - P
  layoffs\nWatch: https://kick.com/locomas
 SUMMARY:Lower bracket semifinal: FXW7 vs SHIN
-URL;VALUE=URI:https://kick.com/locomas
+URL:https://kick.com/locomas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T220000Z
+UID:pandascore-match-1670347@esport-ics
+DTSTART:20260904T220000Z
+DTEND:20260905T001500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: South American Open Qualifier #1 2026 
+ - Playoffs
+SUMMARY:Quarterfinal 1: FXW7 vs Back to Back 
 END:VEVENT
 END:VCALENDAR
