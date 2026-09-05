@@ -253,6 +253,16 @@ DTEND:20260905T194500Z
 CLASS:PUBLIC
 DESCRIPTION:CBLOL - Split 2 2026 - Playoffs\nWatch: https://twitch.tv/cblol
 SUMMARY:Upper Bracket Quarterfinals 2: VKS vs PNG
+URL:https://twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T160000Z
+UID:pandascore-match-1662343@esport-ics
+DTSTART:20260919T160000Z
+DTEND:20260919T194500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Playoffs\nWatch: https://twitch.tv/cblol
+SUMMARY:Lower Bracket Round 1 : VKS vs TBD
 URL;VALUE=URI:https://twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

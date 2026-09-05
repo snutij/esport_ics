@@ -787,6 +787,15 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/watchfulTVc
 SUMMARY:Quarterfinal 3: NTR vs CS
-URL;VALUE=URI:https://www.twitch.tv/watchfulTVc
+URL:https://www.twitch.tv/watchfulTVc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T140000Z
+UID:pandascore-match-1673445@esport-ics
+DTSTART:20260906T140000Z
+DTEND:20260906T144500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - European Open Qualifier #2 2026 - Playoffs
+SUMMARY:Round of 16 match 8: SIN vs CS
 END:VEVENT
 END:VCALENDAR

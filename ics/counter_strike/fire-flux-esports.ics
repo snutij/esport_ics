@@ -975,4 +975,13 @@ DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group A\nWatch:
 SUMMARY:Decider match: FF vs SINQU
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T173000Z
+UID:pandascore-match-1664503@esport-ics
+DTSTART:20260909T173000Z
+DTEND:20260909T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: FF vs DRAMA
+END:VEVENT
 END:VCALENDAR
