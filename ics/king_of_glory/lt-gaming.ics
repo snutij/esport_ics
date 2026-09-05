@@ -432,6 +432,17 @@ CLASS:PUBLIC
 DESCRIPTION:KPL Growth League - Summer 2026 - Playoffs\nWatch: https://live
  .bilibili.com/21654762
 SUMMARY:Lower bracket round 1 match 2: LTG vs TCG
-URL;VALUE=URI:https://live.bilibili.com/21654762
+URL:https://live.bilibili.com/21654762
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T110000Z
+UID:pandascore-match-1544089@esport-ics
+DTSTART:20260907T110000Z
+DTEND:20260907T161500Z
+CLASS:PUBLIC
+DESCRIPTION:KPL Growth League - Summer 2026 - Playoffs\nWatch: https://weib
+ o.com/6723122187
+SUMMARY:Lower bracket quarterfinal 2: LTG vs TBD
+URL;VALUE=URI:https://weibo.com/6723122187
 END:VEVENT
 END:VCALENDAR

@@ -268,7 +268,9 @@ UID:pandascore-match-1664502@esport-ics
 DTSTART:20260905T173000Z
 DTEND:20260905T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/byalli
 SUMMARY:Upper bracket round 2 match 8: OLDBOYS PL vs WBT.A
+URL;VALUE=URI:https://www.twitch.tv/byalli
 END:VEVENT
 END:VCALENDAR

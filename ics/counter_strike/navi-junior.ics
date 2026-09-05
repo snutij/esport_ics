@@ -654,8 +654,10 @@ UID:pandascore-match-1664501@esport-ics
 DTSTART:20260905T173000Z
 DTEND:20260905T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/aidstarcs
 SUMMARY:Upper bracket round 2 match 7: NAVI.J vs BG
+URL;VALUE=URI:https://www.twitch.tv/aidstarcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260906T110000Z

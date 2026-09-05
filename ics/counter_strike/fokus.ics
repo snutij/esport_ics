@@ -720,6 +720,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 4: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Quarterfinal 3: HOTU vs FOKUS
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T123000Z
+UID:pandascore-match-1664401@esport-ics
+DTSTART:20260906T123000Z
+DTEND:20260906T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 4: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Semifinal 2: FOKUS vs TBD
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
