@@ -136,6 +136,15 @@ CLASS:PUBLIC
 DESCRIPTION:NSTLGA League - Season 2 2026 - Group Stage\nWatch: https://www
  .twitch.tv/nutorious_gg
 SUMMARY:Round 2: NT vs Beyond Limits
-URL;VALUE=URI:https://www.twitch.tv/nutorious_gg
+URL:https://www.twitch.tv/nutorious_gg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T010000Z
+UID:pandascore-match-1669709@esport-ics
+DTSTART:20260906T010000Z
+DTEND:20260906T031500Z
+CLASS:PUBLIC
+DESCRIPTION:NSTLGA League - Season 2 2026 - Group Stage
+SUMMARY:Round 3: REGAIN vs NT
 END:VEVENT
 END:VCALENDAR

@@ -825,6 +825,15 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Group A\nWatc
  h: https://www.twitch.tv/connect_en
 SUMMARY:Decider match: BMB vs EAC
-URL;VALUE=URI:https://www.twitch.tv/connect_en
+URL:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T130000Z
+UID:pandascore-match-1672221@esport-ics
+DTSTART:20260906T130000Z
+DTEND:20260906T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #6 season 52 2026 - Group B
+SUMMARY:BMB vs DM
 END:VEVENT
 END:VCALENDAR

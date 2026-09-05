@@ -948,6 +948,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #8 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs2
 SUMMARY:Round 2: MOUZ.N vs BW
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T130000Z
+UID:pandascore-match-1672227@esport-ics
+DTSTART:20260906T130000Z
+DTEND:20260906T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #6 season 52 2026 - Group C
+SUMMARY:MISA vs MOUZ.N
 END:VEVENT
 END:VCALENDAR
