@@ -318,6 +318,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Division 1 season 32 2026 - Playoffs\nWatch: 
  https://www.twitch.tv/dust2tv
 SUMMARY:Lower bracket semifinal: AAB.B vs WAZ
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T170000Z
+UID:pandascore-match-1673540@esport-ics
+DTSTART:20260907T170000Z
+DTEND:20260907T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group A\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:G2.A vs WAZ
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

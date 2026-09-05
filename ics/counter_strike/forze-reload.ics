@@ -488,6 +488,17 @@ CLASS:PUBLIC
 DESCRIPTION:Kibertochka - Season 2 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/kibertochkaofficial
 SUMMARY:Grand final: FORZE.R vs TBD
-URL;VALUE=URI:https://www.twitch.tv/kibertochkaofficial
+URL:https://www.twitch.tv/kibertochkaofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T090000Z
+UID:pandascore-match-1673517@esport-ics
+DTSTART:20260907T090000Z
+DTEND:20260907T111500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #1: Closed Qualifier 2026 - Playoffs\nWatch
+ : https://www.twitch.tv/1win_cs
+SUMMARY:Round 1 match 1: NEM vs FORZE.R
+URL;VALUE=URI:https://www.twitch.tv/1win_cs
 END:VEVENT
 END:VCALENDAR

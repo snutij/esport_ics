@@ -637,6 +637,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 4: Open Qualifier 2026 - Playoffs\nWatch
  : https://kick.com/arhavalcom
 SUMMARY:Round 2 match 3: EF vs ENCE
-URL;VALUE=URI:https://kick.com/arhavalcom
+URL:https://kick.com/arhavalcom
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T140000Z
+UID:pandascore-match-1673534@esport-ics
+DTSTART:20260907T140000Z
+DTEND:20260907T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group B\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:ENCE vs Entropy
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

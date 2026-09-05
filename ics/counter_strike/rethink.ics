@@ -721,6 +721,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 54 2026 - Group B\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: RT vs FaZe UN
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T140000Z
+UID:pandascore-match-1673538@esport-ics
+DTSTART:20260910T140000Z
+DTEND:20260910T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group C\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:RT vs MISA
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

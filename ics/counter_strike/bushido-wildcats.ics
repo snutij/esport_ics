@@ -1187,6 +1187,17 @@ SUMMARY:Upper Bracket Round 1 Match 1: BW vs TS.A
 URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260907T110000Z
+UID:pandascore-match-1673539@esport-ics
+DTSTART:20260907T110000Z
+DTEND:20260907T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group A\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Azuolas vs BW
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260907T134500Z
 UID:pandascore-match-1669121@esport-ics
 DTSTART:20260907T134500Z

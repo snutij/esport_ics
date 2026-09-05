@@ -221,4 +221,15 @@ DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group C\nWatch:
 SUMMARY:Decider match: PERM vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T170000Z
+UID:pandascore-match-1673536@esport-ics
+DTSTART:20260910T170000Z
+DTEND:20260910T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group D\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Honvéd vs PERM
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

@@ -577,6 +577,17 @@ DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
 SUMMARY:Lower bracket round 1 match 8: RGG vs DNT
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260907T170000Z
+UID:pandascore-match-1673546@esport-ics
+DTSTART:20260907T170000Z
+DTEND:20260907T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #2 2026 - Group D\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:RGG vs REV
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260909T173000Z
 UID:pandascore-match-1664525@esport-ics
 DTSTART:20260909T173000Z
