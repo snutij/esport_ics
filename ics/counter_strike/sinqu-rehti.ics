@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 6 2026 - Group B\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Elimination match: PSN.A vs SINQU Rehti
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T080000Z
+UID:pandascore-match-1673392@esport-ics
+DTSTART:20260906T080000Z
+DTEND:20260906T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 55 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:SINQU Rehti vs ASC
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

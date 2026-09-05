@@ -123,6 +123,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #6 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs3
 SUMMARY:Lower bracket round 1 match 3: banda chuya vs GAT
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T080000Z
+UID:pandascore-match-1673407@esport-ics
+DTSTART:20260909T080000Z
+DTEND:20260909T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 55 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:GAT vs EK
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

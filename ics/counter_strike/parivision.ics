@@ -510,6 +510,17 @@ URL:https://www.twitch.tv/EWC_plus_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260908T090000Z
+UID:pandascore-match-1660044@esport-ics
+DTSTART:20260908T090000Z
+DTEND:20260908T111500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/fissure_cs_eng
+SUMMARY:Upper bracket quarterfinal 3: PRV vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T090000Z
 UID:pandascore-match-1654290@esport-ics
 DTSTART:20260908T090000Z
 DTEND:20260908T111500Z
@@ -517,17 +528,6 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
  w.twitch.tv/fissure_cs_eng
 SUMMARY:Upper bracket quarterfinal 3: PRV vs ALL
-URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260908T103000Z
-UID:pandascore-match-1660044@esport-ics
-DTSTART:20260908T103000Z
-DTEND:20260908T124500Z
-CLASS:PUBLIC
-DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
- w.twitch.tv/fissure_cs_eng
-SUMMARY:Upper bracket quarterfinal 3: PRV vs TYLOO
 URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
 END:VEVENT
 END:VCALENDAR

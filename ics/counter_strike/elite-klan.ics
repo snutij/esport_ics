@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 12 2026 - Regular Season\nWatch: http
  s://www.twitch.tv/elisaviihdesport
 SUMMARY:Round 7: BOJONG vs EK
-URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+URL:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T080000Z
+UID:pandascore-match-1673407@esport-ics
+DTSTART:20260909T080000Z
+DTEND:20260909T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 55 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:GAT vs EK
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
