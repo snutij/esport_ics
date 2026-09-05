@@ -20,7 +20,9 @@ UID:pandascore-match-1646028@esport-ics
 DTSTART:20260905T040000Z
 DTEND:20260905T074500Z
 CLASS:PUBLIC
-DESCRIPTION:FLASH - Oceania 2026 - Playoffs
+DESCRIPTION:FLASH - Oceania 2026 - Playoffs\nWatch: https://www.twitch.tv/F
+ LASHOceania
 SUMMARY:Grand final: Gromp Esports vs OT
+URL;VALUE=URI:https://www.twitch.tv/FLASHOceania
 END:VEVENT
 END:VCALENDAR

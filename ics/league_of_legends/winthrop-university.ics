@@ -245,6 +245,17 @@ CLASS:PUBLIC
 DESCRIPTION:North American Challengers League - Summer 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/NACL
 SUMMARY:Upper bracket final: CPD vs WU
+URL:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T210000Z
+UID:pandascore-match-1636131@esport-ics
+DTSTART:20260910T210000Z
+DTEND:20260911T004500Z
+CLASS:PUBLIC
+DESCRIPTION:North American Challengers League - Summer 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/NACL
+SUMMARY:Lower bracket final: WU vs TBD
 URL;VALUE=URI:https://www.twitch.tv/NACL
 END:VEVENT
 END:VCALENDAR
