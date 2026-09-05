@@ -355,17 +355,6 @@ SUMMARY:Y123 vs YG
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260905T090000Z
-UID:pandascore-match-1665215@esport-ics
-DTSTART:20260905T090000Z
-DTEND:20260905T111500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:DB vs YG
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260906T030000Z
 UID:pandascore-match-1665216@esport-ics
 DTSTART:20260906T030000Z
@@ -386,5 +375,16 @@ DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:YG vs Team Kinetix
 URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T060000Z
+UID:pandascore-match-1665215@esport-ics
+DTSTART:20260909T060000Z
+DTEND:20260909T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:DB vs YG
+URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

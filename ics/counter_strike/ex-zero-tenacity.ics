@@ -1390,7 +1390,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Upper Bracket Round 1 Match 3: ex-ZT vs Morrow Esports
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260905T170000Z
@@ -1402,5 +1402,16 @@ DESCRIPTION:CCT Europe - Series #8 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs2
 SUMMARY:Round 2: INOX vs ex-ZT
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T110000Z
+UID:pandascore-match-1669147@esport-ics
+DTSTART:20260907T110000Z
+DTEND:20260907T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Lower Bracket Round 1 Match 2: ex-ZT vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

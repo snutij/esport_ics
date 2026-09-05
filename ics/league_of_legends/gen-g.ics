@@ -528,6 +528,16 @@ DTEND:20260905T114500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
 SUMMARY:Upper bracket final: GEN vs HLE
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T050000Z
+UID:pandascore-match-1642158@esport-ics
+DTSTART:20260913T050000Z
+DTEND:20260913T084500Z
+CLASS:PUBLIC
+DESCRIPTION:LCK - 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
+SUMMARY:Grand final: GEN vs TBD
 URL;VALUE=URI:https://www.twitch.tv/lck
 END:VEVENT
 END:VCALENDAR
