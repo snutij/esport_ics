@@ -674,6 +674,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Elimination Round\nWatch: https://ww
  w.twitch.tv/dota2ti
 SUMMARY:Iron Wing vs GL
-URL;VALUE=URI:https://www.twitch.tv/dota2ti
+URL:https://www.twitch.tv/dota2ti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T180000Z
+UID:pandascore-match-1659337@esport-ics
+DTSTART:20260907T180000Z
+DTEND:20260907T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 2 2026 - Playoffs\nWatch: https://kick.com
+ /epldota_en2
+SUMMARY:Upper bracket quarterfinal 4: GL vs PIPS+4
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
