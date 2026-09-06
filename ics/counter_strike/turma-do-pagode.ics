@@ -172,4 +172,14 @@ DESCRIPTION:PGL Masters - Bucharest: South American Open Qualifier #1 2026
  - Playoffs
 SUMMARY:Quarterfinal 2: TdP vs your end
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T220000Z
+UID:pandascore-match-1673556@esport-ics
+DTSTART:20260906T220000Z
+DTEND:20260907T001500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: South American Open Qualifier #2 2026 
+ - Playoffs
+SUMMARY:Quarterfinal 4: YAW vs TdP
+END:VEVENT
 END:VCALENDAR
