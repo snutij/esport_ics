@@ -849,7 +849,9 @@ UID:pandascore-match-1672232@esport-ics
 DTSTART:20260906T130000Z
 DTEND:20260906T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #6 season 52 2026 - Group D
+DESCRIPTION:ESL Challenger League - Europe Cup #6 season 52 2026 - Group D\
+ nWatch: https://www.twitch.tv/privateergaming1
 SUMMARY:PG vs HAVU
+URL;VALUE=URI:https://www.twitch.tv/privateergaming1
 END:VEVENT
 END:VCALENDAR
