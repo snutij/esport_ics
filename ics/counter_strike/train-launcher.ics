@@ -94,6 +94,17 @@ SUMMARY:Elimination match: MEGO vs TRAIN
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260906T170000Z
+UID:pandascore-match-1675244@esport-ics
+DTSTART:20260906T170000Z
+DTEND:20260906T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #2 2026 - Group B\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Elimination match: Invicta vs TRAIN
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260908T080000Z
 UID:pandascore-match-1658047@esport-ics
 DTSTART:20260908T080000Z
