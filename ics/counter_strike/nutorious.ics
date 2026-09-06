@@ -144,7 +144,9 @@ UID:pandascore-match-1669709@esport-ics
 DTSTART:20260906T003000Z
 DTEND:20260906T024500Z
 CLASS:PUBLIC
-DESCRIPTION:NSTLGA League - Season 2 2026 - Group Stage
+DESCRIPTION:NSTLGA League - Season 2 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/regaincs
 SUMMARY:Round 3: REGAIN vs NT
+URL;VALUE=URI:https://www.twitch.tv/regaincs
 END:VEVENT
 END:VCALENDAR

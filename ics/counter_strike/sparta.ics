@@ -1058,6 +1058,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #8 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs2
 SUMMARY:Round 2: SPARTA vs HAVU
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T170000Z
+UID:pandascore-match-1651586@esport-ics
+DTSTART:20260906T170000Z
+DTEND:20260906T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #8 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 3: SPARTA vs ex-ZT
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
