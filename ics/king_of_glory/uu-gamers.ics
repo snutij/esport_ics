@@ -399,6 +399,17 @@ CLASS:PUBLIC
 DESCRIPTION:KPL Growth League - Summer 2026 - Playoffs\nWatch: https://weib
  o.com/6723122187
 SUMMARY:Upper bracket semifinal 2: KLG vs UUG
+URL:https://weibo.com/6723122187
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T070000Z
+UID:pandascore-match-1544084@esport-ics
+DTSTART:20260908T070000Z
+DTEND:20260908T121500Z
+CLASS:PUBLIC
+DESCRIPTION:KPL Growth League - Summer 2026 - Playoffs\nWatch: https://weib
+ o.com/6723122187
+SUMMARY:Upper bracket final: Q9 vs UUG
 URL;VALUE=URI:https://weibo.com/6723122187
 END:VEVENT
 END:VCALENDAR

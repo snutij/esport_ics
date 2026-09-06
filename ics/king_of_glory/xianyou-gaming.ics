@@ -399,6 +399,17 @@ CLASS:PUBLIC
 DESCRIPTION:KPL Growth League - Summer 2026 - Playoffs\nWatch: https://weib
  o.com/6723122187
 SUMMARY:Upper bracket semifinal 1: XYG vs Q9
+URL:https://weibo.com/6723122187
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T070000Z
+UID:pandascore-match-1544088@esport-ics
+DTSTART:20260907T070000Z
+DTEND:20260907T121500Z
+CLASS:PUBLIC
+DESCRIPTION:KPL Growth League - Summer 2026 - Playoffs\nWatch: https://weib
+ o.com/6723122187
+SUMMARY:Lower bracket quarterfinal 1: WLT vs XYG
 URL;VALUE=URI:https://weibo.com/6723122187
 END:VEVENT
 END:VCALENDAR

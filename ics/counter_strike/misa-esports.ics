@@ -1696,7 +1696,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Upper Bracket Round 1 Match 6: SAW.Y vs MISA
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260906T130000Z
@@ -1707,7 +1707,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #6 season 52 2026 - Group C\
  nWatch: https://kick.com/dutchboycasts
 SUMMARY:MISA vs MOUZ.N
-URL;VALUE=URI:https://kick.com/dutchboycasts
+URL:https://kick.com/dutchboycasts
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260908T103000Z
@@ -1719,6 +1719,17 @@ DESCRIPTION:United21 - Season 55 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:MISA vs PSN.A
 URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T134500Z
+UID:pandascore-match-1669123@esport-ics
+DTSTART:20260908T134500Z
+DTEND:20260908T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper Bracket Quarterfinal 3: PHTM.Ac vs MISA
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T140000Z

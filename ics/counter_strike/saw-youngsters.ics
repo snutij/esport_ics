@@ -278,6 +278,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Upper Bracket Round 1 Match 6: SAW.Y vs MISA
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T110000Z
+UID:pandascore-match-1669145@esport-ics
+DTSTART:20260908T110000Z
+DTEND:20260908T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Lower Bracket Round 1 Match 3: Entropy vs SAW.Y
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR
