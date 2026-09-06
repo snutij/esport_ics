@@ -965,6 +965,17 @@ SUMMARY:Upper Bracket Round 1 Match 8: Noir Verse vs FF
 URL:https://kick.com/cct_cs5
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260908T110000Z
+UID:pandascore-match-1669146@esport-ics
+DTSTART:20260908T110000Z
+DTEND:20260908T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Lower Bracket Round 1 Match 4: S-B vs FF
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260909T080000Z
 UID:pandascore-match-1658037@esport-ics
 DTSTART:20260909T080000Z

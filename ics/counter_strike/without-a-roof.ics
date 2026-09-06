@@ -87,7 +87,9 @@ UID:pandascore-match-1669710@esport-ics
 DTSTART:20260906T190000Z
 DTEND:20260906T211500Z
 CLASS:PUBLIC
-DESCRIPTION:NSTLGA League - Season 2 2026 - Group Stage
+DESCRIPTION:NSTLGA League - Season 2 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/nstlga_gg
 SUMMARY:Round 4: WG vs WaR
+URL;VALUE=URI:https://www.twitch.tv/nstlga_gg
 END:VEVENT
 END:VCALENDAR
