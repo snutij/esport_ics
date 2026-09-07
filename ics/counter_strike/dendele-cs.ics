@@ -100,6 +100,16 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/watchfulTVd
 SUMMARY:Lower bracket round 1 match 4: Color vs DENDELE CS
-URL;VALUE=URI:https://www.twitch.tv/watchfulTVd
+URL:https://www.twitch.tv/watchfulTVd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T170000Z
+UID:pandascore-match-1677304@esport-ics
+DTSTART:20260909T170000Z
+DTEND:20260909T191500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: South American Closed Qualifier 2026 -
+  Playoffs
+SUMMARY:Upper Bracket Quarterfinals 4: TdP vs DENDELE CS
 END:VEVENT
 END:VCALENDAR

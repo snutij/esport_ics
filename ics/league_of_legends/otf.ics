@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:EBL - Finals 2026 - Playoffs\nWatch: https://www.twitch.tv/fort
  una
 SUMMARY:Semifinal 1: TSC vs ØTF
+URL:https://www.twitch.tv/fortuna
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T160000Z
+UID:pandascore-match-1674227@esport-ics
+DTSTART:20260909T160000Z
+DTEND:20260909T194500Z
+CLASS:PUBLIC
+DESCRIPTION:EBL - Finals 2026 - Playoffs\nWatch: https://www.twitch.tv/fort
+ una
+SUMMARY:Third Place match: ØTF vs TBD
 URL;VALUE=URI:https://www.twitch.tv/fortuna
 END:VEVENT
 END:VCALENDAR

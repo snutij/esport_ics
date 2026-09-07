@@ -221,6 +221,17 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
  ol
 SUMMARY:Upper bracket final: AP vs RUD
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T160000Z
+UID:pandascore-match-1597245@esport-ics
+DTSTART:20260916T160000Z
+DTEND:20260916T194500Z
+CLASS:PUBLIC
+DESCRIPTION:NLC - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
+ ol
+SUMMARY:Grand final: RUD vs TBD
 URL;VALUE=URI:https://www.twitch.tv/nlclol
 END:VEVENT
 END:VCALENDAR

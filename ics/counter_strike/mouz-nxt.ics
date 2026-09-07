@@ -990,6 +990,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #6 season 52 2026 - Group C\
  nWatch: https://kick.com/dutchboycasts
 SUMMARY:Decider Match: MOUZ.N vs KSM
-URL;VALUE=URI:https://kick.com/dutchboycasts
+URL:https://kick.com/dutchboycasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T130000Z
+UID:pandascore-match-1672240@esport-ics
+DTSTART:20260908T130000Z
+DTEND:20260908T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #6 season 52 2026 - Playoffs
+SUMMARY:Semifinal 1: MOUZ.N vs DM
 END:VEVENT
 END:VCALENDAR
