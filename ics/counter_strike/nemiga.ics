@@ -933,4 +933,15 @@ DESCRIPTION:1win - Private Club #1: Closed Qualifier 2026 - Playoffs\nWatch
 SUMMARY:Round 1 match 6: NEMI vs Color
 URL;VALUE=URI:https://www.twitch.tv/1win_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T170000Z
+UID:pandascore-match-1676023@esport-ics
+DTSTART:20260909T170000Z
+DTEND:20260909T191500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/PGL
+SUMMARY:Upper Bracket Quarterfinal 4: ICE vs NEMI
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
 END:VCALENDAR

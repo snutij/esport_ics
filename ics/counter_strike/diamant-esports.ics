@@ -433,6 +433,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #9 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs6
 SUMMARY:Upper Bracket Round 1 Match 1: GBC vs Diamant Esports
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T153000Z
+UID:pandascore-match-1676100@esport-ics
+DTSTART:20260907T153000Z
+DTEND:20260907T174500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #9 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs6
+SUMMARY:Lower Bracket Round 1 Match 1: Diamant Esports vs pivstar
 URL;VALUE=URI:https://kick.com/cct_cs6
 END:VEVENT
 END:VCALENDAR

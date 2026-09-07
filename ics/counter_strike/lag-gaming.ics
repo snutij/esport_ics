@@ -614,6 +614,15 @@ CLASS:PUBLIC
 DESCRIPTION:NSTLGA League - Season 2 2026 - Group Stage\nWatch: https://www
  .twitch.tv/JTMythic
 SUMMARY:Round 4: LAG vs For Fun
-URL;VALUE=URI:https://www.twitch.tv/JTMythic
+URL:https://www.twitch.tv/JTMythic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T010000Z
+UID:pandascore-match-1669722@esport-ics
+DTSTART:20260911T010000Z
+DTEND:20260911T031500Z
+CLASS:PUBLIC
+DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 3: LAG vs REGAIN
 END:VEVENT
 END:VCALENDAR

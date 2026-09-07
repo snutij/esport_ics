@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #9 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs7
 SUMMARY:Upper Bracket Round 1 Match 4: The Golden Horde vs FLXRE
-URL;VALUE=URI:https://kick.com/cct_cs7
+URL:https://kick.com/cct_cs7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T181500Z
+UID:pandascore-match-1676094@esport-ics
+DTSTART:20260907T181500Z
+DTEND:20260907T203000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #9 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs6
+SUMMARY:Upper Bracket Quarterfinal 2: Quintessence vs FLXRE
+URL;VALUE=URI:https://kick.com/cct_cs6
 END:VEVENT
 END:VCALENDAR
