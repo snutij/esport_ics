@@ -833,7 +833,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group D\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Winners match: BIG.A vs VEX
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260907T140000Z
@@ -844,7 +844,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #2 2026 - Group C\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:BIG.A vs TrafficPills Esports
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260907T160000Z
@@ -856,6 +856,17 @@ DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
  //www.twitch.tv/dachcs
 SUMMARY:BIG.A vs BLUEJAYS.de
 URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T103000Z
+UID:pandascore-match-1658068@esport-ics
+DTSTART:20260908T103000Z
+DTEND:20260908T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group D\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Decider match: Morrow Esports vs BIG.A
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260914T160000Z

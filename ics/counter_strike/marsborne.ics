@@ -606,6 +606,17 @@ SUMMARY:Round 3: MARS vs LAG
 URL:https://www.twitch.tv/JTMythic
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260910T020000Z
+UID:pandascore-match-1676456@esport-ics
+DTSTART:20260910T020000Z
+DTEND:20260910T041500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: North American Qualifier 2026 - Playof
+ fs\nWatch: https://www.twitch.tv/PGL
+SUMMARY:Upper Bracket Quarterfinal 3: CCE vs MARS
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260911T010000Z
 UID:pandascore-match-1669723@esport-ics
 DTSTART:20260911T010000Z

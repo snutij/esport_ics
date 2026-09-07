@@ -25,4 +25,15 @@ DESCRIPTION:PGL Masters - Bucharest: North American Open Qualifier #2 2026
  - Playoffs
 SUMMARY:Semifinal 2: Celestial vs antivalue
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T020000Z
+UID:pandascore-match-1676457@esport-ics
+DTSTART:20260910T020000Z
+DTEND:20260910T041500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: North American Qualifier 2026 - Playof
+ fs\nWatch: https://www.twitch.tv/PGL
+SUMMARY:Upper Bracket Quarterfinal 4: TL vs antivalue
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
 END:VCALENDAR

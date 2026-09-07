@@ -973,7 +973,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Lower Bracket Round 1 Match 4: S-B vs FF
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T080000Z
@@ -985,6 +985,17 @@ DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group A\nWatch:
  https://kick.com/eplcs_en
 SUMMARY:Decider match: FF vs SINQU
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T134500Z
+UID:pandascore-match-1669144@esport-ics
+DTSTART:20260909T134500Z
+DTEND:20260909T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Lower Bracket Round 2 Match 4: FF vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T173000Z

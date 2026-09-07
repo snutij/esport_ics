@@ -545,6 +545,17 @@ CLASS:PUBLIC
 DESCRIPTION:LPL - Split 3 2026 - Playoffs\nWatch: https://www.twitch.tv/lpl
  english
 SUMMARY:Lower bracket round 1 match 2: NIP vs JDG
+URL:https://www.twitch.tv/lplenglish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T090000Z
+UID:pandascore-match-1652747@esport-ics
+DTSTART:20260918T090000Z
+DTEND:20260918T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LPL - Regional Finals 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/lplenglish
+SUMMARY:Lower bracket semifinal: WE vs JDG
 URL;VALUE=URI:https://www.twitch.tv/lplenglish
 END:VEVENT
 END:VCALENDAR
