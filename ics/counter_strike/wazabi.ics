@@ -329,6 +329,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group A\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:G2.A vs WAZ
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T080000Z
+UID:pandascore-match-1677355@esport-ics
+DTSTART:20260908T080000Z
+DTEND:20260908T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group A\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Elimination match: BW vs WAZ
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

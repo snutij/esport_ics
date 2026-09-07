@@ -140,6 +140,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #2 2026 - Group C\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:A Great Chaos vs DNK
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T080000Z
+UID:pandascore-match-1677361@esport-ics
+DTSTART:20260908T080000Z
+DTEND:20260908T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #2 2026 - Group C\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Winners match: DNK vs TrafficPills Esports
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

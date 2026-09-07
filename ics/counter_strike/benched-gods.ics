@@ -417,6 +417,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group D\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:VEX vs BG
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T170000Z
+UID:pandascore-match-1677363@esport-ics
+DTSTART:20260908T170000Z
+DTEND:20260908T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #2 2026 - Group D\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Winners match: BG vs REV
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

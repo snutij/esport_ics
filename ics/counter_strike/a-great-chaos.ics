@@ -296,7 +296,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #2 2026 - Group C\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:A Great Chaos vs DNK
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260907T130000Z
@@ -307,6 +307,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #6 season 52 2026 - Group A\
  nWatch: https://www.twitch.tv/mgfongabe
 SUMMARY:Decider Match: A Great Chaos vs WBT.A
-URL;VALUE=URI:https://www.twitch.tv/mgfongabe
+URL:https://www.twitch.tv/mgfongabe
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T140000Z
+UID:pandascore-match-1677362@esport-ics
+DTSTART:20260908T140000Z
+DTEND:20260908T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #2 2026 - Group C\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Elimination match: A Great Chaos vs BIG.A
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

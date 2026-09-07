@@ -906,6 +906,17 @@ SUMMARY:Round 1 match 3: INF vs INOX
 URL:https://www.twitch.tv/1win_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260909T110000Z
+UID:pandascore-match-1651677@esport-ics
+DTSTART:20260909T110000Z
+DTEND:20260909T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #8 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 4: INOX vs TLR
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260909T120000Z
 UID:pandascore-match-1673527@esport-ics
 DTSTART:20260909T120000Z
@@ -913,7 +924,7 @@ DTEND:20260909T141500Z
 CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #1: Closed Qualifier 2026 - Playoffs\nWatch
  : https://www.twitch.tv/1win_cs
-SUMMARY:Round 2 match 2: INOX vs TBD
+SUMMARY:Round 2 match 2: INOX vs NTR
 URL;VALUE=URI:https://www.twitch.tv/1win_cs
 END:VEVENT
 END:VCALENDAR

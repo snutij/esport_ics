@@ -760,6 +760,17 @@ SUMMARY:Lower Bracket Round 1 Match 3: Entropy vs SAW.Y
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260908T140000Z
+UID:pandascore-match-1677357@esport-ics
+DTSTART:20260908T140000Z
+DTEND:20260908T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group B\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Winners match: ex-RUSTEC vs Entropy
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260909T160000Z
 UID:pandascore-match-1661617@esport-ics
 DTSTART:20260909T160000Z

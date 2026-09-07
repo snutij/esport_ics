@@ -561,7 +561,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group B\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:ex-RUSTEC vs FOR
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260907T080000Z
@@ -572,6 +572,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group D\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Elimination match: FOR vs Morrow Esports
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260908T110000Z
+UID:pandascore-match-1677356@esport-ics
+DTSTART:20260908T110000Z
+DTEND:20260908T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group B\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Elimination match: FOR vs ENCE
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
