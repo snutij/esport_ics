@@ -25,4 +25,14 @@ DESCRIPTION:PGL Masters - Bucharest: North American Open Qualifier #2 2026
  - Playoffs
 SUMMARY:Quarterfinal 3: ZOMB vs Celestial
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T032000Z
+UID:pandascore-match-1673564@esport-ics
+DTSTART:20260907T032000Z
+DTEND:20260907T053500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: North American Open Qualifier #2 2026 
+ - Playoffs
+SUMMARY:Semifinal 2: Celestial vs antivalue
+END:VEVENT
 END:VCALENDAR
