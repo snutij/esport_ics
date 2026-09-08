@@ -254,6 +254,17 @@ CLASS:PUBLIC
 DESCRIPTION:Road Of Legends - Summer 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/road_of_legends
 SUMMARY:Upper bracket final: FEC vs MCN
+URL:https://www.twitch.tv/road_of_legends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260915T160000Z
+UID:pandascore-match-1662554@esport-ics
+DTSTART:20260915T160000Z
+DTEND:20260915T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Road Of Legends - Summer 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/road_of_legends
+SUMMARY:Lower bracket final: MCN vs TBD
 URL;VALUE=URI:https://www.twitch.tv/road_of_legends
 END:VEVENT
 END:VCALENDAR

@@ -1741,6 +1741,17 @@ SUMMARY:Upper Bracket Quarterfinal 3: PHTM.Ac vs MISA
 URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260910T134500Z
+UID:pandascore-match-1669126@esport-ics
+DTSTART:20260910T134500Z
+DTEND:20260910T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper Bracket Semifinal 2: MEGO vs MISA
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260910T140000Z
 UID:pandascore-match-1673538@esport-ics
 DTSTART:20260910T140000Z
