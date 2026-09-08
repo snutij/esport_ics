@@ -553,6 +553,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Qualifier 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/esportstudion
 SUMMARY:Lower bracket round 2 match 1: MIBR vs EYE
-URL;VALUE=URI:https://www.twitch.tv/esportstudion
+URL:https://www.twitch.tv/esportstudion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T140000Z
+UID:pandascore-match-1678024@esport-ics
+DTSTART:20260909T140000Z
+DTEND:20260909T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ B\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:EYE vs NEM
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

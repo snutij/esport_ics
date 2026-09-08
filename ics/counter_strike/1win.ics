@@ -757,4 +757,15 @@ DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
 SUMMARY:Upper Bracket Quarterfinal 1: NTR vs 1WIN
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T170000Z
+UID:pandascore-match-1678034@esport-ics
+DTSTART:20260909T170000Z
+DTEND:20260909T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ D\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:1WIN vs INF
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR

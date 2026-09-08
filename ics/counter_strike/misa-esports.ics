@@ -1727,7 +1727,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 55 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:MISA vs PSN.A
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260908T134500Z
@@ -1738,7 +1738,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Upper Bracket Quarterfinal 3: PHTM.Ac vs MISA
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T140000Z
@@ -1750,5 +1750,16 @@ DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group C\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:RT vs MISA
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T103000Z
+UID:pandascore-match-1673405@esport-ics
+DTSTART:20260912T103000Z
+DTEND:20260912T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 55 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Elimination match: EACE vs MISA
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

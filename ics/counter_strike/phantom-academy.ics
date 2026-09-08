@@ -703,7 +703,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Upper Bracket Quarterfinal 3: PHTM.Ac vs MISA
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260911T110000Z
@@ -724,7 +724,7 @@ DTEND:20260912T101500Z
 CLASS:PUBLIC
 DESCRIPTION:United21 - Season 55 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
-SUMMARY:Winners match: PHTM.Ac vs TBD
+SUMMARY:Winners match: PHTM.Ac vs PSN.A
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

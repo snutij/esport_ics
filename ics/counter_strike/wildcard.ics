@@ -506,6 +506,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Group D\nWatch: https://www.twitch.t
  v/EWC_Plus_EN2
 SUMMARY:Lower bracket quarterfinal 2: WC vs paiN
-URL;VALUE=URI:https://www.twitch.tv/EWC_Plus_EN2
+URL:https://www.twitch.tv/EWC_Plus_EN2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T080000Z
+UID:pandascore-match-1678025@esport-ics
+DTSTART:20260909T080000Z
+DTEND:20260909T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ B\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:HOTU vs WC
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

@@ -758,6 +758,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing: Global Open Qualifier 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/untalentedkid785
 SUMMARY:Round of 16 match 1: 100T vs INOX
-URL;VALUE=URI:https://www.twitch.tv/untalentedkid785
+URL:https://www.twitch.tv/untalentedkid785
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T140000Z
+UID:pandascore-match-1678031@esport-ics
+DTSTART:20260909T140000Z
+DTEND:20260909T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ C\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:100T vs BBL
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

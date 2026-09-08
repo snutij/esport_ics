@@ -655,7 +655,7 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ki
  ck.com/fissure_cs_a
 SUMMARY:Upper bracket quarterfinal 3: PRV vs TYLOO
-URL;VALUE=URI:https://kick.com/fissure_cs_a
+URL:https://kick.com/fissure_cs_a
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T080000Z
@@ -667,5 +667,16 @@ DESCRIPTION:PGL Masters - Bucharest: East Asian Qualifier 2026 - Playoffs\n
  Watch: https://www.twitch.tv/PGL
 SUMMARY:Upper Bracket Semifinal 2: TYLOO vs THE
 URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T090000Z
+UID:pandascore-match-1674244@esport-ics
+DTSTART:20260909T090000Z
+DTEND:20260909T111500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/fissure_cs_eng
+SUMMARY:Lower bracket round 1 match 2: TYLOO vs TBD
+URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
 END:VEVENT
 END:VCALENDAR

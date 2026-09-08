@@ -660,4 +660,15 @@ DESCRIPTION:PGL Masters - Bucharest: European Open Qualifier #2 2026 - Play
  offs
 SUMMARY:Round of 16 match 1: HERO vs EAC
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T110000Z
+UID:pandascore-match-1678017@esport-ics
+DTSTART:20260909T110000Z
+DTEND:20260909T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ A\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:HERO vs BST
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR

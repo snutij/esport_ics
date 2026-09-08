@@ -947,4 +947,15 @@ DESCRIPTION:1win - Private Club #1: Closed Qualifier 2026 - Playoffs\nWatch
 SUMMARY:Round 1 match 7: LDP vs K27
 URL;VALUE=URI:https://www.twitch.tv/1win_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T080000Z
+UID:pandascore-match-1678016@esport-ics
+DTSTART:20260909T080000Z
+DTEND:20260909T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ A\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:K27 vs VP
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR

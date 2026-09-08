@@ -633,6 +633,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 4 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/dust2br
 SUMMARY:Semifinal 1: IMP vs BST
-URL;VALUE=URI:https://www.twitch.tv/dust2br
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T110000Z
+UID:pandascore-match-1678017@esport-ics
+DTSTART:20260909T110000Z
+DTEND:20260909T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ A\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:HERO vs BST
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

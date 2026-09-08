@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 2 2026 - Playoffs\nWatch: https://kick.com
  /epldota_en2
 SUMMARY:Lower bracket round 1 match 1: PR vs HULIGANI
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T120000Z
+UID:pandascore-match-1659348@esport-ics
+DTSTART:20260909T120000Z
+DTEND:20260909T141500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 2 2026 - Playoffs\nWatch: https://kick.com
+ /epldota_en2
+SUMMARY:Lower bracket quarterfinal 1: HULIGANI vs TBD
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

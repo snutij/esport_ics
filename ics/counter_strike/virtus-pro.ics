@@ -331,6 +331,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 4: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round of 16 match 4: VP vs FNC
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T080000Z
+UID:pandascore-match-1678016@esport-ics
+DTSTART:20260909T080000Z
+DTEND:20260909T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ A\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:K27 vs VP
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
