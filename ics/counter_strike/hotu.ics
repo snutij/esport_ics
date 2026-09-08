@@ -866,6 +866,17 @@ CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #1: Closed Qualifier 2026 - Playoffs\nWatch
  : https://www.twitch.tv/1win_cs
 SUMMARY:Round 1 match 5: HOTU vs BCA
+URL:https://www.twitch.tv/1win_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T120000Z
+UID:pandascore-match-1673528@esport-ics
+DTSTART:20260909T120000Z
+DTEND:20260909T141500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #1: Closed Qualifier 2026 - Playoffs\nWatch
+ : https://www.twitch.tv/1win_cs
+SUMMARY:Round 2 match 3: HOTU vs TBD
 URL;VALUE=URI:https://www.twitch.tv/1win_cs
 END:VEVENT
 END:VCALENDAR

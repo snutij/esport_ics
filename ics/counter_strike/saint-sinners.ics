@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #8 2026 - Group A\nWatch:
   https://kick.com/cct_cs2
 SUMMARY:Decider match: HAVU vs SSins
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T140000Z
+UID:pandascore-match-1677982@esport-ics
+DTSTART:20260909T140000Z
+DTEND:20260909T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #9 2026 - Group B\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:SSins vs TS.A
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

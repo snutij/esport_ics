@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Summer 2026 - Regular Season\nWatch: https:/
  /www.twitch.tv/hitpointcz
 SUMMARY:MVE vs ESB
+URL:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T140000Z
+UID:pandascore-match-1677956@esport-ics
+DTSTART:20260909T140000Z
+DTEND:20260909T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Summer 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/hitpointcz
+SUMMARY:Upper bracket semifinal 2: CKZ vs MVE
 URL;VALUE=URI:https://www.twitch.tv/hitpointcz
 END:VEVENT
 END:VCALENDAR

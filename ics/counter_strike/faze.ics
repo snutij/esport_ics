@@ -529,7 +529,7 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ki
  ck.com/fissure_cs_a
 SUMMARY:Upper bracket quarterfinal 2: ALL vs FaZe
-URL;VALUE=URI:https://kick.com/fissure_cs_a
+URL:https://kick.com/fissure_cs_a
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260908T090000Z
@@ -540,6 +540,17 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
  w.twitch.tv/fissure_cs_eng
 SUMMARY:Upper bracket quarterfinal 2: MIBR vs FaZe
+URL:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T030000Z
+UID:pandascore-match-1674243@esport-ics
+DTSTART:20260909T030000Z
+DTEND:20260909T051500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/fissure_cs_eng
+SUMMARY:Lower bracket round 1 match 1: MGC vs FaZe
 URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
 END:VEVENT
 END:VCALENDAR

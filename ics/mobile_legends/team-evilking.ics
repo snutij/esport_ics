@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team EvilKing
+SLUG:team-evilking
+BEGIN:VEVENT
+DTSTAMP:20260908T170000Z
+UID:pandascore-match-1678009@esport-ics
+DTSTART:20260908T170000Z
+DTEND:20260908T204500Z
+CLASS:PUBLIC
+DESCRIPTION:BETBOOM Streamers Battle - Season 1 2026 - Playoffs\nWatch: htt
+ ps://www.youtube.com/@BetBoomEsports/live
+SUMMARY:Upper Bracket Final: Team Wizer vs Team EvilKing
+URL;VALUE=URI:https://www.youtube.com/@BetBoomEsports/live
+END:VEVENT
+END:VCALENDAR
