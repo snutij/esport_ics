@@ -434,8 +434,10 @@ UID:pandascore-match-1681255@esport-ics
 DTSTART:20260910T150000Z
 DTEND:20260910T154500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B\nWatch: https://ki
+ ck.com/roman
 SUMMARY:FH vs SAW
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T161500Z
@@ -443,8 +445,10 @@ UID:pandascore-match-1681258@esport-ics
 DTSTART:20260910T161500Z
 DTEND:20260910T170000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B\nWatch: https://ki
+ ck.com/roman
 SUMMARY:SAW vs GPN
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T173000Z
@@ -452,8 +456,10 @@ UID:pandascore-match-1681261@esport-ics
 DTSTART:20260910T173000Z
 DTEND:20260910T181500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B\nWatch: https://ki
+ ck.com/roman
 SUMMARY:SAW vs 6666
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T184500Z
@@ -461,8 +467,10 @@ UID:pandascore-match-1681264@esport-ics
 DTSTART:20260910T184500Z
 DTEND:20260910T193000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B\nWatch: https://ki
+ ck.com/roman
 SUMMARY:SAW vs STA
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T200000Z
@@ -470,7 +478,9 @@ UID:pandascore-match-1681267@esport-ics
 DTSTART:20260910T200000Z
 DTEND:20260910T204500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B\nWatch: https://ki
+ ck.com/roman
 SUMMARY:SAW vs Nice Try
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

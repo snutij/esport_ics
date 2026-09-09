@@ -342,14 +342,14 @@ SUMMARY:Round of 32 match 9: NRG vs PHA
 URL:https://www.twitch.tv/endiezcasts
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260909T230000Z
+DTSTAMP:20260909T231000Z
 UID:pandascore-match-1676455@esport-ics
-DTSTART:20260909T230000Z
-DTEND:20260910T011500Z
+DTSTART:20260909T231000Z
+DTEND:20260910T012500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: North American Qualifier 2026 - Playof
- fs\nWatch: https://www.twitch.tv/PGL
+ fs\nWatch: https://www.twitch.tv/Trottah
 SUMMARY:Upper Bracket Quarterfinal 2: NRG vs WaR
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL;VALUE=URI:https://www.twitch.tv/Trottah
 END:VEVENT
 END:VCALENDAR

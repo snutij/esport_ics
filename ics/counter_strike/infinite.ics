@@ -860,14 +860,69 @@ SUMMARY:1WIN vs INF
 URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T140000Z
+DTSTAMP:20260910T170000Z
 UID:pandascore-match-1678036@esport-ics
-DTSTART:20260910T140000Z
-DTEND:20260910T161500Z
+DTSTART:20260910T170000Z
+DTEND:20260910T191500Z
 CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
  D\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Elimination match: NIP vs INF
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T090000Z
+UID:pandascore-match-1681389@esport-ics
+DTSTART:20260918T090000Z
+DTEND:20260918T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:TL vs INF
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T100000Z
+UID:pandascore-match-1681391@esport-ics
+DTSTART:20260918T100000Z
+DTEND:20260918T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:BBL vs INF
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T120000Z
+UID:pandascore-match-1681394@esport-ics
+DTSTART:20260918T120000Z
+DTEND:20260918T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:INF vs ICE
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T140000Z
+UID:pandascore-match-1681398@esport-ics
+DTSTART:20260918T140000Z
+DTEND:20260918T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:INF vs EYE
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T150000Z
+UID:pandascore-match-1681401@esport-ics
+DTSTART:20260918T150000Z
+DTEND:20260918T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:INF vs 3DMAX
+URL;VALUE=URI:https://kick.com/connect_en
 END:VEVENT
 END:VCALENDAR

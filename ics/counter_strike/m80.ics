@@ -590,4 +590,59 @@ DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Playoffs\nWatch: https://k
 SUMMARY:Upper bracket quarterfinal 1: M80 vs TBD
 URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T090000Z
+UID:pandascore-match-1681374@esport-ics
+DTSTART:20260917T090000Z
+DTEND:20260917T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:NIP vs M80
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T110000Z
+UID:pandascore-match-1681377@esport-ics
+DTSTART:20260917T110000Z
+DTEND:20260917T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:M80 vs GL
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T130000Z
+UID:pandascore-match-1681382@esport-ics
+DTSTART:20260917T130000Z
+DTEND:20260917T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:M80 vs MZP
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T140000Z
+UID:pandascore-match-1681384@esport-ics
+DTSTART:20260917T140000Z
+DTEND:20260917T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:LG vs M80
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T150000Z
+UID:pandascore-match-1681386@esport-ics
+DTSTART:20260917T150000Z
+DTEND:20260917T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:B8 vs M80
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
 END:VCALENDAR

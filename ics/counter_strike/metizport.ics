@@ -611,6 +611,61 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/connect_en
 SUMMARY:Semifinal 1: 9INE vs MZP
-URL;VALUE=URI:https://www.twitch.tv/connect_en
+URL:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T080000Z
+UID:pandascore-match-1681372@esport-ics
+DTSTART:20260917T080000Z
+DTEND:20260917T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:B8 vs MZP
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T100000Z
+UID:pandascore-match-1681376@esport-ics
+DTSTART:20260917T100000Z
+DTEND:20260917T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:MZP vs LG
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T120000Z
+UID:pandascore-match-1681379@esport-ics
+DTSTART:20260917T120000Z
+DTEND:20260917T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:MZP vs NIP
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T130000Z
+UID:pandascore-match-1681382@esport-ics
+DTSTART:20260917T130000Z
+DTEND:20260917T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:M80 vs MZP
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T140000Z
+UID:pandascore-match-1681383@esport-ics
+DTSTART:20260917T140000Z
+DTEND:20260917T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:MZP vs GL
+URL;VALUE=URI:https://kick.com/connect_en
 END:VEVENT
 END:VCALENDAR

@@ -131,4 +131,59 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Regular Season
 SUMMARY:MTX vs Diamant Esports
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T080000Z
+UID:pandascore-match-1681241@esport-ics
+DTSTART:20260910T080000Z
+DTEND:20260910T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:LDP vs  MTX
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T091500Z
+UID:pandascore-match-1681243@esport-ics
+DTSTART:20260910T091500Z
+DTEND:20260910T100000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:TEIKO vs  MTX
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T103000Z
+UID:pandascore-match-1681247@esport-ics
+DTSTART:20260910T103000Z
+DTEND:20260910T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY: MTX vs maybe
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T114500Z
+UID:pandascore-match-1681251@esport-ics
+DTSTART:20260910T114500Z
+DTEND:20260910T123000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY: MTX vs GBC
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T130000Z
+UID:pandascore-match-1681254@esport-ics
+DTSTART:20260910T130000Z
+DTEND:20260910T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:REV vs  MTX
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
 END:VCALENDAR

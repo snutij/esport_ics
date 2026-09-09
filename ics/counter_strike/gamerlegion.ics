@@ -496,6 +496,61 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ki
  ck.com/fissure_cs_a
 SUMMARY:Lower bracket round 1 match 2: TYLOO vs GL
-URL;VALUE=URI:https://kick.com/fissure_cs_a
+URL:https://kick.com/fissure_cs_a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T090000Z
+UID:pandascore-match-1681373@esport-ics
+DTSTART:20260917T090000Z
+DTEND:20260917T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:GL vs LG
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T100000Z
+UID:pandascore-match-1681375@esport-ics
+DTSTART:20260917T100000Z
+DTEND:20260917T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:B8 vs GL
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T110000Z
+UID:pandascore-match-1681377@esport-ics
+DTSTART:20260917T110000Z
+DTEND:20260917T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:M80 vs GL
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T130000Z
+UID:pandascore-match-1681381@esport-ics
+DTSTART:20260917T130000Z
+DTEND:20260917T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:GL vs NIP
+URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T140000Z
+UID:pandascore-match-1681383@esport-ics
+DTSTART:20260917T140000Z
+DTEND:20260917T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
+ om/connect_en
+SUMMARY:MZP vs GL
+URL;VALUE=URI:https://kick.com/connect_en
 END:VEVENT
 END:VCALENDAR

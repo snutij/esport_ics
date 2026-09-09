@@ -925,6 +925,17 @@ CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #1: Closed Qualifier 2026 - Playoffs\nWatch
  : https://www.twitch.tv/1win_cs
 SUMMARY:Round 2 match 2: INOX vs NTR
-URL;VALUE=URI:https://www.twitch.tv/1win_cs
+URL:https://www.twitch.tv/1win_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T170000Z
+UID:pandascore-match-1651682@esport-ics
+DTSTART:20260910T170000Z
+DTEND:20260910T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #8 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 5: INOX vs Black Phoenix
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
