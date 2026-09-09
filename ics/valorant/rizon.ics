@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:THE POKAL - 2026 - Playoffs\nWatch: https://www.twitch.tv/madku
  roo
 SUMMARY:Lower bracket quarterfinal 2: RZN vs GG
-URL;VALUE=URI:https://www.twitch.tv/madkuroo
+URL:https://www.twitch.tv/madkuroo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T160000Z
+UID:pandascore-match-1661590@esport-ics
+DTSTART:20260910T160000Z
+DTEND:20260910T181500Z
+CLASS:PUBLIC
+DESCRIPTION:THE POKAL - 2026 - Playoffs\nWatch: https://www.twitch.tv/valor
+ antleague_dach
+SUMMARY:Lower bracket semifinal: GZE vs RZN
+URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
 END:VEVENT
 END:VCALENDAR

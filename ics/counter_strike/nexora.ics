@@ -193,6 +193,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/roundsgg
 SUMMARY:Lower bracket round 2 match 8: RGG vs NEXORA
-URL;VALUE=URI:https://www.twitch.tv/roundsgg
+URL:https://www.twitch.tv/roundsgg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T173000Z
+UID:pandascore-match-1664534@esport-ics
+DTSTART:20260911T173000Z
+DTEND:20260911T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+SUMMARY:Lower bracket round 3 match 4: DINERO vs NEXORA
 END:VEVENT
 END:VCALENDAR

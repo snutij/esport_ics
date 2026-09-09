@@ -629,7 +629,18 @@ DTEND:20260910T131500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/PGL
-SUMMARY:Lower Bracket Round 1 match 2: NIP vs TBD
+SUMMARY:Lower Bracket Round 1 match 2: NIP vs ICE
 URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T140000Z
+UID:pandascore-match-1678036@esport-ics
+DTSTART:20260910T140000Z
+DTEND:20260910T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ D\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Elimination match: NIP vs INF
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

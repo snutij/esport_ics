@@ -229,6 +229,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/vebka1221
 SUMMARY:Upper bracket quarterfinal 2: DM vs Spirit Academy Green
-URL;VALUE=URI:https://www.twitch.tv/vebka1221
+URL:https://www.twitch.tv/vebka1221
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T173000Z
+UID:pandascore-match-1664535@esport-ics
+DTSTART:20260914T173000Z
+DTEND:20260914T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+SUMMARY:Lower bracket round 4 match 1: DM vs TBD
 END:VEVENT
 END:VCALENDAR

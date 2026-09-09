@@ -1006,7 +1006,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/sv_theunknown
 SUMMARY:Upper bracket quarterfinal 1: FF vs DRAMA
-URL;VALUE=URI:https://www.twitch.tv/sv_theunknown
+URL:https://www.twitch.tv/sv_theunknown
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T110000Z
@@ -1018,5 +1018,14 @@ DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Lower Bracket Round 3 Match 2: IC.A vs FF
 URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T173000Z
+UID:pandascore-match-1664507@esport-ics
+DTSTART:20260911T173000Z
+DTEND:20260911T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 1: Spirit Academy Green vs FF
 END:VEVENT
 END:VCALENDAR
