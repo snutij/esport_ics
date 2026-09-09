@@ -608,7 +608,7 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/PGL
 SUMMARY:Upper Bracket Quarterfinal 3: NIP vs SIN
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T170000Z
@@ -619,6 +619,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
  D\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:NIP vs FOKUS
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T110000Z
+UID:pandascore-match-1676028@esport-ics
+DTSTART:20260910T110000Z
+DTEND:20260910T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/PGL
+SUMMARY:Lower Bracket Round 1 match 2: NIP vs TBD
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

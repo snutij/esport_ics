@@ -168,6 +168,16 @@ CLASS:PUBLIC
 DESCRIPTION:Nexus League - Summer 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/teamtskofficiel
 SUMMARY:Grand final: KCBS vs PCS
-URL;VALUE=URI:https://www.twitch.tv/teamtskofficiel
+URL:https://www.twitch.tv/teamtskofficiel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T160000Z
+UID:pandascore-match-1681208@esport-ics
+DTSTART:20260910T160000Z
+DTEND:20260910T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LFL - 2027 - Promotion\nWatch: https://www.twitch.tv/otplol_
+SUMMARY:Quarterfinal 2: ZYB vs PCS
+URL;VALUE=URI:https://www.twitch.tv/otplol_
 END:VEVENT
 END:VCALENDAR

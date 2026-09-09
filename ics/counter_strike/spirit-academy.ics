@@ -488,6 +488,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #9 2026 - Group B\nWatch:
   https://kick.com/cct_cs
 SUMMARY:SSins vs TS.A
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T170000Z
+UID:pandascore-match-1677984@esport-ics
+DTSTART:20260910T170000Z
+DTEND:20260910T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #9 2026 - Group B\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:Winners match: TS.A vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

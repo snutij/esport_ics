@@ -953,6 +953,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/PGL
 SUMMARY:Upper Bracket Quarterfinal 4: ICE vs NEMI
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T130000Z
+UID:pandascore-match-1673531@esport-ics
+DTSTART:20260910T130000Z
+DTEND:20260910T151500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #1: Closed Qualifier 2026 - Playoffs\nWatch
+ : https://www.twitch.tv/1win_cs
+SUMMARY:Round 3 match 2: NEMI vs TBD
+URL;VALUE=URI:https://www.twitch.tv/1win_cs
 END:VEVENT
 END:VCALENDAR
