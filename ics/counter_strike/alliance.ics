@@ -847,6 +847,17 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
  w.twitch.tv/fissure_cs_eng
 SUMMARY:Upper bracket semifinal 1: LGC vs ALL
+URL:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T030000Z
+UID:pandascore-match-1674246@esport-ics
+DTSTART:20260910T030000Z
+DTEND:20260910T051500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/fissure_cs_eng
+SUMMARY:Lower bracket semifinal 2: ALL vs TYLOO
 URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
 END:VEVENT
 END:VCALENDAR

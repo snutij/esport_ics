@@ -68,6 +68,42 @@ CLASS:PUBLIC
 DESCRIPTION:Winline Star Series - Season 3 2026 - Playoffs\nWatch: https://
  www.twitch.tv/mariachi
 SUMMARY:Lower bracket quarterfinal 1: Rostikfacekid Club vs VooDooSh Club
-URL;VALUE=URI:https://www.twitch.tv/mariachi
+URL:https://www.twitch.tv/mariachi
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T150000Z
+UID:pandascore-match-1680132@esport-ics
+DTSTART:20260910T150000Z
+DTEND:20260910T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Winline Star Series - Season 4 2026 - Group A
+SUMMARY:Rostikfacekid Club vs YBN Club
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T150000Z
+UID:pandascore-match-1680138@esport-ics
+DTSTART:20260913T150000Z
+DTEND:20260913T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Winline Star Series - Season 4 2026 - Group A
+SUMMARY:Rostikfacekid Club vs Cooman Club
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T180000Z
+UID:pandascore-match-1680139@esport-ics
+DTSTART:20260914T180000Z
+DTEND:20260914T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Winline Star Series - Season 4 2026 - Group A
+SUMMARY:Rostikfacekid Club vs Stray Club
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260915T180000Z
+UID:pandascore-match-1680141@esport-ics
+DTSTART:20260915T180000Z
+DTEND:20260915T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Winline Star Series - Season 4 2026 - Group A
+SUMMARY:Rostikfacekid Club vs Rostik999 Club
 END:VEVENT
 END:VCALENDAR

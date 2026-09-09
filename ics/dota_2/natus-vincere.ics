@@ -528,6 +528,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 2 2026 - Playoffs\nWatch: https://kick.com
  /epldota_en2
 SUMMARY:Upper bracket final: Na`Vi vs GL
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T150000Z
+UID:pandascore-match-1659342@esport-ics
+DTSTART:20260910T150000Z
+DTEND:20260910T184500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 2 2026 - Playoffs\nWatch: https://kick.com
+ /epldota_en2
+SUMMARY:Grand final: Na`Vi vs TBD
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

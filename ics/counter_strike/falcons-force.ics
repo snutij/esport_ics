@@ -774,7 +774,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group B\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Decider match: FAL.F vs EP
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T173000Z
@@ -784,5 +784,16 @@ DTEND:20260909T194500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 3: FAL.F vs BERG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T140000Z
+UID:pandascore-match-1677980@esport-ics
+DTSTART:20260910T140000Z
+DTEND:20260910T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #9 2026 - Group A\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:Winners match: mellren vs FAL.F
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

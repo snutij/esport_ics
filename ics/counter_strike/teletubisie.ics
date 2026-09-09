@@ -223,7 +223,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 55 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:TTBS vs EF.A
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T140000Z
@@ -235,5 +235,16 @@ DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #2 2026 - Group A\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:Decider match: TTBS vs EP
 URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T080000Z
+UID:pandascore-match-1673409@esport-ics
+DTSTART:20260913T080000Z
+DTEND:20260913T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 55 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Winners match: GAT vs TTBS
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

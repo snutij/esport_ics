@@ -317,7 +317,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #9 2026 - Group A\nWatch:
   https://kick.com/cct_cs
 SUMMARY:mellren vs ex-Sashi Academy
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T140000Z
@@ -327,7 +327,7 @@ DTEND:20260910T161500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #9 2026 - Group A\nWatch:
   https://kick.com/cct_cs
-SUMMARY:Winners match: mellren vs TBD
+SUMMARY:Winners match: mellren vs FAL.F
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

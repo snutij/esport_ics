@@ -342,6 +342,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
  A\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:K27 vs VP
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T080000Z
+UID:pandascore-match-1678020@esport-ics
+DTSTART:20260910T080000Z
+DTEND:20260910T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ A\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Elimination match: BST vs VP
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

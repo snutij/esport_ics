@@ -357,6 +357,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: East Asian Qualifier 2026 - Playoffs\n
  Watch: https://www.twitch.tv/PGL
 SUMMARY:Upper Bracket Semifinal 1: 5S vs NEXVOID
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T133000Z
+UID:pandascore-match-1676089@esport-ics
+DTSTART:20260909T133000Z
+DTEND:20260909T154500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: East Asian Qualifier 2026 - Playoffs\n
+ Watch: https://www.youtube.com/watch?v=inlI5-v0LkI
+SUMMARY:Upper Bracket Final: TYLOO vs NEXVOID
+URL;VALUE=URI:https://www.youtube.com/watch?v=inlI5-v0LkI
 END:VEVENT
 END:VCALENDAR

@@ -517,6 +517,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
  B\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:HOTU vs WC
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T080000Z
+UID:pandascore-match-1678026@esport-ics
+DTSTART:20260910T080000Z
+DTEND:20260910T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ B\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Elimination match: WC vs TBD
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
