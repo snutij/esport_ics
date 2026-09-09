@@ -14,6 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: Oceanic Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/PGL
 SUMMARY:Upper Bracket Semifinal 2: FLY vs Devious
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T090000Z
+UID:pandascore-match-1676126@esport-ics
+DTSTART:20260909T090000Z
+DTEND:20260909T111500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: Oceanic Qualifier 2026 - Playoffs
+SUMMARY:Lower Bracket Semifinal: Devious vs TBD
 END:VEVENT
 END:VCALENDAR

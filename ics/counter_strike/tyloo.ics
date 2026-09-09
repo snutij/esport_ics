@@ -666,7 +666,7 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: East Asian Qualifier 2026 - Playoffs\n
  Watch: https://www.twitch.tv/PGL
 SUMMARY:Upper Bracket Semifinal 2: TYLOO vs THE
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T090000Z
@@ -674,9 +674,20 @@ UID:pandascore-match-1674244@esport-ics
 DTSTART:20260909T090000Z
 DTEND:20260909T111500Z
 CLASS:PUBLIC
-DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
- w.twitch.tv/fissure_cs_eng
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ki
+ ck.com/fissure_cs_a
 SUMMARY:Lower bracket round 1 match 2: TYLOO vs GL
-URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
+URL;VALUE=URI:https://kick.com/fissure_cs_a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T110000Z
+UID:pandascore-match-1676089@esport-ics
+DTSTART:20260909T110000Z
+DTEND:20260909T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: East Asian Qualifier 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/PGL
+SUMMARY:Upper Bracket Final: TYLOO vs TBD
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

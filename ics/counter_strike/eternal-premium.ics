@@ -838,4 +838,15 @@ DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group B\nWatch:
 SUMMARY:Decider match: FAL.F vs EP
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T140000Z
+UID:pandascore-match-1679907@esport-ics
+DTSTART:20260909T140000Z
+DTEND:20260909T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #2 2026 - Group A\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Decider match: TTBS vs EP
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
 END:VCALENDAR
