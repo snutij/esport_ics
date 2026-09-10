@@ -371,14 +371,12 @@ SUMMARY:Upper Bracket Final: TYLOO vs NEXVOID
 URL:https://www.youtube.com/watch?v=inlI5-v0LkI
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T090000Z
+DTSTAMP:20260910T111000Z
 UID:pandascore-match-1676091@esport-ics
-DTSTART:20260910T090000Z
-DTEND:20260910T111500Z
+DTSTART:20260910T111000Z
+DTEND:20260910T132500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL Masters - Bucharest: East Asian Qualifier 2026 - Playoffs\n
- Watch: https://www.twitch.tv/PGL
+DESCRIPTION:PGL Masters - Bucharest: East Asian Qualifier 2026 - Playoffs
 SUMMARY:Lower Bracket Final: 5S vs NEXVOID
-URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

@@ -364,4 +364,15 @@ DESCRIPTION:China Evolution Series - Act 3 2026 - Playoffs\nWatch: https://
 SUMMARY:Quarterfinal 4: JDG vs AQ
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T120000Z
+UID:pandascore-match-1682149@esport-ics
+DTSTART:20260927T120000Z
+DTEND:20260927T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Champions 2026 - Group A\nWatch: https://www.twitch.tv/va
+ lorant
+SUMMARY:JDG vs FUT
+URL;VALUE=URI:https://www.twitch.tv/valorant
+END:VEVENT
 END:VCALENDAR

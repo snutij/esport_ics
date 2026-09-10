@@ -218,7 +218,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group A\nWatch: https://ki
  ck.com/roman
 SUMMARY:TEIKO vs GBC
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T091500Z
@@ -229,18 +229,18 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group A\nWatch: https://ki
  ck.com/roman
 SUMMARY:GBC vs REV
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T103000Z
+DTSTAMP:20260910T110000Z
 UID:pandascore-match-1681248@esport-ics
-DTSTART:20260910T103000Z
-DTEND:20260910T111500Z
+DTSTART:20260910T110000Z
+DTEND:20260910T114500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group A\nWatch: https://ki
- ck.com/roman
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/roman
 SUMMARY:GBC vs LDP
-URL;VALUE=URI:https://kick.com/roman
+URL;VALUE=URI:https://www.twitch.tv/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T114500Z

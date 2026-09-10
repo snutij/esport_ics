@@ -250,6 +250,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 2 2026 - Playoffs\nWatch: https://www.twitch.t
  v/valorant_emea
 SUMMARY:Grand final: KC vs TL
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T120000Z
+UID:pandascore-match-1682155@esport-ics
+DTSTART:20260925T120000Z
+DTEND:20260925T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Champions 2026 - Group D\nWatch: https://www.twitch.tv/va
+ lorant
+SUMMARY:KC vs XLG
+URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

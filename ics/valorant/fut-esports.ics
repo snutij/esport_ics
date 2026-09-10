@@ -353,6 +353,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 2 2026 - Playoffs\nWatch: https://www.twitch.t
  v/valorant_emea
 SUMMARY:Lower bracket final: FUT vs TL
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T120000Z
+UID:pandascore-match-1682149@esport-ics
+DTSTART:20260927T120000Z
+DTEND:20260927T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Champions 2026 - Group A\nWatch: https://www.twitch.tv/va
+ lorant
+SUMMARY:JDG vs FUT
+URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

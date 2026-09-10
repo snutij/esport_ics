@@ -698,15 +698,15 @@ SUMMARY:Upper Bracket Quarterfinal 3: NIP vs SIN
 URL:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T100000Z
+DTSTAMP:20260910T110000Z
 UID:pandascore-match-1673530@esport-ics
-DTSTART:20260910T100000Z
-DTEND:20260910T121500Z
+DTSTART:20260910T110000Z
+DTEND:20260910T131500Z
 CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #1: Closed Qualifier 2026 - Playoffs\nWatch
- : https://www.twitch.tv/1win_cs
+ : https://kick.com/dutchboycasts
 SUMMARY:Round 3 match 1: SIN vs NTR
-URL;VALUE=URI:https://www.twitch.tv/1win_cs
+URL;VALUE=URI:https://kick.com/dutchboycasts
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T170000Z
@@ -715,8 +715,8 @@ DTSTART:20260910T170000Z
 DTEND:20260910T191500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
- tch: https://www.twitch.tv/PGL
+ tch: https://www.twitch.tv/leszklaren
 SUMMARY:Upper Bracket Semifinal 2: SIN vs NEMI
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL;VALUE=URI:https://www.twitch.tv/leszklaren
 END:VEVENT
 END:VCALENDAR

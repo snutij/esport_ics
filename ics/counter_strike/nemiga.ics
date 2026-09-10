@@ -962,9 +962,9 @@ DTSTART:20260910T130000Z
 DTEND:20260910T151500Z
 CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #1: Closed Qualifier 2026 - Playoffs\nWatch
- : https://www.twitch.tv/1win_cs
+ : https://kick.com/dutchboycasts
 SUMMARY:Round 3 match 2: NEMI vs K27
-URL;VALUE=URI:https://www.twitch.tv/1win_cs
+URL;VALUE=URI:https://kick.com/dutchboycasts
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T170000Z
@@ -973,8 +973,19 @@ DTSTART:20260910T170000Z
 DTEND:20260910T191500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
- tch: https://www.twitch.tv/PGL
+ tch: https://www.twitch.tv/leszklaren
 SUMMARY:Upper Bracket Semifinal 2: SIN vs NEMI
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL;VALUE=URI:https://www.twitch.tv/leszklaren
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T173000Z
+UID:pandascore-match-1682116@esport-ics
+DTSTART:20261001T173000Z
+DTEND:20261001T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 4 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper Bracket Quarterfinal 1: FaZe vs NEMI
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

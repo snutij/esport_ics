@@ -685,9 +685,9 @@ DTSTART:20260910T140000Z
 DTEND:20260910T161500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
- tch: https://www.twitch.tv/PGL
+ tch: https://www.twitch.tv/leszklaren
 SUMMARY:Upper Bracket Semifinal 1: 1WIN vs B8
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL;VALUE=URI:https://www.twitch.tv/leszklaren
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260917T080000Z
@@ -743,5 +743,16 @@ DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
  om/connect_en
 SUMMARY:B8 vs M80
 URL;VALUE=URI:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T100000Z
+UID:pandascore-match-1682119@esport-ics
+DTSTART:20261001T100000Z
+DTEND:20261001T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 4 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper Bracket Quarterfinal 3: LG vs B8
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

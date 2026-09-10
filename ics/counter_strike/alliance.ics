@@ -868,7 +868,18 @@ DTEND:20260910T141500Z
 CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
  w.twitch.tv/fissure_cs_eng
-SUMMARY:Lower bracket final: ALL vs TBD
+SUMMARY:Lower bracket final: ALL vs MGC
 URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T150000Z
+UID:pandascore-match-1682117@esport-ics
+DTSTART:20261001T150000Z
+DTEND:20261001T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 4 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper Bracket Quarterfinal 2: ALL vs AST
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
