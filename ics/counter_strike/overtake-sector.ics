@@ -125,7 +125,9 @@ UID:pandascore-match-1669721@esport-ics
 DTSTART:20260910T010000Z
 DTEND:20260910T031500Z
 CLASS:PUBLIC
-DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs
+DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/nstlga_gg
 SUMMARY:Upper bracket quarterfinal 2: IOWA vs OT
+URL;VALUE=URI:https://www.twitch.tv/nstlga_gg
 END:VEVENT
 END:VCALENDAR
