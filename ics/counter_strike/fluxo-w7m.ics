@@ -548,6 +548,16 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: South American Closed Qualifier 2026 -
   Playoffs\nWatch: https://kick.com/trottah
 SUMMARY:Upper Bracket Semifinal 2: FXW7 vs DENDELE CS
-URL;VALUE=URI:https://kick.com/trottah
+URL:https://kick.com/trottah
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T140000Z
+UID:pandascore-match-1677310@esport-ics
+DTSTART:20260911T140000Z
+DTEND:20260911T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: South American Closed Qualifier 2026 -
+  Playoffs
+SUMMARY:Lower Bracket Quarterfinal 1: Back to Back  vs FXW7
 END:VEVENT
 END:VCALENDAR
