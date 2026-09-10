@@ -472,4 +472,15 @@ DESCRIPTION:European Pro League - Series 9 Closed Qualifier 2026 - Play-In\
 SUMMARY:VEX vs SINQU
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T170000Z
+UID:pandascore-match-1683338@esport-ics
+DTSTART:20260911T170000Z
+DTEND:20260911T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group C\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Elimination match: SINQU vs MISA
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

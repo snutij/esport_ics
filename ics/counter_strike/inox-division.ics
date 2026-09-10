@@ -936,6 +936,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #8 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs2
 SUMMARY:Round 5: INOX vs Black Phoenix
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T140000Z
+UID:pandascore-match-1651785@esport-ics
+DTSTART:20260911T140000Z
+DTEND:20260911T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #8 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs2
+SUMMARY:Round of 16 match 7: ACE vs INOX
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

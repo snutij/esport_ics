@@ -1202,6 +1202,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #8 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs2
 SUMMARY:Round 3: LVKD vs Leo
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T110000Z
+UID:pandascore-match-1651784@esport-ics
+DTSTART:20260911T110000Z
+DTEND:20260911T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #8 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs2
+SUMMARY:Round of 16 match 2: MZP vs LVKD
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

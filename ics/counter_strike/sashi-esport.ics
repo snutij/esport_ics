@@ -747,6 +747,17 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/connect_en
 SUMMARY:Quarterfinal 2: MZP vs SASHI
-URL;VALUE=URI:https://www.twitch.tv/connect_en
+URL:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T080000Z
+UID:pandascore-match-1651787@esport-ics
+DTSTART:20260912T080000Z
+DTEND:20260912T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #8 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs2
+SUMMARY:Round of 16 match 6: SASHI vs PCIFIC
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

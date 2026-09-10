@@ -798,7 +798,18 @@ DTEND:20260911T161500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/PGL
-SUMMARY:Upper Bracket Final: 1WIN vs TBD
+SUMMARY:Upper Bracket Final: 1WIN vs NEMI
 URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T170000Z
+UID:pandascore-match-1678038@esport-ics
+DTSTART:20260911T170000Z
+DTEND:20260911T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ D\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Decider match: 1WIN vs NIP
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

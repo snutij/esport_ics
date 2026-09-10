@@ -198,7 +198,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B\nWatch: https://ki
  ck.com/roman
 SUMMARY:6666 vs Nice Try
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T203000Z
@@ -209,6 +209,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B\nWatch: https://ki
  ck.com/roman
 SUMMARY:6666 vs GPN
+URL:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T100000Z
+UID:pandascore-match-1681271@esport-ics
+DTSTART:20260911T100000Z
+DTEND:20260911T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Play-In Stage\nWatch: http
+ s://kick.com/roman
+SUMMARY:Qualification match 2: maybe vs 6666
 URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

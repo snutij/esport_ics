@@ -126,6 +126,17 @@ SUMMARY:BBP vs WBT.A
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260911T140000Z
+UID:pandascore-match-1683337@esport-ics
+DTSTART:20260911T140000Z
+DTEND:20260911T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group D\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Elimination match: WBT.A vs PERM
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260911T173000Z
 UID:pandascore-match-1664531@esport-ics
 DTSTART:20260911T173000Z
