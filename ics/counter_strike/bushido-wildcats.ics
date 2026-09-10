@@ -1263,4 +1263,15 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #9 2026 - Group D\nWatch:
 SUMMARY:BW vs Entropy
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T110000Z
+UID:pandascore-match-1669127@esport-ics
+DTSTART:20260912T110000Z
+DTEND:20260912T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper Bracket Final: BW vs MISA
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
 END:VCALENDAR

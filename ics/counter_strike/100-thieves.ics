@@ -780,6 +780,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
  C\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Elimination match: ACE vs 100T
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T140000Z
+UID:pandascore-match-1678033@esport-ics
+DTSTART:20260911T140000Z
+DTEND:20260911T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ C\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Deciedr match: 3DMAX vs 100T
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

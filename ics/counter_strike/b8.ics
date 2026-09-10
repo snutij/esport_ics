@@ -690,6 +690,17 @@ SUMMARY:Upper Bracket Semifinal 1: 1WIN vs B8
 URL:https://www.twitch.tv/leszklaren
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260911T080000Z
+UID:pandascore-match-1676030@esport-ics
+DTSTART:20260911T080000Z
+DTEND:20260911T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/PGL
+SUMMARY:Lower Bracket Quarterfinal 2: B8 vs ICE
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260917T080000Z
 UID:pandascore-match-1681372@esport-ics
 DTSTART:20260917T080000Z

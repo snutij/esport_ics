@@ -656,6 +656,17 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group A\nWatch: https://ki
  ck.com/fissure_cs_b
 SUMMARY:Upper bracket final: MIBR vs BB
-URL;VALUE=URI:https://kick.com/fissure_cs_b
+URL:https://kick.com/fissure_cs_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T090000Z
+UID:pandascore-match-1674232@esport-ics
+DTSTART:20260912T090000Z
+DTEND:20260912T111500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/fissure_cs_eng
+SUMMARY:Semifinal 1: TBD vs BB
+URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
 END:VEVENT
 END:VCALENDAR

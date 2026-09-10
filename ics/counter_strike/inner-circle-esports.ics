@@ -656,14 +656,14 @@ SUMMARY:Lower Bracket Round 1 match 2: NIP vs ICE
 URL:https://www.twitch.tv/watchfulTV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260911T110000Z
+DTSTAMP:20260911T080000Z
 UID:pandascore-match-1676030@esport-ics
-DTSTART:20260911T110000Z
-DTEND:20260911T131500Z
+DTSTART:20260911T080000Z
+DTEND:20260911T101500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/PGL
-SUMMARY:Lower Bracket Quarterfinal 2: ICE vs TBD
+SUMMARY:Lower Bracket Quarterfinal 2: B8 vs ICE
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
