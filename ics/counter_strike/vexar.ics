@@ -517,7 +517,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group D\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Winners match: BIG.A vs VEX
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260907T130000Z
@@ -527,5 +527,16 @@ DTEND:20260907T151500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #6 season 52 2026 - Group B
 SUMMARY:Decider Match: VEX vs DM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T103000Z
+UID:pandascore-match-1658073@esport-ics
+DTSTART:20260911T103000Z
+DTEND:20260911T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 9 Closed Qualifier 2026 - Play-In\
+ nWatch: https://kick.com/eplcs_en
+SUMMARY:VEX vs SINQU
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

@@ -1004,6 +1004,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
  B\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Winners match: HOTU vs NEM
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T110000Z
+UID:pandascore-match-1678028@esport-ics
+DTSTART:20260911T110000Z
+DTEND:20260911T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Group 
+ B\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Decider match: NEM vs WC
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

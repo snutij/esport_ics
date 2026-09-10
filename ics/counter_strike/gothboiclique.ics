@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Gothboiclique
+X-WR-CALNAME:gothboiclique
 SLUG:gothboiclique
 BEGIN:VEVENT
 DTSTAMP:20260212T104500Z
@@ -240,7 +240,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group A\nWatch: https://ww
  w.twitch.tv/roman
 SUMMARY:GBC vs LDP
-URL;VALUE=URI:https://www.twitch.tv/roman
+URL:https://www.twitch.tv/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T114500Z
@@ -251,7 +251,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group A\nWatch: https://ki
  ck.com/roman
 SUMMARY: MTX vs GBC
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T130000Z
@@ -262,7 +262,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group A\nWatch: https://ki
  ck.com/roman
 SUMMARY:maybe vs GBC
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T181500Z

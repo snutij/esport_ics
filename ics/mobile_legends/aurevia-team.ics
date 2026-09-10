@@ -14,6 +14,28 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Continental Championships - Season 8 2026 - Regular Season
  \nWatch: https://www.twitch.tv/mlbb_cis
 SUMMARY:LVLUP vs Aurevia Team
+URL:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T170000Z
+UID:pandascore-match-1683040@esport-ics
+DTSTART:20260912T170000Z
+DTEND:20260912T191500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Continental Championships - Season 8 2026 - Regular Season
+ \nWatch: https://www.twitch.tv/mlbb_cis
+SUMMARY:YNDX vs Aurevia Team
+URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T150000Z
+UID:pandascore-match-1683043@esport-ics
+DTSTART:20260913T150000Z
+DTEND:20260913T171500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Continental Championships - Season 8 2026 - Regular Season
+ \nWatch: https://www.twitch.tv/mlbb_cis
+SUMMARY:Aurevia Team vs Omnix
 URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
 END:VEVENT
 END:VCALENDAR

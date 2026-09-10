@@ -377,6 +377,17 @@ CLASS:PUBLIC
 DESCRIPTION:KPL Growth League - Summer 2026 - Group Stage\nWatch: https://w
  ww.douyu.com/1984839
 SUMMARY:KLG vs WZ
-URL;VALUE=URI:https://www.douyu.com/1984839
+URL:https://www.douyu.com/1984839
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T110000Z
+UID:pandascore-match-1682266@esport-ics
+DTSTART:20260914T110000Z
+DTEND:20260914T161500Z
+CLASS:PUBLIC
+DESCRIPTION:KPL Growth League - Promotion 2027 - Playoffs\nWatch: https://w
+ ww.douyu.com/987
+SUMMARY:Matchday 1: WZ vs MTG
+URL;VALUE=URI:https://www.douyu.com/987
 END:VEVENT
 END:VCALENDAR

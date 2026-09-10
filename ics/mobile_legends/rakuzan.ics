@@ -14,6 +14,28 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Continental Championships - Season 8 2026 - Regular Season
  \nWatch: https://www.twitch.tv/mlbb_cis
 SUMMARY:Rakuzan vs RE
+URL:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T130000Z
+UID:pandascore-match-1683038@esport-ics
+DTSTART:20260912T130000Z
+DTEND:20260912T151500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Continental Championships - Season 8 2026 - Regular Season
+ \nWatch: https://www.twitch.tv/mlbb_cis
+SUMMARY:CH vs Rakuzan
+URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T170000Z
+UID:pandascore-match-1683044@esport-ics
+DTSTART:20260913T170000Z
+DTEND:20260913T191500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Continental Championships - Season 8 2026 - Regular Season
+ \nWatch: https://www.twitch.tv/mlbb_cis
+SUMMARY:TS vs Rakuzan
 URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
 END:VEVENT
 END:VCALENDAR
