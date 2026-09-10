@@ -128,6 +128,15 @@ CLASS:PUBLIC
 DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/nstlga_gg
 SUMMARY:Upper bracket quarterfinal 2: IOWA vs OT
-URL;VALUE=URI:https://www.twitch.tv/nstlga_gg
+URL:https://www.twitch.tv/nstlga_gg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T010000Z
+UID:pandascore-match-1669729@esport-ics
+DTSTART:20260912T010000Z
+DTEND:20260912T031500Z
+CLASS:PUBLIC
+DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 1: OT vs TBD
 END:VEVENT
 END:VCALENDAR

@@ -542,6 +542,16 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: South American Closed Qualifier 2026 -
   Playoffs\nWatch: https://www.twitch.tv/tris_mara
 SUMMARY:Upper Bracket Quarterfinal 1: paiN vs Back to Back 
-URL;VALUE=URI:https://www.twitch.tv/tris_mara
+URL:https://www.twitch.tv/tris_mara
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T230000Z
+UID:pandascore-match-1677305@esport-ics
+DTSTART:20260910T230000Z
+DTEND:20260911T011500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: South American Closed Qualifier 2026 -
+  Playoffs
+SUMMARY:Upper Bracket Semifinal 1: paiN vs IMP
 END:VEVENT
 END:VCALENDAR

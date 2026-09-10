@@ -614,7 +614,7 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: North American Qualifier 2026 - Playof
  fs\nWatch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Upper Bracket Quarterfinal 3: CCE vs MARS
-URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
+URL:https://www.twitch.tv/karmaflexxx
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T200000Z
@@ -624,5 +624,16 @@ DTEND:20260910T221500Z
 CLASS:PUBLIC
 DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs
 SUMMARY:Upper bracket quarterfinal 4: MARS vs WaR
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T020000Z
+UID:pandascore-match-1676458@esport-ics
+DTSTART:20260911T020000Z
+DTEND:20260911T041500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: North American Qualifier 2026 - Playof
+ fs\nWatch: https://www.twitch.tv/PGL
+SUMMARY:Upper Bracket Semifinal 2: TL vs MARS
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

@@ -485,7 +485,18 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: North American Qualifier 2026 - Playof
  fs\nWatch: https://www.twitch.tv/leszklaren
 SUMMARY:Upper Bracket Quarterfinal 4: TL vs antivalue
-URL;VALUE=URI:https://www.twitch.tv/leszklaren
+URL:https://www.twitch.tv/leszklaren
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T020000Z
+UID:pandascore-match-1676458@esport-ics
+DTSTART:20260911T020000Z
+DTEND:20260911T041500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: North American Qualifier 2026 - Playof
+ fs\nWatch: https://www.twitch.tv/PGL
+SUMMARY:Upper Bracket Semifinal 2: TL vs MARS
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260918T090000Z
