@@ -50,6 +50,17 @@ SUMMARY:Elimination match: SSins vs Mai Tai
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260911T140000Z
+UID:pandascore-match-1683135@esport-ics
+DTSTART:20260911T140000Z
+DTEND:20260911T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 1: SSins vs VEX
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260913T110000Z
 UID:pandascore-match-1677986@esport-ics
 DTSTART:20260913T110000Z

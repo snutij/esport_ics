@@ -561,6 +561,17 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/fissure_cs_eng
 SUMMARY:Quarterfinal 2: MIBR vs ALL
+URL:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T060000Z
+UID:pandascore-match-1674231@esport-ics
+DTSTART:20260912T060000Z
+DTEND:20260912T081500Z
+CLASS:PUBLIC
+DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/fissure_cs_eng
+SUMMARY:Semifinal 2: MIBR vs LGC
 URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
 END:VEVENT
 END:VCALENDAR

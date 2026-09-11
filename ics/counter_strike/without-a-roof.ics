@@ -124,6 +124,15 @@ SUMMARY:Lower Bracket Round 1 match 1: VIL vs WaR
 URL:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260911T210000Z
+UID:pandascore-match-1669726@esport-ics
+DTSTART:20260911T210000Z
+DTEND:20260911T231500Z
+CLASS:PUBLIC
+DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 2: LAG vs WaR
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260911T230000Z
 UID:pandascore-match-1676463@esport-ics
 DTSTART:20260911T230000Z
@@ -131,16 +140,7 @@ DTEND:20260912T011500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: North American Qualifier 2026 - Playof
  fs\nWatch: https://www.twitch.tv/PGL
-SUMMARY:Lower Bracket Quarterfinal 1: WaR vs TBD
+SUMMARY:Lower Bracket Quarterfinal 1: WaR vs MARS
 URL;VALUE=URI:https://www.twitch.tv/PGL
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260912T010000Z
-UID:pandascore-match-1669726@esport-ics
-DTSTART:20260912T010000Z
-DTEND:20260912T031500Z
-CLASS:PUBLIC
-DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs
-SUMMARY:Upper bracket semifinal 2: LAG vs WaR
 END:VEVENT
 END:VCALENDAR

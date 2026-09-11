@@ -805,7 +805,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 9 Closed Qualifier 2026 - Play-In\
  nWatch: https://kick.com/eplcs_en
 SUMMARY:NAVI.J vs FAL.F
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260911T110000Z
@@ -819,10 +819,10 @@ SUMMARY:Round 1: FAL.F vs TrafficPills Esports
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260911T173000Z
+DTSTAMP:20260913T110000Z
 UID:pandascore-match-1664508@esport-ics
-DTSTART:20260911T173000Z
-DTEND:20260911T194500Z
+DTSTART:20260913T110000Z
+DTEND:20260913T131500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 2: FAL.F vs NAVI.J
