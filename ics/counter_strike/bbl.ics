@@ -125,4 +125,15 @@ DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
 SUMMARY:BBL vs TL
 URL;VALUE=URI:https://kick.com/connect_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T100000Z
+UID:pandascore-match-1684016@esport-ics
+DTSTART:20260922T100000Z
+DTEND:20260922T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat II 2026 - Group B\nWatch: https://kick.com/s
+ take_pulse
+SUMMARY:VP vs BBL
+URL;VALUE=URI:https://kick.com/stake_pulse
+END:VEVENT
 END:VCALENDAR

@@ -423,7 +423,9 @@ UID:pandascore-match-1669729@esport-ics
 DTSTART:20260911T233000Z
 DTEND:20260912T014500Z
 CLASS:PUBLIC
-DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs
+DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/nstlga_gg
 SUMMARY:Lower bracket round 1 match 1: FV vs OT
+URL;VALUE=URI:https://www.twitch.tv/nstlga_gg
 END:VEVENT
 END:VCALENDAR

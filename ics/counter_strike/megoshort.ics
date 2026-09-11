@@ -885,6 +885,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Lower Bracket Quarterfinal 2: IC.A vs MEGO
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T134500Z
+UID:pandascore-match-1669130@esport-ics
+DTSTART:20260912T134500Z
+DTEND:20260912T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Lower Bracket Semifinal: MEGO vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

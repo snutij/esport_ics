@@ -545,6 +545,17 @@ SUMMARY:Lower bracket semifinal 1: AST vs 5S
 URL:https://www.twitch.tv/fissure_cs_eng
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260921T100000Z
+UID:pandascore-match-1684007@esport-ics
+DTSTART:20260921T100000Z
+DTEND:20260921T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat II 2026 - Group A\nWatch: https://kick.com/s
+ take_pulse
+SUMMARY:AST vs SNG
+URL;VALUE=URI:https://kick.com/stake_pulse
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261001T150000Z
 UID:pandascore-match-1682117@esport-ics
 DTSTART:20261001T150000Z

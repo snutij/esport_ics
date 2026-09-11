@@ -1025,7 +1025,9 @@ UID:pandascore-match-1664507@esport-ics
 DTSTART:20260911T173000Z
 DTEND:20260911T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/r3s0luteee
 SUMMARY:Upper bracket semifinal 1: Spirit Academy Green vs FF
+URL;VALUE=URI:https://www.twitch.tv/r3s0luteee
 END:VEVENT
 END:VCALENDAR

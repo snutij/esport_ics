@@ -73,13 +73,15 @@ SUMMARY:Lower bracket semifinal: Rostik999 Club vs VooDooSh Club
 URL:https://www.twitch.tv/voodoosh
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260911T130000Z
+DTSTAMP:20260911T131000Z
 UID:pandascore-match-1680134@esport-ics
-DTSTART:20260911T130000Z
-DTEND:20260911T151500Z
+DTSTART:20260911T131000Z
+DTEND:20260911T152500Z
 CLASS:PUBLIC
-DESCRIPTION:Winline Star Series - Season 4 2026 - Group A
+DESCRIPTION:Winline Star Series - Season 4 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/just_ns
 SUMMARY:Stray Club vs Rostik999 Club
+URL;VALUE=URI:https://www.twitch.tv/just_ns
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260912T180000Z

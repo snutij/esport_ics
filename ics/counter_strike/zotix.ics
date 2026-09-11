@@ -456,7 +456,9 @@ UID:pandascore-match-1664532@esport-ics
 DTSTART:20260911T173000Z
 DTEND:20260911T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/5hpa1a
 SUMMARY:Lower bracket round 3 match 2: ex-VP.Prodigy vs ZOTIX
+URL;VALUE=URI:https://www.twitch.tv/5hpa1a
 END:VEVENT
 END:VCALENDAR

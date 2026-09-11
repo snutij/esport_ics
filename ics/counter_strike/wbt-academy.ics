@@ -142,7 +142,9 @@ UID:pandascore-match-1664531@esport-ics
 DTSTART:20260911T173000Z
 DTEND:20260911T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/wbtgg
 SUMMARY:Lower bracket round 3 match 1: BG vs WBT.A
+URL;VALUE=URI:https://www.twitch.tv/wbtgg
 END:VEVENT
 END:VCALENDAR

@@ -1150,4 +1150,15 @@ DESCRIPTION:PGL Masters - Bucharest: European Open Qualifier #2 2026 - Play
  offs
 SUMMARY:Round 2Round of 16 match 3: FOKUS vs ASTR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T100000Z
+UID:pandascore-match-1684028@esport-ics
+DTSTART:20260924T100000Z
+DTEND:20260924T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat II 2026 - Group D\nWatch: https://kick.com/s
+ take_pulse
+SUMMARY:BCA vs ASTR
+URL;VALUE=URI:https://kick.com/stake_pulse
+END:VEVENT
 END:VCALENDAR
