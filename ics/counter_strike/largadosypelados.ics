@@ -1039,6 +1039,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Play-In Stage\nWatch: http
  s://kick.com/roman
 SUMMARY:Qualification match 1: STA vs LDP
+URL:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T100000Z
+UID:pandascore-match-1681283@esport-ics
+DTSTART:20260912T100000Z
+DTEND:20260912T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Playoffs\nWatch: https://k
+ ick.com/roman
+SUMMARY:Lower bracket round 1 match 2: WBT vs LDP
 URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

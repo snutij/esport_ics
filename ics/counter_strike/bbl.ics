@@ -71,6 +71,17 @@ SUMMARY:Winners match: 3DMAX vs BBL
 URL:https://www.twitch.tv/thunderpicktv_2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260912T110000Z
+UID:pandascore-match-1678040@esport-ics
+DTSTART:20260912T110000Z
+DTEND:20260912T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Playof
+ fs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Quarterfinal 4: BBL vs WC
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260918T080000Z
 UID:pandascore-match-1681387@esport-ics
 DTSTART:20260918T080000Z
