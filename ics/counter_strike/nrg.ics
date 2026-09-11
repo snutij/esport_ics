@@ -374,4 +374,13 @@ DESCRIPTION:PGL Masters - Bucharest: North American Qualifier 2026 - Playof
 SUMMARY:Upper Bracket Final: NRG vs TL
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T100000Z
+UID:pandascore-match-1685162@esport-ics
+DTSTART:20260917T100000Z
+DTEND:20260917T121500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - Fall 2026 - Playoffs
+SUMMARY:Upper Bracket Quarterfinal 1: MOUZ vs NRG
+END:VEVENT
 END:VCALENDAR

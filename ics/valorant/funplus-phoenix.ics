@@ -306,6 +306,17 @@ CLASS:PUBLIC
 DESCRIPTION:China Evolution Series - Act 3 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorantesports_cn
 SUMMARY:Semifinal 2: FPX vs AQ
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T090000Z
+UID:pandascore-match-1664701@esport-ics
+DTSTART:20260913T090000Z
+DTEND:20260913T124500Z
+CLASS:PUBLIC
+DESCRIPTION:China Evolution Series - Act 3 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/valorantesports_cn
+SUMMARY:Grand final: KBG vs FPX
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

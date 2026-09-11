@@ -641,6 +641,15 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group B\nWatch: https://ww
  w.twitch.tv/fissure_cs_eng
 SUMMARY:Lower bracket final: ALL vs MGC
-URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
+URL:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T123000Z
+UID:pandascore-match-1685164@esport-ics
+DTSTART:20260917T123000Z
+DTEND:20260917T144500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - Fall 2026 - Playoffs
+SUMMARY:Upper Bracket Quarterfinal 3: VIT vs MGC
 END:VEVENT
 END:VCALENDAR

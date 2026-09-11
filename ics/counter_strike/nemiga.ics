@@ -986,7 +986,18 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/vanfantv
 SUMMARY:Upper Bracket Final: 1WIN vs NEMI
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T130000Z
+UID:pandascore-match-1676033@esport-ics
+DTSTART:20260912T130000Z
+DTEND:20260912T164500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
+ tch: https://www.twitch.tv/PGL
+SUMMARY:Grand Final: NEMI vs TBD
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260912T170000Z
