@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Play-In 2026 - Group A\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Elimination match: ILLYR vs FF
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T140000Z
+UID:pandascore-match-1683139@esport-ics
+DTSTART:20260912T140000Z
+DTEND:20260912T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 1: PCIFIC vs ILLYR
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

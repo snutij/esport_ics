@@ -583,6 +583,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group B\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Elimination match: FOR vs ENCE
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T080000Z
+UID:pandascore-match-1683137@esport-ics
+DTSTART:20260912T080000Z
+DTEND:20260912T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 1: ex-ZT vs FOR
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

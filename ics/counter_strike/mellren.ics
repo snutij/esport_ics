@@ -331,6 +331,17 @@ SUMMARY:Winners match: FAL.F vs mellren
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260912T103000Z
+UID:pandascore-match-1683260@esport-ics
+DTSTART:20260912T103000Z
+DTEND:20260912T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 9 2026 - Group A\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:SSins vs mellren
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260913T080000Z
 UID:pandascore-match-1677981@esport-ics
 DTSTART:20260913T080000Z

@@ -1106,6 +1106,17 @@ SUMMARY:Winners match: BBP vs Honvéd
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260912T110000Z
+UID:pandascore-match-1685297@esport-ics
+DTSTART:20260912T110000Z
+DTEND:20260912T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group D\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Decider Match: BBP vs WBT.A
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260912T140000Z
 UID:pandascore-match-1677989@esport-ics
 DTSTART:20260912T140000Z
