@@ -808,6 +808,17 @@ SUMMARY:NAVI.J vs FAL.F
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260911T110000Z
+UID:pandascore-match-1683134@esport-ics
+DTSTART:20260911T110000Z
+DTEND:20260911T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 1: FAL.F vs TrafficPills Esports
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260911T173000Z
 UID:pandascore-match-1664508@esport-ics
 DTSTART:20260911T173000Z

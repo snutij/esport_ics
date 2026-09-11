@@ -387,4 +387,14 @@ DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
 SUMMARY:DB vs YG
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T080000Z
+UID:pandascore-match-1683867@esport-ics
+DTSTART:20260912T080000Z
+DTEND:20260912T101500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 9 2026 - Pl
+ ayoffs
+SUMMARY:Quarterfinals match 3: XctN vs YG
+END:VEVENT
 END:VCALENDAR
