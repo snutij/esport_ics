@@ -837,6 +837,17 @@ SUMMARY:Ducks vs Entropy
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260915T103000Z
+UID:pandascore-match-1683281@esport-ics
+DTSTART:20260915T103000Z
+DTEND:20260915T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 9 2026 - Group D\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Entropy vs VEX
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260923T180000Z
 UID:pandascore-match-1661629@esport-ics
 DTSTART:20260923T180000Z

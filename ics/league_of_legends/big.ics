@@ -540,6 +540,17 @@ CLASS:PUBLIC
 DESCRIPTION:Prime League 1st Division - Summer 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/primeleague
 SUMMARY:Grand final: G2N vs BIG
-URL;VALUE=URI:https://www.twitch.tv/primeleague
+URL:https://www.twitch.tv/primeleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T150000Z
+UID:pandascore-match-1676556@esport-ics
+DTSTART:20260914T150000Z
+DTEND:20260914T184500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - EMEA Qualifier 2026 - Pla
+ yoffs\nWatch: https://www.twitch.tv/riotgames
+SUMMARY:Grand final: BIG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Europe Closed Qualifier season 9 2026 - Playoffs\n
  Watch: https://www.twitch.tv/rlg_dota2
 SUMMARY:Quarterfinal 3: MOUZ vs Dawn Bulls
+URL:https://www.twitch.tv/rlg_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T110000Z
+UID:pandascore-match-1682259@esport-ics
+DTSTART:20260913T110000Z
+DTEND:20260913T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Europe Closed Qualifier season 9 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/rlg_dota2
+SUMMARY:Semifinal 2: Dawn Bulls vs KS
 URL;VALUE=URI:https://www.twitch.tv/rlg_dota2
 END:VEVENT
 END:VCALENDAR
