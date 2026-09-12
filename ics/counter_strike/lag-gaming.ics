@@ -642,7 +642,9 @@ UID:pandascore-match-1669733@esport-ics
 DTSTART:20260912T190000Z
 DTEND:20260912T211500Z
 CLASS:PUBLIC
-DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs
+DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/nstlga_gg
 SUMMARY:Lower bracket quarterfinal 1: LAG vs OT
+URL;VALUE=URI:https://www.twitch.tv/nstlga_gg
 END:VEVENT
 END:VCALENDAR

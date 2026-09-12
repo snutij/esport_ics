@@ -375,6 +375,17 @@ SUMMARY:Upper Bracket Final: NRG vs TL
 URL:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260912T220000Z
+UID:pandascore-match-1676467@esport-ics
+DTSTART:20260912T220000Z
+DTEND:20260913T014500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest: North American Qualifier 2026 - Playof
+ fs\nWatch: https://www.twitch.tv/PGL
+SUMMARY:Grand Final: NRG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260917T100000Z
 UID:pandascore-match-1685162@esport-ics
 DTSTART:20260917T100000Z
