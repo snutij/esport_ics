@@ -87,6 +87,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Playoffs\nWatch: https://k
  ick.com/roman
 SUMMARY:Upper bracket semifinal 1: IS vs M80
+URL:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T100000Z
+UID:pandascore-match-1681288@esport-ics
+DTSTART:20260913T100000Z
+DTEND:20260913T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Playoffs\nWatch: https://k
+ ick.com/roman
+SUMMARY:Lower bracket semifinal: IS vs 6666
 URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

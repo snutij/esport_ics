@@ -196,6 +196,17 @@ CLASS:PUBLIC
 DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/nstlga_gg_b
 SUMMARY:Lower bracket quarterfinal 2: MARS vs IOWA
+URL:https://www.twitch.tv/nstlga_gg_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T220000Z
+UID:pandascore-match-1669736@esport-ics
+DTSTART:20260912T220000Z
+DTEND:20260913T001500Z
+CLASS:PUBLIC
+DESCRIPTION:NSTLGA League - Season 2 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/nstlga_gg_b
+SUMMARY:Lower bracket semifinal: IOWA vs TBD
 URL;VALUE=URI:https://www.twitch.tv/nstlga_gg_b
 END:VEVENT
 END:VCALENDAR

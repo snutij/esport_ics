@@ -341,6 +341,16 @@ DTEND:20260912T194500Z
 CLASS:PUBLIC
 DESCRIPTION:CBLOL - Split 2 2026 - Playoffs\nWatch: https://twitch.tv/cblol
 SUMMARY:Upper Bracket Semifinals 2: LOS vs FUR
+URL:https://twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T160000Z
+UID:pandascore-match-1662352@esport-ics
+DTSTART:20260927T160000Z
+DTEND:20260927T194500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Playoffs\nWatch: https://twitch.tv/cblol
+SUMMARY:Upper Bracket Final: LOS vs TBD
 URL;VALUE=URI:https://twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

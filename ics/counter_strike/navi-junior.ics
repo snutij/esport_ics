@@ -744,6 +744,17 @@ DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 2: FAL.F vs NAVI.J
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260913T170000Z
+UID:pandascore-match-1677996@esport-ics
+DTSTART:20260913T170000Z
+DTEND:20260913T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #9 2026 - Group D\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:Decider match: Entropy vs NAVI.J
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260914T103000Z
 UID:pandascore-match-1683270@esport-ics
 DTSTART:20260914T103000Z
