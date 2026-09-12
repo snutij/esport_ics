@@ -57,7 +57,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B\nWatch: https://ki
  ck.com/roman
 SUMMARY:6666 vs Nice Try
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T203000Z
@@ -68,6 +68,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Group B\nWatch: https://ki
  ck.com/roman
 SUMMARY:SAW vs Nice Try
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T080000Z
+UID:pandascore-match-1686098@esport-ics
+DTSTART:20260917T080000Z
+DTEND:20260917T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 12 2026 - Group A\nWatch: https://www.
+ twitch.tv/rtparenacs
+SUMMARY:Nice Try vs FaZe UN
+URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR

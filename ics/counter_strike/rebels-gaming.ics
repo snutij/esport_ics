@@ -728,6 +728,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series 3 2026 - Group Stage\nWatch: https://kick.c
  om/cct_cs
 SUMMARY:Round 5: RBLS vs ex-Zero Tenacity
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T140000Z
+UID:pandascore-match-1686109@esport-ics
+DTSTART:20260917T140000Z
+DTEND:20260917T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 12 2026 - Group B\nWatch: https://www.
+ twitch.tv/rtparenacs
+SUMMARY:MB vs RBLS
+URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR

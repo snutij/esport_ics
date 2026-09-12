@@ -300,6 +300,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs5
 SUMMARY:Lower Bracket Round 2 Match 3: SAW.Y vs IC.A
-URL;VALUE=URI:https://kick.com/cct_cs5
+URL:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T080000Z
+UID:pandascore-match-1686114@esport-ics
+DTSTART:20260918T080000Z
+DTEND:20260918T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 12 2026 - Group C\nWatch: https://www.
+ twitch.tv/rtparenacs
+SUMMARY:SAW.Y vs REV
+URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR

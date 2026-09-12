@@ -1272,7 +1272,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Upper Bracket Final: BW vs MISA
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260912T170000Z
@@ -1284,5 +1284,16 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #9 2026 - Group D\nWatch:
   https://kick.com/cct_cs
 SUMMARY:Winners match: NAVI.J vs BW
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T110000Z
+UID:pandascore-match-1669129@esport-ics
+DTSTART:20260913T110000Z
+DTEND:20260913T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 6 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Lower Bracket Final: BW vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

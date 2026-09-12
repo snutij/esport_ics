@@ -1368,6 +1368,15 @@ CLASS:PUBLIC
 DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Playoffs\nWatch:
   https://www.twitch.tv/gluck_esports
 SUMMARY:Quarterfinal 4: 1WIN vs ex-RUBY
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T060000Z
+UID:pandascore-match-1686065@esport-ics
+DTSTART:20260913T060000Z
+DTEND:20260913T081500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 7 2026 - Group A
+SUMMARY:ex-RUBY vs BAKS
 END:VEVENT
 END:VCALENDAR

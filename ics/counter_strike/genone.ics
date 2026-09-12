@@ -1314,4 +1314,15 @@ DESCRIPTION:PGL Masters - Bucharest: European Open Qualifier #2 2026 - Play
  offs
 SUMMARY:Round of 16 match 4: 1WIN vs G1
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T080000Z
+UID:pandascore-match-1686113@esport-ics
+DTSTART:20260918T080000Z
+DTEND:20260918T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 12 2026 - Group C\nWatch: https://www.
+ twitch.tv/rtparenacs
+SUMMARY:G1 vs GPN
+URL;VALUE=URI:https://www.twitch.tv/rtparenacs
+END:VEVENT
 END:VCALENDAR

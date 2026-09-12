@@ -757,4 +757,13 @@ DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
 SUMMARY:INF vs 3DMAX
 URL;VALUE=URI:https://kick.com/connect_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T120000Z
+UID:pandascore-match-1686132@esport-ics
+DTSTART:20260925T120000Z
+DTEND:20260925T141500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #1 2026 - Playoffs
+SUMMARY:Upper Bracket Quarterfinal 2: NIP vs 3DMAX
+END:VEVENT
 END:VCALENDAR

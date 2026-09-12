@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:gothboiclique
+X-WR-CALNAME:Gothboiclique
 SLUG:gothboiclique
 BEGIN:VEVENT
 DTSTAMP:20260212T104500Z
@@ -295,6 +295,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #9 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs6
 SUMMARY:Lower Bracket Quarterfinal 2: GBC vs MADMAN
-URL;VALUE=URI:https://kick.com/cct_cs6
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T140000Z
+UID:pandascore-match-1686118@esport-ics
+DTSTART:20260918T140000Z
+DTEND:20260918T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 12 2026 - Group D\nWatch: https://www.
+ twitch.tv/rtparenacs
+SUMMARY:LDP vs GBC
+URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR

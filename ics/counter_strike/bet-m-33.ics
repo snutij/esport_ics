@@ -492,6 +492,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: European Qualifier 2026 - Playoffs\nWa
  tch: https://www.twitch.tv/PGL
 SUMMARY:Lower Bracket Round 1 match 1: NTR vs 33
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T060000Z
+UID:pandascore-match-1686069@esport-ics
+DTSTART:20260914T060000Z
+DTEND:20260914T081500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 7 2026 - Group B
+SUMMARY:NEM vs 33
 END:VEVENT
 END:VCALENDAR

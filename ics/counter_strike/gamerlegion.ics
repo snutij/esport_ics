@@ -553,4 +553,13 @@ DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
 SUMMARY:MZP vs GL
 URL;VALUE=URI:https://kick.com/connect_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T180000Z
+UID:pandascore-match-1686134@esport-ics
+DTSTART:20260925T180000Z
+DTEND:20260925T201500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #1 2026 - Playoffs
+SUMMARY:Upper Bracket Quarterfinal 4: GL vs K27
+END:VEVENT
 END:VCALENDAR

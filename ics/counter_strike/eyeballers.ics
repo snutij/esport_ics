@@ -632,4 +632,13 @@ DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
 SUMMARY:ICE vs EYE
 URL;VALUE=URI:https://kick.com/connect_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T150000Z
+UID:pandascore-match-1686133@esport-ics
+DTSTART:20260925T150000Z
+DTEND:20260925T171500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #1 2026 - Playoffs
+SUMMARY:Upper Bracket Quarterfinal 3: MGC vs EYE
+END:VEVENT
 END:VCALENDAR
