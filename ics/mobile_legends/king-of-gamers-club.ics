@@ -155,6 +155,94 @@ CLASS:PUBLIC
 DESCRIPTION:Mid Season Cup - 2026 - Cross-Group Gauntlet\nWatch: https://ww
  w.youtube.com/watch?v=ywGYg8k7dTQ
 SUMMARY:Round 1 match 1: KOG vs SR
-URL;VALUE=URI:https://www.youtube.com/watch?v=ywGYg8k7dTQ
+URL:https://www.youtube.com/watch?v=ywGYg8k7dTQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T140000Z
+UID:pandascore-match-1687088@esport-ics
+DTSTART:20260913T140000Z
+DTEND:20260913T161500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:KOG vs TEN
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T120000Z
+UID:pandascore-match-1687093@esport-ics
+DTSTART:20260919T120000Z
+DTEND:20260919T141500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:KOG vs FS
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T100000Z
+UID:pandascore-match-1687096@esport-ics
+DTSTART:20260920T100000Z
+DTEND:20260920T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:EAR vs KOG
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T140000Z
+UID:pandascore-match-1687104@esport-ics
+DTSTART:20260926T140000Z
+DTEND:20260926T161500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:BUR vs KOG
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T120000Z
+UID:pandascore-match-1687106@esport-ics
+DTSTART:20260927T120000Z
+DTEND:20260927T141500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:BT vs KOG
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T120000Z
+UID:pandascore-match-1687109@esport-ics
+DTSTART:20261002T120000Z
+DTEND:20261002T141500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:KOG vs HE
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T140000Z
+UID:pandascore-match-1687122@esport-ics
+DTSTART:20261010T140000Z
+DTEND:20261010T161500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:KOG vs LEO
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T140000Z
+UID:pandascore-match-1687125@esport-ics
+DTSTART:20261011T140000Z
+DTEND:20261011T161500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:KOG vs SLX
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
 END:VEVENT
 END:VCALENDAR

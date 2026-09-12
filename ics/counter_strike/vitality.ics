@@ -500,7 +500,9 @@ UID:pandascore-match-1685164@esport-ics
 DTSTART:20260917T123000Z
 DTEND:20260917T144500Z
 CLASS:PUBLIC
-DESCRIPTION:StarLadder StarSeries - Fall 2026 - Playoffs
+DESCRIPTION:StarLadder StarSeries - Fall 2026 - Playoffs\nWatch: https://ki
+ ck.com/starladder
 SUMMARY:Upper Bracket Quarterfinal 3: VIT vs MGC
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

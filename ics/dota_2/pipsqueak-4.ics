@@ -330,6 +330,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Europe Closed Qualifier season 9 2026 - Playoffs\n
  Watch: https://www.twitch.tv/rlg_dota2
 SUMMARY:Quarterfinal 2: PIPS+4 vs GL
+URL:https://www.twitch.tv/rlg_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T080000Z
+UID:pandascore-match-1682258@esport-ics
+DTSTART:20260913T080000Z
+DTEND:20260913T101500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Europe Closed Qualifier season 9 2026 - Playoffs\n
+ Watch: https://www.twitch.tv/rlg_dota2
+SUMMARY:Semifinal 1: Na`Vi vs PIPS+4
 URL;VALUE=URI:https://www.twitch.tv/rlg_dota2
 END:VEVENT
 END:VCALENDAR

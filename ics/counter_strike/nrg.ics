@@ -391,7 +391,9 @@ UID:pandascore-match-1685162@esport-ics
 DTSTART:20260917T100000Z
 DTEND:20260917T121500Z
 CLASS:PUBLIC
-DESCRIPTION:StarLadder StarSeries - Fall 2026 - Playoffs
+DESCRIPTION:StarLadder StarSeries - Fall 2026 - Playoffs\nWatch: https://ki
+ ck.com/starladder
 SUMMARY:Upper Bracket Quarterfinal 1: MOUZ vs NRG
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

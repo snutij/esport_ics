@@ -102,6 +102,94 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Super League Thailand - Season 1 2026 - Regular Season\nWa
  tch: https://www.youtube.com/watch?v=OS08_Hy2WkM
 SUMMARY:BT vs VTE
-URL;VALUE=URI:https://www.youtube.com/watch?v=OS08_Hy2WkM
+URL:https://www.youtube.com/watch?v=OS08_Hy2WkM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T120000Z
+UID:pandascore-match-1687087@esport-ics
+DTSTART:20260913T120000Z
+DTEND:20260913T141500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:EAR vs VTE
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T100000Z
+UID:pandascore-match-1687089@esport-ics
+DTSTART:20260918T100000Z
+DTEND:20260918T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:FS vs VTE
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T100000Z
+UID:pandascore-match-1687092@esport-ics
+DTSTART:20260919T100000Z
+DTEND:20260919T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:VTE vs TEN
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T140000Z
+UID:pandascore-match-1687101@esport-ics
+DTSTART:20260925T140000Z
+DTEND:20260925T161500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:LEO vs VTE
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T140000Z
+UID:pandascore-match-1687110@esport-ics
+DTSTART:20261002T140000Z
+DTEND:20261002T161500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:VTE vs SLX
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T140000Z
+UID:pandascore-match-1687113@esport-ics
+DTSTART:20261003T140000Z
+DTEND:20261003T161500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:BUR vs VTE
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T100000Z
+UID:pandascore-match-1687120@esport-ics
+DTSTART:20261010T100000Z
+DTEND:20261010T121500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:VTE vs HE
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T120000Z
+UID:pandascore-match-1687124@esport-ics
+DTSTART:20261011T120000Z
+DTEND:20261011T141500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Super League Thailand - Season 2 2026 - Regular Season\nWa
+ tch: https://www.youtube.com/@MLBBTH/streams
+SUMMARY:BT vs VTE
+URL;VALUE=URI:https://www.youtube.com/@MLBBTH/streams
 END:VEVENT
 END:VCALENDAR

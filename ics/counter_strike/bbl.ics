@@ -82,6 +82,17 @@ SUMMARY:Quarterfinal 4: BBL vs WC
 URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260913T080000Z
+UID:pandascore-match-1678044@esport-ics
+DTSTART:20260913T080000Z
+DTEND:20260913T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Playof
+ fs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Semifinal 2: BBL vs TBD
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260918T080000Z
 UID:pandascore-match-1681387@esport-ics
 DTSTART:20260918T080000Z

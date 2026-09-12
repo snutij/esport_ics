@@ -56,6 +56,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group A\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Decider match: Azuolas vs BW
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T140000Z
+UID:pandascore-match-1685302@esport-ics
+DTSTART:20260913T140000Z
+DTEND:20260913T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Qualification Match 3: Honvéd vs Azuolas
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

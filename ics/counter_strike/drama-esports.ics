@@ -448,6 +448,17 @@ SUMMARY:LVKD vs DRAMA
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260913T080000Z
+UID:pandascore-match-1685300@esport-ics
+DTSTART:20260913T080000Z
+DTEND:20260913T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Qualification Match 1: DRAMA vs ENCE
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260914T173000Z
 UID:pandascore-match-1664536@esport-ics
 DTSTART:20260914T173000Z
@@ -464,7 +475,7 @@ DTEND:20260916T124500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 9 2026 - Group A\nWatch: https://k
  ick.com/eplcs_en
-SUMMARY:Winners match: DRAMA vs TBD
+SUMMARY:Winners match: DRAMA vs mellren
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
