@@ -58,8 +58,10 @@ UID:pandascore-match-1680135@esport-ics
 DTSTART:20260913T180000Z
 DTEND:20260913T201500Z
 CLASS:PUBLIC
-DESCRIPTION:Winline Star Series - Season 4 2026 - Group A
+DESCRIPTION:Winline Star Series - Season 4 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/stariy_bog
 SUMMARY:Stray Club vs YBN Club
+URL;VALUE=URI:https://www.twitch.tv/stariy_bog
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260914T180000Z

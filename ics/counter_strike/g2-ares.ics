@@ -1200,6 +1200,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In\nWatch: https:/
  /kick.com/nodwin_cs2
 SUMMARY:Qualification Match 2: G2.A vs WBT.A
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T080000Z
+UID:pandascore-match-1683266@esport-ics
+DTSTART:20260917T080000Z
+DTEND:20260917T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 9 2026 - Group B\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Elimination match: G2.A vs MISA
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

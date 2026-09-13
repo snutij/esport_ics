@@ -765,4 +765,13 @@ DESCRIPTION:European Pro League - Series 9 2026 - Group C\nWatch: https://k
 SUMMARY:BW vs NAVI.J
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T173000Z
+UID:pandascore-match-1664541@esport-ics
+DTSTART:20260918T173000Z
+DTEND:20260918T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: NAVI.J vs TBD
+END:VEVENT
 END:VCALENDAR

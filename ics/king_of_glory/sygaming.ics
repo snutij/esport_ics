@@ -377,6 +377,17 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Summer 2026 - Stage 3 Group A\nWatch: https:/
  /live.bilibili.com/21144080
 SUMMARY:SYG vs RW
-URL;VALUE=URI:https://live.bilibili.com/21144080
+URL:https://live.bilibili.com/21144080
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T070000Z
+UID:pandascore-match-1688820@esport-ics
+DTSTART:20260917T070000Z
+DTEND:20260917T121500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Spring 2027 - Promotion\nWatch: https://www.y
+ outube.com/@Hok_KPL/live
+SUMMARY:Upper Bracket Final: SYG vs UUG
+URL;VALUE=URI:https://www.youtube.com/@Hok_KPL/live
 END:VEVENT
 END:VCALENDAR

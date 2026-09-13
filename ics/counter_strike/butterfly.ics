@@ -285,7 +285,9 @@ UID:pandascore-match-1686070@esport-ics
 DTSTART:20260914T060000Z
 DTEND:20260914T081500Z
 CLASS:PUBLIC
-DESCRIPTION:CIS LAN Championship - Season 7 2026 - Group B
+DESCRIPTION:CIS LAN Championship - Season 7 2026 - Group B\nWatch: https://
+ www.twitch.tv/kartash0v
 SUMMARY:BTF vs HyperSpace
+URL;VALUE=URI:https://www.twitch.tv/kartash0v
 END:VEVENT
 END:VCALENDAR

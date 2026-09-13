@@ -749,7 +749,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/fiesta_cs
 SUMMARY:Round 2: PCIFIC vs Honvéd
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260913T140000Z
@@ -761,5 +761,16 @@ DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In\nWatch: https:/
  /kick.com/nodwin_cs2
 SUMMARY:Qualification Match 3: Honvéd vs Azuolas
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T103000Z
+UID:pandascore-match-1683267@esport-ics
+DTSTART:20260917T103000Z
+DTEND:20260917T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 9 2026 - Group B\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Winners match: Honvéd vs BBP
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

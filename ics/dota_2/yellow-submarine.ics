@@ -649,17 +649,6 @@ SUMMARY:KS vs YeS
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260913T090000Z
-UID:pandascore-match-1687961@esport-ics
-DTSTART:20260913T090000Z
-DTEND:20260913T111500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 40 2026 - Group B\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:ICxI vs YeS
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260915T180000Z
 UID:pandascore-match-1688037@esport-ics
 DTSTART:20260915T180000Z
@@ -701,6 +690,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:TS.A vs YeS
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T090000Z
+UID:pandascore-match-1687961@esport-ics
+DTSTART:20260920T090000Z
+DTEND:20260920T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ICxI vs YeS
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

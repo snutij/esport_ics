@@ -921,6 +921,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Playof
  fs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Semifinal 2: BBL vs HOTU
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T150000Z
+UID:pandascore-match-1678045@esport-ics
+DTSTART:20260913T150000Z
+DTEND:20260913T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Playof
+ fs\nWatch: https://www.twitch.tv/thunderpicktv
+SUMMARY:Grand final: HOTU vs VP
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
