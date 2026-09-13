@@ -891,17 +891,6 @@ SUMMARY:Decider match: DNK vs BIG.A
 URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260914T160000Z
-UID:pandascore-match-1661620@esport-ics
-DTSTART:20260914T160000Z
-DTEND:20260914T181500Z
-CLASS:PUBLIC
-DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
- //www.twitch.tv/dachcs
-SUMMARY:BIG.A vs REV
-URL;VALUE=URI:https://www.twitch.tv/dachcs
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260921T180000Z
 UID:pandascore-match-1661627@esport-ics
 DTSTART:20260921T180000Z
@@ -921,6 +910,17 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
  //www.twitch.tv/dachcs
 SUMMARY:BIG.A vs LEI
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T180000Z
+UID:pandascore-match-1661620@esport-ics
+DTSTART:20261007T180000Z
+DTEND:20261007T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BIG.A vs REV
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
