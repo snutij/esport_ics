@@ -1150,6 +1150,17 @@ SUMMARY:Decider match: BBP vs Noir Verse
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260914T170000Z
+UID:pandascore-match-1678000@esport-ics
+DTSTART:20260914T170000Z
+DTEND:20260914T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #9 2026 - Play-In\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:PERM vs BBP
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260917T103000Z
 UID:pandascore-match-1683267@esport-ics
 DTSTART:20260917T103000Z

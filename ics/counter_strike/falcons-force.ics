@@ -838,4 +838,15 @@ DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
 SUMMARY:Round 2: ENCE vs FAL.F
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T140000Z
+UID:pandascore-match-1677999@esport-ics
+DTSTART:20260914T140000Z
+DTEND:20260914T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #9 2026 - Play-In\nWatch:
+  https://kick.com/cct_cs
+SUMMARY:FAL.F vs NAVI.J
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR
