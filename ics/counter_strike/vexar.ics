@@ -551,6 +551,17 @@ SUMMARY:Round 1: SSins vs VEX
 URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260913T140000Z
+UID:pandascore-match-1683143@esport-ics
+DTSTART:20260913T140000Z
+DTEND:20260913T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 2: VEX vs Morrow Esports
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260915T103000Z
 UID:pandascore-match-1683281@esport-ics
 DTSTART:20260915T103000Z

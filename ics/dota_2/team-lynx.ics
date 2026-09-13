@@ -922,6 +922,61 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 2 2026 - Group A\nWatch: https://kick.com/
  epldota_en2
 SUMMARY:LVLUP vs LYNX
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T120000Z
+UID:pandascore-match-1687956@esport-ics
+DTSTART:20260913T120000Z
+DTEND:20260913T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:LYNX vs PckCp
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T090000Z
+UID:pandascore-match-1688032@esport-ics
+DTSTART:20260914T090000Z
+DTEND:20260914T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T150000Z
+UID:pandascore-match-1688045@esport-ics
+DTSTART:20260917T150000Z
+DTEND:20260917T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T090000Z
+UID:pandascore-match-1688048@esport-ics
+DTSTART:20260918T090000Z
+DTEND:20260918T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:LYNX vs Team Synapse
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T180000Z
+UID:pandascore-match-1688053@esport-ics
+DTSTART:20260919T180000Z
+DTEND:20260919T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:LYNX vs Dawn Bulls
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

@@ -27,4 +27,59 @@ DESCRIPTION:BLAST Slam - Europe Closed Qualifier season 9 2026 - Playoffs\n
 SUMMARY:Semifinal 2: Dawn Bulls vs KS
 URL;VALUE=URI:https://www.twitch.tv/rlg_dota2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T150000Z
+UID:pandascore-match-1687957@esport-ics
+DTSTART:20260913T150000Z
+DTEND:20260913T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs Dawn Bulls
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T120000Z
+UID:pandascore-match-1688033@esport-ics
+DTSTART:20260914T120000Z
+DTEND:20260914T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Dawn Bulls vs Nemiga
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T090000Z
+UID:pandascore-match-1688042@esport-ics
+DTSTART:20260916T090000Z
+DTEND:20260916T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Dawn Bulls vs Team Synapse
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T090000Z
+UID:pandascore-match-1688044@esport-ics
+DTSTART:20260917T090000Z
+DTEND:20260917T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:PckCp vs Dawn Bulls
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T180000Z
+UID:pandascore-match-1688053@esport-ics
+DTSTART:20260919T180000Z
+DTEND:20260919T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:LYNX vs Dawn Bulls
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
 END:VCALENDAR

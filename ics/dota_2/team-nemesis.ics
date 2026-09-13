@@ -577,6 +577,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:Nem vs Y123
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T100000Z
+UID:pandascore-match-1683871@esport-ics
+DTSTART:20260913T100000Z
+DTEND:20260913T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Southeast Asia Closed Qualifier season 9 2026 - Pl
+ ayoffs\nWatch: https://www.twitch.tv/rlg_dota2_b
+SUMMARY:Grand final: Nem vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rlg_dota2_b
 END:VEVENT
 END:VCALENDAR

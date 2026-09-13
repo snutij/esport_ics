@@ -848,6 +848,50 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Europe Closed Qualifier season 9 2026 - Playoffs\n
  Watch: https://www.twitch.tv/rlg_dota2
 SUMMARY:Quarterfinal 1: Na`Vi vs Z10
-URL;VALUE=URI:https://www.twitch.tv/rlg_dota2
+URL:https://www.twitch.tv/rlg_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T150000Z
+UID:pandascore-match-1687957@esport-ics
+DTSTART:20260913T150000Z
+DTEND:20260913T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs Dawn Bulls
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T090000Z
+UID:pandascore-match-1688032@esport-ics
+DTSTART:20260914T090000Z
+DTEND:20260914T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260915T150000Z
+UID:pandascore-match-1688039@esport-ics
+DTSTART:20260915T150000Z
+DTEND:20260915T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T120000Z
+UID:pandascore-match-1688043@esport-ics
+DTSTART:20260916T120000Z
+DTEND:20260916T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs PckCp
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

@@ -768,6 +768,50 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Play-In season 2 2026 - Group A\nWatch: https://k
  ick.com/epldota_en2
 SUMMARY:DYNASTY vs Nemiga
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T120000Z
+UID:pandascore-match-1688033@esport-ics
+DTSTART:20260914T120000Z
+DTEND:20260914T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Dawn Bulls vs Nemiga
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260915T150000Z
+UID:pandascore-match-1688039@esport-ics
+DTSTART:20260915T150000Z
+DTEND:20260915T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T150000Z
+UID:pandascore-match-1688045@esport-ics
+DTSTART:20260917T150000Z
+DTEND:20260917T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Nemiga vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T090000Z
+UID:pandascore-match-1688052@esport-ics
+DTSTART:20260919T090000Z
+DTEND:20260919T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Team Synapse vs Nemiga
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

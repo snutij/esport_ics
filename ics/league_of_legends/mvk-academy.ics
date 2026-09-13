@@ -144,8 +144,10 @@ UID:pandascore-match-1615354@esport-ics
 DTSTART:20260913T120000Z
 DTEND:20260913T141500Z
 CLASS:PUBLIC
-DESCRIPTION:VCS - Finals 2026 - Regular Season
+DESCRIPTION:VCS - Finals 2026 - Regular Season\nWatch: https://www.youtube.
+ com/watch?v=RQMFRy7zXVM
 SUMMARY:MVKA vs CBC
+URL;VALUE=URI:https://www.youtube.com/watch?v=RQMFRy7zXVM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260919T090000Z

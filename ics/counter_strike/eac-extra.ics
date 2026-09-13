@@ -149,6 +149,17 @@ SUMMARY:Elimination match: EACE vs MISA
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260914T160000Z
+UID:pandascore-match-1687952@esport-ics
+DTSTART:20260914T160000Z
+DTEND:20260914T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:EACE vs MASQ
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260915T080000Z
 UID:pandascore-match-1673406@esport-ics
 DTSTART:20260915T080000Z
@@ -158,5 +169,148 @@ DESCRIPTION:United21 - Season 55 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: EACE vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T160000Z
+UID:pandascore-match-1687967@esport-ics
+DTSTART:20260921T160000Z
+DTEND:20260921T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:STA vs EACE
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T180000Z
+UID:pandascore-match-1687972@esport-ics
+DTSTART:20260921T180000Z
+DTEND:20260921T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:EACE vs ECS
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T170000Z
+UID:pandascore-match-1687976@esport-ics
+DTSTART:20260928T170000Z
+DTEND:20260928T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:XI vs EACE
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T180000Z
+UID:pandascore-match-1687979@esport-ics
+DTSTART:20260928T180000Z
+DTEND:20260928T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:st0ny vs EACE
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T190000Z
+UID:pandascore-match-1687989@esport-ics
+DTSTART:20261005T190000Z
+DTEND:20261005T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:EACE vs LLE
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T180000Z
+UID:pandascore-match-1687995@esport-ics
+DTSTART:20261019T180000Z
+DTEND:20261019T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:EACE vs MSC
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T190000Z
+UID:pandascore-match-1687997@esport-ics
+DTSTART:20261019T190000Z
+DTEND:20261019T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:LLE vs EACE
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T170000Z
+UID:pandascore-match-1687998@esport-ics
+DTSTART:20261026T170000Z
+DTEND:20261026T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:EACE vs st0ny
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T180000Z
+UID:pandascore-match-1688000@esport-ics
+DTSTART:20261026T180000Z
+DTEND:20261026T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:EACE vs XI
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T170000Z
+UID:pandascore-match-1688006@esport-ics
+DTSTART:20261102T170000Z
+DTEND:20261102T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:EACE vs STA
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T190000Z
+UID:pandascore-match-1688009@esport-ics
+DTSTART:20261102T190000Z
+DTEND:20261102T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:ECS vs EACE
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T180000Z
+UID:pandascore-match-1688015@esport-ics
+DTSTART:20261109T180000Z
+DTEND:20261109T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:MASQ vs EACE
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T190000Z
+UID:pandascore-match-1688023@esport-ics
+DTSTART:20261109T190000Z
+DTEND:20261109T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:MSC vs EACE
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 END:VCALENDAR
