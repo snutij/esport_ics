@@ -819,6 +819,15 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 7 2026 - Group D\nWatch: https://
  www.twitch.tv/kartash0v
 SUMMARY:CS vs DOORDOM
-URL;VALUE=URI:https://www.twitch.tv/kartash0v
+URL:https://www.twitch.tv/kartash0v
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T180000Z
+UID:pandascore-match-1686083@esport-ics
+DTSTART:20260913T180000Z
+DTEND:20260913T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 7 2026 - Group D
+SUMMARY:Winners match: CS vs TBD
 END:VEVENT
 END:VCALENDAR
