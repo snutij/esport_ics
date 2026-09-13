@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:World Cup - 2026 - Playoffs\nWatch: https://www.twitch.tv/ow_es
  ports
 SUMMARY:Quarterfinal 4: FRA vs AUS
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T174500Z
+UID:pandascore-match-1648699@esport-ics
+DTSTART:20260913T174500Z
+DTEND:20260913T200000Z
+CLASS:PUBLIC
+DESCRIPTION:World Cup - 2026 - Playoffs\nWatch: https://www.twitch.tv/ow_es
+ ports
+SUMMARY:Semifinal 2: FRA vs KOR
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR
