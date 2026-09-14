@@ -654,6 +654,17 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/connect_en
 SUMMARY:Semifinal 2: INF vs QUA
-URL;VALUE=URI:https://www.twitch.tv/connect_en
+URL:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T140000Z
+UID:pandascore-match-1684144@esport-ics
+DTSTART:20260916T140000Z
+DTEND:20260916T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: QUA vs ex-RUSTEC
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

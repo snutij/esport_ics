@@ -470,6 +470,17 @@ SUMMARY:Lower bracket round 4 match 2: DRAMA vs ZOTIX
 URL;VALUE=URI:https://www.twitch.tv/benyxfr
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260915T170000Z
+UID:pandascore-match-1684141@esport-ics
+DTSTART:20260915T170000Z
+DTEND:20260915T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: INOX vs DRAMA
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260916T103000Z
 UID:pandascore-match-1683262@esport-ics
 DTSTART:20260916T103000Z

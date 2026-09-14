@@ -505,4 +505,15 @@ DESCRIPTION:CIS LAN Championship - Season 7 2026 - Group B\nWatch: https://
 SUMMARY:NEM vs 33
 URL;VALUE=URI:https://www.twitch.tv/mpkbk
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260915T140000Z
+UID:pandascore-match-1684140@esport-ics
+DTSTART:20260915T140000Z
+DTEND:20260915T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: 33 vs Leo
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
