@@ -202,6 +202,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: South American Closed Qualifier 2026 -
   Playoffs\nWatch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Lower Bracket Round 1 match 2: SHIN vs TdP
-URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
+URL:https://www.twitch.tv/karmaflexxx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T130000Z
+UID:pandascore-match-1690428@esport-ics
+DTSTART:20260916T130000Z
+DTEND:20260916T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Curitiba Fall 2026 - Group A\nWatch: https://www.tw
+ itch.tv/circuitxofficial
+SUMMARY:ALKA vs TdP
+URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR
