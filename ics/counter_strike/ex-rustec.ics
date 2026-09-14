@@ -509,7 +509,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 9 2026 - Group C\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:ex-RUSTEC vs Azuolas
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260916T140000Z
@@ -521,5 +521,16 @@ DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 1: QUA vs ex-RUSTEC
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T103000Z
+UID:pandascore-match-1683272@esport-ics
+DTSTART:20260918T103000Z
+DTEND:20260918T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 9 2026 - Group C\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Winners match: ex-RUSTEC vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

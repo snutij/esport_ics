@@ -1004,6 +1004,39 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 55 2026 - Group B\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: INF vs PRE
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T120000Z
+UID:pandascore-match-1689885@esport-ics
+DTSTART:20260929T120000Z
+DTEND:20260929T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #7 2026 - Group A\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:HAVEN vs INF
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T130000Z
+UID:pandascore-match-1689887@esport-ics
+DTSTART:20260929T130000Z
+DTEND:20260929T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #7 2026 - Group A\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:IC.A vs INF
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T140000Z
+UID:pandascore-match-1689888@esport-ics
+DTSTART:20260929T140000Z
+DTEND:20260929T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #7 2026 - Group A\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:KSM vs INF
+URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR

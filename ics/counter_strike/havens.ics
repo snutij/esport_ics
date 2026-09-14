@@ -175,6 +175,39 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Series - Season 27 2026 - Contenders Stage\nWatch: https:
  //kick.com/exort_en2
 SUMMARY:Round 5: Vortex CGO vs HAVEN
-URL;VALUE=URI:https://kick.com/exort_en2
+URL:https://kick.com/exort_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T120000Z
+UID:pandascore-match-1689885@esport-ics
+DTSTART:20260929T120000Z
+DTEND:20260929T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #7 2026 - Group A\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:HAVEN vs INF
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T130000Z
+UID:pandascore-match-1689886@esport-ics
+DTSTART:20260929T130000Z
+DTEND:20260929T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #7 2026 - Group A\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:KSM vs HAVEN
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T140000Z
+UID:pandascore-match-1689889@esport-ics
+DTSTART:20260929T140000Z
+DTEND:20260929T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #7 2026 - Group A\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:HAVEN vs IC.A
+URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR

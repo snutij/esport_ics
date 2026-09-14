@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Pacific 2026 - Playoffs\nWatch: https://www
  .twitch.tv/valorant_pacific
 SUMMARY:Upper Bracket Quarterfinal 1: Gen.G GC vs RE.GC
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260915T090000Z
+UID:pandascore-match-1686006@esport-ics
+DTSTART:20260915T090000Z
+DTEND:20260915T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Pacific 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/valorant_pacific
+SUMMARY:Upper Bracket Semifinal 1: Gen.G GC vs FL.FE
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR

@@ -47,6 +47,39 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #5 2026 - Playoffs\nWatch: https://kick.com/u
  rbancontenders
 SUMMARY:Quarterfinal 2: BERG vs Aimhaus
+URL:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T163000Z
+UID:pandascore-match-1689899@esport-ics
+DTSTART:20260929T163000Z
+DTEND:20260929T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #7 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:Aimhaus vs HS
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T173000Z
+UID:pandascore-match-1689901@esport-ics
+DTSTART:20260929T173000Z
+DTEND:20260929T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #7 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:Aimhaus vs SNG
+URL;VALUE=URI:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T183000Z
+UID:pandascore-match-1689904@esport-ics
+DTSTART:20260929T183000Z
+DTEND:20260929T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #7 2026 - Group B\nWatch: https://kick.com/ur
+ bancontenders
+SUMMARY:ENCE vs Aimhaus
 URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR

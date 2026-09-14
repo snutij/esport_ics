@@ -890,6 +890,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 5 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs3
 SUMMARY:Round of 16 match 8: IMP vs BST.A
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260914T234500Z
+UID:pandascore-match-1690006@esport-ics
+DTSTART:20260914T234500Z
+DTEND:20260915T020000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Challengers #3 2026 - Playoffs\nWatch: http
+ s://kick.com/cct_cs3
+SUMMARY:Upper Bracket Quarterfinal 2: BST.A vs your end
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
