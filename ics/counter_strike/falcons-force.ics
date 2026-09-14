@@ -847,6 +847,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #9 2026 - Play-In\nWatch:
   https://kick.com/cct_cs
 SUMMARY:FAL.F vs NAVI.J
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260915T140000Z
+UID:pandascore-match-1683156@esport-ics
+DTSTART:20260915T140000Z
+DTEND:20260915T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 3: FAL.F vs FOR
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

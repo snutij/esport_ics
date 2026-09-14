@@ -527,6 +527,15 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/connect_en
 SUMMARY:Semifinal 1: 9INE vs MZP
-URL;VALUE=URI:https://www.twitch.tv/connect_en
+URL:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260915T140000Z
+UID:pandascore-match-1691080@esport-ics
+DTSTART:20260915T140000Z
+DTEND:20260915T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 5: Open Qualifier 2026 - Playoffs
+SUMMARY:Qualification match 4: 9INE vs AIMC
 END:VEVENT
 END:VCALENDAR

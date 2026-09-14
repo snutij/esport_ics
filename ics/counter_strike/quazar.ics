@@ -657,6 +657,17 @@ SUMMARY:Semifinal 2: INF vs QUA
 URL:https://www.twitch.tv/connect_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260915T080000Z
+UID:pandascore-match-1681043@esport-ics
+DTSTART:20260915T080000Z
+DTEND:20260915T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #9 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 1: QUA vs PERM
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260916T140000Z
 UID:pandascore-match-1684144@esport-ics
 DTSTART:20260916T140000Z

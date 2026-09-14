@@ -754,4 +754,24 @@ DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
 SUMMARY:Round 1: Black Phoenix vs JustP
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260915T140000Z
+UID:pandascore-match-1691076@esport-ics
+DTSTART:20260915T140000Z
+DTEND:20260915T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 5: Open Qualifier 2026 - Playoffs
+SUMMARY:Qualification match 1: JustP vs Aritmije
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T110000Z
+UID:pandascore-match-1681070@esport-ics
+DTSTART:20260916T110000Z
+DTEND:20260916T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #9 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 1: JustP vs NAVI.J
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
