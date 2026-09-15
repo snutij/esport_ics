@@ -1066,6 +1066,17 @@ SUMMARY:Quarterfinal 2: NEMI vs 33
 URL:https://www.twitch.tv/mpkbk
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260916T110000Z
+UID:pandascore-match-1686094@esport-ics
+DTSTART:20260916T110000Z
+DTEND:20260916T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 7 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/mpkbk
+SUMMARY:Semifinal 1: CS vs NEMI
+URL;VALUE=URI:https://www.twitch.tv/mpkbk
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261001T173000Z
 UID:pandascore-match-1682116@esport-ics
 DTSTART:20261001T173000Z
