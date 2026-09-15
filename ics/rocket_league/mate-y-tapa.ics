@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS World Championship - 2026 - Play-In\nWatch: https://www.tw
  itch.tv/rocketleague
 SUMMARY:Upper bracket quarterfinal 2: 5F vs MYT
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260915T180000Z
+UID:pandascore-match-1658058@esport-ics
+DTSTART:20260915T180000Z
+DTEND:20260915T214500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS World Championship - 2026 - Play-In\nWatch: https://www.tw
+ itch.tv/rocketleague
+SUMMARY:Upper bracket semifinal 1: VP vs MYT
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR
