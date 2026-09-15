@@ -519,4 +519,15 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 7 2026 - Group A
 SUMMARY:Winners match: FORZE.R vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260915T160000Z
+UID:pandascore-match-1686092@esport-ics
+DTSTART:20260915T160000Z
+DTEND:20260915T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 7 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/mpkbk
+SUMMARY:Quarterfinal 3: FORZE.R vs UP
+URL;VALUE=URI:https://www.twitch.tv/mpkbk
+END:VEVENT
 END:VCALENDAR

@@ -442,6 +442,17 @@ SUMMARY:Round 2: PCIFIC vs Honvéd
 URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260915T110000Z
+UID:pandascore-match-1683155@esport-ics
+DTSTART:20260915T110000Z
+DTEND:20260915T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 3: PCIFIC vs Morrow Esports
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260916T170000Z
 UID:pandascore-match-1684145@esport-ics
 DTSTART:20260916T170000Z
