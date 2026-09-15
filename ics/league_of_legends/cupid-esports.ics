@@ -102,6 +102,15 @@ CLASS:PUBLIC
 DESCRIPTION:North American Challengers League - Summer 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/NACL
 SUMMARY:Grand final: CPD vs MVU
-URL;VALUE=URI:https://www.twitch.tv/NACL
+URL:https://www.twitch.tv/NACL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T200000Z
+UID:pandascore-match-1691710@esport-ics
+DTSTART:20261006T200000Z
+DTEND:20261006T234500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Promotion 2027 - Playoffs
+SUMMARY:Upper Bracket Semifinal 1: CPD vs FUE
 END:VEVENT
 END:VCALENDAR

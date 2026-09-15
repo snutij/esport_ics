@@ -1211,7 +1211,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 1: BRUTE vs G2.A
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260915T140000Z
@@ -1219,8 +1219,10 @@ UID:pandascore-match-1691078@esport-ics
 DTSTART:20260915T140000Z
 DTEND:20260915T161500Z
 CLASS:PUBLIC
-DESCRIPTION:Stake Ranked - Episode 5: Open Qualifier 2026 - Playoffs
+DESCRIPTION:Stake Ranked - Episode 5: Open Qualifier 2026 - Playoffs\nWatch
+ : https://kick.com/analiticvitya
 SUMMARY:Qualification match 3: PHA vs G2.A
+URL;VALUE=URI:https://kick.com/analiticvitya
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260915T170000Z

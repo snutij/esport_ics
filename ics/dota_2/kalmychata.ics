@@ -17,17 +17,6 @@ SUMMARY:KALMY vs TS.A
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260915T090000Z
-UID:pandascore-match-1688036@esport-ics
-DTSTART:20260915T090000Z
-DTEND:20260915T111500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 40 2026 - Group B\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:KALMY vs TM
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260917T180000Z
 UID:pandascore-match-1688047@esport-ics
 DTSTART:20260917T180000Z
@@ -58,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:KALMY vs UR
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T180000Z
+UID:pandascore-match-1688036@esport-ics
+DTSTART:20260920T180000Z
+DTEND:20260920T201500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:KALMY vs TM
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

@@ -243,7 +243,17 @@ DTSTART:20260916T230000Z
 DTEND:20260917T024500Z
 CLASS:PUBLIC
 DESCRIPTION:World Star Challengers Invitational - Americas Qualifier 2026 -
-  Playoffs
-SUMMARY:Final: 9ZG vs FUE
+  Playoffs\nWatch: https://www.twitch.tv/riotgames
+SUMMARY:Grand Final: 9ZG vs FUE
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T200000Z
+UID:pandascore-match-1691710@esport-ics
+DTSTART:20261006T200000Z
+DTEND:20261006T234500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Promotion 2027 - Playoffs
+SUMMARY:Upper Bracket Semifinal 1: CPD vs FUE
 END:VEVENT
 END:VCALENDAR

@@ -311,6 +311,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Desafiante - Split 2 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/cblol
 SUMMARY:Grand final: EST vs KBM
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T160000Z
+UID:pandascore-match-1691676@esport-ics
+DTSTART:20260928T160000Z
+DTEND:20260928T194500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv
+ /cblol
+SUMMARY:Upper bracket round 1: KBM vs GL
 URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

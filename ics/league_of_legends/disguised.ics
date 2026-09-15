@@ -221,6 +221,15 @@ CLASS:PUBLIC
 DESCRIPTION:LCS - Summer 2026 - Regular Season\nWatch: https://www.twitch.t
  v/lcs
 SUMMARY:LY vs DSG
-URL;VALUE=URI:https://www.twitch.tv/lcs
+URL:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T200000Z
+UID:pandascore-match-1691708@esport-ics
+DTSTART:20261007T200000Z
+DTEND:20261007T234500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Promotion 2027 - Playoffs
+SUMMARY:Upper bracket semifinal 2: DSG vs TBD
 END:VEVENT
 END:VCALENDAR

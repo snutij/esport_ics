@@ -570,6 +570,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 9 2026 - Group D\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Entropy vs VEX
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T080000Z
+UID:pandascore-match-1683282@esport-ics
+DTSTART:20260919T080000Z
+DTEND:20260919T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 9 2026 - Group D\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Elimination match: DC vs VEX
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
