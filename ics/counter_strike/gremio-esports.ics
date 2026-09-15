@@ -309,4 +309,15 @@ DESCRIPTION:CCT South America - Challengers #3 2026 - Playoffs\nWatch: http
 SUMMARY:Upper Bracket Quarterfinal 3: Rush vs GRE
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T180000Z
+UID:pandascore-match-1692881@esport-ics
+DTSTART:20260917T180000Z
+DTEND:20260917T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/gamersclubcs
+SUMMARY:GRE vs MEIA NOITE
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
 END:VCALENDAR
