@@ -201,14 +201,14 @@ URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260917T090000Z
-UID:pandascore-match-1688044@esport-ics
+UID:pandascore-match-1687957@esport-ics
 DTSTART:20260917T090000Z
 DTEND:20260917T111500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:PckCp vs BALU
-URL;VALUE=URI:https://kick.com/epldota_en2
+ www.twitch.tv/ya4iller
+SUMMARY:Z10 vs BALU
+URL;VALUE=URI:https://www.twitch.tv/ya4iller
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260919T180000Z
@@ -223,13 +223,13 @@ URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260920T150000Z
-UID:pandascore-match-1687957@esport-ics
+UID:pandascore-match-1688044@esport-ics
 DTSTART:20260920T150000Z
 DTEND:20260920T171500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
- www.twitch.tv/ya4iller
-SUMMARY:Z10 vs BALU
-URL;VALUE=URI:https://www.twitch.tv/ya4iller
+ kick.com/epldota_en2
+SUMMARY:PckCp vs BALU
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

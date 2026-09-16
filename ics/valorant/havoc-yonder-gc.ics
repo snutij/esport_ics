@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers China Qualifier 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/valorantesports_cn
 SUMMARY:Upper Bracket Semifinal 1: NE.GC vs Havoc & Yonder GC
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T090000Z
+UID:pandascore-match-1689155@esport-ics
+DTSTART:20260918T090000Z
+DTEND:20260918T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers China Qualifier 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/valorantesports_cn
+SUMMARY:Upper Bracket Final: Havoc & Yonder GC vs Yew Reign Gaming
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

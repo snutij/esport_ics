@@ -320,18 +320,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:Z10 vs PckCp
-URL;VALUE=URI:https://kick.com/epldota_en2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T090000Z
-UID:pandascore-match-1688044@esport-ics
-DTSTART:20260917T090000Z
-DTEND:20260917T111500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
- kick.com/epldota_en2
-SUMMARY:PckCp vs BALU
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260920T120000Z
@@ -342,6 +331,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:LYNX vs PckCp
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T150000Z
+UID:pandascore-match-1688044@esport-ics
+DTSTART:20260920T150000Z
+DTEND:20260920T171500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:PckCp vs BALU
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
