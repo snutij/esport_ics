@@ -168,6 +168,28 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ewc_stcarena_en
 SUMMARY:Quarterfinal 2: FLCN vs TWIS
-URL;VALUE=URI:https://www.twitch.tv/ewc_stcarena_en
+URL:https://www.twitch.tv/ewc_stcarena_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T160000Z
+UID:pandascore-match-1693701@esport-ics
+DTSTART:20260916T160000Z
+DTEND:20260916T194500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS World Championship - 2026 - Group B\nWatch: https://www.tw
+ itch.tv/rocketleague
+SUMMARY:TWIS vs FUT
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T200000Z
+UID:pandascore-match-1693703@esport-ics
+DTSTART:20260916T200000Z
+DTEND:20260916T234500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS World Championship - 2026 - Group B\nWatch: https://www.tw
+ itch.tv/rocketleague
+SUMMARY:TWIS vs FURIA
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

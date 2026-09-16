@@ -645,6 +645,39 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 5: Open Qualifier 2026 - Playoffs\nWatch
  : https://www.youtube.com/watch?v=dtHcusQWCXg
 SUMMARY:Qualification match 4: 9INE vs AIMC
-URL;VALUE=URI:https://www.youtube.com/watch?v=dtHcusQWCXg
+URL:https://www.youtube.com/watch?v=dtHcusQWCXg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T110000Z
+UID:pandascore-match-1693625@esport-ics
+DTSTART:20260923T110000Z
+DTEND:20260923T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group A\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:AIMC vs INF
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T170000Z
+UID:pandascore-match-1693627@esport-ics
+DTSTART:20260923T170000Z
+DTEND:20260923T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group A\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:Diamant Esports vs AIMC
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T170000Z
+UID:pandascore-match-1693630@esport-ics
+DTSTART:20260924T170000Z
+DTEND:20260924T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group A\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:AGC vs AIMC
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR

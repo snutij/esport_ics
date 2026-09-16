@@ -80,6 +80,39 @@ CLASS:PUBLIC
 DESCRIPTION:Parken Challenger Championship - Season 8 2026 - Playoffs\nWatc
  h: https://kick.com/challengerchampionship
 SUMMARY:Lower bracket round 1 match 2: 95 Vikings vs TBD
-URL;VALUE=URI:https://kick.com/challengerchampionship
+URL:https://kick.com/challengerchampionship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T141500Z
+UID:pandascore-match-1693632@esport-ics
+DTSTART:20260923T141500Z
+DTEND:20260923T163000Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:INF.T vs 95 Vikings
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T171500Z
+UID:pandascore-match-1693633@esport-ics
+DTSTART:20260923T171500Z
+DTEND:20260923T193000Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:95 Vikings vs Optibet
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T141500Z
+UID:pandascore-match-1693635@esport-ics
+DTSTART:20260924T141500Z
+DTEND:20260924T163000Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:4M vs 95 Vikings
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR

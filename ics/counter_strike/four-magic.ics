@@ -47,6 +47,39 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Storm - Season 1 2026 - Group Stage\nWatch: https://www
  .twitch.tv/dust2br
 SUMMARY:Round 1: PCY vs 4M
-URL;VALUE=URI:https://www.twitch.tv/dust2br
+URL:https://www.twitch.tv/dust2br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T111500Z
+UID:pandascore-match-1693631@esport-ics
+DTSTART:20260923T111500Z
+DTEND:20260923T133000Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:Optibet vs 4M
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T111500Z
+UID:pandascore-match-1693634@esport-ics
+DTSTART:20260924T111500Z
+DTEND:20260924T133000Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:INF.T vs 4M
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T141500Z
+UID:pandascore-match-1693635@esport-ics
+DTSTART:20260924T141500Z
+DTEND:20260924T163000Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:4M vs 95 Vikings
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR

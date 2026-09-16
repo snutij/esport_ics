@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Optibet
+SLUG:optibet
+BEGIN:VEVENT
+DTSTAMP:20260923T111500Z
+UID:pandascore-match-1693631@esport-ics
+DTSTART:20260923T111500Z
+DTEND:20260923T133000Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:Optibet vs 4M
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T171500Z
+UID:pandascore-match-1693633@esport-ics
+DTSTART:20260923T171500Z
+DTEND:20260923T193000Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:95 Vikings vs Optibet
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T171500Z
+UID:pandascore-match-1693636@esport-ics
+DTSTART:20260924T171500Z
+DTEND:20260924T193000Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:INF.T vs Optibet
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+END:VCALENDAR

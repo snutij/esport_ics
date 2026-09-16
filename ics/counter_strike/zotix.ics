@@ -478,7 +478,9 @@ UID:pandascore-match-1664539@esport-ics
 DTSTART:20260916T173000Z
 DTEND:20260916T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/benyxfr
 SUMMARY:Lower bracket round 5 match 1: BG vs ZOTIX
+URL;VALUE=URI:https://www.twitch.tv/benyxfr
 END:VEVENT
 END:VCALENDAR

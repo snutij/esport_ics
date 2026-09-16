@@ -14,6 +14,28 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS World Championship - 2026 - Play-In\nWatch: https://www.tw
  itch.tv/rocketleague
 SUMMARY:Upper bracket quarterfinal 1: VP vs Bigodes
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T170000Z
+UID:pandascore-match-1693706@esport-ics
+DTSTART:20260916T170000Z
+DTEND:20260916T204500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS World Championship - 2026 - Group C\nWatch: https://www.tw
+ itch.tv/rocketleague
+SUMMARY:NRG vs Bigodes
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T210000Z
+UID:pandascore-match-1693708@esport-ics
+DTSTART:20260916T210000Z
+DTEND:20260917T004500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS World Championship - 2026 - Group C\nWatch: https://www.tw
+ itch.tv/rocketleague
+SUMMARY:SR vs Bigodes
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

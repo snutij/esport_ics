@@ -1007,6 +1007,39 @@ SUMMARY:Decider match: INF vs PRE
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260923T110000Z
+UID:pandascore-match-1693625@esport-ics
+DTSTART:20260923T110000Z
+DTEND:20260923T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group A\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:AIMC vs INF
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T110000Z
+UID:pandascore-match-1693628@esport-ics
+DTSTART:20260924T110000Z
+DTEND:20260924T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group A\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:AGC vs INF
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T140000Z
+UID:pandascore-match-1693629@esport-ics
+DTSTART:20260924T140000Z
+DTEND:20260924T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Group A\nWatch: https://www.twitc
+ h.tv/playzonecz
+SUMMARY:INF vs Diamant Esports
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260929T120000Z
 UID:pandascore-match-1689885@esport-ics
 DTSTART:20260929T120000Z
