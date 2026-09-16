@@ -534,6 +534,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 7 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/mpkbk
 SUMMARY:Quarterfinal 2: NEMI vs 33
-URL;VALUE=URI:https://www.twitch.tv/mpkbk
+URL:https://www.twitch.tv/mpkbk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T140000Z
+UID:pandascore-match-1684152@esport-ics
+DTSTART:20260918T140000Z
+DTEND:20260918T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 2: 33 vs JustP
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

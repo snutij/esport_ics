@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:mskLANERS
+SLUG:msklaners
+BEGIN:VEVENT
+DTSTAMP:20260918T110000Z
+UID:pandascore-match-1695039@esport-ics
+DTSTART:20260918T110000Z
+DTEND:20260918T131500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #3 2026 - Group B\nWa
+ tch: https://www.twitch.tv/gluck_esports
+SUMMARY:JUMBO vs mskLANERS
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+END:VCALENDAR

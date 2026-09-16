@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:Moscow Cyber Games - European Qualifier 2026 - Group Stage\nWat
  ch: https://www.twitch.tv/gluck_esports
 SUMMARY:Round 4: UPGRADE vs X-CITY
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T170000Z
+UID:pandascore-match-1695051@esport-ics
+DTSTART:20260918T170000Z
+DTEND:20260918T191500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #3 2026 - Group D\nWa
+ tch: https://www.twitch.tv/gluck_esports
+SUMMARY:X-CITY vs PRTZN
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

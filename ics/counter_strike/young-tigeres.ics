@@ -373,6 +373,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #7 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs4
 SUMMARY:Lower bracket final: Y.TigeRES vs TS.A
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T110000Z
+UID:pandascore-match-1695034@esport-ics
+DTSTART:20260918T110000Z
+DTEND:20260918T131500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #3 2026 - Group A\nWa
+ tch: https://www.twitch.tv/gluck_esports
+SUMMARY:Y.TigeRES vs boriing
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

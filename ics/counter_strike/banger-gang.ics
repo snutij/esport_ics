@@ -348,6 +348,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/benyxfr
 SUMMARY:Lower bracket round 5 match 1: BG vs ZOTIX
-URL;VALUE=URI:https://www.twitch.tv/benyxfr
+URL:https://www.twitch.tv/benyxfr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T173000Z
+UID:pandascore-match-1664541@esport-ics
+DTSTART:20260918T173000Z
+DTEND:20260918T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: NAVI.J vs BG
 END:VEVENT
 END:VCALENDAR
