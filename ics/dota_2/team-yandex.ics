@@ -740,6 +740,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/dota2ti
 SUMMARY:Lower bracket final: TY vs TS
-URL;VALUE=URI:https://www.twitch.tv/dota2ti
+URL:https://www.twitch.tv/dota2ti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T160000Z
+UID:pandascore-match-1694714@esport-ics
+DTSTART:20260919T160000Z
+DTEND:20260919T181500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 9 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
+SUMMARY:Round 1: TY vs MOUZ
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

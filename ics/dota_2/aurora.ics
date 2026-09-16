@@ -982,6 +982,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Elimination Round\nWatch: https://ww
  w.twitch.tv/dota2ti_2
 SUMMARY:AUR vs BoomBoys
-URL;VALUE=URI:https://www.twitch.tv/dota2ti_2
+URL:https://www.twitch.tv/dota2ti_2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T130000Z
+UID:pandascore-match-1694712@esport-ics
+DTSTART:20260919T130000Z
+DTEND:20260919T151500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 9 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
+SUMMARY:Round 1: AUR vs PIPS+4
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

@@ -424,6 +424,17 @@ CLASS:PUBLIC
 DESCRIPTION:Games of the Future - 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/gamesofuture_dota2
 SUMMARY:Grand final: PlayTime vs YB
-URL;VALUE=URI:https://www.twitch.tv/gamesofuture_dota2
+URL:https://www.twitch.tv/gamesofuture_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T100000Z
+UID:pandascore-match-1694710@esport-ics
+DTSTART:20260919T100000Z
+DTEND:20260919T121500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 9 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
+SUMMARY:Round 1: CS vs PlayTime
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

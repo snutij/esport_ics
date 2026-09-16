@@ -199,6 +199,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arabian League - Summer 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/lolesports_ar
 SUMMARY:Lower bracket final: PIV vs JSK
+URL:https://www.twitch.tv/lolesports_ar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T160000Z
+UID:pandascore-match-1656084@esport-ics
+DTSTART:20260917T160000Z
+DTEND:20260917T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Arabian League - Summer 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/lolesports_ar
+SUMMARY:Grand final: ANB vs JSK
 URL;VALUE=URI:https://www.twitch.tv/lolesports_ar
 END:VEVENT
 END:VCALENDAR

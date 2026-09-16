@@ -111,6 +111,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - South America Closed Qualifier 2026 - Playo
  ffs\nWatch: https://www.twitch.tv/pgl_dota2
 SUMMARY:Lower bracket round 2 match 2: HKR vs EB
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T100000Z
+UID:pandascore-match-1694711@esport-ics
+DTSTART:20260919T100000Z
+DTEND:20260919T121500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 9 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
+SUMMARY:Round 1: Na`Vi vs HKR
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

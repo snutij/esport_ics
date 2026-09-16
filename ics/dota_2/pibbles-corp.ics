@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pibbles Corp
+SLUG:pibbles-corp
+BEGIN:VEVENT
+DTSTAMP:20260919T070000Z
+UID:pandascore-match-1694709@esport-ics
+DTSTART:20260919T070000Z
+DTEND:20260919T091500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 9 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
+SUMMARY:Round 1: Xtreme vs Pibbles Corp
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+END:VCALENDAR
