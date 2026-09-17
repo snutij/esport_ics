@@ -858,6 +858,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/fiesta_cs
 SUMMARY:Round 3: FAL.F vs FOR
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T170000Z
+UID:pandascore-match-1683176@esport-ics
+DTSTART:20260918T170000Z
+DTEND:20260918T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 4: FAL.F vs Honvéd
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

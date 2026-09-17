@@ -769,7 +769,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/fiesta_cs
 SUMMARY:Round 3: UNiTY vs PHTM.Ac
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260915T080000Z
@@ -780,6 +780,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 55 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: EACE vs PHTM.Ac
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T140000Z
+UID:pandascore-match-1683167@esport-ics
+DTSTART:20260917T140000Z
+DTEND:20260917T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 4: PCIFIC vs PHTM.Ac
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

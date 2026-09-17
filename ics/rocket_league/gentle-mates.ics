@@ -287,6 +287,28 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS World Championship - 2026 - Group D\nWatch: https://www.tw
  itch.tv/rocketleague
 SUMMARY:M8 vs WC
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T170000Z
+UID:pandascore-match-1695610@esport-ics
+DTSTART:20260917T170000Z
+DTEND:20260917T204500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS World Championship - 2026 - Group D\nWatch: https://www.tw
+ itch.tv/rocketleague
+SUMMARY:M8 vs VP
+URL;VALUE=URI:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T210000Z
+UID:pandascore-match-1695612@esport-ics
+DTSTART:20260917T210000Z
+DTEND:20260918T004500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS World Championship - 2026 - Group D\nWatch: https://www.tw
+ itch.tv/rocketleague
+SUMMARY:M8 vs VIT
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

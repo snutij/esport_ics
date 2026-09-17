@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/fiesta_cs
 SUMMARY:Round 3: VEX vs ILLYR
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T140000Z
+UID:pandascore-match-1683172@esport-ics
+DTSTART:20260918T140000Z
+DTEND:20260918T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 4: SSins vs ILLYR
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR
