@@ -300,6 +300,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 55 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper Bracket Quarterfinal 3: PSN.A vs PRE
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T103000Z
+UID:pandascore-match-1695721@esport-ics
+DTSTART:20260918T103000Z
+DTEND:20260918T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 55 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower Bracket Round 1 match 2: PSN.A vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

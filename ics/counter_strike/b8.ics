@@ -742,7 +742,7 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
  om/connect_en
 SUMMARY:B8 vs MZP
-URL;VALUE=URI:https://kick.com/connect_en
+URL:https://kick.com/connect_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260917T100000Z
@@ -753,18 +753,18 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
  om/connect_en
 SUMMARY:B8 vs GL
-URL;VALUE=URI:https://kick.com/connect_en
+URL:https://kick.com/connect_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260917T110000Z
+DTSTAMP:20260917T113000Z
 UID:pandascore-match-1681378@esport-ics
-DTSTART:20260917T110000Z
-DTEND:20260917T114500Z
+DTSTART:20260917T113000Z
+DTEND:20260917T121500Z
 CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
- om/connect_en
+ om/connect_en2
 SUMMARY:NIP vs B8
-URL;VALUE=URI:https://kick.com/connect_en
+URL;VALUE=URI:https://kick.com/connect_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260917T120000Z
@@ -773,9 +773,9 @@ DTSTART:20260917T120000Z
 DTEND:20260917T124500Z
 CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
- om/connect_en
+ om/connect_en2
 SUMMARY:LG vs B8
-URL;VALUE=URI:https://kick.com/connect_en
+URL;VALUE=URI:https://kick.com/connect_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260917T150000Z
