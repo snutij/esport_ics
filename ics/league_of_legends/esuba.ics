@@ -267,4 +267,15 @@ CLASS:PUBLIC
 DESCRIPTION:Hitpoint Masters - Summer 2026 - Playoffs
 SUMMARY:Lower bracket final: CKZ vs ESB
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T100000Z
+UID:pandascore-match-1677964@esport-ics
+DTSTART:20260920T100000Z
+DTEND:20260920T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Hitpoint Masters - Summer 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/hitpointcz
+SUMMARY:Grand final: NBS vs ESB
+URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+END:VEVENT
 END:VCALENDAR

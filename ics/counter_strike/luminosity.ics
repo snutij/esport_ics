@@ -146,7 +146,7 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
  om/connect_en2
 SUMMARY:LG vs M80
-URL;VALUE=URI:https://kick.com/connect_en2
+URL:https://kick.com/connect_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260917T173000Z
@@ -157,7 +157,7 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - 2026 - Group A\nWatch: https://kick.c
  om/connect_en
 SUMMARY:LG vs NIP
-URL;VALUE=URI:https://kick.com/connect_en
+URL:https://kick.com/connect_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T100000Z

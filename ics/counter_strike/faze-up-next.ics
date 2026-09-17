@@ -259,14 +259,14 @@ SUMMARY:Nice Try vs FaZe UN
 URL:https://www.twitch.tv/rtparenacs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260917T200000Z
+DTSTAMP:20260917T204500Z
 UID:pandascore-match-1686101@esport-ics
-DTSTART:20260917T200000Z
-DTEND:20260917T221500Z
+DTSTART:20260917T204500Z
+DTEND:20260917T230000Z
 CLASS:PUBLIC
 DESCRIPTION:Circuito Retake - Season 12 2026 - Group A\nWatch: https://www.
- twitch.tv/rtparenacs
+ twitch.tv/sinon__cs
 SUMMARY:Decider match: FaZe UN vs Nice Try
-URL;VALUE=URI:https://www.twitch.tv/rtparenacs
+URL;VALUE=URI:https://www.twitch.tv/sinon__cs
 END:VEVENT
 END:VCALENDAR
