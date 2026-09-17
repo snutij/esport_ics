@@ -808,14 +808,14 @@ SUMMARY:Lower Bracket Final: IMP vs FXW7
 URL:https://kick.com/gaules
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260916T221500Z
+DTSTAMP:20260917T002000Z
 UID:pandascore-match-1690457@esport-ics
-DTSTART:20260916T221500Z
-DTEND:20260917T003000Z
+DTSTART:20260917T002000Z
+DTEND:20260917T023500Z
 CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba Fall 2026 - Group B\nWatch: https://www.tw
  itch.tv/circuitxofficial
-SUMMARY:Winners' Match: TBD vs IMP
+SUMMARY:Winners' Match: BHE vs IMP
 URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR

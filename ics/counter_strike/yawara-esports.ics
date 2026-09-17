@@ -693,6 +693,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba Fall 2026 - Group B\nWatch: https://www.tw
  itch.tv/circuitxofficial
 SUMMARY:BHE vs YAW
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T023000Z
+UID:pandascore-match-1690458@esport-ics
+DTSTART:20260917T023000Z
+DTEND:20260917T044500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Curitiba Fall 2026 - Group B\nWatch: https://www.tw
+ itch.tv/circuitxofficial
+SUMMARY:Decider match: YAW vs TBD
 URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR
