@@ -652,6 +652,17 @@ CLASS:PUBLIC
 DESCRIPTION:StarLadder StarSeries - Fall 2026 - Playoffs\nWatch: https://ki
  ck.com/starladder
 SUMMARY:Upper Bracket Quarterfinal 3: VIT vs MGC
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T123000Z
+UID:pandascore-match-1685167@esport-ics
+DTSTART:20260918T123000Z
+DTEND:20260918T144500Z
+CLASS:PUBLIC
+DESCRIPTION:StarLadder StarSeries - Fall 2026 - Playoffs\nWatch: https://ki
+ ck.com/starladder
+SUMMARY:Lower Bracket Round 1 Match 2: MGC vs TBD
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT

@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers China Qualifier 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/valorantesports_cn
 SUMMARY:Lower Bracket Quarterfinal 1: 101 Outlaws vs VLG GC
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T110000Z
+UID:pandascore-match-1689160@esport-ics
+DTSTART:20260918T110000Z
+DTEND:20260918T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers China Qualifier 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/valorantesports_cn
+SUMMARY:Lower Bracket Semifinal: NE.GC vs VLG GC
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

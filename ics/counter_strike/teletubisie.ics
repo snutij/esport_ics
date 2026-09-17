@@ -300,7 +300,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/fiesta_cs
 SUMMARY:Round 4: TTBS vs VEX
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260917T140000Z
@@ -311,6 +311,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 55 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper Bracket Quarterfinal 4: TTBS vs ENCE.P
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T103000Z
+UID:pandascore-match-1695718@esport-ics
+DTSTART:20260919T103000Z
+DTEND:20260919T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 55 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper Bracket Semifinal 2: PRE vs TTBS
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

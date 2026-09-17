@@ -575,4 +575,15 @@ DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
 SUMMARY:BBL vs TL
 URL;VALUE=URI:https://kick.com/connect_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T170000Z
+UID:pandascore-match-1696304@esport-ics
+DTSTART:20260925T170000Z
+DTEND:20260925T191500Z
+CLASS:PUBLIC
+DESCRIPTION:iBUYPOWER Masters - Fl0m's Mythical LAN 2026 - Group A\nWatch: 
+ https://www.twitch.tv/fl0m
+SUMMARY:TL vs CCE
+URL;VALUE=URI:https://www.twitch.tv/fl0m
+END:VEVENT
 END:VCALENDAR

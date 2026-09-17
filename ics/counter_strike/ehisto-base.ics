@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba Fall 2026 - Group C\nWatch: https://www.tw
  itch.tv/circuitxofficial
 SUMMARY:SHIN vs EB
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T173000Z
+UID:pandascore-match-1690499@esport-ics
+DTSTART:20260917T173000Z
+DTEND:20260917T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Curitiba Fall 2026 - Group C\nWatch: https://www.tw
+ itch.tv/circuitxofficial
+SUMMARY:Decider match: EB vs TBD
 URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR
