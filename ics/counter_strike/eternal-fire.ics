@@ -840,6 +840,17 @@ SUMMARY:EF vs WIMOK
 URL:https://www.twitch.tv/rtparenacs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260919T150000Z
+UID:pandascore-match-1686125@esport-ics
+DTSTART:20260919T150000Z
+DTEND:20260919T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 12 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/rtparenacs
+SUMMARY:Quarterfinal 3: EF vs Nice Try
+URL;VALUE=URI:https://www.twitch.tv/rtparenacs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260924T100000Z
 UID:pandascore-match-1684029@esport-ics
 DTSTART:20260924T100000Z
