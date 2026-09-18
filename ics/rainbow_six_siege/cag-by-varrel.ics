@@ -141,8 +141,10 @@ UID:pandascore-match-1660749@esport-ics
 DTSTART:20260918T110000Z
 DTEND:20260918T114500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - APAC North - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - APAC North - Stage 2 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
 SUMMARY:CAG vs SZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260919T110000Z

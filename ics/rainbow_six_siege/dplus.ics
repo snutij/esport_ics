@@ -234,8 +234,10 @@ UID:pandascore-match-1660748@esport-ics
 DTSTART:20260918T100000Z
 DTEND:20260918T104500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific League - APAC North - Stage 2 2026 - Group Stage
+DESCRIPTION:Asia Pacific League - APAC North - Stage 2 2026 - Group Stage\n
+ Watch: https://www.twitch.tv/rainbow6
 SUMMARY:DK vs TMT
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260919T120000Z

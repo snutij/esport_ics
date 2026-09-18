@@ -93,10 +93,10 @@ SUMMARY:Semifinal 2: BBL vs HOTU
 URL:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T080000Z
+DTSTAMP:20260918T085000Z
 UID:pandascore-match-1681387@esport-ics
-DTSTART:20260918T080000Z
-DTEND:20260918T084500Z
+DTSTART:20260918T085000Z
+DTEND:20260918T093500Z
 CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
  om/connect_en
@@ -110,9 +110,9 @@ DTSTART:20260918T100000Z
 DTEND:20260918T104500Z
 CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
- om/connect_en
+ om/connect_en2
 SUMMARY:BBL vs INF
-URL;VALUE=URI:https://kick.com/connect_en
+URL;VALUE=URI:https://kick.com/connect_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260918T120000Z
@@ -121,9 +121,9 @@ DTSTART:20260918T120000Z
 DTEND:20260918T124500Z
 CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
- om/connect_en
+ om/connect_en2
 SUMMARY:BBL vs 3DMAX
-URL;VALUE=URI:https://kick.com/connect_en
+URL;VALUE=URI:https://kick.com/connect_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260918T130000Z
@@ -132,9 +132,9 @@ DTSTART:20260918T130000Z
 DTEND:20260918T134500Z
 CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
- om/connect_en
+ om/connect_en2
 SUMMARY:EYE vs BBL
-URL;VALUE=URI:https://kick.com/connect_en
+URL;VALUE=URI:https://kick.com/connect_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260918T140000Z
@@ -143,9 +143,9 @@ DTSTART:20260918T140000Z
 DTEND:20260918T144500Z
 CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - 2026 - Group B\nWatch: https://kick.c
- om/connect_en
+ om/connect_en2
 SUMMARY:BBL vs TL
-URL;VALUE=URI:https://kick.com/connect_en
+URL;VALUE=URI:https://kick.com/connect_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T100000Z

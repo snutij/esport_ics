@@ -324,6 +324,24 @@ CLASS:PUBLIC
 DESCRIPTION:World Star Challengers Invitational - EMEA Qualifier 2026 - Pla
  yoffs\nWatch: https://www.twitch.tv/riotgames
 SUMMARY:Grand final: BIG vs MKF
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T090000Z
+UID:pandascore-match-1697599@esport-ics
+DTSTART:20260920T090000Z
+DTEND:20260920T094500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group B
+SUMMARY:MKF vs CTBC.A
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T130000Z
+UID:pandascore-match-1697603@esport-ics
+DTSTART:20260920T130000Z
+DTEND:20260920T134500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group B
+SUMMARY:MKF vs KT.C
 END:VEVENT
 END:VCALENDAR
