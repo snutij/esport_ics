@@ -374,8 +374,10 @@ UID:pandascore-match-1697591@esport-ics
 DTSTART:20260920T070000Z
 DTEND:20260920T074500Z
 CLASS:PUBLIC
-DESCRIPTION:World Star Challengers Invitational - 2026 - Group A
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/riotgames
 SUMMARY:FUE vs DNS.C
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260920T100000Z
@@ -383,7 +385,53 @@ UID:pandascore-match-1697600@esport-ics
 DTSTART:20260920T100000Z
 DTEND:20260920T104500Z
 CLASS:PUBLIC
-DESCRIPTION:World Star Challengers Invitational - 2026 - Group A
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/riotgames
 SUMMARY:DNS.C vs T1.A
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T090000Z
+UID:pandascore-match-1697616@esport-ics
+DTSTART:20260922T090000Z
+DTEND:20260922T094500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:DNS.C vs EDGY
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T130000Z
+UID:pandascore-match-1697622@esport-ics
+DTSTART:20260922T130000Z
+DTEND:20260922T134500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:FUE vs DNS.C
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T060000Z
+UID:pandascore-match-1697634@esport-ics
+DTSTART:20260924T060000Z
+DTEND:20260924T064500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:DNS.C vs T1.A
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T110000Z
+UID:pandascore-match-1697639@esport-ics
+DTSTART:20260924T110000Z
+DTEND:20260924T114500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:DNS.C vs EDGY
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

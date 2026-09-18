@@ -1004,6 +1004,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba Fall 2026 - Group B\nWatch: https://www.tw
  itch.tv/circuitxofficial
 SUMMARY:Winners' Match: BHE vs IMP
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T180000Z
+UID:pandascore-match-1690931@esport-ics
+DTSTART:20260918T180000Z
+DTEND:20260918T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Curitiba Fall 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/circuitxofficial
+SUMMARY:Quarterfinal 2: GLS vs BHE
 URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR

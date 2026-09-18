@@ -29,8 +29,10 @@ UID:pandascore-match-1697598@esport-ics
 DTSTART:20260920T080000Z
 DTEND:20260920T084500Z
 CLASS:PUBLIC
-DESCRIPTION:World Star Challengers Invitational - 2026 - Group B
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group B\nWatch: ht
+ tps://www.twitch.tv/riotgames
 SUMMARY:KT.C vs BLGJ
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260920T120000Z
@@ -38,7 +40,53 @@ UID:pandascore-match-1697602@esport-ics
 DTSTART:20260920T120000Z
 DTEND:20260920T124500Z
 CLASS:PUBLIC
-DESCRIPTION:World Star Challengers Invitational - 2026 - Group B
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group B\nWatch: ht
+ tps://www.twitch.tv/riotgames
 SUMMARY:CTBC.A vs BLGJ
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T060000Z
+UID:pandascore-match-1697613@esport-ics
+DTSTART:20260922T060000Z
+DTEND:20260922T064500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group B\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:MKF vs BLGJ
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T100000Z
+UID:pandascore-match-1697617@esport-ics
+DTSTART:20260922T100000Z
+DTEND:20260922T104500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group B\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:KT.C vs BLGJ
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T080000Z
+UID:pandascore-match-1697636@esport-ics
+DTSTART:20260924T080000Z
+DTEND:20260924T084500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group B\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:CTBC.A vs BLGJ
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T120000Z
+UID:pandascore-match-1697640@esport-ics
+DTSTART:20260924T120000Z
+DTEND:20260924T124500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group B\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:MKF vs BLGJ
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

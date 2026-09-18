@@ -1349,6 +1349,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 9 2026 - Group C\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Elimination match: Azuolas vs BW
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T080000Z
+UID:pandascore-match-1683273@esport-ics
+DTSTART:20260920T080000Z
+DTEND:20260920T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 9 2026 - Group C\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Decider match: BW vs NAVI.J
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

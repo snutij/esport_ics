@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ZSK
+SLUG:zsk
+BEGIN:VEVENT
+DTSTAMP:20260921T090000Z
+UID:pandascore-match-1697607@esport-ics
+DTSTART:20260921T090000Z
+DTEND:20260921T094500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:SLY vs ZSK
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T120000Z
+UID:pandascore-match-1697610@esport-ics
+DTSTART:20260921T120000Z
+DTEND:20260921T124500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:ZSK vs SGW
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T070000Z
+UID:pandascore-match-1697627@esport-ics
+DTSTART:20260923T070000Z
+DTEND:20260923T074500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:ZSK vs GAL
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T110000Z
+UID:pandascore-match-1697631@esport-ics
+DTSTART:20260923T110000Z
+DTEND:20260923T114500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:SLY vs ZSK
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T080000Z
+UID:pandascore-match-1697644@esport-ics
+DTSTART:20260925T080000Z
+DTEND:20260925T084500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:ZSK vs SGW
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T130000Z
+UID:pandascore-match-1697649@esport-ics
+DTSTART:20260925T130000Z
+DTEND:20260925T134500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:ZSK vs GAL
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+END:VCALENDAR

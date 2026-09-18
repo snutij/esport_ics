@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #3 2026 - Group A\nWa
  tch: https://www.twitch.tv/gluck_esports
 SUMMARY:Y.TigeRES vs boriing
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T110000Z
+UID:pandascore-match-1695036@esport-ics
+DTSTART:20260919T110000Z
+DTEND:20260919T131500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #3 2026 - Group A\nWa
+ tch: https://www.twitch.tv/gluck_esports
+SUMMARY:Elimination match: 2miracll vs boriing
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

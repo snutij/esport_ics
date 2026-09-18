@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Pacific 2026 - Playoffs\nWatch: https://www
  .twitch.tv/valorant_pacific
 SUMMARY:Upper Bracket Final: FL.FE vs FLC
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T070000Z
+UID:pandascore-match-1686014@esport-ics
+DTSTART:20260919T070000Z
+DTEND:20260919T104500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Pacific 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/valorant_pacific
+SUMMARY:Lower Bracket Final: FLC vs Gen.G GC
 URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 END:VCALENDAR

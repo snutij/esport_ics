@@ -585,6 +585,72 @@ CLASS:PUBLIC
 DESCRIPTION:LFL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/otpl
  ol_
 SUMMARY:Grand final: GAL vs TLNP
-URL;VALUE=URI:https://www.twitch.tv/otplol_
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T080000Z
+UID:pandascore-match-1697606@esport-ics
+DTSTART:20260921T080000Z
+DTEND:20260921T084500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:GAL vs SGW
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T130000Z
+UID:pandascore-match-1697612@esport-ics
+DTSTART:20260921T130000Z
+DTEND:20260921T134500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:SLY vs GAL
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T070000Z
+UID:pandascore-match-1697627@esport-ics
+DTSTART:20260923T070000Z
+DTEND:20260923T074500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:ZSK vs GAL
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T100000Z
+UID:pandascore-match-1697630@esport-ics
+DTSTART:20260923T100000Z
+DTEND:20260923T104500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:GAL vs SGW
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T090000Z
+UID:pandascore-match-1697645@esport-ics
+DTSTART:20260925T090000Z
+DTEND:20260925T094500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:SLY vs GAL
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T130000Z
+UID:pandascore-match-1697649@esport-ics
+DTSTART:20260925T130000Z
+DTEND:20260925T134500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:ZSK vs GAL
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

@@ -358,6 +358,72 @@ CLASS:PUBLIC
 DESCRIPTION:LCK Challengers League - 2026 - Playoffs\nWatch: https://play-o
  rigin.sooplive.com/afchall
 SUMMARY:Lower bracket final: DK.C vs KT.C
-URL;VALUE=URI:https://play-origin.sooplive.com/afchall
+URL:https://play-origin.sooplive.com/afchall
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T060000Z
+UID:pandascore-match-1697604@esport-ics
+DTSTART:20260921T060000Z
+DTEND:20260921T064500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:VKS.A vs DK.C
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T100000Z
+UID:pandascore-match-1697608@esport-ics
+DTSTART:20260921T100000Z
+DTEND:20260921T104500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:CPD vs DK.C
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T080000Z
+UID:pandascore-match-1697628@esport-ics
+DTSTART:20260923T080000Z
+DTEND:20260923T084500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:FNL vs DK.C
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T120000Z
+UID:pandascore-match-1697632@esport-ics
+DTSTART:20260923T120000Z
+DTEND:20260923T124500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:VKS.A vs DK.C
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T060000Z
+UID:pandascore-match-1697642@esport-ics
+DTSTART:20260925T060000Z
+DTEND:20260925T064500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:CPD vs DK.C
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T100000Z
+UID:pandascore-match-1697646@esport-ics
+DTSTART:20260925T100000Z
+DTEND:20260925T104500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:FNL vs DK.C
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

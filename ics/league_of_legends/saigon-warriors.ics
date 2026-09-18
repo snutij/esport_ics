@@ -258,4 +258,70 @@ CLASS:PUBLIC
 DESCRIPTION:VCS - Finals 2026 - Regular Season
 SUMMARY:MVKA vs SGW
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T080000Z
+UID:pandascore-match-1697606@esport-ics
+DTSTART:20260921T080000Z
+DTEND:20260921T084500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:GAL vs SGW
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T120000Z
+UID:pandascore-match-1697610@esport-ics
+DTSTART:20260921T120000Z
+DTEND:20260921T124500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:ZSK vs SGW
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T060000Z
+UID:pandascore-match-1697626@esport-ics
+DTSTART:20260923T060000Z
+DTEND:20260923T064500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:SLY vs SGW
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T100000Z
+UID:pandascore-match-1697630@esport-ics
+DTSTART:20260923T100000Z
+DTEND:20260923T104500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:GAL vs SGW
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T080000Z
+UID:pandascore-match-1697644@esport-ics
+DTSTART:20260925T080000Z
+DTEND:20260925T084500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:ZSK vs SGW
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T120000Z
+UID:pandascore-match-1697648@esport-ics
+DTSTART:20260925T120000Z
+DTEND:20260925T124500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:SLY vs SGW
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
 END:VCALENDAR

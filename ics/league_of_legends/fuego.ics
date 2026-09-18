@@ -253,8 +253,10 @@ UID:pandascore-match-1697591@esport-ics
 DTSTART:20260920T070000Z
 DTEND:20260920T074500Z
 CLASS:PUBLIC
-DESCRIPTION:World Star Challengers Invitational - 2026 - Group A
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/riotgames
 SUMMARY:FUE vs DNS.C
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260920T110000Z
@@ -262,8 +264,54 @@ UID:pandascore-match-1697601@esport-ics
 DTSTART:20260920T110000Z
 DTEND:20260920T114500Z
 CLASS:PUBLIC
-DESCRIPTION:World Star Challengers Invitational - 2026 - Group A
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/riotgames
 SUMMARY:FUE vs EDGY
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T080000Z
+UID:pandascore-match-1697615@esport-ics
+DTSTART:20260922T080000Z
+DTEND:20260922T084500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:FUE vs T1.A
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T130000Z
+UID:pandascore-match-1697622@esport-ics
+DTSTART:20260922T130000Z
+DTEND:20260922T134500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:FUE vs DNS.C
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T070000Z
+UID:pandascore-match-1697635@esport-ics
+DTSTART:20260924T070000Z
+DTEND:20260924T074500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:FUE vs EDGY
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T100000Z
+UID:pandascore-match-1697638@esport-ics
+DTSTART:20260924T100000Z
+DTEND:20260924T104500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:FUE vs T1.A
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261006T200000Z

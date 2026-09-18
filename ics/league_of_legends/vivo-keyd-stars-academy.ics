@@ -289,6 +289,72 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Desafiante - Split 2 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/cblol
 SUMMARY:Lower bracket final: VKS.A vs KBM
-URL;VALUE=URI:https://www.twitch.tv/cblol
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T060000Z
+UID:pandascore-match-1697604@esport-ics
+DTSTART:20260921T060000Z
+DTEND:20260921T064500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:VKS.A vs DK.C
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T110000Z
+UID:pandascore-match-1697609@esport-ics
+DTSTART:20260921T110000Z
+DTEND:20260921T114500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:FNL vs VKS.A
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T090000Z
+UID:pandascore-match-1697629@esport-ics
+DTSTART:20260923T090000Z
+DTEND:20260923T094500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:CPD vs VKS.A
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T120000Z
+UID:pandascore-match-1697632@esport-ics
+DTSTART:20260923T120000Z
+DTEND:20260923T124500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:VKS.A vs DK.C
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T070000Z
+UID:pandascore-match-1697643@esport-ics
+DTSTART:20260925T070000Z
+DTEND:20260925T074500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:FNL vs VKS.A
+URL;VALUE=URI:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T110000Z
+UID:pandascore-match-1697647@esport-ics
+DTSTART:20260925T110000Z
+DTEND:20260925T114500Z
+CLASS:PUBLIC
+DESCRIPTION:World Star Challengers Invitational - 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:CPD vs VKS.A
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

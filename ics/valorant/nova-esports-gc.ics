@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers China Qualifier 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/valorantesports_cn
 SUMMARY:Lower Bracket Semifinal: NE.GC vs VLG GC
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T090000Z
+UID:pandascore-match-1689162@esport-ics
+DTSTART:20260919T090000Z
+DTEND:20260919T124500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers China Qualifier 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/valorantesports_cn
+SUMMARY:Lower Bracket Final: Yew Reign Gaming vs NE.GC
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

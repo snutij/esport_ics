@@ -213,6 +213,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba Fall 2026 - Group A\nWatch: https://kick.c
  om/dutchboycasts
 SUMMARY:ALKA vs TdP
-URL;VALUE=URI:https://kick.com/dutchboycasts
+URL:https://kick.com/dutchboycasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T210000Z
+UID:pandascore-match-1690932@esport-ics
+DTSTART:20260918T210000Z
+DTEND:20260918T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Curitiba Fall 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/circuitxofficial
+SUMMARY:Quarterfinal 3: SHIN vs TdP
+URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR

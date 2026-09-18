@@ -711,4 +711,15 @@ DESCRIPTION:CCT Europe - Series #9 2026 - Group Stage\nWatch: https://kick.
 SUMMARY:Round 2: QUA vs NAVI.J
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T080000Z
+UID:pandascore-match-1695035@esport-ics
+DTSTART:20260919T080000Z
+DTEND:20260919T101500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #3 2026 - Group A\nWa
+ tch: https://www.twitch.tv/gluck_esports
+SUMMARY:Winners match: QUA vs Y.TigeRES
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
 END:VCALENDAR
