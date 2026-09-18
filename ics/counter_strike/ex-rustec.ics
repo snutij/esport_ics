@@ -578,6 +578,17 @@ SUMMARY:Round 2: BAKS vs ex-RUSTEC
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260919T080000Z
+UID:pandascore-match-1684154@esport-ics
+DTSTART:20260919T080000Z
+DTEND:20260919T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 3: PCIFIC vs ex-RUSTEC
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260919T170000Z
 UID:pandascore-match-1695046@esport-ics
 DTSTART:20260919T170000Z
@@ -587,5 +598,16 @@ DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #3 2026 - Group C\nWa
  tch: https://www.twitch.tv/gluck_esports
 SUMMARY:Elimination match: ex-RUSTEC vs AUR.YB
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T080000Z
+UID:pandascore-match-1681119@esport-ics
+DTSTART:20260920T080000Z
+DTEND:20260920T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #9 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 3: ex-RUSTEC vs Azuolas
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

@@ -324,4 +324,15 @@ DESCRIPTION:United21 - Season 55 2026 - Playoffs\nWatch: https://kick.com/u
 SUMMARY:Upper Bracket Semifinal 2: PRE vs TTBS
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T170000Z
+UID:pandascore-match-1683179@esport-ics
+DTSTART:20260919T170000Z
+DTEND:20260919T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 5: FAL.F vs TTBS
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
 END:VCALENDAR

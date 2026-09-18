@@ -1544,6 +1544,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/fiesta_cs
 SUMMARY:Round 4: ex-ZT vs TrafficPills Esports
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T140000Z
+UID:pandascore-match-1683178@esport-ics
+DTSTART:20260919T140000Z
+DTEND:20260919T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 5: ex-ZT vs PCIFIC
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

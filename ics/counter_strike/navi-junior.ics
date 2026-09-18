@@ -818,7 +818,18 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/peluso33
 SUMMARY:Lower bracket quarterfinal 1: NAVI.J vs BG
-URL;VALUE=URI:https://www.twitch.tv/peluso33
+URL:https://www.twitch.tv/peluso33
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T140000Z
+UID:pandascore-match-1681117@esport-ics
+DTSTART:20260919T140000Z
+DTEND:20260919T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #9 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs2
+SUMMARY:Round 3: Leo vs NAVI.J
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260920T080000Z
