@@ -365,4 +365,15 @@ DESCRIPTION:PGL Masters - Bucharest: South American Open Qualifier #2 2026
  - Playoffs
 SUMMARY:Quarterfinal 1: BHE vs RED.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T210000Z
+UID:pandascore-match-1698594@esport-ics
+DTSTART:20260921T210000Z
+DTEND:20260921T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/gamersclubcs
+SUMMARY:RED.A vs MIBR.F
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
 END:VCALENDAR

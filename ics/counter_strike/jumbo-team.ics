@@ -567,6 +567,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #3 2026 - Group B\nWa
  tch: https://www.twitch.tv/gluck_esports_2
 SUMMARY:JUMBO vs mskLANERS
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports_2
+URL:https://www.twitch.tv/gluck_esports_2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T080000Z
+UID:pandascore-match-1695040@esport-ics
+DTSTART:20260919T080000Z
+DTEND:20260919T101500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #3 2026 - Group B\nWa
+ tch: https://www.twitch.tv/gluck_esports
+SUMMARY:Winners match: Black Phoenix vs JUMBO
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR
