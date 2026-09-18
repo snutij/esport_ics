@@ -309,6 +309,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS World Championship - 2026 - Group D\nWatch: https://www.tw
  itch.tv/rocketleague
 SUMMARY:M8 vs VIT
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T170000Z
+UID:pandascore-match-1697454@esport-ics
+DTSTART:20260918T170000Z
+DTEND:20260918T221500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS World Championship - 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/rocketleague
+SUMMARY:Lower Bracket Round 1: MCE vs M8
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR
