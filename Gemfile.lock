@@ -108,9 +108,9 @@ GEM
     rubocop-rake (0.7.1)
       lint_roller (~> 1.1)
       rubocop (>= 1.72.1)
-    rubocop-shopify (3.0.2)
+    rubocop-shopify (3.1.0)
       lint_roller
-      rubocop (~> 1.72, >= 1.72.1)
+      rubocop (~> 1.89)
     ruby-progressbar (1.13.0)
     ruby2_keywords (0.0.5)
     securerandom (0.4.1)
