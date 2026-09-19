@@ -168,6 +168,17 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - 2026 - Playoffs\nWatch: https://kick.
  com/connect_en
 SUMMARY:Quarterfinal 2: LG vs BBL
+URL:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T130000Z
+UID:pandascore-match-1681406@esport-ics
+DTSTART:20260922T130000Z
+DTEND:20260922T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Play Connect - 2026 - Playoffs\nWatch: https://kick.
+ com/connect_en
+SUMMARY:Semifinal 1: B8 vs LG
 URL;VALUE=URI:https://kick.com/connect_en
 END:VEVENT
 BEGIN:VEVENT

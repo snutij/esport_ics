@@ -387,6 +387,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Retake - Season 12 2026 - Playoffs\nWatch: https://www
  .twitch.tv/rtparenacs
 SUMMARY:Quarterfinal 1: WBT vs RBLS
+URL:https://www.twitch.tv/rtparenacs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T090000Z
+UID:pandascore-match-1686127@esport-ics
+DTSTART:20260920T090000Z
+DTEND:20260920T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 12 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/rtparenacs
+SUMMARY:Semifinal 1: WBT vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR

@@ -27,4 +27,15 @@ DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #3 2026 - Group D\nWa
 SUMMARY:Elimination match: JustP vs PRTZN
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T170000Z
+UID:pandascore-match-1695054@esport-ics
+DTSTART:20260920T170000Z
+DTEND:20260920T191500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #3 2026 - Group D\nWa
+ tch: https://www.twitch.tv/gluck_esports
+SUMMARY:Decider match: PRTZN vs TBD
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
 END:VCALENDAR
