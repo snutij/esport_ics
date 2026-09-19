@@ -1370,7 +1370,7 @@ DTEND:20260920T101500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 9 2026 - Group C\nWatch: https://k
  ick.com/eplcs_en
-SUMMARY:Decider match: BW vs NAVI.J
+SUMMARY:Decider match: NAVI.J vs BW
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
@@ -1379,7 +1379,9 @@ UID:pandascore-match-1699314@esport-ics
 DTSTART:20260922T140000Z
 DTEND:20260922T161500Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Closed Qualifier: Series #10 2026 - Group B
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #10 2026 - Group B\nWatch
+ : https://kick.com/cct_cs2
 SUMMARY:BW vs mellren
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

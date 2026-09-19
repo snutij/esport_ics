@@ -143,7 +143,9 @@ UID:pandascore-match-1699309@esport-ics
 DTSTART:20260922T080000Z
 DTEND:20260922T101500Z
 CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Closed Qualifier: Series #10 2026 - Group A
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #10 2026 - Group A\nWatch
+ : https://kick.com/cct_cs2
 SUMMARY:SSins vs KSM
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

@@ -910,4 +910,15 @@ DESCRIPTION:PGL Masters - Bucharest: South American Open Qualifier #2 2026
  - Playoffs
 SUMMARY:Quarterfinal 3: ISG vs wachoskys
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T210000Z
+UID:pandascore-match-1700611@esport-ics
+DTSTART:20260922T210000Z
+DTEND:20260922T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
+ layoffs\nWatch: https://www.kick.com/ESLCS
+SUMMARY:Upper Bracket Round 1 match 3: ISG vs MW
+URL;VALUE=URI:https://www.kick.com/ESLCS
+END:VEVENT
 END:VCALENDAR
