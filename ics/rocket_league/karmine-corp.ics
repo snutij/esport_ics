@@ -322,6 +322,17 @@ CLASS:PUBLIC
 DESCRIPTION:RLCS World Championship - 2026 - Playoffs\nWatch: https://www.t
  witch.tv/rocketleague
 SUMMARY:Upper Bracket Quarterfinal 1: KC vs VP
+URL:https://www.twitch.tv/rocketleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T190000Z
+UID:pandascore-match-1700828@esport-ics
+DTSTART:20260920T190000Z
+DTEND:20260921T001500Z
+CLASS:PUBLIC
+DESCRIPTION:RLCS World Championship - 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/rocketleague
+SUMMARY:Semifinal 2: KC vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rocketleague
 END:VEVENT
 END:VCALENDAR

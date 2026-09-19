@@ -1011,4 +1011,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
 SUMMARY:Round 3: INOX vs SPARTA
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T140000Z
+UID:pandascore-match-1683186@esport-ics
+DTSTART:20260921T140000Z
+DTEND:20260921T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Playoffs\nWatch: https://kick.co
+ m/fiesta_cs
+SUMMARY:Round 16 match 5: INOX vs ex-ZT
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
 END:VCALENDAR

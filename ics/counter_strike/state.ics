@@ -1040,6 +1040,17 @@ SUMMARY:Qualification match 1: STA vs LDP
 URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260920T110000Z
+UID:pandascore-match-1683181@esport-ics
+DTSTART:20260920T110000Z
+DTEND:20260920T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Playoffs\nWatch: https://kick.co
+ m/fiesta_cs
+SUMMARY:Round 16 match 7: STA vs TTBS
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260921T160000Z
 UID:pandascore-match-1687967@esport-ics
 DTSTART:20260921T160000Z

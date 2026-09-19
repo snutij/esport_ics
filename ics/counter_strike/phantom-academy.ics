@@ -794,6 +794,17 @@ SUMMARY:Round 4: PCIFIC vs PHTM.Ac
 URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260921T170000Z
+UID:pandascore-match-1683187@esport-ics
+DTSTART:20260921T170000Z
+DTEND:20260921T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Playoffs\nWatch: https://kick.co
+ m/fiesta_cs
+SUMMARY:Round 16 match 4: WW vs PHTM.Ac
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260924T110000Z
 UID:pandascore-match-1699320@esport-ics
 DTSTART:20260924T110000Z

@@ -625,6 +625,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba Fall 2026 - Playoffs\nWatch: https://www.t
  witch.tv/circuitxofficial
 SUMMARY:Semifinal 1: FXW7 vs BHE
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T180000Z
+UID:pandascore-match-1690936@esport-ics
+DTSTART:20260920T180000Z
+DTEND:20260920T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Curitiba Fall 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/circuitxofficial
+SUMMARY:3rd place decider: FXW7 vs TBD
 URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR
