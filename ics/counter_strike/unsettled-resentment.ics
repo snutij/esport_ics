@@ -25,6 +25,16 @@ CLASS:PUBLIC
 DESCRIPTION:GangKui Cup - Season 2 2026 - Playoffs\nWatch: https://www.huya
  .com/123321
 SUMMARY:Lower bracket round 1 match 1: UR vs TYLOO
-URL;VALUE=URI:https://www.huya.com/123321
+URL:https://www.huya.com/123321
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T130000Z
+UID:pandascore-match-1700650@esport-ics
+DTSTART:20260922T130000Z
+DTEND:20260922T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #2 season 52 2026 - Pl
+ ayoffs
+SUMMARY:Upper bracket round 1 match 1: LVG vs UR
 END:VEVENT
 END:VCALENDAR

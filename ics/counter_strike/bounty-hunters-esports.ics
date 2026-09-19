@@ -1026,7 +1026,7 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba Fall 2026 - Playoffs\nWatch: https://www.t
  witch.tv/circuitxofficial
 SUMMARY:Semifinal 1: FXW7 vs BHE
-URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
+URL:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T210000Z
@@ -1038,5 +1038,16 @@ DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
  layoffs\nWatch: https://www.kick.com/ESLCS
 SUMMARY:Upper Bracket Round 1 match 8: Damajuana vs BHE
 URL;VALUE=URI:https://www.kick.com/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T130000Z
+UID:pandascore-match-1700687@esport-ics
+DTSTART:20260923T130000Z
+DTEND:20260923T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - Season 2 2026 - Group A\nWatch: https://www.t
+ witch.tv/ferjeeoficial
+SUMMARY:BHE vs Keyd
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR

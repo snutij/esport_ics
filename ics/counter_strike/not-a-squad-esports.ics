@@ -52,4 +52,14 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia Cup #1 season 52 2026 - Playoffs
 SUMMARY:Lower bracket round 3 match 1: AE vs NAS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T130000Z
+UID:pandascore-match-1700655@esport-ics
+DTSTART:20260922T130000Z
+DTEND:20260922T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #2 season 52 2026 - Pl
+ ayoffs
+SUMMARY:Upper bracket round 1 match 6: NAS vs KG
+END:VEVENT
 END:VCALENDAR
