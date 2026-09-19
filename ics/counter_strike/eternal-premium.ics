@@ -847,6 +847,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #2 2026 - Group A\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:Decider match: TTBS vs EP
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T080000Z
+UID:pandascore-match-1699319@esport-ics
+DTSTART:20260924T080000Z
+DTEND:20260924T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #10 2026 - Group C
+SUMMARY:Entropy vs EP
 END:VEVENT
 END:VCALENDAR

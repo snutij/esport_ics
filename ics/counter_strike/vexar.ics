@@ -603,6 +603,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 9 2026 - Group D\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Elimination match: DC vs VEX
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T103000Z
+UID:pandascore-match-1683284@esport-ics
+DTSTART:20260920T103000Z
+DTEND:20260920T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 9 2026 - Group D\nWatch: https://k
+ ick.com/eplcs_en
+SUMMARY:Decider match: VEX vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

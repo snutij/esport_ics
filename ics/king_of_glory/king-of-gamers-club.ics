@@ -303,15 +303,15 @@ SUMMARY:BAC vs KOG
 URL:https://www.youtube.com/watch?v=HIQ5uKa-1_A
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260919T080000Z
+DTSTAMP:20260919T083000Z
 UID:pandascore-match-1637674@esport-ics
-DTSTART:20260919T080000Z
-DTEND:20260919T114500Z
+DTSTART:20260919T083000Z
+DTEND:20260919T121500Z
 CLASS:PUBLIC
 DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
- youtube.com/GarenaRoVThailand/live
+ youtube.com/watch?v=__L5tGJuGBs
 SUMMARY:KOG vs FS
-URL;VALUE=URI:https://www.youtube.com/GarenaRoVThailand/live
+URL;VALUE=URI:https://www.youtube.com/watch?v=__L5tGJuGBs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260920T080000Z
