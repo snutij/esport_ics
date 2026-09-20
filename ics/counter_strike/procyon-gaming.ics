@@ -681,4 +681,15 @@ DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
  layoffs
 SUMMARY:Upper Bracket Round 1 match 6: PCY vs ALKA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T160000Z
+UID:pandascore-match-1702583@esport-ics
+DTSTART:20260923T160000Z
+DTEND:20260923T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 6 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 1: MW vs PCY
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR

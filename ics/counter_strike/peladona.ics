@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 5 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs3
 SUMMARY:Quarterfinal 4: PLD vs IMP
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T190000Z
+UID:pandascore-match-1702584@esport-ics
+DTSTART:20260923T190000Z
+DTEND:20260923T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 6 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 1: PLD vs your end
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

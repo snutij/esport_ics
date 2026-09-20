@@ -892,6 +892,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
  www.twitch.tv/ya4iller
 SUMMARY:Z10 vs BALU
-URL;VALUE=URI:https://www.twitch.tv/ya4iller
+URL:https://www.twitch.tv/ya4iller
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T120000Z
+UID:pandascore-match-1702710@esport-ics
+DTSTART:20260921T120000Z
+DTEND:20260921T141500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 40 2026 - Playoffs\nWatch: https:/
+ /kick.com/epldota_en2
+SUMMARY:Upper Bracket Quarterfinals: TM vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

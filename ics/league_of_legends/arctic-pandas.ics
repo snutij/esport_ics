@@ -300,6 +300,15 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
  ol
 SUMMARY:Lower bracket final: AP vs VDN
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T150000Z
+UID:pandascore-match-1702644@esport-ics
+DTSTART:20260921T150000Z
+DTEND:20260921T171500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Summer 2026 - Group A
+SUMMARY:Upper Bracket Semifinal 1: SC vs AP
 END:VEVENT
 END:VCALENDAR
