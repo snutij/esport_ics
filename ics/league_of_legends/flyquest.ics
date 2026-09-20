@@ -336,6 +336,16 @@ DTEND:20260920T234500Z
 CLASS:PUBLIC
 DESCRIPTION:LCS - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/lcs
 SUMMARY:Upper bracket semifinal 2: TL vs FLY
+URL:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T200000Z
+UID:pandascore-match-1662459@esport-ics
+DTSTART:20260925T200000Z
+DTEND:20260925T234500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/lcs
+SUMMARY:Lower bracket quarterfinal: SR vs FLY
 URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR

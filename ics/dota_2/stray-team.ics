@@ -182,6 +182,50 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/betboom_sb_dota
 SUMMARY:Grand final: TT vs Stray
+URL:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T180000Z
+UID:pandascore-match-1702947@esport-ics
+DTSTART:20260922T180000Z
+DTEND:20260922T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:YBN vs Stray
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T130000Z
+UID:pandascore-match-1702948@esport-ics
+DTSTART:20260923T130000Z
+DTEND:20260923T151500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:Stray vs NS
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T180000Z
+UID:pandascore-match-1702951@esport-ics
+DTSTART:20260924T180000Z
+DTEND:20260924T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:TT vs Stray
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T130000Z
+UID:pandascore-match-1702952@esport-ics
+DTSTART:20260925T130000Z
+DTEND:20260925T151500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:Stray vs RT
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 END:VCALENDAR

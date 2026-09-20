@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cake Team
+SLUG:cake-team
+BEGIN:VEVENT
+DTSTAMP:20260921T150000Z
+UID:pandascore-match-1702935@esport-ics
+DTSTART:20260921T150000Z
+DTEND:20260921T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:CAKE vs AVI
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T120000Z
+UID:pandascore-match-1702938@esport-ics
+DTSTART:20260923T120000Z
+DTEND:20260923T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:CAKE vs DXK
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T150000Z
+UID:pandascore-match-1702941@esport-ics
+DTSTART:20260924T150000Z
+DTEND:20260924T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:CAKE vs Solo
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T150000Z
+UID:pandascore-match-1702943@esport-ics
+DTSTART:20260925T150000Z
+DTEND:20260925T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:CAKE vs GPK
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+END:VCALENDAR

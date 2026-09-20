@@ -94,6 +94,50 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 14 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/betboom_sb_dota
 SUMMARY:Lower bracket quarterfinal 1: DXK vs AVI
+URL:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T120000Z
+UID:pandascore-match-1702934@esport-ics
+DTSTART:20260921T120000Z
+DTEND:20260921T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:Solo vs DXK
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T130000Z
+UID:pandascore-match-1702937@esport-ics
+DTSTART:20260922T130000Z
+DTEND:20260922T151500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:AVI vs DXK
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T120000Z
+UID:pandascore-match-1702938@esport-ics
+DTSTART:20260923T120000Z
+DTEND:20260923T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:CAKE vs DXK
+URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T120000Z
+UID:pandascore-match-1702940@esport-ics
+DTSTART:20260924T120000Z
+DTEND:20260924T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/betboom_sb_dota
+SUMMARY:DXK vs GPK
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 END:VCALENDAR
