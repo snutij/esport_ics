@@ -256,18 +256,18 @@ CLASS:PUBLIC
 DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
  tps://www.twitch.tv/riotgames
 SUMMARY:FUE vs DNS.C
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL:https://www.twitch.tv/riotgames
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260920T110000Z
+DTSTAMP:20260920T111500Z
 UID:pandascore-match-1697601@esport-ics
-DTSTART:20260920T110000Z
-DTEND:20260920T114500Z
+DTSTART:20260920T111500Z
+DTEND:20260920T120000Z
 CLASS:PUBLIC
 DESCRIPTION:World Star Challengers Invitational - 2026 - Group A\nWatch: ht
- tps://www.twitch.tv/riotgames
+ tps://www.twitch.tv/nymaera
 SUMMARY:FUE vs EDGY
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL;VALUE=URI:https://www.twitch.tv/nymaera
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T080000Z

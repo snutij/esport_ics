@@ -606,17 +606,6 @@ SUMMARY:Elimination match: DC vs VEX
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260920T080000Z
-UID:pandascore-match-1683180@esport-ics
-DTSTART:20260920T080000Z
-DTEND:20260920T101500Z
-CLASS:PUBLIC
-DESCRIPTION:Exort Fiesta - Season 2 2026 - Playoffs\nWatch: https://kick.co
- m/fiesta_cs
-SUMMARY:Round 16 match 3: LVKD vs VEX
-URL;VALUE=URI:https://kick.com/fiesta_cs
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260920T103000Z
 UID:pandascore-match-1683284@esport-ics
 DTSTART:20260920T103000Z
@@ -626,5 +615,16 @@ DESCRIPTION:European Pro League - Series 9 2026 - Group D\nWatch: https://k
  ick.com/eplcs_en
 SUMMARY:Decider match: VEX vs Entropy
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T140000Z
+UID:pandascore-match-1683180@esport-ics
+DTSTART:20260920T140000Z
+DTEND:20260920T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Playoffs\nWatch: https://kick.co
+ m/fiesta_cs
+SUMMARY:Round 16 match 3: LVKD vs VEX
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR
