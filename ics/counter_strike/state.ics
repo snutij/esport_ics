@@ -1048,7 +1048,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 2 2026 - Playoffs\nWatch: https://kick.co
  m/fiesta_cs
 SUMMARY:Round 16 match 7: STA vs TTBS
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260921T160000Z
@@ -1082,6 +1082,17 @@ DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:STA vs st0ny
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T170000Z
+UID:pandascore-match-1683191@esport-ics
+DTSTART:20260922T170000Z
+DTEND:20260922T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Playoffs\nWatch: https://kick.co
+ m/fiesta_cs
+SUMMARY:Quarterfinal 4: STA vs TBD
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260928T180000Z

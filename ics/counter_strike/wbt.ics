@@ -398,6 +398,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Retake - Season 12 2026 - Playoffs\nWatch: https://www
  .twitch.tv/rtparenacs
 SUMMARY:Semifinal 1: WBT vs SAW.Y
+URL:https://www.twitch.tv/rtparenacs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T180000Z
+UID:pandascore-match-1686129@esport-ics
+DTSTART:20260920T180000Z
+DTEND:20260920T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 12 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/rtparenacs
+SUMMARY:Grand Final: WBT vs EF
 URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR
