@@ -589,6 +589,17 @@ SUMMARY:Round 3: BAKS vs Black Phoenix
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260921T110000Z
+UID:pandascore-match-1684163@esport-ics
+DTSTART:20260921T110000Z
+DTEND:20260921T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 4: QUA vs Black Phoenix
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260922T140000Z
 UID:pandascore-match-1683190@esport-ics
 DTSTART:20260922T140000Z
@@ -598,5 +609,16 @@ DESCRIPTION:Exort Fiesta - Season 2 2026 - Playoffs\nWatch: https://kick.co
  m/fiesta_cs
 SUMMARY:Quarterfinal 3: Black Phoenix vs TBD
 URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T140000Z
+UID:pandascore-match-1681127@esport-ics
+DTSTART:20260922T140000Z
+DTEND:20260922T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #9 2026 - Group Stage\nWatch: https://kick.
+ com/cct_cs
+SUMMARY:Round 4: Black Phoenix vs G2.A
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

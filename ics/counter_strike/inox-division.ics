@@ -1022,4 +1022,15 @@ DESCRIPTION:Exort Fiesta - Season 2 2026 - Playoffs\nWatch: https://kick.co
 SUMMARY:Round 16 match 5: INOX vs ex-ZT
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T080000Z
+UID:pandascore-match-1684165@esport-ics
+DTSTART:20260922T080000Z
+DTEND:20260922T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 4: INOX vs BAKS
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
