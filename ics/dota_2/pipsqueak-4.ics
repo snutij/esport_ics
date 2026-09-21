@@ -374,6 +374,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 9 2026 - Group Stage\nWatch: https://www
  .twitch.tv/pgl_dota2
 SUMMARY:Round 3: GL vs PIPS+4
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T100000Z
+UID:pandascore-match-1694733@esport-ics
+DTSTART:20260922T100000Z
+DTEND:20260922T121500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 9 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
+SUMMARY:Round 4: PIPS+4 vs TC
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

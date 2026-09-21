@@ -303,6 +303,17 @@ SUMMARY:GAL vs SGW
 URL;VALUE=URI:https://live.bilibili.com/21622795
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260924T090000Z
+UID:pandascore-match-1615364@esport-ics
+DTSTART:20260924T090000Z
+DTEND:20260924T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Finals 2026 - Playoffs\nWatch: https://www.youtube.com/@v
+ cslmht
+SUMMARY:Upper bracket semifinal 1: SGW vs 9G
+URL;VALUE=URI:https://www.youtube.com/@vcslmht
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260925T080000Z
 UID:pandascore-match-1697644@esport-ics
 DTSTART:20260925T080000Z
