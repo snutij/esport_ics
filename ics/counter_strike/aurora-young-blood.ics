@@ -527,6 +527,15 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - Closed Qualifier: Series #3 2026 - Group C\nWa
  tch: https://www.twitch.tv/gluck_esports
 SUMMARY:Elimination match: ex-RUSTEC vs AUR.YB
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T173000Z
+UID:pandascore-match-1704796@esport-ics
+DTSTART:20260922T173000Z
+DTEND:20260922T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - European Finals season 58 2026 - Playoffs
+SUMMARY:Round 1 Match 1: AUR.YB vs MEGAKICH
 END:VEVENT
 END:VCALENDAR

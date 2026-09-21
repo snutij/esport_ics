@@ -1205,6 +1205,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/r3s0luteee
 SUMMARY:Lower bracket round 4 match 3: OLDBOYS PL vs LPH
-URL;VALUE=URI:https://www.twitch.tv/r3s0luteee
+URL:https://www.twitch.tv/r3s0luteee
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T130000Z
+UID:pandascore-match-1700536@esport-ics
+DTSTART:20260922T130000Z
+DTEND:20260922T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #7 season 52 2026 - Group C
+SUMMARY:FOR vs LPH
 END:VEVENT
 END:VCALENDAR

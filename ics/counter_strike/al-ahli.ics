@@ -25,6 +25,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #6 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs3
 SUMMARY:Lower Bracket Round  2 Match 3: banda chuya vs Al Ahli
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T173000Z
+UID:pandascore-match-1704787@esport-ics
+DTSTART:20260924T173000Z
+DTEND:20260924T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - European Finals season 58 2026 - Playoffs
+SUMMARY:Round 3 Match 3: Al Ahli vs TBD
 END:VEVENT
 END:VCALENDAR

@@ -253,6 +253,15 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 8 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/sinon__cs
 SUMMARY:Lower bracket semifinal: IS vs 6666
-URL;VALUE=URI:https://www.twitch.tv/sinon__cs
+URL:https://www.twitch.tv/sinon__cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T130000Z
+UID:pandascore-match-1700527@esport-ics
+DTSTART:20260922T130000Z
+DTEND:20260922T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #7 season 52 2026 - Group A
+SUMMARY:MISA vs 6666
 END:VEVENT
 END:VCALENDAR

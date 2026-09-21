@@ -212,6 +212,15 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Retake - Season 12 2026 - Group B\nWatch: https://www.
  twitch.tv/rtparenacs
 SUMMARY:maybe vs RBLS
-URL;VALUE=URI:https://www.twitch.tv/rtparenacs
+URL:https://www.twitch.tv/rtparenacs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T130000Z
+UID:pandascore-match-1700542@esport-ics
+DTSTART:20260922T130000Z
+DTEND:20260922T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #7 season 52 2026 - Group D
+SUMMARY:maybe vs Noir Verse
 END:VEVENT
 END:VCALENDAR

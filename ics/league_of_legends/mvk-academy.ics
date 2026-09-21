@@ -169,4 +169,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCS - Finals 2026 - Regular Season
 SUMMARY:MVKA vs SGW
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T120000Z
+UID:pandascore-match-1615365@esport-ics
+DTSTART:20260924T120000Z
+DTEND:20260924T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Finals 2026 - Playoffs\nWatch: https://www.youtube.com/@v
+ cslmht
+SUMMARY:Upper bracket semifinal 2: CBC vs MVKA
+URL;VALUE=URI:https://www.youtube.com/@vcslmht
+END:VEVENT
 END:VCALENDAR
