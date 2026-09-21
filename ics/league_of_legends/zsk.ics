@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
  tps://www.twitch.tv/riotgames
 SUMMARY:SLY vs ZSK
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL:https://www.twitch.tv/riotgames
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260921T120000Z
@@ -23,9 +23,9 @@ DTSTART:20260921T120000Z
 DTEND:20260921T124500Z
 CLASS:PUBLIC
 DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
- tps://www.twitch.tv/riotgames
+ tps://live.bilibili.com/21622795
 SUMMARY:ZSK vs SGW
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL;VALUE=URI:https://live.bilibili.com/21622795
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260923T070000Z
@@ -34,9 +34,9 @@ DTSTART:20260923T070000Z
 DTEND:20260923T074500Z
 CLASS:PUBLIC
 DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
- tps://www.twitch.tv/riotgames
+ tps://live.bilibili.com/21622795
 SUMMARY:ZSK vs GAL
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL;VALUE=URI:https://live.bilibili.com/21622795
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260923T110000Z
@@ -45,9 +45,9 @@ DTSTART:20260923T110000Z
 DTEND:20260923T114500Z
 CLASS:PUBLIC
 DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
- tps://www.twitch.tv/riotgames
+ tps://live.bilibili.com/21622795
 SUMMARY:SLY vs ZSK
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL;VALUE=URI:https://live.bilibili.com/21622795
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260925T080000Z
@@ -56,9 +56,9 @@ DTSTART:20260925T080000Z
 DTEND:20260925T084500Z
 CLASS:PUBLIC
 DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
- tps://www.twitch.tv/riotgames
+ tps://live.bilibili.com/21622795
 SUMMARY:ZSK vs SGW
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL;VALUE=URI:https://live.bilibili.com/21622795
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260925T130000Z
@@ -67,8 +67,8 @@ DTSTART:20260925T130000Z
 DTEND:20260925T134500Z
 CLASS:PUBLIC
 DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
- tps://www.twitch.tv/riotgames
+ tps://live.bilibili.com/21622795
 SUMMARY:ZSK vs GAL
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL;VALUE=URI:https://live.bilibili.com/21622795
 END:VEVENT
 END:VCALENDAR
