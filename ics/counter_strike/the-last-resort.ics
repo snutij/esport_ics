@@ -1069,6 +1069,17 @@ CLASS:PUBLIC
 DESCRIPTION:UKIC - Masters Division season 11 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/UKICircuit
 SUMMARY:Grand final: TLR vs Ryvex
-URL;VALUE=URI:https://www.twitch.tv/UKICircuit
+URL:https://www.twitch.tv/UKICircuit
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T080000Z
+UID:pandascore-match-1683295@esport-ics
+DTSTART:20260924T080000Z
+DTEND:20260924T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 9 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Round 16 match 5: TLR vs NXS
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

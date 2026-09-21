@@ -148,4 +148,15 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #10 2026 - Group A\nWatch
 SUMMARY:SSins vs KSM
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T103000Z
+UID:pandascore-match-1683294@esport-ics
+DTSTART:20260923T103000Z
+DTEND:20260923T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 9 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Round 16 match 4: Leo vs SSins
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

@@ -378,6 +378,16 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: Asian Closed Qualifier 2026 - Playoffs
  \nWatch: https://www.twitch.tv/PGL
 SUMMARY:Lower Bracket Final: FLY vs DEPO
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T090000Z
+UID:pandascore-match-1704609@esport-ics
+DTSTART:20260923T090000Z
+DTEND:20260923T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 52 2026 - Playoff
+ s
+SUMMARY:Upper Bracket Quarterfinal 1: FLY vs TBD
 END:VEVENT
 END:VCALENDAR

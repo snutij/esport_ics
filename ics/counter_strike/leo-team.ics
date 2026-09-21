@@ -1063,7 +1063,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 4: Leo vs G2.A
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260922T170000Z
@@ -1075,5 +1075,16 @@ DESCRIPTION:CCT Europe - Series #9 2026 - Group Stage\nWatch: https://kick.
  com/cct_cs
 SUMMARY:Round 4: Leo vs ex-RUSTEC
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T103000Z
+UID:pandascore-match-1683294@esport-ics
+DTSTART:20260923T103000Z
+DTEND:20260923T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 9 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Round 16 match 4: Leo vs SSins
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

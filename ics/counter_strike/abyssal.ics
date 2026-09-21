@@ -409,6 +409,16 @@ CLASS:PUBLIC
 DESCRIPTION:Dfrag - Open Series #6 2026 - Playoffs\nWatch: https://kick.com
  /dfragtv
 SUMMARY:Grand final: Abyssal vs GZ
-URL;VALUE=URI:https://kick.com/dfragtv
+URL:https://kick.com/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T090000Z
+UID:pandascore-match-1704611@esport-ics
+DTSTART:20260923T090000Z
+DTEND:20260923T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 52 2026 - Playoff
+ s
+SUMMARY:Upper Bracket Quarterfinal 3: GZ vs Abyssal
 END:VEVENT
 END:VCALENDAR
