@@ -244,7 +244,8 @@ DTSTART:20260922T090000Z
 DTEND:20260922T111500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 52 2026 - Playoff
- s
+ s\nWatch: https://www.twitch.tv/ngsabyts
 SUMMARY:Upper Bracket Round 1 Match 2: Fruju vs ARC
+URL;VALUE=URI:https://www.twitch.tv/ngsabyts
 END:VEVENT
 END:VCALENDAR

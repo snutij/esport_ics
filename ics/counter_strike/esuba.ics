@@ -448,7 +448,9 @@ UID:pandascore-match-1700526@esport-ics
 DTSTART:20260922T130000Z
 DTEND:20260922T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #7 season 52 2026 - Group A
+DESCRIPTION:ESL Challenger League - Europe Cup #7 season 52 2026 - Group A\
+ nWatch: https://kick.com/dutchboycasts
 SUMMARY:Entropy vs ESB
+URL;VALUE=URI:https://kick.com/dutchboycasts
 END:VEVENT
 END:VCALENDAR

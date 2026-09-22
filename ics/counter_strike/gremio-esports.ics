@@ -349,8 +349,9 @@ DTSTART:20260922T210000Z
 DTEND:20260922T231500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
- layoffs
+ layoffs\nWatch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Upper Bracket Round 1 match 4: GRE vs Keyd
+URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260923T130000Z
