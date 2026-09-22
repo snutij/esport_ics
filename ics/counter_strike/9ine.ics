@@ -538,6 +538,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 5: Open Qualifier 2026 - Playoffs\nWatch
  : https://www.youtube.com/watch?v=dtHcusQWCXg
 SUMMARY:Qualification match 4: 9INE vs AIMC
-URL;VALUE=URI:https://www.youtube.com/watch?v=dtHcusQWCXg
+URL:https://www.youtube.com/watch?v=dtHcusQWCXg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T173000Z
+UID:pandascore-match-1706420@esport-ics
+DTSTART:20260925T173000Z
+DTEND:20260925T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 Match 3: SASHI vs 9INE
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

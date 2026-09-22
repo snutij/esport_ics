@@ -636,6 +636,15 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba Fall 2026 - Playoffs\nWatch: https://www.t
  witch.tv/circuitxofficial
 SUMMARY:3rd place decider: FXW7 vs SHIN
-URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T080000Z
+UID:pandascore-match-1706587@esport-ics
+DTSTART:20260924T080000Z
+DTEND:20260924T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Leon.bet Masters - Season 1 2026 - Group A
+SUMMARY:FXW7 vs FCF
 END:VEVENT
 END:VCALENDAR

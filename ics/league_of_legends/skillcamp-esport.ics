@@ -364,6 +364,15 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Summer 2026 - Group A\nWatch: https://www.youtub
  e.com/watch?v=wRqHnfNFsJ0
 SUMMARY:Upper Bracket Final: SC vs LDS
-URL;VALUE=URI:https://www.youtube.com/watch?v=wRqHnfNFsJ0
+URL:https://www.youtube.com/watch?v=wRqHnfNFsJ0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T170000Z
+UID:pandascore-match-1702654@esport-ics
+DTSTART:20260923T170000Z
+DTEND:20260923T191500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Summer 2026 - Group A
+SUMMARY:Lower Bracket Final: SC vs TBD
 END:VEVENT
 END:VCALENDAR

@@ -1086,4 +1086,15 @@ DESCRIPTION:Stake Pulse - Beat II 2026 - Group C\nWatch: https://kick.com/s
 SUMMARY:FNC vs PHA
 URL;VALUE=URI:https://kick.com/stake_pulse
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T173000Z
+UID:pandascore-match-1706419@esport-ics
+DTSTART:20260924T173000Z
+DTEND:20260924T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 Match 2: PHA vs IS
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
 END:VCALENDAR

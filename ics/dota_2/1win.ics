@@ -609,6 +609,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 9 2026 - Group Stage\nWatch: https://www
  .twitch.tv/pgl_dota2
 SUMMARY:Round 4: Na`Vi vs 1WIN
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T070000Z
+UID:pandascore-match-1694738@esport-ics
+DTSTART:20260923T070000Z
+DTEND:20260923T091500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 9 2026 - Group Stage\nWatch: https://www
+ .twitch.tv/pgl_dota2
+SUMMARY:Round 5: 1WIN vs PIPS+4
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 END:VCALENDAR

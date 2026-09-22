@@ -584,6 +584,15 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Retake - Season 12 2026 - Group D\nWatch: https://www.
  twitch.tv/rtparenacs
 SUMMARY:Decider match: BERG vs FCF
-URL;VALUE=URI:https://www.twitch.tv/rtparenacs
+URL:https://www.twitch.tv/rtparenacs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T080000Z
+UID:pandascore-match-1706587@esport-ics
+DTSTART:20260924T080000Z
+DTEND:20260924T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Leon.bet Masters - Season 1 2026 - Group A
+SUMMARY:FXW7 vs FCF
 END:VEVENT
 END:VCALENDAR

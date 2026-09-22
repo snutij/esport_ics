@@ -278,4 +278,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - European Finals season 58 2026 - Playoffs
 SUMMARY:Round 1 Match 2: FaZe UN vs CUCU MEDIA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T080000Z
+UID:pandascore-match-1706568@esport-ics
+DTSTART:20260925T080000Z
+DTEND:20260925T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Leon.bet Masters - Season 1 2026 - Group C\nWatch: https://www.
+ twitch.tv/leonbet_en
+SUMMARY:MOUZ.N vs FaZe UN
+URL;VALUE=URI:https://www.twitch.tv/leonbet_en
+END:VEVENT
 END:VCALENDAR

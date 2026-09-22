@@ -1379,4 +1379,15 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 7 2026 - Group A
 SUMMARY:ex-RUBY vs BAKS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T150000Z
+UID:pandascore-match-1706424@esport-ics
+DTSTART:20260925T150000Z
+DTEND:20260925T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round of 16 Match 7: SIN vs ex-RUBY
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
 END:VCALENDAR
