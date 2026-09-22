@@ -34,6 +34,39 @@ DTEND:20260628T094500Z
 CLASS:PUBLIC
 DESCRIPTION:Douyu Cup - 2026 - Playoffs\nWatch: https://www.douyu.com/3484
 SUMMARY:Semifinal 1: Scarlett vs Neeb
-URL;VALUE=URI:https://www.douyu.com/3484
+URL:https://www.douyu.com/3484
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T122000Z
+UID:pandascore-match-1705756@esport-ics
+DTSTART:20260924T122000Z
+DTEND:20260924T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group B\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:Nicoract vs Neeb
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T130000Z
+UID:pandascore-match-1705757@esport-ics
+DTSTART:20260924T130000Z
+DTEND:20260924T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group B\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:ByuN vs Neeb
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T142000Z
+UID:pandascore-match-1705759@esport-ics
+DTSTART:20260924T142000Z
+DTEND:20260924T163500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group B\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:SHIN vs Neeb
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR
