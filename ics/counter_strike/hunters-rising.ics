@@ -106,6 +106,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group D\nWatch: ht
  tps://www.twitch.tv/gamersclubcs
 SUMMARY:HR vs paiN.A
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T180000Z
+UID:pandascore-match-1706633@esport-ics
+DTSTART:20260923T180000Z
+DTEND:20260923T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/gamersclubcs
+SUMMARY:Winner's Match: HR vs MEIA NOITE
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR

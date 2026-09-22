@@ -943,6 +943,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 2 2026 - Playoffs\nWatch: https://kick.co
  m/fiesta_cs
 SUMMARY:Quarterfinal 2: VEX vs WW
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T110000Z
+UID:pandascore-match-1683192@esport-ics
+DTSTART:20260923T110000Z
+DTEND:20260923T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 2 2026 - Playoffs\nWatch: https://kick.co
+ m/fiesta_cs
+SUMMARY:Semifinal 1: ILLYR vs WW
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

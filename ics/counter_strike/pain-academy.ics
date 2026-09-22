@@ -1140,4 +1140,15 @@ DESCRIPTION:CCT South America - Series 6 2026 - Group Stage\nWatch: https:/
 SUMMARY:Round 1: paiN.A vs Semente do Mal
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T180000Z
+UID:pandascore-match-1706634@esport-ics
+DTSTART:20260925T180000Z
+DTEND:20260925T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group D\nWatch: ht
+ tps://www.twitch.tv/gamersclubcs
+SUMMARY:Elimination Match: paiN.A vs GRE
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
 END:VCALENDAR
