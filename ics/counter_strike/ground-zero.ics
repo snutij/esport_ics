@@ -665,4 +665,14 @@ DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 52 2026 - Playoff
  s
 SUMMARY:Upper Bracket Quarterfinal 3: GZ vs Abyssal
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T090000Z
+UID:pandascore-match-1704614@esport-ics
+DTSTART:20260925T090000Z
+DTEND:20260925T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 52 2026 - Playoff
+ s
+SUMMARY:Upper Bracket Semifinal 2: GZ vs TdU
+END:VEVENT
 END:VCALENDAR

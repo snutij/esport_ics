@@ -245,7 +245,7 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - Season 2 2026 - Group A\nWatch: https://www.t
  witch.tv/ferjeeoficial
 SUMMARY:paiN vs TdP
-URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
+URL:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260923T210000Z
@@ -256,5 +256,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
  layoffs
 SUMMARY:Upper Bracket Quarterfinal 4: BHE vs TdP
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T163000Z
+UID:pandascore-match-1700689@esport-ics
+DTSTART:20260924T163000Z
+DTEND:20260924T184500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - Season 2 2026 - Group A\nWatch: https://www.t
+ witch.tv/ferjeeoficial
+SUMMARY:Elimination match: TdP vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR

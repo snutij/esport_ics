@@ -91,7 +91,7 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
  h.tv/playzonecz
 SUMMARY:INF.T vs 95 Vikings
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL:https://www.twitch.tv/playzonecz
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260923T171500Z
@@ -100,9 +100,9 @@ DTSTART:20260923T171500Z
 DTEND:20260923T193000Z
 CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
- h.tv/playzonecz
+ h.tv/playzoneup
 SUMMARY:95 Vikings vs Optibet
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL;VALUE=URI:https://www.twitch.tv/playzoneup
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260924T141500Z

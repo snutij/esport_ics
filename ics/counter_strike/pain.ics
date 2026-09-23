@@ -597,6 +597,17 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - Season 2 2026 - Group A\nWatch: https://www.t
  witch.tv/ferjeeoficial
 SUMMARY:paiN vs TdP
+URL:https://www.twitch.tv/ferjeeoficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T130000Z
+UID:pandascore-match-1700688@esport-ics
+DTSTART:20260924T130000Z
+DTEND:20260924T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - Season 2 2026 - Group A\nWatch: https://www.t
+ witch.tv/ferjeeoficial
+SUMMARY:Winners match: paiN vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR
