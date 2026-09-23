@@ -29,7 +29,9 @@ UID:pandascore-match-1702669@esport-ics
 DTSTART:20260923T170000Z
 DTEND:20260923T191500Z
 CLASS:PUBLIC
-DESCRIPTION:EMEA Masters - Summer 2026 - Group D
+DESCRIPTION:EMEA Masters - Summer 2026 - Group D\nWatch: https://www.twitch
+ .tv/helleniclegends
 SUMMARY:Lower Bracket Final: GSMC vs Only The Family
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
 END:VEVENT
 END:VCALENDAR

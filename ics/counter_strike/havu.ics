@@ -863,4 +863,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #6 season 52 2026 - Group D
 SUMMARY:Winners Match: HAVU vs mellren
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T111500Z
+UID:pandascore-match-1707288@esport-ics
+DTSTART:20260925T111500Z
+DTEND:20260925T133000Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/playzonecz
+SUMMARY:Upper Bracket Quarterfinal 2: TBD vs HAVU
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
 END:VCALENDAR

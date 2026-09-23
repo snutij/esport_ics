@@ -998,6 +998,17 @@ SUMMARY:Lower Bracket Quarterfinal 2: IC.A vs MEGO
 URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260925T140000Z
+UID:pandascore-match-1707289@esport-ics
+DTSTART:20260925T140000Z
+DTEND:20260925T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/playzonecz
+SUMMARY:Upper Bracket Quarterfinal 3: IC.A vs TBD
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260929T120000Z
 UID:pandascore-match-1689884@esport-ics
 DTSTART:20260929T120000Z

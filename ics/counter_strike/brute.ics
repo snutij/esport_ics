@@ -904,6 +904,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 4: BRUTE vs SPARTA
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T141500Z
+UID:pandascore-match-1707290@esport-ics
+DTSTART:20260925T141500Z
+DTEND:20260925T163000Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/playzonecz
+SUMMARY:Upper Bracket Quarterfinal 4: TBD vs BRUTE
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR
