@@ -736,7 +736,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/sv_theunknown
 SUMMARY:Lower Bracket Round 1 match 1: EXODIA vs YAW
-URL;VALUE=URI:https://www.twitch.tv/sv_theunknown
+URL:https://www.twitch.tv/sv_theunknown
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260924T163000Z
@@ -748,5 +748,15 @@ DESCRIPTION:FERJEE In House - Season 2 2026 - Group B\nWatch: https://www.t
  witch.tv/ferjeeoficial_b
 SUMMARY:Elimination match: JUVE vs YAW
 URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial_b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T210000Z
+UID:pandascore-match-1700629@esport-ics
+DTSTART:20260924T210000Z
+DTEND:20260924T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Round 2 match 1: YAW vs TBD
 END:VEVENT
 END:VCALENDAR

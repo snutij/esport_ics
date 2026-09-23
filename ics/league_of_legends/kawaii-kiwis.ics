@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:LES - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/L
  ES
 SUMMARY:Round 1 Match 1: KWK vs VVV
+URL:https://www.twitch.tv/LES
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T150000Z
+UID:pandascore-match-1704767@esport-ics
+DTSTART:20260924T150000Z
+DTEND:20260924T184500Z
+CLASS:PUBLIC
+DESCRIPTION:LES - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/L
+ ES
+SUMMARY:Round 2 match 1: GP vs KWK
 URL;VALUE=URI:https://www.twitch.tv/LES
 END:VEVENT
 END:VCALENDAR

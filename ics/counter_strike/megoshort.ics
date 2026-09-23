@@ -929,6 +929,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #10 2026 - Group B\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:Winners match: BW vs MEGO
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T110000Z
+UID:pandascore-match-1699318@esport-ics
+DTSTART:20260926T110000Z
+DTEND:20260926T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #10 2026 - Group B\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Decider match: mellren vs MEGO
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

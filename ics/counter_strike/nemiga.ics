@@ -1088,6 +1088,17 @@ SUMMARY:Grand final: NEMI vs TBD
 URL:https://www.twitch.tv/mpkbk
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260924T080000Z
+UID:pandascore-match-1681137@esport-ics
+DTSTART:20260924T080000Z
+DTEND:20260924T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #9 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs2
+SUMMARY:Round 16 match 1: NEMI vs JustP
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261001T173000Z
 UID:pandascore-match-1682116@esport-ics
 DTSTART:20261001T173000Z
