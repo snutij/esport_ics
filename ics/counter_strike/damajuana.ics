@@ -202,4 +202,14 @@ DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
  layoffs
 SUMMARY:Upper Bracket Round 1 match 8: Damajuana vs BHE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T210000Z
+UID:pandascore-match-1700627@esport-ics
+DTSTART:20260923T210000Z
+DTEND:20260923T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Round 1 match 4: Damajuana vs MEIA NOITE
+END:VEVENT
 END:VCALENDAR

@@ -68,4 +68,14 @@ DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
  layoffs
 SUMMARY:Upper Bracket Round 1 match 2: Low Cortisol vs YAW
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T210000Z
+UID:pandascore-match-1700617@esport-ics
+DTSTART:20260923T210000Z
+DTEND:20260923T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Quarterfinal 1: GLS vs Low Cortisol
+END:VEVENT
 END:VCALENDAR

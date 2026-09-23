@@ -309,4 +309,14 @@ DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group D\nWatch: ht
 SUMMARY:Winner's Match: HR vs MEIA NOITE
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T210000Z
+UID:pandascore-match-1700627@esport-ics
+DTSTART:20260923T210000Z
+DTEND:20260923T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Round 1 match 4: Damajuana vs MEIA NOITE
+END:VEVENT
 END:VCALENDAR
