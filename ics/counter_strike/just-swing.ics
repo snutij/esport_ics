@@ -301,4 +301,14 @@ DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #2 season 52 2026 - Pl
  ayoffs
 SUMMARY:Upper bracket quarterfinal 4: JS vs NEXVOID
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T130000Z
+UID:pandascore-match-1700670@esport-ics
+DTSTART:20260924T130000Z
+DTEND:20260924T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #2 season 52 2026 - Pl
+ ayoffs
+SUMMARY:Lower bracket round 2 match 1: HH vs JS
+END:VEVENT
 END:VCALENDAR

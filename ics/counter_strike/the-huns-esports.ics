@@ -531,4 +531,14 @@ DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #2 season 52 2026 - Pl
  ayoffs
 SUMMARY:Upper bracket quarterfinal 2: XDM vs THE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T130000Z
+UID:pandascore-match-1700662@esport-ics
+DTSTART:20260925T130000Z
+DTEND:20260925T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #2 season 52 2026 - Pl
+ ayoffs
+SUMMARY:Upper bracket semifinal 1: LVG vs THE
+END:VEVENT
 END:VCALENDAR

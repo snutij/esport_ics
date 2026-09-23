@@ -1067,7 +1067,19 @@ DTSTART:20260923T210000Z
 DTEND:20260923T231500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
- layoffs
+ layoffs\nWatch: https://www.twitch.tv/ynotcs2
 SUMMARY:Upper Bracket Quarterfinal 4: BHE vs TdP
+URL;VALUE=URI:https://www.twitch.tv/ynotcs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T130000Z
+UID:pandascore-match-1700688@esport-ics
+DTSTART:20260924T130000Z
+DTEND:20260924T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - Season 2 2026 - Group A\nWatch: https://www.t
+ witch.tv/ferjeeoficial
+SUMMARY:Winners match: paiN vs BHE
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR

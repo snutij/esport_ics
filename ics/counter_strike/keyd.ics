@@ -1074,7 +1074,19 @@ DTSTART:20260923T210000Z
 DTEND:20260923T231500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
- layoffs
+ layoffs\nWatch: https://kick.com/dutchboycasts
 SUMMARY:Upper Bracket Quarterfinal 2: Keyd vs MW
+URL;VALUE=URI:https://kick.com/dutchboycasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T163000Z
+UID:pandascore-match-1700689@esport-ics
+DTSTART:20260924T163000Z
+DTEND:20260924T184500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - Season 2 2026 - Group A\nWatch: https://www.t
+ witch.tv/ferjeeoficial
+SUMMARY:Elimination match: TdP vs Keyd
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR
