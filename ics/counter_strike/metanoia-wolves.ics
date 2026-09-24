@@ -845,7 +845,7 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group A\nWatch: ht
  tps://www.twitch.tv/gamersclubcs
 SUMMARY:Winners match: MW vs CHAMA
-URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+URL:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260924T220000Z
@@ -856,7 +856,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 6 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 2: MW vs paiN.A
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260925T210000Z

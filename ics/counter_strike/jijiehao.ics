@@ -494,6 +494,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat II 2026 - Group D\nWatch: https://kick.com/s
  take_pulse
 SUMMARY:Winners Match: JJH vs BCA
+URL:https://kick.com/stake_pulse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T170000Z
+UID:pandascore-match-1684040@esport-ics
+DTSTART:20260925T170000Z
+DTEND:20260925T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat II 2026 - Playoffs\nWatch: https://kick.com/
+ stake_pulse
+SUMMARY:Quarterfinal 4: JJH vs SNG
 URL;VALUE=URI:https://kick.com/stake_pulse
 END:VEVENT
 END:VCALENDAR

@@ -713,6 +713,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat II 2026 - Group B\nWatch: https://kick.com/s
  take_cs2
 SUMMARY:HERO vs JS
-URL;VALUE=URI:https://kick.com/stake_cs2
+URL:https://kick.com/stake_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T080000Z
+UID:pandascore-match-1684034@esport-ics
+DTSTART:20260925T080000Z
+DTEND:20260925T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat II 2026 - Playoffs\nWatch: https://kick.com/
+ stake_pulse
+SUMMARY:Quarterfinal 1: HERO vs FNC
+URL;VALUE=URI:https://kick.com/stake_pulse
 END:VEVENT
 END:VCALENDAR

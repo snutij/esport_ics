@@ -849,6 +849,17 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - Season 2 2026 - Group B\nWatch: https://www.t
  witch.tv/tris_mara
 SUMMARY:Winners match: IMP vs GLS
-URL;VALUE=URI:https://www.twitch.tv/tris_mara
+URL:https://www.twitch.tv/tris_mara
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T130000Z
+UID:pandascore-match-1700702@esport-ics
+DTSTART:20260926T130000Z
+DTEND:20260926T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - Season 2 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/ferjeeoficial
+SUMMARY:Semifinal 1: IMP vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR

@@ -1146,6 +1146,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 5: SPARTA vs JustP
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T110000Z
+UID:pandascore-match-1684176@esport-ics
+DTSTART:20260926T110000Z
+DTEND:20260926T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Playoffs\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:Round of 16 Match 7: FOKUS vs SPARTA
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

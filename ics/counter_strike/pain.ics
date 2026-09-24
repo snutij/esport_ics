@@ -608,6 +608,17 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - Season 2 2026 - Group A\nWatch: https://www.t
  witch.tv/ferjeeoficial
 SUMMARY:Winners match: paiN vs BHE
+URL:https://www.twitch.tv/ferjeeoficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T163000Z
+UID:pandascore-match-1700703@esport-ics
+DTSTART:20260926T163000Z
+DTEND:20260926T184500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - Season 2 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/ferjeeoficial
+SUMMARY:Semifinal 2: paiN vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR
