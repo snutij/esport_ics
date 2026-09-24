@@ -837,6 +837,17 @@ SUMMARY:Upper Bracket Quarterfinal 2: Keyd vs MW
 URL:https://kick.com/dutchboycasts
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260924T200000Z
+UID:pandascore-match-1709020@esport-ics
+DTSTART:20260924T200000Z
+DTEND:20260924T221500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/gamersclubcs
+SUMMARY:Winners match: MW vs CHAMA
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260924T220000Z
 UID:pandascore-match-1702589@esport-ics
 DTSTART:20260924T220000Z

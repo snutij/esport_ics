@@ -448,4 +448,14 @@ DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
  layoffs
 SUMMARY:Upper Bracket Quarterfinal 3: REGAIN vs FV
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T010000Z
+UID:pandascore-match-1700591@esport-ics
+DTSTART:20260925T010000Z
+DTEND:20260925T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Round 2 match 2: FV vs Unreal Nightmare 
+END:VEVENT
 END:VCALENDAR

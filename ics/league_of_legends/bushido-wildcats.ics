@@ -267,6 +267,15 @@ CLASS:PUBLIC
 DESCRIPTION:World Star Challengers Invitational - EMEA Qualifier 2026 - Pla
  yoffs\nWatch: https://www.twitch.tv/riotgames
 SUMMARY:Semifinal: BW vs MKF
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T170000Z
+UID:pandascore-match-1702729@esport-ics
+DTSTART:20260926T170000Z
+DTEND:20260926T174500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage
+SUMMARY:Round 1: SEC vs BW
 END:VEVENT
 END:VCALENDAR

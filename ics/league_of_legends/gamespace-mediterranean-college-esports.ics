@@ -274,6 +274,15 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Summer 2026 - Group D\nWatch: https://www.twitch
  .tv/helleniclegends
 SUMMARY:Lower Bracket Final: GSMC vs Only The Family
-URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+URL:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T190000Z
+UID:pandascore-match-1702739@esport-ics
+DTSTART:20260926T190000Z
+DTEND:20260926T194500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage
+SUMMARY:Round 1: BOOM vs GSMC
 END:VEVENT
 END:VCALENDAR

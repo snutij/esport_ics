@@ -311,6 +311,15 @@ CLASS:PUBLIC
 DESCRIPTION:HLL - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/hell
  eniclegends
 SUMMARY:Grand final: VLR vs TP
-URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+URL:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T180000Z
+UID:pandascore-match-1702735@esport-ics
+DTSTART:20260926T180000Z
+DTEND:20260926T184500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage
+SUMMARY:Round 1: TP vs SU
 END:VEVENT
 END:VCALENDAR

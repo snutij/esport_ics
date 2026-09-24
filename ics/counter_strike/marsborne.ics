@@ -688,4 +688,14 @@ DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
  layoffs
 SUMMARY:Upper Bracket Quarterfinal 4: IOWA vs MARS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T010000Z
+UID:pandascore-match-1700584@esport-ics
+DTSTART:20260926T010000Z
+DTEND:20260926T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Semifinal 2: REGAIN vs MARS
+END:VEVENT
 END:VCALENDAR

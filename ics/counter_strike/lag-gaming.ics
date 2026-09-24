@@ -678,6 +678,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/blakert_cs
 SUMMARY:Upper Bracket Quarterfinal 1: LAG vs DTN
-URL;VALUE=URI:https://www.twitch.tv/blakert_cs
+URL:https://www.twitch.tv/blakert_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T010000Z
+UID:pandascore-match-1700583@esport-ics
+DTSTART:20260926T010000Z
+DTEND:20260926T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Semifinal 1: LAG vs OT
 END:VEVENT
 END:VCALENDAR

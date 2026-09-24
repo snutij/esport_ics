@@ -232,6 +232,15 @@ CLASS:PUBLIC
 DESCRIPTION:NLC - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/nlcl
  ol
 SUMMARY:Grand final: RUD vs VDN
-URL;VALUE=URI:https://www.twitch.tv/nlclol
+URL:https://www.twitch.tv/nlclol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T170000Z
+UID:pandascore-match-1702731@esport-ics
+DTSTART:20260926T170000Z
+DTEND:20260926T174500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage
+SUMMARY:Round 1: RUD vs KHK
 END:VEVENT
 END:VCALENDAR
