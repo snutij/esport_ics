@@ -883,6 +883,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ewc_legiongauntlet_en
 SUMMARY:Grand final: BB vs PARI
-URL;VALUE=URI:https://www.twitch.tv/ewc_legiongauntlet_en
+URL:https://www.twitch.tv/ewc_legiongauntlet_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T100000Z
+UID:pandascore-match-1709071@esport-ics
+DTSTART:20260929T100000Z
+DTEND:20260929T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Group A\nWatch: https://www.twitch
+ .tv/BLASTDota
+SUMMARY:PARI vs LVLUP
+URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

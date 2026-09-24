@@ -256,6 +256,39 @@ CLASS:PUBLIC
 DESCRIPTION:Basilisk Big Brain Bouts - Season 124 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/rotterdam08
 SUMMARY:Serral vs MaxPax
-URL;VALUE=URI:https://www.twitch.tv/rotterdam08
+URL:https://www.twitch.tv/rotterdam08
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T110000Z
+UID:pandascore-match-1709550@esport-ics
+DTSTART:20260925T110000Z
+DTEND:20260925T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group C\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:MaxPax vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T134000Z
+UID:pandascore-match-1709554@esport-ics
+DTSTART:20260925T134000Z
+DTEND:20260925T155500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group C\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:MaxPax vs GgMaChine
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T142000Z
+UID:pandascore-match-1709555@esport-ics
+DTSTART:20260925T142000Z
+DTEND:20260925T163500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group C\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:Clem vs MaxPax
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

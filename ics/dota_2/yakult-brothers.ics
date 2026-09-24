@@ -477,6 +477,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 9 2026 - Group Stage\nWatch: https://www
  .twitch.tv/pgl_dota2
 SUMMARY:Round 4: CS vs YB
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T160000Z
+UID:pandascore-match-1709091@esport-ics
+DTSTART:20260929T160000Z
+DTEND:20260929T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Group D\nWatch: https://www.twitch
+ .tv/BLASTDota
+SUMMARY:Liquid vs YB
+URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

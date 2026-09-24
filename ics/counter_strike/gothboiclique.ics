@@ -320,14 +320,14 @@ SUMMARY:Elimination match: GBC vs TBD
 URL:https://www.twitch.tv/rtparenacs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260924T150000Z
+DTSTAMP:20260924T153000Z
 UID:pandascore-match-1706582@esport-ics
-DTSTART:20260924T150000Z
-DTEND:20260924T154500Z
+DTSTART:20260924T153000Z
+DTEND:20260924T161500Z
 CLASS:PUBLIC
 DESCRIPTION:Leon.bet Masters - Season 1 2026 - Group B\nWatch: https://www.
- twitch.tv/leonbet_en
+ twitch.tv/leonbet_en2
 SUMMARY:BMB vs GBC
-URL;VALUE=URI:https://www.twitch.tv/leonbet_en
+URL;VALUE=URI:https://www.twitch.tv/leonbet_en2
 END:VEVENT
 END:VCALENDAR

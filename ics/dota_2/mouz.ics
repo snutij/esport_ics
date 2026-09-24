@@ -789,6 +789,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 9 2026 - Group Stage\nWatch: https://www
  .twitch.tv/pgl_dota2
 SUMMARY:Round 5: LGD vs MOUZ
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T100000Z
+UID:pandascore-match-1709086@esport-ics
+DTSTART:20260930T100000Z
+DTEND:20260930T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Group C\nWatch: https://www.twitch
+ .tv/BLASTDota
+SUMMARY:TY vs MOUZ
+URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

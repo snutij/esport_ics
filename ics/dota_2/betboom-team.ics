@@ -971,6 +971,17 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Season 2 2026 - Playoffs\nWatch: https://w.tv/1w
  in_dota
 SUMMARY:Lower bracket semifinal: 1WIN vs BB
-URL;VALUE=URI:https://w.tv/1win_dota
+URL:https://w.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T100000Z
+UID:pandascore-match-1709087@esport-ics
+DTSTART:20260930T100000Z
+DTEND:20260930T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Group C\nWatch: https://www.twitch
+ .tv/BLASTDota
+SUMMARY:BB vs OG
+URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

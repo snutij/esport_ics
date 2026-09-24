@@ -518,6 +518,28 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 9 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/pgl_dota2
 SUMMARY:Upper Bracket Quarterfinal 2: Na`Vi vs LGD
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T130000Z
+UID:pandascore-match-1700710@esport-ics
+DTSTART:20260925T130000Z
+DTEND:20260925T151500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 9 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/pgl_dota2
+SUMMARY:Upper Bracket Semifinal 1: Xtreme vs LGD
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T130000Z
+UID:pandascore-match-1709072@esport-ics
+DTSTART:20260929T130000Z
+DTEND:20260929T151500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Group A\nWatch: https://www.twitch
+ .tv/BLASTDota
+SUMMARY:LGD vs Xtreme
+URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

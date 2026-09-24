@@ -311,7 +311,7 @@ CLASS:PUBLIC
 DESCRIPTION:VCS - Finals 2026 - Playoffs\nWatch: https://www.youtube.com/@v
  cslmht
 SUMMARY:Upper bracket semifinal 1: SGW vs 9G
-URL;VALUE=URI:https://www.youtube.com/@vcslmht
+URL:https://www.youtube.com/@vcslmht
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260925T080000Z
@@ -323,6 +323,17 @@ DESCRIPTION:World Star Challengers Invitational - 2026 - Group D\nWatch: ht
  tps://live.bilibili.com/21622795
 SUMMARY:ZSK vs SGW
 URL;VALUE=URI:https://live.bilibili.com/21622795
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T090000Z
+UID:pandascore-match-1615366@esport-ics
+DTSTART:20260925T090000Z
+DTEND:20260925T124500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Finals 2026 - Playoffs\nWatch: https://www.youtube.com/@v
+ cslmht
+SUMMARY:Upper bracket final: SGW vs TBD
+URL;VALUE=URI:https://www.youtube.com/@vcslmht
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260925T120000Z

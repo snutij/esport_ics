@@ -509,6 +509,39 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 6 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/tastelesstv
 SUMMARY:Lower bracket quarterfinal 2: Clem vs Solar
-URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T122000Z
+UID:pandascore-match-1709552@esport-ics
+DTSTART:20260925T122000Z
+DTEND:20260925T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group C\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:Zoun vs Clem
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T130000Z
+UID:pandascore-match-1709553@esport-ics
+DTSTART:20260925T130000Z
+DTEND:20260925T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group C\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:Clem vs GgMaChine
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T142000Z
+UID:pandascore-match-1709555@esport-ics
+DTSTART:20260925T142000Z
+DTEND:20260925T163500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group C\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:Clem vs MaxPax
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

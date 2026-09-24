@@ -883,6 +883,17 @@ CLASS:PUBLIC
 DESCRIPTION:The International - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/dota2ti
 SUMMARY:Grand final: VSN vs TS
-URL;VALUE=URI:https://www.twitch.tv/dota2ti
+URL:https://www.twitch.tv/dota2ti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T100000Z
+UID:pandascore-match-1709076@esport-ics
+DTSTART:20260929T100000Z
+DTEND:20260929T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Group B\nWatch: https://www.twitch
+ .tv/BLASTDota
+SUMMARY:TS vs Nem
+URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

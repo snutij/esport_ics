@@ -109,7 +109,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #9 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs2
 SUMMARY:Round 16 match 2: IS vs NAVI.J
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260924T173000Z
@@ -121,5 +121,16 @@ DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round of 16 Match 2: PHA vs IS
 URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T080000Z
+UID:pandascore-match-1681146@esport-ics
+DTSTART:20260926T080000Z
+DTEND:20260926T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #9 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs
+SUMMARY:Quarterfinal 1: IS vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

@@ -47,6 +47,39 @@ CLASS:PUBLIC
 DESCRIPTION:Basilisk Big Brain Bouts - Season 124 2026 - Playoffs\nWatch: h
  ttps://twitch.tv/rotterdam08
 SUMMARY:GgMaChine vs Percival
-URL;VALUE=URI:https://twitch.tv/rotterdam08
+URL:https://twitch.tv/rotterdam08
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T114000Z
+UID:pandascore-match-1709551@esport-ics
+DTSTART:20260925T114000Z
+DTEND:20260925T135500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group C\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:Zoun vs GgMaChine
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T130000Z
+UID:pandascore-match-1709553@esport-ics
+DTSTART:20260925T130000Z
+DTEND:20260925T151500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group C\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:Clem vs GgMaChine
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T134000Z
+UID:pandascore-match-1709554@esport-ics
+DTSTART:20260925T134000Z
+DTEND:20260925T155500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group C\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:MaxPax vs GgMaChine
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

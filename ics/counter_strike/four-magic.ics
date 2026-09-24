@@ -69,17 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
  h.tv/playzonecz
 SUMMARY:INF.T vs 4M
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL:https://www.twitch.tv/playzonecz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260924T141500Z
+DTSTAMP:20260924T133000Z
 UID:pandascore-match-1693635@esport-ics
-DTSTART:20260924T141500Z
-DTEND:20260924T163000Z
+DTSTART:20260924T133000Z
+DTEND:20260924T154500Z
 CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
- h.tv/playzonecz
+ h.tv/playzoneup
 SUMMARY:4M vs 95 Vikings
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL;VALUE=URI:https://www.twitch.tv/playzoneup
 END:VEVENT
 END:VCALENDAR

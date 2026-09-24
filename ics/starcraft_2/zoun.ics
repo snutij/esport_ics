@@ -419,6 +419,39 @@ CLASS:PUBLIC
 DESCRIPTION:iNu's Battles - Season 19 2026 - Playoffs\nWatch: https://www.y
  outube.com/@intothe/live
 SUMMARY:Quarterfinal 1: Percival vs Zoun
-URL;VALUE=URI:https://www.youtube.com/@intothe/live
+URL:https://www.youtube.com/@intothe/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T110000Z
+UID:pandascore-match-1709550@esport-ics
+DTSTART:20260925T110000Z
+DTEND:20260925T131500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group C\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:MaxPax vs Zoun
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T114000Z
+UID:pandascore-match-1709551@esport-ics
+DTSTART:20260925T114000Z
+DTEND:20260925T135500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group C\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:Zoun vs GgMaChine
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T122000Z
+UID:pandascore-match-1709552@esport-ics
+DTSTART:20260925T122000Z
+DTEND:20260925T143500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group C\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:Zoun vs Clem
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

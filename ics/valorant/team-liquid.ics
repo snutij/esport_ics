@@ -309,6 +309,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Champions 2026 - Group C\nWatch: https://www.twitch.tv/va
  lorant
 SUMMARY:TL vs PR
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T090000Z
+UID:pandascore-match-1685231@esport-ics
+DTSTART:20261001T090000Z
+DTEND:20261001T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Champions 2026 - Group C\nWatch: https://www.twitch.tv/va
+ lorant
+SUMMARY:Elimination Match: TL vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

@@ -483,7 +483,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:LVLUP vs ICxI
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260915T090000Z
@@ -494,7 +494,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:KALMY vs LVLUP
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260916T180000Z
@@ -505,7 +505,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:YeS vs LVLUP
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260917T120000Z
@@ -516,7 +516,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:LVLUP vs TS.A
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260918T180000Z
@@ -527,6 +527,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:TBD vs LVLUP
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T100000Z
+UID:pandascore-match-1709071@esport-ics
+DTSTART:20260929T100000Z
+DTEND:20260929T121500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Group A\nWatch: https://www.twitch
+ .tv/BLASTDota
+SUMMARY:PARI vs LVLUP
+URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR
