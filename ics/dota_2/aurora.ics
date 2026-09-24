@@ -1040,6 +1040,17 @@ SUMMARY:Upper Bracket Quarterfinal 3: AUR vs GL
 URL:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260925T160000Z
+UID:pandascore-match-1700711@esport-ics
+DTSTART:20260925T160000Z
+DTEND:20260925T181500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 9 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/pgl_dota2
+SUMMARY:Upper Bracket Semifinal 2: AUR vs TY
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260929T160000Z
 UID:pandascore-match-1709092@esport-ics
 DTSTART:20260929T160000Z

@@ -1011,7 +1011,7 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round of 16 Match 8: CS vs K27
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260925T180000Z
@@ -1021,5 +1021,16 @@ DTEND:20260925T201500Z
 CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #1 2026 - Playoffs
 SUMMARY:Upper Bracket Quarterfinal 4: GL vs K27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T173000Z
+UID:pandascore-match-1706429@esport-ics
+DTSTART:20260926T173000Z
+DTEND:20260926T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Quarterfinal 4: K27 vs TBD
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

@@ -1105,6 +1105,17 @@ CLASS:PUBLIC
 DESCRIPTION:Leon.bet Masters - Season 1 2026 - Group B\nWatch: https://www.
  twitch.tv/leonbet_en
 SUMMARY:LDP vs RBLS
+URL:https://www.twitch.tv/leonbet_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T190000Z
+UID:pandascore-match-1706586@esport-ics
+DTSTART:20260924T190000Z
+DTEND:20260924T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Leon.bet Masters - Season 1 2026 - Group B\nWatch: https://www.
+ twitch.tv/leonbet_en
+SUMMARY:Decider Match: LDP vs TBD
 URL;VALUE=URI:https://www.twitch.tv/leonbet_en
 END:VEVENT
 END:VCALENDAR

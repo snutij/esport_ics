@@ -553,6 +553,17 @@ CLASS:PUBLIC
 DESCRIPTION:RSL Revival - Season 6 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/tastelesstv
 SUMMARY:Grand final: Serral vs Rogue
-URL;VALUE=URI:https://www.twitch.tv/tastelesstv
+URL:https://www.twitch.tv/tastelesstv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T153000Z
+UID:pandascore-match-1710169@esport-ics
+DTSTART:20260925T153000Z
+DTEND:20260925T174500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Group D\nWatch: https://www.twitch.t
+ v/wardiii
+SUMMARY:Rogue vs Cure
+URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR

@@ -631,6 +631,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 9 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/pgl_dota2
 SUMMARY:Upper Bracket Quarterfinal 4: TY vs 1WIN
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T100000Z
+UID:pandascore-match-1700714@esport-ics
+DTSTART:20260925T100000Z
+DTEND:20260925T121500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 9 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/pgl_dota2
+SUMMARY:Lower Bracket Round 1 match 2: GL vs 1WIN
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 BEGIN:VEVENT

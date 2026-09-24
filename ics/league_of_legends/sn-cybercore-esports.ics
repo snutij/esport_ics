@@ -176,6 +176,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCS - Finals 2026 - Playoffs\nWatch: https://www.youtube.com/@v
  cslmht
 SUMMARY:Upper bracket semifinal 2: CBC vs MVKA
+URL:https://www.youtube.com/@vcslmht
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T090000Z
+UID:pandascore-match-1615367@esport-ics
+DTSTART:20260926T090000Z
+DTEND:20260926T124500Z
+CLASS:PUBLIC
+DESCRIPTION:VCS - Finals 2026 - Playoffs\nWatch: https://www.youtube.com/@v
+ cslmht
+SUMMARY:Lower bracket semifinal: 9G vs CBC
 URL;VALUE=URI:https://www.youtube.com/@vcslmht
 END:VEVENT
 END:VCALENDAR
