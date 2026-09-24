@@ -269,4 +269,14 @@ DESCRIPTION:FERJEE In House - Season 2 2026 - Group A\nWatch: https://www.t
 SUMMARY:Elimination match: TdP vs Keyd
 URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T210000Z
+UID:pandascore-match-1700622@esport-ics
+DTSTART:20260925T210000Z
+DTEND:20260925T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Semifinal 2: PCY vs TdP
+END:VEVENT
 END:VCALENDAR

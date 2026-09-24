@@ -791,6 +791,16 @@ SUMMARY:Lower Bracket Round 1 match 3: Semente do Mal vs ALKA
 URL:https://www.twitch.tv/flubytv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260924T210000Z
+UID:pandascore-match-1700631@esport-ics
+DTSTART:20260924T210000Z
+DTEND:20260924T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Round 2 match 3: Keyd vs ALKA
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260925T160000Z
 UID:pandascore-match-1702591@esport-ics
 DTSTART:20260925T160000Z

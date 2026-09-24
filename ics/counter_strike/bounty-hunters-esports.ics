@@ -1082,4 +1082,14 @@ DESCRIPTION:FERJEE In House - Season 2 2026 - Group A\nWatch: https://www.t
 SUMMARY:Winners match: paiN vs BHE
 URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T210000Z
+UID:pandascore-match-1700629@esport-ics
+DTSTART:20260924T210000Z
+DTEND:20260924T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Round 2 match 1: YAW vs BHE
+END:VEVENT
 END:VCALENDAR

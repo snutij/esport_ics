@@ -160,13 +160,14 @@ DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
 SUMMARY:Upper Bracket Round 1 match 6: FV vs NT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260924T010000Z
+DTSTAMP:20260924T012000Z
 UID:pandascore-match-1700588@esport-ics
-DTSTART:20260924T010000Z
-DTEND:20260924T031500Z
+DTSTART:20260924T012000Z
+DTEND:20260924T033500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
- layoffs
+ layoffs\nWatch: https://www.twitch.tv/sv_theunknown
 SUMMARY:Lower Bracket Round 1 match 3: MR vs NT
+URL;VALUE=URI:https://www.twitch.tv/sv_theunknown
 END:VEVENT
 END:VCALENDAR

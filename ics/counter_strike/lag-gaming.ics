@@ -670,13 +670,14 @@ SUMMARY:Upper Bracket Round 1 match 1: LAG vs ZOMB
 URL:https://www.twitch.tv/endiezcasts
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260924T010000Z
+DTSTAMP:20260924T011000Z
 UID:pandascore-match-1700578@esport-ics
-DTSTART:20260924T010000Z
-DTEND:20260924T031500Z
+DTSTART:20260924T011000Z
+DTEND:20260924T032500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
- layoffs
+ layoffs\nWatch: https://www.twitch.tv/blakert_cs
 SUMMARY:Upper Bracket Quarterfinal 1: LAG vs DTN
+URL;VALUE=URI:https://www.twitch.tv/blakert_cs
 END:VEVENT
 END:VCALENDAR
