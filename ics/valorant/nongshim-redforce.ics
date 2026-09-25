@@ -358,6 +358,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Champions 2026 - Group D\nWatch: https://www.twitch.tv/va
  lorant
 SUMMARY:NS vs NRG
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T120000Z
+UID:pandascore-match-1685234@esport-ics
+DTSTART:20261001T120000Z
+DTEND:20261001T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Champions 2026 - Group D\nWatch: https://www.twitch.tv/va
+ lorant
+SUMMARY:Elimination Match: NS vs XLG
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

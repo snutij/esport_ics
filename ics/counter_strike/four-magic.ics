@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #2 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/playzoneup
 SUMMARY:Upper Bracket Quarterfinal 2: HAVU vs 4M
-URL;VALUE=URI:https://www.twitch.tv/playzoneup
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T110000Z
+UID:pandascore-match-1707294@esport-ics
+DTSTART:20260926T110000Z
+DTEND:20260926T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/playzonecz
+SUMMARY:Lower Bracket Round 1 match 1: 4M vs TBD
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR

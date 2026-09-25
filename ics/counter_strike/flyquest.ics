@@ -400,4 +400,14 @@ DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 52 2026 - Playoff
  s
 SUMMARY:Upper bracket Semifinal 1: FLY vs RSTR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T090000Z
+UID:pandascore-match-1704615@esport-ics
+DTSTART:20260927T090000Z
+DTEND:20260927T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #2 season 52 2026 - Playoff
+ s
+SUMMARY:Upper Bracket Final: TdU vs FLY
+END:VEVENT
 END:VCALENDAR

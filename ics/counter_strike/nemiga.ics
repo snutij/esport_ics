@@ -1107,7 +1107,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Playoffs\nWatch: https:
  //kick.com/nodwin_cs2
 SUMMARY:Round of 16 Match 5: NEMI vs INOX
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260926T170000Z
@@ -1119,6 +1119,17 @@ DESCRIPTION:CCT Europe - Series #9 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs
 SUMMARY:Quarterfinal 4: NEMI vs Black Phoenix
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T140000Z
+UID:pandascore-match-1684181@esport-ics
+DTSTART:20260927T140000Z
+DTEND:20260927T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Playoffs\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:Quarterfinal 3: NEMI vs TBD
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T173000Z

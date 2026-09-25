@@ -769,7 +769,7 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - Season 2 2026 - Playoffs\nWatch: https://www.
  twitch.tv/ferjeeoficial
 SUMMARY:Quarterfinal 1: BHE vs YAW
-URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
+URL:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260925T210000Z
@@ -778,7 +778,8 @@ DTSTART:20260925T210000Z
 DTEND:20260925T231500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
- layoffs
+ layoffs\nWatch: https://kick.com/tris_mara
 SUMMARY:Lower Bracket Round 3 match 1: YAW vs GRE
+URL;VALUE=URI:https://kick.com/tris_mara
 END:VEVENT
 END:VCALENDAR
