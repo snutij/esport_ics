@@ -113,6 +113,72 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Playoffs\nWa
  tch: https://kick.com/epldota_en1
 SUMMARY:Lower Bracket Quarterfinal 2: Y123 vs Team Kinetix
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T030000Z
+UID:pandascore-match-1711995@esport-ics
+DTSTART:20260928T030000Z
+DTEND:20260928T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 18 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:DB vs Team Kinetix
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T030000Z
+UID:pandascore-match-1711998@esport-ics
+DTSTART:20260929T030000Z
+DTEND:20260929T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 18 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Team Kinetix vs XE
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T090000Z
+UID:pandascore-match-1712003@esport-ics
+DTSTART:20260930T090000Z
+DTEND:20260930T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 18 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IVO vs Team Kinetix
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T060000Z
+UID:pandascore-match-1712005@esport-ics
+DTSTART:20261001T060000Z
+DTEND:20261001T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 18 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Team Kinetix vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T060000Z
+UID:pandascore-match-1712008@esport-ics
+DTSTART:20261002T060000Z
+DTEND:20261002T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 18 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:IAC vs Team Kinetix
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T030000Z
+UID:pandascore-match-1712015@esport-ics
+DTSTART:20261005T030000Z
+DTEND:20261005T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 18 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Y123 vs Team Kinetix
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

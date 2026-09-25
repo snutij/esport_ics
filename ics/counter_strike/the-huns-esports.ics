@@ -540,6 +540,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #2 season 52 2026 - Pl
  ayoffs\nWatch: https://www.twitch.tv/gardemi
 SUMMARY:Upper bracket semifinal 1: LVG vs THE
-URL;VALUE=URI:https://www.twitch.tv/gardemi
+URL:https://www.twitch.tv/gardemi
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T130000Z
+UID:pandascore-match-1700676@esport-ics
+DTSTART:20260926T130000Z
+DTEND:20260926T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #2 season 52 2026 - Pl
+ ayoffs
+SUMMARY:Lower bracket quarterfinal 1: KG vs THE
 END:VEVENT
 END:VCALENDAR

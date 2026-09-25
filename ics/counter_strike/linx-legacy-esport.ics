@@ -136,17 +136,6 @@ SUMMARY:st0ny vs LLE
 URL:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260928T180000Z
-UID:pandascore-match-1687978@esport-ics
-DTSTART:20260928T180000Z
-DTEND:20260928T184500Z
-CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
- ://www.twitch.tv/dust2tv
-SUMMARY:XI vs LLE
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260928T190000Z
 UID:pandascore-match-1687981@esport-ics
 DTSTART:20260928T190000Z
@@ -188,6 +177,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:LLE vs MSC
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T180000Z
+UID:pandascore-match-1687978@esport-ics
+DTSTART:20261019T180000Z
+DTEND:20261019T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:XI vs LLE
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT

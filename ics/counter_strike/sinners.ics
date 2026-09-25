@@ -770,7 +770,16 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round of 16 Match 7: SIN vs ex-RUBY
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T150000Z
+UID:pandascore-match-1688995@esport-ics
+DTSTART:20260926T150000Z
+DTEND:20260926T171500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #1 2026 - Playoffs
+SUMMARY:Upper Bracket Semifinal 1: SIN vs NIP
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260926T170000Z

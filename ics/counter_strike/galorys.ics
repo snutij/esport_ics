@@ -883,7 +883,7 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - Season 2 2026 - Playoffs\nWatch: https://www.
  twitch.tv/ferjeeoficial
 SUMMARY:Quarterfinal 2: GLS vs Keyd
-URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
+URL:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260925T210000Z
@@ -895,5 +895,16 @@ DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/metanoiagg
 SUMMARY:Upper Bracket Semifinal 1: GLS vs MW
 URL;VALUE=URI:https://www.twitch.tv/metanoiagg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T163000Z
+UID:pandascore-match-1700703@esport-ics
+DTSTART:20260926T163000Z
+DTEND:20260926T184500Z
+CLASS:PUBLIC
+DESCRIPTION:FERJEE In House - Season 2 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/ferjeeoficial
+SUMMARY:Semifinal 2: paiN vs GLS
+URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
 END:VCALENDAR

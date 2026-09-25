@@ -529,6 +529,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 9 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/pgl_dota2
 SUMMARY:Upper Bracket Semifinal 1: Xtreme vs LGD
+URL:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T130000Z
+UID:pandascore-match-1700712@esport-ics
+DTSTART:20260926T130000Z
+DTEND:20260926T151500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 9 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/pgl_dota2
+SUMMARY:Upper Bracket Final: LGD vs TBD
 URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 BEGIN:VEVENT

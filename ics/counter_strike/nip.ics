@@ -718,6 +718,15 @@ CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #1 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/stariy_bog
 SUMMARY:Upper Bracket Quarterfinal 2: NIP vs 3DMAX
-URL;VALUE=URI:https://www.twitch.tv/stariy_bog
+URL:https://www.twitch.tv/stariy_bog
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T150000Z
+UID:pandascore-match-1688995@esport-ics
+DTSTART:20260926T150000Z
+DTEND:20260926T171500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #1 2026 - Playoffs
+SUMMARY:Upper Bracket Semifinal 1: SIN vs NIP
 END:VEVENT
 END:VCALENDAR

@@ -420,7 +420,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Season 10 2026 - Group B\nWatch: https://www.twitch.t
  v/wardiii
 SUMMARY:Nicoract vs ByuN
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260924T130000Z
@@ -431,7 +431,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Season 10 2026 - Group B\nWatch: https://www.twitch.t
  v/wardiii
 SUMMARY:ByuN vs Neeb
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260924T134000Z
@@ -442,6 +442,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Season 10 2026 - Group B\nWatch: https://www.twitch.t
  v/wardiii
 SUMMARY:ByuN vs SHIN
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T130000Z
+UID:pandascore-match-1712087@esport-ics
+DTSTART:20260926T130000Z
+DTEND:20260926T164500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Season 10 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/wardiii
+SUMMARY:Quarterfinal 3: Classic vs ByuN
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR
