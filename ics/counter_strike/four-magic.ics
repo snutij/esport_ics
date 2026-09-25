@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #2 2026 - Group B\nWatch: https://www.twitc
  h.tv/playzoneup
 SUMMARY:4M vs 95 Vikings
-URL;VALUE=URI:https://www.twitch.tv/playzoneup
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T111500Z
+UID:pandascore-match-1707288@esport-ics
+DTSTART:20260925T111500Z
+DTEND:20260925T133000Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/playzonecz
+SUMMARY:Upper Bracket Quarterfinal 2: HAVU vs 4M
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR
