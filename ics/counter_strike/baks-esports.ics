@@ -425,6 +425,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #9 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs2
 SUMMARY:Round 16 match 6: STA vs BAKS
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T170000Z
+UID:pandascore-match-1681148@esport-ics
+DTSTART:20260926T170000Z
+DTEND:20260926T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #9 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs
+SUMMARY:Quarterfinal 3: Leo vs BAKS
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

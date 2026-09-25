@@ -134,17 +134,6 @@ SUMMARY:Round of 16 Match 8: IS vs UP
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260926T080000Z
-UID:pandascore-match-1681146@esport-ics
-DTSTART:20260926T080000Z
-DTEND:20260926T101500Z
-CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Series #9 2026 - Playoffs\nWatch: https://kick.com
- /cct_cs
-SUMMARY:Quarterfinal 1: IS vs BTF
-URL;VALUE=URI:https://kick.com/cct_cs
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260926T090000Z
 UID:pandascore-match-1706426@esport-ics
 DTSTART:20260926T090000Z
@@ -154,6 +143,17 @@ DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Quarterfinal 1: FNC vs IS
 URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T140000Z
+UID:pandascore-match-1681146@esport-ics
+DTSTART:20260926T140000Z
+DTEND:20260926T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #9 2026 - Playoffs\nWatch: https://kick.com
+ /cct_cs
+SUMMARY:Quarterfinal 1: IS vs BTF
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260927T170000Z

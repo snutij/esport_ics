@@ -528,6 +528,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 7 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/vanfantv
 SUMMARY:Quarterfinal 3: FORZE.R vs UP
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T134500Z
+UID:pandascore-match-1712167@esport-ics
+DTSTART:20260926T134500Z
+DTEND:20260926T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper Bracket Round 1 Match  5: Banda LFO vs FORZE.R
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

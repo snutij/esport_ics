@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 55 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Grand Final: TTBS vs OldMix
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T103000Z
+UID:pandascore-match-1712148@esport-ics
+DTSTART:20260928T103000Z
+DTEND:20260928T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 56 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:XI vs OldMix
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

@@ -934,6 +934,17 @@ CLASS:PUBLIC
 DESCRIPTION:Leon.bet Masters - Season 1 2026 - Group D\nWatch: https://www.
  twitch.tv/leonbet_en
 SUMMARY:Winners Match: INF vs TBD
+URL:https://www.twitch.tv/leonbet_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T160000Z
+UID:pandascore-match-1706599@esport-ics
+DTSTART:20260926T160000Z
+DTEND:20260926T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Leon.bet Masters - Season 1 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/leonbet_en
+SUMMARY:Quarterfinal 1: G1 vs INF
 URL;VALUE=URI:https://www.twitch.tv/leonbet_en
 END:VEVENT
 END:VCALENDAR

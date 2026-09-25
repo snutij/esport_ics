@@ -641,6 +641,15 @@ CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #1 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/stariy_bog
 SUMMARY:Upper Bracket Quarterfinal 3: MGC vs EYE
-URL;VALUE=URI:https://www.twitch.tv/stariy_bog
+URL:https://www.twitch.tv/stariy_bog
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T120000Z
+UID:pandascore-match-1688999@esport-ics
+DTSTART:20260926T120000Z
+DTEND:20260926T141500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #1 2026 - Playoffs
+SUMMARY:Lower Bracket Round 1 Match 2: EYE vs TBD
 END:VEVENT
 END:VCALENDAR

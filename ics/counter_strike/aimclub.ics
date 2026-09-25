@@ -689,6 +689,17 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #2 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/playzoneup
 SUMMARY:Upper Bracket Quarterfinal 3: IC.A vs AIMC
-URL;VALUE=URI:https://www.twitch.tv/playzoneup
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T170000Z
+UID:pandascore-match-1707293@esport-ics
+DTSTART:20260926T170000Z
+DTEND:20260926T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/playzonecz
+SUMMARY:Upper Bracket Final: MZP vs AIMC
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR

@@ -496,6 +496,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 55 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Lower Bracket Round 1 match 1: EF.A vs OldMix
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T080000Z
+UID:pandascore-match-1712147@esport-ics
+DTSTART:20260928T080000Z
+DTEND:20260928T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 56 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:TTBS vs EF.A
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

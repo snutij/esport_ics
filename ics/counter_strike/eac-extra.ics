@@ -237,6 +237,17 @@ SUMMARY:Lower Bracket Final: EACE vs OldMix
 URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260926T080000Z
+UID:pandascore-match-1712132@esport-ics
+DTSTART:20260926T080000Z
+DTEND:20260926T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 56 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:EACE vs TheChampionGG
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260928T170000Z
 UID:pandascore-match-1687976@esport-ics
 DTSTART:20260928T170000Z

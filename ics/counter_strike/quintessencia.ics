@@ -472,6 +472,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 6 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 2: QUIN vs PCY
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T190000Z
+UID:pandascore-match-1712192@esport-ics
+DTSTART:20260928T190000Z
+DTEND:20260928T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group B\nWatch: ht
+ tps://www.twitch.tv/gamersclubcs
+SUMMARY:Decider Match: BST.A vs QUIN
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR

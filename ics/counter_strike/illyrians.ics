@@ -146,6 +146,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #10 2026 - Group D\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:Winners match: ex-ZT vs ILLYR
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T170000Z
+UID:pandascore-match-1699329@esport-ics
+DTSTART:20260926T170000Z
+DTEND:20260926T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #10 2026 - Group D\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Decider match: Noir Verse vs ILLYR
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T134500Z
+UID:pandascore-match-1712164@esport-ics
+DTSTART:20260927T134500Z
+DTEND:20260927T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper Bracket Round 1 Match  2: PHTM.Ac vs ILLYR
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

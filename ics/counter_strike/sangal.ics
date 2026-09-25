@@ -506,6 +506,17 @@ SUMMARY:Quarterfinal 4: JJH vs SNG
 URL:https://kick.com/stake_pulse
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260926T130000Z
+UID:pandascore-match-1684043@esport-ics
+DTSTART:20260926T130000Z
+DTEND:20260926T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat II 2026 - Playoffs\nWatch: https://kick.com/
+ stake_pulse
+SUMMARY:Semifinal 2: HERO vs SNG
+URL;VALUE=URI:https://kick.com/stake_pulse
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260929T163000Z
 UID:pandascore-match-1689900@esport-ics
 DTSTART:20260929T163000Z

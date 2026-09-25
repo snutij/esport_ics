@@ -802,6 +802,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round of 16 Match 3: SASHI vs 9INE
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T120000Z
+UID:pandascore-match-1706427@esport-ics
+DTSTART:20260926T120000Z
+DTEND:20260926T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Quarterfinal 2: NEM vs SASHI
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

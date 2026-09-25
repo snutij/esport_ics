@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Banda LFO
+SLUG:banda-lfo
+BEGIN:VEVENT
+DTSTAMP:20260926T134500Z
+UID:pandascore-match-1712167@esport-ics
+DTSTART:20260926T134500Z
+DTEND:20260926T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper Bracket Round 1 Match  5: Banda LFO vs FORZE.R
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
+END:VCALENDAR

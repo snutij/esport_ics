@@ -23,4 +23,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: West Asian Qualifier 2026 - Playoffs
 SUMMARY:Lower Bracket Final : REV vs LEGION
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T080000Z
+UID:pandascore-match-1712142@esport-ics
+DTSTART:20260927T080000Z
+DTEND:20260927T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 56 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:CTRL vs REV
+URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
 END:VCALENDAR
