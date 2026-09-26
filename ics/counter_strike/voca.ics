@@ -677,6 +677,17 @@ CLASS:PUBLIC
 DESCRIPTION:iBUYPOWER Masters - FML 2026 - Group B\nWatch: https://www.twit
  ch.tv/fl0m
 SUMMARY:Elimination match: BST vs VOCA
+URL:https://www.twitch.tv/fl0m
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T170000Z
+UID:pandascore-match-1696337@esport-ics
+DTSTART:20260926T170000Z
+DTEND:20260926T191500Z
+CLASS:PUBLIC
+DESCRIPTION:iBUYPOWER Masters - FML 2026 - Group B\nWatch: https://www.twit
+ ch.tv/fl0m
+SUMMARY:Decider match: M80 vs VOCA
 URL;VALUE=URI:https://www.twitch.tv/fl0m
 END:VEVENT
 END:VCALENDAR

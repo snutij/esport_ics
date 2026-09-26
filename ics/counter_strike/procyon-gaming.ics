@@ -726,6 +726,17 @@ SUMMARY:Upper Bracket Semifinal 2: PCY vs TdP
 URL:https://www.twitch.tv/vilacattv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260927T190000Z
+UID:pandascore-match-1702600@esport-ics
+DTSTART:20260927T190000Z
+DTEND:20260927T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 6 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 3: BST.A vs PCY
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260927T210000Z
 UID:pandascore-match-1700623@esport-ics
 DTSTART:20260927T210000Z

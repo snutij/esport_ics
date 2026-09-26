@@ -176,6 +176,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/eslcs
 SUMMARY:Lower Bracket Round 3 match 2: VIL vs DTN
-URL;VALUE=URI:https://www.twitch.tv/eslcs
+URL:https://www.twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T010000Z
+UID:pandascore-match-1700597@esport-ics
+DTSTART:20260927T010000Z
+DTEND:20260927T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Quarterfinal 2: MARS vs DTN
 END:VEVENT
 END:VCALENDAR

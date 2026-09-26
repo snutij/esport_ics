@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 6 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 2: MIRA vs PLD
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T220000Z
+UID:pandascore-match-1702601@esport-ics
+DTSTART:20260927T220000Z
+DTEND:20260928T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 6 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 3: ALKA vs MIRA
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

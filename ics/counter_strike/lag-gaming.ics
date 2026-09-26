@@ -689,6 +689,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/endiezcasts
 SUMMARY:Upper Bracket Semifinal 1: LAG vs OT
-URL;VALUE=URI:https://www.twitch.tv/endiezcasts
+URL:https://www.twitch.tv/endiezcasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T010000Z
+UID:pandascore-match-1700585@esport-ics
+DTSTART:20260928T010000Z
+DTEND:20260928T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Final: LAG vs REGAIN
 END:VEVENT
 END:VCALENDAR
