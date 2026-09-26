@@ -781,7 +781,7 @@ CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #1 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/stariy_bog
 SUMMARY:Upper Bracket Semifinal 1: SIN vs NIP
-URL;VALUE=URI:https://www.twitch.tv/stariy_bog
+URL:https://www.twitch.tv/stariy_bog
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260926T170000Z
@@ -792,6 +792,15 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Playoffs\nWatch: https:
  //kick.com/nodwin_cs2
 SUMMARY:Round of 16 Match 4: SIN vs QUA
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T090000Z
+UID:pandascore-match-1689001@esport-ics
+DTSTART:20260927T090000Z
+DTEND:20260927T111500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #1 2026 - Playoffs
+SUMMARY:Lower Bracket Quarterfinal 2: K27 vs SIN
 END:VEVENT
 END:VCALENDAR

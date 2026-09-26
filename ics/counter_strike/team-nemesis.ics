@@ -1073,6 +1073,17 @@ SUMMARY:Quarterfinal 2: NEM vs SASHI
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260927T110000Z
+UID:pandascore-match-1706430@esport-ics
+DTSTART:20260927T110000Z
+DTEND:20260927T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Semifinal 1: FNC vs NEM
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260929T150000Z
 UID:pandascore-match-1712937@esport-ics
 DTSTART:20260929T150000Z

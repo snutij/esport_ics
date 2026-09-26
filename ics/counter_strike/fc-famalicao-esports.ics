@@ -617,6 +617,17 @@ CLASS:PUBLIC
 DESCRIPTION:Hotspawn Showdown - Closed Qualifier 2026 - Group A\nWatch: htt
  ps://www.twitch.tv/hotspawnesports
 SUMMARY:Elimination match: TLR vs FCF
+URL:https://www.twitch.tv/hotspawnesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T150000Z
+UID:pandascore-match-1710864@esport-ics
+DTSTART:20260927T150000Z
+DTEND:20260927T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Hotspawn Showdown - Closed Qualifier 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/hotspawnesports
+SUMMARY:Decider match: G2.A vs FCF
 URL;VALUE=URI:https://www.twitch.tv/hotspawnesports
 END:VEVENT
 END:VCALENDAR
