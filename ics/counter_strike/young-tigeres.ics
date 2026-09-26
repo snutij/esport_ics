@@ -432,7 +432,9 @@ UID:pandascore-match-1704792@esport-ics
 DTSTART:20260926T173000Z
 DTEND:20260926T194500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - European Finals season 58 2026 - Playoffs
+DESCRIPTION:ESEA - European Finals season 58 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/nuclear_tigeres
 SUMMARY:Semifinal 1: Y.TigeRES vs Spirit Academy Green
+URL;VALUE=URI:https://www.twitch.tv/nuclear_tigeres
 END:VEVENT
 END:VCALENDAR

@@ -1030,8 +1030,10 @@ UID:pandascore-match-1688999@esport-ics
 DTSTART:20260926T120000Z
 DTEND:20260926T141500Z
 CLASS:PUBLIC
-DESCRIPTION:1win - Private Club #1 2026 - Playoffs
+DESCRIPTION:1win - Private Club #1 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/stariy_bog
 SUMMARY:Lower Bracket Round 1 Match 2: EYE vs K27
+URL;VALUE=URI:https://www.twitch.tv/stariy_bog
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260926T173000Z
@@ -1043,5 +1045,16 @@ DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Quarterfinal 4: K27 vs ex-RUBY
 URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T150000Z
+UID:pandascore-match-1712947@esport-ics
+DTSTART:20260930T150000Z
+DTEND:20260930T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 8 2026 - Group D\nWatch: https://
+ www.twitch.tv/MPKBK
+SUMMARY:K27 vs BAKS
+URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 END:VCALENDAR

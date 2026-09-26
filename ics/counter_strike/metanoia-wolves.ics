@@ -876,8 +876,9 @@ DTSTART:20260926T210000Z
 DTEND:20260926T231500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
- layoffs
+ layoffs\nWatch: https://kick.com/analyticvictor
 SUMMARY:Lower Bracket Quarterfinal 1: MW vs YAW
+URL;VALUE=URI:https://kick.com/analyticvictor
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260927T160000Z

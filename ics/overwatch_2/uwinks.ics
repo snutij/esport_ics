@@ -58,6 +58,72 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Japan Stage 2 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/ow_esports_jp
 SUMMARY:LAZ vs UWI
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T090000Z
+UID:pandascore-match-1713031@esport-ics
+DTSTART:20260929T090000Z
+DTEND:20260929T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 3 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:PNHB vs UWI
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T090000Z
+UID:pandascore-match-1713034@esport-ics
+DTSTART:20261005T090000Z
+DTEND:20261005T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 3 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:UWI vs VAR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T090000Z
+UID:pandascore-match-1713037@esport-ics
+DTSTART:20261006T090000Z
+DTEND:20261006T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 3 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:UWI vs 99D
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T090000Z
+UID:pandascore-match-1713040@esport-ics
+DTSTART:20261012T090000Z
+DTEND:20261012T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 3 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:UWI vs REV
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T103000Z
+UID:pandascore-match-1713044@esport-ics
+DTSTART:20261013T103000Z
+DTEND:20261013T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 3 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:MG vs UWI
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T133000Z
+UID:pandascore-match-1713049@esport-ics
+DTSTART:20261014T133000Z
+DTEND:20261014T154500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 3 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:LAZ vs UWI
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

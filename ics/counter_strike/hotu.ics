@@ -932,6 +932,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - Closed Qualifier 2026 - Playof
  fs\nWatch: https://www.twitch.tv/thunderpicktv
 SUMMARY:Grand final: HOTU vs VP
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T060000Z
+UID:pandascore-match-1712932@esport-ics
+DTSTART:20260929T060000Z
+DTEND:20260929T081500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 8 2026 - Group A\nWatch: https://
+ www.twitch.tv/MPKBK
+SUMMARY:HOTU vs Black Phoenix
+URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 END:VCALENDAR

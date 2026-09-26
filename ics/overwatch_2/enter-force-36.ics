@@ -223,6 +223,61 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Japan Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ow_esports_jp
 SUMMARY:3rd Place match: EF.36 vs PNHB
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T120000Z
+UID:pandascore-match-1713030@esport-ics
+DTSTART:20260928T120000Z
+DTEND:20260928T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 3 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:MG vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T103000Z
+UID:pandascore-match-1713035@esport-ics
+DTSTART:20261005T103000Z
+DTEND:20261005T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 3 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:PNHB vs EF.36
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T103000Z
+UID:pandascore-match-1713038@esport-ics
+DTSTART:20261006T103000Z
+DTEND:20261006T124500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 3 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:EF.36 vs VAR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T090000Z
+UID:pandascore-match-1713043@esport-ics
+DTSTART:20261013T090000Z
+DTEND:20261013T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 3 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:EF.36 vs REV
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T120000Z
+UID:pandascore-match-1713048@esport-ics
+DTSTART:20261014T120000Z
+DTEND:20261014T141500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 3 2026 - Group Stage\nWatch: https://www.twit
+ ch.tv/ow_esports_jp
+SUMMARY:99D vs EF.36
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

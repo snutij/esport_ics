@@ -223,6 +223,94 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Korea Stage 2 2026 - Last Chance Qualifier\nWatch: https:
  //www.twitch.tv/ow_esports_jp
 SUMMARY:Lower bracket final: O2B vs CB
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T080000Z
+UID:pandascore-match-1713059@esport-ics
+DTSTART:20261002T080000Z
+DTEND:20261002T101500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 3 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:CB vs PF
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T060000Z
+UID:pandascore-match-1713062@esport-ics
+DTSTART:20261003T060000Z
+DTEND:20261003T081500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 3 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:CB vs ZSG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T090000Z
+UID:pandascore-match-1713073@esport-ics
+DTSTART:20261010T090000Z
+DTEND:20261010T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 3 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:CB vs FAL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T073000Z
+UID:pandascore-match-1713075@esport-ics
+DTSTART:20261011T073000Z
+DTEND:20261011T094500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 3 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:CB vs CR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T093000Z
+UID:pandascore-match-1713078@esport-ics
+DTSTART:20261016T093000Z
+DTEND:20261016T114500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 3 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:CB vs T1
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T060000Z
+UID:pandascore-match-1713083@esport-ics
+DTSTART:20261018T060000Z
+DTEND:20261018T081500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 3 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:CB vs SEI
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T080000Z
+UID:pandascore-match-1713086@esport-ics
+DTSTART:20261023T080000Z
+DTEND:20261023T101500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 3 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:CB vs O2B
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T060000Z
+UID:pandascore-match-1713089@esport-ics
+DTSTART:20261024T060000Z
+DTEND:20261024T081500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 3 2026 - Regular Season\nWatch: https://www.t
+ witch.tv/ow_esports_jp
+SUMMARY:CB vs ZETA
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR
