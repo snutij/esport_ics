@@ -344,6 +344,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Champions 2026 - Group B\nWatch: https://www.twitch.tv/va
  lorant
 SUMMARY:GE vs VIT
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T120000Z
+UID:pandascore-match-1685223@esport-ics
+DTSTART:20260930T120000Z
+DTEND:20260930T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Champions 2026 - Group B\nWatch: https://www.twitch.tv/va
+ lorant
+SUMMARY:Winners Match: VIT vs LOUD
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

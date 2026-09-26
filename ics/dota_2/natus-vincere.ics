@@ -641,6 +641,17 @@ SUMMARY:Lower Bracket Quarterfinal 1: AUR vs Na`Vi
 URL:https://www.twitch.tv/pgl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260926T145000Z
+UID:pandascore-match-1700717@esport-ics
+DTSTART:20260926T145000Z
+DTEND:20260926T170500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Wallachia season 9 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/pgl_dota2
+SUMMARY:Lower Bracket Semifinal: Na`Vi vs Xtreme
+URL;VALUE=URI:https://www.twitch.tv/pgl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260929T130000Z
 UID:pandascore-match-1709077@esport-ics
 DTSTART:20260929T130000Z

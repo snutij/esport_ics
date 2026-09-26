@@ -658,6 +658,17 @@ CLASS:PUBLIC
 DESCRIPTION:Leon.bet Masters - Season 1 2026 - Playoffs\nWatch: https://kic
  k.com/cosiq
 SUMMARY:Quarterfinal 2: FXW7 vs LDP
-URL;VALUE=URI:https://kick.com/cosiq
+URL:https://kick.com/cosiq
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T100000Z
+UID:pandascore-match-1706601@esport-ics
+DTSTART:20260927T100000Z
+DTEND:20260927T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Leon.bet Masters - Season 1 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/leonbet_en
+SUMMARY:Semifinal 1: FXW7 vs TBD
+URL;VALUE=URI:https://www.twitch.tv/leonbet_en
 END:VEVENT
 END:VCALENDAR

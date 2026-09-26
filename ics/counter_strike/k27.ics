@@ -1033,7 +1033,7 @@ CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #1 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/stariy_bog
 SUMMARY:Lower Bracket Round 1 Match 2: EYE vs K27
-URL;VALUE=URI:https://www.twitch.tv/stariy_bog
+URL:https://www.twitch.tv/stariy_bog
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260926T173000Z
@@ -1045,6 +1045,15 @@ DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Quarterfinal 4: K27 vs ex-RUBY
 URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T090000Z
+UID:pandascore-match-1689001@esport-ics
+DTSTART:20260927T090000Z
+DTEND:20260927T111500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #1 2026 - Playoffs
+SUMMARY:Lower Bracket Quarterfinal 2: K27 vs TBD
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260930T150000Z

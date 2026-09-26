@@ -153,7 +153,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #9 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs
 SUMMARY:Quarterfinal 1: IS vs BTF
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260927T170000Z
@@ -163,7 +163,7 @@ DTEND:20260927T191500Z
 CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Playoffs\nWatch: https:
  //kick.com/nodwin_cs2
-SUMMARY:Quarterfinal 4: IS vs TBD
+SUMMARY:Quarterfinal 4: IS vs FOKUS
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

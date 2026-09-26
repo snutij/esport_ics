@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #2 2026 - Playoffs\nWatch: https://kick.com
  /dutchboycasts
 SUMMARY:Lower Bracket Round 1 match 1: Optibet vs 4M
-URL;VALUE=URI:https://kick.com/dutchboycasts
+URL:https://kick.com/dutchboycasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260926T150000Z
+UID:pandascore-match-1707296@esport-ics
+DTSTART:20260926T150000Z
+DTEND:20260926T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport Cup - Open #2 2026 - Playoffs\nWatch: https://www.twit
+ ch.tv/playzonecz
+SUMMARY:Lower Bracket Quarterfinal 1: BRUTE vs 4M
+URL;VALUE=URI:https://www.twitch.tv/playzonecz
 END:VEVENT
 END:VCALENDAR

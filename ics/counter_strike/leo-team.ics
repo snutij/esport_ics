@@ -1118,7 +1118,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 9 2026 - Playoffs\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Quarterfinal 2: MISA vs Leo
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260926T170000Z
@@ -1130,5 +1130,16 @@ DESCRIPTION:CCT Europe - Series #9 2026 - Playoffs\nWatch: https://kick.com
  /cct_cs
 SUMMARY:Quarterfinal 3: Leo vs BAKS
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T080000Z
+UID:pandascore-match-1683303@esport-ics
+DTSTART:20260928T080000Z
+DTEND:20260928T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 9 2026 - Playoffs\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Semifinal 1: BW vs Leo
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

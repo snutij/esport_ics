@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 56 2026 - Group A\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:ENCE.P vs SINQU Rehti
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T103000Z
+UID:pandascore-match-1712135@esport-ics
+DTSTART:20260930T103000Z
+DTEND:20260930T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 56 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Elimination Match: TheChampionGG vs SINQU Rehti
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
