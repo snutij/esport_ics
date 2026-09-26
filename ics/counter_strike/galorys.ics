@@ -907,4 +907,14 @@ DESCRIPTION:FERJEE In House - Season 2 2026 - Playoffs\nWatch: https://www.
 SUMMARY:Semifinal 2: paiN vs GLS
 URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T210000Z
+UID:pandascore-match-1700623@esport-ics
+DTSTART:20260927T210000Z
+DTEND:20260927T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Final: GLS vs PCY
+END:VEVENT
 END:VCALENDAR
