@@ -721,6 +721,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest: Asian Closed Qualifier 2026 - Playoffs
  \nWatch: https://www.twitch.tv/PGL
 SUMMARY:Grand final: TYLOO vs TBD
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T113000Z
+UID:pandascore-match-1711369@esport-ics
+DTSTART:20261003T113000Z
+DTEND:20261003T134500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/ESLCS
+SUMMARY:Round 1: FAL vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

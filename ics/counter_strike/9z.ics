@@ -724,6 +724,17 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group A\nWatch: https://ww
  w.twitch.tv/fissure_cs_eng
 SUMMARY:Lower bracket semifinal 2: 9z vs G2
-URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
+URL:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T163000Z
+UID:pandascore-match-1711375@esport-ics
+DTSTART:20261003T163000Z
+DTEND:20261003T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/ESLCS
+SUMMARY:Round 1: AUR vs 9z
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

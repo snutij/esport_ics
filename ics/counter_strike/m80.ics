@@ -719,7 +719,18 @@ DTEND:20260927T191500Z
 CLASS:PUBLIC
 DESCRIPTION:iBUYPOWER Masters - FML 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/fl0m
-SUMMARY:3rd place match: M80 vs TBD
+SUMMARY:3rd place match: M80 vs DENDELE CS
 URL;VALUE=URI:https://www.twitch.tv/fl0m
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T113000Z
+UID:pandascore-match-1711370@esport-ics
+DTSTART:20261003T113000Z
+DTEND:20261003T134500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/ESLCS
+SUMMARY:Round 1: MOUZ vs M80
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR
