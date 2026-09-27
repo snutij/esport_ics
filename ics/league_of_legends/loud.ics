@@ -305,6 +305,16 @@ DTEND:20260927T194500Z
 CLASS:PUBLIC
 DESCRIPTION:CBLOL - Split 2 2026 - Playoffs\nWatch: https://twitch.tv/cblol
 SUMMARY:Upper Bracket Final: LLL vs LOS
+URL:https://twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T160000Z
+UID:pandascore-match-1662353@esport-ics
+DTSTART:20261003T160000Z
+DTEND:20261003T194500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Split 2 2026 - Playoffs\nWatch: https://twitch.tv/cblol
+SUMMARY:Lower Bracket Final : FUR vs LLL
 URL;VALUE=URI:https://twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR

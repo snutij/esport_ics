@@ -160,6 +160,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/betboom_sb_dota
 SUMMARY:Upper Bracket Final: DXK vs RT
+URL:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T130000Z
+UID:pandascore-match-1702963@esport-ics
+DTSTART:20261003T130000Z
+DTEND:20261003T164500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/betboom_sb_dota
+SUMMARY:Grand Final: DXK vs TBD
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 END:VCALENDAR

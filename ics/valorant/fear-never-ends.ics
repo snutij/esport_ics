@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Group A\nWatch: htt
  ps://www.twitch.tv/monsternotebook
 SUMMARY:Winners Match: MISA vs FNE
+URL:https://www.twitch.tv/monsternotebook
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T160000Z
+UID:pandascore-match-1714923@esport-ics
+DTSTART:20260928T160000Z
+DTEND:20260928T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/monsternotebook
+SUMMARY:Decider Match: FNE vs PCFIC
 URL;VALUE=URI:https://www.twitch.tv/monsternotebook
 END:VEVENT
 END:VCALENDAR
