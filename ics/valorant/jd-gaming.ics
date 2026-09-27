@@ -373,6 +373,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Champions 2026 - Group A\nWatch: https://www.twitch.tv/va
  lorant
 SUMMARY:JDG vs FUT
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T090000Z
+UID:pandascore-match-1685219@esport-ics
+DTSTART:20261002T090000Z
+DTEND:20261002T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Champions 2026 - Group A\nWatch: https://www.twitch.tv/va
+ lorant
+SUMMARY:Elimination Match: T1 vs JDG
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

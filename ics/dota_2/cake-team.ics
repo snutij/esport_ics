@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/betboom_sb_dota
 SUMMARY:Lower Bracket Quarterfinal 1: AVI vs CAKE
+URL:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T180000Z
+UID:pandascore-match-1702961@esport-ics
+DTSTART:20260927T180000Z
+DTEND:20260927T201500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/betboom_sb_dota
+SUMMARY:Lower Bracket Semifinal: YBN vs CAKE
 URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
 END:VEVENT
 END:VCALENDAR
