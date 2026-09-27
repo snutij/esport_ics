@@ -508,4 +508,15 @@ DESCRIPTION:European Pro League - Series 9 2026 - Playoffs\nWatch: https://
 SUMMARY:Semifinal 2: NXS vs mellren
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T140000Z
+UID:pandascore-match-1700478@esport-ics
+DTSTART:20260929T140000Z
+DTEND:20260929T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #10 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 1: ex-RUSTEC vs NXS
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

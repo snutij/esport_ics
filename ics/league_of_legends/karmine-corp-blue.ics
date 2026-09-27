@@ -475,6 +475,15 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage\nWatch: https://www.tw
  itch.tv/otplol_
 SUMMARY:Round 2: KCB vs UCAM
-URL;VALUE=URI:https://www.twitch.tv/otplol_
+URL:https://www.twitch.tv/otplol_
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T180000Z
+UID:pandascore-match-1702772@esport-ics
+DTSTART:20260928T180000Z
+DTEND:20260928T184500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage
+SUMMARY:Round 3: KCB vs NBS
 END:VEVENT
 END:VCALENDAR

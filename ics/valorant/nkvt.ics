@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Group B\nWatch: htt
  ps://www.twitch.tv/monsternotebook
 SUMMARY:Winners Match: EF vs NKVT
+URL:https://www.twitch.tv/monsternotebook
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T190000Z
+UID:pandascore-match-1714933@esport-ics
+DTSTART:20260928T190000Z
+DTEND:20260928T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Group B\nWatch: htt
+ ps://www.twitch.tv/monsternotebook
+SUMMARY:Decider Match: NKVT vs TT
 URL;VALUE=URI:https://www.twitch.tv/monsternotebook
 END:VEVENT
 END:VCALENDAR

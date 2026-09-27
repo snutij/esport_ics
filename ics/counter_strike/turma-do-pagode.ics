@@ -300,6 +300,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/eslcs
 SUMMARY:Lower Bracket Semifinal: YAW vs TdP
-URL;VALUE=URI:https://www.twitch.tv/eslcs
+URL:https://www.twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T210000Z
+UID:pandascore-match-1700639@esport-ics
+DTSTART:20260928T210000Z
+DTEND:20260928T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Final: TdP vs TBD
 END:VEVENT
 END:VCALENDAR
