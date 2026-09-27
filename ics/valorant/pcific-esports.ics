@@ -153,6 +153,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - EMEA Stage 2 2026 - Play-Ins\nWatch: https://www.twitch.t
  v/valorant_emea
 SUMMARY:Lower bracket round 1 match 3: JL vs PCFIC
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T160000Z
+UID:pandascore-match-1714922@esport-ics
+DTSTART:20260927T160000Z
+DTEND:20260927T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Group A\nWatch: htt
+ ps://www.twitch.tv/monsternotebook
+SUMMARY:Elimination Match: GS vs PCFIC
+URL;VALUE=URI:https://www.twitch.tv/monsternotebook
 END:VEVENT
 END:VCALENDAR

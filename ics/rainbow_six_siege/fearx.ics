@@ -195,4 +195,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - APAC North - Stage 2 2026 - Group Stage
 SUMMARY:FX vs CYBME
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T080000Z
+UID:pandascore-match-1714835@esport-ics
+DTSTART:20261001T080000Z
+DTEND:20261001T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 2 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:Upper Bracket Semifinals: CAG vs FX
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
+END:VEVENT
 END:VCALENDAR
