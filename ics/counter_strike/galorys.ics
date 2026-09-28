@@ -927,6 +927,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
  layoffs\nWatch: https://kick.com/dutchboycasts
 SUMMARY:Upper Bracket Final: GLS vs PCY
-URL;VALUE=URI:https://kick.com/dutchboycasts
+URL:https://kick.com/dutchboycasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T210000Z
+UID:pandascore-match-1700639@esport-ics
+DTSTART:20260928T210000Z
+DTEND:20260928T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Final: GLS vs TdP
 END:VEVENT
 END:VCALENDAR

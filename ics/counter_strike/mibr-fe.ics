@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 6 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 3: MW vs MIBR.F
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T160000Z
+UID:pandascore-match-1702603@esport-ics
+DTSTART:20260928T160000Z
+DTEND:20260928T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 6 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 4: MIBR.F vs Zetta Games
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

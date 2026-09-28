@@ -502,4 +502,14 @@ DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
  layoffs
 SUMMARY:Upper Bracket Final: LAG vs REGAIN
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T010000Z
+UID:pandascore-match-1700599@esport-ics
+DTSTART:20260929T010000Z
+DTEND:20260929T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Final: REGAIN vs MARS
+END:VEVENT
 END:VCALENDAR
