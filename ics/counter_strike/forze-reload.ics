@@ -550,6 +550,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Upper bracket quarterfinal 3: FORZE.R vs MEGO
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T134500Z
+UID:pandascore-match-1712172@esport-ics
+DTSTART:20261001T134500Z
+DTEND:20261001T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper Bracket Semifinal 2: FORZE.R vs FF
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

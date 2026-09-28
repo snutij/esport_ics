@@ -319,7 +319,9 @@ UID:pandascore-match-1691710@esport-ics
 DTSTART:20261006T200000Z
 DTEND:20261006T234500Z
 CLASS:PUBLIC
-DESCRIPTION:LCS - Promotion 2027 - Playoffs
+DESCRIPTION:LCS - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/l
+ cs
 SUMMARY:Upper Bracket Semifinal 1: CPD vs FUE
+URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR

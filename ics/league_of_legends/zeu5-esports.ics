@@ -231,7 +231,9 @@ UID:pandascore-match-1691709@esport-ics
 DTSTART:20261005T200000Z
 DTEND:20261005T234500Z
 CLASS:PUBLIC
-DESCRIPTION:LCS - Promotion 2027 - Playoffs
+DESCRIPTION:LCS - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/l
+ cs
 SUMMARY:Upper bracket round 1: MVU vs Z5
+URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR

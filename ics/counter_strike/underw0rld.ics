@@ -98,6 +98,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group C\nWatch: ht
  tps://www.twitch.tv/gamersclubcs
 SUMMARY:Winners match: RED.A vs underw0rld
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T200000Z
+UID:pandascore-match-1717309@esport-ics
+DTSTART:20260928T200000Z
+DTEND:20260928T221500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group C\nWatch: ht
+ tps://www.twitch.tv/gamersclubcs
+SUMMARY:Decider match: underw0rld vs MIBR.F
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR

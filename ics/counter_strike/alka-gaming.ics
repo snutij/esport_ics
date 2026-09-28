@@ -852,6 +852,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group A\nWatch: ht
  tps://www.twitch.tv/gamersclubcs
 SUMMARY:Elimination Match: ALKA vs Semente do Mal
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T210000Z
+UID:pandascore-match-1717308@esport-ics
+DTSTART:20260928T210000Z
+DTEND:20260928T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group A\nWatch: ht
+ tps://www.twitch.tv/gamersclubcs
+SUMMARY:Decider match: ALKA vs MW
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 BEGIN:VEVENT

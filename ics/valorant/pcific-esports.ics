@@ -175,6 +175,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Group A\nWatch: htt
  ps://www.twitch.tv/monsternotebook
 SUMMARY:Decider Match: FNE vs PCFIC
+URL:https://www.twitch.tv/monsternotebook
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T190000Z
+UID:pandascore-match-1716572@esport-ics
+DTSTART:20261003T190000Z
+DTEND:20261003T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Play-In\nWatch: htt
+ ps://www.twitch.tv/monsternotebook
+SUMMARY:Semifinal 2: EF vs PCFIC
 URL;VALUE=URI:https://www.twitch.tv/monsternotebook
 END:VEVENT
 END:VCALENDAR

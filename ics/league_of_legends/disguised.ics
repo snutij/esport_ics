@@ -229,7 +229,9 @@ UID:pandascore-match-1691708@esport-ics
 DTSTART:20261007T200000Z
 DTEND:20261007T234500Z
 CLASS:PUBLIC
-DESCRIPTION:LCS - Promotion 2027 - Playoffs
+DESCRIPTION:LCS - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/l
+ cs
 SUMMARY:Upper bracket semifinal 2: DSG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR

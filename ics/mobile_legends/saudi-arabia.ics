@@ -11,8 +11,10 @@ UID:pandascore-match-1711031@esport-ics
 DTSTART:20260929T015500Z
 DTEND:20260929T041000Z
 CLASS:PUBLIC
-DESCRIPTION:Asian Games - 2026 - Group B
+DESCRIPTION:Asian Games - 2026 - Group B\nWatch: https://www.youtube.com/wa
+ tch?v=rP2sGfl14jM
 SUMMARY:MAS vs SAU
+URL;VALUE=URI:https://www.youtube.com/watch?v=rP2sGfl14jM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260929T035000Z
@@ -20,7 +22,9 @@ UID:pandascore-match-1711032@esport-ics
 DTSTART:20260929T035000Z
 DTEND:20260929T060500Z
 CLASS:PUBLIC
-DESCRIPTION:Asian Games - 2026 - Group B
+DESCRIPTION:Asian Games - 2026 - Group B\nWatch: https://www.youtube.com/wa
+ tch?v=rP2sGfl14jM
 SUMMARY:IDN vs SAU
+URL;VALUE=URI:https://www.youtube.com/watch?v=rP2sGfl14jM
 END:VEVENT
 END:VCALENDAR

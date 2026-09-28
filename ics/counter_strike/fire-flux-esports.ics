@@ -1068,7 +1068,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Upper bracket quarterfinal 4: FF vs BIG.A
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260929T173000Z
@@ -1077,6 +1077,17 @@ DTSTART:20260929T173000Z
 DTEND:20260929T194500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - European Finals season 58 2026 - Playoffs
-SUMMARY:Semifinal 2: FF vs TBD
+SUMMARY:Semifinal 2: FF vs NAVI.J
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T134500Z
+UID:pandascore-match-1712172@esport-ics
+DTSTART:20261001T134500Z
+DTEND:20261001T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper Bracket Semifinal 2: FORZE.R vs FF
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR
