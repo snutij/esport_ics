@@ -933,6 +933,17 @@ DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs
 SUMMARY:Upper Bracket Round 1 Match  8: Mai Tai vs BIG.A
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260928T134500Z
+UID:pandascore-match-1716585@esport-ics
+DTSTART:20260928T134500Z
+DTEND:20260928T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper bracket quarterfinal 4: FF vs BIG.A
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260928T180000Z
 UID:pandascore-match-1661632@esport-ics
 DTSTART:20260928T180000Z

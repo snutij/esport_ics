@@ -965,6 +965,17 @@ SUMMARY:TS.A vs MEGO
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260928T134500Z
+UID:pandascore-match-1716584@esport-ics
+DTSTART:20260928T134500Z
+DTEND:20260928T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper bracket quarterfinal 3: FORZE.R vs MEGO
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260928T170000Z
 UID:pandascore-match-1700475@esport-ics
 DTSTART:20260928T170000Z
