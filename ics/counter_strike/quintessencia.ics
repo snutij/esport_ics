@@ -505,6 +505,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group B\nWatch: ht
  tps://www.twitch.tv/gamersclubcs
 SUMMARY:Decider Match: BST.A vs QUIN
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T190000Z
+UID:pandascore-match-1692888@esport-ics
+DTSTART:20260929T190000Z
+DTEND:20260929T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - September 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/gamersclubcs
+SUMMARY:Quarterfinal 2: MEIA NOITE vs QUIN
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR

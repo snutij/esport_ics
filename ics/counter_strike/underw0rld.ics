@@ -109,6 +109,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group C\nWatch: ht
  tps://www.twitch.tv/gamersclubcs
 SUMMARY:Decider match: underw0rld vs MIBR.F
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T213000Z
+UID:pandascore-match-1692891@esport-ics
+DTSTART:20260930T213000Z
+DTEND:20260930T234500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - September 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/gamersclubcs
+SUMMARY:Quarterfinal 1: CHAMA vs underw0rld
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR

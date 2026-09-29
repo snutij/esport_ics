@@ -362,6 +362,17 @@ SUMMARY:Round 3: QUIN vs MEIA NOITE
 URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20260929T190000Z
+UID:pandascore-match-1692888@esport-ics
+DTSTART:20260929T190000Z
+DTEND:20260929T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - September 2026 - Playoffs\nWatch: h
+ ttps://www.twitch.tv/gamersclubcs
+SUMMARY:Quarterfinal 2: MEIA NOITE vs QUIN
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20260929T220000Z
 UID:pandascore-match-1702607@esport-ics
 DTSTART:20260929T220000Z
