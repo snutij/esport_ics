@@ -311,6 +311,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Lower Bracket Final: GLS vs TdP
+URL:https://www.twitch.tv/karmaflexxx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T210000Z
+UID:pandascore-match-1700640@esport-ics
+DTSTART:20260929T210000Z
+DTEND:20260929T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
+ layoffs\nWatch: https://www.twitch.tv/karmaflexxx
+SUMMARY:Grand Final: PCY vs TdP
 URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
 END:VEVENT
 END:VCALENDAR
