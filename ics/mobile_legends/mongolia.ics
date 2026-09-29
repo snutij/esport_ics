@@ -14,4 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asian Games - 2026 - Group D
 SUMMARY:Cambodia vs MGL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T054500Z
+UID:pandascore-match-1711040@esport-ics
+DTSTART:20260930T054500Z
+DTEND:20260930T080000Z
+CLASS:PUBLIC
+DESCRIPTION:Asian Games - 2026 - Playoffs\nWatch: https://www.youtube.com/@
+ mlbbesportsofficial/streams
+SUMMARY:Quarterfinal 4: MGL vs Hong Kong
+URL;VALUE=URI:https://www.youtube.com/@mlbbesportsofficial/streams
+END:VEVENT
 END:VCALENDAR

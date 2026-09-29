@@ -338,6 +338,17 @@ DTEND:20260918T184500Z
 CLASS:PUBLIC
 DESCRIPTION:LEC - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/lec
 SUMMARY:Lower bracket semifinal: Navi vs MKOI
-URL;VALUE=URI:https://www.twitch.tv/lec
+URL:https://www.twitch.tv/lec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T080000Z
+UID:pandascore-match-1694354@esport-ics
+DTSTART:20261003T080000Z
+DTEND:20261003T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Demacia Cup Global Invitational - 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:Round 1: RED vs Navi
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

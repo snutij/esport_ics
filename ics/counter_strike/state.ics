@@ -1169,6 +1169,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 56 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:PCIFIC vs STA
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T103000Z
+UID:pandascore-match-1712157@esport-ics
+DTSTART:20261003T103000Z
+DTEND:20261003T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 56 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Elimination Match: STA vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT

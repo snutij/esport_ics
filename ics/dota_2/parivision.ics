@@ -894,6 +894,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Group A\nWatch: https://www.twitch
  .tv/BLASTDota
 SUMMARY:PARI vs LVLUP
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T130000Z
+UID:pandascore-match-1709073@esport-ics
+DTSTART:20260930T130000Z
+DTEND:20260930T151500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Group A\nWatch: https://www.twitch
+ .tv/BLASTDota
+SUMMARY:Winner Match: PARI vs TBD
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

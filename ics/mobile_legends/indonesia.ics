@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asian Games - 2026 - Group B\nWatch: https://www.youtube.com/wa
  tch?v=rP2sGfl14jM
 SUMMARY:IDN vs SAU
-URL;VALUE=URI:https://www.youtube.com/watch?v=rP2sGfl14jM
+URL:https://www.youtube.com/watch?v=rP2sGfl14jM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T035000Z
+UID:pandascore-match-1711039@esport-ics
+DTSTART:20260930T035000Z
+DTEND:20260930T060500Z
+CLASS:PUBLIC
+DESCRIPTION:Asian Games - 2026 - Playoffs\nWatch: https://www.youtube.com/@
+ mlbbesportsofficial/streams
+SUMMARY:Quarterfinal 3: PHI vs IDN
+URL;VALUE=URI:https://www.youtube.com/@mlbbesportsofficial/streams
 END:VEVENT
 END:VCALENDAR

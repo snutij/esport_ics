@@ -238,6 +238,17 @@ DTEND:20260926T234500Z
 CLASS:PUBLIC
 DESCRIPTION:LCS - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/lcs
 SUMMARY:Lower bracket semifinal: LY vs SR
-URL;VALUE=URI:https://www.twitch.tv/lcs
+URL:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T100000Z
+UID:pandascore-match-1694349@esport-ics
+DTSTART:20261003T100000Z
+DTEND:20261003T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Demacia Cup Global Invitational - 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:Round 1: SR vs KT
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

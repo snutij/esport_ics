@@ -254,6 +254,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Lower bracket 1 match 1: maybe vs ILLYR
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T110000Z
+UID:pandascore-match-1716597@esport-ics
+DTSTART:20260930T110000Z
+DTEND:20260930T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Lower bracket round 2 match 1: BIG.A vs maybe
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

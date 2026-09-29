@@ -1039,7 +1039,7 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #7 2026 - Group A\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:IC.A vs KSM
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260929T130000Z
@@ -1050,13 +1050,13 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #7 2026 - Group A\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:IC.A vs INF
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260929T140000Z
+DTSTAMP:20260929T141500Z
 UID:pandascore-match-1689889@esport-ics
-DTSTART:20260929T140000Z
-DTEND:20260929T144500Z
+DTSTART:20260929T141500Z
+DTEND:20260929T150000Z
 CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #7 2026 - Group A\nWatch: https://kick.com/ur
  bancontenders

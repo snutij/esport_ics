@@ -419,6 +419,17 @@ DTEND:20260904T114500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
 SUMMARY:Lower bracket round 2: KT vs DK
-URL;VALUE=URI:https://www.twitch.tv/lck
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T100000Z
+UID:pandascore-match-1694349@esport-ics
+DTSTART:20261003T100000Z
+DTEND:20261003T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Demacia Cup Global Invitational - 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:Round 1: SR vs KT
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR
