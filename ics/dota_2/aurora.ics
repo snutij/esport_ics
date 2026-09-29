@@ -1070,6 +1070,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Group D\nWatch: https://www.twitch
  .tv/BLASTDota
 SUMMARY:AUR vs GL
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T160000Z
+UID:pandascore-match-1709093@esport-ics
+DTSTART:20261001T160000Z
+DTEND:20261001T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Group D\nWatch: https://www.twitch
+ .tv/BLASTDota
+SUMMARY:Winner Match: AUR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

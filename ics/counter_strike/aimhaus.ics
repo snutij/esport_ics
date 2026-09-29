@@ -58,7 +58,7 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #7 2026 - Group B\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:Aimhaus vs HS
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260929T174500Z
@@ -69,17 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #7 2026 - Group B\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:Aimhaus vs SNG
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260929T184500Z
+DTSTAMP:20260929T200000Z
 UID:pandascore-match-1689904@esport-ics
-DTSTART:20260929T184500Z
-DTEND:20260929T193000Z
+DTSTART:20260929T200000Z
+DTEND:20260929T204500Z
 CLASS:PUBLIC
-DESCRIPTION:Urban Riga - Open #7 2026 - Group B\nWatch: https://kick.com/ur
- bancontenders
+DESCRIPTION:Urban Riga - Open #7 2026 - Group B\nWatch: https://kick.com/cr
+ yck
 SUMMARY:ENCE vs Aimhaus
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL;VALUE=URI:https://kick.com/cryck
 END:VEVENT
 END:VCALENDAR
