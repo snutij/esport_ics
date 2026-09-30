@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 8 2026 - Group D\nWatch: https://
  www.twitch.tv/MPKBK
 SUMMARY:Decider Match: KRY vs TBD
+URL:https://www.twitch.tv/MPKBK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T100000Z
+UID:pandascore-match-1718467@esport-ics
+DTSTART:20261001T100000Z
+DTEND:20261001T121500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 8 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/MPKBK
+SUMMARY:Quarterfinal 1: UP vs KRY
 URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 END:VCALENDAR

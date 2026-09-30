@@ -720,6 +720,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Group B\nWatch: https://www.twitch
  .tv/BLASTDotaB
 SUMMARY:Elimination Match: Nem vs Na`Vi
-URL;VALUE=URI:https://www.twitch.tv/BLASTDotaB
+URL:https://www.twitch.tv/BLASTDotaB
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T130000Z
+UID:pandascore-match-1709080@esport-ics
+DTSTART:20261002T130000Z
+DTEND:20261002T151500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Group B\nWatch: https://www.twitch
+ .tv/BLASTDota
+SUMMARY:Decider Match: 1WIN vs Nem
+URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR
