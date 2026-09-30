@@ -828,6 +828,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Group C\nWatch: https://www.twitch
  .tv/BLASTDota
 SUMMARY:TY vs MOUZ
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T130000Z
+UID:pandascore-match-1709088@esport-ics
+DTSTART:20261001T130000Z
+DTEND:20261001T151500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Group C\nWatch: https://www.twitch
+ .tv/BLASTDota
+SUMMARY:Winner Match: TY vs BB
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

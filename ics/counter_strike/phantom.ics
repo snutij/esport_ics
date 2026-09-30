@@ -1095,6 +1095,15 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 5: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round of 16 Match 2: PHA vs IS
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T150000Z
+UID:pandascore-match-1720931@esport-ics
+DTSTART:20261007T150000Z
+DTEND:20261007T171500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs
+SUMMARY:Round of 16 Match 3: FNC vs PHA
 END:VEVENT
 END:VCALENDAR

@@ -872,6 +872,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 8 2026 - Group C\nWatch: https://
  www.twitch.tv/MPKBK
 SUMMARY:CS vs CRUISER
+URL:https://www.twitch.tv/MPKBK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T180000Z
+UID:pandascore-match-1712949@esport-ics
+DTSTART:20260930T180000Z
+DTEND:20260930T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 8 2026 - Group C\nWatch: https://
+ www.twitch.tv/MPKBK
+SUMMARY:Winners' Match: CS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 END:VCALENDAR

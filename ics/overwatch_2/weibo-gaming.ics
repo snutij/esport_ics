@@ -333,6 +333,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Midseason Championship 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/ow_esports
 SUMMARY:3rd Place match: T1 vs WBG
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T110000Z
+UID:pandascore-match-1721579@esport-ics
+DTSTART:20261003T110000Z
+DTEND:20261003T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 3 2026 - Group Stage\nWatch: https://live.bil
+ ibili.com/23612045
+SUMMARY:Round 1: WBG vs SSE
+URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR

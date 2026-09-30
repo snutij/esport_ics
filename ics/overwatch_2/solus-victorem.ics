@@ -245,6 +245,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 2 2026 - Playoffs\nWatch: https://live.bilibi
  li.com/23612045
 SUMMARY:Lower bracket semifinal: SV vs AG
+URL:https://live.bilibili.com/23612045
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T070000Z
+UID:pandascore-match-1721577@esport-ics
+DTSTART:20261003T070000Z
+DTEND:20261003T091500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 3 2026 - Group Stage\nWatch: https://live.bil
+ ibili.com/23612045
+SUMMARY:Round 1: SV vs OUG
 URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR

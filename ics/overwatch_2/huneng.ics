@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 2 2026 - Round Robin Stage\nWatch: https://li
  ve.bilibili.com/23612045
 SUMMARY:SV vs HUN
+URL:https://live.bilibili.com/23612045
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T090000Z
+UID:pandascore-match-1721578@esport-ics
+DTSTART:20261003T090000Z
+DTEND:20261003T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 3 2026 - Group Stage\nWatch: https://live.bil
+ ibili.com/23612045
+SUMMARY:Round 1: AG vs HUN
 URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR

@@ -1103,6 +1103,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #7 2026 - Playoffs\nWatch: https://kick.com/u
  rbancontenders
 SUMMARY:Quarterfinal 1: INF vs HS
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T163500Z
+UID:pandascore-match-1689947@esport-ics
+DTSTART:20260930T163500Z
+DTEND:20260930T185000Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #7 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/kleverrgg
+SUMMARY:Third Place Match: IC.A vs INF
+URL;VALUE=URI:https://www.twitch.tv/kleverrgg
 END:VEVENT
 END:VCALENDAR

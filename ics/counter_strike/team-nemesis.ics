@@ -1092,6 +1092,15 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 8 2026 - Group D\nWatch: https://
  www.twitch.tv/MPKBK
 SUMMARY:NEM vs DW
-URL;VALUE=URI:https://www.twitch.tv/MPKBK
+URL:https://www.twitch.tv/MPKBK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T120000Z
+UID:pandascore-match-1720950@esport-ics
+DTSTART:20261008T120000Z
+DTEND:20261008T141500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs
+SUMMARY:Round of 16 Match 6: NEM vs SIN
 END:VEVENT
 END:VCALENDAR

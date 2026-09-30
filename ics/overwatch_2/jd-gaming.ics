@@ -278,6 +278,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Midseason Championship 2026 - Group B\nWatch: https://www
  .twitch.tv/ow_esports
 SUMMARY:Lower bracket semifinal 1: JDG vs GE
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T130000Z
+UID:pandascore-match-1721580@esport-ics
+DTSTART:20261003T130000Z
+DTEND:20261003T151500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 3 2026 - Group Stage\nWatch: https://live.bil
+ ibili.com/23612045
+SUMMARY:Round 1: JDG vs BF
+URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR

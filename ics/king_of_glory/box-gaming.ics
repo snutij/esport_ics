@@ -286,9 +286,86 @@ UID:pandascore-match-1720346@esport-ics
 DTSTART:20261002T060000Z
 DTEND:20261002T094500Z
 CLASS:PUBLIC
-DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage Second Leg\nWatch: h
- ttps://www.youtube.com/@LienQuanMobileSportsGarena/streams
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
 SUMMARY:BOX vs RRQ.VN
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T090000Z
+UID:pandascore-match-1720710@esport-ics
+DTSTART:20261003T090000Z
+DTEND:20261003T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:BOX vs GAM
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T090000Z
+UID:pandascore-match-1720716@esport-ics
+DTSTART:20261008T090000Z
+DTEND:20261008T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:SP vs BOX
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T090000Z
+UID:pandascore-match-1720719@esport-ics
+DTSTART:20261009T090000Z
+DTEND:20261009T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:OSE vs BOX
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T123000Z
+UID:pandascore-match-1720723@esport-ics
+DTSTART:20261010T123000Z
+DTEND:20261010T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:BOX vs FPL
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T060000Z
+UID:pandascore-match-1720728@esport-ics
+DTSTART:20261015T060000Z
+DTEND:20261015T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:BOX vs TF
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T123000Z
+UID:pandascore-match-1720733@esport-ics
+DTSTART:20261016T123000Z
+DTEND:20261016T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:BOOM Esports VN vs BOX
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T060000Z
+UID:pandascore-match-1720737@esport-ics
+DTSTART:20261018T060000Z
+DTEND:20261018T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 2\nWatch: https://ww
+ w.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:TS vs BOX
 URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
 END:VEVENT
 END:VCALENDAR

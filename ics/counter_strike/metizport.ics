@@ -732,6 +732,15 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #2 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/playzonecz
 SUMMARY:Grand Final: MZP vs TBD
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T180000Z
+UID:pandascore-match-1720940@esport-ics
+DTSTART:20261007T180000Z
+DTEND:20261007T201500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs
+SUMMARY:Round of 16 Match 4: K27 vs MZP
 END:VEVENT
 END:VCALENDAR

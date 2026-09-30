@@ -1063,6 +1063,15 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 8 2026 - Group B\nWatch: https://
  www.twitch.tv/MPKBK
 SUMMARY:NTR vs TM
-URL;VALUE=URI:https://www.twitch.tv/MPKBK
+URL:https://www.twitch.tv/MPKBK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T180000Z
+UID:pandascore-match-1720964@esport-ics
+DTSTART:20261008T180000Z
+DTEND:20261008T201500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs
+SUMMARY:Round of 16 Match 8: NTR vs Color
 END:VEVENT
 END:VCALENDAR
