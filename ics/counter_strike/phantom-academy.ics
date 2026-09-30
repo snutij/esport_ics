@@ -892,4 +892,15 @@ DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
 SUMMARY:Lower bracket round 2 match 4: PHTM.Ac vs RGG
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T140000Z
+UID:pandascore-match-1700482@esport-ics
+DTSTART:20260930T140000Z
+DTEND:20260930T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #10 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 2: Leo vs PHTM.Ac
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

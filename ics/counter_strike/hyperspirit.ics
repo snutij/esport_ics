@@ -828,6 +828,17 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #7 2026 - Group B\nWatch: https://kick.com/ur
  bancontenders
 SUMMARY:SNG vs HS
+URL:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T100000Z
+UID:pandascore-match-1689942@esport-ics
+DTSTART:20260930T100000Z
+DTEND:20260930T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Urban Riga - Open #7 2026 - Playoffs\nWatch: https://kick.com/u
+ rbancontenders
+SUMMARY:Quarterfinal 1: INF vs HS
 URL;VALUE=URI:https://kick.com/urbancontenders
 END:VEVENT
 END:VCALENDAR
