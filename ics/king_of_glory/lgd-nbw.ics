@@ -374,8 +374,10 @@ UID:pandascore-match-1707230@esport-ics
 DTSTART:20261003T060000Z
 DTEND:20261003T094500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage
+DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
+ ://live.bilibili.com/21144080
 SUMMARY:WB vs LGD
+URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261005T090000Z
@@ -383,8 +385,10 @@ UID:pandascore-match-1707237@esport-ics
 DTSTART:20261005T090000Z
 DTEND:20261005T124500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage
+DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
+ ://live.bilibili.com/21144080
 SUMMARY:JDG vs LGD
+URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T120000Z
@@ -392,8 +396,10 @@ UID:pandascore-match-1707244@esport-ics
 DTSTART:20261007T120000Z
 DTEND:20261007T154500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage
+DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
+ ://live.bilibili.com/21144080
 SUMMARY:AG.SP vs LGD
+URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261010T090000Z
@@ -401,8 +407,10 @@ UID:pandascore-match-1707247@esport-ics
 DTSTART:20261010T090000Z
 DTEND:20261010T124500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage
+DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
+ ://live.bilibili.com/21144080
 SUMMARY:TTG vs LGD
+URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261014T120000Z
@@ -410,8 +418,10 @@ UID:pandascore-match-1707254@esport-ics
 DTSTART:20261014T120000Z
 DTEND:20261014T154500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage
+DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
+ ://live.bilibili.com/21144080
 SUMMARY:WOL vs LGD
+URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261017T090000Z
@@ -419,7 +429,9 @@ UID:pandascore-match-1707259@esport-ics
 DTSTART:20261017T090000Z
 DTEND:20261017T124500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage
+DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
+ ://live.bilibili.com/21144080
 SUMMARY:KSG vs LGD
+URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 END:VCALENDAR

@@ -628,6 +628,61 @@ CLASS:PUBLIC
 DESCRIPTION:Hotspawn Showdown - Closed Qualifier 2026 - Group A\nWatch: htt
  ps://www.twitch.tv/hotspawnesports
 SUMMARY:Decider match: G2.A vs FCF
-URL;VALUE=URI:https://www.twitch.tv/hotspawnesports
+URL:https://www.twitch.tv/hotspawnesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T150000Z
+UID:pandascore-match-1720355@esport-ics
+DTSTART:20261001T150000Z
+DTEND:20261001T154500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:SINQU vs FCF
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T161500Z
+UID:pandascore-match-1720358@esport-ics
+DTSTART:20261001T161500Z
+DTEND:20261001T170000Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:LC vs FCF
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T173000Z
+UID:pandascore-match-1720360@esport-ics
+DTSTART:20261001T173000Z
+DTEND:20261001T181500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:FCF vs SAW
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T184500Z
+UID:pandascore-match-1720365@esport-ics
+DTSTART:20261001T184500Z
+DTEND:20261001T193000Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:FCF vs FH
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T200000Z
+UID:pandascore-match-1720366@esport-ics
+DTSTART:20261001T200000Z
+DTEND:20261001T204500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:Nice Try vs FCF
+URL;VALUE=URI:https://www.twitch.tv/foxcs
 END:VEVENT
 END:VCALENDAR

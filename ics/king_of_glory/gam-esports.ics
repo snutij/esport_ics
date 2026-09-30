@@ -333,6 +333,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage 1\nWatch: https://ww
  w.youtube.com/@LienQuanMobileSportsGarena/streams
 SUMMARY:RRQ.VN vs GAM
+URL:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T060000Z
+UID:pandascore-match-1720343@esport-ics
+DTSTART:20261001T060000Z
+DTEND:20261001T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Group Stage Second Leg\nWatch: h
+ ttps://www.youtube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:FPL vs GAM
 URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
 END:VEVENT
 END:VCALENDAR

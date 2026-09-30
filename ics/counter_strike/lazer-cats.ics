@@ -596,6 +596,61 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #3 season 52 2026 - Group A\
  nWatch: https://www.twitch.tv/lzrcats
 SUMMARY:Elimination match: ex-MANA vs LC
-URL;VALUE=URI:https://www.twitch.tv/lzrcats
+URL:https://www.twitch.tv/lzrcats
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T150000Z
+UID:pandascore-match-1720356@esport-ics
+DTSTART:20261001T150000Z
+DTEND:20261001T154500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:LC vs FH
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T161500Z
+UID:pandascore-match-1720358@esport-ics
+DTSTART:20261001T161500Z
+DTEND:20261001T170000Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:LC vs FCF
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T173000Z
+UID:pandascore-match-1720361@esport-ics
+DTSTART:20261001T173000Z
+DTEND:20261001T181500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:LC vs Nice Try
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T184500Z
+UID:pandascore-match-1720363@esport-ics
+DTSTART:20261001T184500Z
+DTEND:20261001T193000Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:LC vs SAW
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T200000Z
+UID:pandascore-match-1720368@esport-ics
+DTSTART:20261001T200000Z
+DTEND:20261001T204500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:LC vs SINQU
+URL;VALUE=URI:https://www.twitch.tv/foxcs
 END:VEVENT
 END:VCALENDAR

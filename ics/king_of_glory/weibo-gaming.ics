@@ -341,8 +341,10 @@ UID:pandascore-match-1707230@esport-ics
 DTSTART:20261003T060000Z
 DTEND:20261003T094500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage
+DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
+ ://live.bilibili.com/21144080
 SUMMARY:WB vs LGD
+URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261005T060000Z
@@ -350,8 +352,10 @@ UID:pandascore-match-1707236@esport-ics
 DTSTART:20261005T060000Z
 DTEND:20261005T094500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage
+DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
+ ://live.bilibili.com/21144080
 SUMMARY:WB vs TES.A
+URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T090000Z
@@ -359,8 +363,10 @@ UID:pandascore-match-1707243@esport-ics
 DTSTART:20261007T090000Z
 DTEND:20261007T124500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage
+DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
+ ://live.bilibili.com/21144080
 SUMMARY:WB vs EDG
+URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261012T120000Z
@@ -368,8 +374,10 @@ UID:pandascore-match-1707252@esport-ics
 DTSTART:20261012T120000Z
 DTEND:20261012T154500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage
+DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
+ ://live.bilibili.com/21144080
 SUMMARY:WB vs DYG
+URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261016T090000Z
@@ -377,8 +385,10 @@ UID:pandascore-match-1707257@esport-ics
 DTSTART:20261016T090000Z
 DTEND:20261016T124500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage
+DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
+ ://live.bilibili.com/21144080
 SUMMARY:WB vs Hero
+URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261017T120000Z
@@ -386,7 +396,9 @@ UID:pandascore-match-1707260@esport-ics
 DTSTART:20261017T120000Z
 DTEND:20261017T154500Z
 CLASS:PUBLIC
-DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage
+DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
+ ://live.bilibili.com/21144080
 SUMMARY:WB vs RW
+URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 END:VCALENDAR

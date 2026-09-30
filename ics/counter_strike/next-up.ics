@@ -36,6 +36,61 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #6 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs3
 SUMMARY:Lower Bracket Round  2 Match 4: ARCH vs NXT
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T080000Z
+UID:pandascore-match-1720370@esport-ics
+DTSTART:20261001T080000Z
+DTEND:20261001T084500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:NAVI.J vs NXT
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T091500Z
+UID:pandascore-match-1720373@esport-ics
+DTSTART:20261001T091500Z
+DTEND:20261001T100000Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:NXT vs PURE
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T103000Z
+UID:pandascore-match-1720377@esport-ics
+DTSTART:20261001T103000Z
+DTEND:20261001T111500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:NXT vs AIMC
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T114500Z
+UID:pandascore-match-1720378@esport-ics
+DTSTART:20261001T114500Z
+DTEND:20261001T123000Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:ABT vs NXT
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T130000Z
+UID:pandascore-match-1720383@esport-ics
+DTSTART:20261001T130000Z
+DTEND:20261001T134500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:FAL.F vs NXT
+URL;VALUE=URI:https://www.twitch.tv/foxcs
 END:VEVENT
 END:VCALENDAR

@@ -711,6 +711,61 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #2 2026 - Playoffs\nWatch: https://www.twit
  ch.tv/playzonecz
 SUMMARY:Lower Bracket Final: AIMC vs IC.A
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T080000Z
+UID:pandascore-match-1720369@esport-ics
+DTSTART:20261001T080000Z
+DTEND:20261001T084500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:AIMC vs ABT
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T091500Z
+UID:pandascore-match-1720374@esport-ics
+DTSTART:20261001T091500Z
+DTEND:20261001T100000Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:AIMC vs FAL.F
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T103000Z
+UID:pandascore-match-1720377@esport-ics
+DTSTART:20261001T103000Z
+DTEND:20261001T111500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:NXT vs AIMC
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T114500Z
+UID:pandascore-match-1720380@esport-ics
+DTSTART:20261001T114500Z
+DTEND:20261001T123000Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:PURE vs AIMC
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T130000Z
+UID:pandascore-match-1720382@esport-ics
+DTSTART:20261001T130000Z
+DTEND:20261001T134500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:NAVI.J vs AIMC
+URL;VALUE=URI:https://www.twitch.tv/foxcs
 END:VEVENT
 END:VCALENDAR

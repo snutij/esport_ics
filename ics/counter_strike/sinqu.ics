@@ -481,6 +481,61 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Play-In Group C\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Elimination match: SINQU vs MISA
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T150000Z
+UID:pandascore-match-1720355@esport-ics
+DTSTART:20261001T150000Z
+DTEND:20261001T154500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:SINQU vs FCF
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T161500Z
+UID:pandascore-match-1720357@esport-ics
+DTSTART:20261001T161500Z
+DTEND:20261001T170000Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:SINQU vs SAW
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T173000Z
+UID:pandascore-match-1720362@esport-ics
+DTSTART:20261001T173000Z
+DTEND:20261001T181500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:FH vs SINQU
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T184500Z
+UID:pandascore-match-1720364@esport-ics
+DTSTART:20261001T184500Z
+DTEND:20261001T193000Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:Nice Try vs SINQU
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T200000Z
+UID:pandascore-match-1720368@esport-ics
+DTSTART:20261001T200000Z
+DTEND:20261001T204500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
+ itch.tv/foxcs
+SUMMARY:LC vs SINQU
+URL;VALUE=URI:https://www.twitch.tv/foxcs
 END:VEVENT
 END:VCALENDAR
