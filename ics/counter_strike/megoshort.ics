@@ -995,7 +995,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #10 2026 - Group Stage\nWatch: https://kick
  .com/cct_cs2
 SUMMARY:Round 2: Black Phoenix vs MEGO
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260930T134500Z
@@ -1006,6 +1006,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Lower bracket round 2 match 2: MEGO vs EP
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T080000Z
+UID:pandascore-match-1700488@esport-ics
+DTSTART:20261002T080000Z
+DTEND:20261002T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #10 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 3: BERG vs MEGO
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

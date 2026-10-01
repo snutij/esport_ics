@@ -299,6 +299,15 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage\nWatch: https://www.tw
  itch.tv/riotgamesturkish
 SUMMARY:Round 6: PCIFIC  vs LDS
-URL;VALUE=URI:https://www.twitch.tv/riotgamesturkish
+URL:https://www.twitch.tv/riotgamesturkish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T150000Z
+UID:pandascore-match-1702824@esport-ics
+DTSTART:20261002T150000Z
+DTEND:20261002T171500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage
+SUMMARY:Round 7: PCIFIC  vs FEC
 END:VEVENT
 END:VCALENDAR

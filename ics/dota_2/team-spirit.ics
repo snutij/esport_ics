@@ -905,6 +905,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Group B\nWatch: https://www.twitch
  .tv/BLASTDota
 SUMMARY:Winner Match: TS vs 1WIN
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T160000Z
+UID:pandascore-match-1709114@esport-ics
+DTSTART:20261003T160000Z
+DTEND:20261003T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Seeding Matches\nWatch: https://ww
+ w.twitch.tv/BLASTDota
+SUMMARY:Seeding Match 2: TS vs TY
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

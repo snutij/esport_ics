@@ -650,7 +650,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
  itch.tv/lzrcats
 SUMMARY:LC vs FCF
-URL;VALUE=URI:https://www.twitch.tv/lzrcats
+URL:https://www.twitch.tv/lzrcats
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T180000Z
@@ -661,7 +661,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
  itch.tv/foxcs
 SUMMARY:FCF vs SAW
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T191500Z
@@ -672,13 +672,13 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
  itch.tv/deichal
 SUMMARY:FCF vs FH
-URL;VALUE=URI:https://www.twitch.tv/deichal
+URL:https://www.twitch.tv/deichal
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261001T203000Z
+DTSTAMP:20261001T213000Z
 UID:pandascore-match-1720366@esport-ics
-DTSTART:20261001T203000Z
-DTEND:20261001T211500Z
+DTSTART:20261001T213000Z
+DTEND:20261001T221500Z
 CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
  itch.tv/streamcast_cs

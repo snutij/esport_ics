@@ -905,6 +905,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Group A\nWatch: https://www.twitch
  .tv/BLASTDota
 SUMMARY:Winner Match: PARI vs LGD
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T130000Z
+UID:pandascore-match-1709113@esport-ics
+DTSTART:20261003T130000Z
+DTEND:20261003T151500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Seeding Matches\nWatch: https://ww
+ w.twitch.tv/BLASTDota
+SUMMARY:Seeding Match 1: PARI vs AUR
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

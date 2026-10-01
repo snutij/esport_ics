@@ -145,7 +145,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
  itch.tv/streamcast_cs
 SUMMARY:FH vs Nice Try
-URL;VALUE=URI:https://www.twitch.tv/streamcast_cs
+URL:https://www.twitch.tv/streamcast_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T180000Z
@@ -156,7 +156,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
  itch.tv/lzrcats
 SUMMARY:LC vs Nice Try
-URL;VALUE=URI:https://www.twitch.tv/lzrcats
+URL:https://www.twitch.tv/lzrcats
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T191500Z
@@ -167,13 +167,13 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
  itch.tv/streamcast_cs
 SUMMARY:Nice Try vs SINQU
-URL;VALUE=URI:https://www.twitch.tv/streamcast_cs
+URL:https://www.twitch.tv/streamcast_cs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261001T203000Z
+DTSTAMP:20261001T213000Z
 UID:pandascore-match-1720366@esport-ics
-DTSTART:20261001T203000Z
-DTEND:20261001T211500Z
+DTSTART:20261001T213000Z
+DTEND:20261001T221500Z
 CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
  itch.tv/streamcast_cs

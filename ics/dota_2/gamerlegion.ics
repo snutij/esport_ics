@@ -828,6 +828,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Group D\nWatch: https://www.twitch
  .tv/BLASTDota
 SUMMARY:Elimination Match: GL vs YB
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T160000Z
+UID:pandascore-match-1709095@esport-ics
+DTSTART:20261002T160000Z
+DTEND:20261002T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Group D\nWatch: https://www.twitch
+ .tv/BLASTDota
+SUMMARY:Decider Match: GL vs Liquid
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

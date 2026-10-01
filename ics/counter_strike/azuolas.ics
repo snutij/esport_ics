@@ -155,6 +155,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #10 2026 - Group Stage\nWatch: https://kick
  .com/cct_cs2
 SUMMARY:Round 2: Azuolas vs ENJOY
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T110000Z
+UID:pandascore-match-1700489@esport-ics
+DTSTART:20261002T110000Z
+DTEND:20261002T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #10 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 3: Azuolas vs PHTM.Ac
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

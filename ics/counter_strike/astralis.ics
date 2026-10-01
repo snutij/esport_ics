@@ -586,6 +586,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 4 2026 - Playoffs\nWatch: https://kick.c
  om/watchfultv
 SUMMARY:Upper Bracket Quarterfinal 2: AST vs ALL
-URL;VALUE=URI:https://kick.com/watchfultv
+URL:https://kick.com/watchfultv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T100000Z
+UID:pandascore-match-1682124@esport-ics
+DTSTART:20261002T100000Z
+DTEND:20261002T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 4 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Lower Round 1 Match 1: FaZe vs AST
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
