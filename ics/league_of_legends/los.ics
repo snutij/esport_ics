@@ -365,6 +365,17 @@ SUMMARY:Upper Bracket Semifinal 2: LOS vs KBM
 URL:https://www.twitch.tv/cblol
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261001T210000Z
+UID:pandascore-match-1691680@esport-ics
+DTSTART:20261001T210000Z
+DTEND:20261002T004500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv
+ /cblol
+SUMMARY:Upper Bracket Final: EST vs LOS
+URL;VALUE=URI:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261010T160000Z
 UID:pandascore-match-1662354@esport-ics
 DTSTART:20261010T160000Z
