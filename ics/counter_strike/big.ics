@@ -706,6 +706,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 4 2026 - Playoffs\nWatch: https://kick.c
  om/watchfultv
 SUMMARY:Upper Bracket Quarterfinal 4: BIG vs FNC
-URL;VALUE=URI:https://kick.com/watchfultv
+URL:https://kick.com/watchfultv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T150000Z
+UID:pandascore-match-1682120@esport-ics
+DTSTART:20261002T150000Z
+DTEND:20261002T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 4 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper Bracket Semifinal 2: LG vs BIG
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

@@ -228,6 +228,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific League - APAC North - Stage 2 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/rainbow6
 SUMMARY:Upper Bracket Semifinals: SZ vs DK
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T110000Z
+UID:pandascore-match-1714838@esport-ics
+DTSTART:20261017T110000Z
+DTEND:20261017T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific League - APAC North - Stage 2 2026 - Playoffs\nWat
+ ch: https://www.twitch.tv/rainbow6
+SUMMARY:Lower Bracket Semifinal: FX vs SZ
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

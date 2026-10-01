@@ -320,6 +320,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Champions 2026 - Group C\nWatch: https://www.twitch.tv/va
  lorant
 SUMMARY:Elimination Match: TYLOO vs TL
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T090000Z
+UID:pandascore-match-1685232@esport-ics
+DTSTART:20261003T090000Z
+DTEND:20261003T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Champions 2026 - Group C\nWatch: https://www.twitch.tv/va
+ lorant
+SUMMARY:Decider Match: G2 vs TL
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

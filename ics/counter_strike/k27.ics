@@ -1086,6 +1086,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 8 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/MPKBK
 SUMMARY:Quarterfinal 2: PRIV vs K27
+URL:https://www.twitch.tv/MPKBK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T110000Z
+UID:pandascore-match-1718471@esport-ics
+DTSTART:20261002T110000Z
+DTEND:20261002T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 8 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/MPKBK
+SUMMARY:Semifinal 1: UP vs K27
 URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 BEGIN:VEVENT
