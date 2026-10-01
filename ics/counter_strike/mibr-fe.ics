@@ -190,6 +190,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 6 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 5: MIBR.F vs Semente do Mal
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T220000Z
+UID:pandascore-match-1702620@esport-ics
+DTSTART:20261001T220000Z
+DTEND:20261002T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 6 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs3
+SUMMARY:Round of 16 Match 4: TdP vs MIBR.F
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

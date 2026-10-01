@@ -523,9 +523,9 @@ DTSTART:20261001T184500Z
 DTEND:20261001T193000Z
 CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
- itch.tv/foxcs
+ itch.tv/streamcast_cs
 SUMMARY:Nice Try vs SINQU
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL;VALUE=URI:https://www.twitch.tv/streamcast_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T200000Z
@@ -534,8 +534,8 @@ DTSTART:20261001T200000Z
 DTEND:20261001T204500Z
 CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
- itch.tv/foxcs
+ itch.tv/lzrcats
 SUMMARY:LC vs SINQU
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL;VALUE=URI:https://www.twitch.tv/lzrcats
 END:VEVENT
 END:VCALENDAR

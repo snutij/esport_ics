@@ -885,6 +885,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - September 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/gamersclubcs
 SUMMARY:Quarterfinal 4: RED.A vs ALKA
-URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T190000Z
+UID:pandascore-match-1702619@esport-ics
+DTSTART:20261001T190000Z
+DTEND:20261001T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 6 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs3
+SUMMARY:Round of 16 Match 3: ex-Keyd Stars vs ALKA
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

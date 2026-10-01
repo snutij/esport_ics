@@ -767,6 +767,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #2 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Grand Final: PCY vs TdP
-URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
+URL:https://www.twitch.tv/karmaflexxx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T190000Z
+UID:pandascore-match-1702623@esport-ics
+DTSTART:20261002T190000Z
+DTEND:20261002T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 6 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs3
+SUMMARY:Round of 16 Match 7: ISG vs PCY
+URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR
