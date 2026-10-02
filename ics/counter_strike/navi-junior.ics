@@ -966,6 +966,61 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Play-Ins\nWatch: https://www.t
  witch.tv/streamcast_cs
 SUMMARY:SAW vs NAVI.J
-URL;VALUE=URI:https://www.twitch.tv/streamcast_cs
+URL:https://www.twitch.tv/streamcast_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T150000Z
+UID:pandascore-match-1724279@esport-ics
+DTSTART:20261007T150000Z
+DTEND:20261007T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
+ ck.com/roman
+SUMMARY:SAW vs NAVI.J
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T161500Z
+UID:pandascore-match-1724283@esport-ics
+DTSTART:20261007T161500Z
+DTEND:20261007T170000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
+ ck.com/roman
+SUMMARY:RBLS vs NAVI.J
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T173000Z
+UID:pandascore-match-1724287@esport-ics
+DTSTART:20261007T173000Z
+DTEND:20261007T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
+ ck.com/roman
+SUMMARY:FCF vs NAVI.J
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T184500Z
+UID:pandascore-match-1724290@esport-ics
+DTSTART:20261007T184500Z
+DTEND:20261007T193000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
+ ck.com/roman
+SUMMARY:LC vs NAVI.J
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T200000Z
+UID:pandascore-match-1724293@esport-ics
+DTSTART:20261007T200000Z
+DTEND:20261007T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
+ ck.com/roman
+SUMMARY:SNG vs NAVI.J
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

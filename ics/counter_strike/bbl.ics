@@ -244,7 +244,9 @@ UID:pandascore-match-1721212@esport-ics
 DTSTART:20261002T160000Z
 DTEND:20261002T164500Z
 CLASS:PUBLIC
-DESCRIPTION:ROG Journey - Autumn 2026 - Group B
+DESCRIPTION:ROG Journey - Autumn 2026 - Group B\nWatch: https://www.twitch.
+ tv/nipgaming
 SUMMARY:NIP vs BBL
+URL;VALUE=URI:https://www.twitch.tv/nipgaming
 END:VEVENT
 END:VCALENDAR

@@ -280,8 +280,10 @@ UID:pandascore-match-1721226@esport-ics
 DTSTART:20261002T150000Z
 DTEND:20261002T154500Z
 CLASS:PUBLIC
-DESCRIPTION:ROG Journey - Autumn 2026 - Group C
+DESCRIPTION:ROG Journey - Autumn 2026 - Group C\nWatch: https://kick.com/te
+ ameac
 SUMMARY:MTX vs EACE
+URL;VALUE=URI:https://kick.com/teameac
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261002T160000Z
@@ -289,7 +291,9 @@ UID:pandascore-match-1721229@esport-ics
 DTSTART:20261002T160000Z
 DTEND:20261002T164500Z
 CLASS:PUBLIC
-DESCRIPTION:ROG Journey - Autumn 2026 - Group C
+DESCRIPTION:ROG Journey - Autumn 2026 - Group C\nWatch: https://www.twitch.
+ tv/JohnnySpeeds
 SUMMARY:JS vs MTX
+URL;VALUE=URI:https://www.twitch.tv/JohnnySpeeds
 END:VEVENT
 END:VCALENDAR

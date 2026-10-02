@@ -867,8 +867,10 @@ UID:pandascore-match-1721167@esport-ics
 DTSTART:20261002T150000Z
 DTEND:20261002T154500Z
 CLASS:PUBLIC
-DESCRIPTION:ROG Journey - Autumn 2026 - Group A
+DESCRIPTION:ROG Journey - Autumn 2026 - Group A\nWatch: https://www.twitch.
+ tv/tizian_cs
 SUMMARY:SIN vs NPG
+URL;VALUE=URI:https://www.twitch.tv/tizian_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261002T160000Z
@@ -876,8 +878,10 @@ UID:pandascore-match-1721169@esport-ics
 DTSTART:20261002T160000Z
 DTEND:20261002T164500Z
 CLASS:PUBLIC
-DESCRIPTION:ROG Journey - Autumn 2026 - Group A
+DESCRIPTION:ROG Journey - Autumn 2026 - Group A\nWatch: https://www.twitch.
+ tv/endiezcasts
 SUMMARY:100T vs SIN
+URL;VALUE=URI:https://www.twitch.tv/endiezcasts
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261008T120000Z

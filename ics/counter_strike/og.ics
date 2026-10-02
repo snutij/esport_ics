@@ -464,6 +464,61 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - Closed Qualifier 2026 - Playoffs\nWat
  ch: https://www.twitch.tv/connect_en
 SUMMARY:Round of 16 match 6: PHA vs OG
-URL;VALUE=URI:https://www.twitch.tv/connect_en
+URL:https://www.twitch.tv/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T080000Z
+UID:pandascore-match-1724260@esport-ics
+DTSTART:20261007T080000Z
+DTEND:20261007T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:OG vs PURE
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T091500Z
+UID:pandascore-match-1724264@esport-ics
+DTSTART:20261007T091500Z
+DTEND:20261007T100000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:OG vs OW
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T103000Z
+UID:pandascore-match-1724266@esport-ics
+DTSTART:20261007T103000Z
+DTEND:20261007T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:OG vs FAL.F
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T114500Z
+UID:pandascore-match-1724269@esport-ics
+DTSTART:20261007T114500Z
+DTEND:20261007T123000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:OG vs SINQU
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T130000Z
+UID:pandascore-match-1724271@esport-ics
+DTSTART:20261007T130000Z
+DTEND:20261007T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:G2.A vs OG
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

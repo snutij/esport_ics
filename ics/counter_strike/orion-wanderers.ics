@@ -25,4 +25,59 @@ CLASS:PUBLIC
 DESCRIPTION:Esports World Cup - Open Qualifier 2026 - Group 13
 SUMMARY:Elimination match: OW vs PAR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T080000Z
+UID:pandascore-match-1724259@esport-ics
+DTSTART:20261007T080000Z
+DTEND:20261007T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:G2.A vs OW
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T091500Z
+UID:pandascore-match-1724264@esport-ics
+DTSTART:20261007T091500Z
+DTEND:20261007T100000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:OG vs OW
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T103000Z
+UID:pandascore-match-1724267@esport-ics
+DTSTART:20261007T103000Z
+DTEND:20261007T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:PURE vs OW
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T114500Z
+UID:pandascore-match-1724270@esport-ics
+DTSTART:20261007T114500Z
+DTEND:20261007T123000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:FAL.F vs OW
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T130000Z
+UID:pandascore-match-1724273@esport-ics
+DTSTART:20261007T130000Z
+DTEND:20261007T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:SINQU vs OW
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
 END:VCALENDAR

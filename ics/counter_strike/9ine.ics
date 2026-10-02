@@ -584,8 +584,10 @@ UID:pandascore-match-1721224@esport-ics
 DTSTART:20261002T150000Z
 DTEND:20261002T154500Z
 CLASS:PUBLIC
-DESCRIPTION:ROG Journey - Autumn 2026 - Group C
+DESCRIPTION:ROG Journey - Autumn 2026 - Group C\nWatch: https://www.twitch.
+ tv/9inegg
 SUMMARY:JJH vs 9INE
+URL;VALUE=URI:https://www.twitch.tv/9inegg
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261002T160000Z
@@ -593,7 +595,9 @@ UID:pandascore-match-1721228@esport-ics
 DTSTART:20261002T160000Z
 DTEND:20261002T164500Z
 CLASS:PUBLIC
-DESCRIPTION:ROG Journey - Autumn 2026 - Group C
+DESCRIPTION:ROG Journey - Autumn 2026 - Group C\nWatch: https://kick.com/te
+ ameac
 SUMMARY:9INE vs EACE
+URL;VALUE=URI:https://kick.com/teameac
 END:VEVENT
 END:VCALENDAR

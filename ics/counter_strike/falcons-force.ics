@@ -909,7 +909,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.yo
  utube.com/watch?v=TaEcdnNocm0
 SUMMARY:AIMC vs FAL.F
-URL;VALUE=URI:https://www.youtube.com/watch?v=TaEcdnNocm0
+URL:https://www.youtube.com/watch?v=TaEcdnNocm0
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T103000Z
@@ -920,7 +920,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
  itch.tv/foxcs
 SUMMARY:ABT vs FAL.F
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T114500Z
@@ -931,7 +931,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
  itch.tv/foxcs
 SUMMARY:NAVI.J vs FAL.F
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T130000Z
@@ -942,6 +942,61 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
  itch.tv/foxcs
 SUMMARY:FAL.F vs NXT
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T080000Z
+UID:pandascore-match-1724261@esport-ics
+DTSTART:20261007T080000Z
+DTEND:20261007T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:FAL.F vs SINQU
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T091500Z
+UID:pandascore-match-1724262@esport-ics
+DTSTART:20261007T091500Z
+DTEND:20261007T100000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:G2.A vs FAL.F
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T103000Z
+UID:pandascore-match-1724266@esport-ics
+DTSTART:20261007T103000Z
+DTEND:20261007T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:OG vs FAL.F
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T114500Z
+UID:pandascore-match-1724270@esport-ics
+DTSTART:20261007T114500Z
+DTEND:20261007T123000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:FAL.F vs OW
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T130000Z
+UID:pandascore-match-1724272@esport-ics
+DTSTART:20261007T130000Z
+DTEND:20261007T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:PURE vs FAL.F
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

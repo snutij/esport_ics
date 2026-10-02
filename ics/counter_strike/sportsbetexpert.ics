@@ -392,8 +392,10 @@ UID:pandascore-match-1721209@esport-ics
 DTSTART:20261002T150000Z
 DTEND:20261002T154500Z
 CLASS:PUBLIC
-DESCRIPTION:ROG Journey - Autumn 2026 - Group B
+DESCRIPTION:ROG Journey - Autumn 2026 - Group B\nWatch: https://www.twitch.
+ tv/nipgaming
 SUMMARY:NIP vs SportsBetExpert
+URL;VALUE=URI:https://www.twitch.tv/nipgaming
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261002T160000Z

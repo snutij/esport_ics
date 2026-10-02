@@ -371,7 +371,9 @@ UID:pandascore-match-1702829@esport-ics
 DTSTART:20261002T180000Z
 DTEND:20261002T201500Z
 CLASS:PUBLIC
-DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage
+DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage\nWatch: https://www.tw
+ itch.tv/nervarien
 SUMMARY:Round 7: BOOM vs BAR
+URL;VALUE=URI:https://www.twitch.tv/nervarien
 END:VEVENT
 END:VCALENDAR

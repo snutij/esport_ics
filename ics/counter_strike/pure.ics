@@ -512,6 +512,61 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Play-Ins\nWatch: https://www.t
  witch.tv/foxcs
 SUMMARY:PURE vs Nice Try
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T080000Z
+UID:pandascore-match-1724260@esport-ics
+DTSTART:20261007T080000Z
+DTEND:20261007T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:OG vs PURE
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T091500Z
+UID:pandascore-match-1724263@esport-ics
+DTSTART:20261007T091500Z
+DTEND:20261007T100000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:PURE vs SINQU
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T103000Z
+UID:pandascore-match-1724267@esport-ics
+DTSTART:20261007T103000Z
+DTEND:20261007T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:PURE vs OW
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T114500Z
+UID:pandascore-match-1724268@esport-ics
+DTSTART:20261007T114500Z
+DTEND:20261007T123000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:G2.A vs PURE
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T130000Z
+UID:pandascore-match-1724272@esport-ics
+DTSTART:20261007T130000Z
+DTEND:20261007T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:PURE vs FAL.F
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

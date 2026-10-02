@@ -783,6 +783,61 @@ CLASS:PUBLIC
 DESCRIPTION:Leon.bet Masters - Season 1 2026 - Playoffs\nWatch: https://www
  .twitch.tv/leonbet_en
 SUMMARY:Semifinal 2: RBLS vs SAW
-URL;VALUE=URI:https://www.twitch.tv/leonbet_en
+URL:https://www.twitch.tv/leonbet_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T150000Z
+UID:pandascore-match-1724281@esport-ics
+DTSTART:20261007T150000Z
+DTEND:20261007T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
+ ck.com/roman
+SUMMARY:RBLS vs LC
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T161500Z
+UID:pandascore-match-1724283@esport-ics
+DTSTART:20261007T161500Z
+DTEND:20261007T170000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
+ ck.com/roman
+SUMMARY:RBLS vs NAVI.J
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T173000Z
+UID:pandascore-match-1724286@esport-ics
+DTSTART:20261007T173000Z
+DTEND:20261007T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
+ ck.com/roman
+SUMMARY:SNG vs RBLS
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T184500Z
+UID:pandascore-match-1724289@esport-ics
+DTSTART:20261007T184500Z
+DTEND:20261007T193000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
+ ck.com/roman
+SUMMARY:RBLS vs FCF
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T200000Z
+UID:pandascore-match-1724291@esport-ics
+DTSTART:20261007T200000Z
+DTEND:20261007T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
+ ck.com/roman
+SUMMARY:SAW vs RBLS
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

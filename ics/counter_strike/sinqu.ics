@@ -536,6 +536,61 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
  itch.tv/sinquesports
 SUMMARY:LC vs SINQU
-URL;VALUE=URI:https://www.twitch.tv/sinquesports
+URL:https://www.twitch.tv/sinquesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T080000Z
+UID:pandascore-match-1724261@esport-ics
+DTSTART:20261007T080000Z
+DTEND:20261007T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:FAL.F vs SINQU
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T091500Z
+UID:pandascore-match-1724263@esport-ics
+DTSTART:20261007T091500Z
+DTEND:20261007T100000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:PURE vs SINQU
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T103000Z
+UID:pandascore-match-1724265@esport-ics
+DTSTART:20261007T103000Z
+DTEND:20261007T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:G2.A vs SINQU
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T114500Z
+UID:pandascore-match-1724269@esport-ics
+DTSTART:20261007T114500Z
+DTEND:20261007T123000Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:OG vs SINQU
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T130000Z
+UID:pandascore-match-1724273@esport-ics
+DTSTART:20261007T130000Z
+DTEND:20261007T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
+ ck.com/roman
+SUMMARY:SINQU vs OW
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

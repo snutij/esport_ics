@@ -292,7 +292,9 @@ UID:pandascore-match-1702828@esport-ics
 DTSTART:20261002T180000Z
 DTEND:20261002T201500Z
 CLASS:PUBLIC
-DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage
+DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage\nWatch: https://www.tw
+ itch.tv/helleniclegends
 SUMMARY:Round 7: VLR vs MGZ
+URL;VALUE=URI:https://www.twitch.tv/helleniclegends
 END:VEVENT
 END:VCALENDAR

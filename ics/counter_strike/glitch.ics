@@ -71,8 +71,10 @@ UID:pandascore-match-1721246@esport-ics
 DTSTART:20261002T150000Z
 DTEND:20261002T154500Z
 CLASS:PUBLIC
-DESCRIPTION:ROG Journey - Autumn 2026 - Group D
+DESCRIPTION:ROG Journey - Autumn 2026 - Group D\nWatch: https://www.twitch.
+ tv/prestigeesportscs
 SUMMARY:PRE vs GLT
+URL;VALUE=URI:https://www.twitch.tv/prestigeesportscs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261002T160000Z
@@ -80,7 +82,9 @@ UID:pandascore-match-1721249@esport-ics
 DTSTART:20261002T160000Z
 DTEND:20261002T164500Z
 CLASS:PUBLIC
-DESCRIPTION:ROG Journey - Autumn 2026 - Group D
+DESCRIPTION:ROG Journey - Autumn 2026 - Group D\nWatch: https://www.twitch.
+ tv/basementboys_cs
 SUMMARY:BMB vs GLT
+URL;VALUE=URI:https://www.twitch.tv/basementboys_cs
 END:VEVENT
 END:VCALENDAR
