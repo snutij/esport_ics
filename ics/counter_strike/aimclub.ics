@@ -722,7 +722,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
  itch.tv/foxcs
 SUMMARY:AIMC vs ABT
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T091500Z
@@ -733,7 +733,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.yo
  utube.com/watch?v=TaEcdnNocm0
 SUMMARY:AIMC vs FAL.F
-URL;VALUE=URI:https://www.youtube.com/watch?v=TaEcdnNocm0
+URL:https://www.youtube.com/watch?v=TaEcdnNocm0
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T103000Z
@@ -744,7 +744,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
  itch.tv/foxcs
 SUMMARY:NXT vs AIMC
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T114500Z
@@ -755,7 +755,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
  itch.tv/foxcs
 SUMMARY:PURE vs AIMC
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T130000Z
@@ -766,6 +766,17 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
  itch.tv/foxcs
 SUMMARY:NAVI.J vs AIMC
+URL:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T133000Z
+UID:pandascore-match-1720407@esport-ics
+DTSTART:20261002T133000Z
+DTEND:20261002T154500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/foxcs
+SUMMARY:Upper Bracket Quarterfinal 2: UNiTY vs AIMC
 URL;VALUE=URI:https://www.twitch.tv/foxcs
 END:VEVENT
 END:VCALENDAR
