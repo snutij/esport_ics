@@ -665,6 +665,17 @@ SUMMARY:Upper Bracket Quarterfinal 3: EAC vs LC
 URL:https://www.twitch.tv/foxcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261003T133000Z
+UID:pandascore-match-1720411@esport-ics
+DTSTART:20261003T133000Z
+DTEND:20261003T154500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/foxcs
+SUMMARY:Upper Bracket Semifinal 2: LC vs Nice Try
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T150000Z
 UID:pandascore-match-1724281@esport-ics
 DTSTART:20261007T150000Z

@@ -389,7 +389,7 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group D\nWatch: https://www.twitch.
  tv/aunkere
 SUMMARY:BCG vs BMB
-URL;VALUE=URI:https://www.twitch.tv/aunkere
+URL:https://www.twitch.tv/aunkere
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261002T160000Z
@@ -400,6 +400,15 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group D\nWatch: https://www.twitch.
  tv/journey_cs2
 SUMMARY:BCG vs SASHI
-URL;VALUE=URI:https://www.twitch.tv/journey_cs2
+URL:https://www.twitch.tv/journey_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T090000Z
+UID:pandascore-match-1721255@esport-ics
+DTSTART:20261003T090000Z
+DTEND:20261003T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Autumn 2026 - Playoffs
+SUMMARY:Quarterfinal 2: TBD vs BCG
 END:VEVENT
 END:VCALENDAR

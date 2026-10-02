@@ -374,6 +374,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage\nWatch: https://www.tw
  itch.tv/nervarien
 SUMMARY:Round 7: BOOM vs BAR
-URL;VALUE=URI:https://www.twitch.tv/nervarien
+URL:https://www.twitch.tv/nervarien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261004T160000Z
+UID:pandascore-match-1698592@esport-ics
+DTSTART:20261004T160000Z
+DTEND:20261004T194500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Summer 2026 - Knockout Stage\nWatch: https://www
+ .twitch.tv/emeamasters
+SUMMARY:SLY vs BAR
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

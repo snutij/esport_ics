@@ -870,7 +870,7 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group A\nWatch: https://www.twitch.
  tv/tizian_cs
 SUMMARY:SIN vs NPG
-URL;VALUE=URI:https://www.twitch.tv/tizian_cs
+URL:https://www.twitch.tv/tizian_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261002T160000Z
@@ -881,7 +881,16 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group A\nWatch: https://www.twitch.
  tv/endiezcasts
 SUMMARY:100T vs SIN
-URL;VALUE=URI:https://www.twitch.tv/endiezcasts
+URL:https://www.twitch.tv/endiezcasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T090000Z
+UID:pandascore-match-1721254@esport-ics
+DTSTART:20261003T090000Z
+DTEND:20261003T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Autumn 2026 - Playoffs
+SUMMARY:Quarterfinal 1: TBD vs SIN
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261008T120000Z

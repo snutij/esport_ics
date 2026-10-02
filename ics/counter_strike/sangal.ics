@@ -605,7 +605,16 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group B\nWatch: https://www.twitch.
  tv/titaanitv
 SUMMARY:HAVU vs SNG
-URL;VALUE=URI:https://www.twitch.tv/titaanitv
+URL:https://www.twitch.tv/titaanitv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T090000Z
+UID:pandascore-match-1721257@esport-ics
+DTSTART:20261003T090000Z
+DTEND:20261003T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Autumn 2026 - Playoffs
+SUMMARY:Quarterfinal 4: TBD vs SNG
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T150000Z

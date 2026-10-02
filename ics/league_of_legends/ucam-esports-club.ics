@@ -419,6 +419,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage\nWatch: https://www.tw
  itch.tv/hitpointcz
 SUMMARY:Round 7: NBS vs UCAM
-URL;VALUE=URI:https://www.twitch.tv/hitpointcz
+URL:https://www.twitch.tv/hitpointcz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261004T160000Z
+UID:pandascore-match-1698593@esport-ics
+DTSTART:20261004T160000Z
+DTEND:20261004T194500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Summer 2026 - Knockout Stage\nWatch: https://www
+ .twitch.tv/emeamasters
+SUMMARY:MKF vs UCAM
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

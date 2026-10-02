@@ -1135,6 +1135,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 6 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs3
 SUMMARY:Round of 16 Match 6: BHE vs MEIA NOITE
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T220000Z
+UID:pandascore-match-1702628@esport-ics
+DTSTART:20261003T220000Z
+DTEND:20261004T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 6 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs3
+SUMMARY:Quarterfinal 4: MIRA vs BHE
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

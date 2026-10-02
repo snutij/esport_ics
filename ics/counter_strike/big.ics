@@ -717,6 +717,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 4 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Upper Bracket Semifinal 2: LG vs BIG
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T100000Z
+UID:pandascore-match-1682125@esport-ics
+DTSTART:20261003T100000Z
+DTEND:20261003T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 4 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Lower Bracket Quarterfinal 1: AST vs BIG
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
