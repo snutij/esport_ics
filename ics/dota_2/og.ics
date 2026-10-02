@@ -630,6 +630,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Group C\nWatch: https://www.twitch
  .tv/BLASTDotaB
 SUMMARY:Decider Match: OG vs BB
-URL;VALUE=URI:https://www.twitch.tv/BLASTDotaB
+URL:https://www.twitch.tv/BLASTDotaB
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T160000Z
+UID:pandascore-match-1709116@esport-ics
+DTSTART:20261003T160000Z
+DTEND:20261003T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Last Chance Qualifier\nWatch: http
+ s://www.twitch.tv/BLASTDota
+SUMMARY:Last Chance Match 2: 1WIN vs OG
+URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

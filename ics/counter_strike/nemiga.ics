@@ -1162,6 +1162,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 4 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Upper Bracket Semifinal 1: NEMI vs ALL
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T150000Z
+UID:pandascore-match-1682122@esport-ics
+DTSTART:20261003T150000Z
+DTEND:20261003T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 4 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper Bracket Final: LG vs NEMI
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
