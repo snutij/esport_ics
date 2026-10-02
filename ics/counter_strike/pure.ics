@@ -468,7 +468,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
  itch.tv/foxcs
 SUMMARY:NXT vs PURE
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T103000Z
@@ -479,7 +479,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
  itch.tv/foxcs
 SUMMARY:NAVI.J vs PURE
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T114500Z
@@ -490,7 +490,7 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
  itch.tv/foxcs
 SUMMARY:PURE vs AIMC
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261001T130000Z
@@ -501,6 +501,17 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group A\nWatch: https://www.tw
  itch.tv/foxcs
 SUMMARY:PURE vs ABT
+URL:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T100000Z
+UID:pandascore-match-1720404@esport-ics
+DTSTART:20261002T100000Z
+DTEND:20261002T121500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Play-Ins\nWatch: https://www.t
+ witch.tv/foxcs
+SUMMARY:PURE vs Nice Try
 URL;VALUE=URI:https://www.twitch.tv/foxcs
 END:VEVENT
 END:VCALENDAR

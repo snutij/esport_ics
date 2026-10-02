@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 6 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs3
 SUMMARY:Round of 16 Match 3: ex-Keyd Stars vs ALKA
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T160000Z
+UID:pandascore-match-1702626@esport-ics
+DTSTART:20261003T160000Z
+DTEND:20261003T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 6 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs3
+SUMMARY:Quarterfinal 2: ex-Keyd Stars vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

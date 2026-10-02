@@ -178,6 +178,17 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Group B\nWatch: https://www.tw
  itch.tv/streamcast_cs
 SUMMARY:Nice Try vs FCF
-URL;VALUE=URI:https://www.twitch.tv/streamcast_cs
+URL:https://www.twitch.tv/streamcast_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T100000Z
+UID:pandascore-match-1720404@esport-ics
+DTSTART:20261002T100000Z
+DTEND:20261002T121500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Play-Ins\nWatch: https://www.t
+ witch.tv/foxcs
+SUMMARY:PURE vs Nice Try
+URL;VALUE=URI:https://www.twitch.tv/foxcs
 END:VEVENT
 END:VCALENDAR
