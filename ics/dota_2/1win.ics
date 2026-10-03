@@ -686,6 +686,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Last Chance Qualifier\nWatch: http
  s://www.twitch.tv/BLASTDotaB
 SUMMARY:Last Chance Match 2: 1WIN vs OG
-URL;VALUE=URI:https://www.twitch.tv/BLASTDotaB
+URL:https://www.twitch.tv/BLASTDotaB
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T123000Z
+UID:pandascore-match-1709123@esport-ics
+DTSTART:20261008T123000Z
+DTEND:20261008T144500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/BLASTDota
+SUMMARY:Upper Bracket Quarterfinal 2: AUR vs 1WIN
+URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

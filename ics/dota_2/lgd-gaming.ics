@@ -595,6 +595,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Last Chance Qualifier\nWatch: http
  s://www.twitch.tv/BLASTDota
 SUMMARY:Last Chance Match 1: LGD vs GL
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T090000Z
+UID:pandascore-match-1709122@esport-ics
+DTSTART:20261008T090000Z
+DTEND:20261008T111500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/BLASTDota
+SUMMARY:Upper Bracket Quarterfinal 1: TBD vs LGD
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

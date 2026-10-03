@@ -1308,6 +1308,17 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Playoffs\nWatch: https://www.t
  witch.tv/foxcs
 SUMMARY:Upper Bracket Semifinal 1: UNiTY vs INF
+URL:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261004T100000Z
+UID:pandascore-match-1720412@esport-ics
+DTSTART:20261004T100000Z
+DTEND:20261004T121500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/foxcs
+SUMMARY:Upper Bracket Final: UNiTY vs Nice Try
 URL;VALUE=URI:https://www.twitch.tv/foxcs
 END:VEVENT
 END:VCALENDAR
