@@ -289,6 +289,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 3 2026 - Group Stage\nWatch: https://live.bil
  ibili.com/23612045
 SUMMARY:Round 1: AG vs HUN
+URL:https://live.bilibili.com/23612045
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261004T130000Z
+UID:pandascore-match-1721584@esport-ics
+DTSTART:20261004T130000Z
+DTEND:20261004T151500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 3 2026 - Group Stage\nWatch: https://live.bil
+ ibili.com/23612045
+SUMMARY:Round 2: JDG vs AG
 URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR

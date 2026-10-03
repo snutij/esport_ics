@@ -997,6 +997,17 @@ SUMMARY:MSC vs STA
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261006T170000Z
+UID:pandascore-match-1688005@esport-ics
+DTSTART:20261006T170000Z
+DTEND:20261006T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:MASQ vs MSC
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261019T160000Z
 UID:pandascore-match-1687990@esport-ics
 DTSTART:20261019T160000Z
@@ -1049,17 +1060,6 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:MSC vs st0ny
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261026T210000Z
-UID:pandascore-match-1688005@esport-ics
-DTSTART:20261026T210000Z
-DTEND:20261026T214500Z
-CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
- ://www.twitch.tv/dust2tv
-SUMMARY:MASQ vs MSC
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT

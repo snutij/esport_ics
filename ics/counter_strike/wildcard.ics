@@ -627,6 +627,17 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Playoffs\nWatch: https://www.t
  witch.tv/foxcs
 SUMMARY:Lower Bracket Round 1 Match 2: EAC vs WC
+URL:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T163000Z
+UID:pandascore-match-1720416@esport-ics
+DTSTART:20261003T163000Z
+DTEND:20261003T184500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/foxcs
+SUMMARY:Lower Bracket Quarterfinal 2: WC vs TBD
 URL;VALUE=URI:https://www.twitch.tv/foxcs
 END:VEVENT
 END:VCALENDAR

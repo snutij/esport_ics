@@ -500,6 +500,17 @@ CLASS:PUBLIC
 DESCRIPTION:Demacia Cup Global Invitational - 2026 - Group Stage\nWatch: ht
  tps://live.bilibili.com/7734200
 SUMMARY:Round 1: GAM vs WE
-URL;VALUE=URI:https://live.bilibili.com/7734200
+URL:https://live.bilibili.com/7734200
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261004T090000Z
+UID:pandascore-match-1694356@esport-ics
+DTSTART:20261004T090000Z
+DTEND:20261004T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Demacia Cup Global Invitational - 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:Round 2: WE vs BRO
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR
