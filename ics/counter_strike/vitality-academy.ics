@@ -234,6 +234,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 56 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Winners Match: PCIFIC vs VIT.A
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T103000Z
+UID:pandascore-match-1712158@esport-ics
+DTSTART:20261005T103000Z
+DTEND:20261005T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 56 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider Match: VIT.A vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

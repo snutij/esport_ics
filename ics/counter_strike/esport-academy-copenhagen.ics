@@ -641,7 +641,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #10 2026 - Group Stage\nWatch: https://kick
  .com/cct_cs2
 SUMMARY:Round 3: EAC vs Noir Verse
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261003T100000Z
@@ -652,6 +652,17 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Playoffs\nWatch: https://www.t
  witch.tv/foxcs
 SUMMARY:Lower Bracket Round 1 Match 2: EAC vs WC
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T133000Z
+UID:pandascore-match-1724295@esport-ics
+DTSTART:20261008T133000Z
+DTEND:20261008T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Playoffs\nWatch: https://k
+ ick.com/roman
+SUMMARY:Upper Bracket Quarterfinal  2: EAC vs TBD
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

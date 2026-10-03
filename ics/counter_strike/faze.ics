@@ -573,6 +573,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 4 2026 - Playoffs\nWatch: https://kick.c
  om/watchfultv
 SUMMARY:Lower Round 1 Match 1: FaZe vs AST
-URL;VALUE=URI:https://kick.com/watchfultv
+URL:https://kick.com/watchfultv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T133000Z
+UID:pandascore-match-1724294@esport-ics
+DTSTART:20261008T133000Z
+DTEND:20261008T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Playoffs\nWatch: https://k
+ ick.com/roman
+SUMMARY:Upper Bracket Quarterfinal 1: FaZe vs TBD
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR
