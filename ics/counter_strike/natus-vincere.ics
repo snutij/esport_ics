@@ -526,6 +526,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/ESLCS
 SUMMARY:Round 1: G2 vs NAVI
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261004T163000Z
+UID:pandascore-match-1711382@esport-ics
+DTSTART:20261004T163000Z
+DTEND:20261004T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/ESLCS
+SUMMARY:Round 2: VIT vs NAVI
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

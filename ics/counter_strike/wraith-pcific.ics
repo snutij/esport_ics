@@ -582,6 +582,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 56 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Winners Match: PCIFIC vs VIT.A
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T170000Z
+UID:pandascore-match-1700501@esport-ics
+DTSTART:20261005T170000Z
+DTEND:20261005T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #10 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 4: Black Phoenix vs PCIFIC
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

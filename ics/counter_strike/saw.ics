@@ -638,6 +638,17 @@ SUMMARY:Lower Bracket Quarterfinal 1: SAW vs TBD
 URL:https://www.twitch.tv/foxcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261004T100000Z
+UID:pandascore-match-1720417@esport-ics
+DTSTART:20261004T100000Z
+DTEND:20261004T121500Z
+CLASS:PUBLIC
+DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/foxcs
+SUMMARY:Lower Bracket Semifinal: INF vs SAW
+URL;VALUE=URI:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261007T150000Z
 UID:pandascore-match-1724279@esport-ics
 DTSTART:20261007T150000Z

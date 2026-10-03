@@ -732,6 +732,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/ESLCS
 SUMMARY:Round 1: FAL vs TYLOO
-URL;VALUE=URI:https://www.twitch.tv/ESLCS
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261004T113000Z
+UID:pandascore-match-1711379@esport-ics
+DTSTART:20261004T113000Z
+DTEND:20261004T134500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/ESLCSb
+SUMMARY:Round 2: 9z vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/ESLCSb
 END:VEVENT
 END:VCALENDAR
