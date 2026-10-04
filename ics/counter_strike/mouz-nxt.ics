@@ -1047,4 +1047,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group B\nWatch:
 SUMMARY:Gothic vs MOUZ.N
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T103000Z
+UID:pandascore-match-1728286@esport-ics
+DTSTART:20261008T103000Z
+DTEND:20261008T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Group B\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Winners' Match: RGG vs MOUZ.N
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 6 2026 - Group A\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Elimination match: 3DMAX.A vs B8.A
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T103000Z
+UID:pandascore-match-1728299@esport-ics
+DTSTART:20261006T103000Z
+DTEND:20261006T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Group D\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:3DMAX.A vs VP.F3
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

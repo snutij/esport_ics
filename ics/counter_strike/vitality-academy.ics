@@ -238,13 +238,24 @@ URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261005T103000Z
+UID:pandascore-match-1728294@esport-ics
+DTSTART:20261005T103000Z
+DTEND:20261005T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:VIT.A vs G1
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T103000Z
 UID:pandascore-match-1712158@esport-ics
 DTSTART:20261005T103000Z
 DTEND:20261005T124500Z
 CLASS:PUBLIC
 DESCRIPTION:United21 - Season 56 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
-SUMMARY:Decider Match: VIT.A vs STA
+SUMMARY:Decider Match: STA vs VIT.A
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

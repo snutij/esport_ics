@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sökerorg
+SLUG:sokerorg
+BEGIN:VEVENT
+DTSTAMP:20261008T080000Z
+UID:pandascore-match-1728285@esport-ics
+DTSTART:20261008T080000Z
+DTEND:20261008T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Group B\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Elimination Match: SKR vs SINQU Rehti
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+END:VCALENDAR

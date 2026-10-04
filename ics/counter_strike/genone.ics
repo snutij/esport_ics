@@ -1378,6 +1378,17 @@ CLASS:PUBLIC
 DESCRIPTION:Leon.bet Masters - Season 1 2026 - Playoffs\nWatch: https://www
  .twitch.tv/leonbet_en2
 SUMMARY:Quarterfinal 1: G1 vs INF
-URL;VALUE=URI:https://www.twitch.tv/leonbet_en2
+URL:https://www.twitch.tv/leonbet_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T103000Z
+UID:pandascore-match-1728294@esport-ics
+DTSTART:20261005T103000Z
+DTEND:20261005T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:VIT.A vs G1
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

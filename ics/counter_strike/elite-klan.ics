@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 56 2026 - Group D\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Elimination Match: STA vs EK
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T080000Z
+UID:pandascore-match-1728293@esport-ics
+DTSTART:20261005T080000Z
+DTEND:20261005T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:EK vs CTRL
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
