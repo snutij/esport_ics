@@ -234,6 +234,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Grand Final: Team Synapse vs YeS
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T080000Z
+UID:pandascore-match-1727834@esport-ics
+DTSTART:20261005T080000Z
+DTEND:20261005T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - Closed Qualifier 2026 - Playoffs\nWatch: https:
+ //kick.com/fissure_dota_en
+SUMMARY:Upper Bracket Quarterfinal 1: Team Synapse vs HULIGANI
+URL;VALUE=URI:https://kick.com/fissure_dota_en
 END:VEVENT
 END:VCALENDAR

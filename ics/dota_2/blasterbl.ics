@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Blasterbl
+SLUG:blasterbl
+BEGIN:VEVENT
+DTSTAMP:20261005T140000Z
+UID:pandascore-match-1727836@esport-ics
+DTSTART:20261005T140000Z
+DTEND:20261005T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - Closed Qualifier 2026 - Playoffs\nWatch: https:
+ //kick.com/fissure_dota_en
+SUMMARY:Upper Bracket Quarterfinal 3: LEGION vs BBL
+URL;VALUE=URI:https://kick.com/fissure_dota_en
+END:VEVENT
+END:VCALENDAR
