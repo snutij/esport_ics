@@ -443,6 +443,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Champions 2026 - Group C\nWatch: https://www.twitch.tv/va
  lorant
 SUMMARY:Decider Match: G2 vs TL
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T090000Z
+UID:pandascore-match-1685238@esport-ics
+DTSTART:20261008T090000Z
+DTEND:20261008T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Champions 2026 - Playoffs\nWatch: https://www.twitch.tv/v
+ alorant
+SUMMARY:Upper Bracket Quarterfinal 1: 100T vs G2
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

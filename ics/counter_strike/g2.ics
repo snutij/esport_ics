@@ -790,6 +790,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/ESLCSb
 SUMMARY:Round 2: G2 vs 1WIN
+URL:https://www.twitch.tv/ESLCSb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T090000Z
+UID:pandascore-match-1711385@esport-ics
+DTSTART:20261005T090000Z
+DTEND:20261005T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/ESLCSb
+SUMMARY:Round 3: SHIN vs G2
 URL;VALUE=URI:https://www.twitch.tv/ESLCSb
 END:VEVENT
 END:VCALENDAR

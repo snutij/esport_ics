@@ -178,6 +178,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Summer 2026 - Swiss Stage\nWatch: https://www.tw
  itch.tv/helleniclegends
 SUMMARY:Round 7: VLR vs MGZ
-URL;VALUE=URI:https://www.twitch.tv/helleniclegends
+URL:https://www.twitch.tv/helleniclegends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T160000Z
+UID:pandascore-match-1698595@esport-ics
+DTSTART:20261006T160000Z
+DTEND:20261006T194500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Summer 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/emeamasters
+SUMMARY:Round of 16 Match 1: SLY vs VLR
+URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

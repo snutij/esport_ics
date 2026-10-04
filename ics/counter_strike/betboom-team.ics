@@ -689,6 +689,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/ESLCSb
 SUMMARY:Round 2: BB vs M80
+URL:https://www.twitch.tv/ESLCSb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T163000Z
+UID:pandascore-match-1711436@esport-ics
+DTSTART:20261005T163000Z
+DTEND:20261005T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
+ ww.twitch.tv/ESLCSb
+SUMMARY:Round 3: AUR vs BB
 URL;VALUE=URI:https://www.twitch.tv/ESLCSb
 END:VEVENT
 END:VCALENDAR

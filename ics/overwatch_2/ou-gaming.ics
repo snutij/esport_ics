@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 3 2026 - Group Stage\nWatch: https://live.bil
  ibili.com/23612045
 SUMMARY:Round 2: OUG vs SSE
+URL:https://live.bilibili.com/23612045
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T070000Z
+UID:pandascore-match-1721585@esport-ics
+DTSTART:20261010T070000Z
+DTEND:20261010T091500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 3 2026 - Group Stage\nWatch: https://live.bil
+ ibili.com/23612045
+SUMMARY:Round 3: AG vs OUG
 URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR
