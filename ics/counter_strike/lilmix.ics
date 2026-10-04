@@ -903,6 +903,17 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group A\nWatch: https://www.twitch.
  tv/tizian_cs
 SUMMARY:NPG vs LILMIX
-URL;VALUE=URI:https://www.twitch.tv/tizian_cs
+URL:https://www.twitch.tv/tizian_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T170000Z
+UID:pandascore-match-1727602@esport-ics
+DTSTART:20261008T170000Z
+DTEND:20261008T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group C\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Opening Match 2: LILMIX vs FF
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

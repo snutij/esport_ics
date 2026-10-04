@@ -420,6 +420,16 @@ DTEND:20261003T234500Z
 CLASS:PUBLIC
 DESCRIPTION:LCS - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/lcs
 SUMMARY:Lower bracket final: C9 vs LY
+URL:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261004T200000Z
+UID:pandascore-match-1662466@esport-ics
+DTSTART:20261004T200000Z
+DTEND:20261004T234500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Summer 2026 - Playoffs\nWatch: https://www.twitch.tv/lcs
+SUMMARY:Grand final: TL vs LY
 URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR

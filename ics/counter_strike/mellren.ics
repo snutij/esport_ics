@@ -515,4 +515,15 @@ DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
 SUMMARY:Lower Bracket Final: mellren vs TS.A
 URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261005T140000Z
+UID:pandascore-match-1727513@esport-ics
+DTSTART:20261005T140000Z
+DTEND:20261005T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group B\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Opening Match 1: mellren vs LPH
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

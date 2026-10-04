@@ -186,6 +186,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Play-In\nWatch: htt
  ps://www.twitch.tv/monsternotebook
 SUMMARY:Semifinal 2: EF vs PCFIC
+URL:https://www.twitch.tv/monsternotebook
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T190000Z
+UID:pandascore-match-1716574@esport-ics
+DTSTART:20261008T190000Z
+DTEND:20261008T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/monsternotebook
+SUMMARY:Upper Bracket Semifinal 2: BBL vs PCFIC
 URL;VALUE=URI:https://www.twitch.tv/monsternotebook
 END:VEVENT
 END:VCALENDAR

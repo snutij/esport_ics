@@ -275,6 +275,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #7 season 52 2026 - Group A\
  nWatch: https://www.twitch.tv/iamfusiion
 SUMMARY:Decider match: MISA vs 6666
-URL;VALUE=URI:https://www.twitch.tv/iamfusiion
+URL:https://www.twitch.tv/iamfusiion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T110000Z
+UID:pandascore-match-1727703@esport-ics
+DTSTART:20261008T110000Z
+DTEND:20261008T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group D\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Opening Match 1: ENJOY vs 6666
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
