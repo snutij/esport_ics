@@ -377,6 +377,15 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Stage 2 2026 - Group Stage\nWatch: https://www.twit
  ch.tv/rainbow6
 SUMMARY:OC vs EDG
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T070000Z
+UID:pandascore-match-1664626@esport-ics
+DTSTART:20261010T070000Z
+DTEND:20261010T091500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 2 2026 - Playoffs
+SUMMARY:Upper bracket semifinal 1: EDG vs TBD
 END:VEVENT
 END:VCALENDAR
