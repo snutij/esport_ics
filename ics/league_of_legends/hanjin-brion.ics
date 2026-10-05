@@ -433,6 +433,17 @@ CLASS:PUBLIC
 DESCRIPTION:Demacia Cup Global Invitational - 2026 - Group Stage\nWatch: ht
  tps://www.twitch.tv/riotgames
 SUMMARY:Round 2: WE vs BRO
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T070000Z
+UID:pandascore-match-1694361@esport-ics
+DTSTART:20261006T070000Z
+DTEND:20261006T091500Z
+CLASS:PUBLIC
+DESCRIPTION:Demacia Cup Global Invitational - 2026 - Group Stage\nWatch: ht
+ tps://www.twitch.tv/riotgames
+SUMMARY:Round 3: BRO vs Navi
 URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

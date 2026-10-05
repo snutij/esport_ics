@@ -915,6 +915,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group A\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:JustP vs maybe
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T080000Z
+UID:pandascore-match-1727452@esport-ics
+DTSTART:20261006T080000Z
+DTEND:20261006T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group A\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Winners' Match: JustP vs Morrow Esports
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

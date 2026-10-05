@@ -1243,6 +1243,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group B\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:mellren vs LPH
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T170000Z
+UID:pandascore-match-1727558@esport-ics
+DTSTART:20261006T170000Z
+DTEND:20261006T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group B\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Elimination Match: LPH vs TBD
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
