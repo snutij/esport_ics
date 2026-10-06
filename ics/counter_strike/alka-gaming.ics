@@ -896,6 +896,16 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 6 2026 - Playoffs\nWatch: https://ki
  ck.com/cct_cs3
 SUMMARY:Round of 16 Match 3: ex-Keyd Stars vs ALKA
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T210000Z
+UID:pandascore-match-1731021@esport-ics
+DTSTART:20261007T210000Z
+DTEND:20261007T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Round 1 Match 6: BST.A vs ALKA
 END:VEVENT
 END:VCALENDAR

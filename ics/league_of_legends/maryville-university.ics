@@ -256,6 +256,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCS - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/l
  cs
 SUMMARY:Upper bracket round 1: MVU vs Z5
+URL:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T210000Z
+UID:pandascore-match-1691708@esport-ics
+DTSTART:20261007T210000Z
+DTEND:20261008T004500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/l
+ cs
+SUMMARY:Upper bracket semifinal 2: DSG vs MVU
 URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR

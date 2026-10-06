@@ -419,6 +419,17 @@ CLASS:PUBLIC
 DESCRIPTION:Europe MENA League - Stage 2 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/rainbow6
 SUMMARY:Upper bracket semifinal 2: G2 vs VP
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T190000Z
+UID:pandascore-match-1660373@esport-ics
+DTSTART:20261006T190000Z
+DTEND:20261006T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 2 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/rainbow6
+SUMMARY:Lower bracket quarterfinal 2: TM vs VP
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

@@ -401,6 +401,16 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - September 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/gamersclubcs
 SUMMARY:Semifinal 1: QUIN vs BORRA
-URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T210000Z
+UID:pandascore-match-1731022@esport-ics
+DTSTART:20261007T210000Z
+DTEND:20261007T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Round 1 Match 7: TdP vs BORRA
 END:VEVENT
 END:VCALENDAR

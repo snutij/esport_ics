@@ -292,6 +292,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #2 season 52 2026 - Pl
  ayoffs\nWatch: https://www.twitch.tv/ngsabyts
 SUMMARY:Lower bracket quarterfinal 1: THE vs KG
-URL;VALUE=URI:https://www.twitch.tv/ngsabyts
+URL:https://www.twitch.tv/ngsabyts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T130000Z
+UID:pandascore-match-1731113@esport-ics
+DTSTART:20261007T130000Z
+DTEND:20261007T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
+ ayoffs
+SUMMARY:Upper Bracket Round 1 Match 5: NAS vs KG
 END:VEVENT
 END:VCALENDAR

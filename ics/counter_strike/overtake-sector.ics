@@ -193,4 +193,14 @@ DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
  layoffs
 SUMMARY:Lower Bracket Quarterfinal 1: OT vs FV
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T010000Z
+UID:pandascore-match-1731077@esport-ics
+DTSTART:20261008T010000Z
+DTEND:20261008T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Round 1 Match 3: ex-Reign Above vs OT
+END:VEVENT
 END:VCALENDAR

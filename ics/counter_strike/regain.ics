@@ -511,6 +511,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/karmaflexxx
 SUMMARY:Lower Bracket Final: REGAIN vs MARS
-URL;VALUE=URI:https://www.twitch.tv/karmaflexxx
+URL:https://www.twitch.tv/karmaflexxx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T010000Z
+UID:pandascore-match-1731078@esport-ics
+DTSTART:20261008T010000Z
+DTEND:20261008T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Round 1 Match 4: REGAIN vs DT
 END:VEVENT
 END:VCALENDAR

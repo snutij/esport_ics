@@ -641,6 +641,15 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 4 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Grand Final: NEMI vs AST
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T100000Z
+UID:pandascore-match-1731151@esport-ics
+DTSTART:20261014T100000Z
+DTEND:20261014T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat III 2026 - Group C
+SUMMARY:Opening Match 1: AST vs SASHI
 END:VEVENT
 END:VCALENDAR

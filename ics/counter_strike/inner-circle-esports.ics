@@ -730,6 +730,15 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Play Connect - 2026 - Playoffs\nWatch: https://kick.
  com/connect_en
 SUMMARY:Semifinal 2: ICE vs 3DMAX
-URL;VALUE=URI:https://kick.com/connect_en
+URL:https://kick.com/connect_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T100000Z
+UID:pandascore-match-1731139@esport-ics
+DTSTART:20261012T100000Z
+DTEND:20261012T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat III 2026 - Group A
+SUMMARY:Opening Match 1: ICE vs SNG
 END:VEVENT
 END:VCALENDAR

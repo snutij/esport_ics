@@ -820,6 +820,15 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Playoffs\nWatch: https://kick.com/r
  og_journey
 SUMMARY:Grand Final: NIP vs TBD
-URL;VALUE=URI:https://kick.com/rog_journey
+URL:https://kick.com/rog_journey
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T100000Z
+UID:pandascore-match-1731140@esport-ics
+DTSTART:20261012T100000Z
+DTEND:20261012T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat III 2026 - Group A
+SUMMARY:Opening Match 2: NIP vs BCA
 END:VEVENT
 END:VCALENDAR

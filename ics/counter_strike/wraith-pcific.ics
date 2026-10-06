@@ -593,6 +593,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #10 2026 - Group Stage\nWatch: https://kick
  .com/cct_cs2
 SUMMARY:Round 4: Black Phoenix vs PCIFIC
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T170000Z
+UID:pandascore-match-1700504@esport-ics
+DTSTART:20261006T170000Z
+DTEND:20261006T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #10 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 5: PCIFIC vs LVKD
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T103000Z
+UID:pandascore-match-1730992@esport-ics
+DTSTART:20261007T103000Z
+DTEND:20261007T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 56 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper Bracket Quarterfinal 4: TheChampionGG vs PCIFIC
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

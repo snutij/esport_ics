@@ -1127,6 +1127,16 @@ CLASS:PUBLIC
 DESCRIPTION:Leon.bet Masters - Season 1 2026 - Playoffs\nWatch: https://kic
  k.com/cosiq
 SUMMARY:Quarterfinal 2: FXW7 vs LDP
-URL;VALUE=URI:https://kick.com/cosiq
+URL:https://kick.com/cosiq
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T210000Z
+UID:pandascore-match-1731023@esport-ics
+DTSTART:20261007T210000Z
+DTEND:20261007T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Round 1 Match 8: MW vs LDP
 END:VEVENT
 END:VCALENDAR

@@ -248,6 +248,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/blakert_cs
 SUMMARY:Lower Bracket Round 3 match 1: IOWA vs FV
-URL;VALUE=URI:https://www.twitch.tv/blakert_cs
+URL:https://www.twitch.tv/blakert_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T010000Z
+UID:pandascore-match-1731079@esport-ics
+DTSTART:20261008T010000Z
+DTEND:20261008T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Round 1 Match 5: WG vs IOWA
 END:VEVENT
 END:VCALENDAR
