@@ -833,6 +833,17 @@ CLASS:PUBLIC
 DESCRIPTION:PARI Universe - Closed Qualifier 2026 - Playoffs\nWatch: https:
  //kick.com/fissure_dota_en
 SUMMARY:Upper Bracket Semifinal 2: LEGION vs MOUZ
+URL:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T120000Z
+UID:pandascore-match-1727844@esport-ics
+DTSTART:20261007T120000Z
+DTEND:20261007T141500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - Closed Qualifier 2026 - Playoffs\nWatch: https:
+ //kick.com/fissure_dota_en
+SUMMARY:Lower Bracket Quarterfinal 1: MOUZ vs CH
 URL;VALUE=URI:https://kick.com/fissure_dota_en
 END:VEVENT
 END:VCALENDAR

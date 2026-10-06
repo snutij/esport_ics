@@ -905,6 +905,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 8 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/MPKBK
 SUMMARY:Quarterfinal 4: NTR vs CS
-URL;VALUE=URI:https://www.twitch.tv/MPKBK
+URL:https://www.twitch.tv/MPKBK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T140000Z
+UID:pandascore-match-1700511@esport-ics
+DTSTART:20261008T140000Z
+DTEND:20261008T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #10 2026 - Playoffs\nWatch: https://kick.co
+ m/cct_cs2
+SUMMARY:Round of 16 match 2: CS vs NXS
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
