@@ -322,4 +322,13 @@ DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group A\nWatch:
 SUMMARY:Decider Match: Morrow Esports vs maybe
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T130000Z
+UID:pandascore-match-1733130@esport-ics
+DTSTART:20261007T130000Z
+DTEND:20261007T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Group D
+SUMMARY:SKR vs maybe
+END:VEVENT
 END:VCALENDAR

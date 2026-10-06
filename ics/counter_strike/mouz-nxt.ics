@@ -1056,7 +1056,16 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group B\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Elimination Match: LPH vs MOUZ.N
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T130000Z
+UID:pandascore-match-1733131@esport-ics
+DTSTART:20261007T130000Z
+DTEND:20261007T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Group D
+SUMMARY:ENCE vs MOUZ.N
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261008T103000Z

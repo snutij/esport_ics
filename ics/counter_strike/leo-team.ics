@@ -1206,6 +1206,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #10 2026 - Group Stage\nWatch: https://kick
  .com/cct_cs2
 SUMMARY:Round 4: Leo vs ex-ZT
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T130000Z
+UID:pandascore-match-1733120@esport-ics
+DTSTART:20261007T130000Z
+DTEND:20261007T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Group C
+SUMMARY:Leo vs Ryvex
 END:VEVENT
 END:VCALENDAR

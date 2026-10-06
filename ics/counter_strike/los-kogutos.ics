@@ -778,6 +778,15 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 11 2026 - Play-In group C\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:G2.A vs LK
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T130000Z
+UID:pandascore-match-1733116@esport-ics
+DTSTART:20261007T130000Z
+DTEND:20261007T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Group B
+SUMMARY:HS vs LK
 END:VEVENT
 END:VCALENDAR

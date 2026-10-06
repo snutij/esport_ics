@@ -366,6 +366,17 @@ CLASS:PUBLIC
 DESCRIPTION:Europe MENA League - Stage 2 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/rainbow6
 SUMMARY:Lower bracket quarterfinal 1: SHFT vs GE
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T190000Z
+UID:pandascore-match-1660374@esport-ics
+DTSTART:20261012T190000Z
+DTEND:20261012T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 2 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/rainbow6
+SUMMARY:Lower bracket semifinal: GE vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

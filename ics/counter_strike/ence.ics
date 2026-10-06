@@ -857,6 +857,15 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #7 2026 - Playoffs\nWatch: https://kick.com/u
  rbancontenders
 SUMMARY:Semifinal 1: TBD vs ENCE
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T130000Z
+UID:pandascore-match-1733131@esport-ics
+DTSTART:20261007T130000Z
+DTEND:20261007T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Group D
+SUMMARY:ENCE vs MOUZ.N
 END:VEVENT
 END:VCALENDAR
