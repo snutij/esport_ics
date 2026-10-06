@@ -649,7 +649,9 @@ UID:pandascore-match-1731151@esport-ics
 DTSTART:20261014T100000Z
 DTEND:20261014T121500Z
 CLASS:PUBLIC
-DESCRIPTION:Stake Pulse - Beat III 2026 - Group C
+DESCRIPTION:Stake Pulse - Beat III 2026 - Group C\nWatch: https://kick.com/
+ stake_pulse
 SUMMARY:Opening Match 1: AST vs SASHI
+URL;VALUE=URI:https://kick.com/stake_pulse
 END:VEVENT
 END:VCALENDAR

@@ -264,7 +264,9 @@ UID:pandascore-match-1731146@esport-ics
 DTSTART:20261013T100000Z
 DTEND:20261013T121500Z
 CLASS:PUBLIC
-DESCRIPTION:Stake Pulse - Beat III 2026 - Group B
+DESCRIPTION:Stake Pulse - Beat III 2026 - Group B\nWatch: https://kick.com/
+ stake_pulse
 SUMMARY:Opening Match 1: TL vs BBL
+URL;VALUE=URI:https://kick.com/stake_pulse
 END:VEVENT
 END:VCALENDAR

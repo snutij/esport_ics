@@ -1330,6 +1330,17 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Playoffs\nWatch: https://www.t
  witch.tv/foxcs
 SUMMARY:Grand Final: UNiTY vs TBD
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T140000Z
+UID:pandascore-match-1732027@esport-ics
+DTSTART:20261009T140000Z
+DTEND:20261009T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Majstrovstvá SR - 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/ygamessk
+SUMMARY:Semifinal 2: VIT.A vs UNiTY
+URL;VALUE=URI:https://www.twitch.tv/ygamessk
 END:VEVENT
 END:VCALENDAR

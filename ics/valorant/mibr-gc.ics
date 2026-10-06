@@ -47,6 +47,28 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Brazil Final Stage 2026 - Playoffs\nWatch: 
  https://www.twitch.tv/valorant_br
 SUMMARY:Lower bracket final: MIBR.F vs EG.GC
-URL;VALUE=URI:https://www.twitch.tv/valorant_br
+URL:https://www.twitch.tv/valorant_br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T210000Z
+UID:pandascore-match-1732018@esport-ics
+DTSTART:20261014T210000Z
+DTEND:20261014T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Americas Last Chance Qualifier 2026 - Group
+  Stage\nWatch: https://www.twitch.tv/valorant_americas
+SUMMARY:FLY.R vs MIBR.F
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T000000Z
+UID:pandascore-match-1732019@esport-ics
+DTSTART:20261015T000000Z
+DTEND:20261015T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Americas Last Chance Qualifier 2026 - Group
+  Stage\nWatch: https://www.twitch.tv/valorant_americas
+SUMMARY:AEB vs MIBR.F
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

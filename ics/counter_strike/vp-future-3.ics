@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 7 2026 - Group D\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:3DMAX.A vs VP.F3
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T103000Z
+UID:pandascore-match-1728301@esport-ics
+DTSTART:20261010T103000Z
+DTEND:20261010T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Group D\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Winners' Match: VP.F3 vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

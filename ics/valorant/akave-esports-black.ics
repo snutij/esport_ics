@@ -135,6 +135,28 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Latin America - Regional Final 2026 - Playo
  ffs\nWatch: https://www.twitch.tv/valorant_la
 SUMMARY:Grand final: AEB vs KRÜ
-URL;VALUE=URI:https://www.twitch.tv/valorant_la
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T180000Z
+UID:pandascore-match-1732017@esport-ics
+DTSTART:20261014T180000Z
+DTEND:20261014T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Americas Last Chance Qualifier 2026 - Group
+  Stage\nWatch: https://www.twitch.tv/valorant_americas
+SUMMARY:FLY.R vs AEB
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T000000Z
+UID:pandascore-match-1732019@esport-ics
+DTSTART:20261015T000000Z
+DTEND:20261015T021500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Americas Last Chance Qualifier 2026 - Group
+  Stage\nWatch: https://www.twitch.tv/valorant_americas
+SUMMARY:AEB vs MIBR.F
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

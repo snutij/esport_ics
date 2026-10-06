@@ -245,6 +245,28 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers North America Stage 2 2026 - Playoffs\nWatc
  h: https://www.twitch.tv/valorant_americas
 SUMMARY:Grand final: SRG vs FLY.R
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T180000Z
+UID:pandascore-match-1732017@esport-ics
+DTSTART:20261014T180000Z
+DTEND:20261014T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Americas Last Chance Qualifier 2026 - Group
+  Stage\nWatch: https://www.twitch.tv/valorant_americas
+SUMMARY:FLY.R vs AEB
+URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T210000Z
+UID:pandascore-match-1732018@esport-ics
+DTSTART:20261014T210000Z
+DTEND:20261014T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Americas Last Chance Qualifier 2026 - Group
+  Stage\nWatch: https://www.twitch.tv/valorant_americas
+SUMMARY:FLY.R vs MIBR.F
 URL;VALUE=URI:https://www.twitch.tv/valorant_americas
 END:VEVENT
 END:VCALENDAR

@@ -624,7 +624,9 @@ UID:pandascore-match-1731156@esport-ics
 DTSTART:20261015T100000Z
 DTEND:20261015T121500Z
 CLASS:PUBLIC
-DESCRIPTION:Stake Pulse - Beat III 2026 - Group D
+DESCRIPTION:Stake Pulse - Beat III 2026 - Group D\nWatch: https://kick.com/
+ stake_pulse
 SUMMARY:Opening Match 1: MIBR vs BCG
+URL;VALUE=URI:https://kick.com/stake_pulse
 END:VEVENT
 END:VCALENDAR

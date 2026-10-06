@@ -828,7 +828,9 @@ UID:pandascore-match-1731140@esport-ics
 DTSTART:20261012T100000Z
 DTEND:20261012T121500Z
 CLASS:PUBLIC
-DESCRIPTION:Stake Pulse - Beat III 2026 - Group A
+DESCRIPTION:Stake Pulse - Beat III 2026 - Group A\nWatch: https://kick.com/
+ stake_pulse
 SUMMARY:Opening Match 2: NIP vs BCA
+URL;VALUE=URI:https://kick.com/stake_pulse
 END:VEVENT
 END:VCALENDAR
