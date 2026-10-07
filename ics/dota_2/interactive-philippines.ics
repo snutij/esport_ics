@@ -704,6 +704,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 18 2026 - Playoffs\nWa
  tch: https://kick.com/epldota_en1
 SUMMARY:Upper Bracket Final: IAC vs XE
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T030000Z
+UID:pandascore-match-1712023@esport-ics
+DTSTART:20261008T030000Z
+DTEND:20261008T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 18 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Lower Bracket Final: IAC vs TBD
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

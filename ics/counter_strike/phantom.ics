@@ -1103,7 +1103,9 @@ UID:pandascore-match-1720931@esport-ics
 DTSTART:20261007T150000Z
 DTEND:20261007T171500Z
 CLASS:PUBLIC
-DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs
+DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs\nWatch
+ : https://w.tv/1win_cs
 SUMMARY:Round of 16 Match 3: FNC vs PHA
+URL;VALUE=URI:https://w.tv/1win_cs
 END:VEVENT
 END:VCALENDAR

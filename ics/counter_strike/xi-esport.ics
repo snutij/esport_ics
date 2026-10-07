@@ -989,7 +989,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 56 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper Bracket Quarterfinal 3: XI vs PSN.A
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T180000Z
@@ -1001,6 +1001,17 @@ DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:st0ny vs XI
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T103000Z
+UID:pandascore-match-1730994@esport-ics
+DTSTART:20261009T103000Z
+DTEND:20261009T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 56 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper Bracket Semifinal 2: XI vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261019T160000Z

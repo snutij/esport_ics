@@ -73,7 +73,9 @@ UID:pandascore-match-1733120@esport-ics
 DTSTART:20261007T130000Z
 DTEND:20261007T151500Z
 CLASS:PUBLIC
-DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Group C
+DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Group C\
+ nWatch: https://www.twitch.tv/leoteam_cs2
 SUMMARY:Leo vs Ryvex
+URL;VALUE=URI:https://www.twitch.tv/leoteam_cs2
 END:VEVENT
 END:VCALENDAR

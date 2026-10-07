@@ -1376,7 +1376,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
  ck.com/roman
 SUMMARY:G2.A vs OW
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T091500Z
@@ -1387,7 +1387,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
  ck.com/roman
 SUMMARY:G2.A vs FAL.F
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T103000Z
@@ -1398,7 +1398,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
  ck.com/roman
 SUMMARY:G2.A vs SINQU
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T114500Z
@@ -1406,10 +1406,10 @@ UID:pandascore-match-1724268@esport-ics
 DTSTART:20261007T114500Z
 DTEND:20261007T123000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
- ck.com/roman
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/roman
 SUMMARY:G2.A vs PURE
-URL;VALUE=URI:https://kick.com/roman
+URL;VALUE=URI:https://www.twitch.tv/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T130000Z
