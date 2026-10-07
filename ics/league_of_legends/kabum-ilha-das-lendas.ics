@@ -355,6 +355,17 @@ CLASS:PUBLIC
 DESCRIPTION:CBLOL - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv
  /cblol
 SUMMARY:Lower Bracket Final: EST vs KBM
+URL:https://www.twitch.tv/cblol
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T210000Z
+UID:pandascore-match-1691683@esport-ics
+DTSTART:20261012T210000Z
+DTEND:20261013T004500Z
+CLASS:PUBLIC
+DESCRIPTION:CBLOL - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv
+ /cblol
+SUMMARY:Grand Final: LOS vs KBM
 URL;VALUE=URI:https://www.twitch.tv/cblol
 END:VEVENT
 END:VCALENDAR
