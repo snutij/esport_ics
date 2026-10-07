@@ -647,6 +647,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/ESLCS
 SUMMARY:Round 4: FURIA vs AUR
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T083000Z
+UID:pandascore-match-1711475@esport-ics
+DTSTART:20261009T083000Z
+DTEND:20261009T104500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Pro League - Season 24 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/ESLCS
+SUMMARY:Quarterfinal 1: 1WIN vs AUR
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

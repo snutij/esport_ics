@@ -1119,6 +1119,17 @@ CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs\nWatch
  : https://w.tv/1win_cs
 SUMMARY:Round of 16 Match 4: K27 vs MZP
+URL:https://w.tv/1win_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T150000Z
+UID:pandascore-match-1721007@esport-ics
+DTSTART:20261009T150000Z
+DTEND:20261009T171500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs\nWatch
+ : https://w.tv/1win_cs
+SUMMARY:Quarterfinal 2: FNC vs K27
 URL;VALUE=URI:https://w.tv/1win_cs
 END:VEVENT
 END:VCALENDAR

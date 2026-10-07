@@ -240,6 +240,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - European Finals season 58 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/nuclear_tigeres
 SUMMARY:Semifinal 1: Y.TigeRES vs Spirit Academy Green
-URL;VALUE=URI:https://www.twitch.tv/nuclear_tigeres
+URL:https://www.twitch.tv/nuclear_tigeres
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T160000Z
+UID:pandascore-match-1735220@esport-ics
+DTSTART:20261008T160000Z
+DTEND:20261008T164500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:Spirit Academy Green vs AGC
 END:VEVENT
 END:VCALENDAR

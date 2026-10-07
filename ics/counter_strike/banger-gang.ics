@@ -359,6 +359,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/peluso33
 SUMMARY:Lower bracket quarterfinal 1: NAVI.J vs BG
-URL;VALUE=URI:https://www.twitch.tv/peluso33
+URL:https://www.twitch.tv/peluso33
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T183000Z
+UID:pandascore-match-1735231@esport-ics
+DTSTART:20261008T183000Z
+DTEND:20261008T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:aimers vs BG
 END:VEVENT
 END:VCALENDAR

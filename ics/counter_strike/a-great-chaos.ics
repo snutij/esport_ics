@@ -351,6 +351,24 @@ CLASS:PUBLIC
 DESCRIPTION:Tipsport Cup - Open #2 2026 - Group A\nWatch: https://www.twitc
  h.tv/playzonecz
 SUMMARY:AGC vs AIMC
-URL;VALUE=URI:https://www.twitch.tv/playzonecz
+URL:https://www.twitch.tv/playzonecz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T160000Z
+UID:pandascore-match-1735220@esport-ics
+DTSTART:20261008T160000Z
+DTEND:20261008T164500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:Spirit Academy Green vs AGC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T183000Z
+UID:pandascore-match-1735227@esport-ics
+DTSTART:20261008T183000Z
+DTEND:20261008T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:PG vs AGC
 END:VEVENT
 END:VCALENDAR

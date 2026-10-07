@@ -1169,4 +1169,14 @@ DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
  layoffs
 SUMMARY:Upper Bracket Round 1 Match 5: BHE vs PCY
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T210000Z
+UID:pandascore-match-1731026@esport-ics
+DTSTART:20261008T210000Z
+DTEND:20261008T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Quarterfinal 3: ALKA vs BHE
+END:VEVENT
 END:VCALENDAR

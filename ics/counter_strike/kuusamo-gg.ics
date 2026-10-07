@@ -1080,6 +1080,15 @@ CLASS:PUBLIC
 DESCRIPTION:Urban Riga - Open #7 2026 - Playoffs\nWatch: https://kick.com/u
  rbancontenders
 SUMMARY:Quarterfinal 2: SNG vs KSM
-URL;VALUE=URI:https://kick.com/urbancontenders
+URL:https://kick.com/urbancontenders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T183000Z
+UID:pandascore-match-1735239@esport-ics
+DTSTART:20261008T183000Z
+DTEND:20261008T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:BANGARANGA vs KSM
 END:VEVENT
 END:VCALENDAR

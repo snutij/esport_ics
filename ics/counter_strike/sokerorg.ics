@@ -25,4 +25,13 @@ DESCRIPTION:European Pro League - Regular season 7 2026 - Group B\nWatch: h
 SUMMARY:Elimination Match: SKR vs SINQU Rehti
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T130000Z
+UID:pandascore-match-1733134@esport-ics
+DTSTART:20261008T130000Z
+DTEND:20261008T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Group D
+SUMMARY:Decider match: ENCE vs SKR
+END:VEVENT
 END:VCALENDAR

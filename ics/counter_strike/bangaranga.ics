@@ -36,6 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #8 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs5
 SUMMARY:Lower bracket round 2 match 2: 300FPS vs BANGARANGA
-URL;VALUE=URI:https://kick.com/cct_cs5
+URL:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T183000Z
+UID:pandascore-match-1735239@esport-ics
+DTSTART:20261008T183000Z
+DTEND:20261008T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:BANGARANGA vs KSM
 END:VEVENT
 END:VCALENDAR

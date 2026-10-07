@@ -519,6 +519,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
  ck.com/roman
 SUMMARY:G2.A vs OG
+URL:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T100000Z
+UID:pandascore-match-1724258@esport-ics
+DTSTART:20261008T100000Z
+DTEND:20261008T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Play-In\nWatch: https://ki
+ ck.com/roman
+SUMMARY:OG vs SNG
 URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

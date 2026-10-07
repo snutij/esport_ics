@@ -997,6 +997,15 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
  ck.com/roman
 SUMMARY:PURE vs FAL.F
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T183000Z
+UID:pandascore-match-1735240@esport-ics
+DTSTART:20261008T183000Z
+DTEND:20261008T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:FAL.F vs DXE
 END:VEVENT
 END:VCALENDAR

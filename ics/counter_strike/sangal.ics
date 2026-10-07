@@ -658,7 +658,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
  ck.com/roman
 SUMMARY:SNG vs SAW
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T200000Z
@@ -669,7 +669,18 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ww
  w.twitch.tv/Trottah
 SUMMARY:SNG vs NAVI.J
-URL;VALUE=URI:https://www.twitch.tv/Trottah
+URL:https://www.twitch.tv/Trottah
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T100000Z
+UID:pandascore-match-1724258@esport-ics
+DTSTART:20261008T100000Z
+DTEND:20261008T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Play-In\nWatch: https://ki
+ ck.com/roman
+SUMMARY:OG vs SNG
+URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261012T100000Z

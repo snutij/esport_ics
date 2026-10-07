@@ -924,6 +924,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 7 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Lower Bracket Round 3 Match  1: maybe vs EP
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T183000Z
+UID:pandascore-match-1735232@esport-ics
+DTSTART:20261008T183000Z
+DTEND:20261008T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:EP vs XI
 END:VEVENT
 END:VCALENDAR

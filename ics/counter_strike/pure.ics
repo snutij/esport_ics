@@ -556,7 +556,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ww
  w.twitch.tv/roman
 SUMMARY:G2.A vs PURE
-URL;VALUE=URI:https://www.twitch.tv/roman
+URL:https://www.twitch.tv/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T130000Z
@@ -567,6 +567,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group A\nWatch: https://ki
  ck.com/roman
 SUMMARY:PURE vs FAL.F
+URL:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T133000Z
+UID:pandascore-match-1724295@esport-ics
+DTSTART:20261008T133000Z
+DTEND:20261008T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Playoffs\nWatch: https://k
+ ick.com/roman
+SUMMARY:Upper Bracket Quarterfinal  2: EAC vs PURE
 URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

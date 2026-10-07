@@ -850,6 +850,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Group B\
  nWatch: https://www.twitch.tv/terlonv1
 SUMMARY:HS vs LK
-URL;VALUE=URI:https://www.twitch.tv/terlonv1
+URL:https://www.twitch.tv/terlonv1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T130000Z
+UID:pandascore-match-1733119@esport-ics
+DTSTART:20261008T130000Z
+DTEND:20261008T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Group B
+SUMMARY:Decider match: LK vs HS
 END:VEVENT
 END:VCALENDAR
