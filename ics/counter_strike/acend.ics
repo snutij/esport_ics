@@ -998,7 +998,7 @@ CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs\nWatch
  : https://w.tv/1win_cs
 SUMMARY:Round of 16 Match 2: ACE vs SASHI
-URL;VALUE=URI:https://w.tv/1win_cs
+URL:https://w.tv/1win_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261008T080000Z
@@ -1010,5 +1010,16 @@ DESCRIPTION:CCT Europe - Series #10 2026 - Playoffs\nWatch: https://kick.co
  m/cct_cs2
 SUMMARY:Round of 16 match 1: ACE vs ex-ZT
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T090000Z
+UID:pandascore-match-1721006@esport-ics
+DTSTART:20261009T090000Z
+DTEND:20261009T111500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs\nWatch
+ : https://w.tv/1win_cs
+SUMMARY:Quarterfinal 1: HOTU vs ACE
+URL;VALUE=URI:https://w.tv/1win_cs
 END:VEVENT
 END:VCALENDAR

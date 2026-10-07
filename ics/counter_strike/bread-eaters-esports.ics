@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 7 2026 - Group A\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Winners' Match: CW vs Bread Eaters Esports
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T080000Z
+UID:pandascore-match-1728242@esport-ics
+DTSTART:20261012T080000Z
+DTEND:20261012T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Group A\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider Match: Bread Eaters Esports vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

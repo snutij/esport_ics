@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:PARI Universe - Closed Qualifier 2026 - Playoffs\nWatch: https:
  //kick.com/fissure_dota_en
 SUMMARY:Upper Bracket Final: Team Synapse vs LEGION
+URL:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T160000Z
+UID:pandascore-match-1727847@esport-ics
+DTSTART:20261008T160000Z
+DTEND:20261008T194500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - Closed Qualifier 2026 - Playoffs\nWatch: https:
+ //kick.com/fissure_dota_en
+SUMMARY:Grand Final: LEGION vs TBD
 URL;VALUE=URI:https://kick.com/fissure_dota_en
 END:VEVENT
 END:VCALENDAR

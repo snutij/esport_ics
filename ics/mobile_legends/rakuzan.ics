@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Continental Championships - Season 8 2026 - Regular Season
  \nWatch: https://www.twitch.tv/mlbb_cis
 SUMMARY:RE vs Rakuzan
+URL:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T143000Z
+UID:pandascore-match-1735087@esport-ics
+DTSTART:20261009T143000Z
+DTEND:20261009T181500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Continental Championships - Season 8 2026 - Playoffs\nWatc
+ h: https://www.twitch.tv/mlbb_cis
+SUMMARY:Upper Bracket Quarterfinal 2: Rakuzan vs CH
 URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
 END:VEVENT
 END:VCALENDAR

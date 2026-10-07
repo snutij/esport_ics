@@ -1000,7 +1000,7 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:st0ny vs XI
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261009T103000Z
@@ -1010,7 +1010,7 @@ DTEND:20261009T124500Z
 CLASS:PUBLIC
 DESCRIPTION:United21 - Season 56 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
-SUMMARY:Upper Bracket Semifinal 2: XI vs TBD
+SUMMARY:Upper Bracket Semifinal 2: XI vs PCIFIC
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT

@@ -587,7 +587,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #10 2026 - Playoffs\nWatch: https://kick.co
  m/cct_cs2
 SUMMARY:Round of 16 match 6: OMG vs Noir Verse
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T170000Z
@@ -598,6 +598,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #11 2026 - Group B\nWatch
  : https://kick.com/cct_cs
 SUMMARY:Noir Verse vs FF
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T140000Z
+UID:pandascore-match-1700514@esport-ics
+DTSTART:20261009T140000Z
+DTEND:20261009T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #10 2026 - Playoffs\nWatch: https://kick.co
+ m/cct_cs2
+SUMMARY:Quarterfinal 3: Noir Verse vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

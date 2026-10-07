@@ -56,7 +56,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group B\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Decider Match: Gothic vs LPH
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T110000Z
@@ -67,6 +67,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #10 2026 - Playoffs\nWatch: https://kick.co
  m/cct_cs2
 SUMMARY:Round of 16 match 8: Gothic vs EAC
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T170000Z
+UID:pandascore-match-1700513@esport-ics
+DTSTART:20261009T170000Z
+DTEND:20261009T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #10 2026 - Playoffs\nWatch: https://kick.co
+ m/cct_cs2
+SUMMARY:Quarterfinal 4: Gothic vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

@@ -966,6 +966,17 @@ DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs
 SUMMARY:Round of 16 Match 1: HOTU vs STA
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261009T090000Z
+UID:pandascore-match-1721006@esport-ics
+DTSTART:20261009T090000Z
+DTEND:20261009T111500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs\nWatch
+ : https://w.tv/1win_cs
+SUMMARY:Quarterfinal 1: HOTU vs ACE
+URL;VALUE=URI:https://w.tv/1win_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261014T100000Z
 UID:pandascore-match-1731152@esport-ics
 DTSTART:20261014T100000Z

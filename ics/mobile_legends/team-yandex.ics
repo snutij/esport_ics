@@ -470,6 +470,17 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Continental Championships - Season 8 2026 - Regular Season
  \nWatch: https://www.twitch.tv/mlbb_cis
 SUMMARY:YNDX vs TS
+URL:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T120000Z
+UID:pandascore-match-1735088@esport-ics
+DTSTART:20261010T120000Z
+DTEND:20261010T154500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Continental Championships - Season 8 2026 - Playoffs\nWatc
+ h: https://www.twitch.tv/mlbb_cis
+SUMMARY:Upper Bracket Semifinal 1: YNDX vs TBD
 URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
 END:VEVENT
 END:VCALENDAR

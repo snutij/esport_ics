@@ -684,7 +684,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ww
  w.twitch.tv/sinon__cs
 SUMMARY:RBLS vs LC
-URL;VALUE=URI:https://www.twitch.tv/sinon__cs
+URL:https://www.twitch.tv/sinon__cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T161500Z
@@ -695,7 +695,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
  ck.com/roman
 SUMMARY:SNG vs LC
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T173000Z
@@ -706,7 +706,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
  ck.com/roman
 SUMMARY:SAW vs LC
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T184500Z
@@ -714,10 +714,10 @@ UID:pandascore-match-1724290@esport-ics
 DTSTART:20261007T184500Z
 DTEND:20261007T193000Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
- ck.com/roman
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/lzrcats
 SUMMARY:LC vs NAVI.J
-URL;VALUE=URI:https://kick.com/roman
+URL;VALUE=URI:https://www.twitch.tv/lzrcats
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T200000Z
@@ -725,9 +725,9 @@ UID:pandascore-match-1724292@esport-ics
 DTSTART:20261007T200000Z
 DTEND:20261007T204500Z
 CLASS:PUBLIC
-DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
- ck.com/roman
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/sinon__cs
 SUMMARY:FCF vs LC
-URL;VALUE=URI:https://kick.com/roman
+URL;VALUE=URI:https://www.twitch.tv/sinon__cs
 END:VEVENT
 END:VCALENDAR
