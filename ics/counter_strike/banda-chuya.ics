@@ -341,6 +341,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #11 2026 - Group A\nWatch
  : https://kick.com/cct_cs
 SUMMARY:BG vs banda chuya
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T160000Z
+UID:pandascore-match-1735879@esport-ics
+DTSTART:20261008T160000Z
+DTEND:20261008T164500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:banda chuya vs R4G
 END:VEVENT
 END:VCALENDAR

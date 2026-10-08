@@ -611,4 +611,15 @@ CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs
 SUMMARY:Round of 16 Match 5: GL vs 33
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T120000Z
+UID:pandascore-match-1721008@esport-ics
+DTSTART:20261009T120000Z
+DTEND:20261009T141500Z
+CLASS:PUBLIC
+DESCRIPTION:1win - Private Club #2: Closed Qualifier 2026 - Playoffs\nWatch
+ : https://w.tv/1win_cs
+SUMMARY:Quarterfinal 3: GL vs TBD
+URL;VALUE=URI:https://w.tv/1win_cs
+END:VEVENT
 END:VCALENDAR

@@ -1078,6 +1078,15 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 7 2026 - Group B\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Winners' Match: RGG vs MOUZ.N
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T170000Z
+UID:pandascore-match-1733138@esport-ics
+DTSTART:20261008T170000Z
+DTEND:20261008T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Playoffs
+SUMMARY:Quarterfinal 2: MOUZ.N vs TBD
 END:VEVENT
 END:VCALENDAR

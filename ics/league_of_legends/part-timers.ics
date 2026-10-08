@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PART TIMERS
+SLUG:part-timers
+BEGIN:VEVENT
+DTSTAMP:20261010T080000Z
+UID:pandascore-match-1735944@esport-ics
+DTSTART:20261010T080000Z
+DTEND:20261010T114500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Promotion: Wild Card 2027 - Playoffs\nWatch: https://www.
+ twitch.tv/lolpacificen
+SUMMARY:Upper Bracket Semifinal 1: PT vs WPE
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+END:VCALENDAR

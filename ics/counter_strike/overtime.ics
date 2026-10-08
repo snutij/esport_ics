@@ -36,6 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:Hotspawn Showdown - Closed Qualifier 2026 - Group B\nWatch: htt
  ps://www.twitch.tv/hotspawnesports
 SUMMARY:Decider match: BMB vs OT
-URL;VALUE=URI:https://www.twitch.tv/hotspawnesports
+URL:https://www.twitch.tv/hotspawnesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T183000Z
+UID:pandascore-match-1735878@esport-ics
+DTSTART:20261008T183000Z
+DTEND:20261008T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:Tax free vs OT
 END:VEVENT
 END:VCALENDAR

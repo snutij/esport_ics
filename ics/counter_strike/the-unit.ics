@@ -196,7 +196,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 56 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Lower Bracket Round 1 Match 1: EACE vs TU
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261008T130000Z
@@ -207,5 +207,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
  ayoffs
 SUMMARY:Upper Bracket Quarterfinal 2: TU vs The KnockoutX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T080000Z
+UID:pandascore-match-1730998@esport-ics
+DTSTART:20261010T080000Z
+DTEND:20261010T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 56 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower Bracket Quarterfinal 1: TU vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
