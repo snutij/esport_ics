@@ -499,4 +499,14 @@ DESCRIPTION:ESL Challenger League - North America Cup #3 season 52 2026 - P
  layoffs
 SUMMARY:Upper Bracket Round 1 Match 2: VIL vs FV
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T010000Z
+UID:pandascore-match-1731083@esport-ics
+DTSTART:20261009T010000Z
+DTEND:20261009T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Quarterfinal 2: FV vs OT
+END:VEVENT
 END:VCALENDAR
