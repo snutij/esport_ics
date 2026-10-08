@@ -319,7 +319,9 @@ UID:pandascore-match-1664625@esport-ics
 DTSTART:20261009T103000Z
 DTEND:20261009T124500Z
 CLASS:PUBLIC
-DESCRIPTION:CN League - Stage 2 2026 - Playoffs
+DESCRIPTION:CN League - Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/rainbow6
 SUMMARY:Upper bracket quarterfinal 2: KZ vs LGD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

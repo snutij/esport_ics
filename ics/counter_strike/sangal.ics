@@ -683,6 +683,17 @@ SUMMARY:OG vs SNG
 URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261009T100000Z
+UID:pandascore-match-1724298@esport-ics
+DTSTART:20261009T100000Z
+DTEND:20261009T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Playoffs\nWatch: https://k
+ ick.com/roman
+SUMMARY:Lower Bracket Round 1 Match 1: SNG vs EAC
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261012T100000Z
 UID:pandascore-match-1731139@esport-ics
 DTSTART:20261012T100000Z

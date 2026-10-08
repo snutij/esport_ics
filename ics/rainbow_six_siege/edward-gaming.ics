@@ -385,7 +385,9 @@ UID:pandascore-match-1664626@esport-ics
 DTSTART:20261010T070000Z
 DTEND:20261010T091500Z
 CLASS:PUBLIC
-DESCRIPTION:CN League - Stage 2 2026 - Playoffs
+DESCRIPTION:CN League - Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/rainbow6
 SUMMARY:Upper bracket semifinal 1: EDG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

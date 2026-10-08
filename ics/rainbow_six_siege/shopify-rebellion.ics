@@ -472,6 +472,17 @@ CLASS:PUBLIC
 DESCRIPTION:North America League - Stage 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/rainbow6
 SUMMARY:Upper bracket semifinal 2: SR vs 100T
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T180000Z
+UID:pandascore-match-1660556@esport-ics
+DTSTART:20261009T180000Z
+DTEND:20261009T201500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/rainbow6
+SUMMARY:Lower bracket quarterfinal 2: M80 vs SR
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

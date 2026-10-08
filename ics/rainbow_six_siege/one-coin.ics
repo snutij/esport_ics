@@ -319,7 +319,9 @@ UID:pandascore-match-1664624@esport-ics
 DTSTART:20261009T070000Z
 DTEND:20261009T091500Z
 CLASS:PUBLIC
-DESCRIPTION:CN League - Stage 2 2026 - Playoffs
+DESCRIPTION:CN League - Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/rainbow6
 SUMMARY:Upper bracket quarterfinal 1: TYLOO vs OC
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
