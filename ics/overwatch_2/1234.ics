@@ -58,6 +58,61 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - EMEA Stage 2 2026 - Group Stage\nWatch: https://www.twitc
  h.tv/ow_esports
 SUMMARY:1234 vs TEL
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T183000Z
+UID:pandascore-match-1736554@esport-ics
+DTSTART:20261011T183000Z
+DTEND:20261011T204500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 3 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:1234 vs TR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T183000Z
+UID:pandascore-match-1736557@esport-ics
+DTSTART:20261017T183000Z
+DTEND:20261017T204500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 3 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:VP vs 1234
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T183000Z
+UID:pandascore-match-1736560@esport-ics
+DTSTART:20261018T183000Z
+DTEND:20261018T204500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 3 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:TM vs 1234
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T183000Z
+UID:pandascore-match-1736562@esport-ics
+DTSTART:20261024T183000Z
+DTEND:20261024T204500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 3 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:GE vs 1234
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T170000Z
+UID:pandascore-match-1736564@esport-ics
+DTSTART:20261025T170000Z
+DTEND:20261025T191500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 3 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:1234 vs PEPS
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

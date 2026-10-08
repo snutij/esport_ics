@@ -245,6 +245,61 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Midseason Championship 2026 - Playoffs\nWatch: https://ww
  w.youtube.com/watch?v=-8v_Ob1Fc88
 SUMMARY:Quarterfinal 3: ZETA vs DAL
-URL;VALUE=URI:https://www.youtube.com/watch?v=-8v_Ob1Fc88
+URL:https://www.youtube.com/watch?v=-8v_Ob1Fc88
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T230000Z
+UID:pandascore-match-1736452@esport-ics
+DTSTART:20261010T230000Z
+DTEND:20261011T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs NTMR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T213000Z
+UID:pandascore-match-1736453@esport-ics
+DTSTART:20261011T213000Z
+DTEND:20261011T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs DIS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T200000Z
+UID:pandascore-match-1736457@esport-ics
+DTSTART:20261018T200000Z
+DTEND:20261018T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs TL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T213000Z
+UID:pandascore-match-1736460@esport-ics
+DTSTART:20261024T213000Z
+DTEND:20261024T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs SSG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T200000Z
+UID:pandascore-match-1736462@esport-ics
+DTSTART:20261025T200000Z
+DTEND:20261025T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

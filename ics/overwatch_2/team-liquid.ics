@@ -201,6 +201,61 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Midseason Championship 2026 - Group A\nWatch: https://www
  .twitch.tv/ow_esports
 SUMMARY:Lower bracket quarterfinal 2: TL vs DAL
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T200000Z
+UID:pandascore-match-1736450@esport-ics
+DTSTART:20261010T200000Z
+DTEND:20261010T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:SSG vs TL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T213000Z
+UID:pandascore-match-1736455@esport-ics
+DTSTART:20261017T213000Z
+DTEND:20261017T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:TL vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T200000Z
+UID:pandascore-match-1736457@esport-ics
+DTSTART:20261018T200000Z
+DTEND:20261018T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs TL
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T230000Z
+UID:pandascore-match-1736461@esport-ics
+DTSTART:20261024T230000Z
+DTEND:20261025T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:TL vs NTMR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T230000Z
+UID:pandascore-match-1736464@esport-ics
+DTSTART:20261025T230000Z
+DTEND:20261026T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:TL vs DIS
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

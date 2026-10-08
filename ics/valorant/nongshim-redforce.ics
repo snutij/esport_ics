@@ -391,6 +391,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Champions 2026 - Playoffs\nWatch: https://www.twitch.tv/v
  alorant
 SUMMARY:Upper Bracket Quarterfinal 2: VIT vs NS
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T120000Z
+UID:pandascore-match-1685243@esport-ics
+DTSTART:20261009T120000Z
+DTEND:20261009T141500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Champions 2026 - Playoffs\nWatch: https://www.twitch.tv/v
+ alorant
+SUMMARY:Lower Bracket Round 1 Match 1: 100T vs NS
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

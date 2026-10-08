@@ -219,7 +219,9 @@ UID:pandascore-match-1735235@esport-ics
 DTSTART:20261008T183000Z
 DTEND:20261008T191500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/sovushkka
 SUMMARY:YL vs NEXORA
+URL;VALUE=URI:https://www.twitch.tv/sovushkka
 END:VEVENT
 END:VCALENDAR

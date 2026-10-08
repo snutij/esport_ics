@@ -1089,4 +1089,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Playoffs
 SUMMARY:Quarterfinal 2: MOUZ.N vs TBD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T103000Z
+UID:pandascore-match-1728287@esport-ics
+DTSTART:20261012T103000Z
+DTEND:20261012T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Group B\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider Match: SKR vs MOUZ.N
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

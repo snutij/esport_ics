@@ -223,6 +223,61 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Midseason Championship 2026 - Playoffs\nWatch: https://ww
  w.youtube.com/watch?v=RDNkH3XLkVY
 SUMMARY:Quarterfinal 1: TM vs GE
-URL;VALUE=URI:https://www.youtube.com/watch?v=RDNkH3XLkVY
+URL:https://www.youtube.com/watch?v=RDNkH3XLkVY
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T183000Z
+UID:pandascore-match-1736568@esport-ics
+DTSTART:20261010T183000Z
+DTEND:20261010T204500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 3 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:VP vs GE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T170000Z
+UID:pandascore-match-1736553@esport-ics
+DTSTART:20261011T170000Z
+DTEND:20261011T191500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 3 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:GE vs TM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T200000Z
+UID:pandascore-match-1736558@esport-ics
+DTSTART:20261017T200000Z
+DTEND:20261017T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 3 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:GE vs PEPS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T183000Z
+UID:pandascore-match-1736562@esport-ics
+DTSTART:20261024T183000Z
+DTEND:20261024T204500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 3 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:GE vs 1234
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T183000Z
+UID:pandascore-match-1736565@esport-ics
+DTSTART:20261025T183000Z
+DTEND:20261025T204500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - EMEA Stage 3 2026 - Group Stage\nWatch: https://www.twitc
+ h.tv/ow_esports
+SUMMARY:GE vs TR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

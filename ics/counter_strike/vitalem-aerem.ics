@@ -124,6 +124,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
  ayoffs\nWatch: https://kick.com/dutchboycasts
 SUMMARY:Upper Bracket Round 1 Match 1: CW vs VA
-URL;VALUE=URI:https://kick.com/dutchboycasts
+URL:https://kick.com/dutchboycasts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T130000Z
+UID:pandascore-match-1731129@esport-ics
+DTSTART:20261009T130000Z
+DTEND:20261009T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
+ ayoffs
+SUMMARY:Lower Bracket Round 2 Match 1: RA vs VA
 END:VEVENT
 END:VCALENDAR
