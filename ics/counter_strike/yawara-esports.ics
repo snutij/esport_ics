@@ -845,6 +845,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
  layoffs\nWatch: https://kick.com/tris_mara
 SUMMARY:Upper Bracket Quarterfinal 1: GRE vs YAW
-URL;VALUE=URI:https://kick.com/tris_mara
+URL:https://kick.com/tris_mara
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T210000Z
+UID:pandascore-match-1731028@esport-ics
+DTSTART:20261010T210000Z
+DTEND:20261010T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Semifinal 1: YAW vs ex-Keyd Stars
 END:VEVENT
 END:VCALENDAR
