@@ -1114,6 +1114,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/BLASTDota
 SUMMARY:Upper Bracket Semifinal 2: TS vs AUR
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T183000Z
+UID:pandascore-match-1709127@esport-ics
+DTSTART:20261009T183000Z
+DTEND:20261009T204500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - Season 8 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/BLASTDota
+SUMMARY:Lower Bracket Quarterfinal 1: LGD vs AUR
 URL;VALUE=URI:https://www.twitch.tv/BLASTDota
 END:VEVENT
 END:VCALENDAR

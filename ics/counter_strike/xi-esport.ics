@@ -1020,6 +1020,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 56 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper Bracket Semifinal 2: XI vs PCIFIC
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T080000Z
+UID:pandascore-match-1730998@esport-ics
+DTSTART:20261010T080000Z
+DTEND:20261010T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 56 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower Bracket Quarterfinal 1: XI vs TU
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT

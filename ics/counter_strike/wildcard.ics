@@ -638,6 +638,39 @@ CLASS:PUBLIC
 DESCRIPTION:FOX Legacy Cup - Season 1 2026 - Playoffs\nWatch: https://www.t
  witch.tv/foxcs
 SUMMARY:Lower Bracket Quarterfinal 2: WC vs TBD
-URL;VALUE=URI:https://www.twitch.tv/foxcs
+URL:https://www.twitch.tv/foxcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T180000Z
+UID:pandascore-match-1739486@esport-ics
+DTSTART:20261009T180000Z
+DTEND:20261009T184500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group D\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:NXG Esports vs WC
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T190000Z
+UID:pandascore-match-1739490@esport-ics
+DTSTART:20261009T190000Z
+DTEND:20261009T194500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group D\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:Team Fathom Gaming vs WC
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T190000Z
+UID:pandascore-match-1739487@esport-ics
+DTSTART:20261009T190000Z
+DTEND:20261009T194500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group D\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:WC vs SportsBetExpert
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
 END:VEVENT
 END:VCALENDAR

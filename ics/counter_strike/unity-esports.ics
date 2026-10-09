@@ -1341,6 +1341,17 @@ CLASS:PUBLIC
 DESCRIPTION:Majstrovstvá SR - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/ygamessk
 SUMMARY:Semifinal 2: VIT.A vs UNiTY
+URL:https://www.twitch.tv/ygamessk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T120000Z
+UID:pandascore-match-1732028@esport-ics
+DTSTART:20261010T120000Z
+DTEND:20261010T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Majstrovstvá SR - 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/ygamessk
+SUMMARY:Grand Final: LPH vs UNiTY
 URL;VALUE=URI:https://www.twitch.tv/ygamessk
 END:VEVENT
 END:VCALENDAR

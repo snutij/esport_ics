@@ -395,7 +395,7 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group B\nWatch: https://www.twitch.
  tv/nipgaming
 SUMMARY:NIP vs SportsBetExpert
-URL;VALUE=URI:https://www.twitch.tv/nipgaming
+URL:https://www.twitch.tv/nipgaming
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261002T160000Z
@@ -405,5 +405,38 @@ DTEND:20261002T164500Z
 CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group B
 SUMMARY:SportsBetExpert vs x3pt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T180000Z
+UID:pandascore-match-1739485@esport-ics
+DTSTART:20261009T180000Z
+DTEND:20261009T184500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group D\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:SportsBetExpert vs Team Fathom Gaming
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T190000Z
+UID:pandascore-match-1739487@esport-ics
+DTSTART:20261009T190000Z
+DTEND:20261009T194500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group D\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:WC vs SportsBetExpert
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T200000Z
+UID:pandascore-match-1739489@esport-ics
+DTSTART:20261009T200000Z
+DTEND:20261009T204500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group D\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:NXG Esports vs SportsBetExpert
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
 END:VEVENT
 END:VCALENDAR

@@ -77,4 +77,48 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG Midwest - St. Louis 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 4: SportsBetExpert vs ELU
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T193000Z
+UID:pandascore-match-1739501@esport-ics
+DTSTART:20261009T193000Z
+DTEND:20261009T201500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:Midwest Maniacs vs ELU
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T213000Z
+UID:pandascore-match-1739505@esport-ics
+DTSTART:20261009T213000Z
+DTEND:20261009T221500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:ELU vs Celestial
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T223000Z
+UID:pandascore-match-1739506@esport-ics
+DTSTART:20261009T223000Z
+DTEND:20261009T231500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:IMP vs ELU
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T233000Z
+UID:pandascore-match-1739508@esport-ics
+DTSTART:20261009T233000Z
+DTEND:20261010T001500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:ELU vs WaR
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
 END:VCALENDAR

@@ -35,4 +35,48 @@ DESCRIPTION:PGL Masters - Bucharest: North American Open Qualifier #2 2026
  - Playoffs
 SUMMARY:Semifinal 2: Celestial vs antivalue
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T193000Z
+UID:pandascore-match-1739500@esport-ics
+DTSTART:20261009T193000Z
+DTEND:20261009T201500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:WaR vs Celestial
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T203000Z
+UID:pandascore-match-1739503@esport-ics
+DTSTART:20261009T203000Z
+DTEND:20261009T211500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:Celestial vs Midwest Maniacs
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T213000Z
+UID:pandascore-match-1739505@esport-ics
+DTSTART:20261009T213000Z
+DTEND:20261009T221500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:ELU vs Celestial
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T233000Z
+UID:pandascore-match-1739509@esport-ics
+DTSTART:20261009T233000Z
+DTEND:20261010T001500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:IMP vs Celestial
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
 END:VCALENDAR

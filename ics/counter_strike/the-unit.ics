@@ -217,7 +217,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
  ayoffs\nWatch: https://kick.com/sv_theunknown
 SUMMARY:Lower Bracket Round 2 Match 3: TU vs NAS
-URL;VALUE=URI:https://kick.com/sv_theunknown
+URL:https://kick.com/sv_theunknown
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261010T080000Z
@@ -227,7 +227,17 @@ DTEND:20261010T101500Z
 CLASS:PUBLIC
 DESCRIPTION:United21 - Season 56 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
-SUMMARY:Lower Bracket Quarterfinal 1: TU vs TBD
+SUMMARY:Lower Bracket Quarterfinal 1: XI vs TU
 URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T130000Z
+UID:pandascore-match-1731131@esport-ics
+DTSTART:20261010T130000Z
+DTEND:20261010T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
+ ayoffs
+SUMMARY:Lower Bracket Round 3 Match 2: CW vs TU
 END:VEVENT
 END:VCALENDAR

@@ -219,7 +219,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Playoffs
  \nWatch: https://www.twitch.tv/benyxfr
 SUMMARY:Semifinal 1: SSins vs MOUZ.N
-URL;VALUE=URI:https://www.twitch.tv/benyxfr
+URL:https://www.twitch.tv/benyxfr
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261009T170000Z
@@ -230,6 +230,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #11 2026 - Group D\nWatch
  : https://kick.com/cct_cs
 SUMMARY:SSins vs antidaun
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T110000Z
+UID:pandascore-match-1733035@esport-ics
+DTSTART:20261010T110000Z
+DTEND:20261010T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #11 2026 - Group D\nWatch
+ : https://kick.com/cct_cs
+SUMMARY:Elimination match: WBT.A vs SSins
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

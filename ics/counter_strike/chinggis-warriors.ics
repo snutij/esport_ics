@@ -543,4 +543,14 @@ DESCRIPTION:MESA Pro Series - Fall 2026 - Playoffs\nWatch: https://www.yout
 SUMMARY:Lower Bracket Semifinal: THE vs CW
 URL;VALUE=URI:https://www.youtube.com/@mesa_tv/streams
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T130000Z
+UID:pandascore-match-1731131@esport-ics
+DTSTART:20261010T130000Z
+DTEND:20261010T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
+ ayoffs
+SUMMARY:Lower Bracket Round 3 Match 2: CW vs TU
+END:VEVENT
 END:VCALENDAR

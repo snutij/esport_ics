@@ -595,6 +595,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Playoffs\nWatch: https://k
  ick.com/roman
 SUMMARY:Upper Bracket Semifinal 1: FaZe vs PURE
+URL:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T100000Z
+UID:pandascore-match-1724304@esport-ics
+DTSTART:20261010T100000Z
+DTEND:20261010T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Playoffs\nWatch: https://k
+ ick.com/roman
+SUMMARY:Upper Bracket Final: FaZe vs NAVI.J
 URL;VALUE=URI:https://kick.com/roman
 END:VEVENT
 END:VCALENDAR

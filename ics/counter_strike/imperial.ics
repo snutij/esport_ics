@@ -871,6 +871,50 @@ CLASS:PUBLIC
 DESCRIPTION:FERJEE In House - Season 2 2026 - Playoffs\nWatch: https://www.
  twitch.tv/ferjeeoficial
 SUMMARY:Grand final: IMP vs paiN
-URL;VALUE=URI:https://www.twitch.tv/ferjeeoficial
+URL:https://www.twitch.tv/ferjeeoficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T203000Z
+UID:pandascore-match-1739502@esport-ics
+DTSTART:20261009T203000Z
+DTEND:20261009T211500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:WaR vs IMP
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T213000Z
+UID:pandascore-match-1739504@esport-ics
+DTSTART:20261009T213000Z
+DTEND:20261009T221500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:Midwest Maniacs vs IMP
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T223000Z
+UID:pandascore-match-1739506@esport-ics
+DTSTART:20261009T223000Z
+DTEND:20261009T231500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:IMP vs ELU
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T233000Z
+UID:pandascore-match-1739509@esport-ics
+DTSTART:20261009T233000Z
+DTEND:20261010T001500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:IMP vs Celestial
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
 END:VEVENT
 END:VCALENDAR

@@ -3,26 +3,28 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:NXG Esports
-SLUG:nxg-esports
-BEGIN:VEVENT
-DTSTAMP:20260530T140000Z
-UID:pandascore-match-1516515@esport-ics
-DTSTART:20260530T140000Z
-DTEND:20260530T161500Z
-CLASS:PUBLIC
-DESCRIPTION:FRAG - TAP Reloaded 2026 - Playoffs
-SUMMARY:Upper bracket round 1 match 1: NFE vs NXG Esports
-END:VEVENT
+X-WR-CALNAME:Team Fathom Gaming
+SLUG:team-fathom-gaming
 BEGIN:VEVENT
 DTSTAMP:20261009T180000Z
-UID:pandascore-match-1739486@esport-ics
+UID:pandascore-match-1739485@esport-ics
 DTSTART:20261009T180000Z
 DTEND:20261009T184500Z
 CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Group D\nWatch: https://www.twitch.tv/
  fragadelphia
-SUMMARY:NXG Esports vs WC
+SUMMARY:SportsBetExpert vs Team Fathom Gaming
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T190000Z
+UID:pandascore-match-1739490@esport-ics
+DTSTART:20261009T190000Z
+DTEND:20261009T194500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group D\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:Team Fathom Gaming vs WC
 URL;VALUE=URI:https://www.twitch.tv/fragadelphia
 END:VEVENT
 BEGIN:VEVENT
@@ -34,17 +36,6 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Group D\nWatch: https://www.twitch.tv/
  fragadelphia
 SUMMARY:NXG Esports vs Team Fathom Gaming
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261009T200000Z
-UID:pandascore-match-1739489@esport-ics
-DTSTART:20261009T200000Z
-DTEND:20261009T204500Z
-CLASS:PUBLIC
-DESCRIPTION:FRAG - University 2026 - Group D\nWatch: https://www.twitch.tv/
- fragadelphia
-SUMMARY:NXG Esports vs SportsBetExpert
 URL;VALUE=URI:https://www.twitch.tv/fragadelphia
 END:VEVENT
 END:VCALENDAR
