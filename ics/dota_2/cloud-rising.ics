@@ -261,7 +261,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:YG vs CR
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260907T060000Z
@@ -272,7 +272,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:IAC vs CR
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260907T090000Z
@@ -283,7 +283,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:CR vs Dfam
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260908T060000Z
@@ -294,7 +294,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:CR vs DB
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260909T030000Z
@@ -305,7 +305,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:Nem vs CR
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T030000Z
@@ -316,7 +316,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:CR vs Team Kinetix
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260910T090000Z
@@ -327,6 +327,15 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 17 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:Y123 vs CR
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T060000Z
+UID:pandascore-match-1738320@esport-ics
+DTSTART:20261010T060000Z
+DTEND:20261010T081500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - China Open Qualifier 1 season 30 2026 - Playoffs
+SUMMARY:Semifinal 2: Zenith vs CR
 END:VEVENT
 END:VCALENDAR

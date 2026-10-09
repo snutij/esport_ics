@@ -369,6 +369,15 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 18 2026 - Playoffs\nWa
  tch: https://kick.com/epldota_en1
 SUMMARY:Lower Bracket Quarterfinal 1: TBD vs CD
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T060000Z
+UID:pandascore-match-1738319@esport-ics
+DTSTART:20261010T060000Z
+DTEND:20261010T081500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - China Open Qualifier 1 season 30 2026 - Playoffs
+SUMMARY:Semifinal 1: CD vs Cresent
 END:VEVENT
 END:VCALENDAR

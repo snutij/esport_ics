@@ -58,6 +58,61 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - North America Stage 2 2026 - Group Stage\nWatch: https://
  www.twitch.tv/ow_esports
 SUMMARY:TL vs KAFE
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T213000Z
+UID:pandascore-match-1736451@esport-ics
+DTSTART:20261010T213000Z
+DTEND:20261010T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:KAFE vs DIS
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T230000Z
+UID:pandascore-match-1736454@esport-ics
+DTSTART:20261011T230000Z
+DTEND:20261012T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:SSG vs KAFE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T213000Z
+UID:pandascore-match-1736455@esport-ics
+DTSTART:20261017T213000Z
+DTEND:20261017T234500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:TL vs KAFE
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T230000Z
+UID:pandascore-match-1736459@esport-ics
+DTSTART:20261018T230000Z
+DTEND:20261019T011500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:KAFE vs NTMR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T200000Z
+UID:pandascore-match-1736462@esport-ics
+DTSTART:20261025T200000Z
+DTEND:20261025T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
+ www.twitch.tv/ow_esports
+SUMMARY:DAL vs KAFE
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

@@ -1255,6 +1255,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 56 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper Bracket Semifinal 1: STA vs TTBS
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T080000Z
+UID:pandascore-match-1730995@esport-ics
+DTSTART:20261011T080000Z
+DTEND:20261011T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 56 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Upper Bracket Final: STA vs TBD
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT

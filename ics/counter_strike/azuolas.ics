@@ -210,6 +210,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group D\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Elimination Match: ENJOY vs Azuolas
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T110000Z
+UID:pandascore-match-1727751@esport-ics
+DTSTART:20261010T110000Z
+DTEND:20261010T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group D\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Decider Match: Azuolas vs TBD
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

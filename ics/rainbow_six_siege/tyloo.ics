@@ -366,6 +366,17 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
  tv/esix_france
 SUMMARY:Upper bracket quarterfinal 1: TYLOO vs OC
-URL;VALUE=URI:https://www.twitch.tv/esix_france
+URL:https://www.twitch.tv/esix_france
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T070000Z
+UID:pandascore-match-1664626@esport-ics
+DTSTART:20261010T070000Z
+DTEND:20261010T091500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/rainbow6
+SUMMARY:Upper bracket semifinal 1: EDG vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

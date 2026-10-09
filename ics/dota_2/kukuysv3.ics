@@ -24,6 +24,15 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Southeast Asia Open Qualifier 1 season 29 2026 - 
  Playoffs\nWatch: https://kick.com/nevertheless
 SUMMARY:Semifinal 1: KukuysV3 vs CARST
-URL;VALUE=URI:https://kick.com/nevertheless
+URL:https://kick.com/nevertheless
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T080000Z
+UID:pandascore-match-1738561@esport-ics
+DTSTART:20261010T080000Z
+DTEND:20261010T101500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Southeast Asia Open Qualifier 1 2026 - Playoffs
+SUMMARY:Semifinal 2: KukuysV3 vs IAC
 END:VEVENT
 END:VCALENDAR

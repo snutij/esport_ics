@@ -1191,6 +1191,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #11 2026 - Group C\nWatch
  : https://kick.com/cct_cs
 SUMMARY:mellren vs BBP
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T140000Z
+UID:pandascore-match-1733031@esport-ics
+DTSTART:20261010T140000Z
+DTEND:20261010T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #11 2026 - Group C\nWatch
+ : https://kick.com/cct_cs
+SUMMARY:Winners match: BBP vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

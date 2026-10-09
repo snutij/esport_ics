@@ -520,7 +520,7 @@ CLASS:PUBLIC
 DESCRIPTION:MESA Pro Series - Fall 2026 - Playoffs\nWatch: https://www.yout
  ube.com/watch?v=naKhVwE5Hzk
 SUMMARY:Lower Bracket Quarterfinal 2: CW vs 1337
-URL;VALUE=URI:https://www.youtube.com/watch?v=naKhVwE5Hzk
+URL:https://www.youtube.com/watch?v=naKhVwE5Hzk
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261009T130000Z
@@ -531,5 +531,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
  ayoffs
 SUMMARY:Lower Bracket Round 2 Match 4: CW vs BP
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T070000Z
+UID:pandascore-match-1735932@esport-ics
+DTSTART:20261010T070000Z
+DTEND:20261010T091500Z
+CLASS:PUBLIC
+DESCRIPTION:MESA Pro Series - Fall 2026 - Playoffs\nWatch: https://www.yout
+ ube.com/@mesa_tv/streams
+SUMMARY:Lower Bracket Semifinal: THE vs CW
+URL;VALUE=URI:https://www.youtube.com/@mesa_tv/streams
 END:VEVENT
 END:VCALENDAR
