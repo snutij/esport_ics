@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 7 2026 - Group C\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Elimination Match: EK vs RFE
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T080000Z
+UID:pandascore-match-1728297@esport-ics
+DTSTART:20261011T080000Z
+DTEND:20261011T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Group C\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider Match: VIT.A vs EK
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

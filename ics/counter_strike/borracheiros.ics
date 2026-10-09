@@ -432,6 +432,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/flubytv
 SUMMARY:Lower Bracket Round 2 Match 4: GRE vs BORRA
-URL;VALUE=URI:https://www.twitch.tv/flubytv
+URL:https://www.twitch.tv/flubytv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T210000Z
+UID:pandascore-match-1731040@esport-ics
+DTSTART:20261010T210000Z
+DTEND:20261010T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Round 3 Match 2: PCY vs BORRA
 END:VEVENT
 END:VCALENDAR

@@ -434,6 +434,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/diogodfps
 SUMMARY:Lower Bracket Round 2 Match 2: ALKA vs MEIA NOITE
-URL;VALUE=URI:https://www.twitch.tv/diogodfps
+URL:https://www.twitch.tv/diogodfps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T210000Z
+UID:pandascore-match-1731039@esport-ics
+DTSTART:20261010T210000Z
+DTEND:20261010T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Round 3 Match 1: GLS vs MEIA NOITE
 END:VEVENT
 END:VCALENDAR

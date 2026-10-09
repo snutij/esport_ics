@@ -705,6 +705,17 @@ SUMMARY:Lower Bracket Quarterfinal 1: SNG vs TBD
 URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261010T100000Z
+UID:pandascore-match-1724305@esport-ics
+DTSTART:20261010T100000Z
+DTEND:20261010T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Playoffs\nWatch: https://k
+ ick.com/roman
+SUMMARY:Lower Bracket Semifinal: SNG vs PURE
+URL;VALUE=URI:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261012T100000Z
 UID:pandascore-match-1731139@esport-ics
 DTSTART:20261012T100000Z

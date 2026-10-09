@@ -364,6 +364,17 @@ CLASS:PUBLIC
 DESCRIPTION:South America League - Stage 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/rainbow6
 SUMMARY:Lower bracket quarterfinal 1: BD vs FX7M
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T190000Z
+UID:pandascore-match-1660193@esport-ics
+DTSTART:20261010T190000Z
+DTEND:20261010T211500Z
+CLASS:PUBLIC
+DESCRIPTION:South America League - Stage 2 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/rainbow6
+SUMMARY:Lower bracket semifinal: FX7M vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

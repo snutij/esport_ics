@@ -316,6 +316,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/monsternotebook
 SUMMARY:Upper Bracket Final: FF vs BBL
+URL:https://www.twitch.tv/monsternotebook
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T160000Z
+UID:pandascore-match-1716577@esport-ics
+DTSTART:20261012T160000Z
+DTEND:20261012T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/monsternotebook
+SUMMARY:Lower Bracket Final: BBL vs MISA
 URL;VALUE=URI:https://www.twitch.tv/monsternotebook
 END:VEVENT
 END:VCALENDAR

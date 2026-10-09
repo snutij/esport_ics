@@ -706,6 +706,17 @@ CLASS:PUBLIC
 DESCRIPTION:EMEA Masters - Summer 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/emeamasters
 SUMMARY:Quarterfinal 4: GAL vs KHK
+URL:https://www.twitch.tv/emeamasters
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T160000Z
+UID:pandascore-match-1698608@esport-ics
+DTSTART:20261014T160000Z
+DTEND:20261014T194500Z
+CLASS:PUBLIC
+DESCRIPTION:EMEA Masters - Summer 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/emeamasters
+SUMMARY:Semifinal 2: GAL vs MKF
 URL;VALUE=URI:https://www.twitch.tv/emeamasters
 END:VEVENT
 END:VCALENDAR

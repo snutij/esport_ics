@@ -86,28 +86,17 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
  fragadelphia
 SUMMARY:Midwest Maniacs vs ELU
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+URL:https://www.twitch.tv/fragadelphia
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261009T213000Z
+DTSTAMP:20261009T230000Z
 UID:pandascore-match-1739505@esport-ics
-DTSTART:20261009T213000Z
-DTEND:20261009T221500Z
+DTSTART:20261009T230000Z
+DTEND:20261009T234500Z
 CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
  fragadelphia
 SUMMARY:ELU vs Celestial
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261009T223000Z
-UID:pandascore-match-1739506@esport-ics
-DTSTART:20261009T223000Z
-DTEND:20261009T231500Z
-CLASS:PUBLIC
-DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
- fragadelphia
-SUMMARY:IMP vs ELU
 URL;VALUE=URI:https://www.twitch.tv/fragadelphia
 END:VEVENT
 BEGIN:VEVENT
@@ -119,6 +108,17 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
  fragadelphia
 SUMMARY:ELU vs WaR
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T233000Z
+UID:pandascore-match-1739506@esport-ics
+DTSTART:20261009T233000Z
+DTEND:20261010T001500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
+ fragadelphia
+SUMMARY:IMP vs ELU
 URL;VALUE=URI:https://www.twitch.tv/fragadelphia
 END:VEVENT
 END:VCALENDAR
