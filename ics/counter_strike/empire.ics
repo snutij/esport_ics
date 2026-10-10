@@ -195,4 +195,14 @@ DESCRIPTION:ESL Challenger League - North America Cup #3 season 52 2026 - P
  layoffs
 SUMMARY:Lower Bracket Round 2 Match 1: DB vs EMP
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T010000Z
+UID:pandascore-match-1731097@esport-ics
+DTSTART:20261011T010000Z
+DTEND:20261011T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Round 3 Match 1: REGAIN vs EMP
+END:VEVENT
 END:VCALENDAR

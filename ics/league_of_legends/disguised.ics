@@ -243,6 +243,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCS - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/l
  cs
 SUMMARY:Lower bracket semifinal: DSG vs FUE
+URL:https://www.twitch.tv/lcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T210000Z
+UID:pandascore-match-1691731@esport-ics
+DTSTART:20261010T210000Z
+DTEND:20261011T004500Z
+CLASS:PUBLIC
+DESCRIPTION:LCS - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/l
+ cs
+SUMMARY:Lower bracket final: CPD vs DSG
 URL;VALUE=URI:https://www.twitch.tv/lcs
 END:VEVENT
 END:VCALENDAR

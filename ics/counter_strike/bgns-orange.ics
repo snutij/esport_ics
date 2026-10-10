@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:ANZC Locals - Brisbane: Spring 2026 - Group A\nWatch: https://w
  ww.twitch.tv/dfragtv
 SUMMARY:TdU vs BGNS Orange
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T093000Z
+UID:pandascore-match-1735013@esport-ics
+DTSTART:20261010T093000Z
+DTEND:20261010T114500Z
+CLASS:PUBLIC
+DESCRIPTION:ANZC Locals - Brisbane: Spring 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/dfragtv
+SUMMARY:Decider Match: KZG vs BGNS Orange
 URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR
