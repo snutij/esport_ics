@@ -366,6 +366,15 @@ CLASS:PUBLIC
 DESCRIPTION:Garena Challenger Series - Summer 2026 - Group Stage\nWatch: ht
  tps://www.youtube.com/@garenaaovtw/streams
 SUMMARY:ONE vs ANK Gaming
-URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
+URL:https://www.youtube.com/@garenaaovtw/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T070000Z
+UID:pandascore-match-1643080@esport-ics
+DTSTART:20261017T070000Z
+DTEND:20261017T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Summer 2026 - Playoffs
+SUMMARY:Upper bracket final: ANK Gaming vs TBD
 END:VEVENT
 END:VCALENDAR

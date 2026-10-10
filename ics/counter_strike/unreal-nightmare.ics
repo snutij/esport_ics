@@ -45,6 +45,17 @@ DESCRIPTION:FRAG - University 2026 - Playoffs\nWatch: https://www.twitch.tv
  /fragadelphia
 SUMMARY:Upper bracket round 1 match 3: Unreal Nightmare vs Team Fathom Gami
  ng
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+URL:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T201500Z
+UID:pandascore-match-1739526@esport-ics
+DTSTART:20261010T201500Z
+DTEND:20261010T223000Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /fragadelphia2
+SUMMARY:Lower bracket round 2 match 1: WaR vs Unreal Nightmare
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia2
 END:VEVENT
 END:VCALENDAR

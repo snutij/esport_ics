@@ -214,4 +214,13 @@ DESCRIPTION:Garena Challenger Series - Summer 2026 - Group Stage\nWatch: ht
 SUMMARY:HKA vs FW
 URL;VALUE=URI:https://www.youtube.com/@garenaaovtw/streams
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T110000Z
+UID:pandascore-match-1643081@esport-ics
+DTSTART:20261017T110000Z
+DTEND:20261017T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Summer 2026 - Playoffs
+SUMMARY:Lower bracket semifinal: TBD vs FW
+END:VEVENT
 END:VCALENDAR
