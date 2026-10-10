@@ -128,6 +128,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #3 season 52 2026 - Playoff
  s\nWatch: https://kick.com/ESLCS
 SUMMARY:Upper Bracket Semifinal 2: Orgless vs MandL
+URL:https://kick.com/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T090000Z
+UID:pandascore-match-1728007@esport-ics
+DTSTART:20261011T090000Z
+DTEND:20261011T111500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Oceania Cup #3 season 52 2026 - Playoff
+ s\nWatch: https://kick.com/ESLCS
+SUMMARY:Lower Bracket Semifinal: RSTR vs Orgless
 URL;VALUE=URI:https://kick.com/ESLCS
 END:VEVENT
 END:VCALENDAR

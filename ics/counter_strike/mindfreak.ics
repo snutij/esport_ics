@@ -462,6 +462,17 @@ CLASS:PUBLIC
 DESCRIPTION:ANZC Locals - Brisbane: Spring 2026 - Group B\nWatch: https://w
  ww.twitch.tv/dfragtv
 SUMMARY:MF vs Abyssal
-URL;VALUE=URI:https://www.twitch.tv/dfragtv
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T110000Z
+UID:pandascore-match-1735023@esport-ics
+DTSTART:20261010T110000Z
+DTEND:20261010T131500Z
+CLASS:PUBLIC
+DESCRIPTION:ANZC Locals - Brisbane: Spring 2026 - Group B\nWatch: https://k
+ ick.com/churchd0gg
+SUMMARY:Decider Match: Abyssal vs MF
+URL;VALUE=URI:https://kick.com/churchd0gg
 END:VEVENT
 END:VCALENDAR

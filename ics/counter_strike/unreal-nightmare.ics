@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Unreal Nightmare 
+X-WR-CALNAME:Unreal Nightmare
 SLUG:unreal-nightmare
 BEGIN:VEVENT
 DTSTAMP:20260905T010000Z
@@ -34,5 +34,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
  layoffs
 SUMMARY:Lower Bracket Round 2 match 2: FV vs Unreal Nightmare 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T140000Z
+UID:pandascore-match-1739512@esport-ics
+DTSTART:20261010T140000Z
+DTEND:20261010T144500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /fragadelphia
+SUMMARY:Upper bracket round 1 match 3: Unreal Nightmare vs Team Fathom Gami
+ ng
+URL;VALUE=URI:https://www.twitch.tv/fragadelphia
 END:VEVENT
 END:VCALENDAR

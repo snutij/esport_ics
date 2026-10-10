@@ -415,7 +415,7 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Group D\nWatch: https://www.twitch.tv/
  fragadelphia
 SUMMARY:SportsBetExpert vs Team Fathom Gaming
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+URL:https://www.twitch.tv/fragadelphia
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261009T190000Z
@@ -426,7 +426,7 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Group D\nWatch: https://www.twitch.tv/
  fragadelphia
 SUMMARY:WC vs SportsBetExpert
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+URL:https://www.twitch.tv/fragadelphia
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261009T200000Z
@@ -437,6 +437,17 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Group D\nWatch: https://www.twitch.tv/
  fragadelphia
 SUMMARY:NXG Esports vs SportsBetExpert
+URL:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T140000Z
+UID:pandascore-match-1739511@esport-ics
+DTSTART:20261010T140000Z
+DTEND:20261010T144500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /fragadelphia
+SUMMARY:Upper bracket round 1 match 2: SportsBetExpert vs Holy Cannoli
 URL;VALUE=URI:https://www.twitch.tv/fragadelphia
 END:VEVENT
 END:VCALENDAR

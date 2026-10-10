@@ -155,6 +155,16 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Wallachia season 9 2026 - Group Stage\nWatch: https://www
  .twitch.tv/pgl_dota2en2
 SUMMARY:Round 4: MOUZ vs HKR
-URL;VALUE=URI:https://www.twitch.tv/pgl_dota2en2
+URL:https://www.twitch.tv/pgl_dota2en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T210000Z
+UID:pandascore-match-1740309@esport-ics
+DTSTART:20261010T210000Z
+DTEND:20261010T231500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - South America Open Qualifier 1 season 30 2026 - P
+ layoffs
+SUMMARY:Semifinal 1: HKR vs New Growth
 END:VEVENT
 END:VCALENDAR

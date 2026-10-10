@@ -187,7 +187,7 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
  fragadelphia
 SUMMARY:WaR vs IMP
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+URL:https://www.twitch.tv/fragadelphia
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261009T233000Z
@@ -198,7 +198,7 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
  fragadelphia
 SUMMARY:ELU vs WaR
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+URL:https://www.twitch.tv/fragadelphia
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261009T233000Z
@@ -209,6 +209,17 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Group C\nWatch: https://www.twitch.tv/
  fragadelphia
 SUMMARY:WaR vs Midwest Maniacs
+URL:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T140000Z
+UID:pandascore-match-1739510@esport-ics
+DTSTART:20261010T140000Z
+DTEND:20261010T144500Z
+CLASS:PUBLIC
+DESCRIPTION:FRAG - University 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /fragadelphia
+SUMMARY:Upper bracket round 1 match 1: MARS vs WaR
 URL;VALUE=URI:https://www.twitch.tv/fragadelphia
 END:VEVENT
 END:VCALENDAR
