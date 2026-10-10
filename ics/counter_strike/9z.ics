@@ -779,6 +779,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/ESLCS
 SUMMARY:Round 5: FURIA vs 9z
-URL;VALUE=URI:https://www.twitch.tv/ESLCS
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T083000Z
+UID:pandascore-match-1741357@esport-ics
+DTSTART:20261014T083000Z
+DTEND:20261014T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - 2026 - Group A\nWatch: https:/
+ /www.twitch.tv/thunderpicktv
+SUMMARY:9z vs AUR
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

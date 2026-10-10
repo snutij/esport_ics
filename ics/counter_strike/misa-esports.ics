@@ -1936,6 +1936,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group D\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Decider Match: Azuolas vs MISA
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T080000Z
+UID:pandascore-match-1727752@esport-ics
+DTSTART:20261011T080000Z
+DTEND:20261011T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Qualification Match 1: JustP vs MISA
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

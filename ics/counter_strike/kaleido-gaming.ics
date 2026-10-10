@@ -324,6 +324,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
  ayoffs\nWatch: https://kick.com/sv_theunknown
 SUMMARY:Upper Bracket Semifinal 2: KG vs JS
-URL;VALUE=URI:https://kick.com/sv_theunknown
+URL:https://kick.com/sv_theunknown
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T130000Z
+UID:pandascore-match-1731132@esport-ics
+DTSTART:20261011T130000Z
+DTEND:20261011T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
+ ayoffs
+SUMMARY:Lower Bracket Quarterfinal 2: KG vs CW
 END:VEVENT
 END:VCALENDAR

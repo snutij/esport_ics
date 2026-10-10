@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:ANZC Locals - Brisbane: Spring 2026 - Group A\nWatch: https://w
  ww.twitch.tv/dfragtv
 SUMMARY:Decider Match: KZG vs BGNS Orange
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T233000Z
+UID:pandascore-match-1735003@esport-ics
+DTSTART:20261010T233000Z
+DTEND:20261011T001500Z
+CLASS:PUBLIC
+DESCRIPTION:ANZC Locals - Brisbane: Spring 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/dfragtv
+SUMMARY:Upper Bracket Semifinal 2: FLY vs KZG
 URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR

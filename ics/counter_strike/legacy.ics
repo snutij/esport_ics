@@ -705,6 +705,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/ESLCSb
 SUMMARY:Round 4: LGC vs M80
-URL;VALUE=URI:https://www.twitch.tv/ESLCSb
+URL:https://www.twitch.tv/ESLCSb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T133000Z
+UID:pandascore-match-1741363@esport-ics
+DTSTART:20261014T133000Z
+DTEND:20261014T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - 2026 - Group B\nWatch: https:/
+ /www.twitch.tv/thunderpicktv
+SUMMARY:LGC vs PRV
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

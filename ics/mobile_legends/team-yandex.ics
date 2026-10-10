@@ -481,6 +481,17 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Continental Championships - Season 8 2026 - Playoffs\nWatc
  h: https://www.twitch.tv/mlbb_cis
 SUMMARY:Upper Bracket Semifinal 1: YNDX vs Aurevia Team
+URL:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T143000Z
+UID:pandascore-match-1735090@esport-ics
+DTSTART:20261011T143000Z
+DTEND:20261011T181500Z
+CLASS:PUBLIC
+DESCRIPTION:MLBB Continental Championships - Season 8 2026 - Playoffs\nWatc
+ h: https://www.twitch.tv/mlbb_cis
+SUMMARY:Lower Bracket Semifinal: YNDX vs TBD
 URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
 END:VEVENT
 END:VCALENDAR

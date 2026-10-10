@@ -1163,6 +1163,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group C\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Winners' Match: LVKD vs FF
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T110000Z
+UID:pandascore-match-1727753@esport-ics
+DTSTART:20261011T110000Z
+DTEND:20261011T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In\nWatch: https:/
+ /kick.com/nodwin_cs2
+SUMMARY:Qualification Match 2: FF vs Gothic
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

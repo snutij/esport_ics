@@ -552,7 +552,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
  ayoffs\nWatch: https://www.youtube.com/watch?v=Bi0JogURkNY
 SUMMARY:Lower Bracket Round 3 Match 2: TU vs CW
-URL;VALUE=URI:https://www.youtube.com/watch?v=Bi0JogURkNY
+URL:https://www.youtube.com/watch?v=Bi0JogURkNY
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261011T040000Z
@@ -564,5 +564,15 @@ DESCRIPTION:MESA Pro Series - Fall 2026 - Playoffs\nWatch: https://www.yout
  ube.com/@mesa_tv/streams
 SUMMARY:Lower Bracket Final: NEXVOID vs CW
 URL;VALUE=URI:https://www.youtube.com/@mesa_tv/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T130000Z
+UID:pandascore-match-1731132@esport-ics
+DTSTART:20261011T130000Z
+DTEND:20261011T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
+ ayoffs
+SUMMARY:Lower Bracket Quarterfinal 2: KG vs CW
 END:VEVENT
 END:VCALENDAR

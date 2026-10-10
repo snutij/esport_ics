@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 3 2026 - Group Stage\nWatch: https://live.bil
  ibili.com/23612045
 SUMMARY:Round 3: SV vs HUN
+URL:https://live.bilibili.com/23612045
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T090000Z
+UID:pandascore-match-1721588@esport-ics
+DTSTART:20261011T090000Z
+DTEND:20261011T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 3 2026 - Group Stage\nWatch: https://live.bil
+ ibili.com/23612045
+SUMMARY:Round 4: HUN vs SSE
 URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR

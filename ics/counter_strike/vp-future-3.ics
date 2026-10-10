@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 7 2026 - Group D\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Winners' Match: VP.F3 vs EACE
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T103000Z
+UID:pandascore-match-1728302@esport-ics
+DTSTART:20261011T103000Z
+DTEND:20261011T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Group D\nWatch: h
+ ttps://kick.com/eplcs_en
+SUMMARY:Decider Match: TheChampionGG vs VP.F3
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

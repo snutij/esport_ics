@@ -833,4 +833,15 @@ DESCRIPTION:Stake Pulse - Beat III 2026 - Group A\nWatch: https://kick.com/
 SUMMARY:Opening Match 2: NIP vs BCA
 URL;VALUE=URI:https://kick.com/stake_pulse
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T110000Z
+UID:pandascore-match-1741358@esport-ics
+DTSTART:20261014T110000Z
+DTEND:20261014T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - 2026 - Group A\nWatch: https:/
+ /www.twitch.tv/thunderpicktv
+SUMMARY:FAL vs NIP
+URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+END:VEVENT
 END:VCALENDAR
