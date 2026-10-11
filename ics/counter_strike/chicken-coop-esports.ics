@@ -392,4 +392,14 @@ DESCRIPTION:ESL Challenger League - North America Cup #3 season 52 2026 - P
  layoffs
 SUMMARY:Upper Bracket Semifinal 1: CCE vs OT
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T010000Z
+UID:pandascore-match-1731088@esport-ics
+DTSTART:20261013T010000Z
+DTEND:20261013T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Upper Bracket Final: CCE vs ZOMB
+END:VEVENT
 END:VCALENDAR
