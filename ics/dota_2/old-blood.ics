@@ -15,4 +15,13 @@ DESCRIPTION:DreamLeague - Western Europe Open Qualifier 1 season 30 2026 -
  Playoffs
 SUMMARY:Semifinal 1: PckCp vs old blood
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T140000Z
+UID:pandascore-match-1743558@esport-ics
+DTSTART:20261012T140000Z
+DTEND:20261012T161500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Western Europe Open Qualifier 2 2026 - Playoffs
+SUMMARY:Semifinal 1: old blood vs White Sails
+END:VEVENT
 END:VCALENDAR

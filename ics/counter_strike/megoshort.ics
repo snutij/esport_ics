@@ -1061,6 +1061,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #11 2026 - Group B\nWatch
  : https://kick.com/cct_cs
 SUMMARY:Decider match: Noir Verse vs MEGO
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T170000Z
+UID:pandascore-match-1733046@esport-ics
+DTSTART:20261012T170000Z
+DTEND:20261012T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #11 2026 - Play-In\nWatch
+ : https://kick.com/cct_cs
+SUMMARY:6666 vs MEGO
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

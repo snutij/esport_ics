@@ -819,6 +819,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In Group D\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Elimination Match: ENJOY vs Azuolas
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T080000Z
+UID:pandascore-match-1733041@esport-ics
+DTSTART:20261012T080000Z
+DTEND:20261012T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #11 2026 - Play-In\nWatch
+ : https://kick.com/cct_cs
+SUMMARY:ENJOY vs SSins
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

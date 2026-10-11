@@ -726,7 +726,7 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group D\nWatch: https://www.twitch.
  tv/d0kt0r3n
 SUMMARY:SASHI vs VOCA
-URL;VALUE=URI:https://www.twitch.tv/d0kt0r3n
+URL:https://www.twitch.tv/d0kt0r3n
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261002T160000Z
@@ -737,6 +737,39 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group D\nWatch: https://www.twitch.
  tv/prestigeesportscs
 SUMMARY:VOCA vs PRE
-URL;VALUE=URI:https://www.twitch.tv/prestigeesportscs
+URL:https://www.twitch.tv/prestigeesportscs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T080000Z
+UID:pandascore-match-1743522@esport-ics
+DTSTART:20261016T080000Z
+DTEND:20261016T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group B\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:VOCA vs PHA
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T120000Z
+UID:pandascore-match-1743524@esport-ics
+DTSTART:20261016T120000Z
+DTEND:20261016T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group B\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:VOCA vs HAVU
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T160000Z
+UID:pandascore-match-1743527@esport-ics
+DTSTART:20261016T160000Z
+DTEND:20261016T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group B\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:VOCA vs RGG
+URL;VALUE=URI:https://kick.com/elisaesports
 END:VEVENT
 END:VCALENDAR

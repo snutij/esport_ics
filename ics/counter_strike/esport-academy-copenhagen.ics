@@ -696,6 +696,39 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Playoffs\nWatch: https://k
  ick.com/roman
 SUMMARY:Lower Bracket Round 1 Match 1: SNG vs EAC
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T080000Z
+UID:pandascore-match-1743516@esport-ics
+DTSTART:20261015T080000Z
+DTEND:20261015T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:WBT vs EAC
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T140000Z
+UID:pandascore-match-1743519@esport-ics
+DTSTART:20261015T140000Z
+DTEND:20261015T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:EAC vs BJNG
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T180000Z
+UID:pandascore-match-1743521@esport-ics
+DTSTART:20261015T180000Z
+DTEND:20261015T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:EAC vs ENCE
+URL;VALUE=URI:https://kick.com/elisaesports
 END:VEVENT
 END:VCALENDAR

@@ -878,6 +878,70 @@ CLASS:PUBLIC
 DESCRIPTION:PARI Universe - Closed Qualifier 2026 - Playoffs\nWatch: https:
  //kick.com/fissure_dota_en
 SUMMARY:Lower Bracket Round 1 match 2: BBL vs Nemiga
-URL;VALUE=URI:https://kick.com/fissure_dota_en
+URL:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T070000Z
+UID:pandascore-match-1743579@esport-ics
+DTSTART:20261012T070000Z
+DTEND:20261012T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:YeS vs Nemiga
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T130000Z
+UID:pandascore-match-1743555@esport-ics
+DTSTART:20261012T130000Z
+DTEND:20261012T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Eastern Europe Open Qualifier 2 2026 - Playoffs
+SUMMARY:Grand final: Nemiga vs 111
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T160000Z
+UID:pandascore-match-1743582@esport-ics
+DTSTART:20261013T160000Z
+DTEND:20261013T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Nemiga vs Dawn Bulls
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T160000Z
+UID:pandascore-match-1743585@esport-ics
+DTSTART:20261014T160000Z
+DTEND:20261014T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Nemiga vs salamit
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T130000Z
+UID:pandascore-match-1743587@esport-ics
+DTSTART:20261016T130000Z
+DTEND:20261016T151500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Nemiga vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T070000Z
+UID:pandascore-match-1743590@esport-ics
+DTSTART:20261017T070000Z
+DTEND:20261017T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Nemiga vs KALMY
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

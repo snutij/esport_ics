@@ -355,6 +355,39 @@ DESCRIPTION:DreamLeague - Western Europe Open Qualifier 1 season 30 2026 -
 SUMMARY:Semifinal 1: PckCp vs old blood
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261012T100000Z
+UID:pandascore-match-1743562@esport-ics
+DTSTART:20261012T100000Z
+DTEND:20261012T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:CH vs PckCp
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T100000Z
+UID:pandascore-match-1743566@esport-ics
+DTSTART:20261013T100000Z
+DTEND:20261013T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:PckCp vs ICxI
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T070000Z
+UID:pandascore-match-1743567@esport-ics
+DTSTART:20261014T070000Z
+DTEND:20261014T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:LYNX vs PckCp
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261015T100000Z
 UID:pandascore-match-1743407@esport-ics
 DTSTART:20261015T100000Z
@@ -364,5 +397,27 @@ DESCRIPTION:DreamLeague - Western Europe Closed Qualifier season 30 2026 -
  Playoffs\nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Upper Bracket Quarterfinal 2: LEGION vs PckCp
 URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T130000Z
+UID:pandascore-match-1743571@esport-ics
+DTSTART:20261015T130000Z
+DTEND:20261015T151500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Z10 vs PckCp
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T190000Z
+UID:pandascore-match-1743573@esport-ics
+DTSTART:20261015T190000Z
+DTEND:20261015T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:PckCp vs Mena Warriors
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

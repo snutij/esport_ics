@@ -798,6 +798,61 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Lower Bracket Quarterfinal 1: TS.A vs Nemiga
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T130000Z
+UID:pandascore-match-1743581@esport-ics
+DTSTART:20261013T130000Z
+DTEND:20261013T151500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Dawn Bulls vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T070000Z
+UID:pandascore-match-1743586@esport-ics
+DTSTART:20261015T070000Z
+DTEND:20261015T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:TS.A vs salamit
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T130000Z
+UID:pandascore-match-1743587@esport-ics
+DTSTART:20261016T130000Z
+DTEND:20261016T151500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Nemiga vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T100000Z
+UID:pandascore-match-1743591@esport-ics
+DTSTART:20261017T100000Z
+DTEND:20261017T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:KALMY vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T130000Z
+UID:pandascore-match-1743592@esport-ics
+DTSTART:20261017T130000Z
+DTEND:20261017T151500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:YeS vs TS.A
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

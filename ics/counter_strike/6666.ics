@@ -339,6 +339,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In\nWatch: https:/
  /kick.com/nodwin_cs2
 SUMMARY:Qualification Match 3: 6666 vs Morrow Esports
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T170000Z
+UID:pandascore-match-1733046@esport-ics
+DTSTART:20261012T170000Z
+DTEND:20261012T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #11 2026 - Play-In\nWatch
+ : https://kick.com/cct_cs
+SUMMARY:6666 vs MEGO
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

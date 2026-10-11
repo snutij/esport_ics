@@ -879,4 +879,37 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Group D
 SUMMARY:Decider match: ENCE vs SKR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:pandascore-match-1743517@esport-ics
+DTSTART:20261015T100000Z
+DTEND:20261015T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:ENCE vs BJNG
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T120000Z
+UID:pandascore-match-1743518@esport-ics
+DTSTART:20261015T120000Z
+DTEND:20261015T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:WBT vs ENCE
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T180000Z
+UID:pandascore-match-1743521@esport-ics
+DTSTART:20261015T180000Z
+DTEND:20261015T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:EAC vs ENCE
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
 END:VCALENDAR

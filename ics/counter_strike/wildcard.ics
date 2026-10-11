@@ -696,14 +696,14 @@ SUMMARY:Upper bracket semifinal 2: NRG vs WC
 URL:https://kick.com/analyticvictor
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261011T203000Z
+DTSTAMP:20261011T230000Z
 UID:pandascore-match-1739536@esport-ics
-DTSTART:20261011T203000Z
-DTEND:20261012T001500Z
+DTSTART:20261011T230000Z
+DTEND:20261012T024500Z
 CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Playoffs\nWatch: https://www.twitch.tv
  /fragadelphia
-SUMMARY:Grand final: WC vs TBD
+SUMMARY:Grand final: WC vs DENDELE CS
 URL;VALUE=URI:https://www.twitch.tv/fragadelphia
 END:VEVENT
 END:VCALENDAR

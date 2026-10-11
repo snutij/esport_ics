@@ -445,6 +445,39 @@ SUMMARY:Lower Bracket Round 1 Match 2: INF vs WBT
 URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T080000Z
+UID:pandascore-match-1743516@esport-ics
+DTSTART:20261015T080000Z
+DTEND:20261015T084500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:WBT vs EAC
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T120000Z
+UID:pandascore-match-1743518@esport-ics
+DTSTART:20261015T120000Z
+DTEND:20261015T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:WBT vs ENCE
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T160000Z
+UID:pandascore-match-1743520@esport-ics
+DTSTART:20261015T160000Z
+DTEND:20261015T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:WBT vs BJNG
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261019T090000Z
 UID:pandascore-match-1742200@esport-ics
 DTSTART:20261019T090000Z

@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mena Warriors
+SLUG:mena-warriors
+BEGIN:VEVENT
+DTSTAMP:20261012T140000Z
+UID:pandascore-match-1743559@esport-ics
+DTSTART:20261012T140000Z
+DTEND:20261012T161500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Western Europe Open Qualifier 2 2026 - Playoffs
+SUMMARY:Semifinal 2: Mena Warriors vs Dawn Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T160000Z
+UID:pandascore-match-1743564@esport-ics
+DTSTART:20261012T160000Z
+DTEND:20261012T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Mena Warriors vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T190000Z
+UID:pandascore-match-1743569@esport-ics
+DTSTART:20261014T190000Z
+DTEND:20261014T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Z10 vs Mena Warriors
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T160000Z
+UID:pandascore-match-1743572@esport-ics
+DTSTART:20261015T160000Z
+DTEND:20261015T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:ICxI vs Mena Warriors
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T190000Z
+UID:pandascore-match-1743573@esport-ics
+DTSTART:20261015T190000Z
+DTEND:20261015T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:PckCp vs Mena Warriors
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T100000Z
+UID:pandascore-match-1743575@esport-ics
+DTSTART:20261016T100000Z
+DTEND:20261016T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Mena Warriors vs CH
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+END:VCALENDAR

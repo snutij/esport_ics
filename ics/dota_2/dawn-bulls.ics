@@ -36,7 +36,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:Dawn Bulls vs Nemiga
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260916T090000Z
@@ -81,5 +81,69 @@ DESCRIPTION:European Pro League - Season 40 2026 - Group A\nWatch: https://
  www.twitch.tv/ya4iller
 SUMMARY:Z10 vs Dawn Bulls
 URL:https://www.twitch.tv/ya4iller
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T140000Z
+UID:pandascore-match-1743559@esport-ics
+DTSTART:20261012T140000Z
+DTEND:20261012T161500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Western Europe Open Qualifier 2 2026 - Playoffs
+SUMMARY:Semifinal 2: Mena Warriors vs Dawn Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T190000Z
+UID:pandascore-match-1743580@esport-ics
+DTSTART:20261012T190000Z
+DTEND:20261012T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Dawn Bulls vs KALMY
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T130000Z
+UID:pandascore-match-1743581@esport-ics
+DTSTART:20261013T130000Z
+DTEND:20261013T151500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Dawn Bulls vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T160000Z
+UID:pandascore-match-1743582@esport-ics
+DTSTART:20261013T160000Z
+DTEND:20261013T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Nemiga vs Dawn Bulls
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T130000Z
+UID:pandascore-match-1743584@esport-ics
+DTSTART:20261014T130000Z
+DTEND:20261014T151500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Dawn Bulls vs salamit
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T160000Z
+UID:pandascore-match-1743593@esport-ics
+DTSTART:20261017T160000Z
+DTEND:20261017T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Dawn Bulls vs YeS
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

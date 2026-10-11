@@ -607,6 +607,39 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #9 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs6
 SUMMARY:Lower Bracket Semifinal: The Golden Horde vs BJNG
-URL;VALUE=URI:https://kick.com/cct_cs6
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:pandascore-match-1743517@esport-ics
+DTSTART:20261015T100000Z
+DTEND:20261015T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:ENCE vs BJNG
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T140000Z
+UID:pandascore-match-1743519@esport-ics
+DTSTART:20261015T140000Z
+DTEND:20261015T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:EAC vs BJNG
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T160000Z
+UID:pandascore-match-1743520@esport-ics
+DTSTART:20261015T160000Z
+DTEND:20261015T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:WBT vs BJNG
+URL;VALUE=URI:https://kick.com/elisaesports
 END:VEVENT
 END:VCALENDAR

@@ -320,6 +320,61 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:ICxI vs YeS
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T100000Z
+UID:pandascore-match-1743566@esport-ics
+DTSTART:20261013T100000Z
+DTEND:20261013T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:PckCp vs ICxI
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T100000Z
+UID:pandascore-match-1743568@esport-ics
+DTSTART:20261014T100000Z
+DTEND:20261014T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:ICxI vs LYNX
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:pandascore-match-1743570@esport-ics
+DTSTART:20261015T100000Z
+DTEND:20261015T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Z10 vs ICxI
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T160000Z
+UID:pandascore-match-1743572@esport-ics
+DTSTART:20261015T160000Z
+DTEND:20261015T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:ICxI vs Mena Warriors
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T190000Z
+UID:pandascore-match-1743576@esport-ics
+DTSTART:20261017T190000Z
+DTEND:20261017T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:CH vs ICxI
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

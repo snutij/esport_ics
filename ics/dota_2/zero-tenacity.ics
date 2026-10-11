@@ -914,6 +914,61 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 40 2026 - Playoffs\nWatch: https:/
  /kick.com/epldota_en2
 SUMMARY:Lower Bracket Quarterfinal 2: Z10 vs LYNX
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T070000Z
+UID:pandascore-match-1743565@esport-ics
+DTSTART:20261013T070000Z
+DTEND:20261013T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:LYNX vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T190000Z
+UID:pandascore-match-1743569@esport-ics
+DTSTART:20261014T190000Z
+DTEND:20261014T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Z10 vs Mena Warriors
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:pandascore-match-1743570@esport-ics
+DTSTART:20261015T100000Z
+DTEND:20261015T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Z10 vs ICxI
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T130000Z
+UID:pandascore-match-1743571@esport-ics
+DTSTART:20261015T130000Z
+DTEND:20261015T151500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Z10 vs PckCp
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T070000Z
+UID:pandascore-match-1743574@esport-ics
+DTSTART:20261016T070000Z
+DTEND:20261016T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:CH vs Z10
 URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

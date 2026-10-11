@@ -941,6 +941,39 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group B\nWatch: https://www.twitch.
  tv/titaanitv
 SUMMARY:HAVU vs SNG
-URL;VALUE=URI:https://www.twitch.tv/titaanitv
+URL:https://www.twitch.tv/titaanitv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T100000Z
+UID:pandascore-match-1743523@esport-ics
+DTSTART:20261016T100000Z
+DTEND:20261016T104500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group B\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:HAVU vs RGG
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T120000Z
+UID:pandascore-match-1743524@esport-ics
+DTSTART:20261016T120000Z
+DTEND:20261016T124500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group B\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:VOCA vs HAVU
+URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T180000Z
+UID:pandascore-match-1743528@esport-ics
+DTSTART:20261016T180000Z
+DTEND:20261016T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group B\nWatch: https://kick.
+ com/elisaesports
+SUMMARY:PHA vs HAVU
+URL;VALUE=URI:https://kick.com/elisaesports
 END:VEVENT
 END:VCALENDAR
