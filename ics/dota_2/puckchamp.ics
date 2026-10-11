@@ -354,4 +354,15 @@ DESCRIPTION:DreamLeague - Western Europe Open Qualifier 1 season 30 2026 -
  Playoffs
 SUMMARY:Semifinal 1: PckCp vs old blood
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:pandascore-match-1743407@esport-ics
+DTSTART:20261015T100000Z
+DTEND:20261015T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Western Europe Closed Qualifier season 30 2026 - 
+ Playoffs\nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Upper Bracket Quarterfinal 2: LEGION vs PckCp
+URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
+END:VEVENT
 END:VCALENDAR

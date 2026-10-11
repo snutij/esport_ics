@@ -574,6 +574,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
  ayoffs\nWatch: https://kick.com/core_mn
 SUMMARY:Lower Bracket Quarterfinal 2: KG vs CW
-URL;VALUE=URI:https://kick.com/core_mn
+URL:https://kick.com/core_mn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T130000Z
+UID:pandascore-match-1731134@esport-ics
+DTSTART:20261012T130000Z
+DTEND:20261012T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
+ ayoffs
+SUMMARY:Lower Bracket Semifinal: AE vs CW
 END:VEVENT
 END:VCALENDAR

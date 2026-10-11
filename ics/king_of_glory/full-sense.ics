@@ -399,6 +399,17 @@ CLASS:PUBLIC
 DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
  youtube.com/watch?v=4uB-8jW2xmY
 SUMMARY:FS vs BAC
-URL;VALUE=URI:https://www.youtube.com/watch?v=4uB-8jW2xmY
+URL:https://www.youtube.com/watch?v=4uB-8jW2xmY
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T100000Z
+UID:pandascore-match-1736638@esport-ics
+DTSTART:20261023T100000Z
+DTEND:20261023T151500Z
+CLASS:PUBLIC
+DESCRIPTION:RoV Pro League - Winter 2026 - Playoffs\nWatch: https://www.you
+ tube.com/@garenarovthai/streams
+SUMMARY:Upper Bracket Final: FS vs BRU
+URL;VALUE=URI:https://www.youtube.com/@garenarovthai/streams
 END:VEVENT
 END:VCALENDAR
