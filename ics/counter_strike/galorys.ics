@@ -1024,6 +1024,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
  layoffs\nWatch: https://kick.com/cosiq
 SUMMARY:Lower Bracket Round 3 Match 1: GLS vs MEIA NOITE
-URL;VALUE=URI:https://kick.com/cosiq
+URL:https://kick.com/cosiq
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T210000Z
+UID:pandascore-match-1731042@esport-ics
+DTSTART:20261011T210000Z
+DTEND:20261011T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Quarterfinal 1: GLS vs YAW
 END:VEVENT
 END:VCALENDAR

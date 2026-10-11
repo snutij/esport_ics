@@ -432,14 +432,14 @@ SUMMARY:FLY vs madlikewizards
 URL:https://www.twitch.tv/dfragtv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T233000Z
+DTSTAMP:20261011T001000Z
 UID:pandascore-match-1735003@esport-ics
-DTSTART:20261010T233000Z
-DTEND:20261011T001500Z
+DTSTART:20261011T001000Z
+DTEND:20261011T005500Z
 CLASS:PUBLIC
 DESCRIPTION:ANZC Locals - Brisbane: Spring 2026 - Playoffs\nWatch: https://
- www.twitch.tv/dfragtv
+ www.twitch.tv/dfragtv_cs2
 SUMMARY:Upper Bracket Semifinal 2: FLY vs KZG
-URL;VALUE=URI:https://www.twitch.tv/dfragtv
+URL;VALUE=URI:https://www.twitch.tv/dfragtv_cs2
 END:VEVENT
 END:VCALENDAR

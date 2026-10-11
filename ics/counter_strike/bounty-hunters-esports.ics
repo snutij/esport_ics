@@ -1189,6 +1189,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/cmarty
 SUMMARY:Upper Bracket Semifinal 2: BHE vs LDP
-URL;VALUE=URI:https://www.twitch.tv/cmarty
+URL:https://www.twitch.tv/cmarty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T210000Z
+UID:pandascore-match-1731041@esport-ics
+DTSTART:20261011T210000Z
+DTEND:20261011T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Quarterfinal 2: BORRA vs BHE
 END:VEVENT
 END:VCALENDAR
