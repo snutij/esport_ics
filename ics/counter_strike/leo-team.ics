@@ -1259,6 +1259,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Playoffs
  \nWatch: https://www.twitch.tv/breezebrothersmedia
 SUMMARY:Semifinal 2: Leo vs JustP
-URL;VALUE=URI:https://www.twitch.tv/breezebrothersmedia
+URL:https://www.twitch.tv/breezebrothersmedia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T104500Z
+UID:pandascore-match-1742225@esport-ics
+DTSTART:20261019T104500Z
+DTEND:20261019T113000Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Group D
+SUMMARY:ASTR vs Leo
 END:VEVENT
 END:VCALENDAR

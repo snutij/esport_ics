@@ -1190,6 +1190,15 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat II 2026 - Group D\nWatch: https://kick.com/s
  take_pulse
 SUMMARY:Elimination Match: EF vs ASTR
-URL;VALUE=URI:https://kick.com/stake_pulse
+URL:https://kick.com/stake_pulse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T104500Z
+UID:pandascore-match-1742225@esport-ics
+DTSTART:20261019T104500Z
+DTEND:20261019T113000Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Group D
+SUMMARY:ASTR vs Leo
 END:VEVENT
 END:VCALENDAR

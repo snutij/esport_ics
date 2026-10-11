@@ -1022,6 +1022,15 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Playoffs\nWatch: https://k
  ick.com/roman
 SUMMARY:Lower Bracket Round 1 Match 2: INF vs WBT
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T090000Z
+UID:pandascore-match-1742194@esport-ics
+DTSTART:20261019T090000Z
+DTEND:20261019T094500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Group A
+SUMMARY:INF vs Insiders Esport
 END:VEVENT
 END:VCALENDAR

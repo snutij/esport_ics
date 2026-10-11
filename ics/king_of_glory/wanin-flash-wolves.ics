@@ -212,7 +212,7 @@ CLASS:PUBLIC
 DESCRIPTION:Garena Challenger Series - Summer 2026 - Group Stage\nWatch: ht
  tps://www.youtube.com/watch?v=FFUHA9WY9sg
 SUMMARY:HKA vs FW
-URL;VALUE=URI:https://www.youtube.com/watch?v=FFUHA9WY9sg
+URL:https://www.youtube.com/watch?v=FFUHA9WY9sg
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261017T110000Z
@@ -221,6 +221,6 @@ DTSTART:20261017T110000Z
 DTEND:20261017T161500Z
 CLASS:PUBLIC
 DESCRIPTION:Garena Challenger Series - Summer 2026 - Playoffs
-SUMMARY:Lower bracket semifinal: TBD vs FW
+SUMMARY:Lower bracket semifinal: HKA vs FW
 END:VEVENT
 END:VCALENDAR

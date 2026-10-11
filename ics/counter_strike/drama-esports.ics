@@ -544,6 +544,15 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 5: Black Phoenix vs DRAMA
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T090000Z
+UID:pandascore-match-1742199@esport-ics
+DTSTART:20261019T090000Z
+DTEND:20261019T094500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Group B
+SUMMARY:BCG vs DRAMA
 END:VEVENT
 END:VCALENDAR

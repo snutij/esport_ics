@@ -690,7 +690,7 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
  ck.com/roman
 SUMMARY:SNG vs SAW
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261007T200000Z
@@ -701,6 +701,15 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Group B\nWatch: https://ki
  ck.com/roman
 SUMMARY:SAW vs RBLS
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T104500Z
+UID:pandascore-match-1742224@esport-ics
+DTSTART:20261019T104500Z
+DTEND:20261019T113000Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Group D
+SUMMARY:SAW vs BKH
 END:VEVENT
 END:VCALENDAR

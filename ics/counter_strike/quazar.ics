@@ -786,6 +786,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 12 2026 - Playoffs\nWatch: https:
  //kick.com/nodwin_cs2
 SUMMARY:Round of 16 Match 4: SIN vs QUA
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T070000Z
+UID:pandascore-match-1742236@esport-ics
+DTSTART:20261016T070000Z
+DTEND:20261016T091500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Series #3 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/gluck_esports
+SUMMARY:Upper Bracket Quarterfinal 1: QUA vs d06eg
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR
