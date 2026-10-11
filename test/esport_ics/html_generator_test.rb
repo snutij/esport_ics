@@ -104,24 +104,27 @@ module EsportIcs
     end
 
     def test_generate_html_includes_tutorial
-      Dir.mktmpdir do |tmpdir|
-        create_mock_ics_structure(tmpdir)
+      html = generate_html_with_mock_ics
 
-        generator = HtmlGenerator.new
-        stub_const(generator, :ICS_DIR, tmpdir) do
-          generator.build!
-          html = generator.send(:generate_html)
+      assert_equal(1, html.scan('class="tutorial collapsed"').length)
+      assert_includes(html, "Add a team calendar")
+    end
 
-          assert_equal(1, html.scan('class="tutorial collapsed"').length)
-          assert_includes(html, "Add a team calendar")
-          assert_includes(html, "desktop-calendar-instructions")
-          assert_includes(html, "mobile-calendar-instructions")
-          assert_includes(html, "Google Calendar")
-          assert_includes(html, "iPhone / iPad")
-          refute_includes(html, "Stay updated")
-          refute_includes(html, "📖")
-        end
-      end
+    def test_tutorial_includes_desktop_and_mobile_calendar_instructions
+      html = generate_html_with_mock_ics
+
+      assert_equal(
+        %w[desktop-calendar-instructions mobile-calendar-instructions],
+        html.scan(/class="((?:desktop|mobile)-calendar-instructions)"/).flatten
+      )
+      assert_includes(html, "Google Calendar")
+      assert_includes(html, "iPhone / iPad")
+    end
+
+    def test_tutorial_omits_generic_ai_sounding_copy
+      html = generate_html_with_mock_ics
+
+      refute_match(/Stay updated|📖/, html)
     end
 
     def test_generate_html_includes_search
@@ -267,6 +270,18 @@ module EsportIcs
     end
 
     private
+
+    def generate_html_with_mock_ics
+      Dir.mktmpdir do |tmpdir|
+        create_mock_ics_structure(tmpdir)
+
+        generator = HtmlGenerator.new
+        stub_const(generator, :ICS_DIR, tmpdir) do
+          generator.build!
+          generator.send(:generate_html)
+        end
+      end
+    end
 
     def create_mock_ics_structure(tmpdir)
       ["game_a", "game_b"].each do |game|
