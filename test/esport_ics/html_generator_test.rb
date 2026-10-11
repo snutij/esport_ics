@@ -112,8 +112,14 @@ module EsportIcs
           generator.build!
           html = generator.send(:generate_html)
 
-          assert_includes(html, "How to Subscribe")
-          assert_includes(html, "tutorial")
+          assert_equal(1, html.scan('class="tutorial collapsed"').length)
+          assert_includes(html, "Add a team calendar")
+          assert_includes(html, "desktop-calendar-instructions")
+          assert_includes(html, "mobile-calendar-instructions")
+          assert_includes(html, "Google Calendar")
+          assert_includes(html, "iPhone / iPad")
+          refute_includes(html, "Stay updated")
+          refute_includes(html, "📖")
         end
       end
     end
