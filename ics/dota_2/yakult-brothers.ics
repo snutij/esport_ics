@@ -499,6 +499,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Group D\nWatch: https://www.twitch
  .tv/BLASTDota
 SUMMARY:Elimination Match: GL vs YB
-URL;VALUE=URI:https://www.twitch.tv/BLASTDota
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T040000Z
+UID:pandascore-match-1745472@esport-ics
+DTSTART:20261013T040000Z
+DTEND:20261013T061500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - China Closed Qualifier season 30 2026 - Playoffs\
+ nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Upper Bracket Quarterfinal 2: YB vs Zenith
+URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 END:VCALENDAR

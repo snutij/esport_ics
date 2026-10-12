@@ -373,6 +373,17 @@ CLASS:PUBLIC
 DESCRIPTION:Europe MENA League - Stage 2 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/rainbow6
 SUMMARY:Upper bracket final: FLCS vs G2
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T160000Z
+UID:pandascore-match-1660375@esport-ics
+DTSTART:20261013T160000Z
+DTEND:20261013T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Europe MENA League - Stage 2 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/rainbow6
+SUMMARY:Lower bracket final: G2 vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

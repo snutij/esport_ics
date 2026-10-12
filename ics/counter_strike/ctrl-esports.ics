@@ -111,6 +111,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 7 2026 - Group C\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Winners' Match: CTRL vs VIT.A
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T080000Z
+UID:pandascore-match-1744788@esport-ics
+DTSTART:20261014T080000Z
+DTEND:20261014T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper Bracket Quarterfinal 3: CTRL vs SKR
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

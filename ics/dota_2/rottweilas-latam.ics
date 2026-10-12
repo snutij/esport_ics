@@ -15,4 +15,15 @@ DESCRIPTION:DreamLeague - South America Open Qualifier 1 season 30 2026 - P
  layoffs
 SUMMARY:Semifinal 2: Skyreavers vs RL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T210000Z
+UID:pandascore-match-1743389@esport-ics
+DTSTART:20261013T210000Z
+DTEND:20261013T231500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - South America Closed Qualifier season 30 2026 - P
+ layoffs\nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Upper bracket quarterfinal 3: Amaru Gaming vs RL
+URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
+END:VEVENT
 END:VCALENDAR
