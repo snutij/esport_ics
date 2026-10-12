@@ -211,17 +211,6 @@ SUMMARY:st0ny vs MASQ
 URL:https://www.twitch.tv/uzii_2620
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T170000Z
-UID:pandascore-match-1687993@esport-ics
-DTSTART:20261019T170000Z
-DTEND:20261019T174500Z
-CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
- ://www.twitch.tv/dust2tv
-SUMMARY:MASQ vs st0ny
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261019T190000Z
 UID:pandascore-match-1687996@esport-ics
 DTSTART:20261019T190000Z
@@ -230,6 +219,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:XI vs st0ny
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T200000Z
+UID:pandascore-match-1687993@esport-ics
+DTSTART:20261019T200000Z
+DTEND:20261019T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:MASQ vs st0ny
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT

@@ -572,17 +572,6 @@ SUMMARY:STA vs ECS
 URL:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T160000Z
-UID:pandascore-match-1687991@esport-ics
-DTSTART:20261019T160000Z
-DTEND:20261019T164500Z
-CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
- ://www.twitch.tv/dust2tv
-SUMMARY:ECS vs STA
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261026T180000Z
 UID:pandascore-match-1687999@esport-ics
 DTSTART:20261026T180000Z
@@ -613,6 +602,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:XI vs ECS
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T180000Z
+UID:pandascore-match-1687991@esport-ics
+DTSTART:20261102T180000Z
+DTEND:20261102T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:ECS vs STA
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT

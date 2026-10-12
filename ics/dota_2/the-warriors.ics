@@ -6,6 +6,17 @@ METHOD:PUBLISH
 X-WR-CALNAME:The Warriors
 SLUG:the-warriors
 BEGIN:VEVENT
+DTSTAMP:20261012T190000Z
+UID:pandascore-match-1744335@esport-ics
+DTSTART:20261012T190000Z
+DTEND:20261012T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Dawn Bulls vs The Warriors
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261013T130000Z
 UID:pandascore-match-1743370@esport-ics
 DTSTART:20261013T130000Z
@@ -15,5 +26,49 @@ DESCRIPTION:DreamLeague - Eastern Europe Closed Qualifier season 30 2026 -
  Playoffs\nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Upper bracket quarterfinal 3: PR vs The Warriors
 URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T190000Z
+UID:pandascore-match-1743583@esport-ics
+DTSTART:20261013T190000Z
+DTEND:20261013T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:The Warriors vs salamit
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T160000Z
+UID:pandascore-match-1743588@esport-ics
+DTSTART:20261016T160000Z
+DTEND:20261016T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:YeS vs The Warriors
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T070000Z
+UID:pandascore-match-1743590@esport-ics
+DTSTART:20261017T070000Z
+DTEND:20261017T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:Nemiga vs The Warriors
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T100000Z
+UID:pandascore-match-1743591@esport-ics
+DTSTART:20261017T100000Z
+DTEND:20261017T121500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
+ ick.com/epldota_en2
+SUMMARY:The Warriors vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
