@@ -61,17 +61,6 @@ SUMMARY:HUSK vs BLUEJAYS.de
 URL:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261012T180000Z
-UID:pandascore-match-1661636@esport-ics
-DTSTART:20261012T180000Z
-DTEND:20261012T201500Z
-CLASS:PUBLIC
-DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
- //www.twitch.tv/dachcs
-SUMMARY:BLUEJAYS.de vs REV
-URL;VALUE=URI:https://www.twitch.tv/dachcs
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261019T180000Z
 UID:pandascore-match-1661641@esport-ics
 DTSTART:20261019T180000Z
@@ -102,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
  //www.twitch.tv/dachcs
 SUMMARY:Pandaric eSports vs BLUEJAYS.de
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T190000Z
+UID:pandascore-match-1661636@esport-ics
+DTSTART:20261109T190000Z
+DTEND:20261109T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:BLUEJAYS.de vs REV
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 END:VCALENDAR
