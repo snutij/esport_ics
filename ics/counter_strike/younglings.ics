@@ -358,6 +358,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/sovushkka
 SUMMARY:YL vs NEXORA
-URL;VALUE=URI:https://www.twitch.tv/sovushkka
+URL:https://www.twitch.tv/sovushkka
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T140000Z
+UID:pandascore-match-1747581@esport-ics
+DTSTART:20261014T140000Z
+DTEND:20261014T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest Open Qualifier #2 2027 - Playoffs
+SUMMARY:Quarterfinal 4: YL vs Nice Try
 END:VEVENT
 END:VCALENDAR

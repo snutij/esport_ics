@@ -820,6 +820,17 @@ SUMMARY:Round 1: Black Phoenix vs ex-RUSTEC
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T100000Z
+UID:pandascore-match-1747586@esport-ics
+DTSTART:20261015T100000Z
+DTEND:20261015T121500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/epl_pro
+SUMMARY:Black Phoenix vs WAL
+URL;VALUE=URI:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261016T130000Z
 UID:pandascore-match-1742239@esport-ics
 DTSTART:20261016T130000Z

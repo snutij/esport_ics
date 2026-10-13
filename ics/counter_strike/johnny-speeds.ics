@@ -860,4 +860,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest Open Qualifier #1 2027 - Playoffs
 SUMMARY:Quarterfinal 2: JS vs PRIV
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T130000Z
+UID:pandascore-match-1747588@esport-ics
+DTSTART:20261015T130000Z
+DTEND:20261015T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group B\nWatch: h
+ ttps://www.twitch.tv/epl_pro
+SUMMARY:BW vs JS
+URL;VALUE=URI:https://www.twitch.tv/epl_pro
+END:VEVENT
 END:VCALENDAR

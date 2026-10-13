@@ -1188,6 +1188,17 @@ SUMMARY:FF vs mellren
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261014T160000Z
+UID:pandascore-match-1747587@esport-ics
+DTSTART:20261014T160000Z
+DTEND:20261014T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group B\nWatch: h
+ ttps://www.twitch.tv/epl_pro
+SUMMARY:OMG vs FF
+URL;VALUE=URI:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261015T140000Z
 UID:pandascore-match-1727860@esport-ics
 DTSTART:20261015T140000Z
