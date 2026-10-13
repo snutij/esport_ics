@@ -612,6 +612,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #11 2026 - Play-In\nWatch
  : https://kick.com/cct_cs
 SUMMARY:FF vs mellren
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T110000Z
+UID:pandascore-match-1733052@esport-ics
+DTSTART:20261014T110000Z
+DTEND:20261014T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #11 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs
+SUMMARY:Round 1: ex-RUSTEC vs mellren
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

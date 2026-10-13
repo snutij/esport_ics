@@ -454,6 +454,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Philippines - Season 18 2026 - Regular Season\nWatch: https
  ://www.youtube.com/watch?v=vTbYww8y3mE
 SUMMARY:FLCP vs TLPH
-URL;VALUE=URI:https://www.youtube.com/watch?v=vTbYww8y3mE
+URL:https://www.youtube.com/watch?v=vTbYww8y3mE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T070000Z
+UID:pandascore-match-1745664@esport-ics
+DTSTART:20261022T070000Z
+DTEND:20261022T104500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 18 2026 - Playoffs\nWatch: https://www
+ .youtube.com/MPLPhilippines
+SUMMARY:Upper Bracket Semifinal 1: FLCP vs TBD
+URL;VALUE=URI:https://www.youtube.com/MPLPhilippines
 END:VEVENT
 END:VCALENDAR
