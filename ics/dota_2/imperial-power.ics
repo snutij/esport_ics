@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - China Closed Qualifier season 30 2026 - Playoffs\
  nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Upper Bracket Quarterfinal 1: TR vs IP
+URL:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T040000Z
+UID:pandascore-match-1745478@esport-ics
+DTSTART:20261014T040000Z
+DTEND:20261014T061500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - China Closed Qualifier season 30 2026 - Playoffs\
+ nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Lower Bracket Round 1 Match 1: IP vs Zenith
 URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 END:VCALENDAR

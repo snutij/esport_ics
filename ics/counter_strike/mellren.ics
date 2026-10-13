@@ -625,4 +625,15 @@ DESCRIPTION:CCT Europe - Series #11 2026 - Group Stage\nWatch: https://kick
 SUMMARY:Round 1: ex-RUSTEC vs mellren
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T080000Z
+UID:pandascore-match-1727858@esport-ics
+DTSTART:20261015T080000Z
+DTEND:20261015T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: BRUTE vs mellren
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

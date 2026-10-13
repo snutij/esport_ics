@@ -588,6 +588,28 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Oceania Cup #3 season 52 2026 - Playoff
  s\nWatch: https://kick.com/ESLCS
 SUMMARY:Lower Bracket Final: MARTYRDOM vs RSTR
-URL;VALUE=URI:https://kick.com/ESLCS
+URL:https://kick.com/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T000000Z
+UID:pandascore-match-1746353@esport-ics
+DTSTART:20261015T000000Z
+DTEND:20261015T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Pro Series - 2026 - Group A\nWatch: https://www.twit
+ ch.tv/dfragtv
+SUMMARY:RA vs RSTR
+URL;VALUE=URI:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T030000Z
+UID:pandascore-match-1746354@esport-ics
+DTSTART:20261015T030000Z
+DTEND:20261015T051500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Pro Series - 2026 - Group A\nWatch: https://www.twit
+ ch.tv/dfragtv
+SUMMARY:Winners Match: RSTR vs TBD
+URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR

@@ -493,6 +493,17 @@ CLASS:PUBLIC
 DESCRIPTION:ANZC Locals - Brisbane: Spring 2026 - Playoffs\nWatch: https://
  www.twitch.tv/dfragtv
 SUMMARY:Grand Final: FLY vs Abyssal
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T000000Z
+UID:pandascore-match-1746363@esport-ics
+DTSTART:20261016T000000Z
+DTEND:20261016T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Pro Series - 2026 - Group B\nWatch: https://www.twit
+ ch.tv/dfragtv
+SUMMARY:GZ vs Abyssal
 URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR

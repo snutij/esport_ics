@@ -966,6 +966,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In\nWatch: https:/
  /kick.com/nodwin_cs2
 SUMMARY:Qualification Match 1: JustP vs MISA
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T110000Z
+UID:pandascore-match-1727859@esport-ics
+DTSTART:20261015T110000Z
+DTEND:20261015T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: ex-ZT vs JustP
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

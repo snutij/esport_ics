@@ -593,6 +593,28 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Asia-Pacific Cup #3 season 52 2026 - Pl
  ayoffs\nWatch: https://kick.com/pentagon_u
 SUMMARY:Lower Bracket Round 2 Match 1: RA vs VA
-URL;VALUE=URI:https://kick.com/pentagon_u
+URL:https://kick.com/pentagon_u
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T000000Z
+UID:pandascore-match-1746353@esport-ics
+DTSTART:20261015T000000Z
+DTEND:20261015T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Pro Series - 2026 - Group A\nWatch: https://www.twit
+ ch.tv/dfragtv
+SUMMARY:RA vs RSTR
+URL;VALUE=URI:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T030000Z
+UID:pandascore-match-1746355@esport-ics
+DTSTART:20261015T030000Z
+DTEND:20261015T051500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Pro Series - 2026 - Group A\nWatch: https://www.twit
+ ch.tv/dfragtv
+SUMMARY:Elimination Match: RA vs TBD
+URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR

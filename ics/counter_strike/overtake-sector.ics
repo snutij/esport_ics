@@ -243,6 +243,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #3 season 52 2026 - P
  layoffs\nWatch: https://kick.com/sv_theunknown
 SUMMARY:Lower Bracket Semifinal: OT vs IOWA
-URL;VALUE=URI:https://kick.com/sv_theunknown
+URL:https://kick.com/sv_theunknown
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T010000Z
+UID:pandascore-match-1731101@esport-ics
+DTSTART:20261014T010000Z
+DTEND:20261014T031500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - North America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Lower Bracket Final: ZOMB vs OT
 END:VEVENT
 END:VCALENDAR

@@ -447,14 +447,14 @@ SUMMARY:Round 3: BRO vs Navi
 URL:https://live.bilibili.com/7734200
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261013T090000Z
+DTSTAMP:20261013T103000Z
 UID:pandascore-match-1694372@esport-ics
-DTSTART:20261013T090000Z
-DTEND:20261013T124500Z
+DTSTART:20261013T103000Z
+DTEND:20261013T141500Z
 CLASS:PUBLIC
 DESCRIPTION:Demacia Cup Global Invitational - 2026 - Playoffs\nWatch: https
- ://www.twitch.tv/riotgames
+ ://www.twitch.tv/lplenglish
 SUMMARY:Quarterfinal 4: BRO vs LGD
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL;VALUE=URI:https://www.twitch.tv/lplenglish
 END:VEVENT
 END:VCALENDAR

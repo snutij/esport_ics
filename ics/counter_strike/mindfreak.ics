@@ -473,6 +473,17 @@ CLASS:PUBLIC
 DESCRIPTION:ANZC Locals - Brisbane: Spring 2026 - Group B\nWatch: https://k
  ick.com/churchd0gg
 SUMMARY:Decider Match: Abyssal vs MF
-URL;VALUE=URI:https://kick.com/churchd0gg
+URL:https://kick.com/churchd0gg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T000000Z
+UID:pandascore-match-1746352@esport-ics
+DTSTART:20261015T000000Z
+DTEND:20261015T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Pro Series - 2026 - Group A\nWatch: https://www.twit
+ ch.tv/dfragtv
+SUMMARY:NEXVOID vs MF
+URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR

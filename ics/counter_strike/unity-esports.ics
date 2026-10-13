@@ -1352,6 +1352,17 @@ CLASS:PUBLIC
 DESCRIPTION:Majstrovstvá SR - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/ygamessk
 SUMMARY:Grand Final: LPH vs UNiTY
-URL;VALUE=URI:https://www.twitch.tv/ygamessk
+URL:https://www.twitch.tv/ygamessk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T170000Z
+UID:pandascore-match-1727861@esport-ics
+DTSTART:20261015T170000Z
+DTEND:20261015T191500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: UNiTY vs WAL
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
