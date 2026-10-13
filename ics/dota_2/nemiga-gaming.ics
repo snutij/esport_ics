@@ -920,7 +920,18 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group B\nWatch: https://k
  ick.com/epldota_en2
 SUMMARY:Nemiga vs Dawn Bulls
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T090000Z
+UID:pandascore-match-1743375@esport-ics
+DTSTART:20261014T090000Z
+DTEND:20261014T111500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Eastern Europe Closed Qualifier season 30 2026 - 
+ Playoffs\nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Lower Bracket Round 1 match 1: Nemiga vs KALMY
+URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261014T160000Z
