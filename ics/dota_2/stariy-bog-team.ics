@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stariy bog Team
+SLUG:stariy-bog-team
+BEGIN:VEVENT
+DTSTAMP:20261015T190000Z
+UID:pandascore-match-1748443@esport-ics
+DTSTART:20261015T190000Z
+DTEND:20261015T211500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Streamers League - #3 2026 - Group B\nWatch: https://www.t
+ witch.tv/1win_sl_dota
+SUMMARY:SBT vs KT
+URL;VALUE=URI:https://www.twitch.tv/1win_sl_dota
+END:VEVENT
+END:VCALENDAR

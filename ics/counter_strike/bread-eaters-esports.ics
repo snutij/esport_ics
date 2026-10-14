@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 7 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Upper Bracket Quarterfinal 4: EACE vs Bread Eaters Esports
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T103000Z
+UID:pandascore-match-1744791@esport-ics
+DTSTART:20261016T103000Z
+DTEND:20261016T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper Bracket Semifinal 2: SKR vs Bread Eaters Esports
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

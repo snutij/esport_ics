@@ -122,6 +122,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 7 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Upper Bracket Quarterfinal 3: CTRL vs SKR
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T103000Z
+UID:pandascore-match-1744794@esport-ics
+DTSTART:20261015T103000Z
+DTEND:20261015T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Lower Bracket Round 1 Match 2: CTRL vs EACE
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

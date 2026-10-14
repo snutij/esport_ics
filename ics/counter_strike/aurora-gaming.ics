@@ -691,6 +691,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - 2026 - Group A\nWatch: https:/
  /www.twitch.tv/thunderpicktv
 SUMMARY:9z vs AUR
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T110000Z
+UID:pandascore-match-1741370@esport-ics
+DTSTART:20261015T110000Z
+DTEND:20261015T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - 2026 - Group A\nWatch: https:/
+ /www.twitch.tv/thunderpicktv
+SUMMARY:Elimination Match: AUR vs TBD
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

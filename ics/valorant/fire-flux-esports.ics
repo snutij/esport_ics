@@ -234,6 +234,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/monsternotebook
 SUMMARY:Grand Final: FF vs BBL
+URL:https://www.twitch.tv/monsternotebook
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T160000Z
+UID:pandascore-match-1748409@esport-ics
+DTSTART:20261024T160000Z
+DTEND:20261024T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Monsters Reloaded - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/monsternotebook
+SUMMARY:Semifinal 1: FUT vs FF
 URL;VALUE=URI:https://www.twitch.tv/monsternotebook
 END:VEVENT
 END:VCALENDAR

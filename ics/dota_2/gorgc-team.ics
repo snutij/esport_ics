@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gorgc Team
+SLUG:gorgc-team
+BEGIN:VEVENT
+DTSTAMP:20261015T130000Z
+UID:pandascore-match-1748431@esport-ics
+DTSTART:20261015T130000Z
+DTEND:20261015T151500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Streamers League - #3 2026 - Group A\nWatch: https://www.t
+ witch.tv/1win_sl_dota
+SUMMARY:Gorgc vs zxcursed Team
+URL;VALUE=URI:https://www.twitch.tv/1win_sl_dota
+END:VEVENT
+END:VCALENDAR
