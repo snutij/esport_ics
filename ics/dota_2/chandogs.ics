@@ -78,6 +78,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - South America Closed Qualifier season 30 2026 - P
  layoffs\nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Upper bracket quarterfinal 4: Chandogs vs Skyreavers
+URL:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T210000Z
+UID:pandascore-match-1743395@esport-ics
+DTSTART:20261014T210000Z
+DTEND:20261014T231500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - South America Closed Qualifier season 30 2026 - P
+ layoffs\nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Lower bracket quarterfinal 1: Chandogs vs TBD
 URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 END:VCALENDAR

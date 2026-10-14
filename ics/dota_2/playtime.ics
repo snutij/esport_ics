@@ -479,6 +479,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - South America Closed Qualifier season 30 2026 - P
  layoffs\nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Upper bracket semifinal 1: Pibbles Corp vs PlayTime
+URL:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T010000Z
+UID:pandascore-match-1743398@esport-ics
+DTSTART:20261015T010000Z
+DTEND:20261015T031500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - South America Closed Qualifier season 30 2026 - P
+ layoffs\nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Upper bracket final: Amaru Gaming vs PlayTime
 URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 END:VCALENDAR

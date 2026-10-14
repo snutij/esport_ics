@@ -45,6 +45,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - China Closed Qualifier season 30 2026 - Playoffs\
  nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Lower Bracket Round 1 Match 2: Zenith vs TGOALID
+URL:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T080000Z
+UID:pandascore-match-1745481@esport-ics
+DTSTART:20261014T080000Z
+DTEND:20261014T101500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - China Closed Qualifier season 30 2026 - Playoffs\
+ nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Lower Bracket Quarterfinal 2: CR vs Zenith
 URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 END:VCALENDAR
