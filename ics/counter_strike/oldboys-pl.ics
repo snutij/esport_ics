@@ -313,6 +313,24 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 58 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/vebka1221
 SUMMARY:Lower bracket quarterfinal 2: Spirit Academy Green vs OLDBOYS PL
-URL;VALUE=URI:https://www.twitch.tv/vebka1221
+URL:https://www.twitch.tv/vebka1221
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T173000Z
+UID:pandascore-match-1748296@esport-ics
+DTSTART:20261014T173000Z
+DTEND:20261014T181500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:Morrow Esports vs OLDBOYS PL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T183000Z
+UID:pandascore-match-1748291@esport-ics
+DTSTART:20261014T183000Z
+DTEND:20261014T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:Ryvex vs OLDBOYS PL
 END:VEVENT
 END:VCALENDAR

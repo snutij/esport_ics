@@ -1057,6 +1057,16 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/eslcs
 SUMMARY:Lower Bracket Final: ex-Keyd Stars vs GLS
-URL;VALUE=URI:https://www.twitch.tv/eslcs
+URL:https://www.twitch.tv/eslcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T210000Z
+UID:pandascore-match-1731045@esport-ics
+DTSTART:20261014T210000Z
+DTEND:20261014T231500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
+ layoffs
+SUMMARY:Grand Final: LDP vs GLS
 END:VEVENT
 END:VCALENDAR
