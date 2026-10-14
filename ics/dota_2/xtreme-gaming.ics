@@ -993,6 +993,15 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Group A\nWatch: https://www.twitch
  .tv/BLASTDota
 SUMMARY:Decider Match: LGD vs Xtreme
-URL;VALUE=URI:https://www.twitch.tv/BLASTDota
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T110000Z
+UID:pandascore-match-1749263@esport-ics
+DTSTART:20261015T110000Z
+DTEND:20261015T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - China Closed Qualifier season 9 2026 - Playoffs
+SUMMARY:Quarterfinal 3: Xtreme vs TBD
 END:VEVENT
 END:VCALENDAR

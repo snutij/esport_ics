@@ -325,15 +325,6 @@ SUMMARY:Upper Bracket Quarterfinal 2: RGG vs VIT.A
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T170000Z
-UID:pandascore-match-1748292@esport-ics
-DTSTART:20261014T170000Z
-DTEND:20261014T174500Z
-CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
-SUMMARY:Honvéd vs VIT.A
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261015T080000Z
 UID:pandascore-match-1744793@esport-ics
 DTSTART:20261015T080000Z
@@ -343,5 +334,14 @@ DESCRIPTION:European Pro League - Regular season 7 2026 - Playoffs\nWatch:
  https://kick.com/eplcs_en
 SUMMARY:Lower Bracket Round 1 Match 1: VP.F3 vs VIT.A
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T150000Z
+UID:pandascore-match-1748292@esport-ics
+DTSTART:20261019T150000Z
+DTEND:20261019T154500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:Honvéd vs VIT.A
 END:VEVENT
 END:VCALENDAR

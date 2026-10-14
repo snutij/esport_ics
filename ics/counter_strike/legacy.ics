@@ -716,6 +716,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - 2026 - Group B\nWatch: https:/
  /www.twitch.tv/thunderpicktv
 SUMMARY:LGC vs PRV
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T133000Z
+UID:pandascore-match-1741372@esport-ics
+DTSTART:20261015T133000Z
+DTEND:20261015T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - 2026 - Group B\nWatch: https:/
+ /www.twitch.tv/thunderpicktv
+SUMMARY:Winners' Match: LGC vs TBD
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR
