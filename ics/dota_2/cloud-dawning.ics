@@ -411,6 +411,15 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - China Closed Qualifier season 30 2026 - Playoffs\
  nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Lower Bracket Quarterfinal 1: RG vs CD
-URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
+URL:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T110000Z
+UID:pandascore-match-1749263@esport-ics
+DTSTART:20261015T110000Z
+DTEND:20261015T131500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - China Closed Qualifier season 9 2026 - Playoffs
+SUMMARY:Quarterfinal 3: Xtreme vs CD
 END:VEVENT
 END:VCALENDAR

@@ -900,6 +900,17 @@ SUMMARY:Black Phoenix vs WAL
 URL;VALUE=URI:https://www.twitch.tv/epl_pro
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T110000Z
+UID:pandascore-match-1733056@esport-ics
+DTSTART:20261015T110000Z
+DTEND:20261015T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #11 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs
+SUMMARY:Round 2: WAL vs mellren
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261015T170000Z
 UID:pandascore-match-1727861@esport-ics
 DTSTART:20261015T170000Z

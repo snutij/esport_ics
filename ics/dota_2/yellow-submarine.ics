@@ -825,6 +825,17 @@ SUMMARY:Upper Bracket Final: YeS vs PR
 URL:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261015T130000Z
+UID:pandascore-match-1743381@esport-ics
+DTSTART:20261015T130000Z
+DTEND:20261015T164500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Eastern Europe Closed Qualifier season 30 2026 - 
+ Playoffs\nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Grand Final: YeS vs TBD
+URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261016T160000Z
 UID:pandascore-match-1743588@esport-ics
 DTSTART:20261016T160000Z

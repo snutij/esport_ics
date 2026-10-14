@@ -1424,4 +1424,15 @@ DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group C\nWatch: h
 SUMMARY:UP vs LVKD
 URL;VALUE=URI:https://www.twitch.tv/epl_pro
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T140000Z
+UID:pandascore-match-1733061@esport-ics
+DTSTART:20261016T140000Z
+DTEND:20261016T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #11 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs
+SUMMARY:Round 2: FORZE.R vs LVKD
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR
