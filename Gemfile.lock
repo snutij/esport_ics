@@ -39,11 +39,10 @@ GEM
     hashdiff (1.2.1)
     i18n (1.15.2)
       concurrent-ruby (~> 1.0)
-    icalendar (2.12.5)
+    icalendar (2.13.0)
       base64
       ice_cube (~> 0.16)
       logger
-      ostruct
     ice_cube (0.17.0)
     io-console (0.8.2)
     irb (1.16.0)
@@ -59,7 +58,6 @@ GEM
       prism (~> 1.5)
     mocha (3.1.0)
       ruby2_keywords (>= 0.0.5)
-    ostruct (0.6.3)
     parallel (2.3.0)
     parser (3.3.12.0)
       ast (~> 2.4.1)
