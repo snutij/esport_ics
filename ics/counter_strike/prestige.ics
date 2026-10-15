@@ -624,14 +624,14 @@ SUMMARY:VOCA vs PRE
 URL:https://www.twitch.tv/prestigeesportscs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T080000Z
+DTSTAMP:20261016T130000Z
 UID:pandascore-match-1749768@esport-ics
-DTSTART:20261015T080000Z
-DTEND:20261015T101500Z
+DTSTART:20261016T130000Z
+DTEND:20261016T151500Z
 CLASS:PUBLIC
-DESCRIPTION:United21 - Season 57 2026 - Gorup A\nWatch: https://www.kick.co
- m/united21_en
+DESCRIPTION:United21 - Season 57 2026 - Gorup A\nWatch: https://kick.com/un
+ ited21_en
 SUMMARY:PRE vs TCF
-URL;VALUE=URI:https://www.kick.com/united21_en
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

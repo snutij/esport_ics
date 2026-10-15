@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat III 2026 - Group D\nWatch: https://kick.com/
  stake_pulse
 SUMMARY:HERO vs ENVY
+URL:https://kick.com/stake_pulse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T134500Z
+UID:pandascore-match-1731159@esport-ics
+DTSTART:20261015T134500Z
+DTEND:20261015T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat III 2026 - Group D\nWatch: https://kick.com/
+ stake_pulse
+SUMMARY:Elimination Match: ENVY vs TBD
 URL;VALUE=URI:https://kick.com/stake_pulse
 END:VEVENT
 BEGIN:VEVENT

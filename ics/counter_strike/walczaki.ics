@@ -897,7 +897,7 @@ CLASS:PUBLIC
 DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group A\nWatch: h
  ttps://www.twitch.tv/epl_pro
 SUMMARY:Black Phoenix vs WAL
-URL;VALUE=URI:https://www.twitch.tv/epl_pro
+URL:https://www.twitch.tv/epl_pro
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261015T110000Z
@@ -908,7 +908,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #11 2026 - Group Stage\nWatch: https://kick
  .com/cct_cs
 SUMMARY:Round 2: WAL vs mellren
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261015T170000Z
