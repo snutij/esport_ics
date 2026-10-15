@@ -102,6 +102,15 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 7 2026 - Group D\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Decider Match: TheChampionGG vs VP.F3
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T103000Z
+UID:pandascore-match-1749776@esport-ics
+DTSTART:20261016T103000Z
+DTEND:20261016T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 57 2026 - Group B
+SUMMARY:Opening match 2: STA vs TheChampionGG
 END:VEVENT
 END:VCALENDAR

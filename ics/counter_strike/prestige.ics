@@ -610,7 +610,7 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group D\nWatch: https://www.twitch.
  tv/prestigeesportscs
 SUMMARY:PRE vs GLT
-URL;VALUE=URI:https://www.twitch.tv/prestigeesportscs
+URL:https://www.twitch.tv/prestigeesportscs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261002T160000Z
@@ -621,6 +621,15 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group D\nWatch: https://www.twitch.
  tv/prestigeesportscs
 SUMMARY:VOCA vs PRE
-URL;VALUE=URI:https://www.twitch.tv/prestigeesportscs
+URL:https://www.twitch.tv/prestigeesportscs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T080000Z
+UID:pandascore-match-1749768@esport-ics
+DTSTART:20261015T080000Z
+DTEND:20261015T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 57 2026 - Gorup A
+SUMMARY:Opening match 1: PRE vs TCF
 END:VEVENT
 END:VCALENDAR

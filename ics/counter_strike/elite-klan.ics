@@ -157,6 +157,15 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 7 2026 - Group C\nWatch: h
  ttps://kick.com/eplcs_en
 SUMMARY:Decider Match: VIT.A vs EK
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T080000Z
+UID:pandascore-match-1749787@esport-ics
+DTSTART:20261018T080000Z
+DTEND:20261018T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 57 2026 - Group D
+SUMMARY:Opening match 1: EK vs PSN.A
 END:VEVENT
 END:VCALENDAR

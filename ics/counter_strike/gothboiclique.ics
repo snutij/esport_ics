@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Gothboiclique
+X-WR-CALNAME:gothboiclique
 SLUG:gothboiclique
 BEGIN:VEVENT
 DTSTAMP:20260212T104500Z
@@ -328,6 +328,15 @@ CLASS:PUBLIC
 DESCRIPTION:Leon.bet Masters - Season 1 2026 - Group B\nWatch: https://www.
  twitch.tv/leonbet_en2
 SUMMARY:BMB vs GBC
-URL;VALUE=URI:https://www.twitch.tv/leonbet_en2
+URL:https://www.twitch.tv/leonbet_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T103000Z
+UID:pandascore-match-1749780@esport-ics
+DTSTART:20261017T103000Z
+DTEND:20261017T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 57 2026 - Group C
+SUMMARY:Opening match 1: 9INE.A vs GBC
 END:VEVENT
 END:VCALENDAR
