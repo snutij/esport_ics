@@ -1514,6 +1514,17 @@ CLASS:PUBLIC
 DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group B\nWatch: h
  ttps://www.twitch.tv/epl_pro
 SUMMARY:BW vs JS
-URL;VALUE=URI:https://www.twitch.tv/epl_pro
+URL:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T110000Z
+UID:pandascore-match-1727863@esport-ics
+DTSTART:20261016T110000Z
+DTEND:20261016T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 2: BW vs ex-RUSTEC
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
