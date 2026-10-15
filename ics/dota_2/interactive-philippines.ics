@@ -735,6 +735,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Southeast Asia Closed Qualifier season 30 2026 - 
  Playoffs\nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Upper bracket quarterfinal 3: XE vs IAC
+URL:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T120000Z
+UID:pandascore-match-1743431@esport-ics
+DTSTART:20261016T120000Z
+DTEND:20261016T141500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Southeast Asia Closed Qualifier season 30 2026 - 
+ Playoffs\nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Upper Bracket Final: RB vs IAC
 URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 END:VCALENDAR

@@ -801,6 +801,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - 2026 - Group A\nWatch: https:/
  /www.twitch.tv/thunderpicktv
 SUMMARY:Winners' Match: 9z vs FAL
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T140000Z
+UID:pandascore-match-1741371@esport-ics
+DTSTART:20261016T140000Z
+DTEND:20261016T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Thunderpick World Championship - 2026 - Group A\nWatch: https:/
+ /www.twitch.tv/thunderpicktv
+SUMMARY:Decider Match: AUR vs 9z
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
 END:VCALENDAR

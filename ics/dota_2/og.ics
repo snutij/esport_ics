@@ -652,6 +652,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Western Europe Closed Qualifier season 30 2026 - 
  Playoffs\nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Upper Bracket Quarterfinal 3: OG vs P-
+URL:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T180000Z
+UID:pandascore-match-1743411@esport-ics
+DTSTART:20261015T180000Z
+DTEND:20261015T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Western Europe Closed Qualifier season 30 2026 - 
+ Playoffs\nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Upper Bracket Semifinal 2: OG vs Team Synapse
 URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 END:VCALENDAR

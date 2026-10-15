@@ -703,6 +703,15 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat III 2026 - Group A\nWatch: https://kick.com/
  stake_pulse
 SUMMARY:Opening Match 2: NIP vs BCA
-URL;VALUE=URI:https://kick.com/stake_pulse
+URL:https://kick.com/stake_pulse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T080000Z
+UID:pandascore-match-1751431@esport-ics
+DTSTART:20261016T080000Z
+DTEND:20261016T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: EF vs BCA
 END:VEVENT
 END:VCALENDAR

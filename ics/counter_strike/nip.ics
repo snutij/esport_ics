@@ -853,6 +853,17 @@ CLASS:PUBLIC
 DESCRIPTION:Thunderpick World Championship - 2026 - Group A\nWatch: https:/
  /www.twitch.tv/thunderpicktv
 SUMMARY:Elimination Match: AUR vs NIP
-URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
+URL:https://www.twitch.tv/thunderpicktv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T080000Z
+UID:pandascore-match-1731161@esport-ics
+DTSTART:20261016T080000Z
+DTEND:20261016T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat III 2026 - Playoffs\nWatch: https://kick.com
+ /stake_pulse
+SUMMARY:Quarterfinal 1: NIP vs TL
+URL;VALUE=URI:https://kick.com/stake_pulse
 END:VEVENT
 END:VCALENDAR
