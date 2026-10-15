@@ -286,6 +286,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - South America Closed Qualifier season 30 2026 - P
  layoffs\nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Upper bracket final: Amaru Gaming vs PlayTime
+URL:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T210000Z
+UID:pandascore-match-1743400@esport-ics
+DTSTART:20261015T210000Z
+DTEND:20261016T004500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - South America Closed Qualifier season 30 2026 - P
+ layoffs\nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Grand final: Amaru Gaming vs TBD
 URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 END:VCALENDAR

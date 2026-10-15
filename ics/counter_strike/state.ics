@@ -1296,8 +1296,10 @@ UID:pandascore-match-1749776@esport-ics
 DTSTART:20261016T103000Z
 DTEND:20261016T124500Z
 CLASS:PUBLIC
-DESCRIPTION:United21 - Season 57 2026 - Group B
-SUMMARY:Opening match 2: STA vs TheChampionGG
+DESCRIPTION:United21 - Season 57 2026 - Group B\nWatch: https://www.kick.co
+ m/united21_en
+SUMMARY:STA vs TheChampionGG
+URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261019T170000Z

@@ -45,6 +45,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - South America Closed Qualifier season 30 2026 - P
  layoffs\nWatch: https://www.youtube.com/watch?v=2SUgyFXGIdw
 SUMMARY:Lower bracket round 1 match 2: RL vs Skyreavers
-URL;VALUE=URI:https://www.youtube.com/watch?v=2SUgyFXGIdw
+URL:https://www.youtube.com/watch?v=2SUgyFXGIdw
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T170000Z
+UID:pandascore-match-1743399@esport-ics
+DTSTART:20261015T170000Z
+DTEND:20261015T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - South America Closed Qualifier season 30 2026 - P
+ layoffs\nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Lower bracket final: PlayTime vs Skyreavers
+URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 END:VCALENDAR

@@ -51,7 +51,9 @@ UID:pandascore-match-1749788@esport-ics
 DTSTART:20261018T103000Z
 DTEND:20261018T124500Z
 CLASS:PUBLIC
-DESCRIPTION:United21 - Season 57 2026 - Group D
-SUMMARY:Opening match 2: WonderKids vs REV
+DESCRIPTION:United21 - Season 57 2026 - Group D\nWatch: https://www.kick.co
+ m/united21_en
+SUMMARY:WonderKids vs REV
+URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

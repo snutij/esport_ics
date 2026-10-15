@@ -174,7 +174,9 @@ UID:pandascore-match-1749775@esport-ics
 DTSTART:20261016T080000Z
 DTEND:20261016T101500Z
 CLASS:PUBLIC
-DESCRIPTION:United21 - Season 57 2026 - Group B
-SUMMARY:Opening match 1: GAT vs ENCE.P
+DESCRIPTION:United21 - Season 57 2026 - Group B\nWatch: https://www.kick.co
+ m/united21_en
+SUMMARY:GAT vs ENCE.P
+URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

@@ -301,15 +301,6 @@ SUMMARY:Upper Bracket Final: TR vs YB
 URL:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T020000Z
-UID:pandascore-match-1749262@esport-ics
-DTSTART:20261015T020000Z
-DTEND:20261015T041500Z
-CLASS:PUBLIC
-DESCRIPTION:BLAST Slam - China Closed Qualifier season 9 2026 - Playoffs
-SUMMARY:Quarterfinal 2: TR vs Zenith
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261015T080000Z
 UID:pandascore-match-1745484@esport-ics
 DTSTART:20261015T080000Z
@@ -317,7 +308,16 @@ DTEND:20261015T114500Z
 CLASS:PUBLIC
 DESCRIPTION:DreamLeague - China Closed Qualifier season 30 2026 - Playoffs\
  nWatch: https://www.youtube.com/ESLDota2/live
-SUMMARY:Grand Final: TR vs TBD
+SUMMARY:Grand Final: TR vs YB
 URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T020000Z
+UID:pandascore-match-1749262@esport-ics
+DTSTART:20261016T020000Z
+DTEND:20261016T041500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - China Closed Qualifier season 9 2026 - Playoffs
+SUMMARY:Quarterfinal 2: TR vs Zenith
 END:VEVENT
 END:VCALENDAR

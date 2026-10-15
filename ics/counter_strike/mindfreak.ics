@@ -484,6 +484,17 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Pro Series - 2026 - Group A\nWatch: https://www.twit
  ch.tv/dfragtv
 SUMMARY:NEXVOID vs MF
-URL;VALUE=URI:https://www.twitch.tv/dfragtv
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T084500Z
+UID:pandascore-match-1746356@esport-ics
+DTSTART:20261015T084500Z
+DTEND:20261015T110000Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Pro Series - 2026 - Group A\nWatch: https://kick.com
+ /dfragtv
+SUMMARY:Decider Match: MF vs RSTR
+URL;VALUE=URI:https://kick.com/dfragtv
 END:VEVENT
 END:VCALENDAR
