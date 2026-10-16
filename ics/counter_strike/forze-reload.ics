@@ -629,4 +629,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
 SUMMARY:Round 2: Black Phoenix vs FORZE.R
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T170000Z
+UID:pandascore-match-1733070@esport-ics
+DTSTART:20261018T170000Z
+DTEND:20261018T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #11 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs
+SUMMARY:Round 3: FORZE.R vs BAKS
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR
