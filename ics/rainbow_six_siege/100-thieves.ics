@@ -289,6 +289,17 @@ CLASS:PUBLIC
 DESCRIPTION:North America League - Stage 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/rainbow6
 SUMMARY:Upper bracket final: C9 vs 100T
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T210000Z
+UID:pandascore-match-1660528@esport-ics
+DTSTART:20261016T210000Z
+DTEND:20261016T231500Z
+CLASS:PUBLIC
+DESCRIPTION:North America League - Stage 2 2026 - Playoffs\nWatch: https://
+ www.twitch.tv/rainbow6
+SUMMARY:Grand final: 100T vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

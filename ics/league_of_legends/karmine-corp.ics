@@ -526,6 +526,16 @@ DTEND:20261015T214500Z
 CLASS:PUBLIC
 DESCRIPTION:Worlds - 2026 - Play-In\nWatch: http://www.twitch.tv/riotgames
 SUMMARY:Upper Bracket Semifinal 2: C9 vs KC
-URL;VALUE=URI:http://www.twitch.tv/riotgames
+URL:http://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T180000Z
+UID:pandascore-match-1710930@esport-ics
+DTSTART:20261016T180000Z
+DTEND:20261016T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Worlds - 2026 - Play-In\nWatch: https://www.twitch.tv/riotgames
+SUMMARY:Upper Bracket Final: KC vs TBD
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR
