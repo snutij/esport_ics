@@ -249,6 +249,16 @@ DTEND:20261016T024500Z
 CLASS:PUBLIC
 DESCRIPTION:Worlds - 2026 - Play-In\nWatch: https://www.twitch.tv/riotgames
 SUMMARY:Upper Bracket Semifinal 1: FUR vs MVK
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T180000Z
+UID:pandascore-match-1710930@esport-ics
+DTSTART:20261016T180000Z
+DTEND:20261016T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Worlds - 2026 - Play-In\nWatch: https://www.twitch.tv/riotgames
+SUMMARY:Upper Bracket Final: MVK vs KC
 URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

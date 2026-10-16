@@ -801,7 +801,9 @@ UID:pandascore-match-1751434@esport-ics
 DTSTART:20261016T170000Z
 DTEND:20261016T191500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs
+DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/vanfantv
 SUMMARY:Upper bracket quarterfinal 4: GL vs ex-RUSTEC
+URL;VALUE=URI:https://www.twitch.tv/vanfantv
 END:VEVENT
 END:VCALENDAR
