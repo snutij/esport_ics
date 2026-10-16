@@ -639,4 +639,15 @@ CLASS:PUBLIC
 DESCRIPTION:1win - Private Club #2 2026 - Playoffs
 SUMMARY:Upper Bracket Quarterfinal 4: FNC vs TL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T100000Z
+UID:pandascore-match-1752688@esport-ics
+DTSTART:20261024T100000Z
+DTEND:20261024T121500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/PGL
+SUMMARY:Round 1: MOUZ vs TL
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
 END:VCALENDAR

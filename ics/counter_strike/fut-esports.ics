@@ -531,6 +531,17 @@ CLASS:PUBLIC
 DESCRIPTION:FISSURE PLAYGROUND - Season 3 2026 - Group A\nWatch: https://ww
  w.twitch.tv/fissure_cs_eng
 SUMMARY:Upper bracket quarterfinal 2: MGLZ vs FUT
-URL;VALUE=URI:https://www.twitch.tv/fissure_cs_eng
+URL:https://www.twitch.tv/fissure_cs_eng
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T070000Z
+UID:pandascore-match-1752685@esport-ics
+DTSTART:20261024T070000Z
+DTEND:20261024T091500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/PGL
+SUMMARY:Round 1: FUT vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

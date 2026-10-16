@@ -221,6 +221,17 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Playoffs\nWatch: https://www.twitch.tv
  /fragadelphia
 SUMMARY:Grand final: WC vs DENDELE CS
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+URL:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T160000Z
+UID:pandascore-match-1752692@esport-ics
+DTSTART:20261024T160000Z
+DTEND:20261024T181500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/PGL
+SUMMARY:Round 1: FURIA vs DENDELE CS
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

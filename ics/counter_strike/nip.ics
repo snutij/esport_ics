@@ -864,6 +864,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Pulse - Beat III 2026 - Playoffs\nWatch: https://kick.com
  /stake_pulse
 SUMMARY:Quarterfinal 1: NIP vs TL
+URL:https://kick.com/stake_pulse
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T080000Z
+UID:pandascore-match-1731165@esport-ics
+DTSTART:20261017T080000Z
+DTEND:20261017T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Pulse - Beat III 2026 - Playoffs\nWatch: https://kick.com
+ /stake_pulse
+SUMMARY:Semifinal 1: NIP vs HERO
 URL;VALUE=URI:https://kick.com/stake_pulse
 END:VEVENT
 END:VCALENDAR

@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 57 2026 - Group B\nWatch: https://www.kick.co
  m/united21_en
 SUMMARY:STA vs TheChampionGG
+URL:https://www.kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T103000Z
+UID:pandascore-match-1749778@esport-ics
+DTSTART:20261020T103000Z
+DTEND:20261020T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 57 2026 - Group B\nWatch: https://www.kick.co
+ m/united21_en
+SUMMARY:Elimination match: ENCE.P vs TheChampionGG
 URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

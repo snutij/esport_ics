@@ -746,4 +746,15 @@ DESCRIPTION:Thunderpick World Championship - 2026 - Group B\nWatch: https:/
 SUMMARY:Decider Match: LGC vs BB
 URL;VALUE=URI:https://www.twitch.tv/thunderpicktv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T100000Z
+UID:pandascore-match-1752687@esport-ics
+DTSTART:20261024T100000Z
+DTEND:20261024T121500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/PGL
+SUMMARY:Round 1: TS vs BB
+URL;VALUE=URI:https://www.twitch.tv/PGL
+END:VEVENT
 END:VCALENDAR

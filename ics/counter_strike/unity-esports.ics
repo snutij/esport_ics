@@ -1374,6 +1374,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 2: ex-ZT vs UNiTY
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T080000Z
+UID:pandascore-match-1749777@esport-ics
+DTSTART:20261020T080000Z
+DTEND:20261020T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 57 2026 - Group B\nWatch: https://www.kick.co
+ m/united21_en
+SUMMARY:Winners match: GAT vs UNiTY
+URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

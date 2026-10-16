@@ -632,6 +632,17 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Pro Series - 2026 - Group A\nWatch: https://kick.com
  /dfragtv
 SUMMARY:Decider Match: MF vs RSTR
-URL;VALUE=URI:https://kick.com/dfragtv
+URL:https://kick.com/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T000000Z
+UID:pandascore-match-1746368@esport-ics
+DTSTART:20261017T000000Z
+DTEND:20261017T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Logitech G Pro Series - 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/dfragtv
+SUMMARY:Upper Bracket Semifinal 2: RSTR vs FLY
+URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR
