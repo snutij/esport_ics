@@ -382,4 +382,13 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #12 2026 - Group C\nWatch
 SUMMARY:Winners' Match: LILMIX vs Morrow Esports
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T110000Z
+UID:pandascore-match-1753579@esport-ics
+DTSTART:20261018T110000Z
+DTEND:20261018T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
+SUMMARY:Upper Bracket Round 1 Match 5: Morrow Esports vs Quintessence
+END:VEVENT
 END:VCALENDAR

@@ -1004,6 +1004,50 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Group D\nWatch: https://www.twitch
  .tv/BLASTDota
 SUMMARY:Decider Match: GL vs Liquid
-URL;VALUE=URI:https://www.twitch.tv/BLASTDota
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T140000Z
+UID:pandascore-match-1753731@esport-ics
+DTSTART:20261022T140000Z
+DTEND:20261022T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - 2026 - Group A\nWatch: https://kick.com/fissure
+ _dota_en
+SUMMARY:Liquid vs 1WIN
+URL;VALUE=URI:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T110000Z
+UID:pandascore-match-1753735@esport-ics
+DTSTART:20261023T110000Z
+DTEND:20261023T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - 2026 - Group A\nWatch: https://kick.com/fissure
+ _dota_en
+SUMMARY:Liquid vs GL
+URL;VALUE=URI:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T080000Z
+UID:pandascore-match-1753738@esport-ics
+DTSTART:20261025T080000Z
+DTEND:20261025T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - 2026 - Group A\nWatch: https://kick.com/fissure
+ _dota_en
+SUMMARY:Liquid vs OG
+URL;VALUE=URI:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T110000Z
+UID:pandascore-match-1753741@esport-ics
+DTSTART:20261026T110000Z
+DTEND:20261026T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - 2026 - Group A\nWatch: https://kick.com/fissure
+ _dota_en
+SUMMARY:TY vs Liquid
+URL;VALUE=URI:https://kick.com/fissure_dota_en
 END:VEVENT
 END:VCALENDAR

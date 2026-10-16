@@ -1004,6 +1004,50 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Group C\nWatch: https://www.twitch
  .tv/BLASTDotaB
 SUMMARY:Decider Match: OG vs BB
-URL;VALUE=URI:https://www.twitch.tv/BLASTDotaB
+URL:https://www.twitch.tv/BLASTDotaB
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T140000Z
+UID:pandascore-match-1753749@esport-ics
+DTSTART:20261023T140000Z
+DTEND:20261023T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - 2026 - Group B\nWatch: https://kick.com/fissure
+ _dota_en
+SUMMARY:BB vs AI
+URL;VALUE=URI:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T140000Z
+UID:pandascore-match-1753751@esport-ics
+DTSTART:20261024T140000Z
+DTEND:20261024T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - 2026 - Group B\nWatch: https://kick.com/fissure
+ _dota_en
+SUMMARY:TS vs BB
+URL;VALUE=URI:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T170000Z
+UID:pandascore-match-1753754@esport-ics
+DTSTART:20261025T170000Z
+DTEND:20261025T191500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - 2026 - Group B\nWatch: https://kick.com/fissure
+ _dota_en
+SUMMARY:PARI vs BB
+URL;VALUE=URI:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T170000Z
+UID:pandascore-match-1753756@esport-ics
+DTSTART:20261026T170000Z
+DTEND:20261026T191500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - 2026 - Group B\nWatch: https://kick.com/fissure
+ _dota_en
+SUMMARY:BB vs LEGION
+URL;VALUE=URI:https://kick.com/fissure_dota_en
 END:VEVENT
 END:VCALENDAR

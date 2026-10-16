@@ -36,6 +36,15 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 2: mellren vs ex-6666
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T134500Z
+UID:pandascore-match-1753578@esport-ics
+DTSTART:20261018T134500Z
+DTEND:20261018T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
+SUMMARY:Upper Bracket Round 1 Match 7: ex-6666 vs PG
 END:VEVENT
 END:VCALENDAR

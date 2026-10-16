@@ -169,6 +169,17 @@ SUMMARY:Lower Bracket Round 1 match 1: Dawn Bulls vs PckCp
 URL:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261017T100000Z
+UID:pandascore-match-1743417@esport-ics
+DTSTART:20261017T100000Z
+DTEND:20261017T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Western Europe Closed Qualifier season 30 2026 - 
+ Playoffs\nWatch: https://www.youtube.com/ESLDota2/live
+SUMMARY:Lower Bracket Semifinal: LYNX vs Dawn Bulls
+URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261017T160000Z
 UID:pandascore-match-1743593@esport-ics
 DTSTART:20261017T160000Z

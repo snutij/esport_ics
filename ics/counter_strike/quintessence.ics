@@ -58,6 +58,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #9 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs6
 SUMMARY:Grand Final: Quintessence vs TitanFlow
-URL;VALUE=URI:https://kick.com/cct_cs6
+URL:https://kick.com/cct_cs6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T110000Z
+UID:pandascore-match-1753579@esport-ics
+DTSTART:20261018T110000Z
+DTEND:20261018T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
+SUMMARY:Upper Bracket Round 1 Match 5: Morrow Esports vs Quintessence
 END:VEVENT
 END:VCALENDAR

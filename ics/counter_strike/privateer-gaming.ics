@@ -425,6 +425,26 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #12 2026 - Group D\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:mellren vs PG
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T110000Z
+UID:pandascore-match-1745512@esport-ics
+DTSTART:20261017T110000Z
+DTEND:20261017T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #12 2026 - Group D\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Elimination Match: PG vs Noir Verse
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T134500Z
+UID:pandascore-match-1753578@esport-ics
+DTSTART:20261018T134500Z
+DTEND:20261018T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
+SUMMARY:Upper Bracket Round 1 Match 7: ex-6666 vs PG
 END:VEVENT
 END:VCALENDAR

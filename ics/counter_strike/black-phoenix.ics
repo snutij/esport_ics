@@ -853,6 +853,17 @@ SUMMARY:Upper Bracket Quarterfinal 4: Black Phoenix vs X-CITY
 URL:https://www.twitch.tv/gluck_esports
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261017T090000Z
+UID:pandascore-match-1742242@esport-ics
+DTSTART:20261017T090000Z
+DTEND:20261017T111500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Series #3 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/gluck_esports
+SUMMARY:Upper Bracket Final: VP.F vs Black Phoenix
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261017T140000Z
 UID:pandascore-match-1727868@esport-ics
 DTSTART:20261017T140000Z

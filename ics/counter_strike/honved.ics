@@ -932,7 +932,16 @@ CLASS:PUBLIC
 DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group C\nWatch: h
  ttps://www.twitch.tv/epl_pro
 SUMMARY:Elimination Match: Honvéd vs LVKD
-URL;VALUE=URI:https://www.twitch.tv/epl_pro
+URL:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T110000Z
+UID:pandascore-match-1753575@esport-ics
+DTSTART:20261017T110000Z
+DTEND:20261017T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
+SUMMARY:Upper Bracket Round 1 Match 1: Honvéd vs TitanFlow
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261019T150000Z
