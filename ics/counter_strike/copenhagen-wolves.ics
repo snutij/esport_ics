@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 7 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Upper Bracket Semifinal 1: CW vs RGG
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T103000Z
+UID:pandascore-match-1744792@esport-ics
+DTSTART:20261018T103000Z
+DTEND:20261018T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Upper Bracket Final: CW vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT

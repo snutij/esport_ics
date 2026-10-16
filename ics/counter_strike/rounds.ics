@@ -662,7 +662,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 7 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Upper Bracket Semifinal 1: CW vs RGG
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261016T100000Z
@@ -673,7 +673,7 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group B\nWatch: https://kick.
  com/elisaesports
 SUMMARY:HAVU vs RGG
-URL;VALUE=URI:https://kick.com/elisaesports
+URL:https://kick.com/elisaesports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261016T140000Z
@@ -696,5 +696,16 @@ DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group B\nWatch: https://kick.
  com/elisaesports
 SUMMARY:VOCA vs RGG
 URL;VALUE=URI:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T103000Z
+UID:pandascore-match-1744796@esport-ics
+DTSTART:20261017T103000Z
+DTEND:20261017T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Regular season 7 2026 - Playoffs\nWatch: 
+ https://kick.com/eplcs_en
+SUMMARY:Lower Bracket Quarterfinal 2: EACE vs RGG
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

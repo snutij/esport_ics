@@ -615,6 +615,15 @@ CLASS:PUBLIC
 DESCRIPTION:Logitech G Pro Series - 2026 - Group A\nWatch: https://www.twit
  ch.tv/dfragtv
 SUMMARY:Elimination Match: RA vs TBD
-URL;VALUE=URI:https://www.twitch.tv/dfragtv
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T050000Z
+UID:pandascore-match-1752534@esport-ics
+DTSTART:20261020T050000Z
+DTEND:20261020T071500Z
+CLASS:PUBLIC
+DESCRIPTION:VOID Autumn Cup - 2026 - Playoffs
+SUMMARY:Upper Bracket Quarterfinal 2: AE vs RA
 END:VEVENT
 END:VCALENDAR

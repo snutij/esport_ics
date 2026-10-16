@@ -839,7 +839,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #11 2026 - Group Stage\nWatch: https://kick
  .com/cct_cs
 SUMMARY:Round 2: ILLYR vs Black Phoenix
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261016T130000Z
@@ -851,5 +851,16 @@ DESCRIPTION:GLuck Yungstar - Series #3 2026 - Playoffs\nWatch: https://www.
  twitch.tv/gluck_esports
 SUMMARY:Upper Bracket Quarterfinal 4: Black Phoenix vs X-CITY
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T140000Z
+UID:pandascore-match-1727868@esport-ics
+DTSTART:20261017T140000Z
+DTEND:20261017T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 2: Black Phoenix vs FORZE.R
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

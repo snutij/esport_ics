@@ -167,6 +167,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 57 2026 - Group B\nWatch: https://www.kick.co
  m/united21_en
 SUMMARY:GAT vs ENCE.P
+URL:https://www.kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T080000Z
+UID:pandascore-match-1749777@esport-ics
+DTSTART:20261020T080000Z
+DTEND:20261020T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 57 2026 - Group B\nWatch: https://www.kick.co
+ m/united21_en
+SUMMARY:Winners match: GAT vs TBD
 URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

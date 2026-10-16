@@ -256,6 +256,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers North America Stage 2 2026 - Playoffs\nWatc
  h: https://www.twitch.tv/valorant_americas
 SUMMARY:Grand final: SRG vs FLY.R
-URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T210000Z
+UID:pandascore-match-1752415@esport-ics
+DTSTART:20261024T210000Z
+DTEND:20261024T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/valorant
+SUMMARY:Upper Bracket Quarterfinal Match 3: SRG vs TBD
+URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

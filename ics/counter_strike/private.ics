@@ -81,6 +81,17 @@ SUMMARY:PRIV vs Honvéd
 URL:https://www.twitch.tv/epl_pro
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261016T160000Z
+UID:pandascore-match-1752504@esport-ics
+DTSTART:20261016T160000Z
+DTEND:20261016T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group C\nWatch: h
+ ttps://www.twitch.tv/epl_pro
+SUMMARY:Winners' Match: PRIV vs UP
+URL;VALUE=URI:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261019T090000Z
 UID:pandascore-match-1745407@esport-ics
 DTSTART:20261019T090000Z

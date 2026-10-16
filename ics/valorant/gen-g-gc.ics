@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Pacific 2026 - Playoffs\nWatch: https://www
  .twitch.tv/valorant_pacific
 SUMMARY:Grand Final: FL.FE vs Gen.G GC
-URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T210000Z
+UID:pandascore-match-1752416@esport-ics
+DTSTART:20261023T210000Z
+DTEND:20261023T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/valorant
+SUMMARY:Upper Bracket Quarterfinal Match 4: KRÜ vs Gen.G GC
+URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR
