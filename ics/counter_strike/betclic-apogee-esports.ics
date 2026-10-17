@@ -725,6 +725,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/vanfantv
 SUMMARY:Upper bracket semifinal 1: BCA vs NEM
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T140000Z
+UID:pandascore-match-1751441@esport-ics
+DTSTART:20261019T140000Z
+DTEND:20261019T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs
+SUMMARY:Upper bracket final: BCA vs TBD
 END:VEVENT
 END:VCALENDAR

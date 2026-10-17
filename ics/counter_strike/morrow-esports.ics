@@ -391,4 +391,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
 SUMMARY:Upper Bracket Round 1 Match 5: Morrow Esports vs Quintessence
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T140000Z
+UID:pandascore-match-1745509@esport-ics
+DTSTART:20261018T140000Z
+DTEND:20261018T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #12 2026 - Group C\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Decider Match: ILLYR vs Morrow Esports
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
