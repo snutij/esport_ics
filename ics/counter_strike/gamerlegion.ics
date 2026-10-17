@@ -650,7 +650,9 @@ UID:pandascore-match-1751436@esport-ics
 DTSTART:20261017T110000Z
 DTEND:20261017T131500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs
+DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/vanfantv
 SUMMARY:Lower bracket round 1 match 2: EYE vs GL
+URL;VALUE=URI:https://www.twitch.tv/vanfantv
 END:VEVENT
 END:VCALENDAR

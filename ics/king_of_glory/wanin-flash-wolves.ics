@@ -220,7 +220,9 @@ UID:pandascore-match-1643081@esport-ics
 DTSTART:20261017T110000Z
 DTEND:20261017T161500Z
 CLASS:PUBLIC
-DESCRIPTION:Garena Challenger Series - Summer 2026 - Playoffs
+DESCRIPTION:Garena Challenger Series - Summer 2026 - Playoffs\nWatch: https
+ ://www.youtube.com/watch?v=2Cl3FlvYJ6w
 SUMMARY:Lower bracket semifinal: HKA vs FW
+URL;VALUE=URI:https://www.youtube.com/watch?v=2Cl3FlvYJ6w
 END:VEVENT
 END:VCALENDAR

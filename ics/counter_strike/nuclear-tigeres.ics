@@ -1164,7 +1164,9 @@ UID:pandascore-match-1751435@esport-ics
 DTSTART:20261017T080000Z
 DTEND:20261017T101500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs
+DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/vanfantv
 SUMMARY:Lower bracket round 1 match 1: EF vs NTR
+URL;VALUE=URI:https://www.twitch.tv/vanfantv
 END:VEVENT
 END:VCALENDAR

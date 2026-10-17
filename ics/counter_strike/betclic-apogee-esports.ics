@@ -722,7 +722,9 @@ UID:pandascore-match-1751437@esport-ics
 DTSTART:20261017T140000Z
 DTEND:20261017T161500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs
+DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/vanfantv
 SUMMARY:Upper bracket semifinal 1: BCA vs NEM
+URL;VALUE=URI:https://www.twitch.tv/vanfantv
 END:VEVENT
 END:VCALENDAR
