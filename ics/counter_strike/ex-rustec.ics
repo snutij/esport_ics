@@ -816,6 +816,17 @@ DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs
 SUMMARY:Upper bracket semifinal 2: BBL vs ex-RUSTEC
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261018T080000Z
+UID:pandascore-match-1727870@esport-ics
+DTSTART:20261018T080000Z
+DTEND:20261018T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 3: BTF vs ex-RUSTEC
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261018T110000Z
 UID:pandascore-match-1733068@esport-ics
 DTSTART:20261018T110000Z
@@ -825,5 +836,14 @@ DESCRIPTION:CCT Europe - Series #11 2026 - Group Stage\nWatch: https://kick
  .com/cct_cs
 SUMMARY:Round 3: ex-RUSTEC vs ILLYR
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T170000Z
+UID:pandascore-match-1751440@esport-ics
+DTSTART:20261018T170000Z
+DTEND:20261018T191500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: ex-RUSTEC vs NTR
 END:VEVENT
 END:VCALENDAR

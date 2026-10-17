@@ -1547,6 +1547,17 @@ CLASS:PUBLIC
 DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group B\nWatch: h
  ttps://www.twitch.tv/epl_pro
 SUMMARY:Winners match: OMG vs BW
-URL;VALUE=URI:https://www.twitch.tv/epl_pro
+URL:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T140000Z
+UID:pandascore-match-1727877@esport-ics
+DTSTART:20261019T140000Z
+DTEND:20261019T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 3: ex-ZT vs BW
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
