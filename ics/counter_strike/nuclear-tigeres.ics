@@ -1167,6 +1167,26 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/vanfantv
 SUMMARY:Lower bracket round 1 match 1: EF vs NTR
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T113000Z
+UID:pandascore-match-1754436@esport-ics
+DTSTART:20261017T113000Z
+DTEND:20261017T134500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/epl_pro
+SUMMARY:Winners match: NTR vs Black Phoenix
+URL;VALUE=URI:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T170000Z
+UID:pandascore-match-1751440@esport-ics
+DTSTART:20261018T170000Z
+DTEND:20261018T191500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 1: NTR vs TBD
 END:VEVENT
 END:VCALENDAR

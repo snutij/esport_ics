@@ -399,6 +399,17 @@ CLASS:PUBLIC
 DESCRIPTION:CN League - Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
  tv/esix_france
 SUMMARY:Lower bracket semifinal: TYLOO vs KZ
+URL:https://www.twitch.tv/esix_france
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T070000Z
+UID:pandascore-match-1664630@esport-ics
+DTSTART:20261018T070000Z
+DTEND:20261018T091500Z
+CLASS:PUBLIC
+DESCRIPTION:CN League - Stage 2 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/esix_france
+SUMMARY:Lower bracket final: TYLOO vs TBD
 URL;VALUE=URI:https://www.twitch.tv/esix_france
 END:VEVENT
 END:VCALENDAR

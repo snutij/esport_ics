@@ -432,6 +432,17 @@ CLASS:PUBLIC
 DESCRIPTION:Garena Challenger Series - Summer 2026 - Playoffs\nWatch: https
  ://www.youtube.com/watch?v=2Cl3FlvYJ6w
 SUMMARY:Upper bracket final: ANK Gaming vs DCG
-URL;VALUE=URI:https://www.youtube.com/watch?v=2Cl3FlvYJ6w
+URL:https://www.youtube.com/watch?v=2Cl3FlvYJ6w
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T070000Z
+UID:pandascore-match-1643082@esport-ics
+DTSTART:20261018T070000Z
+DTEND:20261018T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Garena Challenger Series - Summer 2026 - Playoffs\nWatch: https
+ ://www.youtube.com/@garenaaovtw
+SUMMARY:Lower bracket final: DCG vs TBD
+URL;VALUE=URI:https://www.youtube.com/@garenaaovtw
 END:VEVENT
 END:VCALENDAR

@@ -1013,4 +1013,15 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - China Closed Qualifier season 9 2026 - Playoffs
 SUMMARY:Semifinal 2: Xtreme vs YB
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T113000Z
+UID:pandascore-match-1749267@esport-ics
+DTSTART:20261017T113000Z
+DTEND:20261017T134500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Slam - China Closed Qualifier season 9 2026 - Playoffs\nW
+ atch: https://www.twitch.tv/betboom_dota_ru2
+SUMMARY:Grand final: TR vs Xtreme
+URL;VALUE=URI:https://www.twitch.tv/betboom_dota_ru2
+END:VEVENT
 END:VCALENDAR

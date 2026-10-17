@@ -861,7 +861,18 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck Yungstar - Series #3 2026 - Playoffs\nWatch: https://www.
  twitch.tv/gluck_esports
 SUMMARY:Upper Bracket Final: VP.F vs Black Phoenix
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T113000Z
+UID:pandascore-match-1754436@esport-ics
+DTSTART:20261017T113000Z
+DTEND:20261017T134500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/epl_pro
+SUMMARY:Winners match: NTR vs Black Phoenix
+URL;VALUE=URI:https://www.twitch.tv/epl_pro
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261017T140000Z
@@ -873,5 +884,16 @@ DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 2: Black Phoenix vs FORZE.R
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T183000Z
+UID:pandascore-match-1742249@esport-ics
+DTSTART:20261017T183000Z
+DTEND:20261017T204500Z
+CLASS:PUBLIC
+DESCRIPTION:GLuck Yungstar - Series #3 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/gluck_esports
+SUMMARY:Grand Final: Black Phoenix vs TBD
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR
