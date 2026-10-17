@@ -387,6 +387,16 @@ DTEND:20261017T024500Z
 CLASS:PUBLIC
 DESCRIPTION:Worlds - 2026 - Play-In\nWatch: https://www.twitch.tv/riotgames
 SUMMARY:Lower Bracket Semifinal: FUR vs C9
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T180000Z
+UID:pandascore-match-1710929@esport-ics
+DTSTART:20261017T180000Z
+DTEND:20261017T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Worlds - 2026 - Play-In\nWatch: https://www.twitch.tv/riotgames
+SUMMARY:Lower Bracket Final: MVK vs FUR
 URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR
