@@ -273,6 +273,17 @@ CLASS:PUBLIC
 DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group C\nWatch: h
  ttps://www.twitch.tv/epl_pro
 SUMMARY:Winners' Match: PRIV vs UP
+URL:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T140000Z
+UID:pandascore-match-1755670@esport-ics
+DTSTART:20261018T140000Z
+DTEND:20261018T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group C\nWatch: h
+ ttps://www.twitch.tv/epl_pro
+SUMMARY:UP vs LVKD
 URL;VALUE=URI:https://www.twitch.tv/epl_pro
 END:VEVENT
 END:VCALENDAR

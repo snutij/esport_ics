@@ -977,6 +977,15 @@ CLASS:PUBLIC
 DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group B\nWatch: h
  ttps://www.twitch.tv/epl_pro
 SUMMARY:Winners match: OMG vs BW
-URL;VALUE=URI:https://www.twitch.tv/epl_pro
+URL:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T120000Z
+UID:pandascore-match-1755681@esport-ics
+DTSTART:20261019T120000Z
+DTEND:20261019T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs
+SUMMARY:Round 1 match 2: G1 vs OMG
 END:VEVENT
 END:VCALENDAR

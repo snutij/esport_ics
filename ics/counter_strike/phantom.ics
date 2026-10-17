@@ -1170,6 +1170,15 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa BreakOut - Series #2 2026 - Playoffs\nWatch: https://kick
  .com/elisaesports
 SUMMARY:Grand final: HAVU vs PHA
-URL;VALUE=URI:https://kick.com/elisaesports
+URL:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T150000Z
+UID:pandascore-match-1755680@esport-ics
+DTSTART:20261019T150000Z
+DTEND:20261019T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs
+SUMMARY:Round 1 match 3: BRUTE vs PHA
 END:VEVENT
 END:VCALENDAR

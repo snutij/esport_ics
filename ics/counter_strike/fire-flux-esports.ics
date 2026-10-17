@@ -1230,6 +1230,17 @@ SUMMARY:Round 2: BAKS vs FF
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261018T100000Z
+UID:pandascore-match-1755669@esport-ics
+DTSTART:20261018T100000Z
+DTEND:20261018T121500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group B\nWatch: h
+ ttps://www.twitch.tv/epl_pro
+SUMMARY:FF vs BW
+URL;VALUE=URI:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261019T170000Z
 UID:pandascore-match-1727878@esport-ics
 DTSTART:20261019T170000Z

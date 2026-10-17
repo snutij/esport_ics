@@ -1310,6 +1310,17 @@ SUMMARY:NTR vs LPH
 URL:https://www.twitch.tv/epl_pro
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261018T170000Z
+UID:pandascore-match-1755668@esport-ics
+DTSTART:20261018T170000Z
+DTEND:20261018T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/epl_pro
+SUMMARY:Black Phoenix vs LPH
+URL;VALUE=URI:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261026T180000Z
 UID:pandascore-match-1751672@esport-ics
 DTSTART:20261026T180000Z
