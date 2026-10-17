@@ -310,6 +310,17 @@ SUMMARY:Round 2: ex-RUSTEC vs SSins
 URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261018T080000Z
+UID:pandascore-match-1733067@esport-ics
+DTSTART:20261018T080000Z
+DTEND:20261018T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #11 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs
+SUMMARY:Round 3: Black Phoenix vs SSins
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261018T110000Z
 UID:pandascore-match-1745504@esport-ics
 DTSTART:20261018T110000Z

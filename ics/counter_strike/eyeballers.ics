@@ -674,6 +674,15 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/vanfantv
 SUMMARY:Lower bracket round 1 match 2: EYE vs GL
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T140000Z
+UID:pandascore-match-1751439@esport-ics
+DTSTART:20261018T140000Z
+DTEND:20261018T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: EYE vs TBD
 END:VEVENT
 END:VCALENDAR

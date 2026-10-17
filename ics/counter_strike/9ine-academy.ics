@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 57 2026 - Group C\nWatch: https://www.kick.co
  m/united21_en
 SUMMARY:9INE.A vs GBC
+URL:https://www.kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T103000Z
+UID:pandascore-match-1749783@esport-ics
+DTSTART:20261021T103000Z
+DTEND:20261021T124500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 57 2026 - Group C\nWatch: https://www.kick.co
+ m/united21_en
+SUMMARY:Elimination match: 9INE.A vs TBD
 URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

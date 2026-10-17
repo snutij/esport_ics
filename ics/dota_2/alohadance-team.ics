@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:1win Streamers League - #3 2026 - Playoffs\nWatch: https://www.
  twitch.tv/1win_sl_dota
 SUMMARY:Upper Bracket Final: ALOHA vs Gorgc
+URL:https://www.twitch.tv/1win_sl_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T130000Z
+UID:pandascore-match-1748450@esport-ics
+DTSTART:20261018T130000Z
+DTEND:20261018T151500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Streamers League - #3 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/1win_sl_dota
+SUMMARY:Lower Bracket Final: ALOHA vs TBD
 URL;VALUE=URI:https://www.twitch.tv/1win_sl_dota
 END:VEVENT
 END:VCALENDAR
