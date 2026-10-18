@@ -579,6 +579,17 @@ DTEND:20260906T114500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
 SUMMARY:Lower bracket semifinal: T1 vs DK
-URL;VALUE=URI:https://www.twitch.tv/lck
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T200000Z
+UID:pandascore-match-1710935@esport-ics
+DTSTART:20261023T200000Z
+DTEND:20261023T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: http://www.twitch.tv/riotga
+ mes
+SUMMARY:Round 1: G2 vs DK
+URL;VALUE=URI:http://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

@@ -1039,17 +1039,6 @@ DESCRIPTION:Stake Ranked - Episode 6: Open Qualifier 2026 - Playoffs
 SUMMARY:Quarterfinal 2: MSC vs AUR.YB
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T160000Z
-UID:pandascore-match-1687990@esport-ics
-DTSTART:20261019T160000Z
-DTEND:20261019T164500Z
-CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
- ://www.twitch.tv/dust2tv
-SUMMARY:LLE vs MSC
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261019T170000Z
 UID:pandascore-match-1687994@esport-ics
 DTSTART:20261019T170000Z
@@ -1070,6 +1059,17 @@ DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:EACE vs MSC
 URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T180000Z
+UID:pandascore-match-1687990@esport-ics
+DTSTART:20261019T180000Z
+DTEND:20261019T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:LLE vs MSC
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261026T180000Z

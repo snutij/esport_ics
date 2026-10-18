@@ -563,6 +563,17 @@ DTEND:20260913T084500Z
 CLASS:PUBLIC
 DESCRIPTION:LCK - 2026 - Playoffs\nWatch: https://www.twitch.tv/lck
 SUMMARY:Grand final: GEN vs HLE
-URL;VALUE=URI:https://www.twitch.tv/lck
+URL:https://www.twitch.tv/lck
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T210000Z
+UID:pandascore-match-1710936@esport-ics
+DTSTART:20261023T210000Z
+DTEND:20261023T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: http://www.twitch.tv/riotga
+ mes
+SUMMARY:Round 1: HLE vs TES
+URL;VALUE=URI:http://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR
