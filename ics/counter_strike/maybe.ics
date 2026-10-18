@@ -373,4 +373,13 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #12 2026 - Group B\nWatch
 SUMMARY:Decider Match: maybe vs SSins
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T110000Z
+UID:pandascore-match-1753592@esport-ics
+DTSTART:20261020T110000Z
+DTEND:20261020T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
+SUMMARY:Lower Bracket Round 1 Match 3: Morrow Esports vs maybe
+END:VEVENT
 END:VCALENDAR
