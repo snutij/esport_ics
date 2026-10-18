@@ -977,8 +977,10 @@ UID:pandascore-match-1756287@esport-ics
 DTSTART:20261019T090000Z
 DTEND:20261019T111500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 3 2026 - Group B
+DESCRIPTION:EPL Masters - Season 3 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:YeS vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T120000Z
@@ -986,8 +988,10 @@ UID:pandascore-match-1756292@esport-ics
 DTSTART:20261021T120000Z
 DTEND:20261021T141500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 3 2026 - Group B
-SUMMARY:Dawn Bulls vs Z10
+DESCRIPTION:EPL Masters - Season 3 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
+SUMMARY:DB vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261022T180000Z
@@ -995,8 +999,10 @@ UID:pandascore-match-1756295@esport-ics
 DTSTART:20261022T180000Z
 DTEND:20261022T201500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 3 2026 - Group B
+DESCRIPTION:EPL Masters - Season 3 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:Bot$ vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261024T120000Z
@@ -1004,8 +1010,10 @@ UID:pandascore-match-1756297@esport-ics
 DTSTART:20261024T120000Z
 DTEND:20261024T141500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 3 2026 - Group B
-SUMMARY:Team Synapse vs Z10
+DESCRIPTION:EPL Masters - Season 3 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
+SUMMARY:TS vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261025T150000Z
@@ -1013,7 +1021,9 @@ UID:pandascore-match-1756300@esport-ics
 DTSTART:20261025T150000Z
 DTEND:20261025T171500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 3 2026 - Group B
+DESCRIPTION:EPL Masters - Season 3 2026 - Group B\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:CH vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

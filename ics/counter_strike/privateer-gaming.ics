@@ -439,23 +439,25 @@ SUMMARY:Elimination Match: PG vs Noir Verse
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261018T134500Z
-UID:pandascore-match-1753578@esport-ics
-DTSTART:20261018T134500Z
-DTEND:20261018T160000Z
-CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
-SUMMARY:Upper Bracket Round 1 Match 7: ex-6666 vs PG
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261018T170000Z
+DTSTAMP:20261018T110000Z
 UID:pandascore-match-1745513@esport-ics
-DTSTART:20261018T170000Z
-DTEND:20261018T191500Z
+DTSTART:20261018T110000Z
+DTEND:20261018T131500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #12 2026 - Group D\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:Decider Match: PG vs antidaun
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261018T134500Z
+UID:pandascore-match-1753578@esport-ics
+DTSTART:20261018T134500Z
+DTEND:20261018T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Upper Bracket Round 1 Match 7: ex-6666 vs PG
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

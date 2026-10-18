@@ -972,8 +972,10 @@ UID:pandascore-match-1756271@esport-ics
 DTSTART:20261018T150000Z
 DTEND:20261018T171500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 3 2026 - Group A
+DESCRIPTION:EPL Masters - Season 3 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:PR vs Nemiga
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261019T120000Z
@@ -981,8 +983,10 @@ UID:pandascore-match-1756273@esport-ics
 DTSTART:20261019T120000Z
 DTEND:20261019T141500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 3 2026 - Group A
+DESCRIPTION:EPL Masters - Season 3 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:HULIGANI vs Nemiga
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261023T090000Z
@@ -990,8 +994,10 @@ UID:pandascore-match-1756280@esport-ics
 DTSTART:20261023T090000Z
 DTEND:20261023T111500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 3 2026 - Group A
+DESCRIPTION:EPL Masters - Season 3 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:salamit vs Nemiga
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261024T090000Z
@@ -999,8 +1005,10 @@ UID:pandascore-match-1756283@esport-ics
 DTSTART:20261024T090000Z
 DTEND:20261024T111500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 3 2026 - Group A
+DESCRIPTION:EPL Masters - Season 3 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:LYNX vs Nemiga
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261025T120000Z
@@ -1008,7 +1016,9 @@ UID:pandascore-match-1756285@esport-ics
 DTSTART:20261025T120000Z
 DTEND:20261025T141500Z
 CLASS:PUBLIC
-DESCRIPTION:EPL Masters - Season 3 2026 - Group A
+DESCRIPTION:EPL Masters - Season 3 2026 - Group A\nWatch: https://kick.com/
+ epldota_en2
 SUMMARY:Nemiga vs ICxI
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
