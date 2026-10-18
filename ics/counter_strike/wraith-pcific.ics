@@ -692,6 +692,17 @@ CLASS:PUBLIC
 DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group D\nWatch: h
  ttps://www.twitch.tv/epl_pro
 SUMMARY:Winners match: 6yuBoJlbl vs PCIFIC
-URL;VALUE=URI:https://www.twitch.tv/epl_pro
+URL:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T080000Z
+UID:pandascore-match-1746611@esport-ics
+DTSTART:20261019T080000Z
+DTEND:20261019T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #12 2026 - Play-In\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:PCIFIC vs ILLYR
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

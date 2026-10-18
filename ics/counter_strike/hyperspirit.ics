@@ -886,10 +886,10 @@ SUMMARY:Elimination Match: RE vs HS
 URL:https://www.twitch.tv/epl_pro
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261018T200000Z
+DTSTAMP:20261018T210000Z
 UID:pandascore-match-1755667@esport-ics
-DTSTART:20261018T200000Z
-DTEND:20261018T221500Z
+DTSTART:20261018T210000Z
+DTEND:20261018T231500Z
 CLASS:PUBLIC
 DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group D\nWatch: h
  ttps://www.twitch.tv/epl_pro
@@ -902,7 +902,9 @@ UID:pandascore-match-1742204@esport-ics
 DTSTART:20261019T104500Z
 DTEND:20261019T113000Z
 CLASS:PUBLIC
-DESCRIPTION:DraculaN - Season 7 2026 - Group C
+DESCRIPTION:DraculaN - Season 7 2026 - Group C\nWatch: https://kick.com/dra
+ culancs
 SUMMARY:IS vs HS
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR

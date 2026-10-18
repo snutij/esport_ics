@@ -428,7 +428,9 @@ UID:pandascore-match-1742199@esport-ics
 DTSTART:20261019T090000Z
 DTEND:20261019T094500Z
 CLASS:PUBLIC
-DESCRIPTION:DraculaN - Season 7 2026 - Group B
+DESCRIPTION:DraculaN - Season 7 2026 - Group B\nWatch: https://kick.com/dra
+ culancs
 SUMMARY:BCG vs DRAMA
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR

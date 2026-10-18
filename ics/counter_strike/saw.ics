@@ -709,7 +709,9 @@ UID:pandascore-match-1742224@esport-ics
 DTSTART:20261019T104500Z
 DTEND:20261019T113000Z
 CLASS:PUBLIC
-DESCRIPTION:DraculaN - Season 7 2026 - Group D
+DESCRIPTION:DraculaN - Season 7 2026 - Group D\nWatch: https://kick.com/dra
+ culancs
 SUMMARY:SAW vs BKH
+URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR
