@@ -2,24 +2,9 @@
   <img src="assets/banner.svg" alt="Esport ICS" width="100%">
 </p>
 
-<h1 align="center">Esport ICS</h1>
-
-<p align="center">
-  ICS calendar subscriptions for esports teams.<br>
-  Updated hourly. Free & open source.
-</p>
-
 <p align="center">
   <a href="https://esport-ics.pages.dev"><strong>Browse calendars &rarr;</strong></a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/snutij/esport_ics/actions/workflows/update_ics.yml"><img src="https://github.com/snutij/esport_ics/actions/workflows/update_ics.yml/badge.svg" alt="Update ICS Calendar"></a>&nbsp;
-  <a href="LICENSE.txt"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>&nbsp;
-  <a href="https://pandascore.co/"><img src="https://img.shields.io/badge/data-PandaScore-orange.svg" alt="PandaScore"></a>
-</p>
-
----
 
 ## Supported Games
 
