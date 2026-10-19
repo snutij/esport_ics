@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Esport ICS" width="100%">
+</p>
+
 <h1 align="center">Esport ICS</h1>
 
 <p align="center">

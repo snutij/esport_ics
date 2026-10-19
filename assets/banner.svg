@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Esport ICS: free calendar subscriptions for esports teams, updated hourly">
+<title>Esport ICS</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070a14"/><stop offset="1" stop-color="#121833"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7b61ff"/><stop offset=".5" stop-color="#00d4ff"/><stop offset="1" stop-color="#2ee59d"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-0.3 0;0.3 0;-0.3 0" dur="6s" repeatCount="indefinite"/></linearGradient>
+<radialGradient id="orb1"><stop offset="0" stop-color="#7b61ff" stop-opacity=".45"/><stop offset="1" stop-color="#7b61ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="orb2"><stop offset="0" stop-color="#00d4ff" stop-opacity=".35"/><stop offset="1" stop-color="#00d4ff" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".04"/></pattern>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".07" stop-color="#fff"/><stop offset=".93" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="mqm" maskUnits="userSpaceOnUse" x="60" y="246" width="620" height="40"><rect x="60" y="246" width="620" height="40" fill="url(#fade)"/></mask>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif}
+.title{font-size:76px;font-weight:800;fill:#fff;letter-spacing:-2px}
+.sub{font-size:21px;fill:#a9b1d6}
+.badge{font-size:12px;font-weight:700;fill:#2ee59d;letter-spacing:1.6px}
+.pill{font-size:13px;font-weight:600;fill:#e6e9f5}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"DejaVu Sans Mono",monospace}
+.time{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"DejaVu Sans Mono",monospace;font-size:17px;font-weight:700;fill:#fff}
+.match{font-size:15px;font-weight:700;fill:#fff}
+.game{font-size:11.5px;font-weight:600;letter-spacing:.4px}
+.status{font-size:11px;font-weight:700;fill:#0e1328;letter-spacing:.5px}
+.url{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"DejaVu Sans Mono",monospace;font-size:12px;fill:#6b7393}
+.marquee{animation:mq 45s linear infinite}
+@keyframes mq{from{transform:translateX(0)}to{transform:translateX(-2274px)}}
+.dot{animation:pulse 1.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.8)}}
+.float{animation:float 6s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+
+/* ===== synced 9s timeline =====
+   0-17%   two .ics files (one per team) fly toward the card, B 0.3s after A
+   17-24%  files merge into the card (shrink + fade), ripple + glow flash, sync icon spins, status "Syncing"
+   25/30/35% events slide in one by one, status "Up to date"
+   86-94%  events fade out, loop */
+.ics{opacity:0;transform-box:fill-box;transform-origin:center;animation:fly 9s cubic-bezier(.5,0,.3,1) infinite}
+@keyframes fly{0%{opacity:0;transform:translate(0,0) scale(1)}4%{opacity:1;transform:translate(0,0) scale(1)}17%{opacity:1;transform:translate(118px,0) scale(1)}21%{opacity:0;transform:translate(138px,0) scale(.3)}100%{opacity:0;transform:translate(138px,0) scale(.3)}}
+.ripple{opacity:0;transform-box:fill-box;transform-origin:center;animation:ripple 9s ease-out infinite}
+.ics-b,.rp-b{animation-delay:.3s}
+@keyframes ripple{0%,17%{opacity:0;transform:scale(.2)}18%{opacity:.9;transform:scale(.3)}28%{opacity:0;transform:scale(2.4)}100%{opacity:0;transform:scale(2.4)}}
+.flash{opacity:.25;animation:flash 9s ease-out infinite}
+@keyframes flash{0%,17%{opacity:.25}24%{opacity:.85}38%,100%{opacity:.25}}
+.sync{transform-box:fill-box;transform-origin:center;animation:spin 9s cubic-bezier(.4,0,.2,1) infinite}
+@keyframes spin{0%,16%{transform:rotate(0)}34%,100%{transform:rotate(720deg)}}
+.st-sync{opacity:0;animation:stsync 9s linear infinite}
+@keyframes stsync{0%,16%{opacity:0}17%,35%{opacity:1}36%,100%{opacity:0}}
+.st-ok{animation:stok 9s linear infinite}
+@keyframes stok{0%,16%{opacity:1}17%,35%{opacity:0}36%,100%{opacity:1}}
+.evi{opacity:0}
+.ev0{animation:ev0 9s cubic-bezier(.2,.8,.2,1) infinite}
+.ev1{animation:ev1 9s cubic-bezier(.2,.8,.2,1) infinite}
+.ev2{animation:ev2 9s cubic-bezier(.2,.8,.2,1) infinite}
+@keyframes ev0{0%,25%{opacity:0;transform:translateX(-24px)}30%,86%{opacity:1;transform:translateX(0)}93%,100%{opacity:0;transform:translateX(0)}}
+@keyframes ev1{0%,30%{opacity:0;transform:translateX(-24px)}35%,86%{opacity:1;transform:translateX(0)}93%,100%{opacity:0;transform:translateX(0)}}
+@keyframes ev2{0%,35%{opacity:0;transform:translateX(-24px)}40%,86%{opacity:1;transform:translateX(0)}93%,100%{opacity:0;transform:translateX(0)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.evi{opacity:1}.ics,.ripple,.st-sync{opacity:0}}
+</style>
+<rect width="1280" height="360" fill="url(#bg)"/>
+<rect width="1280" height="360" fill="url(#grid)"/>
+<circle cx="180" cy="40" r="260" fill="url(#orb1)"><animate attributeName="cx" values="180;320;180" dur="14s" repeatCount="indefinite"/></circle>
+<circle cx="1050" cy="330" r="280" fill="url(#orb2)"><animate attributeName="cy" values="330;250;330" dur="12s" repeatCount="indefinite"/></circle>
+
+<!-- left -->
+<g transform="translate(60,56)">
+<rect x=".5" y=".5" width="243" height="27" rx="13.5" fill="#2ee59d" fill-opacity=".1" stroke="#2ee59d" stroke-opacity=".4"/>
+<circle class="dot" cx="18" cy="14" r="4" fill="#2ee59d"/>
+<text x="32" y="18.5" class="badge">LIVE · UPDATED HOURLY</text>
+</g>
+<text x="56" y="166" class="title">Esport <tspan fill="url(#accent)">ICS</tspan></text>
+<text x="60" y="208" class="sub">Free calendar subscriptions for esports teams.</text>
+<g mask="url(#mqm)"><g transform="translate(60,250)"><g class="marquee"><g transform="translate(0,0)"><rect x=".5" y=".5" width="181" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#c89b3c" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#c89b3c"/><text x="28" y="20.5" class="pill">League of Legends</text></g><g transform="translate(194,0)"><rect x=".5" y=".5" width="164" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#f5a623" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#f5a623"/><text x="28" y="20.5" class="pill">Counter-Strike 2</text></g><g transform="translate(371,0)"><rect x=".5" y=".5" width="105" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#ff4655" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#ff4655"/><text x="28" y="20.5" class="pill">Valorant</text></g><g transform="translate(489,0)"><rect x=".5" y=".5" width="91" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#e33b2e" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#e33b2e"/><text x="28" y="20.5" class="pill">Dota 2</text></g><g transform="translate(593,0)"><rect x=".5" y=".5" width="151" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#1f8fff" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#1f8fff"/><text x="28" y="20.5" class="pill">Rocket League</text></g><g transform="translate(757,0)"><rect x=".5" y=".5" width="135" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#f99e1a" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#f99e1a"/><text x="28" y="20.5" class="pill">Overwatch 2</text></g><g transform="translate(905,0)"><rect x=".5" y=".5" width="178" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#4ab3ff" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#4ab3ff"/><text x="28" y="20.5" class="pill">Rainbow Six Siege</text></g><g transform="translate(1096,0)"><rect x=".5" y=".5" width="84" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#f2a900" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#f2a900"/><text x="28" y="20.5" class="pill">PUBG</text></g><g transform="translate(1193,0)"><rect x=".5" y=".5" width="137" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#2ee59d" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#2ee59d"/><text x="28" y="20.5" class="pill">EA Sports FC</text></g><g transform="translate(1343,0)"><rect x=".5" y=".5" width="158" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#7b61ff" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#7b61ff"/><text x="28" y="20.5" class="pill">Mobile Legends</text></g><g transform="translate(1514,0)"><rect x=".5" y=".5" width="124" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#00b4ff" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#00b4ff"/><text x="28" y="20.5" class="pill">StarCraft 2</text></g><g transform="translate(1651,0)"><rect x=".5" y=".5" width="129" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#9be15d" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#9be15d"/><text x="28" y="20.5" class="pill">Call of Duty</text></g><g transform="translate(1793,0)"><rect x=".5" y=".5" width="106" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#36d1dc" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#36d1dc"/><text x="28" y="20.5" class="pill">Wild Rift</text></g><g transform="translate(1912,0)"><rect x=".5" y=".5" width="139" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#ffcc4d" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#ffcc4d"/><text x="28" y="20.5" class="pill">King of Glory</text></g><g transform="translate(2064,0)"><rect x=".5" y=".5" width="197" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#8fa8ff" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#8fa8ff"/><text x="28" y="20.5" class="pill">StarCraft: Brood War</text></g><g transform="translate(2274,0)"><rect x=".5" y=".5" width="181" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#c89b3c" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#c89b3c"/><text x="28" y="20.5" class="pill">League of Legends</text></g><g transform="translate(2468,0)"><rect x=".5" y=".5" width="164" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#f5a623" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#f5a623"/><text x="28" y="20.5" class="pill">Counter-Strike 2</text></g><g transform="translate(2645,0)"><rect x=".5" y=".5" width="105" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#ff4655" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#ff4655"/><text x="28" y="20.5" class="pill">Valorant</text></g><g transform="translate(2763,0)"><rect x=".5" y=".5" width="91" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#e33b2e" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#e33b2e"/><text x="28" y="20.5" class="pill">Dota 2</text></g><g transform="translate(2867,0)"><rect x=".5" y=".5" width="151" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#1f8fff" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#1f8fff"/><text x="28" y="20.5" class="pill">Rocket League</text></g><g transform="translate(3031,0)"><rect x=".5" y=".5" width="135" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#f99e1a" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#f99e1a"/><text x="28" y="20.5" class="pill">Overwatch 2</text></g><g transform="translate(3179,0)"><rect x=".5" y=".5" width="178" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#4ab3ff" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#4ab3ff"/><text x="28" y="20.5" class="pill">Rainbow Six Siege</text></g><g transform="translate(3370,0)"><rect x=".5" y=".5" width="84" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#f2a900" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#f2a900"/><text x="28" y="20.5" class="pill">PUBG</text></g><g transform="translate(3467,0)"><rect x=".5" y=".5" width="137" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#2ee59d" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#2ee59d"/><text x="28" y="20.5" class="pill">EA Sports FC</text></g><g transform="translate(3617,0)"><rect x=".5" y=".5" width="158" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#7b61ff" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#7b61ff"/><text x="28" y="20.5" class="pill">Mobile Legends</text></g><g transform="translate(3788,0)"><rect x=".5" y=".5" width="124" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#00b4ff" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#00b4ff"/><text x="28" y="20.5" class="pill">StarCraft 2</text></g><g transform="translate(3925,0)"><rect x=".5" y=".5" width="129" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#9be15d" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#9be15d"/><text x="28" y="20.5" class="pill">Call of Duty</text></g><g transform="translate(4067,0)"><rect x=".5" y=".5" width="106" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#36d1dc" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#36d1dc"/><text x="28" y="20.5" class="pill">Wild Rift</text></g><g transform="translate(4186,0)"><rect x=".5" y=".5" width="139" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#ffcc4d" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#ffcc4d"/><text x="28" y="20.5" class="pill">King of Glory</text></g><g transform="translate(4338,0)"><rect x=".5" y=".5" width="197" height="31" rx="15.5" fill="#ffffff" fill-opacity=".05" stroke="#8fa8ff" stroke-opacity=".55"/><circle cx="16" cy="16" r="4" fill="#8fa8ff"/><text x="28" y="20.5" class="pill">StarCraft: Brood War</text></g></g></g></g>
+<text x="60" y="318" class="url">raw.githubusercontent.com/snutij/esport_ics/main/ics/&lt;game&gt;/&lt;team&gt;.ics</text>
+
+<!-- calendar card (ics file lives inside the floating group so it always lands on the card) -->
+<g class="float"><g transform="translate(790,34)">
+<rect class="flash" x="0" y="0" width="440" height="292" rx="18" fill="#7b61ff" filter="url(#glow)"/>
+<rect x="0" y="0" width="440" height="292" rx="18" fill="#0e1328" stroke="#ffffff" stroke-opacity=".12"/>
+<path d="M18 0h404a18 18 0 0 1 18 18v42H0V18A18 18 0 0 1 18 0z" fill="url(#accent)" opacity=".92"/>
+<rect x="90" y="-10" width="8" height="22" rx="4" fill="#cfd5ef"/><rect x="342" y="-10" width="8" height="22" rx="4" fill="#cfd5ef"/>
+<g transform="translate(22,20)"><rect width="20" height="20" rx="4" fill="none" stroke="#0e1328" stroke-width="2"/><path d="M0 7h20M6 -2v5M14 -2v5" stroke="#0e1328" stroke-width="2"/></g>
+<text x="54" y="36" style="font-size:15px;font-weight:700;fill:#0e1328;letter-spacing:.3px">Upcoming matches</text>
+<text x="382" y="34" text-anchor="end" class="status st-sync">SYNCING…</text>
+<text x="382" y="34" text-anchor="end" class="status st-ok">UP TO DATE</text>
+<g transform="translate(404,30)"><g class="sync"><path d="M-8 0a8 8 0 0 1 14-5.3M8 0a8 8 0 0 1-14 5.3" fill="none" stroke="#0e1328" stroke-width="2.2" stroke-linecap="round"/><path d="M6 -9v4h-4M-6 9v-4h4" fill="none" stroke="#0e1328" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+<text x="22" y="88" style="font-size:11px;font-weight:700;fill:#6b7393;letter-spacing:1.5px">TODAY · SUBSCRIBED</text>
+<g transform="translate(16,104)"><g class="evi ev0">
+<rect x="0" y="0" width="408" height="50" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".08"/>
+<rect x="0" y="0" width="5" height="50" rx="2.5" fill="#c89b3c"/>
+<text x="22" y="31" class="time">18:00</text>
+<text x="96" y="23" class="match">KC <tspan fill="#6b7393">vs</tspan> G2</text>
+<text x="96" y="40" class="game" fill="#c89b3c">League of Legends</text>
+</g></g><g transform="translate(16,164)"><g class="evi ev1">
+<rect x="0" y="0" width="408" height="50" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".08"/>
+<rect x="0" y="0" width="5" height="50" rx="2.5" fill="#f5a623"/>
+<text x="22" y="31" class="time">20:30</text>
+<text x="96" y="23" class="match">VIT <tspan fill="#6b7393">vs</tspan> NAVI</text>
+<text x="96" y="40" class="game" fill="#f5a623">Counter-Strike 2</text>
+</g></g><g transform="translate(16,224)"><g class="evi ev2">
+<rect x="0" y="0" width="408" height="50" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".08"/>
+<rect x="0" y="0" width="5" height="50" rx="2.5" fill="#ff4655"/>
+<text x="22" y="31" class="time">22:00</text>
+<text x="96" y="23" class="match">FNC <tspan fill="#6b7393">vs</tspan> TH</text>
+<text x="96" y="40" class="game" fill="#ff4655">Valorant</text>
+</g></g>
+<circle class="ripple rp-a" cx="39" cy="111" r="22" fill="none" stroke="#00d4ff" stroke-width="2"/>
+<circle class="ripple rp-b" cx="39" cy="175" r="22" fill="none" stroke="#2ee59d" stroke-width="2"/>
+<g transform="translate(-118,88)"><g class="ics ics-a">
+<path d="M0 0h26l12 12v34H0z" fill="#121833" stroke="#00d4ff" stroke-width="2" stroke-linejoin="round"/><path d="M26 0v12h12" fill="none" stroke="#00d4ff" stroke-width="2" stroke-linejoin="round"/>
+<text x="19" y="36" text-anchor="middle" style="font-size:10px;font-weight:800;fill:#00d4ff">.ics</text></g></g>
+<g transform="translate(-118,152)"><g class="ics ics-b">
+<path d="M0 0h26l12 12v34H0z" fill="#121833" stroke="#2ee59d" stroke-width="2" stroke-linejoin="round"/><path d="M26 0v12h12" fill="none" stroke="#2ee59d" stroke-width="2" stroke-linejoin="round"/>
+<text x="19" y="36" text-anchor="middle" style="font-size:10px;font-weight:800;fill:#2ee59d">.ics</text></g></g>
+</g></g>
+</svg>
