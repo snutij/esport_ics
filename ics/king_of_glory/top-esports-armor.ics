@@ -377,6 +377,15 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
  ://live.bilibili.com/21144080
 SUMMARY:JDG vs TES.A
-URL;VALUE=URI:https://live.bilibili.com/21144080
+URL:https://live.bilibili.com/21144080
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T100000Z
+UID:pandascore-match-1707264@esport-ics
+DTSTART:20261021T100000Z
+DTEND:20261021T151500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Grand Finals 2026 - Breakout Stage
+SUMMARY:Round 1: AG.SP vs TES.A
 END:VEVENT
 END:VCALENDAR
