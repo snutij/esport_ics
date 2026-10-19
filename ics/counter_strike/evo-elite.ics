@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CIS LAN Championship - Season 8 2026 - Group B\nWatch: https://
  www.twitch.tv/MPKBK
 SUMMARY:PRIV vs EVOE
+URL:https://www.twitch.tv/MPKBK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T060000Z
+UID:pandascore-match-1759632@esport-ics
+DTSTART:20261021T060000Z
+DTEND:20261021T081500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 9 2026 - Group B\nWatch: https://
+ www.twitch.tv/MPKBK
+SUMMARY:ACES vs EVOE
 URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 END:VCALENDAR

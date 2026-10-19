@@ -422,4 +422,81 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - China Closed Qualifier season 9 2026 - Playoffs
 SUMMARY:Quarterfinal 3: Xtreme vs CD
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T090000Z
+UID:pandascore-match-1759485@esport-ics
+DTSTART:20261021T090000Z
+DTEND:20261021T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:NEM.A vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T030000Z
+UID:pandascore-match-1759486@esport-ics
+DTSTART:20261022T030000Z
+DTEND:20261022T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CD vs RG
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T060000Z
+UID:pandascore-match-1759489@esport-ics
+DTSTART:20261023T060000Z
+DTEND:20261023T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T060000Z
+UID:pandascore-match-1759493@esport-ics
+DTSTART:20261025T060000Z
+DTEND:20261025T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Team Kinetix vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T030000Z
+UID:pandascore-match-1759495@esport-ics
+DTSTART:20261026T030000Z
+DTEND:20261026T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:DB vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T030000Z
+UID:pandascore-match-1759498@esport-ics
+DTSTART:20261027T030000Z
+DTEND:20261027T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:XE vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030000Z
+UID:pandascore-match-1759503@esport-ics
+DTSTART:20261029T030000Z
+DTEND:20261029T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:CD vs NOVUS
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
 END:VCALENDAR

@@ -1431,7 +1431,7 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 3: G1 vs FORZE.R
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261019T120000Z
@@ -1441,5 +1441,25 @@ DTEND:20261019T141500Z
 CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs
 SUMMARY:Round 1 match 2: G1 vs OMG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T120000Z
+UID:pandascore-match-1755688@esport-ics
+DTSTART:20261021T120000Z
+DTEND:20261021T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round 2 match 2: G1 vs TBD
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T130000Z
+UID:pandascore-match-1759655@esport-ics
+DTSTART:20261021T130000Z
+DTEND:20261021T151500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #9 season 52 2026 - Group A
+SUMMARY:G1 vs DM
 END:VEVENT
 END:VCALENDAR

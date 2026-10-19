@@ -78,6 +78,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Upper Bracket Quarterfinal 3: Quintessence vs FAL.F
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T134500Z
+UID:pandascore-match-1753588@esport-ics
+DTSTART:20261022T134500Z
+DTEND:20261022T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
+SUMMARY:Upper Bracket Semifinal 2: Ryvex vs Quintessence
 END:VEVENT
 END:VCALENDAR

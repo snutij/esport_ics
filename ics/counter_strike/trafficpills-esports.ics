@@ -169,6 +169,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 2 2026 - Group Stage\nWatch: https://kick
  .com/fiesta_cs
 SUMMARY:Round 4: ex-ZT vs TrafficPills Esports
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T070000Z
+UID:pandascore-match-1759605@esport-ics
+DTSTART:20261020T070000Z
+DTEND:20261020T091500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 9 2026 - Group A\nWatch: https://
+ www.twitch.tv/MPKBK
+SUMMARY:TPE vs NEXORA
+URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 END:VCALENDAR

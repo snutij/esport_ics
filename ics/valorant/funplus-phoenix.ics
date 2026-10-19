@@ -317,6 +317,17 @@ CLASS:PUBLIC
 DESCRIPTION:China Evolution Series - Act 3 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorantesports_cn
 SUMMARY:Grand final: KBG vs FPX
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T110000Z
+UID:pandascore-match-1759537@esport-ics
+DTSTART:20261023T110000Z
+DTEND:20261023T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Threshold China 2026 - Week 1\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Quarterfinal 2: FPX vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

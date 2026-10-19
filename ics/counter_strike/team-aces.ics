@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 3: ACES vs BAKS
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T060000Z
+UID:pandascore-match-1759632@esport-ics
+DTSTART:20261021T060000Z
+DTEND:20261021T081500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 9 2026 - Group B\nWatch: https://
+ www.twitch.tv/MPKBK
+SUMMARY:ACES vs EVOE
+URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 END:VCALENDAR

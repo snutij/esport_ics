@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:GLuck StarPearl - Season 1 2026 - Group A\nWatch: https://www.t
  witch.tv/gluck_esports
 SUMMARY:Elimination match: OXUJI vs BlinkDagger
-URL;VALUE=URI:https://www.twitch.tv/gluck_esports
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T150000Z
+UID:pandascore-match-1759616@esport-ics
+DTSTART:20261021T150000Z
+DTEND:20261021T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 9 2026 - Group C\nWatch: https://
+ www.twitch.tv/MPKBK
+SUMMARY:CS vs BlinkDagger
+URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 END:VCALENDAR

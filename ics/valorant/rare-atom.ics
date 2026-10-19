@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:China Evolution Series - Act 1 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorantesports_cn
 SUMMARY:Round 1 match 3: JDG vs RA
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T100000Z
+UID:pandascore-match-1759533@esport-ics
+DTSTART:20261021T100000Z
+DTEND:20261021T121500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Threshold China 2026 - Week 1\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Round 1 Match 2: DRG vs RA
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

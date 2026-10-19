@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:China Evolution Series - Act 1 2026 - Playoffs\nWatch: https://
  www.twitch.tv/valorantesports_cn
 SUMMARY:Round 1 match 2: TEC vs World Sports Invictus Gaming
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T060000Z
+UID:pandascore-match-1759535@esport-ics
+DTSTART:20261021T060000Z
+DTEND:20261021T081500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Threshold China 2026 - Week 1\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Round 1 Match 4: AQ vs WSIG
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

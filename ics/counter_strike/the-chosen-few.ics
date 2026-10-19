@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 57 2026 - Gorup A\nWatch: https://www.kick.co
  m/united21_en
 SUMMARY:Elimination match:  SNCTM vs TCF
+URL:https://www.kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T080000Z
+UID:pandascore-match-1749772@esport-ics
+DTSTART:20261023T080000Z
+DTEND:20261023T101500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 57 2026 - Gorup A\nWatch: https://www.kick.co
+ m/united21_en
+SUMMARY:Decider match: CW vs TCF
 URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

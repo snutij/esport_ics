@@ -15,4 +15,81 @@ DESCRIPTION:DreamLeague - Southeast Asia Open Qualifier 2 season 30 2026 -
  Playoffs
 SUMMARY:Semifinal 1: IVO vs NEM.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T090000Z
+UID:pandascore-match-1759482@esport-ics
+DTSTART:20261020T090000Z
+DTEND:20261020T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Team Kinetix vs NEM.A
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T090000Z
+UID:pandascore-match-1759485@esport-ics
+DTSTART:20261021T090000Z
+DTEND:20261021T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:NEM.A vs CD
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T090000Z
+UID:pandascore-match-1759488@esport-ics
+DTSTART:20261022T090000Z
+DTEND:20261022T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:YG vs NEM.A
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T090000Z
+UID:pandascore-match-1759490@esport-ics
+DTSTART:20261023T090000Z
+DTEND:20261023T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:NEM.A vs NOVUS
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T030000Z
+UID:pandascore-match-1759491@esport-ics
+DTSTART:20261024T030000Z
+DTEND:20261024T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:RG vs NEM.A
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T060000Z
+UID:pandascore-match-1759501@esport-ics
+DTSTART:20261028T060000Z
+DTEND:20261028T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:DB vs NEM.A
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T090000Z
+UID:pandascore-match-1759507@esport-ics
+DTSTART:20261030T090000Z
+DTEND:20261030T111500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:NEM.A vs XE
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Octagonal Disposition Gaming
+SLUG:octagonal-disposition-gaming
+BEGIN:VEVENT
+DTSTAMP:20261021T080000Z
+UID:pandascore-match-1759532@esport-ics
+DTSTART:20261021T080000Z
+DTEND:20261021T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Threshold China 2026 - Week 1\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Round 1 Match 1: UR vs ODG
+URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+END:VCALENDAR

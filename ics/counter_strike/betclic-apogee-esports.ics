@@ -745,7 +745,16 @@ CLASS:PUBLIC
 DESCRIPTION:PGL - Bucharest Closed Qualifier 2027 - Playoffs\nWatch: https:
  //www.twitch.tv/vanfantv
 SUMMARY:Upper bracket final: BCA vs BBL
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T140000Z
+UID:pandascore-match-1751443@esport-ics
+DTSTART:20261020T140000Z
+DTEND:20261020T161500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Bucharest Closed Qualifier 2027 - Playoffs
+SUMMARY:Lower bracket final: BCA vs NEM
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T173000Z

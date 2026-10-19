@@ -11,7 +11,9 @@ UID:pandascore-match-1757674@esport-ics
 DTSTART:20261019T193000Z
 DTEND:20261019T201500Z
 CLASS:PUBLIC
-DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season\nWatch: 
+ https://www.twitch.tv/vectizz
 SUMMARY:OBOYS vs Xcity
+URL;VALUE=URI:https://www.twitch.tv/vectizz
 END:VEVENT
 END:VCALENDAR
