@@ -742,7 +742,20 @@ UID:pandascore-match-1751441@esport-ics
 DTSTART:20261019T140000Z
 DTEND:20261019T161500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest Closed Qualifier 2026 - Playoffs
+DESCRIPTION:PGL - Bucharest Closed Qualifier 2027 - Playoffs\nWatch: https:
+ //www.twitch.tv/vanfantv
 SUMMARY:Upper bracket final: BCA vs BBL
+URL;VALUE=URI:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T173000Z
+UID:pandascore-match-1755690@esport-ics
+DTSTART:20261021T173000Z
+DTEND:20261021T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round 2 match 4: BCA vs TBD
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

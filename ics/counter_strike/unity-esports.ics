@@ -1393,14 +1393,16 @@ UID:pandascore-match-1755684@esport-ics
 DTSTART:20261019T173000Z
 DTEND:20261019T194500Z
 CLASS:PUBLIC
-DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs
+DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
 SUMMARY:Round 1 match 4: 9INE vs UNiTY
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261020T080000Z
+DTSTAMP:20261020T103000Z
 UID:pandascore-match-1749777@esport-ics
-DTSTART:20261020T080000Z
-DTEND:20261020T101500Z
+DTSTART:20261020T103000Z
+DTEND:20261020T124500Z
 CLASS:PUBLIC
 DESCRIPTION:United21 - Season 57 2026 - Group B\nWatch: https://www.kick.co
  m/united21_en

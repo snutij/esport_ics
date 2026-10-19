@@ -869,6 +869,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/ESLCSb
 SUMMARY:Round 3: SHIN vs G2
-URL;VALUE=URI:https://www.twitch.tv/ESLCSb
+URL:https://www.twitch.tv/ESLCSb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T140000Z
+UID:pandascore-match-1758449@esport-ics
+DTSTART:20261022T140000Z
+DTEND:20261022T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Curitiba season 4 2026 - Group B\nWatch: https://ww
+ w.twitch.tv/circuitxofficial
+SUMMARY:BST vs SHIN
+URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR

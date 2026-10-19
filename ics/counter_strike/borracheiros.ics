@@ -454,6 +454,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
  layoffs\nWatch: https://kick.com/pentagon_u
 SUMMARY:Lower Bracket Quarterfinal 2: BHE vs BORRA
-URL;VALUE=URI:https://kick.com/pentagon_u
+URL:https://kick.com/pentagon_u
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T200000Z
+UID:pandascore-match-1758402@esport-ics
+DTSTART:20261019T200000Z
+DTEND:20261019T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group C\nWatch: http
+ s://www.twitch.tv/gamersclubcs
+SUMMARY:BORRA vs gotei 5
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR

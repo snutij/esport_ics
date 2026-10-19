@@ -128,6 +128,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group D\nWatch: ht
  tps://www.twitch.tv/gamersclubcs
 SUMMARY:Decider Match: HR vs GRE
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T200000Z
+UID:pandascore-match-1758409@esport-ics
+DTSTART:20261019T200000Z
+DTEND:20261019T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group D\nWatch: http
+ s://www.twitch.tv/gamersclubcs
+SUMMARY:GRE vs HR
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR

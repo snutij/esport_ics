@@ -445,6 +445,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
  layoffs\nWatch: https://kick.com/cosiq
 SUMMARY:Lower Bracket Round 3 Match 1: GLS vs MEIA NOITE
-URL;VALUE=URI:https://kick.com/cosiq
+URL:https://kick.com/cosiq
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T190000Z
+UID:pandascore-match-1758401@esport-ics
+DTSTART:20261019T190000Z
+DTEND:20261019T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group B\nWatch: http
+ s://www.twitch.tv/gamersclubcs
+SUMMARY:MEIA NOITE vs BST.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR

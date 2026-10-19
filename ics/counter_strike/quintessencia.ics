@@ -602,6 +602,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 7 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 3: QUIN vs RED.A
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T190000Z
+UID:pandascore-match-1758400@esport-ics
+DTSTART:20261019T190000Z
+DTEND:20261019T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group B\nWatch: http
+ s://www.twitch.tv/gamersclubcs
+SUMMARY:QUIN vs paiN.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T190000Z
+UID:pandascore-match-1758331@esport-ics
+DTSTART:20261020T190000Z
+DTEND:20261020T211500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 7 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 4: QUIN vs LN
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

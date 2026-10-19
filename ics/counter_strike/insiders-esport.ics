@@ -89,6 +89,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Group A\nWatch: https://kick.com/dra
  culancs
 SUMMARY:INF vs Insiders Esport
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T134500Z
+UID:pandascore-match-1742197@esport-ics
+DTSTART:20261019T134500Z
+DTEND:20261019T160000Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Group A\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:Elimination Match: AIMC vs Insiders Esport
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 END:VCALENDAR

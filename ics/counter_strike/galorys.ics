@@ -1068,6 +1068,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
  layoffs\nWatch: https://kick.com/eslcs
 SUMMARY:Grand Final: LDP vs GLS
-URL;VALUE=URI:https://kick.com/eslcs
+URL:https://kick.com/eslcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T140000Z
+UID:pandascore-match-1758444@esport-ics
+DTSTART:20261021T140000Z
+DTEND:20261021T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Curitiba season 4 2026 - Group A\nWatch: https://ww
+ w.twitch.tv/circuitxofficial
+SUMMARY:FXW7 vs GLS
+URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR

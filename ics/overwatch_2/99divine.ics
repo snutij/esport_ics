@@ -245,6 +245,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Japan Stage 3 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ow_esports_jp
 SUMMARY:Semifinal 1: 99D vs MG
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T090000Z
+UID:pandascore-match-1713058@esport-ics
+DTSTART:20261020T090000Z
+DTEND:20261020T120000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Japan Stage 3 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/ow_esports_jp
+SUMMARY:3rd Place Match: 99D vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

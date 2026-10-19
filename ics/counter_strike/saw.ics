@@ -712,6 +712,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Group D\nWatch: https://kick.com/dra
  culancs
 SUMMARY:SAW vs BKH
-URL;VALUE=URI:https://kick.com/draculancs
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T124500Z
+UID:pandascore-match-1742226@esport-ics
+DTSTART:20261019T124500Z
+DTEND:20261019T133000Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Group D\nWatch: https://kick.com/dra
+ culancsd
+SUMMARY:Winners' Match: SAW vs ASTR
+URL;VALUE=URI:https://kick.com/draculancsd
 END:VEVENT
 END:VCALENDAR

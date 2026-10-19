@@ -808,6 +808,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Group A\nWatch: https://kick.com/dra
  culancs
 SUMMARY:AIMC vs BMB
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T134500Z
+UID:pandascore-match-1742197@esport-ics
+DTSTART:20261019T134500Z
+DTEND:20261019T160000Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Group A\nWatch: https://kick.com/dra
+ culancs
+SUMMARY:Elimination Match: AIMC vs Insiders Esport
 URL;VALUE=URI:https://kick.com/draculancs
 END:VEVENT
 BEGIN:VEVENT
@@ -816,7 +827,9 @@ UID:pandascore-match-1755685@esport-ics
 DTSTART:20261020T173000Z
 DTEND:20261020T194500Z
 CLASS:PUBLIC
-DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs
+DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
 SUMMARY:Round 1 match 8: Nice Try vs AIMC
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR
