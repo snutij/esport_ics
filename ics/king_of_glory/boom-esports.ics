@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Honor of Kings - World Cup 2026 - Group D\nWatch: https://www.t
  witch.tv/hok_esports
 SUMMARY:Decider match: NEM vs BOOM
-URL;VALUE=URI:https://www.twitch.tv/hok_esports
+URL:https://www.twitch.tv/hok_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T110000Z
+UID:pandascore-match-1720701@esport-ics
+DTSTART:20261023T110000Z
+DTEND:20261023T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Playoffs\nWatch: https://www.you
+ tube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:Upper Bracket Semifinal 1: SP vs BOOM
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
 END:VEVENT
 END:VCALENDAR

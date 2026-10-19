@@ -432,6 +432,15 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Malaysia - Season 18 2026 - Regular Season\nWatch: https://
  www.youtube.com/@mlbbesportsofficial/streams
 SUMMARY:AC vs VMS
-URL;VALUE=URI:https://www.youtube.com/@mlbbesportsofficial/streams
+URL:https://www.youtube.com/@mlbbesportsofficial/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T070000Z
+UID:pandascore-match-1758273@esport-ics
+DTSTART:20261028T070000Z
+DTEND:20261028T104500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 18 2026 - Playoffs
+SUMMARY:Upper Bracket Quarterfinals match 1: VMS vs FL
 END:VEVENT
 END:VCALENDAR

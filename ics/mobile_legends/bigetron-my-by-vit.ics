@@ -344,6 +344,15 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Malaysia - Season 18 2026 - Regular Season\nWatch: https://
  www.youtube.com/watch?v=xz9CL6vGkUo
 SUMMARY:RRQT vs BTRM
-URL;VALUE=URI:https://www.youtube.com/watch?v=xz9CL6vGkUo
+URL:https://www.youtube.com/watch?v=xz9CL6vGkUo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T110000Z
+UID:pandascore-match-1758274@esport-ics
+DTSTART:20261028T110000Z
+DTEND:20261028T144500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Malaysia - Season 18 2026 - Playoffs
+SUMMARY:Upper Bracket Quarterfinals match 2: IG vs BTRM
 END:VEVENT
 END:VCALENDAR
