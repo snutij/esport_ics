@@ -725,6 +725,17 @@ SUMMARY:mellren vs banda chuya
 URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261020T140000Z
+UID:pandascore-match-1727884@esport-ics
+DTSTART:20261020T140000Z
+DTEND:20261020T161500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 4: BAKS vs mellren
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261021T130000Z
 UID:pandascore-match-1759664@esport-ics
 DTSTART:20261021T130000Z

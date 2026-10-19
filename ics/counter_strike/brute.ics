@@ -984,6 +984,17 @@ SUMMARY:Round 1 match 3: BRUTE vs PHA
 URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261021T080000Z
+UID:pandascore-match-1727885@esport-ics
+DTSTART:20261021T080000Z
+DTEND:20261021T101500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 4: BRUTE vs ex-6666
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261021T090000Z
 UID:pandascore-match-1755687@esport-ics
 DTSTART:20261021T090000Z

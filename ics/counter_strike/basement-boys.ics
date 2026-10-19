@@ -971,6 +971,15 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Group A\nWatch: https://kick.com/dra
  culancsb
 SUMMARY:Winners' Match: BMB vs INF
-URL;VALUE=URI:https://kick.com/draculancsb
+URL:https://kick.com/draculancsb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T110000Z
+UID:pandascore-match-1748752@esport-ics
+DTSTART:20261020T110000Z
+DTEND:20261020T131500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 3: FaZe vs BMB
 END:VEVENT
 END:VCALENDAR

@@ -1396,7 +1396,7 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round 1 match 4: 9INE vs UNiTY
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261020T103000Z
@@ -1408,5 +1408,16 @@ DESCRIPTION:United21 - Season 57 2026 - Group B\nWatch: https://www.kick.co
  m/united21_en
 SUMMARY:Winners match: GAT vs UNiTY
 URL;VALUE=URI:https://www.kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T150000Z
+UID:pandascore-match-1755689@esport-ics
+DTSTART:20261021T150000Z
+DTEND:20261021T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round 2 match 3: UNiTY vs TBD
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

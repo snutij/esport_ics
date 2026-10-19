@@ -442,6 +442,15 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Group B\nWatch: https://kick.com/dra
  culancs
 SUMMARY:Winners' Match: BCG vs WBT
-URL;VALUE=URI:https://kick.com/draculancs
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T110000Z
+UID:pandascore-match-1748756@esport-ics
+DTSTART:20261020T110000Z
+DTEND:20261020T131500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 7: BBL vs BCG
 END:VEVENT
 END:VCALENDAR

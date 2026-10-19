@@ -160,17 +160,6 @@ SUMMARY:R4G vs LEI
 URL:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261021T160000Z
-UID:pandascore-match-1661643@esport-ics
-DTSTART:20261021T160000Z
-DTEND:20261021T181500Z
-CLASS:PUBLIC
-DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
- //www.twitch.tv/dachcs
-SUMMARY:LEI vs HUSK
-URL;VALUE=URI:https://www.twitch.tv/dachcs
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261028T180000Z
 UID:pandascore-match-1661648@esport-ics
 DTSTART:20261028T180000Z
@@ -190,6 +179,17 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
  //www.twitch.tv/dachcs
 SUMMARY:LEI vs REV
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T170000Z
+UID:pandascore-match-1661643@esport-ics
+DTSTART:20261109T170000Z
+DTEND:20261109T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:LEI vs HUSK
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT

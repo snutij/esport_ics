@@ -89,6 +89,15 @@ CLASS:PUBLIC
 DESCRIPTION:LGC Rising - 2026 - Playoffs\nWatch: https://www.youtube.com/LE
  C
 SUMMARY:Semifinal 2: MR vs SK.A
-URL;VALUE=URI:https://www.youtube.com/LEC
+URL:https://www.youtube.com/LEC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T160000Z
+UID:pandascore-match-1743342@esport-ics
+DTSTART:20261027T160000Z
+DTEND:20261027T194500Z
+CLASS:PUBLIC
+DESCRIPTION:LGC Rising - 2026 - Playoffs
+SUMMARY:Grand final: MR vs TBD
 END:VEVENT
 END:VCALENDAR

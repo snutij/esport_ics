@@ -1212,6 +1212,15 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Group D\nWatch: https://kick.com/dra
  culancsd
 SUMMARY:Winners' Match: SAW vs ASTR
-URL;VALUE=URI:https://kick.com/draculancsd
+URL:https://kick.com/draculancsd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T140000Z
+UID:pandascore-match-1748757@esport-ics
+DTSTART:20261020T140000Z
+DTEND:20261020T161500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Playoffs
+SUMMARY:Upper bracket round 1 match 8: LG vs ASTR
 END:VEVENT
 END:VCALENDAR
