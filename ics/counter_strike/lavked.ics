@@ -1479,4 +1479,15 @@ DESCRIPTION:CCT Europe - Series #11 2026 - Group Stage\nWatch: https://kick
 SUMMARY:Round 4: LVKD vs ex-6666
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T140000Z
+UID:pandascore-match-1746758@esport-ics
+DTSTART:20261021T140000Z
+DTEND:20261021T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #12 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 1: LVKD vs TS.A
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR
