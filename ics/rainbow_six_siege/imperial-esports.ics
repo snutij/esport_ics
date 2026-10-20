@@ -298,6 +298,17 @@ CLASS:PUBLIC
 DESCRIPTION:South America League - Stage 2 2026 - Group Stage\nWatch: https
  ://www.twitch.tv/rainbow6
 SUMMARY:INTZ vs IMP
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T000000Z
+UID:pandascore-match-1760529@esport-ics
+DTSTART:20261024T000000Z
+DTEND:20261024T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Challenger League - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/rainbow6br
+SUMMARY:Quarterfinal 2: IMP vs FX7M
+URL;VALUE=URI:https://www.twitch.tv/rainbow6br
 END:VEVENT
 END:VCALENDAR

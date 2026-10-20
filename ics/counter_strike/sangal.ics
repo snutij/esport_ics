@@ -746,6 +746,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round 1 match 6: SNG vs AUR.YB
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T090000Z
+UID:pandascore-match-1755687@esport-ics
+DTSTART:20261021T090000Z
+DTEND:20261021T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round 2 match 1: BRUTE vs SNG
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

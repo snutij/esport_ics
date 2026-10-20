@@ -453,6 +453,15 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Playoffs\nWatch: https://kick.com/co
  re_mn
 SUMMARY:Upper bracket round 1 match 7: BBL vs BCG
-URL;VALUE=URI:https://kick.com/core_mn
+URL:https://kick.com/core_mn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T110000Z
+UID:pandascore-match-1748770@esport-ics
+DTSTART:20261021T110000Z
+DTEND:20261021T131500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 4: BCG vs TBD
 END:VEVENT
 END:VCALENDAR

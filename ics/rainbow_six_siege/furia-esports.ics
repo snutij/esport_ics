@@ -474,4 +474,15 @@ CLASS:PUBLIC
 DESCRIPTION:South America League - Stage 2 2026 - Playoffs
 SUMMARY:5th Place Decider: BD vs FURIA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T210000Z
+UID:pandascore-match-1760528@esport-ics
+DTSTART:20261023T210000Z
+DTEND:20261023T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Challenger League - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/rainbow6br
+SUMMARY:Quarterfinal 1: LOUD vs FURIA
+URL;VALUE=URI:https://www.twitch.tv/rainbow6br
+END:VEVENT
 END:VCALENDAR

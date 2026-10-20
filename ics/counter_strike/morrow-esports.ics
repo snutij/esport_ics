@@ -429,4 +429,13 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #9 season 52 2026 - Group A
 SUMMARY:Morrow Esports vs SSins
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T134500Z
+UID:pandascore-match-1753596@esport-ics
+DTSTART:20261021T134500Z
+DTEND:20261021T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
+SUMMARY:Lower Bracket Round 2 Match 3: Morrow Esports vs TBD
+END:VEVENT
 END:VCALENDAR

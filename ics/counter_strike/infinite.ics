@@ -1055,6 +1055,15 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancsd
 SUMMARY:Upper bracket round 1 match 5: EF vs INF
-URL;VALUE=URI:https://kick.com/draculancsd
+URL:https://kick.com/draculancsd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T170000Z
+UID:pandascore-match-1748761@esport-ics
+DTSTART:20261020T170000Z
+DTEND:20261020T191500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Playoffs
+SUMMARY:Lower bracket round 1 match 3: ENVY vs INF
 END:VEVENT
 END:VCALENDAR

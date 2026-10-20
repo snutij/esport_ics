@@ -95,7 +95,9 @@ UID:pandascore-match-1743340@esport-ics
 DTSTART:20261020T160000Z
 DTEND:20261020T194500Z
 CLASS:PUBLIC
-DESCRIPTION:LGC Rising - 2026 - Playoffs
+DESCRIPTION:LGC Rising - 2026 - Playoffs\nWatch: https://www.twitch.tv/euni
+ verse_tv
 SUMMARY:Semifinal 1: RB vs G2H
+URL;VALUE=URI:https://www.twitch.tv/euniverse_tv
 END:VEVENT
 END:VCALENDAR
