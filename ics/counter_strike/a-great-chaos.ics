@@ -398,4 +398,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:AGC vs IC.P
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T170000Z
+UID:pandascore-match-1760469@esport-ics
+DTSTART:20261021T170000Z
+DTEND:20261021T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group D\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:DNK vs AGC
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
 END:VCALENDAR

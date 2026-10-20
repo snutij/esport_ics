@@ -270,6 +270,17 @@ DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:Y.TigeRES vs DM
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261020T170000Z
+UID:pandascore-match-1760449@esport-ics
+DTSTART:20261020T170000Z
+DTEND:20261020T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group A\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Winners' Match: Ducks vs DM
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261021T130000Z
 UID:pandascore-match-1759655@esport-ics
 DTSTART:20261021T130000Z

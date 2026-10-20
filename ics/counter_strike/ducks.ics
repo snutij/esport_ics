@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ducks
+SLUG:ducks
+BEGIN:VEVENT
+DTSTAMP:20261020T170000Z
+UID:pandascore-match-1760449@esport-ics
+DTSTART:20261020T170000Z
+DTEND:20261020T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group A\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Winners' Match: Ducks vs DM
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+END:VCALENDAR

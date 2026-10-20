@@ -753,8 +753,10 @@ UID:pandascore-match-1751443@esport-ics
 DTSTART:20261020T140000Z
 DTEND:20261020T161500Z
 CLASS:PUBLIC
-DESCRIPTION:PGL - Bucharest Closed Qualifier 2027 - Playoffs
+DESCRIPTION:PGL - Bucharest Closed Qualifier 2027 - Playoffs\nWatch: https:
+ //www.twitch.tv/officialhyper
 SUMMARY:Lower bracket final: BCA vs NEM
+URL;VALUE=URI:https://www.twitch.tv/officialhyper
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T173000Z

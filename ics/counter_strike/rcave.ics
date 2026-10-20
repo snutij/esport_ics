@@ -56,4 +56,26 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:OT vs Rcave
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T110000Z
+UID:pandascore-match-1760450@esport-ics
+DTSTART:20261020T110000Z
+DTEND:20261020T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group A\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Elimination Match: maybe vs Rcave
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T140000Z
+UID:pandascore-match-1760451@esport-ics
+DTSTART:20261023T140000Z
+DTEND:20261023T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group A\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Decider Match: Rcave vs TBD
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
 END:VCALENDAR

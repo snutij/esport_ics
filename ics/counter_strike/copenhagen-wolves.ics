@@ -80,7 +80,18 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Regular season 7 2026 - Playoffs\nWatch: 
  https://kick.com/eplcs_en
 SUMMARY:Grand Final: CW vs EACE
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T110000Z
+UID:pandascore-match-1760461@esport-ics
+DTSTART:20261020T110000Z
+DTEND:20261020T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group B\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Elimination Match: RGG vs CW
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261023T080000Z

@@ -1081,6 +1081,17 @@ DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:XI vs Al Ahli
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261021T140000Z
+UID:pandascore-match-1760464@esport-ics
+DTSTART:20261021T140000Z
+DTEND:20261021T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group C\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:XI vs TTG Esports
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261026T180000Z
 UID:pandascore-match-1688000@esport-ics
 DTSTART:20261026T180000Z

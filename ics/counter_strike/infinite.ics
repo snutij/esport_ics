@@ -1052,7 +1052,9 @@ UID:pandascore-match-1748754@esport-ics
 DTSTART:20261020T110000Z
 DTEND:20261020T131500Z
 CLASS:PUBLIC
-DESCRIPTION:DraculaN - Season 7 2026 - Playoffs
+DESCRIPTION:DraculaN - Season 7 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancsd
 SUMMARY:Upper bracket round 1 match 5: EF vs INF
+URL;VALUE=URI:https://kick.com/draculancsd
 END:VEVENT
 END:VCALENDAR

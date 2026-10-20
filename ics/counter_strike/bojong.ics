@@ -629,7 +629,7 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
  com/elisaesports
 SUMMARY:EAC vs BJNG
-URL;VALUE=URI:https://kick.com/elisaesports
+URL:https://kick.com/elisaesports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261015T160000Z
@@ -640,6 +640,15 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
  com/elisaesports
 SUMMARY:WBT vs BJNG
-URL;VALUE=URI:https://kick.com/elisaesports
+URL:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T183000Z
+UID:pandascore-match-1760376@esport-ics
+DTSTART:20261020T183000Z
+DTEND:20261020T191500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:BJNG vs TG
 END:VEVENT
 END:VCALENDAR
