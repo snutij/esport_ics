@@ -60,4 +60,15 @@ DESCRIPTION:CIS LAN Championship - Season 9 2026 - Group B\nWatch: https://
 SUMMARY:ACES vs EVOE
 URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T170000Z
+UID:pandascore-match-1733082@esport-ics
+DTSTART:20261021T170000Z
+DTEND:20261021T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #11 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs
+SUMMARY:Round 5: TLR vs ACES
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR

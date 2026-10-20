@@ -952,6 +952,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 3: WAL vs JustP
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T170000Z
+UID:pandascore-match-1746759@esport-ics
+DTSTART:20261021T170000Z
+DTEND:20261021T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #12 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 1: WAL vs SSins
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

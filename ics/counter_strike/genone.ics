@@ -1454,17 +1454,6 @@ SUMMARY:Round 4: G1 vs BW
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261021T120000Z
-UID:pandascore-match-1755688@esport-ics
-DTSTART:20261021T120000Z
-DTEND:20261021T141500Z
-CLASS:PUBLIC
-DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
- ch: https://kick.com/starladder
-SUMMARY:Round 2 match 2: G1 vs MZP
-URL;VALUE=URI:https://kick.com/starladder
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261021T130000Z
 UID:pandascore-match-1759655@esport-ics
 DTSTART:20261021T130000Z
@@ -1472,5 +1461,16 @@ DTEND:20261021T151500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #9 season 52 2026 - Group A
 SUMMARY:G1 vs DM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T173000Z
+UID:pandascore-match-1755688@esport-ics
+DTSTART:20261021T173000Z
+DTEND:20261021T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round 2 match 2: G1 vs MZP
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

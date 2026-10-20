@@ -683,6 +683,15 @@ DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
 SUMMARY:Lower Bracket Round 1 Match 4: antidaun vs Noir Verse
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261021T110000Z
+UID:pandascore-match-1753597@esport-ics
+DTSTART:20261021T110000Z
+DTEND:20261021T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
+SUMMARY:Lower Bracket Round 2 Match 4: Noir Verse vs TitanFlow
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261021T130000Z
 UID:pandascore-match-1759670@esport-ics
 DTSTART:20261021T130000Z
@@ -690,14 +699,5 @@ DTEND:20261021T151500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #9 season 52 2026 - Group C
 SUMMARY:Noir Verse vs maybe
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261021T134500Z
-UID:pandascore-match-1753597@esport-ics
-DTSTART:20261021T134500Z
-DTEND:20261021T160000Z
-CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
-SUMMARY:Lower Bracket Round 2 Match 4: Noir Verse vs TitanFlow
 END:VEVENT
 END:VCALENDAR

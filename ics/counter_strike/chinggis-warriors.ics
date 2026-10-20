@@ -601,7 +601,9 @@ UID:pandascore-match-1752537@esport-ics
 DTSTART:20261021T090000Z
 DTEND:20261021T111500Z
 CLASS:PUBLIC
-DESCRIPTION:VOID Autumn Cup - 2026 - Playoffs
+DESCRIPTION:VOID Autumn Cup - 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /Trottah
 SUMMARY:Upper Bracket Semifinal 2: CW vs NEXVOID
+URL;VALUE=URI:https://www.twitch.tv/Trottah
 END:VEVENT
 END:VCALENDAR

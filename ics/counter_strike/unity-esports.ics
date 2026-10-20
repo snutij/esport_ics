@@ -1410,15 +1410,15 @@ SUMMARY:Winners match: GAT vs UNiTY
 URL:https://www.kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261021T150000Z
+DTSTAMP:20261021T090000Z
 UID:pandascore-match-1755689@esport-ics
-DTSTART:20261021T150000Z
-DTEND:20261021T171500Z
+DTSTART:20261021T090000Z
+DTEND:20261021T111500Z
 CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
- ch: https://kick.com/starladder
+ ch: https://kick.com/watchfultv
 SUMMARY:Round 2 match 3: UNiTY vs FOKUS
-URL;VALUE=URI:https://kick.com/starladder
+URL;VALUE=URI:https://kick.com/watchfultv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261023T103000Z
