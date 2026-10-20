@@ -658,6 +658,17 @@ CLASS:PUBLIC
 DESCRIPTION:1win Private Club - Season 2 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/stariy_bog
 SUMMARY:Upper Bracket Semifinal 2: FNC vs PRV
-URL;VALUE=URI:https://www.twitch.tv/stariy_bog
+URL:https://www.twitch.tv/stariy_bog
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T070000Z
+UID:pandascore-match-1761578@esport-ics
+DTSTART:20261102T070000Z
+DTEND:20261102T091500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing 2026 - Group B\nWatch: https://www.twitch.tv/ESLC
+ S
+SUMMARY:Upper Bracket Quarterfinal 4: PRV vs G2
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

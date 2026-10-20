@@ -916,6 +916,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round 1 match 7: FOKUS vs ex-ZT
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T150000Z
+UID:pandascore-match-1755689@esport-ics
+DTSTART:20261021T150000Z
+DTEND:20261021T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Round 2 match 3: UNiTY vs FOKUS
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

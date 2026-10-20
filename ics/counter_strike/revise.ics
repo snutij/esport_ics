@@ -260,4 +260,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:REV vs PG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T170000Z
+UID:pandascore-match-1760462@esport-ics
+DTSTART:20261023T170000Z
+DTEND:20261023T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group B\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Decider Match: RGG vs REV
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
 END:VCALENDAR

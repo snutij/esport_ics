@@ -669,4 +669,15 @@ DESCRIPTION:PGL Masters - Bucharest 2026 - Group Stage\nWatch: https://www.
 SUMMARY:Round 1: MOUZ vs TL
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T070000Z
+UID:pandascore-match-1761575@esport-ics
+DTSTART:20261102T070000Z
+DTEND:20261102T091500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing 2026 - Group B\nWatch: https://www.twitch.tv/ESLC
+ S
+SUMMARY:Upper Bracket Quarterfinal 1: MOUZ vs TYLOO
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
+END:VEVENT
 END:VCALENDAR

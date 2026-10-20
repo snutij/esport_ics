@@ -934,6 +934,15 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancs
 SUMMARY:Upper bracket round 1 match 2: SIN vs SAW
-URL;VALUE=URI:https://kick.com/draculancs
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T110000Z
+UID:pandascore-match-1748763@esport-ics
+DTSTART:20261021T110000Z
+DTEND:20261021T131500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: SIN vs HERO
 END:VEVENT
 END:VCALENDAR
