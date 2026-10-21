@@ -50,17 +50,6 @@ SUMMARY:RG vs YG
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261021T060000Z
-UID:pandascore-match-1759484@esport-ics
-DTSTART:20261021T060000Z
-DTEND:20261021T081500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:NOVUS vs RG
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261022T030000Z
 UID:pandascore-match-1759486@esport-ics
 DTSTART:20261022T030000Z
@@ -113,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:DB vs RG
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T060000Z
+UID:pandascore-match-1759484@esport-ics
+DTSTART:20261031T060000Z
+DTEND:20261031T081500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:NOVUS vs RG
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR
