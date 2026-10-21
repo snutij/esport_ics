@@ -139,4 +139,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group D
 SUMMARY:GRE vs HR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T190000Z
+UID:pandascore-match-1763651@esport-ics
+DTSTART:20261026T190000Z
+DTEND:20261026T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group D\nWatch: http
+ s://www.twitch.tv/gamersclubcs
+SUMMARY:Winners' Match: Rush vs HR
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
 END:VCALENDAR

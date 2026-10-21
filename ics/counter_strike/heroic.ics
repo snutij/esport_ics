@@ -815,6 +815,17 @@ SUMMARY:Upper bracket quarterfinal 1: SIN vs HERO
 URL:https://kick.com/draculancsc
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261021T190000Z
+UID:pandascore-match-1748828@esport-ics
+DTSTART:20261021T190000Z
+DTEND:20261021T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Playoffs\nWatch: https://kick.com/dr
+ aculancsb
+SUMMARY:Lower bracket round 3 match 2: HERO vs TBD
+URL;VALUE=URI:https://kick.com/draculancsb
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261102T070000Z
 UID:pandascore-match-1761571@esport-ics
 DTSTART:20261102T070000Z

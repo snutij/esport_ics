@@ -691,6 +691,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba season 4 2026 - Group A\nWatch: https://ki
  ck.com/cosiq
 SUMMARY:FXW7 vs GLS
-URL;VALUE=URI:https://kick.com/cosiq
+URL:https://kick.com/cosiq
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T183000Z
+UID:pandascore-match-1758445@esport-ics
+DTSTART:20261021T183000Z
+DTEND:20261021T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Curitiba season 4 2026 - Group A\nWatch: https://ki
+ ck.com/circuitx
+SUMMARY:Winners Match: paiN vs FXW7
+URL;VALUE=URI:https://kick.com/circuitx
 END:VEVENT
 END:VCALENDAR

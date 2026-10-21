@@ -669,7 +669,16 @@ CLASS:PUBLIC
 DESCRIPTION:1win Private Club - Season 2 2026 - Playoffs\nWatch: https://ww
  w.twitch.tv/stariy_bog
 SUMMARY:Upper Bracket Final: BIG vs PRV
-URL;VALUE=URI:https://www.twitch.tv/stariy_bog
+URL:https://www.twitch.tv/stariy_bog
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T150000Z
+UID:pandascore-match-1745420@esport-ics
+DTSTART:20261022T150000Z
+DTEND:20261022T184500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Private Club - Season 2 2026 - Playoffs
+SUMMARY:Grand Final: PRV vs TBD
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261102T070000Z
