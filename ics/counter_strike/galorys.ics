@@ -1090,6 +1090,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba season 4 2026 - Group A\nWatch: https://ki
  ck.com/lorranbs
 SUMMARY:Elimination Match: BAR vs GLS
-URL;VALUE=URI:https://kick.com/lorranbs
+URL:https://kick.com/lorranbs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T223000Z
+UID:pandascore-match-1758447@esport-ics
+DTSTART:20261021T223000Z
+DTEND:20261022T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Curitiba season 4 2026 - Group A\nWatch: https://ki
+ ck.com/circuitx
+SUMMARY:Decider Match: GLS vs FXW7
+URL;VALUE=URI:https://kick.com/circuitx
 END:VEVENT
 END:VCALENDAR

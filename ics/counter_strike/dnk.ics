@@ -205,6 +205,17 @@ SUMMARY:DNK vs AGC
 URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261022T110000Z
+UID:pandascore-match-1760471@esport-ics
+DTSTART:20261022T110000Z
+DTEND:20261022T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group D\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Winners' Match: NCT vs DNK
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261026T180000Z
 UID:pandascore-match-1751672@esport-ics
 DTSTART:20261026T180000Z

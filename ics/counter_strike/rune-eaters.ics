@@ -1017,6 +1017,17 @@ CLASS:PUBLIC
 DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group D\nWatch: h
  ttps://www.twitch.tv/epl_pro
 SUMMARY:Elimination Match: RE vs HS
-URL;VALUE=URI:https://www.twitch.tv/epl_pro
+URL:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T170000Z
+UID:pandascore-match-1733088@esport-ics
+DTSTART:20261022T170000Z
+DTEND:20261022T191500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #11 2026 - Playoffs\nWatch: https://kick.co
+ m/cct_cs
+SUMMARY:Round 16 match 4: RE vs FORZE.R
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR
