@@ -91,7 +91,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group C\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:ESB vs KAMUI
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T130000Z
@@ -101,5 +101,16 @@ DTEND:20261021T151500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #9 season 52 2026 - Group D
 SUMMARY:VEX vs KAMUI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T140000Z
+UID:pandascore-match-1760466@esport-ics
+DTSTART:20261022T140000Z
+DTEND:20261022T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group C\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Elimination Match: KAMUI vs TBD
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

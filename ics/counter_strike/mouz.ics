@@ -680,4 +680,15 @@ DESCRIPTION:IEM - Beijing 2026 - Group B\nWatch: https://www.twitch.tv/ESLC
 SUMMARY:Upper Bracket Quarterfinal 1: MOUZ vs TYLOO
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T093000Z
+UID:pandascore-match-1762460@esport-ics
+DTSTART:20261111T093000Z
+DTEND:20261111T114500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Fall 2026 - Group B\nWatch: https://www.twitch.t
+ v/BLASTPremier
+SUMMARY:MOUZ vs G2
+URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
+END:VEVENT
 END:VCALENDAR

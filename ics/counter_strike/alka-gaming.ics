@@ -928,6 +928,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/diogodfps
 SUMMARY:Lower Bracket Round 2 Match 2: ALKA vs MEIA NOITE
-URL;VALUE=URI:https://www.twitch.tv/diogodfps
+URL:https://www.twitch.tv/diogodfps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T210000Z
+UID:pandascore-match-1762439@esport-ics
+DTSTART:20261021T210000Z
+DTEND:20261021T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group A\nWatch: http
+ s://www.twitch.tv/gamersclubcs
+SUMMARY:ALKA vs JDT
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR

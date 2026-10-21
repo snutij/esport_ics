@@ -1418,7 +1418,18 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/watchfultv
 SUMMARY:Round 2 match 3: UNiTY vs FOKUS
-URL;VALUE=URI:https://kick.com/watchfultv
+URL:https://kick.com/watchfultv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T163000Z
+UID:pandascore-match-1755692@esport-ics
+DTSTART:20261022T163000Z
+DTEND:20261022T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
+ ch: https://kick.com/starladder
+SUMMARY:Semifinal match 2: UNiTY vs TBD
+URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261023T103000Z

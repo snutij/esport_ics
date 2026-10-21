@@ -473,17 +473,6 @@ SUMMARY:Grand Final: CW vs EACE
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T170000Z
-UID:pandascore-match-1687998@esport-ics
-DTSTART:20261026T170000Z
-DTEND:20261026T174500Z
-CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
- ://www.twitch.tv/dust2tv
-SUMMARY:EACE vs st0ny
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261026T180000Z
 UID:pandascore-match-1688000@esport-ics
 DTSTART:20261026T180000Z
@@ -492,6 +481,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:EACE vs XI
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T200000Z
+UID:pandascore-match-1687998@esport-ics
+DTSTART:20261026T200000Z
+DTEND:20261026T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:EACE vs st0ny
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT

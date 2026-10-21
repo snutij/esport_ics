@@ -489,6 +489,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group C\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:ESB vs KAMUI
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T080000Z
+UID:pandascore-match-1760465@esport-ics
+DTSTART:20261022T080000Z
+DTEND:20261022T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group C\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Winners' Match: ESB vs TBD
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

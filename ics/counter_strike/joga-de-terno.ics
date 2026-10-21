@@ -60,4 +60,15 @@ DESCRIPTION:CCT South America - Series 7 2026 - Group Stage\nWatch: https:/
 SUMMARY:Round 5: JDT vs Martians
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T210000Z
+UID:pandascore-match-1762439@esport-ics
+DTSTART:20261021T210000Z
+DTEND:20261021T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group A\nWatch: http
+ s://www.twitch.tv/gamersclubcs
+SUMMARY:ALKA vs JDT
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
 END:VCALENDAR

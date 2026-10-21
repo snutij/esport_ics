@@ -352,6 +352,17 @@ CLASS:PUBLIC
 DESCRIPTION:MESA Pro Series - Fall 2026 - Playoffs\nWatch: https://www.yout
  ube.com/watch?v=-nbdyUotxb8
 SUMMARY:Grand final: 5S vs TBD
-URL;VALUE=URI:https://www.youtube.com/watch?v=-nbdyUotxb8
+URL:https://www.youtube.com/watch?v=-nbdyUotxb8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T130000Z
+UID:pandascore-match-1762499@esport-ics
+DTSTART:20261031T130000Z
+DTEND:20261031T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/gluck_esports
+SUMMARY:Semifinal 2: 1WIN vs 5S
+URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

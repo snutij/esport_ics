@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Threshold China 2026 - Week 1\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Round 1 Match 4: AQ vs WSIG
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T110000Z
+UID:pandascore-match-1759539@esport-ics
+DTSTART:20261022T110000Z
+DTEND:20261022T131500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Threshold China 2026 - Week 1\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Quarterfinal 4: NOVA vs AQ
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR
