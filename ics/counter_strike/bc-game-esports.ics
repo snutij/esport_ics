@@ -475,6 +475,15 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancs
 SUMMARY:Upper bracket semifinal 2: EF vs BCG
-URL;VALUE=URI:https://kick.com/draculancs
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T130000Z
+UID:pandascore-match-1748830@esport-ics
+DTSTART:20261022T130000Z
+DTEND:20261022T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DraculaN - Season 7 2026 - Playoffs
+SUMMARY:Lower bracket quarterfinal 2: BCG vs FaZe
 END:VEVENT
 END:VCALENDAR

@@ -1192,6 +1192,17 @@ SUMMARY:Lower bracket final: BCA vs NEM
 URL:https://www.twitch.tv/officialhyper
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261022T100000Z
+UID:pandascore-match-1759609@esport-ics
+DTSTART:20261022T100000Z
+DTEND:20261022T121500Z
+CLASS:PUBLIC
+DESCRIPTION:CIS LAN Championship - Season 9 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/MPKBK
+SUMMARY:Quarterfinal 1: NEM vs WW
+URL;VALUE=URI:https://www.twitch.tv/MPKBK
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261027T133000Z
 UID:pandascore-match-1751559@esport-ics
 DTSTART:20261027T133000Z

@@ -641,7 +641,9 @@ UID:pandascore-match-1752542@esport-ics
 DTSTART:20261022T050000Z
 DTEND:20261022T071500Z
 CLASS:PUBLIC
-DESCRIPTION:VOID Autumn Cup - 2026 - Playoffs
+DESCRIPTION:VOID Autumn Cup - 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /Trottah
 SUMMARY:Lower Bracket Quarterfinal 2: VA vs RA
+URL;VALUE=URI:https://www.twitch.tv/Trottah
 END:VEVENT
 END:VCALENDAR

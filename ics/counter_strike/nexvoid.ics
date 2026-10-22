@@ -523,8 +523,10 @@ UID:pandascore-match-1752541@esport-ics
 DTSTART:20261022T030000Z
 DTEND:20261022T051500Z
 CLASS:PUBLIC
-DESCRIPTION:VOID Autumn Cup - 2026 - Playoffs
+DESCRIPTION:VOID Autumn Cup - 2026 - Playoffs\nWatch: https://www.twitch.tv
+ /Trottah
 SUMMARY:Lower Bracket Quarterfinal 1: MSTAR vs NEXVOID
+URL;VALUE=URI:https://www.twitch.tv/Trottah
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261026T030000Z
