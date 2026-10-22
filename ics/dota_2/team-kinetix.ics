@@ -236,17 +236,6 @@ SUMMARY:YG vs Team Kinetix
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T060000Z
-UID:pandascore-match-1759487@esport-ics
-DTSTART:20261022T060000Z
-DTEND:20261022T081500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:NOVUS vs Team Kinetix
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261025T060000Z
 UID:pandascore-match-1759493@esport-ics
 DTSTART:20261025T060000Z
@@ -288,6 +277,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:Team Kinetix vs XE
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T030000Z
+UID:pandascore-match-1759487@esport-ics
+DTSTART:20261102T030000Z
+DTEND:20261102T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:NOVUS vs Team Kinetix
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

@@ -1180,4 +1180,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group B
 SUMMARY:QUIN vs paiN.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T220000Z
+UID:pandascore-match-1764435@esport-ics
+DTSTART:20261026T220000Z
+DTEND:20261027T001500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group B\nWatch: http
+ s://www.twitch.tv/gamersclubcs
+SUMMARY:Elimination Match: paiN.A vs BST.A
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
 END:VCALENDAR

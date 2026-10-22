@@ -169,17 +169,6 @@ SUMMARY:HUSK vs Entropy
 URL:https://www.twitch.tv/dachcs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T190000Z
-UID:pandascore-match-1661646@esport-ics
-DTSTART:20261026T190000Z
-DTEND:20261026T211500Z
-CLASS:PUBLIC
-DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
- //www.twitch.tv/dachcs
-SUMMARY:HUSK vs Pandaric eSports
-URL;VALUE=URI:https://www.twitch.tv/dachcs
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261104T170000Z
 UID:pandascore-match-1661658@esport-ics
 DTSTART:20261104T170000Z
@@ -199,6 +188,17 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
  //www.twitch.tv/dachcs
 SUMMARY:LEI vs HUSK
+URL;VALUE=URI:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T190000Z
+UID:pandascore-match-1661646@esport-ics
+DTSTART:20261109T190000Z
+DTEND:20261109T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
+ //www.twitch.tv/dachcs
+SUMMARY:HUSK vs Pandaric eSports
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 END:VCALENDAR
