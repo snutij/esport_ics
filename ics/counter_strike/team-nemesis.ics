@@ -1214,6 +1214,17 @@ SUMMARY:Semifinal 1: NEM vs ACES
 URL;VALUE=URI:https://www.twitch.tv/MPKBK
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261024T110000Z
+UID:pandascore-match-1727894@esport-ics
+DTSTART:20261024T110000Z
+DTEND:20261024T131500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Playoffs\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 1: NEM vs mellren
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261027T133000Z
 UID:pandascore-match-1751559@esport-ics
 DTSTART:20261027T133000Z

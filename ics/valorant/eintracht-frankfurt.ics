@@ -333,7 +333,7 @@ CLASS:PUBLIC
 DESCRIPTION:Project Blender - Phase 2 2026 - Group A\nWatch: https://www.tw
  itch.tv/valorant_emea
 SUMMARY:CGN vs SGE
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261022T140000Z
@@ -344,6 +344,17 @@ CLASS:PUBLIC
 DESCRIPTION:Project Blender - Phase 2 2026 - Group A\nWatch: https://www.tw
  itch.tv/valorant_emea
 SUMMARY:SGE vs JL
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T110000Z
+UID:pandascore-match-1765711@esport-ics
+DTSTART:20261023T110000Z
+DTEND:20261023T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Project Blender - Phase 2 2026 - Playoffs\nWatch: https://www.t
+ witch.tv/valorant_emea
+SUMMARY:Semifinal 2: EF vs SGE
 URL;VALUE=URI:https://www.twitch.tv/valorant_emea
 END:VEVENT
 END:VCALENDAR

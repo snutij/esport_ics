@@ -1766,4 +1766,15 @@ DESCRIPTION:CCT Europe - Series #11 2026 - Playoffs\nWatch: https://kick.co
 SUMMARY:Round 16 match 5: ex-ZT vs ex-RUSTEC
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T180000Z
+UID:pandascore-match-1727900@esport-ics
+DTSTART:20261025T180000Z
+DTEND:20261025T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Playoffs\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 8: Color vs ex-ZT
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

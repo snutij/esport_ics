@@ -1052,7 +1052,18 @@ DTEND:20261024T161500Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #11 2026 - Playoffs\nWatch: https://kick.co
  m/cct_cs
-SUMMARY:Quarterfinal 3: ACE vs TBD
+SUMMARY:Quarterfinal 3: ACE vs FORZE.R
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T090000Z
+UID:pandascore-match-1727897@esport-ics
+DTSTART:20261025T090000Z
+DTEND:20261025T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Playoffs\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:Round of 16 match 6: ACE vs UNiTY
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
