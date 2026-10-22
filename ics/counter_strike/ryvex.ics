@@ -165,7 +165,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs5
 SUMMARY:Upper Bracket Semifinal 2: Quintessence vs Ryvex
-URL;VALUE=URI:https://kick.com/cct_cs5
+URL:https://kick.com/cct_cs5
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261022T183000Z
@@ -184,5 +184,14 @@ DTEND:20261022T201500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:Ryvex vs Al Ahli
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T134500Z
+UID:pandascore-match-1753601@esport-ics
+DTSTART:20261023T134500Z
+DTEND:20261023T160000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
+SUMMARY:Lower Bracket Quarterfinal 2: TitanFlow vs Ryvex
 END:VEVENT
 END:VCALENDAR

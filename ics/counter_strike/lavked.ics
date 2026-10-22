@@ -1510,6 +1510,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #12 2026 - Group Stage\nWatch: https://kick
  .com/cct_cs2
 SUMMARY:Round 2: LVKD vs HAVU
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T110000Z
+UID:pandascore-match-1733094@esport-ics
+DTSTART:20261024T110000Z
+DTEND:20261024T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #11 2026 - Playoffs\nWatch: https://kick.co
+ m/cct_cs
+SUMMARY:Quarterfinal 2: TS.A vs LVKD
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

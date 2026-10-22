@@ -1100,7 +1100,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group C\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:Elimination Match: KAMUI vs XI
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261022T171500Z
@@ -1119,6 +1119,17 @@ DTEND:20261022T191500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:PHTM.Ac vs XI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T110000Z
+UID:pandascore-match-1760467@esport-ics
+DTSTART:20261023T110000Z
+DTEND:20261023T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group C\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Decider Match: ESB vs XI
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261026T180000Z

@@ -1186,7 +1186,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs\nWatch
  : https://kick.com/cct_cs4
 SUMMARY:Upper Bracket Semifinal 1: DNT vs LK
-URL;VALUE=URI:https://kick.com/cct_cs4
+URL:https://kick.com/cct_cs4
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261022T183000Z
@@ -1196,5 +1196,14 @@ DTEND:20261022T191500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:DNT vs DNK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T110000Z
+UID:pandascore-match-1753589@esport-ics
+DTSTART:20261024T110000Z
+DTEND:20261024T131500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
+SUMMARY:Upper Bracket Final: DNT vs Quintessence
 END:VEVENT
 END:VCALENDAR

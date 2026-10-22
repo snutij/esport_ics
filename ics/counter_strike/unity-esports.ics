@@ -1429,7 +1429,7 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Semifinal match 2: UNiTY vs BCA
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261023T103000Z
@@ -1439,7 +1439,7 @@ DTEND:20261023T124500Z
 CLASS:PUBLIC
 DESCRIPTION:United21 - Season 57 2026 - Group B\nWatch: https://www.kick.co
  m/united21_en
-SUMMARY:Decider match: UNiTY vs TBD
+SUMMARY:Decider match: UNiTY vs ENCE.P
 URL;VALUE=URI:https://www.kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

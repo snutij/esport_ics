@@ -399,6 +399,17 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Grand Finals 2026 - Group Stage\nWatch: https
  ://live.bilibili.com/21144080
 SUMMARY:WB vs RW
+URL:https://live.bilibili.com/21144080
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T100000Z
+UID:pandascore-match-1765303@esport-ics
+DTSTART:20261029T100000Z
+DTEND:20261029T151500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Grand Finals 2026 - Playoffs\nWatch: https://
+ live.bilibili.com/21144080
+SUMMARY:Upper bracket quarterfinal 3: KSG vs WB
 URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 END:VCALENDAR
