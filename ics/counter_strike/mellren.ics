@@ -756,17 +756,6 @@ DESCRIPTION:ESL Challenger League - Europe Cup #9 season 52 2026 - Group B
 SUMMARY:mellren vs 4M
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T110000Z
-UID:pandascore-match-1746761@esport-ics
-DTSTART:20261022T110000Z
-DTEND:20261022T131500Z
-CLASS:PUBLIC
-DESCRIPTION:CCT Europe - Series #12 2026 - Group Stage\nWatch: https://kick
- .com/cct_cs2
-SUMMARY:Round 2: WAL vs mellren
-URL;VALUE=URI:https://kick.com/cct_cs2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261022T140000Z
 UID:pandascore-match-1727891@esport-ics
 DTSTART:20261022T140000Z
@@ -776,5 +765,16 @@ DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 5: 33 vs mellren
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T080000Z
+UID:pandascore-match-1746761@esport-ics
+DTSTART:20261023T080000Z
+DTEND:20261023T101500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #12 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 2: WAL vs mellren
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

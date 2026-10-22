@@ -453,6 +453,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Season 10 2026 - Playoffs\nWatch: https://www.twitch.
  tv/wardiii
 SUMMARY:Quarterfinal 3: Classic vs ByuN
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T110000Z
+UID:pandascore-match-1764461@esport-ics
+DTSTART:20261027T110000Z
+DTEND:20261027T131500Z
+CLASS:PUBLIC
+DESCRIPTION:IntoTheTV x SOOP SC2 League - Premier 2026 - Group C\nWatch: ht
+ tps://www.sooplive.com/station/zodiactv
+SUMMARY:ByuN vs Lambo
+URL;VALUE=URI:https://www.sooplive.com/station/zodiactv
 END:VEVENT
 END:VCALENDAR

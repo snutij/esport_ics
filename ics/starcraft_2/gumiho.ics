@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Global StarCraft II League - Season 2 2026 - Group Stage 1 - Gr
  oup B\nWatch: https://play.sooplive.com/afgsl
 SUMMARY:GuMiHo vs Zoun
-URL;VALUE=URI:https://play.sooplive.com/afgsl
+URL:https://play.sooplive.com/afgsl
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T110000Z
+UID:pandascore-match-1764466@esport-ics
+DTSTART:20261029T110000Z
+DTEND:20261029T131500Z
+CLASS:PUBLIC
+DESCRIPTION:IntoTheTV x SOOP SC2 League - Premier 2026 - Group D\nWatch: ht
+ tps://www.sooplive.com/station/zodiactv
+SUMMARY:SHIN vs GuMiHo
+URL;VALUE=URI:https://www.sooplive.com/station/zodiactv
 END:VEVENT
 END:VCALENDAR
