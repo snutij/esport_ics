@@ -1112,6 +1112,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba season 4 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/circuitxofficial
 SUMMARY:Upper Bracket Semifinal 1: BST vs GLS
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T180000Z
+UID:pandascore-match-1758460@esport-ics
+DTSTART:20261024T180000Z
+DTEND:20261024T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Curitiba season 4 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/circuitxofficial
+SUMMARY:Lower Bracket Semifinal: GLS vs TBD
 URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR

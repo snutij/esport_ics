@@ -728,4 +728,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Playoffs\nWatch: https:
 SUMMARY:Round of 16 match 5: NTR vs FORZE.R
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T180000Z
+UID:pandascore-match-1746775@esport-ics
+DTSTART:20261025T180000Z
+DTEND:20261025T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #12 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 3: FORZE.R vs ex-RUSTEC
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

@@ -304,7 +304,9 @@ UID:pandascore-match-1767134@esport-ics
 DTSTART:20261024T080000Z
 DTEND:20261024T101500Z
 CLASS:PUBLIC
-DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Play-In
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Play-In\nWatc
+ h: https://kick.com/fiesta_cs
 SUMMARY:DM vs TBD
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

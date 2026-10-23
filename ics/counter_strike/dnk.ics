@@ -230,8 +230,10 @@ UID:pandascore-match-1767137@esport-ics
 DTSTART:20261024T170000Z
 DTEND:20261024T191500Z
 CLASS:PUBLIC
-DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Play-In
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Play-In\nWatc
+ h: https://kick.com/fiesta_cs
 SUMMARY:DNK vs TBD
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261026T180000Z
