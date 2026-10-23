@@ -948,6 +948,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba season 4 2026 - Group B\nWatch: https://ki
  ck.com/circuitx
 SUMMARY:IMP vs TdP
-URL;VALUE=URI:https://kick.com/circuitx
+URL:https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T210000Z
+UID:pandascore-match-1758456@esport-ics
+DTSTART:20261023T210000Z
+DTEND:20261023T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Curitiba season 4 2026 - Playoffs\nWatch: https://w
+ ww.twitch.tv/circuitxofficial
+SUMMARY:Upper Bracket Semifinal 2: paiN vs IMP
+URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
 END:VEVENT
 END:VCALENDAR
