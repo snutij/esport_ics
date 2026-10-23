@@ -655,6 +655,15 @@ CLASS:PUBLIC
 DESCRIPTION:VOID Autumn Cup - 2026 - Playoffs\nWatch: https://www.twitch.tv
  /vanfantv
 SUMMARY:Lower Bracket Semifinal: NEXVOID vs RA
-URL;VALUE=URI:https://www.twitch.tv/vanfantv
+URL:https://www.twitch.tv/vanfantv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T030000Z
+UID:pandascore-match-1752544@esport-ics
+DTSTART:20261024T030000Z
+DTEND:20261024T051500Z
+CLASS:PUBLIC
+DESCRIPTION:VOID Autumn Cup - 2026 - Playoffs
+SUMMARY:Lower Bracket Final: CW vs RA
 END:VEVENT
 END:VCALENDAR

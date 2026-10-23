@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Gromp
+SLUG:team-gromp
+BEGIN:VEVENT
+DTSTAMP:20261110T090000Z
+UID:pandascore-match-1766740@esport-ics
+DTSTART:20261110T090000Z
+DTEND:20261110T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/l
+ olpacificen
+SUMMARY:Quarterfinal 2: SGW vs Team Gromp
+URL;VALUE=URI:https://www.twitch.tv/lolpacificen
+END:VEVENT
+END:VCALENDAR

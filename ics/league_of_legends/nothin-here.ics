@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Promotion: Wild Card 2027 - Playoffs\nWatch: https://www.
  twitch.tv/lolpacificen
 SUMMARY:Grand Final: NH vs ESSE
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T050000Z
+UID:pandascore-match-1766739@esport-ics
+DTSTART:20261110T050000Z
+DTEND:20261110T084500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/l
+ olpacificen
+SUMMARY:Quarterfinal 1: FNL vs NH
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR

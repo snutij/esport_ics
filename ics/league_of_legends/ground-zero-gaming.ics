@@ -197,6 +197,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Split 3 2026 - Group Stage\nWatch: https://www.twitch.tv/
  lolpacificen
 SUMMARY:Tiebreaker: DFM vs GZ
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T090000Z
+UID:pandascore-match-1766738@esport-ics
+DTSTART:20261111T090000Z
+DTEND:20261111T124500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/l
+ olpacificen
+SUMMARY:Regional Merit Match: GZ vs FNK
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR

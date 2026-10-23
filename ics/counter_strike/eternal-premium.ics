@@ -976,17 +976,6 @@ SUMMARY:Elimination Match: EP vs AGC
 URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261023T080000Z
-UID:pandascore-match-1760472@esport-ics
-DTSTART:20261023T080000Z
-DTEND:20261023T101500Z
-CLASS:PUBLIC
-DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group D\nWatc
- h: https://kick.com/fiesta_cs
-SUMMARY:Decider Match: NCT vs EP
-URL;VALUE=URI:https://kick.com/fiesta_cs
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261023T103000Z
 UID:pandascore-match-1766394@esport-ics
 DTSTART:20261023T103000Z
@@ -995,6 +984,28 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 11 Closed Qualifier 2026 - Group A
  \nWatch: https://kick.com/eplcs_en
 SUMMARY:maybe vs EP
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T140000Z
+UID:pandascore-match-1760472@esport-ics
+DTSTART:20261023T140000Z
+DTEND:20261023T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group D\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Decider Match: NCT vs EP
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T090000Z
+UID:pandascore-match-1766395@esport-ics
+DTSTART:20261027T090000Z
+DTEND:20261027T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 11 Closed Qualifier 2026 - Group A
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Elimination Match: REV vs EP
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

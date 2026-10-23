@@ -520,6 +520,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Glory - Winter 2026 - Playoffs\nWatch: https://www.you
  tube.com/watch?v=V13LZc75GUo
 SUMMARY:Upper Bracket Semifinal 2: FPL vs TF
-URL;VALUE=URI:https://www.youtube.com/watch?v=V13LZc75GUo
+URL:https://www.youtube.com/watch?v=V13LZc75GUo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T110000Z
+UID:pandascore-match-1720703@esport-ics
+DTSTART:20261025T110000Z
+DTEND:20261025T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Glory - Winter 2026 - Playoffs\nWatch: https://www.you
+ tube.com/@LienQuanMobileSportsGarena/streams
+SUMMARY:Upper Bracket Final: FPL vs TBD
+URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
 END:VEVENT
 END:VCALENDAR

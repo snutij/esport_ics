@@ -355,6 +355,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Philippines - Season 18 2026 - Playoffs\nWatch: https://www
  .youtube.com/watch?v=8cDtD3-6Qrc
 SUMMARY:Upper Bracket Final: FLCP vs AR
-URL;VALUE=URI:https://www.youtube.com/watch?v=8cDtD3-6Qrc
+URL:https://www.youtube.com/watch?v=8cDtD3-6Qrc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T090000Z
+UID:pandascore-match-1745668@esport-ics
+DTSTART:20261024T090000Z
+DTEND:20261024T141500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Philippines - Season 18 2026 - Playoffs\nWatch: https://www
+ .youtube.com/@mplph.official/live
+SUMMARY:Lower Bracket Final: AR vs TBD
+URL;VALUE=URI:https://www.youtube.com/@mplph.official/live
 END:VEVENT
 END:VCALENDAR
