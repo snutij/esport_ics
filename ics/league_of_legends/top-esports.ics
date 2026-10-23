@@ -472,14 +472,14 @@ SUMMARY:Upper bracket final: TES vs IG
 URL:https://www.twitch.tv/lplenglish
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261023T180000Z
+DTSTAMP:20261023T181000Z
 UID:pandascore-match-1710936@esport-ics
-DTSTART:20261023T180000Z
-DTEND:20261023T184500Z
+DTSTART:20261023T181000Z
+DTEND:20261023T185500Z
 CLASS:PUBLIC
-DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: http://www.twitch.tv/riotga
- mes
+DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: https://www.twitch.tv/riotg
+ ames
 SUMMARY:Round 1: HLE vs TES
-URL;VALUE=URI:http://www.twitch.tv/riotgames
+URL;VALUE=URI:https://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR
