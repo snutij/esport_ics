@@ -447,4 +447,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
 SUMMARY:Lower Bracket Round 3 Match 2: Morrow Esports vs TitanFlow
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T080000Z
+UID:pandascore-match-1766393@esport-ics
+DTSTART:20261023T080000Z
+DTEND:20261023T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 11 Closed Qualifier 2026 - Group A
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Morrow Esports vs REV
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

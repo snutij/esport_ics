@@ -1118,4 +1118,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #9 season 52 2026 - Group D
 SUMMARY:Decider Match: KSM vs LPH
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T090000Z
+UID:pandascore-match-1766413@esport-ics
+DTSTART:20261026T090000Z
+DTEND:20261026T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 11 Closed Qualifier 2026 - Group D
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:FAL.F vs KSM
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

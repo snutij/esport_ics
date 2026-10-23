@@ -120,6 +120,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - September 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/gamersclubcs
 SUMMARY:Quarterfinal 1: CHAMA vs underw0rld
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T190000Z
+UID:pandascore-match-1766432@esport-ics
+DTSTART:20261026T190000Z
+DTEND:20261026T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group C\nWatch: http
+ s://www.twitch.tv/gamersclubcs
+SUMMARY:Elimination Match: gotei 5 vs underw0rld
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR

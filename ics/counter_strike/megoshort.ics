@@ -1072,6 +1072,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #11 2026 - Play-In\nWatch
  : https://kick.com/cct_cs
 SUMMARY:6666 vs MEGO
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T103000Z
+UID:pandascore-match-1766399@esport-ics
+DTSTART:20261024T103000Z
+DTEND:20261024T124500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 11 Closed Qualifier 2026 - Group B
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:MEGO vs RGG
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

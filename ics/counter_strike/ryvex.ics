@@ -194,4 +194,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
 SUMMARY:Lower Bracket Quarterfinal 2: Ryvex vs TitanFlow
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T080000Z
+UID:pandascore-match-1766398@esport-ics
+DTSTART:20261024T080000Z
+DTEND:20261024T101500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 11 Closed Qualifier 2026 - Group B
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Noir Verse vs Ryvex
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

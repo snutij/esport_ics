@@ -513,4 +513,15 @@ DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group C\nWatc
 SUMMARY:Decider Match: ESB vs XI
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T113000Z
+UID:pandascore-match-1766409@esport-ics
+DTSTART:20261025T113000Z
+DTEND:20261025T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 11 Closed Qualifier 2026 - Group C
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:ILLYR vs ESB
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

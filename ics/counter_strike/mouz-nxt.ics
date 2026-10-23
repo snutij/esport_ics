@@ -1131,6 +1131,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Group C\nWatch: https://kick.com/dra
  culancs
 SUMMARY:Elimination Match: HS vs MOUZ.N
-URL;VALUE=URI:https://kick.com/draculancs
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T090000Z
+UID:pandascore-match-1766408@esport-ics
+DTSTART:20261025T090000Z
+DTEND:20261025T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 11 Closed Qualifier 2026 - Group C
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:VEX vs MOUZ.N
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
