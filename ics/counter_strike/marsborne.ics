@@ -768,6 +768,17 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Playoffs\nWatch: https://www.twitch.tv
  /fragadelphia
 SUMMARY:Upper bracket round 1 match 1: MARS vs WaR
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+URL:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T203000Z
+UID:pandascore-match-1769595@esport-ics
+DTSTART:20261024T203000Z
+DTEND:20261024T224500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT North America - Cup #1 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs8
+SUMMARY:Quarterfinal 4: MARS vs FV
+URL;VALUE=URI:https://kick.com/cct_cs8
 END:VEVENT
 END:VCALENDAR

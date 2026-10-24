@@ -188,4 +188,15 @@ DESCRIPTION:ESL Challenger League - North America Cup #3 season 52 2026 - P
  layoffs
 SUMMARY:Lower Bracket Round 2 Match 2: REGAIN vs VIL
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T203000Z
+UID:pandascore-match-1769592@esport-ics
+DTSTART:20261024T203000Z
+DTEND:20261024T224500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT North America - Cup #1 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs7
+SUMMARY:Quarterfinal 1: VOCA vs VIL
+URL;VALUE=URI:https://kick.com/cct_cs7
+END:VEVENT
 END:VCALENDAR

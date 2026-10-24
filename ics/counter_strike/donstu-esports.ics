@@ -1207,10 +1207,10 @@ DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
 SUMMARY:Upper Bracket Final: DNT vs Quintessence
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T134500Z
+DTSTAMP:20261025T144500Z
 UID:pandascore-match-1753604@esport-ics
-DTSTART:20261025T134500Z
-DTEND:20261025T160000Z
+DTSTART:20261025T144500Z
+DTEND:20261025T170000Z
 CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Challengers Series season 8 2026 - Playoffs
 SUMMARY:Grand Final: DNT vs TBD
@@ -1221,7 +1221,7 @@ UID:pandascore-match-1766414@esport-ics
 DTSTART:20261026T113000Z
 DTEND:20261026T134500Z
 CLASS:PUBLIC
-DESCRIPTION:European Pro League - Series 11 Closed Qualifier 2026 - Group D
+DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group D
  \nWatch: https://kick.com/eplcs_en
 SUMMARY:DNT vs Invicta
 URL;VALUE=URI:https://kick.com/eplcs_en

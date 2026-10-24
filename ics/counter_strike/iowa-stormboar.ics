@@ -301,6 +301,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - North America Cup #3 season 52 2026 - P
  layoffs\nWatch: https://kick.com/sv_theunknown
 SUMMARY:Lower Bracket Semifinal: OT vs IOWA
-URL;VALUE=URI:https://kick.com/sv_theunknown
+URL:https://kick.com/sv_theunknown
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T231500Z
+UID:pandascore-match-1769593@esport-ics
+DTSTART:20261024T231500Z
+DTEND:20261025T013000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT North America - Cup #1 2026 - Playoffs\nWatch: https://kick
+ .com/cct_cs8
+SUMMARY:Quarterfinal 2: IOWA vs CCE
+URL;VALUE=URI:https://kick.com/cct_cs8
 END:VEVENT
 END:VCALENDAR

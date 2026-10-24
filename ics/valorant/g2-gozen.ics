@@ -388,6 +388,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/valorant
 SUMMARY:Upper Bracket Quarterfinal Match 1: G2 vs MIBR.F
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T210000Z
+UID:pandascore-match-1752423@esport-ics
+DTSTART:20261026T210000Z
+DTEND:20261026T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/valorant
+SUMMARY:Lower Bracket Round 2 Match 1: G2 vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR
