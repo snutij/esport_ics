@@ -358,6 +358,17 @@ SUMMARY:Upper Bracket Quarterfinal Match 2: TL vs M8.GC
 URL:https://www.twitch.tv/valorant
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261027T180000Z
+UID:pandascore-match-1752417@esport-ics
+DTSTART:20261027T180000Z
+DTEND:20261027T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/valorant
+SUMMARY:Upper Bracket Semifinal 1: MIBR.F vs M8.GC
+URL;VALUE=URI:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261027T210000Z
 UID:pandascore-match-1752418@esport-ics
 DTSTART:20261027T210000Z
@@ -366,6 +377,6 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/valorant
 SUMMARY:Upper Bracket Semifinal 2: M8.GC vs TBD
-URL;VALUE=URI:https://www.twitch.tv/valorant
+URL:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR
