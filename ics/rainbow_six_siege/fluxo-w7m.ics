@@ -397,6 +397,17 @@ CLASS:PUBLIC
 DESCRIPTION:Challenger League - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/rainbow6br
 SUMMARY:Quarterfinal 2: IMP vs FX7M
+URL:https://www.twitch.tv/rainbow6br
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T160000Z
+UID:pandascore-match-1760532@esport-ics
+DTSTART:20261024T160000Z
+DTEND:20261024T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Challenger League - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/rainbow6br
+SUMMARY:Semifinal 1: FURIA vs FX7M
 URL;VALUE=URI:https://www.twitch.tv/rainbow6br
 END:VEVENT
 END:VCALENDAR

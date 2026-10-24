@@ -406,6 +406,17 @@ CLASS:PUBLIC
 DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: http://www.twitch.tv/riotga
  mes
 SUMMARY:Round 1: GEN vs IG
+URL:http://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T220000Z
+UID:pandascore-match-1710945@esport-ics
+DTSTART:20261024T220000Z
+DTEND:20261024T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: http://www.twitch.tv/riotga
+ mes
+SUMMARY:Round 2: IG vs TSW
 URL;VALUE=URI:http://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

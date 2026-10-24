@@ -586,17 +586,6 @@ SUMMARY:YG vs CD
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T060000Z
-UID:pandascore-match-1759492@esport-ics
-DTSTART:20261024T060000Z
-DTEND:20261024T081500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:Zenith vs YG
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261026T090000Z
 UID:pandascore-match-1759497@esport-ics
 DTSTART:20261026T090000Z
@@ -616,6 +605,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:YG vs DB
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T030000Z
+UID:pandascore-match-1759492@esport-ics
+DTSTART:20261030T030000Z
+DTEND:20261030T051500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Zenith vs YG
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

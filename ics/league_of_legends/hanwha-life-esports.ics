@@ -574,6 +574,17 @@ CLASS:PUBLIC
 DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: https://www.twitch.tv/riotg
  ames
 SUMMARY:Round 1: HLE vs TES
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T190000Z
+UID:pandascore-match-1710942@esport-ics
+DTSTART:20261024T190000Z
+DTEND:20261024T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: http://www.twitch.tv/riotga
+ mes
+SUMMARY:Round 2: HLE vs GEN
+URL;VALUE=URI:http://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR
