@@ -1132,6 +1132,17 @@ SUMMARY:Decider Match: ESB vs XI
 URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261024T110000Z
+UID:pandascore-match-1767135@esport-ics
+DTSTART:20261024T110000Z
+DTEND:20261024T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Play-In\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:XI vs WING
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261026T180000Z
 UID:pandascore-match-1688000@esport-ics
 DTSTART:20261026T180000Z

@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group D\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:Decider Match: NCT vs EP
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T140000Z
+UID:pandascore-match-1767134@esport-ics
+DTSTART:20261024T140000Z
+DTEND:20261024T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Play-In\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:DM vs NCT
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR
