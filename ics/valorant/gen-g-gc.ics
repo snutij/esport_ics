@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/valorant
 SUMMARY:Upper Bracket Quarterfinal Match 4: KRÜ vs Gen.G GC
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T180000Z
+UID:pandascore-match-1752420@esport-ics
+DTSTART:20261025T180000Z
+DTEND:20261025T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/valorant
+SUMMARY:Lower Bracket Round 1 Match 2: Gen.G GC vs FL.FE
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR
