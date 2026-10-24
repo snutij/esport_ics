@@ -102,6 +102,15 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 57 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Decider match: Bread Eaters Esports vs 9INE.A
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T113000Z
+UID:pandascore-match-1769553@esport-ics
+DTSTART:20261025T113000Z
+DTEND:20261025T134500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 57 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 2: Bread Eaters Esports vs GAT
 END:VEVENT
 END:VCALENDAR

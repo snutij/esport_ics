@@ -350,6 +350,15 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 57 2026 - Group C\nWatch: https://www.kick.co
  m/united21_en
 SUMMARY:Winners match: GBC vs Bread Eaters Esports
-URL;VALUE=URI:https://www.kick.com/united21_en
+URL:https://www.kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T090000Z
+UID:pandascore-match-1769554@esport-ics
+DTSTART:20261026T090000Z
+DTEND:20261026T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 57 2026 - Playoffs
+SUMMARY:Upper bracket quarterfinal 3: GBC vs UNiTY
 END:VEVENT
 END:VCALENDAR
