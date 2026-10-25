@@ -200,17 +200,6 @@ SUMMARY:LLE vs EACE
 URL:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261026T190000Z
-UID:pandascore-match-1688001@esport-ics
-DTSTART:20261026T190000Z
-DTEND:20261026T194500Z
-CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
- ://www.twitch.tv/dust2tv
-SUMMARY:LLE vs XI
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261026T200000Z
 UID:pandascore-match-1688003@esport-ics
 DTSTART:20261026T200000Z
@@ -241,6 +230,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:LLE vs MASQ
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T190000Z
+UID:pandascore-match-1688001@esport-ics
+DTSTART:20261102T190000Z
+DTEND:20261102T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:LLE vs XI
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
