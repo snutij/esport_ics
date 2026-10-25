@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Threshold China 2026 - Week 1\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Quarterfinal 1: TEC vs UR
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T090000Z
+UID:pandascore-match-1759543@esport-ics
+DTSTART:20261027T090000Z
+DTEND:20261027T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Threshold China 2026 - Week 2\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Round 1 Match 1: UR vs Victory No Limits
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

@@ -316,6 +316,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Threshold China 2026 - Week 1\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Grand Final: DRG vs NOVA
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T090000Z
+UID:pandascore-match-1759549@esport-ics
+DTSTART:20261030T090000Z
+DTEND:20261030T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Threshold China 2026 - Week 2\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Quarterfinal 3: TBD vs NOVA
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR

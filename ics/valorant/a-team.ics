@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Threshold China 2026 - Week 1\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Round 1 Match 3: WOL vs AT
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T090000Z
+UID:pandascore-match-1759545@esport-ics
+DTSTART:20261028T090000Z
+DTEND:20261028T111500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Threshold China 2026 - Week 2\nWatch: https://www.twitch.
+ tv/valorantesports_cn
+SUMMARY:Round 1 Match 3: AT vs ODG
 URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
 END:VEVENT
 END:VCALENDAR
