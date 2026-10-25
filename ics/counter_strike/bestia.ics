@@ -763,6 +763,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba season 4 2026 - Playoffs\nWatch: https://k
  ick.com/circuitx
 SUMMARY:Upper Bracket Final: BST vs IMP
+URL:https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T190000Z
+UID:pandascore-match-1758462@esport-ics
+DTSTART:20261025T190000Z
+DTEND:20261025T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuit X - Curitiba season 4 2026 - Playoffs\nWatch: https://k
+ ick.com/circuitx
+SUMMARY:Lower Bracket Final: paiN vs BST
 URL;VALUE=URI:https://kick.com/circuitx
 END:VEVENT
 END:VCALENDAR
