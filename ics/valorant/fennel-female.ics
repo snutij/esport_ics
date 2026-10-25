@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/valorant
 SUMMARY:Lower Bracket Round 1 Match 2: Gen.G GC vs FL.FE
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T180000Z
+UID:pandascore-match-1752422@esport-ics
+DTSTART:20261026T180000Z
+DTEND:20261026T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/valorant
+SUMMARY:Lower Bracket Round 2 Match 2: SK.N vs FL.FE
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR
