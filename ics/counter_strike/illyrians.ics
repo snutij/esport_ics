@@ -377,6 +377,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group C
  \nWatch: https://kick.com/eplcs_en
 SUMMARY:ILLYR vs ESB
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T090000Z
+UID:pandascore-match-1766410@esport-ics
+DTSTART:20261029T090000Z
+DTEND:20261029T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group C
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Elimination Match: VEX vs ILLYR
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

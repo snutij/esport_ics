@@ -588,6 +588,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #8 season 52 2026 - Group C\
  nWatch: https://www.twitch.tv/breezebrothersmedia
 SUMMARY:Decider match: BERG vs mellren
-URL;VALUE=URI:https://www.twitch.tv/breezebrothersmedia
+URL:https://www.twitch.tv/breezebrothersmedia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T150000Z
+UID:pandascore-match-1770993@esport-ics
+DTSTART:20261025T150000Z
+DTEND:20261025T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 1: SSins vs BERG
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

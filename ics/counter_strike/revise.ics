@@ -303,6 +303,17 @@ SUMMARY:TTG Esports vs REV
 URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261026T090000Z
+UID:pandascore-match-1770996@esport-ics
+DTSTART:20261026T090000Z
+DTEND:20261026T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 1: NXS vs REV
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261027T090000Z
 UID:pandascore-match-1766395@esport-ics
 DTSTART:20261027T090000Z

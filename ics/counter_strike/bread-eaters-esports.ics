@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 57 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Upper bracket quarterfinal 2: Bread Eaters Esports vs GAT
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T090000Z
+UID:pandascore-match-1769556@esport-ics
+DTSTART:20261027T090000Z
+DTEND:20261027T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 57 2026 - Playoffs\nWatch: https://kick.com/u
+ nited21_en
+SUMMARY:Lower bracket round 1 match 1: PRE vs Bread Eaters Esports
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

@@ -697,7 +697,18 @@ DTEND:20261029T111500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group C
  \nWatch: https://kick.com/eplcs_en
-SUMMARY:Elimination Match: VEX vs TBD
+SUMMARY:Elimination Match: VEX vs ILLYR
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T090000Z
+UID:pandascore-match-1766412@esport-ics
+DTSTART:20261031T090000Z
+DTEND:20261031T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group C
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Decider Match: VEX vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

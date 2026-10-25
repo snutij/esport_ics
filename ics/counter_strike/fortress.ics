@@ -678,4 +678,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:FOR vs 99firepower 1utility
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T150000Z
+UID:pandascore-match-1770998@esport-ics
+DTSTART:20261026T150000Z
+DTEND:20261026T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 1: Azuolas vs FOR
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
 END:VCALENDAR

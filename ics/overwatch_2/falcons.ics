@@ -443,6 +443,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Korea Stage 3 2026 - Regular Season\nWatch: https://www.t
  witch.tv/ow_esports_jp
 SUMMARY:FAL vs T1
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T150000Z
+UID:pandascore-match-1713126@esport-ics
+DTSTART:20261029T150000Z
+DTEND:20261029T171500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 3 2026 - Last Chance Qualifier\nWatch: https:
+ //www.twitch.tv/ow_esports_jp
+SUMMARY:Upper Bracket Final: FAL vs SEI
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR
