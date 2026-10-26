@@ -548,6 +548,17 @@ CLASS:PUBLIC
 DESCRIPTION:DFRAG Invitational - 2026 - Group A\nWatch: https://www.twitch.
  tv/dfragtv
 SUMMARY:NEXVOID vs AE
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T060000Z
+UID:pandascore-match-1763021@esport-ics
+DTSTART:20261026T060000Z
+DTEND:20261026T081500Z
+CLASS:PUBLIC
+DESCRIPTION:DFRAG Invitational - 2026 - Group A\nWatch: https://www.twitch.
+ tv/dfragtv
+SUMMARY:Elimination Match: NEXVOID vs TBD
 URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR
