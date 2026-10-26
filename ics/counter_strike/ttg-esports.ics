@@ -58,7 +58,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #10 2026 - Playoffs\nWatch: https://kic
  k.com/cct_cs6
 SUMMARY:Lower Bracket Round 1 Match 4: DINERO vs TTG Esports
-URL;VALUE=URI:https://kick.com/cct_cs6
+URL:https://kick.com/cct_cs6
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261026T180000Z
@@ -68,6 +68,17 @@ DTEND:20261026T184500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:TTG Esports vs Diamant Esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T191500Z
+UID:pandascore-match-1772317@esport-ics
+DTSTART:20261028T191500Z
+DTEND:20261028T213000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #10 2026 - Playoffs\nWatch: https://kic
+ k.com/cct_cs5
+SUMMARY:Lower Bracket Round 2 Match 4: TTG Esports vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs5
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261103T200000Z

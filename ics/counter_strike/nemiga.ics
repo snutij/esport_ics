@@ -1250,6 +1250,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest 2026 - Group Stage\nWatch: https://www.
  twitch.tv/PGL
 SUMMARY:Round 3: NEMI vs AUR
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T110000Z
+UID:pandascore-match-1753712@esport-ics
+DTSTART:20261027T110000Z
+DTEND:20261027T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/PGL
+SUMMARY:Round 4: NEMI vs DEN
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR
