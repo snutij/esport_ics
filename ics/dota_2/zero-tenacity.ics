@@ -1024,6 +1024,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 3 2026 - Group B\nWatch: https://kick.com/
  epldota_en2
 SUMMARY:CH vs Z10
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T180000Z
+UID:pandascore-match-1772353@esport-ics
+DTSTART:20261028T180000Z
+DTEND:20261028T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/nexusmedia_en
+SUMMARY:Upper Bracket Quarterfinal Match 2: Z10 vs RVNNT
+URL;VALUE=URI:https://www.twitch.tv/nexusmedia_en
 END:VEVENT
 END:VCALENDAR

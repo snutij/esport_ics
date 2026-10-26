@@ -467,6 +467,17 @@ SUMMARY:Upper Bracket Round 1 Match 2: AUR.YB vs HEC
 URL:https://kick.com/cct_cs5
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261026T191500Z
+UID:pandascore-match-1772303@esport-ics
+DTSTART:20261026T191500Z
+DTEND:20261026T213000Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #10 2026 - Playoffs\nWatch: https://kic
+ k.com/cct_cs5
+SUMMARY:Upper Bracket Quarterfinal 1: Ducks vs HEC
+URL;VALUE=URI:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261029T180000Z
 UID:pandascore-match-1760320@esport-ics
 DTSTART:20261029T180000Z

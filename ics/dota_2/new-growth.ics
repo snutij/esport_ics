@@ -55,6 +55,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - South America Closed Qualifier season 30 2026 - P
  layoffs\nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Lower bracket round 1 match 1: New Growth vs HKR
-URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
+URL:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T000000Z
+UID:pandascore-match-1772355@esport-ics
+DTSTART:20261029T000000Z
+DTEND:20261029T021500Z
+CLASS:PUBLIC
+DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/nexusmedia_en
+SUMMARY:Upper Bracket Quarterfinal Match 4: PERROS vs GROWTH
+URL;VALUE=URI:https://www.twitch.tv/nexusmedia_en
 END:VEVENT
 END:VCALENDAR

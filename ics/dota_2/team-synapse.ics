@@ -366,6 +366,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 3 2026 - Group B\nWatch: https://kick.com/
  epldota_en2
 SUMMARY:TS vs Z10
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T150000Z
+UID:pandascore-match-1772352@esport-ics
+DTSTART:20261028T150000Z
+DTEND:20261028T171500Z
+CLASS:PUBLIC
+DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/nexusmedia_en
+SUMMARY:Upper Bracket Quarterfinal Match 1: SOLID vs TS
+URL;VALUE=URI:https://www.twitch.tv/nexusmedia_en
 END:VEVENT
 END:VCALENDAR

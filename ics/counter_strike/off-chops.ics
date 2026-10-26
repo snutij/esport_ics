@@ -58,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:DFRAG Invitational - 2026 - Group A\nWatch: https://www.twitch.
  tv/dfragtv
 SUMMARY:GZ vs Off Chops
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T030000Z
+UID:pandascore-match-1763023@esport-ics
+DTSTART:20261028T030000Z
+DTEND:20261028T051500Z
+CLASS:PUBLIC
+DESCRIPTION:DFRAG Invitational - 2026 - Group A\nWatch: https://www.twitch.
+ tv/dfragtv
+SUMMARY:Decider Match: Off Chops vs TBD
 URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR

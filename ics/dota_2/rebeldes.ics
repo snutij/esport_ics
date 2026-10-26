@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:rebeldes
+SLUG:rebeldes
+BEGIN:VEVENT
+DTSTAMP:20261028T210000Z
+UID:pandascore-match-1772354@esport-ics
+DTSTART:20261028T210000Z
+DTEND:20261028T231500Z
+CLASS:PUBLIC
+DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/nexusmedia_en
+SUMMARY:Upper Bracket Quarterfinal Match 3: CHAND vs RBD
+URL;VALUE=URI:https://www.twitch.tv/nexusmedia_en
+END:VEVENT
+END:VCALENDAR
