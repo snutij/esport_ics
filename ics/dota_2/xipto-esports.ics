@@ -190,7 +190,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:Zenith vs XE
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261026T090000Z
@@ -201,7 +201,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:XE vs YG
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261027T030000Z
@@ -212,7 +212,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:XE vs CD
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261028T090000Z
@@ -223,7 +223,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:Team Kinetix vs XE
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261029T060000Z
@@ -234,7 +234,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:RG vs XE
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T090000Z
@@ -245,7 +245,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:NEM.A vs XE
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261031T030000Z
@@ -256,6 +256,50 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:DB vs XE
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T120000Z
+UID:pandascore-match-1772631@esport-ics
+DTSTART:20261031T120000Z
+DTEND:20261031T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:XE vs HN
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T120000Z
+UID:pandascore-match-1772634@esport-ics
+DTSTART:20261101T120000Z
+DTEND:20261101T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:XE vs P-
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T090000Z
+UID:pandascore-match-1772636@esport-ics
+DTSTART:20261102T090000Z
+DTEND:20261102T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:XE vs TS
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T150000Z
+UID:pandascore-match-1772638@esport-ics
+DTSTART:20261102T150000Z
+DTEND:20261102T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs XE
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

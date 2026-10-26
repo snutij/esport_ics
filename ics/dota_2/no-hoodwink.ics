@@ -113,6 +113,28 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 1 2026 - Playoffs\nWatch: https://
  www.twitch.tv/asgard_championship
 SUMMARY:Lower bracket final: TS.A vs NH
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship
+URL:https://www.twitch.tv/asgard_championship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T090000Z
+UID:pandascore-match-1772623@esport-ics
+DTSTART:20261027T090000Z
+DTEND:20261027T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:NH vs Mena Warriors
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T120000Z
+UID:pandascore-match-1772628@esport-ics
+DTSTART:20261029T120000Z
+DTEND:20261029T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY: oveA vs NH
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

@@ -35,6 +35,50 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Western Europe Closed Qualifier season 30 2026 - 
  Playoffs\nWatch: https://www.youtube.com/watch?v=g4osEGof5FA
 SUMMARY:Lower Bracket Round 1 match 2: P- vs White Sails
-URL;VALUE=URI:https://www.youtube.com/watch?v=g4osEGof5FA
+URL:https://www.youtube.com/watch?v=g4osEGof5FA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T120000Z
+UID:pandascore-match-1772629@esport-ics
+DTSTART:20261030T120000Z
+DTEND:20261030T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:P- vs TS
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T150000Z
+UID:pandascore-match-1772632@esport-ics
+DTSTART:20261031T150000Z
+DTEND:20261031T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs P-
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T120000Z
+UID:pandascore-match-1772634@esport-ics
+DTSTART:20261101T120000Z
+DTEND:20261101T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:XE vs P-
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T120000Z
+UID:pandascore-match-1772637@esport-ics
+DTSTART:20261102T120000Z
+DTEND:20261102T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:P- vs HN
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

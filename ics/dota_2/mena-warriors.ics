@@ -67,6 +67,39 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
  ick.com/epldota_en2
 SUMMARY:ICxI vs Mena Warriors
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T180000Z
+UID:pandascore-match-1772618@esport-ics
+DTSTART:20261026T180000Z
+DTEND:20261026T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Mena Warriors vs Pibbles Corp
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T090000Z
+UID:pandascore-match-1772623@esport-ics
+DTSTART:20261027T090000Z
+DTEND:20261027T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:NH vs Mena Warriors
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T090000Z
+UID:pandascore-match-1772627@esport-ics
+DTSTART:20261028T090000Z
+DTEND:20261028T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY: oveA vs Mena Warriors
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

@@ -15,4 +15,37 @@ DESCRIPTION:DreamLeague - Western Europe Open Qualifier 1 season 30 2026 -
  Playoffs
 SUMMARY:Semifinal 2:  oveA vs P-
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T120000Z
+UID:pandascore-match-1772624@esport-ics
+DTSTART:20261027T120000Z
+DTEND:20261027T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY: oveA vs Z10
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T090000Z
+UID:pandascore-match-1772627@esport-ics
+DTSTART:20261028T090000Z
+DTEND:20261028T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY: oveA vs Mena Warriors
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T120000Z
+UID:pandascore-match-1772628@esport-ics
+DTSTART:20261029T120000Z
+DTEND:20261029T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY: oveA vs NH
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
 END:VCALENDAR

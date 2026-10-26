@@ -187,6 +187,50 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - South America Closed Qualifier season 30 2026 - P
  layoffs\nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Lower bracket round 1 match 1: New Growth vs HKR
-URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
+URL:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T180000Z
+UID:pandascore-match-1772630@esport-ics
+DTSTART:20261030T180000Z
+DTEND:20261030T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs HN
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T150000Z
+UID:pandascore-match-1772632@esport-ics
+DTSTART:20261031T150000Z
+DTEND:20261031T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs P-
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T150000Z
+UID:pandascore-match-1772635@esport-ics
+DTSTART:20261101T150000Z
+DTEND:20261101T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs TS
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T150000Z
+UID:pandascore-match-1772638@esport-ics
+DTSTART:20261102T150000Z
+DTEND:20261102T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs XE
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

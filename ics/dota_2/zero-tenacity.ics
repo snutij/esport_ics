@@ -1027,6 +1027,28 @@ SUMMARY:CH vs Z10
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261027T120000Z
+UID:pandascore-match-1772624@esport-ics
+DTSTART:20261027T120000Z
+DTEND:20261027T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY: oveA vs Z10
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T150000Z
+UID:pandascore-match-1772626@esport-ics
+DTSTART:20261027T150000Z
+DTEND:20261027T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Z10 vs Pibbles Corp
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261028T180000Z
 UID:pandascore-match-1772353@esport-ics
 DTSTART:20261028T180000Z

@@ -771,7 +771,7 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest 2026 - Group Stage\nWatch: https://www.
  twitch.tv/pgl_cs2
 SUMMARY:Round 3: TL vs LGC
-URL;VALUE=URI:https://www.twitch.tv/pgl_cs2
+URL:https://www.twitch.tv/pgl_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261102T070000Z
@@ -785,10 +785,10 @@ SUMMARY:Upper Bracket Quarterfinal 1: LGC vs MGLZ
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261111T020000Z
+DTSTAMP:20261111T030000Z
 UID:pandascore-match-1762450@esport-ics
-DTSTART:20261111T020000Z
-DTEND:20261111T041500Z
+DTSTART:20261111T030000Z
+DTEND:20261111T051500Z
 CLASS:PUBLIC
 DESCRIPTION:BLAST Rivals - Fall 2026 - Group A\nWatch: https://www.twitch.t
  v/BLASTPremier

@@ -1069,6 +1069,17 @@ SUMMARY:FAL.F vs KSM
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261030T113000Z
+UID:pandascore-match-1766416@esport-ics
+DTSTART:20261030T113000Z
+DTEND:20261030T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group D
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Winners Match: FAL.F vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261104T173000Z
 UID:pandascore-match-1760316@esport-ics
 DTSTART:20261104T173000Z
