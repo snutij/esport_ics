@@ -1048,6 +1048,28 @@ CLASS:PUBLIC
 DESCRIPTION:PARI Universe - 2026 - Group B\nWatch: https://kick.com/fissure
  _dota_en
 SUMMARY:BB vs LEGION
+URL:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T143000Z
+UID:pandascore-match-1773662@esport-ics
+DTSTART:20261027T143000Z
+DTEND:20261027T151500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - 2026 - Group B\nWatch: https://kick.com/fissure
+ _dota_en
+SUMMARY:BB vs LEGION
+URL;VALUE=URI:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T160000Z
+UID:pandascore-match-1773663@esport-ics
+DTSTART:20261027T160000Z
+DTEND:20261027T164500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - 2026 - Group B\nWatch: https://kick.com/fissure
+ _dota_en
+SUMMARY:BB vs AI
 URL;VALUE=URI:https://kick.com/fissure_dota_en
 END:VEVENT
 END:VCALENDAR
