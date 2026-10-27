@@ -278,6 +278,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/valorant
 SUMMARY:Upper Bracket Semifinal 2: SRG vs KRÜ
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T210000Z
+UID:pandascore-match-1752425@esport-ics
+DTSTART:20261028T210000Z
+DTEND:20261028T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/valorant
+SUMMARY:Lower Bracket Quarterfinal 1: TL vs KRÜ
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR
