@@ -324,4 +324,15 @@ DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group A
 SUMMARY:Elimination Match: REV vs EP
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T150000Z
+UID:pandascore-match-1774329@esport-ics
+DTSTART:20261027T150000Z
+DTEND:20261027T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 2: WING vs REV
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
 END:VCALENDAR

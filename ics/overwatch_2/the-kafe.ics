@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - North America Stage 3 2026 - Group Stage\nWatch: https://
  www.twitch.tv/ow_esports
 SUMMARY:DAL vs KAFE
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T200000Z
+UID:pandascore-match-1773028@esport-ics
+DTSTART:20261030T200000Z
+DTEND:20261030T221500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - North America Stage 3 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/ow_esports
+SUMMARY:Upper Bracket Semifinal 1: TL vs KAFE
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

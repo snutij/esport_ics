@@ -869,6 +869,17 @@ CLASS:PUBLIC
 DESCRIPTION:CyberClash - Closed Qualifier season 2 2026 - Group B\nWatch: h
  ttps://www.twitch.tv/epl_pro
 SUMMARY:BW vs JS
-URL;VALUE=URI:https://www.twitch.tv/epl_pro
+URL:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T090000Z
+UID:pandascore-match-1774327@esport-ics
+DTSTART:20261027T090000Z
+DTEND:20261027T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 2: JS vs JustP
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR
