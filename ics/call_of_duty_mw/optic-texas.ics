@@ -509,6 +509,39 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Championship 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/callofduty
 SUMMARY:Grand final: FAZE.V vs TEX
-URL;VALUE=URI:https://www.twitch.tv/callofduty
+URL:https://www.twitch.tv/callofduty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T160000Z
+UID:pandascore-match-1774454@esport-ics
+DTSTART:20261106T160000Z
+DTEND:20261106T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group A\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:TEX vs STA
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T173000Z
+UID:pandascore-match-1774464@esport-ics
+DTSTART:20261106T173000Z
+DTEND:20261106T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group A\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:TEX vs CRR
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T190000Z
+UID:pandascore-match-1774480@esport-ics
+DTSTART:20261106T190000Z
+DTEND:20261106T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group A\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:TEX vs MIN
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

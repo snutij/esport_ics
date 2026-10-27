@@ -1006,6 +1006,26 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group A
  \nWatch: https://kick.com/eplcs_en
 SUMMARY:Elimination Match: REV vs EP
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T193000Z
+UID:pandascore-match-1774336@esport-ics
+DTSTART:20261027T193000Z
+DTEND:20261027T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:EP vs BERG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T090000Z
+UID:pandascore-match-1766397@esport-ics
+DTSTART:20261101T090000Z
+DTEND:20261101T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group A
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Decider Match: EP vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

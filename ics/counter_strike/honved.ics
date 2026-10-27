@@ -982,6 +982,17 @@ SUMMARY:Round 1: Honvéd vs SINQU
 URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261027T180000Z
+UID:pandascore-match-1774419@esport-ics
+DTSTART:20261027T180000Z
+DTEND:20261027T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 2: Honvéd vs LILMIX
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261101T153000Z
 UID:pandascore-match-1772255@esport-ics
 DTSTART:20261101T153000Z

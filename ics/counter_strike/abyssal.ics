@@ -526,6 +526,17 @@ CLASS:PUBLIC
 DESCRIPTION:DFRAG Invitational - 2026 - Group B\nWatch: https://kick.com/df
  ragtv_cs2
 SUMMARY:Elimination Match: Staqued vs Abyssal
-URL;VALUE=URI:https://kick.com/dfragtv_cs2
+URL:https://kick.com/dfragtv_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T060000Z
+UID:pandascore-match-1763032@esport-ics
+DTSTART:20261028T060000Z
+DTEND:20261028T081500Z
+CLASS:PUBLIC
+DESCRIPTION:DFRAG Invitational - 2026 - Group B\nWatch: https://www.twitch.
+ tv/dfragtv
+SUMMARY:Decider Match: Abyssal vs RSTR
+URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR

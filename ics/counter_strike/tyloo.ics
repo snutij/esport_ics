@@ -796,9 +796,20 @@ DTSTART:20261027T170000Z
 DTEND:20261027T191500Z
 CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest 2026 - Group Stage\nWatch: https://www.
- twitch.tv/PGL
+ twitch.tv/pgl_cs2
 SUMMARY:Round 4: FURIA vs TYLOO
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL;VALUE=URI:https://www.twitch.tv/pgl_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T160000Z
+UID:pandascore-match-1774359@esport-ics
+DTSTART:20261029T160000Z
+DTEND:20261029T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 13 2026 - Group C\nWatch: https://www.
+ twitch.tv/rtparenacs
+SUMMARY:Winners Match: TYLOO vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261102T070000Z

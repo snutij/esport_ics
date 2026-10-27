@@ -676,6 +676,17 @@ CLASS:PUBLIC
 DESCRIPTION:DFRAG Invitational - 2026 - Group B\nWatch: https://kick.com/df
  ragtv
 SUMMARY:Winners' Match: FLY vs RSTR
-URL;VALUE=URI:https://kick.com/dfragtv
+URL:https://kick.com/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T060000Z
+UID:pandascore-match-1763032@esport-ics
+DTSTART:20261028T060000Z
+DTEND:20261028T081500Z
+CLASS:PUBLIC
+DESCRIPTION:DFRAG Invitational - 2026 - Group B\nWatch: https://www.twitch.
+ tv/dfragtv
+SUMMARY:Decider Match: Abyssal vs RSTR
+URL;VALUE=URI:https://www.twitch.tv/dfragtv
 END:VEVENT
 END:VCALENDAR

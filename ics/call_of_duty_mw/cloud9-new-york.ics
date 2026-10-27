@@ -300,6 +300,39 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty League - Stage 4 Major 2026 - Playoffs\nWatch: htt
  ps://www.youtube.com/watch?v=jdQCTCx6eio
 SUMMARY:Lower bracket round 1 match 2: PAR vs C9.NY
-URL;VALUE=URI:https://www.youtube.com/watch?v=jdQCTCx6eio
+URL:https://www.youtube.com/watch?v=jdQCTCx6eio
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T160000Z
+UID:pandascore-match-1774502@esport-ics
+DTSTART:20261106T160000Z
+DTEND:20261106T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:PAR vs C9.NY
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T173000Z
+UID:pandascore-match-1774503@esport-ics
+DTSTART:20261106T173000Z
+DTEND:20261106T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:LAT vs C9.NY
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T190000Z
+UID:pandascore-match-1774506@esport-ics
+DTSTART:20261106T190000Z
+DTEND:20261106T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:C9.NY vs OMiT Brooklyn
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

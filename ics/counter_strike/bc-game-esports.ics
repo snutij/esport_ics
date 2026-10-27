@@ -486,4 +486,15 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Playoffs
 SUMMARY:Lower bracket quarterfinal 2: BCG vs FaZe
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T161500Z
+UID:pandascore-match-1774370@esport-ics
+DTSTART:20261030T161500Z
+DTEND:20261030T170000Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 13 2026 - Group D\nWatch: https://www.
+ twitch.tv/rtparenacs
+SUMMARY:BCG vs OG
+URL;VALUE=URI:https://www.twitch.tv/rtparenacs
+END:VEVENT
 END:VCALENDAR

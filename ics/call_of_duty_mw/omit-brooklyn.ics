@@ -47,6 +47,39 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty Challengers - North America Elite Stage 3 2026 - P
  layoffs\nWatch: https://www.youtube.com/watch?v=zZNLKpXbkGw
 SUMMARY:Lower bracket final: PN vs OMiT Brooklyn
-URL;VALUE=URI:https://www.youtube.com/watch?v=zZNLKpXbkGw
+URL:https://www.youtube.com/watch?v=zZNLKpXbkGw
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T160000Z
+UID:pandascore-match-1774499@esport-ics
+DTSTART:20261106T160000Z
+DTEND:20261106T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:LAT vs OMiT Brooklyn
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T173000Z
+UID:pandascore-match-1774504@esport-ics
+DTSTART:20261106T173000Z
+DTEND:20261106T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:PAR vs OMiT Brooklyn
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T190000Z
+UID:pandascore-match-1774506@esport-ics
+DTSTART:20261106T190000Z
+DTEND:20261106T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:C9.NY vs OMiT Brooklyn
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

@@ -959,6 +959,16 @@ DTEND:20261027T131500Z
 CLASS:PUBLIC
 DESCRIPTION:Tesla Cup - 2026 - Group A\nWatch: https://kick.com/rlgcs
 SUMMARY:ALL vs FaZe
+URL:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T080000Z
+UID:pandascore-match-1763045@esport-ics
+DTSTART:20261028T080000Z
+DTEND:20261028T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Tesla Cup - 2026 - Group A\nWatch: https://kick.com/rlgcs
+SUMMARY:Elimination Match: B8 vs ALL
 URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR

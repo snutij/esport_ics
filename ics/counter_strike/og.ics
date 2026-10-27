@@ -530,6 +530,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Play-In\nWatch: https://ki
  ck.com/roman
 SUMMARY:OG vs SNG
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T161500Z
+UID:pandascore-match-1774370@esport-ics
+DTSTART:20261030T161500Z
+DTEND:20261030T170000Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 13 2026 - Group D\nWatch: https://www.
+ twitch.tv/rtparenacs
+SUMMARY:BCG vs OG
+URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR

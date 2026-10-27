@@ -263,6 +263,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Playoffs\nWatch: https://www.twitch.
  tv/x9nium
 SUMMARY:Lower bracket round 2 match 2: IS vs TBD
-URL;VALUE=URI:https://www.twitch.tv/x9nium
+URL:https://www.twitch.tv/x9nium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T140000Z
+UID:pandascore-match-1774358@esport-ics
+DTSTART:20261029T140000Z
+DTEND:20261029T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 13 2026 - Group C\nWatch: https://www.
+ twitch.tv/rtparenacs
+SUMMARY:IS vs ZOTIX
+URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR
