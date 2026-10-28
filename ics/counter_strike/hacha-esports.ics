@@ -162,4 +162,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group D
 SUMMARY:Elimination Match: Hacha Esports vs GRE
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T193000Z
+UID:pandascore-match-1776459@esport-ics
+DTSTART:20261030T193000Z
+DTEND:20261030T214500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group D\nWatch: https://www.twi
+ tch.tv/fireleaguetv
+SUMMARY:WC vs Hacha Esports
+URL;VALUE=URI:https://www.twitch.tv/fireleaguetv
+END:VEVENT
 END:VCALENDAR

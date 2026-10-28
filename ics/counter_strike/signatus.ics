@@ -14,4 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - September 2026 - Group B
 SUMMARY:Elimination match: QUIN vs SIG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T130000Z
+UID:pandascore-match-1776378@esport-ics
+DTSTART:20261030T130000Z
+DTEND:20261030T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group C\nWatch: https://www.twi
+ tch.tv/fireleaguetv
+SUMMARY:FXW7 vs SIG
+URL;VALUE=URI:https://www.twitch.tv/fireleaguetv
+END:VEVENT
 END:VCALENDAR

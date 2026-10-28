@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tactical Chaos
+SLUG:tactical-chaos
+BEGIN:VEVENT
+DTSTAMP:20261029T193000Z
+UID:pandascore-match-1776368@esport-ics
+DTSTART:20261029T193000Z
+DTEND:20261029T214500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group B\nWatch: https://www.twi
+ tch.tv/fireleaguetv
+SUMMARY:NRG vs Tactical Chaos
+URL;VALUE=URI:https://www.twitch.tv/fireleaguetv
+END:VEVENT
+END:VCALENDAR
