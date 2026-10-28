@@ -949,6 +949,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 5 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Upper bracket semifinal 1: FNC vs BIG
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T160000Z
+UID:pandascore-match-1751568@esport-ics
+DTSTART:20261029T160000Z
+DTEND:20261029T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 5 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper bracket final: FNC vs MIBR
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

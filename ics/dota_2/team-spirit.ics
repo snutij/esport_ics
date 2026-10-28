@@ -1015,6 +1015,17 @@ CLASS:PUBLIC
 DESCRIPTION:PARI Universe - 2026 - Playoffs\nWatch: https://kick.com/fissur
  e_dota_en
 SUMMARY:Upper Bracket Quarterfinal 3: TS vs OG
+URL:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T120000Z
+UID:pandascore-match-1753771@esport-ics
+DTSTART:20261029T120000Z
+DTEND:20261029T141500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - 2026 - Playoffs\nWatch: https://kick.com/fissur
+ e_dota_en
+SUMMARY:Lower Bracket Round 1 Match 2: TS vs TBD
 URL;VALUE=URI:https://kick.com/fissure_dota_en
 END:VEVENT
 END:VCALENDAR

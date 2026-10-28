@@ -1263,6 +1263,17 @@ SUMMARY:Round 4: JustP vs FF
 URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261029T130000Z
+UID:pandascore-match-1777675@esport-ics
+DTSTART:20261029T130000Z
+DTEND:20261029T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Season 2 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/epl_pro
+SUMMARY:Quarterfinal 2: FF vs PRIV
+URL;VALUE=URI:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261101T180000Z
 UID:pandascore-match-1746332@esport-ics
 DTSTART:20261101T180000Z
