@@ -1015,6 +1015,17 @@ CLASS:PUBLIC
 DESCRIPTION:PARI Universe - 2026 - Playoffs\nWatch: https://kick.com/fissur
  e_dota_en
 SUMMARY:Upper Bracket Quarterfinal 1: PARI vs Liquid
+URL:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T150000Z
+UID:pandascore-match-1753766@esport-ics
+DTSTART:20261029T150000Z
+DTEND:20261029T171500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - 2026 - Playoffs\nWatch: https://kick.com/fissur
+ e_dota_en
+SUMMARY:Upper Bracket Semifinal 1: PARI vs TY
 URL;VALUE=URI:https://kick.com/fissure_dota_en
 END:VEVENT
 END:VCALENDAR

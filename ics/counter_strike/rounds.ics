@@ -753,6 +753,39 @@ SUMMARY:Elimination Match: Ryvex vs RGG
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261103T153000Z
+UID:pandascore-match-1777582@esport-ics
+DTSTART:20261103T153000Z
+DTEND:20261103T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:BOYB vs RGG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T153000Z
+UID:pandascore-match-1777584@esport-ics
+DTSTART:20261104T153000Z
+DTEND:20261104T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:HAVU vs RGG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T153000Z
+UID:pandascore-match-1777590@esport-ics
+DTSTART:20261110T153000Z
+DTEND:20261110T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:PRE vs RGG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261110T180000Z
 UID:pandascore-match-1774278@esport-ics
 DTSTART:20261110T180000Z
@@ -760,5 +793,49 @@ DTEND:20261110T184500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:RGG vs LK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T180000Z
+UID:pandascore-match-1777595@esport-ics
+DTSTART:20261112T180000Z
+DTEND:20261112T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:NV vs RGG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T153000Z
+UID:pandascore-match-1777596@esport-ics
+DTSTART:20261116T153000Z
+DTEND:20261116T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:RGG vs BJNG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261118T153000Z
+UID:pandascore-match-1777600@esport-ics
+DTSTART:20261118T153000Z
+DTEND:20261118T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:KSM vs RGG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T153000Z
+UID:pandascore-match-1777604@esport-ics
+DTSTART:20261123T153000Z
+DTEND:20261123T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:SINQU vs RGG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 END:VCALENDAR

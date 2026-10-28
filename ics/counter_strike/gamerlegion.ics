@@ -673,6 +673,16 @@ DTEND:20261028T161500Z
 CLASS:PUBLIC
 DESCRIPTION:Tesla Cup - 2026 - Group B\nWatch: https://kick.com/rlgcs
 SUMMARY:Winners' Match: HOTU vs GL
+URL:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T200000Z
+UID:pandascore-match-1763056@esport-ics
+DTSTART:20261028T200000Z
+DTEND:20261028T221500Z
+CLASS:PUBLIC
+DESCRIPTION:Tesla Cup - 2026 - Group B\nWatch: https://kick.com/rlgcs
+SUMMARY:Decider Match: GL vs TBD
 URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR

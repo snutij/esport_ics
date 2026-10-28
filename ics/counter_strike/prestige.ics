@@ -675,7 +675,84 @@ DTEND:20261029T111500Z
 CLASS:PUBLIC
 DESCRIPTION:United21 - Season 57 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
-SUMMARY:Lower bracket quarterfinal 1: PRE vs TBD
+SUMMARY:Lower bracket quarterfinal 1: CW vs PRE
 URL;VALUE=URI:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T180000Z
+UID:pandascore-match-1777583@esport-ics
+DTSTART:20261103T180000Z
+DTEND:20261103T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:SINQU vs PRE
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T153000Z
+UID:pandascore-match-1777586@esport-ics
+DTSTART:20261105T153000Z
+DTEND:20261105T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:PRE vs KSM
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T153000Z
+UID:pandascore-match-1777590@esport-ics
+DTSTART:20261110T153000Z
+DTEND:20261110T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:PRE vs RGG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T153000Z
+UID:pandascore-match-1777594@esport-ics
+DTSTART:20261112T153000Z
+DTEND:20261112T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:PRE vs BJNG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T153000Z
+UID:pandascore-match-1777598@esport-ics
+DTSTART:20261117T153000Z
+DTEND:20261117T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:HAVU vs PRE
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T180000Z
+UID:pandascore-match-1777603@esport-ics
+DTSTART:20261119T180000Z
+DTEND:20261119T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:PRE vs BOYB
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T180000Z
+UID:pandascore-match-1777605@esport-ics
+DTSTART:20261123T180000Z
+DTEND:20261123T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:PRE vs NV
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 END:VCALENDAR

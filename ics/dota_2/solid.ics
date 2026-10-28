@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/nexusmedia_en
 SUMMARY:Upper Bracket Quarterfinal Match 1: SOLID vs TS
+URL:https://www.twitch.tv/nexusmedia_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T150000Z
+UID:pandascore-match-1772360@esport-ics
+DTSTART:20261029T150000Z
+DTEND:20261029T171500Z
+CLASS:PUBLIC
+DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/nexusmedia_en
+SUMMARY:Lower Bracket Round 1 Match 1: SOLID vs TBD
 URL;VALUE=URI:https://www.twitch.tv/nexusmedia_en
 END:VEVENT
 END:VCALENDAR
