@@ -918,4 +918,15 @@ DESCRIPTION:PARI Universe - 2026 - Playoffs\nWatch: https://kick.com/fissur
 SUMMARY:Upper Bracket Semifinal 2: OG vs GL
 URL;VALUE=URI:https://kick.com/fissure_dota_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T190000Z
+UID:pandascore-match-1756304@esport-ics
+DTSTART:20261102T190000Z
+DTEND:20261102T211500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 3 2026 - Playoffs\nWatch: https://kick.com
+ /epldota_en2
+SUMMARY:Upper Bracket Quarterfinals match 4: GL vs CH
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
 END:VCALENDAR

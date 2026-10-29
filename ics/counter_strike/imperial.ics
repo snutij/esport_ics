@@ -992,6 +992,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Masters - VII 2026 - Group B\nWatch: https://www.tw
  itch.tv/GamersClubCS
 SUMMARY:IMP vs QUIN
+URL:https://www.twitch.tv/GamersClubCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T200000Z
+UID:pandascore-match-1776336@esport-ics
+DTSTART:20261030T200000Z
+DTEND:20261030T221500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Masters - VII 2026 - Group B\nWatch: https://www.tw
+ itch.tv/GamersClubCS
+SUMMARY:Winners match: IMP vs TBD
 URL;VALUE=URI:https://www.twitch.tv/GamersClubCS
 END:VEVENT
 END:VCALENDAR

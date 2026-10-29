@@ -693,6 +693,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Group B\nWatch: https://www.twitch
  .tv/BLASTDotaB
 SUMMARY:Elimination Match: Nem vs Na`Vi
-URL;VALUE=URI:https://www.twitch.tv/BLASTDotaB
+URL:https://www.twitch.tv/BLASTDotaB
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T160000Z
+UID:pandascore-match-1756303@esport-ics
+DTSTART:20261102T160000Z
+DTEND:20261102T181500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL Masters - Season 3 2026 - Playoffs\nWatch: https://kick.com
+ /epldota_en2
+SUMMARY:Upper Bracket Quarterfinals match 3: Na`Vi vs Nemiga
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

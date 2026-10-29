@@ -568,6 +568,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Retake - Season 13 2026 - Group C\nWatch: https://www.
  twitch.tv/rtparenacs
 SUMMARY:IS vs ZOTIX
+URL:https://www.twitch.tv/rtparenacs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T193000Z
+UID:pandascore-match-1774360@esport-ics
+DTSTART:20261029T193000Z
+DTEND:20261029T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 13 2026 - Group C\nWatch: https://www.
+ twitch.tv/rtparenacs
+SUMMARY:Decider Match: ZOTIX vs TBD
 URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR

@@ -274,6 +274,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Retake - Season 13 2026 - Group C\nWatch: https://www.
  twitch.tv/rtparenacs
 SUMMARY:IS vs ZOTIX
+URL:https://www.twitch.tv/rtparenacs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T164500Z
+UID:pandascore-match-1774359@esport-ics
+DTSTART:20261029T164500Z
+DTEND:20261029T190000Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 13 2026 - Group C\nWatch: https://www.
+ twitch.tv/rtparenacs
+SUMMARY:Winners Match: TYLOO vs IS
 URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR

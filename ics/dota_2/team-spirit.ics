@@ -1026,6 +1026,17 @@ CLASS:PUBLIC
 DESCRIPTION:PARI Universe - 2026 - Playoffs\nWatch: https://kick.com/fissur
  e_dota_en
 SUMMARY:Lower Bracket Round 1 Match 2: TS vs LEGION
+URL:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T100000Z
+UID:pandascore-match-1753775@esport-ics
+DTSTART:20261030T100000Z
+DTEND:20261030T121500Z
+CLASS:PUBLIC
+DESCRIPTION:PARI Universe - 2026 - Playoffs\nWatch: https://kick.com/fissur
+ e_dota_en
+SUMMARY:Lower Bracket Quarterfinal 2: TS vs TBD
 URL;VALUE=URI:https://kick.com/fissure_dota_en
 END:VEVENT
 END:VCALENDAR
