@@ -256,6 +256,17 @@ SUMMARY:Round 2: DNK vs DM
 URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261029T150000Z
+UID:pandascore-match-1778421@esport-ics
+DTSTART:20261029T150000Z
+DTEND:20261029T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 3: FOR vs DNK
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261106T163000Z
 UID:pandascore-match-1751672@esport-ics
 DTSTART:20261106T163000Z
