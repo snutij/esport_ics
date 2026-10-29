@@ -1030,6 +1030,28 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 5: FORZE.R vs JustP
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T090000Z
+UID:pandascore-match-1774327@esport-ics
+DTSTART:20261027T090000Z
+DTEND:20261027T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 2: JS vs JustP
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T120000Z
+UID:pandascore-match-1778420@esport-ics
+DTSTART:20261029T120000Z
+DTEND:20261029T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 3: SSins vs JustP
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

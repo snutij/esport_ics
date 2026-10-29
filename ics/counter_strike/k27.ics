@@ -1173,6 +1173,16 @@ DTEND:20261027T101500Z
 CLASS:PUBLIC
 DESCRIPTION:Tesla Cup - 2026 - Group A\nWatch: https://kick.com/rlgcs
 SUMMARY:B8 vs K27
+URL:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T113000Z
+UID:pandascore-match-1763047@esport-ics
+DTSTART:20261028T113000Z
+DTEND:20261028T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Tesla Cup - 2026 - Group A\nWatch: https://kick.com/rlgcs
+SUMMARY:Decider Match: K27 vs TBD
 URL;VALUE=URI:https://kick.com/rlgcs
 END:VEVENT
 END:VCALENDAR

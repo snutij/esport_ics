@@ -1947,6 +1947,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 13 2026 - Play-In\nWatch: https:/
  /kick.com/nodwin_cs2
 SUMMARY:Qualification Match 1: JustP vs MISA
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T120000Z
+UID:pandascore-match-1777557@esport-ics
+DTSTART:20261031T120000Z
+DTEND:20261031T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #13 2026 - Group C\nWatch
+ : https://kick.com/cct_cs
+SUMMARY:SSins vs MISA
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

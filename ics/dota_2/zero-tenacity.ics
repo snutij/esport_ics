@@ -1035,7 +1035,7 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
  www.twitch.tv/epc_en
 SUMMARY: oveA vs Z10
-URL;VALUE=URI:https://www.twitch.tv/epc_en
+URL:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261027T150000Z
@@ -1046,7 +1046,7 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
  www.twitch.tv/epc_en
 SUMMARY:Z10 vs Pibbles Corp
-URL;VALUE=URI:https://www.twitch.tv/epc_en
+URL:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261028T180000Z
@@ -1057,6 +1057,28 @@ CLASS:PUBLIC
 DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/nexusmedia_en
 SUMMARY:Upper Bracket Quarterfinal Match 2: Z10 vs RVNNT
+URL:https://www.twitch.tv/nexusmedia_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T180000Z
+UID:pandascore-match-1772356@esport-ics
+DTSTART:20261029T180000Z
+DTEND:20261029T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/nexusmedia_en
+SUMMARY:Upper Bracket Semifinal 1: TS vs Z10
+URL:https://www.twitch.tv/nexusmedia_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T210000Z
+UID:pandascore-match-1772362@esport-ics
+DTSTART:20261030T210000Z
+DTEND:20261030T231500Z
+CLASS:PUBLIC
+DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/nexusmedia_en
+SUMMARY:Lower Bracket Quarterfinal 2: RBD vs Z10
 URL;VALUE=URI:https://www.twitch.tv/nexusmedia_en
 END:VEVENT
 END:VCALENDAR

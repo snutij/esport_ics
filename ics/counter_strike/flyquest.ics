@@ -495,6 +495,28 @@ CLASS:PUBLIC
 DESCRIPTION:DFRAG Invitational - 2026 - Group B\nWatch: https://www.twitch.
  tv/dfragtv_cs2
 SUMMARY:FLY vs Staqued
-URL;VALUE=URI:https://www.twitch.tv/dfragtv_cs2
+URL:https://www.twitch.tv/dfragtv_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T073000Z
+UID:pandascore-match-1763031@esport-ics
+DTSTART:20261027T073000Z
+DTEND:20261027T094500Z
+CLASS:PUBLIC
+DESCRIPTION:DFRAG Invitational - 2026 - Group B\nWatch: https://kick.com/df
+ ragtv
+SUMMARY:Winners' Match: FLY vs RSTR
+URL:https://kick.com/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T030000Z
+UID:pandascore-match-1763034@esport-ics
+DTSTART:20261030T030000Z
+DTEND:20261030T051500Z
+CLASS:PUBLIC
+DESCRIPTION:DFRAG Invitational - 2026 - Playoffs\nWatch: https://kick.com/d
+ fragtv
+SUMMARY:Upper Bracket Semifinal 2: NEXVOID vs FLY
+URL;VALUE=URI:https://kick.com/dfragtv
 END:VEVENT
 END:VCALENDAR

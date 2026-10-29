@@ -1086,14 +1086,34 @@ SUMMARY:MEGO vs RGG
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T113000Z
+DTSTAMP:20261029T090000Z
 UID:pandascore-match-1766401@esport-ics
-DTSTART:20261028T113000Z
-DTEND:20261028T134500Z
+DTSTART:20261029T090000Z
+DTEND:20261029T111500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group B
- \nWatch: https://kick.com/eplcs_en
 SUMMARY:Winners Match: Noir Verse vs MEGO
-URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T150000Z
+UID:pandascore-match-1777551@esport-ics
+DTSTART:20261029T150000Z
+DTEND:20261029T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #13 2026 - Group B\nWatch
+ : https://kick.com/cct_cs
+SUMMARY:TS.A vs MEGO
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T120000Z
+UID:pandascore-match-1777553@esport-ics
+DTSTART:20261030T120000Z
+DTEND:20261030T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #13 2026 - Group B\nWatch
+ : https://kick.com/cct_cs
+SUMMARY:Elimination Match: MELL vs MEGO
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

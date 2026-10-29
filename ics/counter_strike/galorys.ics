@@ -1123,6 +1123,15 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba season 4 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/circuitxofficial
 SUMMARY:Lower Bracket Semifinal: GLS vs paiN
-URL;VALUE=URI:https://www.twitch.tv/circuitxofficial
+URL:https://www.twitch.tv/circuitxofficial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T193000Z
+UID:pandascore-match-1776369@esport-ics
+DTSTART:20261029T193000Z
+DTEND:20261029T214500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group B
+SUMMARY:GLS vs PCY
 END:VEVENT
 END:VCALENDAR

@@ -614,6 +614,108 @@ SUMMARY:Round 1: Honvéd vs SINQU
 URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261027T160000Z
+UID:pandascore-match-1774263@esport-ics
+DTSTART:20261027T160000Z
+DTEND:20261027T164500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:SINQU vs Morrow Esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T173000Z
+UID:pandascore-match-1774335@esport-ics
+DTSTART:20261027T173000Z
+DTEND:20261027T181500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:SINQU vs BERG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T193000Z
+UID:pandascore-match-1774272@esport-ics
+DTSTART:20261027T193000Z
+DTEND:20261027T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:SINQU vs DNK
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T120000Z
+UID:pandascore-match-1774436@esport-ics
+DTSTART:20261028T120000Z
+DTEND:20261028T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 2: SINQU vs FOR
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T181500Z
+UID:pandascore-match-1775702@esport-ics
+DTSTART:20261028T181500Z
+DTEND:20261028T190000Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:SINQU vs FOR
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T150000Z
+UID:pandascore-match-1778799@esport-ics
+DTSTART:20261030T150000Z
+DTEND:20261030T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 3: NXS vs SINQU
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T180000Z
+UID:pandascore-match-1777583@esport-ics
+DTSTART:20261103T180000Z
+DTEND:20261103T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:SINQU vs PRE
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T180000Z
+UID:pandascore-match-1777585@esport-ics
+DTSTART:20261104T180000Z
+DTEND:20261104T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:SINQU vs BJNG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T180000Z
+UID:pandascore-match-1777589@esport-ics
+DTSTART:20261109T180000Z
+DTEND:20261109T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:SINQU vs NV
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T153000Z
+UID:pandascore-match-1777592@esport-ics
+DTSTART:20261111T153000Z
+DTEND:20261111T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:SINQU vs KSM
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261113T180000Z
 UID:pandascore-match-1766441@esport-ics
 DTSTART:20261113T180000Z
@@ -623,5 +725,38 @@ DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season\nWatch:
  https://www.twitch.tv/sinquesports
 SUMMARY:YL vs SINQU
 URL;VALUE=URI:https://www.twitch.tv/sinquesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T180000Z
+UID:pandascore-match-1777599@esport-ics
+DTSTART:20261117T180000Z
+DTEND:20261117T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:SINQU vs BOYB
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T153000Z
+UID:pandascore-match-1777602@esport-ics
+DTSTART:20261119T153000Z
+DTEND:20261119T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:SINQU vs HAVU
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T153000Z
+UID:pandascore-match-1777604@esport-ics
+DTSTART:20261123T153000Z
+DTEND:20261123T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/elisaviihdesport
+SUMMARY:SINQU vs RGG
+URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 END:VCALENDAR

@@ -216,6 +216,26 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group B
  \nWatch: https://kick.com/eplcs_en
 SUMMARY:Elimination Match: Ryvex vs RGG
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T113000Z
+UID:pandascore-match-1766402@esport-ics
+DTSTART:20261101T113000Z
+DTEND:20261101T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group B
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Decider Match: Ryvex vs TBD
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T180000Z
+UID:pandascore-match-1775707@esport-ics
+DTSTART:20261104T180000Z
+DTEND:20261104T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:aimers vs Ryvex
 END:VEVENT
 END:VCALENDAR

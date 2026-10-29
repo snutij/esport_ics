@@ -744,14 +744,36 @@ SUMMARY:Opening Match 1: ICE vs SNG
 URL:https://kick.com/stake_pulse
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261027T133000Z
+DTSTAMP:20261027T141500Z
 UID:pandascore-match-1751559@esport-ics
-DTSTART:20261027T133000Z
-DTEND:20261027T154500Z
+DTSTART:20261027T141500Z
+DTEND:20261027T163000Z
 CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 5 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Upper bracket quarterfinal 3: ICE vs NEM
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T183000Z
+UID:pandascore-match-1751564@esport-ics
+DTSTART:20261028T183000Z
+DTEND:20261028T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 5 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper bracket semifinal 2: ICE vs MIBR
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T133000Z
+UID:pandascore-match-1751566@esport-ics
+DTSTART:20261029T133000Z
+DTEND:20261029T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 5 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Lower bracket quarterfinal 1: ICE vs AST
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

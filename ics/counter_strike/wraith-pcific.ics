@@ -703,6 +703,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #12 2026 - Play-In\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:PCIFIC vs ILLYR
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T100000Z
+UID:pandascore-match-1777676@esport-ics
+DTSTART:20261029T100000Z
+DTEND:20261029T121500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Season 2 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/epl_pro
+SUMMARY:Quarterfinal 3: PCIFIC vs ACES
+URL:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T150000Z
+UID:pandascore-match-1777679@esport-ics
+DTSTART:20261030T150000Z
+DTEND:20261030T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Season 2 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/epl_pro
+SUMMARY:Semifinal 2: PCIFIC vs OMG
+URL;VALUE=URI:https://www.twitch.tv/epl_pro
 END:VEVENT
 END:VCALENDAR

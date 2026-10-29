@@ -961,6 +961,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group A\nWatch: http
  s://www.twitch.tv/gamersclubcs
 SUMMARY:Elimination Match: ALKA vs ARK
-URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T233000Z
+UID:pandascore-match-1776325@esport-ics
+DTSTART:20261029T233000Z
+DTEND:20261030T014500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Masters - VII 2026 - Group A\nWatch: https://www.tw
+ itch.tv/GamersClubCS
+SUMMARY:TdP vs ALKA
+URL;VALUE=URI:https://www.twitch.tv/GamersClubCS
 END:VEVENT
 END:VCALENDAR

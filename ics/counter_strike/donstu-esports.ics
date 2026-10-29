@@ -1226,6 +1226,28 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group D
  \nWatch: https://kick.com/eplcs_en
 SUMMARY:DNT vs Invicta
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T090000Z
+UID:pandascore-match-1766415@esport-ics
+DTSTART:20261030T090000Z
+DTEND:20261030T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group D
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Elimination Match: KSM vs DNT
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T090000Z
+UID:pandascore-match-1777556@esport-ics
+DTSTART:20261031T090000Z
+DTEND:20261031T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #13 2026 - Group C\nWatch
+ : https://kick.com/cct_cs
+SUMMARY:PF vs DNT
+URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

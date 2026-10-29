@@ -227,4 +227,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #9 season 52 2026 - Playoffs
 SUMMARY:Semifinal 2: LPH vs WBT.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T090000Z
+UID:pandascore-match-1774347@esport-ics
+DTSTART:20261029T090000Z
+DTEND:20261029T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 13 2026 - Group A\nWatch: https://www.
+ twitch.tv/rtparenacs
+SUMMARY:WBT.A vs SAW.Y
+URL;VALUE=URI:https://www.twitch.tv/rtparenacs
+END:VEVENT
 END:VCALENDAR

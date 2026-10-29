@@ -1211,6 +1211,28 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - South America Cup #3 season 52 2026 - P
  layoffs\nWatch: https://www.twitch.tv/watchfulTVb
 SUMMARY:Lower Bracket Semifinal: GLS vs BHE
-URL;VALUE=URI:https://www.twitch.tv/watchfulTVb
+URL:https://www.twitch.tv/watchfulTVb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T130000Z
+UID:pandascore-match-1776364@esport-ics
+DTSTART:20261029T130000Z
+DTEND:20261029T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group A\nWatch: https://www.twi
+ tch.tv/fireleaguetv
+SUMMARY:BAR vs BHE
+URL:https://www.twitch.tv/fireleaguetv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T130000Z
+UID:pandascore-match-1776367@esport-ics
+DTSTART:20261031T130000Z
+DTEND:20261031T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group A\nWatch: https://www.twi
+ tch.tv/fireleaguetv
+SUMMARY:Decider Match: BHE vs BAR
+URL;VALUE=URI:https://www.twitch.tv/fireleaguetv
 END:VEVENT
 END:VCALENDAR

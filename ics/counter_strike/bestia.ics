@@ -774,6 +774,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba season 4 2026 - Playoffs\nWatch: https://k
  ick.com/circuitx
 SUMMARY:Lower Bracket Final: paiN vs BST
-URL;VALUE=URI:https://kick.com/circuitx
+URL:https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T193000Z
+UID:pandascore-match-1776460@esport-ics
+DTSTART:20261030T193000Z
+DTEND:20261030T214500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group D\nWatch: https://www.twi
+ tch.tv/fireleaguetv
+SUMMARY:BST vs BTH
+URL;VALUE=URI:https://www.twitch.tv/fireleaguetv
 END:VEVENT
 END:VCALENDAR

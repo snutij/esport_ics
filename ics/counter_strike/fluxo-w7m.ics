@@ -713,6 +713,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba season 4 2026 - Group A\nWatch: https://ki
  ck.com/circuitx
 SUMMARY:Decider Match: GLS vs FXW7
-URL;VALUE=URI:https://kick.com/circuitx
+URL:https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T130000Z
+UID:pandascore-match-1776378@esport-ics
+DTSTART:20261030T130000Z
+DTEND:20261030T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group C\nWatch: https://www.twi
+ tch.tv/fireleaguetv
+SUMMARY:FXW7 vs SIG
+URL;VALUE=URI:https://www.twitch.tv/fireleaguetv
 END:VEVENT
 END:VCALENDAR

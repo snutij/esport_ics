@@ -515,6 +515,39 @@ CLASS:PUBLIC
 DESCRIPTION:DFRAG Invitational - 2026 - Group B\nWatch: https://www.twitch.
  tv/dfragtv
 SUMMARY:RSTR vs Abyssal
-URL;VALUE=URI:https://www.twitch.tv/dfragtv
+URL:https://www.twitch.tv/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261027T073000Z
+UID:pandascore-match-1763030@esport-ics
+DTSTART:20261027T073000Z
+DTEND:20261027T094500Z
+CLASS:PUBLIC
+DESCRIPTION:DFRAG Invitational - 2026 - Group B\nWatch: https://kick.com/df
+ ragtv_cs2
+SUMMARY:Elimination Match: Staqued vs Abyssal
+URL:https://kick.com/dfragtv_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T060000Z
+UID:pandascore-match-1763032@esport-ics
+DTSTART:20261028T060000Z
+DTEND:20261028T081500Z
+CLASS:PUBLIC
+DESCRIPTION:DFRAG Invitational - 2026 - Group B\nWatch: https://kick.com/df
+ ragtv
+SUMMARY:Decider Match: Abyssal vs RSTR
+URL:https://kick.com/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T030000Z
+UID:pandascore-match-1763033@esport-ics
+DTSTART:20261030T030000Z
+DTEND:20261030T051500Z
+CLASS:PUBLIC
+DESCRIPTION:DFRAG Invitational - 2026 - Playoffs\nWatch: https://kick.com/d
+ fragtv
+SUMMARY:Upper Bracket Semifinal 1: AE vs Abyssal
+URL;VALUE=URI:https://kick.com/dfragtv
 END:VEVENT
 END:VCALENDAR
