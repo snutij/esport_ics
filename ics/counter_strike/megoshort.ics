@@ -1105,4 +1105,15 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #13 2026 - Group B\nWatch
 SUMMARY:TS.A vs MEGO
 URL:https://kick.com/cct_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T120000Z
+UID:pandascore-match-1777553@esport-ics
+DTSTART:20261030T120000Z
+DTEND:20261030T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #13 2026 - Group B\nWatch
+ : https://kick.com/cct_cs
+SUMMARY:Elimination Match: MELL vs MEGO
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR

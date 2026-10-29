@@ -1068,6 +1068,17 @@ CLASS:PUBLIC
 DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/nexusmedia_en
 SUMMARY:Upper Bracket Semifinal 1: TS vs Z10
+URL:https://www.twitch.tv/nexusmedia_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T210000Z
+UID:pandascore-match-1772362@esport-ics
+DTSTART:20261030T210000Z
+DTEND:20261030T231500Z
+CLASS:PUBLIC
+DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/nexusmedia_en
+SUMMARY:Lower Bracket Quarterfinal 2: RBD vs Z10
 URL;VALUE=URI:https://www.twitch.tv/nexusmedia_en
 END:VEVENT
 END:VCALENDAR

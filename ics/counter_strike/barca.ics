@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group A\nWatch: https://www.twi
  tch.tv/fireleaguetv
 SUMMARY:BAR vs BHE
+URL:https://www.twitch.tv/fireleaguetv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T130000Z
+UID:pandascore-match-1776367@esport-ics
+DTSTART:20261031T130000Z
+DTEND:20261031T151500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group A\nWatch: https://www.twi
+ tch.tv/fireleaguetv
+SUMMARY:Decider Match: BHE vs BAR
 URL;VALUE=URI:https://www.twitch.tv/fireleaguetv
 END:VEVENT
 END:VCALENDAR
