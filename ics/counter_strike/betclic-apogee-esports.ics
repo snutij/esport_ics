@@ -778,6 +778,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Semifinal match 2: UNiTY vs BCA
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T150000Z
+UID:pandascore-match-1746836@esport-ics
+DTSTART:20261030T150000Z
+DTEND:20261030T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #12 2026 - Playoffs\nWatch: https://kick.co
+ m/cct_cs2
+SUMMARY:Round of 16 Match 7: BCA vs ILLYR
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
