@@ -14,6 +14,39 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty Challengers - North America Elite Stage 3 2026 - P
  layoffs\nWatch: https://www.youtube.com/watch?v=Kwm8_aLiYQc
 SUMMARY:Lower bracket quarterfinal 1: STA vs FAZ.F
-URL;VALUE=URI:https://www.youtube.com/watch?v=Kwm8_aLiYQc
+URL:https://www.youtube.com/watch?v=Kwm8_aLiYQc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T160000Z
+UID:pandascore-match-1774454@esport-ics
+DTSTART:20261106T160000Z
+DTEND:20261106T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group A\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:TEX vs STA
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T173000Z
+UID:pandascore-match-1774465@esport-ics
+DTSTART:20261106T173000Z
+DTEND:20261106T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group A\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:MIN vs STA
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T190000Z
+UID:pandascore-match-1774483@esport-ics
+DTSTART:20261106T190000Z
+DTEND:20261106T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group A\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:CRR vs STA
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

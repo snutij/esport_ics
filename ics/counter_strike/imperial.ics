@@ -981,6 +981,28 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba season 4 2026 - Playoffs\nWatch: https://k
  ick.com/circuitx
 SUMMARY:Grand Final: IMP vs paiN
-URL;VALUE=URI:https://kick.com/circuitx
+URL:https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T130000Z
+UID:pandascore-match-1776333@esport-ics
+DTSTART:20261029T130000Z
+DTEND:20261029T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Masters - VII 2026 - Group B\nWatch: https://www.tw
+ itch.tv/GamersClubCS
+SUMMARY:IMP vs QUIN
+URL:https://www.twitch.tv/GamersClubCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T200000Z
+UID:pandascore-match-1776336@esport-ics
+DTSTART:20261030T200000Z
+DTEND:20261030T221500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Masters - VII 2026 - Group B\nWatch: https://www.tw
+ itch.tv/GamersClubCS
+SUMMARY:Winners match: IMP vs paiN
+URL;VALUE=URI:https://www.twitch.tv/GamersClubCS
 END:VEVENT
 END:VCALENDAR

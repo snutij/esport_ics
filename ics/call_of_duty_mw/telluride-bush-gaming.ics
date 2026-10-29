@@ -47,6 +47,39 @@ CLASS:PUBLIC
 DESCRIPTION:Call of Duty Challengers - North America Elite Stage 2 2026 - P
  layoffs\nWatch: https://www.youtube.com/watch?v=JOQsTuNKXeg
 SUMMARY:Grand final: BUSH vs TBD
-URL;VALUE=URI:https://www.youtube.com/watch?v=JOQsTuNKXeg
+URL:https://www.youtube.com/watch?v=JOQsTuNKXeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T160000Z
+UID:pandascore-match-1774490@esport-ics
+DTSTART:20261106T160000Z
+DTEND:20261106T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group C\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:RIYF vs BUSH
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T173000Z
+UID:pandascore-match-1774493@esport-ics
+DTSTART:20261106T173000Z
+DTEND:20261106T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group C\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:MH vs BUSH
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T190000Z
+UID:pandascore-match-1774495@esport-ics
+DTSTART:20261106T190000Z
+DTEND:20261106T224500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group C\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:VAN vs BUSH
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

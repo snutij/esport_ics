@@ -79,17 +79,6 @@ DESCRIPTION:BLAST Slam - China Closed Qualifier season 9 2026 - Playoffs
 SUMMARY:Quarterfinal 2: TR vs Zenith
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261027T070000Z
-UID:pandascore-match-1759499@esport-ics
-DTSTART:20261027T070000Z
-DTEND:20261027T091500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:Zenith vs DB
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261029T040000Z
 UID:pandascore-match-1759503@esport-ics
 DTSTART:20261029T040000Z
@@ -98,7 +87,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:CD vs Zenith
-URL;VALUE=URI:https://kick.com/epldota_en1
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T040000Z
@@ -142,6 +131,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:Zenith vs Team Kinetix
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T070000Z
+UID:pandascore-match-1759499@esport-ics
+DTSTART:20261102T070000Z
+DTEND:20261102T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Zenith vs DB
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

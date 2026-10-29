@@ -377,7 +377,18 @@ CLASS:PUBLIC
 DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/nexusmedia_en
 SUMMARY:Upper Bracket Quarterfinal Match 1: SOLID vs TS
-URL;VALUE=URI:https://www.twitch.tv/nexusmedia_en
+URL:https://www.twitch.tv/nexusmedia_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T180000Z
+UID:pandascore-match-1772356@esport-ics
+DTSTART:20261029T180000Z
+DTEND:20261029T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/nexusmedia_en
+SUMMARY:Upper Bracket Semifinal 1: TS vs Z10
+URL:https://www.twitch.tv/nexusmedia_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T120000Z
@@ -389,6 +400,17 @@ DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
  www.twitch.tv/epc_en
 SUMMARY:P- vs TS
 URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T000000Z
+UID:pandascore-match-1772358@esport-ics
+DTSTART:20261031T000000Z
+DTEND:20261031T021500Z
+CLASS:PUBLIC
+DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/nexusmedia_en
+SUMMARY:Upper Bracket Final: TS vs TBD
+URL;VALUE=URI:https://www.twitch.tv/nexusmedia_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261101T090000Z

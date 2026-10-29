@@ -511,6 +511,26 @@ CLASS:PUBLIC
 DESCRIPTION:FRAG - University 2026 - Playoffs\nWatch: https://www.twitch.tv
  /fragadelphia
 SUMMARY:Lower bracket semifinal: IMP vs NRG
-URL;VALUE=URI:https://www.twitch.tv/fragadelphia
+URL:https://www.twitch.tv/fragadelphia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T193000Z
+UID:pandascore-match-1776368@esport-ics
+DTSTART:20261029T193000Z
+DTEND:20261029T214500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group B
+SUMMARY:NRG vs Tactical Chaos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T224500Z
+UID:pandascore-match-1776370@esport-ics
+DTSTART:20261029T224500Z
+DTEND:20261030T010000Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group B\nWatch: https://kick.co
+ m/locomas
+SUMMARY:Winners Match: NRG vs TBD
+URL;VALUE=URI:https://kick.com/locomas
 END:VEVENT
 END:VCALENDAR

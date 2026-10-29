@@ -24,7 +24,7 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
  www.twitch.tv/epc_en
 SUMMARY: oveA vs Z10
-URL;VALUE=URI:https://www.twitch.tv/epc_en
+URL:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261028T090000Z
@@ -35,13 +35,13 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
  www.twitch.tv/epc_en
 SUMMARY: oveA vs Mena Warriors
-URL;VALUE=URI:https://www.twitch.tv/epc_en
+URL:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261029T120000Z
+DTSTAMP:20261103T090000Z
 UID:pandascore-match-1772628@esport-ics
-DTSTART:20261029T120000Z
-DTEND:20261029T141500Z
+DTSTART:20261103T090000Z
+DTEND:20261103T111500Z
 CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
  www.twitch.tv/epc_en

@@ -466,37 +466,26 @@ SUMMARY:Team Kinetix vs DB
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261027T070000Z
-UID:pandascore-match-1759499@esport-ics
-DTSTART:20261027T070000Z
-DTEND:20261027T091500Z
-CLASS:PUBLIC
-DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
- nWatch: https://kick.com/epldota_en1
-SUMMARY:Zenith vs DB
-URL;VALUE=URI:https://kick.com/epldota_en1
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261028T070000Z
-UID:pandascore-match-1759501@esport-ics
+UID:pandascore-match-1759505@esport-ics
 DTSTART:20261028T070000Z
 DTEND:20261028T091500Z
 CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
-SUMMARY:DB vs NEM.A
-URL;VALUE=URI:https://kick.com/epldota_en1
+SUMMARY:YG vs DB
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261029T100000Z
-UID:pandascore-match-1759505@esport-ics
+UID:pandascore-match-1759501@esport-ics
 DTSTART:20261029T100000Z
 DTEND:20261029T121500Z
 CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
-SUMMARY:YG vs DB
-URL;VALUE=URI:https://kick.com/epldota_en1
+SUMMARY:DB vs NEM.A
+URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261030T070000Z
@@ -518,6 +507,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:DB vs RB
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T070000Z
+UID:pandascore-match-1759499@esport-ics
+DTSTART:20261102T070000Z
+DTEND:20261102T091500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
+ nWatch: https://kick.com/epldota_en1
+SUMMARY:Zenith vs DB
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

@@ -1015,6 +1015,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancsd
 SUMMARY:Lower bracket round 3 match 1: BMB vs NXS
-URL;VALUE=URI:https://kick.com/draculancsd
+URL:https://kick.com/draculancsd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T090000Z
+UID:pandascore-match-1774350@esport-ics
+DTSTART:20261030T090000Z
+DTEND:20261030T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 13 2026 - Group B\nWatch: https://www.
+ twitch.tv/rtparenacs
+SUMMARY:BMB vs TTBS
+URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR

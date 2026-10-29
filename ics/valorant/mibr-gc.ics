@@ -113,6 +113,28 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/valorant
 SUMMARY:Upper Bracket Semifinal 1: MIBR.F vs M8.GC
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T180000Z
+UID:pandascore-match-1752424@esport-ics
+DTSTART:20261028T180000Z
+DTEND:20261028T201500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/valorant
+SUMMARY:Lower Bracket Quarterfinal 2: MIBR.F vs SK.N
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T210000Z
+UID:pandascore-match-1752426@esport-ics
+DTSTART:20261030T210000Z
+DTEND:20261030T231500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/valorant
+SUMMARY:Lower Bracket Semifinal: KRÜ vs MIBR.F
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

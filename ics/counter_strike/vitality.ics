@@ -657,6 +657,28 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest 2026 - Group Stage\nWatch: https://www.
  twitch.tv/PGL
 SUMMARY:Round 4: VIT vs NAVI
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T110000Z
+UID:pandascore-match-1753683@esport-ics
+DTSTART:20261029T110000Z
+DTEND:20261029T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/PGL
+SUMMARY:Quarterfinal 2: VIT vs NAVI
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T120000Z
+UID:pandascore-match-1753686@esport-ics
+DTSTART:20261030T120000Z
+DTEND:20261030T141500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/PGL
+SUMMARY:Semifinal 1: NEMI vs VIT
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT

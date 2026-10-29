@@ -988,4 +988,26 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs
 SUMMARY:Round 1 match 2: G1 vs OMG
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T160000Z
+UID:pandascore-match-1777677@esport-ics
+DTSTART:20261029T160000Z
+DTEND:20261029T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Season 2 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/epl_pro
+SUMMARY:Quarterfinal 4: LVKD vs OMG
+URL:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T150000Z
+UID:pandascore-match-1777679@esport-ics
+DTSTART:20261030T150000Z
+DTEND:20261030T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Season 2 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/epl_pro
+SUMMARY:Semifinal 2: PCIFIC vs OMG
+URL;VALUE=URI:https://www.twitch.tv/epl_pro
+END:VEVENT
 END:VCALENDAR

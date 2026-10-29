@@ -398,6 +398,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuit X - Curitiba season 4 2026 - Group B\nWatch: https://ki
  ck.com/circuitx
 SUMMARY:IMP vs TdP
-URL;VALUE=URI:https://kick.com/circuitx
+URL:https://kick.com/circuitx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T233000Z
+UID:pandascore-match-1776325@esport-ics
+DTSTART:20261029T233000Z
+DTEND:20261030T014500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Masters - VII 2026 - Group A\nWatch: https://www.tw
+ itch.tv/GamersClubCS
+SUMMARY:TdP vs ALKA
+URL;VALUE=URI:https://www.twitch.tv/GamersClubCS
 END:VEVENT
 END:VCALENDAR

@@ -626,7 +626,18 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Masters - Bucharest 2026 - Group Stage\nWatch: https://www.
  twitch.tv/PGL
 SUMMARY:Round 4: MGLZ vs LGC
-URL;VALUE=URI:https://www.twitch.tv/PGL
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T110000Z
+UID:pandascore-match-1753718@esport-ics
+DTSTART:20261028T110000Z
+DTEND:20261028T131500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Masters - Bucharest 2026 - Group Stage\nWatch: https://www.
+ twitch.tv/PGL
+SUMMARY:Round 5: MGLZ vs NEMI
+URL:https://www.twitch.tv/PGL
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261102T070000Z
