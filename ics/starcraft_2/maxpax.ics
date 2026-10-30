@@ -311,6 +311,17 @@ CLASS:PUBLIC
 DESCRIPTION:IntoTheTV x SOOP SC2 League - Premier 2026 - Group C\nWatch: ht
  tps://www.sooplive.com/station/zodiactv
 SUMMARY:MaxPax vs Bunny
+URL:https://www.sooplive.com/station/zodiactv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T140000Z
+UID:pandascore-match-1764474@esport-ics
+DTSTART:20261107T140000Z
+DTEND:20261107T174500Z
+CLASS:PUBLIC
+DESCRIPTION:IntoTheTV x SOOP SC2 League - Premier 2026 - Playoffs\nWatch: h
+ ttps://www.sooplive.com/station/zodiactv
+SUMMARY:Quarterfinal 4: MaxPax vs Clem
 URL;VALUE=URI:https://www.sooplive.com/station/zodiactv
 END:VEVENT
 END:VCALENDAR

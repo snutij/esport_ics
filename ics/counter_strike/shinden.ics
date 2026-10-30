@@ -900,6 +900,17 @@ CLASS:PUBLIC
 DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group C\nWatch: https://kick.co
  m/elmorocho7
 SUMMARY:Winners Match: FXW7 vs SHIN
-URL;VALUE=URI:https://kick.com/elmorocho7
+URL:https://kick.com/elmorocho7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T161500Z
+UID:pandascore-match-1776382@esport-ics
+DTSTART:20261031T161500Z
+DTEND:20261031T183000Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group C\nWatch: https://www.twi
+ tch.tv/fireleaguetv
+SUMMARY:Decider Match: SHIN vs ISG
+URL;VALUE=URI:https://www.twitch.tv/fireleaguetv
 END:VEVENT
 END:VCALENDAR

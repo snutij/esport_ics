@@ -586,6 +586,17 @@ CLASS:PUBLIC
 DESCRIPTION:IntoTheTV x SOOP SC2 League - Premier 2026 - Group B\nWatch: ht
  tps://play.sooplive.com/zodiactv/298034089
 SUMMARY:Decider Match: Rogue vs TBD
-URL;VALUE=URI:https://play.sooplive.com/zodiactv/298034089
+URL:https://play.sooplive.com/zodiactv/298034089
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T110000Z
+UID:pandascore-match-1764471@esport-ics
+DTSTART:20261107T110000Z
+DTEND:20261107T144500Z
+CLASS:PUBLIC
+DESCRIPTION:IntoTheTV x SOOP SC2 League - Premier 2026 - Playoffs\nWatch: h
+ ttps://www.sooplive.com/station/zodiactv
+SUMMARY:Quarterfinal 1: herO vs Rogue
+URL;VALUE=URI:https://www.sooplive.com/station/zodiactv
 END:VEVENT
 END:VCALENDAR

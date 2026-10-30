@@ -715,6 +715,17 @@ CLASS:PUBLIC
 DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group D\nWatch: https://www.twi
  tch.tv/fireleaguetv
 SUMMARY:WC vs Hacha Esports
+URL:https://www.twitch.tv/fireleaguetv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T221500Z
+UID:pandascore-match-1776461@esport-ics
+DTSTART:20261030T221500Z
+DTEND:20261031T003000Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group D\nWatch: https://www.twi
+ tch.tv/fireleaguetv
+SUMMARY:Winners Match: WC vs TBD
 URL;VALUE=URI:https://www.twitch.tv/fireleaguetv
 END:VEVENT
 END:VCALENDAR
