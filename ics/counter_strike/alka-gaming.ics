@@ -975,14 +975,25 @@ SUMMARY:TdP vs ALKA
 URL:https://www.twitch.tv/GamersClubCS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T163000Z
+DTSTAMP:20261030T160000Z
 UID:pandascore-match-1776326@esport-ics
-DTSTART:20261030T163000Z
-DTEND:20261030T184500Z
+DTSTART:20261030T160000Z
+DTEND:20261030T181500Z
 CLASS:PUBLIC
 DESCRIPTION:Gamers Club Masters - VII 2026 - Group A\nWatch: https://www.tw
  itch.tv/GamersClubCS
 SUMMARY:Elimination match: Low Cortisol vs ALKA
 URL;VALUE=URI:https://www.twitch.tv/GamersClubCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T210000Z
+UID:pandascore-match-1780346@esport-ics
+DTSTART:20261102T210000Z
+DTEND:20261102T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group A\nWatch: http
+ s://www.twitch.tv/gamersclubcs
+SUMMARY:Decider match: GODS PLAN vs ALKA
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR

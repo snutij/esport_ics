@@ -23,6 +23,17 @@ CLASS:PUBLIC
 DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group C\nWatch: https://www.twi
  tch.tv/fireleaguetv
 SUMMARY:FXW7 vs SIG
-URL;VALUE=URI:https://www.twitch.tv/fireleaguetv
+URL:https://www.twitch.tv/fireleaguetv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T153000Z
+UID:pandascore-match-1776381@esport-ics
+DTSTART:20261030T153000Z
+DTEND:20261030T174500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group C\nWatch: https://www.twi
+ tch.tv/tr3jou
+SUMMARY:Elimination Match: SIG vs ISG
+URL;VALUE=URI:https://www.twitch.tv/tr3jou
 END:VEVENT
 END:VCALENDAR

@@ -25,17 +25,6 @@ DESCRIPTION:DreamLeague - Western Europe Open Qualifier 2 2026 - Playoffs
 SUMMARY:Semifinal 1: old blood vs White Sails
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T150000Z
-UID:pandascore-match-1772647@esport-ics
-DTSTART:20261030T150000Z
-DTEND:20261030T171500Z
-CLASS:PUBLIC
-DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group B\nWatch: https://
- www.twitch.tv/epc_en
-SUMMARY:old blood vs RH
-URL;VALUE=URI:https://www.twitch.tv/epc_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261031T180000Z
 UID:pandascore-match-1772648@esport-ics
 DTSTART:20261031T180000Z
@@ -66,6 +55,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group B\nWatch: https://
  www.twitch.tv/epc_en
 SUMMARY:angry birds vs old blood
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T150000Z
+UID:pandascore-match-1772647@esport-ics
+DTSTART:20261103T150000Z
+DTEND:20261103T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:old blood vs RH
 URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

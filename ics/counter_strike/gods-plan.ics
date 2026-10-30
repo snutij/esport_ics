@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group A\nWatch: http
  s://www.twitch.tv/gamersclubcs
 SUMMARY:Winners Match: RED.A vs GODS PLAN
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T210000Z
+UID:pandascore-match-1780346@esport-ics
+DTSTART:20261102T210000Z
+DTEND:20261102T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - October 2026 - Group A\nWatch: http
+ s://www.twitch.tv/gamersclubcs
+SUMMARY:Decider match: GODS PLAN vs ALKA
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR
