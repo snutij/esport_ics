@@ -629,6 +629,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #12 2026 - Playoffs\nWatch: https://kick.co
  m/cct_cs2
 SUMMARY:Round of 16 Match 4: 9INE vs ACES
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T090000Z
+UID:pandascore-match-1746838@esport-ics
+DTSTART:20261031T090000Z
+DTEND:20261031T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #12 2026 - Playoffs\nWatch: https://kick.co
+ m/cct_cs2
+SUMMARY:Quarterfinal 1: 9INE vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

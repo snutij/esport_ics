@@ -253,17 +253,6 @@ SUMMARY:EACE vs st0ny
 URL:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261102T170000Z
-UID:pandascore-match-1688008@esport-ics
-DTSTART:20261102T170000Z
-DTEND:20261102T174500Z
-CLASS:PUBLIC
-DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
- ://www.twitch.tv/dust2tv
-SUMMARY:LLE vs st0ny
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261102T190000Z
 UID:pandascore-match-1688012@esport-ics
 DTSTART:20261102T190000Z
@@ -272,6 +261,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:st0ny vs STA
+URL;VALUE=URI:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T200000Z
+UID:pandascore-match-1688008@esport-ics
+DTSTART:20261102T200000Z
+DTEND:20261102T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
+ ://www.twitch.tv/dust2tv
+SUMMARY:LLE vs st0ny
 URL;VALUE=URI:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
