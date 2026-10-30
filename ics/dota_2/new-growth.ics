@@ -77,6 +77,17 @@ CLASS:PUBLIC
 DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/nexusmedia_en
 SUMMARY:Upper Bracket Semifinal 2: CHAND vs GROWTH
+URL:https://www.twitch.tv/nexusmedia_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T000000Z
+UID:pandascore-match-1772358@esport-ics
+DTSTART:20261031T000000Z
+DTEND:20261031T021500Z
+CLASS:PUBLIC
+DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/nexusmedia_en
+SUMMARY:Upper Bracket Final: TS vs GROWTH
 URL;VALUE=URI:https://www.twitch.tv/nexusmedia_en
 END:VEVENT
 END:VCALENDAR

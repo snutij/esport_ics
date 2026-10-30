@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Esprots
+SLUG:esprots
+BEGIN:VEVENT
+DTSTAMP:20261031T133000Z
+UID:pandascore-match-1780329@esport-ics
+DTSTART:20261031T133000Z
+DTEND:20261031T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Battle of Baltics - 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/goexanimo
+SUMMARY:Semifinal 2: GG vs Esprots
+URL;VALUE=URI:https://www.twitch.tv/goexanimo
+END:VEVENT
+END:VCALENDAR
