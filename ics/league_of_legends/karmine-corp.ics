@@ -590,6 +590,17 @@ CLASS:PUBLIC
 DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: http://www.twitch.tv/riotga
  mes
 SUMMARY:Round 4: KC vs CFO
+URL:http://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T200000Z
+UID:pandascore-match-1711009@esport-ics
+DTSTART:20261031T200000Z
+DTEND:20261031T221500Z
+CLASS:PUBLIC
+DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: http://www.twitch.tv/riotga
+ mes
+SUMMARY:Round 5: KC vs MKOI
 URL;VALUE=URI:http://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

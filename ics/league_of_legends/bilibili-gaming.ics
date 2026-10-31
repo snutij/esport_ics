@@ -651,6 +651,17 @@ CLASS:PUBLIC
 DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: http://www.twitch.tv/riotga
  mes
 SUMMARY:Round 4: TES vs BLG
+URL:http://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T230000Z
+UID:pandascore-match-1711010@esport-ics
+DTSTART:20261031T230000Z
+DTEND:20261101T011500Z
+CLASS:PUBLIC
+DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: http://www.twitch.tv/riotga
+ mes
+SUMMARY:Round 5: HLE vs BLG
 URL;VALUE=URI:http://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR

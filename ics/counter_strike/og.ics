@@ -552,6 +552,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Retake - Season 13 2026 - Group D\nWatch: https://www.
  twitch.tv/rtparenacs
 SUMMARY:Decider Match: OG vs TBD
+URL:https://www.twitch.tv/rtparenacs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T173000Z
+UID:pandascore-match-1774414@esport-ics
+DTSTART:20261031T173000Z
+DTEND:20261031T194500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 13 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/rtparenacs
+SUMMARY:Quarterfinal 4: OG vs IS
 URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR
