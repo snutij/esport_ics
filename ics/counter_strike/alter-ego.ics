@@ -409,6 +409,17 @@ CLASS:PUBLIC
 DESCRIPTION:DFRAG Invitational - 2026 - Playoffs\nWatch: https://kick.com/d
  fragtv
 SUMMARY:Lower Bracket Final: AE vs TBD
+URL:https://kick.com/dfragtv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T030000Z
+UID:pandascore-match-1763038@esport-ics
+DTSTART:20261101T030000Z
+DTEND:20261101T064500Z
+CLASS:PUBLIC
+DESCRIPTION:DFRAG Invitational - 2026 - Playoffs\nWatch: https://kick.com/d
+ fragtv
+SUMMARY:Grand Final: FLY vs AE
 URL;VALUE=URI:https://kick.com/dfragtv
 END:VEVENT
 END:VCALENDAR

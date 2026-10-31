@@ -457,6 +457,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #13 2026 - Group C\nWatch
  : https://kick.com/cct_cs
 SUMMARY:PF vs DNT
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T090000Z
+UID:pandascore-match-1777558@esport-ics
+DTSTART:20261101T090000Z
+DTEND:20261101T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #13 2026 - Group C\nWatch
+ : https://kick.com/cct_cs
+SUMMARY:Elimination Match: PF vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs
 END:VEVENT
 END:VCALENDAR

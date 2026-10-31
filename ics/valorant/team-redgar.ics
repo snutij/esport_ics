@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Redgar
+SLUG:team-redgar
+BEGIN:VEVENT
+DTSTAMP:20261031T183000Z
+UID:pandascore-match-1782271@esport-ics
+DTSTART:20261031T183000Z
+DTEND:20261031T204500Z
+CLASS:PUBLIC
+DESCRIPTION:BETBOOM Streamers Battle - Season 1 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/betboom_esports2
+SUMMARY:Lower Bracket Semifinal: Team Redgar vs TBD
+URL;VALUE=URI:https://www.twitch.tv/betboom_esports2
+END:VEVENT
+END:VCALENDAR

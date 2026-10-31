@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team GPK
+SLUG:team-gpk
+BEGIN:VEVENT
+DTSTAMP:20261031T160000Z
+UID:pandascore-match-1782270@esport-ics
+DTSTART:20261031T160000Z
+DTEND:20261031T181500Z
+CLASS:PUBLIC
+DESCRIPTION:BETBOOM Streamers Battle - Season 1 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/betboom_esports2
+SUMMARY:Upper Bracket Final: Team GPK vs TBD
+URL;VALUE=URI:https://www.twitch.tv/betboom_esports2
+END:VEVENT
+END:VCALENDAR
