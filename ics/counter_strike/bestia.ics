@@ -796,6 +796,17 @@ CLASS:PUBLIC
 DESCRIPTION:FiReSPORTS - Last Chance 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/fireleaguetv
 SUMMARY:Quarterfinal 2: BST vs PCY
+URL:https://www.twitch.tv/fireleaguetv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T140000Z
+UID:pandascore-match-1776472@esport-ics
+DTSTART:20261101T140000Z
+DTEND:20261101T161500Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/fireleaguetv
+SUMMARY:Semifinal 1: BST vs TBD
 URL;VALUE=URI:https://www.twitch.tv/fireleaguetv
 END:VEVENT
 END:VCALENDAR

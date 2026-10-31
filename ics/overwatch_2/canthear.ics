@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CantHear
+SLUG:canthear
+BEGIN:VEVENT
+DTSTAMP:20261104T123000Z
+UID:pandascore-match-1783573@esport-ics
+DTSTART:20261104T123000Z
+DTEND:20261104T144500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 3 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:CH vs TGG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T140000Z
+UID:pandascore-match-1783577@esport-ics
+DTSTART:20261105T140000Z
+DTEND:20261105T161500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 3 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:CH vs Stronghold
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T140000Z
+UID:pandascore-match-1783580@esport-ics
+DTSTART:20261106T140000Z
+DTEND:20261106T161500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 3 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:CH vs BEN
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T140000Z
+UID:pandascore-match-1783583@esport-ics
+DTSTART:20261107T140000Z
+DTEND:20261107T161500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 3 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:SJK vs CH
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T110000Z
+UID:pandascore-match-1783584@esport-ics
+DTSTART:20261108T110000Z
+DTEND:20261108T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 3 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:CH vs JUN
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+END:VCALENDAR

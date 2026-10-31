@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #10 2026 - Playoffs\nWatch: https://kic
  k.com/cct_cs5
 SUMMARY:Lower Bracket Semifinal: Ducks vs TTG Esports
+URL:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T163000Z
+UID:pandascore-match-1772323@esport-ics
+DTSTART:20261101T163000Z
+DTEND:20261101T184500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Contenders #10 2026 - Playoffs\nWatch: https://kic
+ k.com/cct_cs5
+SUMMARY:Lower Bracket Final: prodigy vs Ducks
 URL;VALUE=URI:https://kick.com/cct_cs5
 END:VEVENT
 END:VCALENDAR

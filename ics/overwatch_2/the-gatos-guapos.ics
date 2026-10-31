@@ -102,6 +102,61 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Asia Stage 1 2026 - Group A\nWatch: https://www.twitch.tv
  /ow_esports
 SUMMARY:ZETA vs TGG
-URL;VALUE=URI:https://www.twitch.tv/ow_esports
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T123000Z
+UID:pandascore-match-1783573@esport-ics
+DTSTART:20261104T123000Z
+DTEND:20261104T144500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 3 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:CH vs TGG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T110000Z
+UID:pandascore-match-1783575@esport-ics
+DTSTART:20261105T110000Z
+DTEND:20261105T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 3 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:TGG vs BEN
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T110000Z
+UID:pandascore-match-1783578@esport-ics
+DTSTART:20261106T110000Z
+DTEND:20261106T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 3 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:JUN vs TGG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T110000Z
+UID:pandascore-match-1783581@esport-ics
+DTSTART:20261107T110000Z
+DTEND:20261107T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 3 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:TGG vs Stronghold
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T123000Z
+UID:pandascore-match-1783585@esport-ics
+DTSTART:20261108T123000Z
+DTEND:20261108T144500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 3 2026 - Group Stage\nWatch: https://www.tw
+ itch.tv/ow_esports_th
+SUMMARY:SJK vs TGG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
 END:VEVENT
 END:VCALENDAR
