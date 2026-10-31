@@ -982,6 +982,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #12 2026 - Playoffs\nWatch: https://kick.co
  m/cct_cs2
 SUMMARY:Quarterfinal 4: FOKUS vs BAKS
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T140000Z
+UID:pandascore-match-1746843@esport-ics
+DTSTART:20261101T140000Z
+DTEND:20261101T161500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #12 2026 - Playoffs\nWatch: https://kick.co
+ m/cct_cs2
+SUMMARY:Semifinal 2: FOKUS vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

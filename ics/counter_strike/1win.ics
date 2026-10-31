@@ -898,6 +898,17 @@ CLASS:PUBLIC
 DESCRIPTION:Moscow Cyber Games - 2026 - Playoffs\nWatch: https://www.twitch
  .tv/gluck_esports
 SUMMARY:Semifinal 2: 1WIN vs 5S
+URL:https://www.twitch.tv/gluck_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T130000Z
+UID:pandascore-match-1762500@esport-ics
+DTSTART:20261101T130000Z
+DTEND:20261101T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Moscow Cyber Games - 2026 - Playoffs\nWatch: https://www.twitch
+ .tv/gluck_esports
+SUMMARY:Grand Final: HOTU vs 1WIN
 URL;VALUE=URI:https://www.twitch.tv/gluck_esports
 END:VEVENT
 END:VCALENDAR

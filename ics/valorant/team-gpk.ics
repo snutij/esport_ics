@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:BETBOOM Streamers Battle - Season 1 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/betboom_esports2
 SUMMARY:Upper Bracket Final: Team GPK vs TBD
+URL:https://www.twitch.tv/betboom_esports2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T160000Z
+UID:pandascore-match-1782273@esport-ics
+DTSTART:20261101T160000Z
+DTEND:20261101T194500Z
+CLASS:PUBLIC
+DESCRIPTION:BETBOOM Streamers Battle - Season 1 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/betboom_esports2
+SUMMARY:Grand Final: Team GPK vs TBD
 URL;VALUE=URI:https://www.twitch.tv/betboom_esports2
 END:VEVENT
 END:VCALENDAR
