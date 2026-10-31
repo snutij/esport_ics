@@ -138,6 +138,17 @@ CLASS:PUBLIC
 DESCRIPTION:CyberClash - Season 2 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/epl_pro
 SUMMARY:Semifinal 1: NTR vs PRIV
+URL:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T160000Z
+UID:pandascore-match-1777680@esport-ics
+DTSTART:20261031T160000Z
+DTEND:20261031T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CyberClash - Season 2 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/epl_pro
+SUMMARY:Grand Final: OMG vs PRIV
 URL;VALUE=URI:https://www.twitch.tv/epl_pro
 END:VEVENT
 END:VCALENDAR

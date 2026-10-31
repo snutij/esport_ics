@@ -388,6 +388,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/valorant
 SUMMARY:Upper Bracket Final: M8.GC vs SRG
+URL:https://www.twitch.tv/valorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T180000Z
+UID:pandascore-match-1752428@esport-ics
+DTSTART:20261101T180000Z
+DTEND:20261101T214500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Game Changers Championship 2026 - Playoffs\nWatch: https:
+ //www.twitch.tv/valorant
+SUMMARY:Grand Final: M8.GC vs TBD
 URL;VALUE=URI:https://www.twitch.tv/valorant
 END:VEVENT
 END:VCALENDAR

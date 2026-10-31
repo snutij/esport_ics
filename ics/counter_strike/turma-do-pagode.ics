@@ -420,6 +420,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Masters - VII 2026 - Group A\nWatch: https://www.tw
  itch.tv/GamersClubCS
 SUMMARY:Winners match: DEN vs TdP
+URL:https://www.twitch.tv/GamersClubCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T163000Z
+UID:pandascore-match-1776328@esport-ics
+DTSTART:20261031T163000Z
+DTEND:20261031T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Masters - VII 2026 - Group A\nWatch: https://www.tw
+ itch.tv/GamersClubCS
+SUMMARY:Decider match: Low Cortisol vs TdP
 URL;VALUE=URI:https://www.twitch.tv/GamersClubCS
 END:VEVENT
 END:VCALENDAR

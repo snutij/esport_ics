@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/nexusmedia_en
 SUMMARY:Lower Bracket Quarterfinal 2: RBD vs Z10
+URL:https://www.twitch.tv/nexusmedia_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T180000Z
+UID:pandascore-match-1772363@esport-ics
+DTSTART:20261031T180000Z
+DTEND:20261031T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
+ tch.tv/nexusmedia_en
+SUMMARY:Lower Bracket Semifinal: SOLID vs RBD
 URL;VALUE=URI:https://www.twitch.tv/nexusmedia_en
 END:VEVENT
 END:VCALENDAR

@@ -182,6 +182,17 @@ CLASS:PUBLIC
 DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group D\nWatch: https://www.twi
  tch.tv/fireleaguetv
 SUMMARY:Elimination Match: Hacha Esports vs TBD
+URL:https://www.twitch.tv/fireleaguetv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261031T161500Z
+UID:pandascore-match-1776463@esport-ics
+DTSTART:20261031T161500Z
+DTEND:20261031T183000Z
+CLASS:PUBLIC
+DESCRIPTION:FiReSPORTS - Last Chance 2026 - Group D\nWatch: https://www.twi
+ tch.tv/fireleaguetv
+SUMMARY:Decider Match: Hacha Esports vs WC
 URL;VALUE=URI:https://www.twitch.tv/fireleaguetv
 END:VEVENT
 END:VCALENDAR
