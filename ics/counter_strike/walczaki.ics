@@ -1009,4 +1009,15 @@ DESCRIPTION:Exort Fiesta - Season 3 2026 - Group Stage\nWatch: https://kick
 SUMMARY:Round 4: WAL vs LILMIX
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T090000Z
+UID:pandascore-match-1784372@esport-ics
+DTSTART:20261102T090000Z
+DTEND:20261102T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-In Group B\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:WAL vs Azuolas
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

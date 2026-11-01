@@ -441,4 +441,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #13 2026 - Group D
 SUMMARY:Elimination Match: FOR vs ILLYR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T120000Z
+UID:pandascore-match-1784375@esport-ics
+DTSTART:20261105T120000Z
+DTEND:20261105T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-In Group C\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:FF vs ILLYR
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR
