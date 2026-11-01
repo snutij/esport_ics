@@ -180,4 +180,15 @@ DESCRIPTION:ESL Challenger League - North America Cup #2 season 52 2026 - P
  layoffs
 SUMMARY:Lower Bracket Round 2 match 3: VIL vs NT
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T210000Z
+UID:pandascore-match-1785610@esport-ics
+DTSTART:20261101T210000Z
+DTEND:20261102T004500Z
+CLASS:PUBLIC
+DESCRIPTION:NSTLGA League - Texas Open 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/nstlga_gg
+SUMMARY:Grand Final: LAG vs NT
+URL;VALUE=URI:https://www.twitch.tv/nstlga_gg
+END:VEVENT
 END:VCALENDAR
