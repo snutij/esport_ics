@@ -424,17 +424,6 @@ SUMMARY:TS vs HN
 URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261101T150000Z
-UID:pandascore-match-1772635@esport-ics
-DTSTART:20261101T150000Z
-DTEND:20261101T171500Z
-CLASS:PUBLIC
-DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
- www.twitch.tv/epc_en
-SUMMARY:HKR vs TS
-URL;VALUE=URI:https://www.twitch.tv/epc_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261101T210000Z
 UID:pandascore-match-1772365@esport-ics
 DTSTART:20261101T210000Z
@@ -454,6 +443,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
  www.twitch.tv/epc_en
 SUMMARY:XE vs TS
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T180000Z
+UID:pandascore-match-1772635@esport-ics
+DTSTART:20261103T180000Z
+DTEND:20261103T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs TS
 URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

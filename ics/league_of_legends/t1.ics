@@ -637,6 +637,16 @@ CLASS:PUBLIC
 DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: http://www.twitch.tv/riotga
  mes
 SUMMARY:Round 4: MKOI vs T1
+URL:http://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T220000Z
+UID:pandascore-match-1711016@esport-ics
+DTSTART:20261106T220000Z
+DTEND:20261107T014500Z
+CLASS:PUBLIC
+DESCRIPTION:Worlds - 2026 - Playoffs\nWatch: http://www.twitch.tv/riotgames
+SUMMARY:Quarterfinal 2: KC vs T1
 URL;VALUE=URI:http://www.twitch.tv/riotgames
 END:VEVENT
 END:VCALENDAR
