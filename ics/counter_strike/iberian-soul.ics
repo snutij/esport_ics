@@ -307,6 +307,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Retake - Season 13 2026 - Playoffs\nWatch: https://www
  .twitch.tv/rtparenacs
 SUMMARY:Semifinal 2: WBT.A vs IS
+URL:https://www.twitch.tv/rtparenacs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261101T160000Z
+UID:pandascore-match-1774417@esport-ics
+DTSTART:20261101T160000Z
+DTEND:20261101T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Circuito Retake - Season 13 2026 - Playoffs\nWatch: https://www
+ .twitch.tv/rtparenacs
+SUMMARY:3rd Place Match: JJH vs IS
 URL;VALUE=URI:https://www.twitch.tv/rtparenacs
 END:VEVENT
 END:VCALENDAR

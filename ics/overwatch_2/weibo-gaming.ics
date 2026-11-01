@@ -421,6 +421,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 3 2026 - Round Robin Stage\nWatch: https://ww
  w.huya.com/660128
 SUMMARY:WBG vs JDG
-URL;VALUE=URI:https://www.huya.com/660128
+URL:https://www.huya.com/660128
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T110000Z
+UID:pandascore-match-1784664@esport-ics
+DTSTART:20261107T110000Z
+DTEND:20261107T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 3 2026 - Regional Playoffs\nWatch: https://li
+ ve.bilibili.com/23612045
+SUMMARY:Upper Bracket Semifinal 2: AG vs WBG
+URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR

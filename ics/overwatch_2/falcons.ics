@@ -454,6 +454,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Korea Stage 3 2026 - Last Chance Qualifier\nWatch: https:
  //www.twitch.tv/ow_esports_jp
 SUMMARY:Upper Bracket Final: FAL vs SEI
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T150000Z
+UID:pandascore-match-1713134@esport-ics
+DTSTART:20261105T150000Z
+DTEND:20261105T180000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 3 2026 - Regional Playoffs\nWatch: https://ww
+ w.twitch.tv/ow_esports_jp
+SUMMARY:Quarterfinal 2: CB vs FAL
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

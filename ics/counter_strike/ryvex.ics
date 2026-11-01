@@ -227,7 +227,7 @@ CLASS:PUBLIC
 DESCRIPTION:EPIC.LAN - Season 49 2026 - Playoffs\nWatch: https://www.twitch
  .tv/epiclan1
 SUMMARY:Lower Bracket Final: Ryvex vs  ThePigs
-URL;VALUE=URI:https://www.twitch.tv/epiclan1
+URL:https://www.twitch.tv/epiclan1
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261101T113000Z
@@ -238,7 +238,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group B
  \nWatch: https://kick.com/eplcs_en
 SUMMARY:Decider Match: Ryvex vs MEGO
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261104T180000Z
