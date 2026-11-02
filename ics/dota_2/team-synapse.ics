@@ -432,18 +432,7 @@ CLASS:PUBLIC
 DESCRIPTION:NEXUS SERIES - Season 2 2026 - Playoffs\nWatch: https://www.twi
  tch.tv/nexusmedia_en
 SUMMARY:Grand Final: TS vs SOLID
-URL;VALUE=URI:https://www.twitch.tv/nexusmedia_en
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261102T090000Z
-UID:pandascore-match-1772636@esport-ics
-DTSTART:20261102T090000Z
-DTEND:20261102T111500Z
-CLASS:PUBLIC
-DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
- www.twitch.tv/epc_en
-SUMMARY:XE vs TS
-URL;VALUE=URI:https://www.twitch.tv/epc_en
+URL:https://www.twitch.tv/nexusmedia_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261103T180000Z
@@ -455,5 +444,82 @@ DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
  www.twitch.tv/epc_en
 SUMMARY:HKR vs TS
 URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T120000Z
+UID:pandascore-match-1772636@esport-ics
+DTSTART:20261104T120000Z
+DTEND:20261104T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group C\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:XE vs TS
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T190000Z
+UID:pandascore-match-1785757@esport-ics
+DTSTART:20261105T190000Z
+DTEND:20261105T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:TS vs ALL
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T160000Z
+UID:pandascore-match-1785762@esport-ics
+DTSTART:20261109T160000Z
+DTEND:20261109T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:TS vs CH
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T160000Z
+UID:pandascore-match-1785766@esport-ics
+DTSTART:20261111T160000Z
+DTEND:20261111T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:LYNX vs TS
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T100000Z
+UID:pandascore-match-1785768@esport-ics
+DTSTART:20261112T100000Z
+DTEND:20261112T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:P- vs TS
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T160000Z
+UID:pandascore-match-1785772@esport-ics
+DTSTART:20261113T160000Z
+DTEND:20261113T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:TS vs TTS
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T100000Z
+UID:pandascore-match-1785774@esport-ics
+DTSTART:20261115T100000Z
+DTEND:20261115T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:TS vs IAC
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Allied
+SLUG:team-allied
+BEGIN:VEVENT
+DTSTAMP:20261104T190000Z
+UID:pandascore-match-1785755@esport-ics
+DTSTART:20261104T190000Z
+DTEND:20261104T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:ALL vs LYNX
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T190000Z
+UID:pandascore-match-1785757@esport-ics
+DTSTART:20261105T190000Z
+DTEND:20261105T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:TS vs ALL
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T190000Z
+UID:pandascore-match-1785763@esport-ics
+DTSTART:20261109T190000Z
+DTEND:20261109T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:IAC vs ALL
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T100000Z
+UID:pandascore-match-1785764@esport-ics
+DTSTART:20261110T100000Z
+DTEND:20261110T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:TTS vs ALL
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T130000Z
+UID:pandascore-match-1785769@esport-ics
+DTSTART:20261112T130000Z
+DTEND:20261112T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:CH vs ALL
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T130000Z
+UID:pandascore-match-1785771@esport-ics
+DTSTART:20261113T130000Z
+DTEND:20261113T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:ALL vs P-
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+END:VCALENDAR

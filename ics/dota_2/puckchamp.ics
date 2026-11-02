@@ -429,6 +429,72 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Play-In season 3 2026 - Group A\nWatch: https://k
  ick.com/epldota_en2
 SUMMARY:PckCp vs ICxI
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T130000Z
+UID:pandascore-match-1785733@esport-ics
+DTSTART:20261103T130000Z
+DTEND:20261103T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:XE vs PckCp
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T100000Z
+UID:pandascore-match-1785735@esport-ics
+DTSTART:20261104T100000Z
+DTEND:20261104T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:PckCp vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T130000Z
+UID:pandascore-match-1785741@esport-ics
+DTSTART:20261106T130000Z
+DTEND:20261106T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:angry birds vs PckCp
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T130000Z
+UID:pandascore-match-1785744@esport-ics
+DTSTART:20261107T130000Z
+DTEND:20261107T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:PckCp vs Nemiga
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T100000Z
+UID:pandascore-match-1785750@esport-ics
+DTSTART:20261111T100000Z
+DTEND:20261111T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:PckCp vs TS.A
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T190000Z
+UID:pandascore-match-1785753@esport-ics
+DTSTART:20261113T190000Z
+DTEND:20261113T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:PckCp vs Z10
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 END:VCALENDAR
