@@ -516,6 +516,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #13 2026 - Group A\nWatch
  : https://kick.com/cct_cs
 SUMMARY:Elimination Match: maybe vs Morrow Esports
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T090000Z
+UID:pandascore-match-1766428@esport-ics
+DTSTART:20261102T090000Z
+DTEND:20261102T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Play-In
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Morrow Esports vs Invicta
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

@@ -721,6 +721,17 @@ DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Group B
 SUMMARY:Winners Match: Noir Verse vs MEGO
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261102T113000Z
+UID:pandascore-match-1766429@esport-ics
+DTSTART:20261102T113000Z
+DTEND:20261102T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Play-In
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Noir Verse vs ESB
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261102T150000Z
 UID:pandascore-match-1784371@esport-ics
 DTSTART:20261102T150000Z

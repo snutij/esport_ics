@@ -318,4 +318,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-In Group B\nWatch:
 SUMMARY:WAL vs Azuolas
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T180000Z
+UID:pandascore-match-1786458@esport-ics
+DTSTART:20261102T180000Z
+DTEND:20261102T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 5 match 3: JS vs Azuolas
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
 END:VCALENDAR
