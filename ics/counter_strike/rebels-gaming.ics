@@ -849,6 +849,17 @@ CLASS:PUBLIC
 DESCRIPTION:Roman Imperium Cup - Season 9 2026 - Play-In\nWatch: https://ki
  ck.com/roman
 SUMMARY:G2.A vs RBLS
-URL;VALUE=URI:https://kick.com/roman
+URL:https://kick.com/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T140000Z
+UID:pandascore-match-1787343@esport-ics
+DTSTART:20261103T140000Z
+DTEND:20261103T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #10 season 52 2026 - Group C
+ \nWatch: https://kick.com/ESLCS
+SUMMARY:RBLS vs maybe
+URL;VALUE=URI:https://kick.com/ESLCS
 END:VEVENT
 END:VCALENDAR

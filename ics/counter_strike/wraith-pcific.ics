@@ -736,6 +736,17 @@ CLASS:PUBLIC
 DESCRIPTION:CyberClash - Season 2 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/epl_pro
 SUMMARY:3rd Place Match: PCIFIC vs NTR
-URL;VALUE=URI:https://www.twitch.tv/epl_pro
+URL:https://www.twitch.tv/epl_pro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T140000Z
+UID:pandascore-match-1787344@esport-ics
+DTSTART:20261103T140000Z
+DTEND:20261103T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #10 season 52 2026 - Group C
+ \nWatch: https://kick.com/ESLCS
+SUMMARY:PCIFIC vs FAL.F
+URL;VALUE=URI:https://kick.com/ESLCS
 END:VEVENT
 END:VCALENDAR

@@ -171,6 +171,50 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Streamers Battle - Season 15 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/betboom_sb_dota
 SUMMARY:Grand Final: DXK vs TBD
-URL;VALUE=URI:https://www.twitch.tv/betboom_sb_dota
+URL:https://www.twitch.tv/betboom_sb_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T143000Z
+UID:pandascore-match-1786525@esport-ics
+DTSTART:20261103T143000Z
+DTEND:20261103T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Fonbet Media Eleague - Season 5 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/fonbet_media_eleague
+SUMMARY:Stray vs DXK
+URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T110000Z
+UID:pandascore-match-1786527@esport-ics
+DTSTART:20261104T110000Z
+DTEND:20261104T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Fonbet Media Eleague - Season 5 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/fonbet_media_eleague
+SUMMARY:LenS vs DXK
+URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T110000Z
+UID:pandascore-match-1786530@esport-ics
+DTSTART:20261105T110000Z
+DTEND:20261105T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Fonbet Media Eleague - Season 5 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/fonbet_media_eleague
+SUMMARY:rostikfacekid TEAM vs DXK
+URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T110000Z
+UID:pandascore-match-1786533@esport-ics
+DTSTART:20261106T110000Z
+DTEND:20261106T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Fonbet Media Eleague - Season 5 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/fonbet_media_eleague
+SUMMARY:DXK vs COM
+URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
 END:VEVENT
 END:VCALENDAR

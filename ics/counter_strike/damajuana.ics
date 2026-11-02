@@ -298,7 +298,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 7 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 5: Damajuana vs Hacha Esports
-URL;VALUE=URI:https://kick.com/cct_cs3
+URL:https://kick.com/cct_cs3
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261021T190000Z
@@ -309,6 +309,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 7 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 5: Damajuana vs Hacha Esports
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T130000Z
+UID:pandascore-match-1786698@esport-ics
+DTSTART:20261104T130000Z
+DTEND:20261104T151500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 8 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 1: MEIA NOITE vs Damajuana
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

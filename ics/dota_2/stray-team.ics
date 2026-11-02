@@ -281,6 +281,50 @@ CLASS:PUBLIC
 DESCRIPTION:1win Streamers League - #3 2026 - Playoffs\nWatch: https://www.
  twitch.tv/1win_sl_dota
 SUMMARY:Lower Bracket Quarterfinal 2: Stray vs SBT
-URL;VALUE=URI:https://www.twitch.tv/1win_sl_dota
+URL:https://www.twitch.tv/1win_sl_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T143000Z
+UID:pandascore-match-1786525@esport-ics
+DTSTART:20261103T143000Z
+DTEND:20261103T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Fonbet Media Eleague - Season 5 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/fonbet_media_eleague
+SUMMARY:Stray vs DXK
+URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T180000Z
+UID:pandascore-match-1786529@esport-ics
+DTSTART:20261104T180000Z
+DTEND:20261104T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Fonbet Media Eleague - Season 5 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/fonbet_media_eleague
+SUMMARY:COM vs Stray
+URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T180000Z
+UID:pandascore-match-1786532@esport-ics
+DTSTART:20261105T180000Z
+DTEND:20261105T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Fonbet Media Eleague - Season 5 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/fonbet_media_eleague
+SUMMARY:ILTW vs Stray
+URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T143000Z
+UID:pandascore-match-1786534@esport-ics
+DTSTART:20261106T143000Z
+DTEND:20261106T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Fonbet Media Eleague - Season 5 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/fonbet_media_eleague
+SUMMARY:rostikfacekid TEAM vs Stray
+URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:rostikfacekid TEAM
+SLUG:rostikfacekid-team
+BEGIN:VEVENT
+DTSTAMP:20261102T190000Z
+UID:pandascore-match-1786523@esport-ics
+DTSTART:20261102T190000Z
+DTEND:20261102T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Fonbet Media Eleague - Season 5 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/fonbet_media_eleague
+SUMMARY:rostikfacekid TEAM vs COM
+URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T110000Z
+UID:pandascore-match-1786524@esport-ics
+DTSTART:20261103T110000Z
+DTEND:20261103T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Fonbet Media Eleague - Season 5 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/fonbet_media_eleague
+SUMMARY:rostikfacekid TEAM vs LenS
+URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T143000Z
+UID:pandascore-match-1786528@esport-ics
+DTSTART:20261104T143000Z
+DTEND:20261104T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Fonbet Media Eleague - Season 5 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/fonbet_media_eleague
+SUMMARY:rostikfacekid TEAM vs ILTW
+URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T110000Z
+UID:pandascore-match-1786530@esport-ics
+DTSTART:20261105T110000Z
+DTEND:20261105T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Fonbet Media Eleague - Season 5 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/fonbet_media_eleague
+SUMMARY:rostikfacekid TEAM vs DXK
+URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T143000Z
+UID:pandascore-match-1786534@esport-ics
+DTSTART:20261106T143000Z
+DTEND:20261106T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Fonbet Media Eleague - Season 5 2026 - Group Stage\nWatch: http
+ s://www.twitch.tv/fonbet_media_eleague
+SUMMARY:rostikfacekid TEAM vs Stray
+URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
+END:VEVENT
+END:VCALENDAR

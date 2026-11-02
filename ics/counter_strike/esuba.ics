@@ -578,17 +578,6 @@ SUMMARY:Decider Match: VEX vs ESB
 URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261102T113000Z
-UID:pandascore-match-1766429@esport-ics
-DTSTART:20261102T113000Z
-DTEND:20261102T134500Z
-CLASS:PUBLIC
-DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Play-In
- \nWatch: https://kick.com/eplcs_en
-SUMMARY:Noir Verse vs ESB
-URL;VALUE=URI:https://kick.com/eplcs_en
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261102T180000Z
 UID:pandascore-match-1785821@esport-ics
 DTSTART:20261102T180000Z
@@ -596,6 +585,17 @@ DTEND:20261102T184500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:ESB vs LPH
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T143000Z
+UID:pandascore-match-1766429@esport-ics
+DTSTART:20261103T143000Z
+DTEND:20261103T164500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Play-In
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Noir Verse vs ESB
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261103T170000Z

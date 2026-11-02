@@ -1314,6 +1314,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-In Group A\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Leo vs SSins
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T090000Z
+UID:pandascore-match-1784388@esport-ics
+DTSTART:20261103T090000Z
+DTEND:20261103T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-In Group A\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Winners' Match: Leo vs TBD
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

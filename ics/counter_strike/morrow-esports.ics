@@ -527,6 +527,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Series 10 Closed Qualifier 2026 - Play-In
  \nWatch: https://kick.com/eplcs_en
 SUMMARY:Morrow Esports vs Invicta
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T140000Z
+UID:pandascore-match-1787329@esport-ics
+DTSTART:20261103T140000Z
+DTEND:20261103T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #10 season 52 2026 - Group A
+ \nWatch: https://kick.com/ESLCS
+SUMMARY:SKR vs Morrow Esports
+URL;VALUE=URI:https://kick.com/ESLCS
 END:VEVENT
 END:VCALENDAR
