@@ -388,6 +388,17 @@ CLASS:PUBLIC
 DESCRIPTION:King Pro League - Grand Finals 2026 - Playoffs\nWatch: https://
  live.bilibili.com/21144080
 SUMMARY:Upper Bracket Semifinal 2: WB vs EDG
+URL:https://live.bilibili.com/21144080
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T100000Z
+UID:pandascore-match-1766480@esport-ics
+DTSTART:20261105T100000Z
+DTEND:20261105T151500Z
+CLASS:PUBLIC
+DESCRIPTION:King Pro League - Grand Finals 2026 - Playoffs\nWatch: https://
+ live.bilibili.com/21144080
+SUMMARY:Lower Bracket Quarterfinal 2: EDG vs LGD
 URL;VALUE=URI:https://live.bilibili.com/21144080
 END:VEVENT
 END:VCALENDAR

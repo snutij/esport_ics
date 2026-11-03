@@ -747,6 +747,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #10 season 52 2026 - Group C
  \nWatch: https://kick.com/ESLCS
 SUMMARY:PCIFIC vs FAL.F
+URL:https://kick.com/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T180000Z
+UID:pandascore-match-1787345@esport-ics
+DTSTART:20261103T180000Z
+DTEND:20261103T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #10 season 52 2026 - Group C
+ \nWatch: https://kick.com/ESLCS
+SUMMARY:Winners' Match: PCIFIC vs RBLS
 URL;VALUE=URI:https://kick.com/ESLCS
 END:VEVENT
 END:VCALENDAR

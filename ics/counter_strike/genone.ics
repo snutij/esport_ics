@@ -1504,6 +1504,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 3 2026 - Playoffs\nWatch: https://www.kic
  k.com/fiesta_cs
 SUMMARY:Round of 16 match 2: G1 vs LILMIX
+URL:https://www.kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T180000Z
+UID:pandascore-match-1789134@esport-ics
+DTSTART:20261105T180000Z
+DTEND:20261105T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Playoffs\nWatch: https://www.kic
+ k.com/fiesta_cs
+SUMMARY:Quarterfinal 4: G1 vs TBD
 URL;VALUE=URI:https://www.kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

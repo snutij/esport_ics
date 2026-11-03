@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 57 2026 - Playoffs\nWatch: https://kick.com/u
  nited21_en
 SUMMARY:Lower bracket semifinal: CW vs GBC
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T113000Z
+UID:pandascore-match-1788771@esport-ics
+DTSTART:20261106T113000Z
+DTEND:20261106T134500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 58 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:CW vs PSN.A
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

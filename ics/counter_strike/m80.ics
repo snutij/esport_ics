@@ -775,6 +775,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Pro League - Season 24 2026 - Group Stage\nWatch: https://w
  ww.twitch.tv/ESLCS
 SUMMARY:Round 5: TS vs M80
-URL;VALUE=URI:https://www.twitch.tv/ESLCS
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261124T090000Z
+UID:pandascore-match-1789258@esport-ics
+DTSTART:20261124T090000Z
+DTEND:20261124T094500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Major - Singapore 2026 - Stage 1\nWatch: https://www.twitch
+ .tv/PGL
+SUMMARY:Round 1: NIP vs M80
+URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

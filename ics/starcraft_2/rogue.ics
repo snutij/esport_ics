@@ -599,4 +599,15 @@ DESCRIPTION:IntoTheTV x SOOP SC2 League - Premier 2026 - Playoffs\nWatch: h
 SUMMARY:Quarterfinal 1: herO vs Rogue
 URL;VALUE=URI:https://www.sooplive.com/station/zodiactv
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T140000Z
+UID:pandascore-match-1788786@esport-ics
+DTSTART:20261112T140000Z
+DTEND:20261112T174500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Not-Summer 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/wardiii
+SUMMARY:Lower bracket round 1 match 3: Rogue vs uThermal
+URL;VALUE=URI:https://www.twitch.tv/wardiii
+END:VEVENT
 END:VCALENDAR

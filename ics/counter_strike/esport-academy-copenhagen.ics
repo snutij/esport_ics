@@ -718,7 +718,7 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
  com/elisaesports
 SUMMARY:EAC vs BJNG
-URL;VALUE=URI:https://kick.com/elisaesports
+URL:https://kick.com/elisaesports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261015T180000Z
@@ -729,6 +729,17 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa BreakOut - Series #2 2026 - Group A\nWatch: https://kick.
  com/elisaesports
 SUMMARY:EAC vs ENCE
-URL;VALUE=URI:https://kick.com/elisaesports
+URL:https://kick.com/elisaesports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T090000Z
+UID:pandascore-match-1788759@esport-ics
+DTSTART:20261104T090000Z
+DTEND:20261104T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 58 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:EAC vs EYE
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

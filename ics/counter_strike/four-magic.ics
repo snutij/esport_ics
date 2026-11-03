@@ -155,6 +155,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #10 season 52 2026 - Group A
  \nWatch: https://kick.com/ESLCS
 SUMMARY:ACE vs 4M
+URL:https://kick.com/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T180000Z
+UID:pandascore-match-1787331@esport-ics
+DTSTART:20261103T180000Z
+DTEND:20261103T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #10 season 52 2026 - Group A
+ \nWatch: https://kick.com/ESLCS
+SUMMARY:Elimination match: SKR vs 4M
 URL;VALUE=URI:https://kick.com/ESLCS
 END:VEVENT
 BEGIN:VEVENT
