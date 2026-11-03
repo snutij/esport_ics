@@ -690,6 +690,17 @@ SUMMARY:SINQU vs PRE
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261104T180000Z
+UID:pandascore-match-1788078@esport-ics
+DTSTART:20261104T180000Z
+DTEND:20261104T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #14 2026 - Group B\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:PRE vs maybe
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261105T153000Z
 UID:pandascore-match-1777586@esport-ics
 DTSTART:20261105T153000Z

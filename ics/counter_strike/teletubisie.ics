@@ -454,6 +454,17 @@ CLASS:PUBLIC
 DESCRIPTION:Circuito Retake - Season 13 2026 - Group B\nWatch: https://www.
  twitch.tv/rtparenacs
 SUMMARY:BMB vs TTBS
-URL;VALUE=URI:https://www.twitch.tv/rtparenacs
+URL:https://www.twitch.tv/rtparenacs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T090000Z
+UID:pandascore-match-1788750@esport-ics
+DTSTART:20261103T090000Z
+DTEND:20261103T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 58 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:TTBS vs GBC
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR
