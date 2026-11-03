@@ -58,6 +58,16 @@ CLASS:PUBLIC
 DESCRIPTION:Majstrovstvá SR - 2026 - Playoffs\nWatch: https://www.twitch.t
  v/ygamessk
 SUMMARY:Third Place Match: DE.P vs VIT.A
-URL;VALUE=URI:https://www.twitch.tv/ygamessk
+URL:https://www.twitch.tv/ygamessk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T190000Z
+UID:pandascore-match-1790231@esport-ics
+DTSTART:20261104T190000Z
+DTEND:20261104T194500Z
+CLASS:PUBLIC
+DESCRIPTION:MČR - 2026 - Group B\nWatch: https://www.twitch.tv/playzoneup
+SUMMARY:DE.P vs ESB
+URL;VALUE=URI:https://www.twitch.tv/playzoneup
 END:VEVENT
 END:VCALENDAR

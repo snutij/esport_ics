@@ -355,7 +355,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 3 2026 - Playoffs\nWatch: https://www.kic
  k.com/fiesta_cs
 SUMMARY:Round of 16 match 4: 9INE vs REV
-URL;VALUE=URI:https://www.kick.com/fiesta_cs
+URL:https://www.kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261103T193000Z
@@ -365,5 +365,16 @@ DTEND:20261103T201500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:menszczysni vs REV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T120000Z
+UID:pandascore-match-1789132@esport-ics
+DTSTART:20261105T120000Z
+DTEND:20261105T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Playoffs\nWatch: https://www.kic
+ k.com/fiesta_cs
+SUMMARY:Quarterfinal 2: REV vs TBD
+URL;VALUE=URI:https://www.kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

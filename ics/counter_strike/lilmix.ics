@@ -1024,7 +1024,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 3 2026 - Playoffs\nWatch: https://www.kic
  k.com/fiesta_cs
 SUMMARY:Round of 16 match 2: G1 vs LILMIX
-URL;VALUE=URI:https://www.kick.com/fiesta_cs
+URL:https://www.kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261103T140000Z
@@ -1035,6 +1035,17 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #10 season 52 2026 - Group D
  \nWatch: https://kick.com/ESLCS
 SUMMARY:MELL vs LILMIX
+URL:https://kick.com/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T140000Z
+UID:pandascore-match-1787386@esport-ics
+DTSTART:20261104T140000Z
+DTEND:20261104T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #10 season 52 2026 - Group D
+ \nWatch: https://kick.com/ESLCS
+SUMMARY:Decider Match: LILMIX vs MELL
 URL;VALUE=URI:https://kick.com/ESLCS
 END:VEVENT
 END:VCALENDAR

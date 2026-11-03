@@ -1029,6 +1029,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-In Group B\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Elimination Match: WAL vs SINQU
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T120000Z
+UID:pandascore-match-1784393@esport-ics
+DTSTART:20261104T120000Z
+DTEND:20261104T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-In Group B\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Decider Match: WAL vs Azuolas
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

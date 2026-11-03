@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nice Try
+SLUG:nice-try
+BEGIN:VEVENT
+DTSTAMP:20261104T163000Z
+UID:pandascore-match-1790196@esport-ics
+DTSTART:20261104T163000Z
+DTEND:20261104T184500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group D\nWatch: http
+ s://www.twitch.tv/betboom_esports
+SUMMARY:Nice Try vs OMX
+URL;VALUE=URI:https://www.twitch.tv/betboom_esports
+END:VEVENT
+END:VCALENDAR
