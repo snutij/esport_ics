@@ -156,6 +156,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
  tch: https://www.youtube.com/watch?v=muQI7u59n6A
 SUMMARY:Round 2 Match 1: FORZE Esports vs TST
-URL;VALUE=URI:https://www.youtube.com/watch?v=muQI7u59n6A
+URL:https://www.youtube.com/watch?v=muQI7u59n6A
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T150000Z
+UID:pandascore-match-1787916@esport-ics
+DTSTART:20261103T150000Z
+DTEND:20261103T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group Stage\nWatch: 
+ https://www.twitch.tv/betboom_esports
+SUMMARY:TST vs CHEM
+URL;VALUE=URI:https://www.twitch.tv/betboom_esports
 END:VEVENT
 END:VCALENDAR

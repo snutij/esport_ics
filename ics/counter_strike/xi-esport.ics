@@ -1182,7 +1182,16 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:LLE vs XI
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T180000Z
+UID:pandascore-match-1788047@esport-ics
+DTSTART:20261103T180000Z
+DTEND:20261103T184500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:FRT vs XI
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T180000Z

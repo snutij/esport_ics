@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:MLBB Continental Championships - Season 8 2026 - Playoffs\nWatc
  h: https://www.twitch.tv/mlbb_cis
 SUMMARY:Lower Bracket Semifinal: YNDX vs Rakuzan
-URL;VALUE=URI:https://www.twitch.tv/mlbb_cis
+URL:https://www.twitch.tv/mlbb_cis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T120000Z
+UID:pandascore-match-1787914@esport-ics
+DTSTART:20261103T120000Z
+DTEND:20261103T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group Stage\nWatch: 
+ https://www.twitch.tv/betboom_esports
+SUMMARY:Rakuzan vs The World
+URL;VALUE=URI:https://www.twitch.tv/betboom_esports
 END:VEVENT
 END:VCALENDAR

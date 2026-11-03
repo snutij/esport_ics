@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Never maind
+SLUG:never-maind
+BEGIN:VEVENT
+DTSTAMP:20261103T163000Z
+UID:pandascore-match-1787917@esport-ics
+DTSTART:20261103T163000Z
+DTEND:20261103T184500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group Stage\nWatch: 
+ https://www.twitch.tv/betboom_esports
+SUMMARY:OMX vs NVM
+URL;VALUE=URI:https://www.twitch.tv/betboom_esports
+END:VEVENT
+END:VCALENDAR

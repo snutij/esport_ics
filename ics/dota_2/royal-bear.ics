@@ -133,6 +133,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Group Stage\
  nWatch: https://kick.com/epldota_en1
 SUMMARY:Zenith vs RB
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T040000Z
+UID:pandascore-match-1759509@esport-ics
+DTSTART:20261103T040000Z
+DTEND:20261103T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Upper Bracket Semifinal 1: RB vs Zenith
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

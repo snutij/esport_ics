@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Oblivion
+SLUG:team-oblivion
+BEGIN:VEVENT
+DTSTAMP:20261103T133000Z
+UID:pandascore-match-1787915@esport-ics
+DTSTART:20261103T133000Z
+DTEND:20261103T154500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group Stage\nWatch: 
+ https://www.twitch.tv/betboom_esports
+SUMMARY:Aurevia Team vs OBV
+URL;VALUE=URI:https://www.twitch.tv/betboom_esports
+END:VEVENT
+END:VCALENDAR

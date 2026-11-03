@@ -130,4 +130,15 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division
 SUMMARY:The World vs Aterion Esports
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T120000Z
+UID:pandascore-match-1787914@esport-ics
+DTSTART:20261103T120000Z
+DTEND:20261103T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group Stage\nWatch: 
+ https://www.twitch.tv/betboom_esports
+SUMMARY:Rakuzan vs The World
+URL;VALUE=URI:https://www.twitch.tv/betboom_esports
+END:VEVENT
 END:VCALENDAR
