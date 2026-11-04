@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ArtiXans
+SLUG:artixans
+BEGIN:VEVENT
+DTSTAMP:20261107T080000Z
+UID:pandascore-match-1790317@esport-ics
+DTSTART:20261107T080000Z
+DTEND:20261107T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Philippines 2027 - Playoffs\nWat
+ ch: https://www.twitch.tv/predatorgaming_ph
+SUMMARY:Semifinal 2: OAS vs ArtiXans
+URL;VALUE=URI:https://www.twitch.tv/predatorgaming_ph
+END:VEVENT
+END:VCALENDAR

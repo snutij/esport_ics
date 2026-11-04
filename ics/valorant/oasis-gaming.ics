@@ -146,6 +146,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Southeast Asia: Split 2 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/valorant_pacific
 SUMMARY:Lower bracket quarterfinal 2: 555 vs OAS
-URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T080000Z
+UID:pandascore-match-1790317@esport-ics
+DTSTART:20261107T080000Z
+DTEND:20261107T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Philippines 2027 - Playoffs\nWat
+ ch: https://www.twitch.tv/predatorgaming_ph
+SUMMARY:Semifinal 2: OAS vs ArtiXans
+URL;VALUE=URI:https://www.twitch.tv/predatorgaming_ph
 END:VEVENT
 END:VCALENDAR

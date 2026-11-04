@@ -168,6 +168,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Pacific: Last Chance Qualifier 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/valorant_pacific
 SUMMARY:Grand final: FCY vs 555
-URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T110000Z
+UID:pandascore-match-1790324@esport-ics
+DTSTART:20261105T110000Z
+DTEND:20261105T114500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Vietnam 2027 - Playoffs
+SUMMARY:Upper Bracket Quarterfinal 4: An Angel Anbandonned vs FCY
 END:VEVENT
 END:VCALENDAR

@@ -552,6 +552,17 @@ SUMMARY:Winners match: Morrow Esports vs ACE
 URL:https://kick.com/ESLCS
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261104T090000Z
+UID:pandascore-match-1789479@esport-ics
+DTSTART:20261104T090000Z
+DTEND:20261104T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 10 2026 - Group A\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Azuolas vs Morrow Esports
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261104T140000Z
 UID:pandascore-match-1787332@esport-ics
 DTSTART:20261104T140000Z

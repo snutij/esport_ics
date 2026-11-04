@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Maxxing
+SLUG:maxxing
+BEGIN:VEVENT
+DTSTAMP:20261107T060000Z
+UID:pandascore-match-1790316@esport-ics
+DTSTART:20261107T060000Z
+DTEND:20261107T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Philippines 2027 - Playoffs\nWat
+ ch: https://www.twitch.tv/predatorgaming_ph
+SUMMARY:Semifinal 1: MC3D Esports vs Maxxing
+URL;VALUE=URI:https://www.twitch.tv/predatorgaming_ph
+END:VEVENT
+END:VCALENDAR

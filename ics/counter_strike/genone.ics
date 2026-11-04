@@ -1507,6 +1507,17 @@ SUMMARY:Round of 16 match 2: G1 vs LILMIX
 URL:https://www.kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261105T090000Z
+UID:pandascore-match-1786799@esport-ics
+DTSTART:20261105T090000Z
+DTEND:20261105T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #13 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs
+SUMMARY:Round 1: G1 vs maybe
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261105T180000Z
 UID:pandascore-match-1789134@esport-ics
 DTSTART:20261105T180000Z

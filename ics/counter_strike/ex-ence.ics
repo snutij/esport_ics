@@ -36,6 +36,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-In Group B\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Winners' Match: Azuolas vs ex-ENCE
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T113000Z
+UID:pandascore-match-1789489@esport-ics
+DTSTART:20261105T113000Z
+DTEND:20261105T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 10 2026 - Group B\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:ex-ENCE vs Noir Verse
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR
