@@ -959,6 +959,17 @@ SUMMARY:PR vs Nemiga
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261109T160000Z
+UID:pandascore-match-1792498@esport-ics
+DTSTART:20261109T160000Z
+DTEND:20261109T181500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:PR vs cyxariki
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261110T100000Z
 UID:pandascore-match-1791687@esport-ics
 DTSTART:20261110T100000Z
@@ -968,5 +979,38 @@ DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:Froglings vs PR
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T160000Z
+UID:pandascore-match-1792499@esport-ics
+DTSTART:20261110T160000Z
+DTEND:20261110T181500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:Froglings vs PR
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T190000Z
+UID:pandascore-match-1792500@esport-ics
+DTSTART:20261110T190000Z
+DTEND:20261110T211500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:CH vs PR
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T160000Z
+UID:pandascore-match-1792502@esport-ics
+DTSTART:20261111T160000Z
+DTEND:20261111T181500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:PR vs AI
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

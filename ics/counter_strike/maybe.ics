@@ -586,7 +586,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #14 2026 - Group B\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:PRE vs maybe
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261105T090000Z
@@ -598,6 +598,17 @@ DESCRIPTION:CCT Europe - Series #13 2026 - Group Stage\nWatch: https://kick
  .com/cct_cs
 SUMMARY:Round 1: G1 vs maybe
 URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T180000Z
+UID:pandascore-match-1788080@esport-ics
+DTSTART:20261105T180000Z
+DTEND:20261105T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #14 2026 - Group B\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Winners match: KSM vs maybe
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261107T113000Z

@@ -91,6 +91,50 @@ CLASS:PUBLIC
 DESCRIPTION:PARI Universe - 2026 - Playoffs\nWatch: https://kick.com/fissur
  e_dota_en
 SUMMARY:Lower Bracket Round 1 Match 1: Liquid vs AI
-URL;VALUE=URI:https://kick.com/fissure_dota_en
+URL:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T160000Z
+UID:pandascore-match-1792494@esport-ics
+DTSTART:20261107T160000Z
+DTEND:20261107T181500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:Froglings vs AI
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T100000Z
+UID:pandascore-match-1792495@esport-ics
+DTSTART:20261108T100000Z
+DTEND:20261108T121500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:CH vs AI
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T130000Z
+UID:pandascore-match-1792497@esport-ics
+DTSTART:20261109T130000Z
+DTEND:20261109T151500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:AI vs cyxariki
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T160000Z
+UID:pandascore-match-1792502@esport-ics
+DTSTART:20261111T160000Z
+DTEND:20261111T181500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:PR vs AI
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

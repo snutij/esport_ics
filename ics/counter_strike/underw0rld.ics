@@ -142,13 +142,13 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - October 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/gamersclubcs
 SUMMARY:Quarterfinal 1: RED.A vs underw0rld
-URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+URL:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261104T220000Z
+DTSTAMP:20261104T221500Z
 UID:pandascore-match-1786701@esport-ics
-DTSTART:20261104T220000Z
-DTEND:20261105T001500Z
+DTSTART:20261104T221500Z
+DTEND:20261105T003000Z
 CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 8 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3

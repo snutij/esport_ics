@@ -24,6 +24,16 @@ DTEND:20261104T204500Z
 CLASS:PUBLIC
 DESCRIPTION:MČR - 2026 - Group B\nWatch: https://www.twitch.tv/playzoneup
 SUMMARY:BRUTE.SQ vs B.LINE
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T193000Z
+UID:pandascore-match-1790234@esport-ics
+DTSTART:20261105T193000Z
+DTEND:20261105T214500Z
+CLASS:PUBLIC
+DESCRIPTION:MČR - 2026 - Group B\nWatch: https://www.twitch.tv/playzoneup
+SUMMARY:Winners match: ESB vs BRUTE.SQ
 URL;VALUE=URI:https://www.twitch.tv/playzoneup
 END:VEVENT
 BEGIN:VEVENT

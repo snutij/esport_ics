@@ -15,4 +15,48 @@ DESCRIPTION:DreamLeague - Eastern Europe Open Qualifier 1 season 30 2026 -
  Playoffs
 SUMMARY:Semifinal 2: cyxariki vs Shadow Dance
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T130000Z
+UID:pandascore-match-1792493@esport-ics
+DTSTART:20261107T130000Z
+DTEND:20261107T151500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:CH vs cyxariki
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T190000Z
+UID:pandascore-match-1792496@esport-ics
+DTSTART:20261108T190000Z
+DTEND:20261108T211500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:Froglings vs cyxariki
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T130000Z
+UID:pandascore-match-1792497@esport-ics
+DTSTART:20261109T130000Z
+DTEND:20261109T151500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:AI vs cyxariki
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T160000Z
+UID:pandascore-match-1792498@esport-ics
+DTSTART:20261109T160000Z
+DTEND:20261109T181500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:PR vs cyxariki
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
 END:VCALENDAR

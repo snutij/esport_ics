@@ -125,6 +125,17 @@ CLASS:PUBLIC
 DESCRIPTION:EML Challenger Circuit - 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/rainbow6bravo
 SUMMARY:Lower Bracket Semifinal: GG vs PAN
+URL:https://www.twitch.tv/rainbow6bravo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T180000Z
+UID:pandascore-match-1781572@esport-ics
+DTSTART:20261105T180000Z
+DTEND:20261105T201500Z
+CLASS:PUBLIC
+DESCRIPTION:EML Challenger Circuit - 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/rainbow6bravo
+SUMMARY:Lower Bracket Final: PAN vs FOA
 URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
 END:VEVENT
 END:VCALENDAR

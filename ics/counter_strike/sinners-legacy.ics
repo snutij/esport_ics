@@ -13,6 +13,16 @@ DTEND:20261104T174500Z
 CLASS:PUBLIC
 DESCRIPTION:MČR - 2026 - Group A\nWatch: https://www.twitch.tv/playzoneup
 SUMMARY:SINNERS Legacy vs Monkeys
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T170000Z
+UID:pandascore-match-1790208@esport-ics
+DTSTART:20261106T170000Z
+DTEND:20261106T191500Z
+CLASS:PUBLIC
+DESCRIPTION:MČR - 2026 - Group A\nWatch: https://www.twitch.tv/playzoneup
+SUMMARY:Elimination match: SINNERS Legacy vs Thousand
 URL;VALUE=URI:https://www.twitch.tv/playzoneup
 END:VEVENT
 END:VCALENDAR

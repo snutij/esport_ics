@@ -201,6 +201,50 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 3 2026 - Playoffs\nWatch: https://kick.com
  /epldota_en2
 SUMMARY:Lower Bracket Round 1 match 1: LEGION vs OG
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T190000Z
+UID:pandascore-match-1792506@esport-ics
+DTSTART:20261107T190000Z
+DTEND:20261107T211500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:PlayTime vs LEGION
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T130000Z
+UID:pandascore-match-1792507@esport-ics
+DTSTART:20261108T130000Z
+DTEND:20261108T151500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:HULIGANI vs LEGION
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T190000Z
+UID:pandascore-match-1792510@esport-ics
+DTSTART:20261109T190000Z
+DTEND:20261109T211500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:XE vs LEGION
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T100000Z
+UID:pandascore-match-1792511@esport-ics
+DTSTART:20261110T100000Z
+DTEND:20261110T121500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:YeS vs LEGION
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

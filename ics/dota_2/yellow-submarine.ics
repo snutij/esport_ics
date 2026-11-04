@@ -986,7 +986,51 @@ DTEND:20261105T151500Z
 CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 3 2026 - Playoffs\nWatch: https://kick.com
  /epldota_en2
-SUMMARY:Lower Bracket Final: YeS vs TBD
+SUMMARY:Lower Bracket Final: YeS vs GL
 URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T100000Z
+UID:pandascore-match-1792505@esport-ics
+DTSTART:20261107T100000Z
+DTEND:20261107T121500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:HULIGANI vs YeS
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T160000Z
+UID:pandascore-match-1792508@esport-ics
+DTSTART:20261108T160000Z
+DTEND:20261108T181500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:PlayTime vs YeS
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T100000Z
+UID:pandascore-match-1792509@esport-ics
+DTSTART:20261109T100000Z
+DTEND:20261109T121500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:XE vs YeS
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T100000Z
+UID:pandascore-match-1792511@esport-ics
+DTSTART:20261110T100000Z
+DTEND:20261110T121500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:YeS vs LEGION
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

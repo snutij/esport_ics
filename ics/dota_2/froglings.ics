@@ -39,6 +39,17 @@ SUMMARY:Froglings vs Zenith
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261107T160000Z
+UID:pandascore-match-1792494@esport-ics
+DTSTART:20261107T160000Z
+DTEND:20261107T181500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:Froglings vs AI
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261108T130000Z
 UID:pandascore-match-1791680@esport-ics
 DTSTART:20261108T130000Z
@@ -48,6 +59,17 @@ DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:Froglings vs P-
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T190000Z
+UID:pandascore-match-1792496@esport-ics
+DTSTART:20261108T190000Z
+DTEND:20261108T211500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:Froglings vs cyxariki
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T100000Z
@@ -81,5 +103,27 @@ DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:Froglings vs PR
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T160000Z
+UID:pandascore-match-1792499@esport-ics
+DTSTART:20261110T160000Z
+DTEND:20261110T181500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:Froglings vs PR
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T130000Z
+UID:pandascore-match-1792501@esport-ics
+DTSTART:20261111T130000Z
+DTEND:20261111T151500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:Froglings vs CH
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

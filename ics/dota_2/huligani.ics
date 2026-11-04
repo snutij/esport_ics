@@ -292,6 +292,17 @@ SUMMARY:HULIGANI vs PckCp
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261107T100000Z
+UID:pandascore-match-1792505@esport-ics
+DTSTART:20261107T100000Z
+DTEND:20261107T121500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:HULIGANI vs YeS
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261107T160000Z
 UID:pandascore-match-1791738@esport-ics
 DTSTART:20261107T160000Z
@@ -301,6 +312,17 @@ DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:HULIGANI vs Z10
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T130000Z
+UID:pandascore-match-1792507@esport-ics
+DTSTART:20261108T130000Z
+DTEND:20261108T151500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:HULIGANI vs LEGION
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261108T190000Z
@@ -345,5 +367,27 @@ DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:HULIGANI vs Amaru Gaming
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T100000Z
+UID:pandascore-match-1792513@esport-ics
+DTSTART:20261111T100000Z
+DTEND:20261111T121500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:XE vs HULIGANI
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T190000Z
+UID:pandascore-match-1792514@esport-ics
+DTSTART:20261111T190000Z
+DTEND:20261111T211500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:PlayTime vs HULIGANI
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

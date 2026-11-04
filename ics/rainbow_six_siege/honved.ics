@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:EML Challenger Circuit - 2026 - Playoffs\nWatch: https://www.tw
  itch.tv/rainbow6bravo
 SUMMARY:Upper Bracket Final: LLH vs FOA
-URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
+URL:https://www.twitch.tv/rainbow6bravo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261126T220000Z
+UID:pandascore-match-1781573@esport-ics
+DTSTART:20261126T220000Z
+DTEND:20261127T001500Z
+CLASS:PUBLIC
+DESCRIPTION:EML Challenger Circuit - 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/rainbow6
+SUMMARY:Grand Final: LLH vs TBD
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
