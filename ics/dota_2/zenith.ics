@@ -164,6 +164,94 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Playoffs\nWa
  tch: https://www.youtube.com/watch?v=JuTKeHesJ_k
 SUMMARY:Lower Bracket Quarterfinal 1: Zenith vs CD
-URL;VALUE=URI:https://www.youtube.com/watch?v=JuTKeHesJ_k
+URL:https://www.youtube.com/watch?v=JuTKeHesJ_k
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T040000Z
+UID:pandascore-match-1759514@esport-ics
+DTSTART:20261105T040000Z
+DTEND:20261105T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Lower Bracket Semifinal: YG vs Zenith
+URL;VALUE=URI:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T100000Z
+UID:pandascore-match-1791665@esport-ics
+DTSTART:20261106T100000Z
+DTEND:20261106T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:P- vs Zenith
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T130000Z
+UID:pandascore-match-1791667@esport-ics
+DTSTART:20261106T130000Z
+DTEND:20261106T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PlayTime vs Zenith
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T100000Z
+UID:pandascore-match-1791670@esport-ics
+DTSTART:20261107T100000Z
+DTEND:20261107T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Froglings vs Zenith
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T130000Z
+UID:pandascore-match-1791673@esport-ics
+DTSTART:20261107T130000Z
+DTEND:20261107T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PR vs Zenith
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T100000Z
+UID:pandascore-match-1791676@esport-ics
+DTSTART:20261108T100000Z
+DTEND:20261108T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:XE vs Zenith
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T130000Z
+UID:pandascore-match-1791686@esport-ics
+DTSTART:20261109T130000Z
+DTEND:20261109T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Nemiga vs Zenith
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T100000Z
+UID:pandascore-match-1791690@esport-ics
+DTSTART:20261110T100000Z
+DTEND:20261110T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Zenith vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

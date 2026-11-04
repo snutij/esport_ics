@@ -451,7 +451,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:PckCp vs ICxI
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261106T130000Z
@@ -465,6 +465,17 @@ SUMMARY:angry birds vs PckCp
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261106T190000Z
+UID:pandascore-match-1791734@esport-ics
+DTSTART:20261106T190000Z
+DTEND:20261106T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:HULIGANI vs PckCp
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261107T130000Z
 UID:pandascore-match-1785744@esport-ics
 DTSTART:20261107T130000Z
@@ -474,6 +485,72 @@ DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:PckCp vs Nemiga
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T160000Z
+UID:pandascore-match-1791739@esport-ics
+DTSTART:20261107T160000Z
+DTEND:20261107T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:IAC vs PckCp
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T160000Z
+UID:pandascore-match-1791745@esport-ics
+DTSTART:20261108T160000Z
+DTEND:20261108T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PckCp vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T190000Z
+UID:pandascore-match-1791748@esport-ics
+DTSTART:20261108T190000Z
+DTEND:20261108T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:YB vs PckCp
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T160000Z
+UID:pandascore-match-1791750@esport-ics
+DTSTART:20261109T160000Z
+DTEND:20261109T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Amaru Gaming vs PckCp
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T190000Z
+UID:pandascore-match-1791754@esport-ics
+DTSTART:20261109T190000Z
+DTEND:20261109T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PckCp vs Z10
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T130000Z
+UID:pandascore-match-1791756@esport-ics
+DTSTART:20261110T130000Z
+DTEND:20261110T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:CH vs PckCp
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261111T100000Z

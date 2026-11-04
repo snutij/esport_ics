@@ -360,7 +360,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 10 2026 - Group A\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Azuolas vs Morrow Esports
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261104T120000Z
@@ -371,6 +371,28 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-In Group B\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Decider Match: WAL vs Azuolas
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T090000Z
+UID:pandascore-match-1789485@esport-ics
+DTSTART:20261108T090000Z
+DTEND:20261108T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 10 2026 - Group A\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Elimination match: 6yuBoJlbl vs Azuolas
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T090000Z
+UID:pandascore-match-1789487@esport-ics
+DTSTART:20261113T090000Z
+DTEND:20261113T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 10 2026 - Group A\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Decider match: Azuolas vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

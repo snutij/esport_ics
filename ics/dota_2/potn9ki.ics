@@ -93,6 +93,50 @@ SUMMARY:P- vs TTS
 URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261106T100000Z
+UID:pandascore-match-1791665@esport-ics
+DTSTART:20261106T100000Z
+DTEND:20261106T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:P- vs Zenith
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T130000Z
+UID:pandascore-match-1791668@esport-ics
+DTSTART:20261106T130000Z
+DTEND:20261106T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:P- vs PR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T100000Z
+UID:pandascore-match-1791671@esport-ics
+DTSTART:20261107T100000Z
+DTEND:20261107T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:P- vs Nemiga
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T130000Z
+UID:pandascore-match-1791674@esport-ics
+DTSTART:20261107T130000Z
+DTEND:20261107T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:P- vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261107T190000Z
 UID:pandascore-match-1785759@esport-ics
 DTSTART:20261107T190000Z
@@ -102,6 +146,17 @@ DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:P- vs CH
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T130000Z
+UID:pandascore-match-1791680@esport-ics
+DTSTART:20261108T130000Z
+DTEND:20261108T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Froglings vs P-
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261108T130000Z
@@ -115,6 +170,17 @@ SUMMARY:IAC vs P-
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261109T100000Z
+UID:pandascore-match-1791683@esport-ics
+DTSTART:20261109T100000Z
+DTEND:20261109T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PlayTime vs P-
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261109T130000Z
 UID:pandascore-match-1785761@esport-ics
 DTSTART:20261109T130000Z
@@ -124,6 +190,17 @@ DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:LYNX vs P-
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T100000Z
+UID:pandascore-match-1791689@esport-ics
+DTSTART:20261110T100000Z
+DTEND:20261110T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:XE vs P-
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261112T100000Z

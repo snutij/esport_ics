@@ -768,6 +768,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Semifinal match 1: SNG vs MZP
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T133000Z
+UID:pandascore-match-1791301@esport-ics
+DTSTART:20261117T133000Z
+DTEND:20261117T154500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 6 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper Bracket Quarterfinal 4: BIG vs SNG
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

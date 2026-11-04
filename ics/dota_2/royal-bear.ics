@@ -155,6 +155,17 @@ CLASS:PUBLIC
 DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Playoffs\nWa
  tch: https://kick.com/epldota_en1
 SUMMARY:Upper Bracket Final: RB vs DB
+URL:https://kick.com/epldota_en1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T040000Z
+UID:pandascore-match-1759515@esport-ics
+DTSTART:20261105T040000Z
+DTEND:20261105T061500Z
+CLASS:PUBLIC
+DESCRIPTION:EPL World Series - Southeast Asia season 19 2026 - Playoffs\nWa
+ tch: https://kick.com/epldota_en1
+SUMMARY:Lower Bracket Final: RB vs TBD
 URL;VALUE=URI:https://kick.com/epldota_en1
 END:VEVENT
 END:VCALENDAR

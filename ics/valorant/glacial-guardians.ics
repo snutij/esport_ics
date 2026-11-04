@@ -56,6 +56,50 @@ CLASS:PUBLIC
 DESCRIPTION:THE POKAL - 2026 - Playoffs\nWatch: https://www.twitch.tv/madku
  roo
 SUMMARY:Lower bracket quarterfinal 2: RZN vs GG
-URL;VALUE=URI:https://www.twitch.tv/madkuroo
+URL:https://www.twitch.tv/madkuroo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T170000Z
+UID:pandascore-match-1792377@esport-ics
+DTSTART:20261108T170000Z
+DTEND:20261108T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:Team International vs GG
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T170000Z
+UID:pandascore-match-1792382@esport-ics
+DTSTART:20261115T170000Z
+DTEND:20261115T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:CGN vs GG
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261122T170000Z
+UID:pandascore-match-1792385@esport-ics
+DTSTART:20261122T170000Z
+DTEND:20261122T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:BERG vs GG
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T170000Z
+UID:pandascore-match-1792388@esport-ics
+DTSTART:20261129T170000Z
+DTEND:20261129T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:Frankfurt Bahnhofsviertel vs GG
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
 END:VEVENT
 END:VCALENDAR

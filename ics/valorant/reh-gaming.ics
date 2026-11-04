@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:REH Gaming
+SLUG:reh-gaming
+BEGIN:VEVENT
+DTSTAMP:20261108T170000Z
+UID:pandascore-match-1792376@esport-ics
+DTSTART:20261108T170000Z
+DTEND:20261108T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:REH Gaming vs HK
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T180000Z
+UID:pandascore-match-1792392@esport-ics
+DTSTART:20261110T180000Z
+DTEND:20261110T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:REH Gaming vs FRG
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T170000Z
+UID:pandascore-match-1792383@esport-ics
+DTSTART:20261115T170000Z
+DTEND:20261115T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:REH Gaming vs Team International
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261122T170000Z
+UID:pandascore-match-1792387@esport-ics
+DTSTART:20261122T170000Z
+DTEND:20261122T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:CGN vs REH Gaming
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T170000Z
+UID:pandascore-match-1792390@esport-ics
+DTSTART:20261129T170000Z
+DTEND:20261129T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:BERG vs REH Gaming
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+END:VCALENDAR

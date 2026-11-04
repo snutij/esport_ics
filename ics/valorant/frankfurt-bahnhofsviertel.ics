@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Frankfurt Bahnhofsviertel
+SLUG:frankfurt-bahnhofsviertel
+BEGIN:VEVENT
+DTSTAMP:20261108T170000Z
+UID:pandascore-match-1792374@esport-ics
+DTSTART:20261108T170000Z
+DTEND:20261108T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:FRG vs Frankfurt Bahnhofsviertel
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T180000Z
+UID:pandascore-match-1792378@esport-ics
+DTSTART:20261110T180000Z
+DTEND:20261110T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:Frankfurt Bahnhofsviertel vs CGN
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T170000Z
+UID:pandascore-match-1792380@esport-ics
+DTSTART:20261115T170000Z
+DTEND:20261115T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:Frankfurt Bahnhofsviertel vs BERG
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261122T170000Z
+UID:pandascore-match-1792384@esport-ics
+DTSTART:20261122T170000Z
+DTEND:20261122T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:HK vs Frankfurt Bahnhofsviertel
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T170000Z
+UID:pandascore-match-1792388@esport-ics
+DTSTART:20261129T170000Z
+DTEND:20261129T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:Frankfurt Bahnhofsviertel vs GG
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+END:VCALENDAR

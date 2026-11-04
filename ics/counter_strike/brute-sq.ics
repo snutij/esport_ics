@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 58 2026 - Group B\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:BRUTE.SQ vs IC.P
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261104T200000Z
@@ -25,5 +25,16 @@ CLASS:PUBLIC
 DESCRIPTION:MČR - 2026 - Group B\nWatch: https://www.twitch.tv/playzoneup
 SUMMARY:BRUTE.SQ vs B.LINE
 URL;VALUE=URI:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T090000Z
+UID:pandascore-match-1788761@esport-ics
+DTSTART:20261108T090000Z
+DTEND:20261108T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 58 2026 - Group B\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Winners match: EAC vs BRUTE.SQ
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

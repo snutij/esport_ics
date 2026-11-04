@@ -890,6 +890,83 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 3 2026 - Group A\nWatch: https://kick.com/
  epldota_en2
 SUMMARY:PR vs ICxI
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T130000Z
+UID:pandascore-match-1791668@esport-ics
+DTSTART:20261106T130000Z
+DTEND:20261106T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:P- vs PR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T100000Z
+UID:pandascore-match-1791669@esport-ics
+DTSTART:20261107T100000Z
+DTEND:20261107T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:XE vs PR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T130000Z
+UID:pandascore-match-1791673@esport-ics
+DTSTART:20261107T130000Z
+DTEND:20261107T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PR vs Zenith
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T100000Z
+UID:pandascore-match-1791675@esport-ics
+DTSTART:20261108T100000Z
+DTEND:20261108T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PR vs PlayTime
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T130000Z
+UID:pandascore-match-1791679@esport-ics
+DTSTART:20261108T130000Z
+DTEND:20261108T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PR vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T100000Z
+UID:pandascore-match-1791681@esport-ics
+DTSTART:20261109T100000Z
+DTEND:20261109T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PR vs Nemiga
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T100000Z
+UID:pandascore-match-1791687@esport-ics
+DTSTART:20261110T100000Z
+DTEND:20261110T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Froglings vs PR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

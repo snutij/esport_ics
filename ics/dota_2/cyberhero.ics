@@ -201,7 +201,29 @@ CLASS:PUBLIC
 DESCRIPTION:EPL Masters - Season 3 2026 - Playoffs\nWatch: https://kick.com
  /epldota_en2
 SUMMARY:Lower Bracket Quarterfinals match 2: CH vs HULIGANI
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T160000Z
+UID:pandascore-match-1791732@esport-ics
+DTSTART:20261106T160000Z
+DTEND:20261106T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:CH vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T190000Z
+UID:pandascore-match-1791735@esport-ics
+DTSTART:20261106T190000Z
+DTEND:20261106T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:CH vs Z10
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261106T190000Z
@@ -216,6 +238,17 @@ URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261107T190000Z
+UID:pandascore-match-1791740@esport-ics
+DTSTART:20261107T190000Z
+DTEND:20261107T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:YB vs CH
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T190000Z
 UID:pandascore-match-1785759@esport-ics
 DTSTART:20261107T190000Z
 DTEND:20261107T211500Z
@@ -224,6 +257,28 @@ DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:P- vs CH
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T160000Z
+UID:pandascore-match-1791743@esport-ics
+DTSTART:20261108T160000Z
+DTEND:20261108T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Amaru Gaming vs CH
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T160000Z
+UID:pandascore-match-1791751@esport-ics
+DTSTART:20261109T160000Z
+DTEND:20261109T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:IAC vs CH
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T160000Z
@@ -235,6 +290,28 @@ DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:TS vs CH
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T190000Z
+UID:pandascore-match-1791752@esport-ics
+DTSTART:20261109T190000Z
+DTEND:20261109T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:HULIGANI vs CH
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T130000Z
+UID:pandascore-match-1791756@esport-ics
+DTSTART:20261110T130000Z
+DTEND:20261110T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:CH vs PckCp
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261110T160000Z

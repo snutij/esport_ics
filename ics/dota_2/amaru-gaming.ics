@@ -297,6 +297,83 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - South America Closed Qualifier season 30 2026 - P
  layoffs\nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Grand final: Amaru Gaming vs TBD
-URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
+URL:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T190000Z
+UID:pandascore-match-1791736@esport-ics
+DTSTART:20261106T190000Z
+DTEND:20261106T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:IAC vs Amaru Gaming
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T160000Z
+UID:pandascore-match-1791737@esport-ics
+DTSTART:20261107T160000Z
+DTEND:20261107T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:YB vs Amaru Gaming
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T190000Z
+UID:pandascore-match-1791741@esport-ics
+DTSTART:20261107T190000Z
+DTEND:20261107T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Amaru Gaming vs Z10
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T160000Z
+UID:pandascore-match-1791743@esport-ics
+DTSTART:20261108T160000Z
+DTEND:20261108T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Amaru Gaming vs CH
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T190000Z
+UID:pandascore-match-1791746@esport-ics
+DTSTART:20261108T190000Z
+DTEND:20261108T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Amaru Gaming vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T160000Z
+UID:pandascore-match-1791750@esport-ics
+DTSTART:20261109T160000Z
+DTEND:20261109T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Amaru Gaming vs PckCp
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T130000Z
+UID:pandascore-match-1791755@esport-ics
+DTSTART:20261110T130000Z
+DTEND:20261110T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:HULIGANI vs Amaru Gaming
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

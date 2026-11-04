@@ -769,7 +769,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 10 2026 - Group A\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:6yuBoJlbl vs PCIFIC
-URL;VALUE=URI:https://kick.com/eplcs_en
+URL:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261104T140000Z
@@ -780,7 +780,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #10 season 52 2026 - Group C
  \nWatch: https://kick.com/ESLCS
 SUMMARY:Decider Match: PCIFIC vs maybe
-URL;VALUE=URI:https://kick.com/ESLCS
+URL:https://kick.com/ESLCS
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261108T113000Z
@@ -790,7 +790,7 @@ DTEND:20261108T134500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 10 2026 - Group A\nWatch: https://
  kick.com/eplcs_en
-SUMMARY:Winners match: PCIFIC vs TBD
+SUMMARY:Winners match: PCIFIC vs Morrow Esports
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

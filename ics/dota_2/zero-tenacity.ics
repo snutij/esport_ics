@@ -1090,7 +1090,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:Z10 vs angry birds
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261105T160000Z
@@ -1105,6 +1105,17 @@ URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261106T160000Z
+UID:pandascore-match-1791733@esport-ics
+DTSTART:20261106T160000Z
+DTEND:20261106T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:IAC vs Z10
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T160000Z
 UID:pandascore-match-1785742@esport-ics
 DTSTART:20261106T160000Z
 DTEND:20261106T181500Z
@@ -1113,6 +1124,39 @@ DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:TS.A vs Z10
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T190000Z
+UID:pandascore-match-1791735@esport-ics
+DTSTART:20261106T190000Z
+DTEND:20261106T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:CH vs Z10
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T160000Z
+UID:pandascore-match-1791738@esport-ics
+DTSTART:20261107T160000Z
+DTEND:20261107T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:HULIGANI vs Z10
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T190000Z
+UID:pandascore-match-1791741@esport-ics
+DTSTART:20261107T190000Z
+DTEND:20261107T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Amaru Gaming vs Z10
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261108T100000Z
@@ -1124,6 +1168,39 @@ DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:ICxI vs Z10
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T160000Z
+UID:pandascore-match-1791744@esport-ics
+DTSTART:20261108T160000Z
+DTEND:20261108T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:YB vs Z10
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T190000Z
+UID:pandascore-match-1791754@esport-ics
+DTSTART:20261109T190000Z
+DTEND:20261109T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PckCp vs Z10
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T130000Z
+UID:pandascore-match-1791757@esport-ics
+DTSTART:20261110T130000Z
+DTEND:20261110T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Z10 vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261110T130000Z

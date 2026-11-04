@@ -774,6 +774,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 5 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Lower bracket quarterfinal 1: ICE vs AST
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T110000Z
+UID:pandascore-match-1791300@esport-ics
+DTSTART:20261117T110000Z
+DTEND:20261117T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 6 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper Bracket Quarterfinal 3: ICE vs BCA
 URL;VALUE=URI:https://kick.com/starladder
 END:VEVENT
 END:VCALENDAR

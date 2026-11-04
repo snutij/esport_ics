@@ -36,4 +36,59 @@ CLASS:PUBLIC
 DESCRIPTION:THE POKAL - 2026 - Playoffs
 SUMMARY:Lower bracket round 2 match 3: GG vs SGE Vision
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T170000Z
+UID:pandascore-match-1792322@esport-ics
+DTSTART:20261104T170000Z
+DTEND:20261104T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group B\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:SGE Vision vs TwoFace Gaming
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T170000Z
+UID:pandascore-match-1792348@esport-ics
+DTSTART:20261108T170000Z
+DTEND:20261108T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group B\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:SGE Vision vs Backed by Nobody
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T170000Z
+UID:pandascore-match-1792349@esport-ics
+DTSTART:20261114T170000Z
+DTEND:20261114T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group B\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:Enisorail vs SGE Vision
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261122T170000Z
+UID:pandascore-match-1792355@esport-ics
+DTSTART:20261122T170000Z
+DTEND:20261122T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group B\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:Brest Esport vs SGE Vision
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T170000Z
+UID:pandascore-match-1792357@esport-ics
+DTSTART:20261129T170000Z
+DTEND:20261129T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group B\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:GSH vs SGE Vision
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
 END:VCALENDAR

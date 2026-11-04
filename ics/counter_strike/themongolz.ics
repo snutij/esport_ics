@@ -670,6 +670,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing 2026 - Group A\nWatch: https://www.twitch.tv/ESLC
  Sb
 SUMMARY:Upper Bracket Final: MGLZ vs FURIA
-URL;VALUE=URI:https://www.twitch.tv/ESLCSb
+URL:https://www.twitch.tv/ESLCSb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T063000Z
+UID:pandascore-match-1781484@esport-ics
+DTSTART:20261107T063000Z
+DTEND:20261107T084500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing 2026 - Playoffs\nWatch: https://www.twitch.tv/ESL
+ CS
+SUMMARY:Semifinal 1: TBD vs MGLZ
+URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 END:VCALENDAR

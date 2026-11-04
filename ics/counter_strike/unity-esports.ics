@@ -1518,4 +1518,15 @@ DESCRIPTION:MČR - 2026 - Group A\nWatch: https://www.twitch.tv/playzoneup
 SUMMARY:UNiTY vs Thousand
 URL;VALUE=URI:https://www.twitch.tv/playzoneup
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T160000Z
+UID:pandascore-match-1791303@esport-ics
+DTSTART:20261117T160000Z
+DTEND:20261117T181500Z
+CLASS:PUBLIC
+DESCRIPTION:Stake Ranked - Episode 6 2026 - Playoffs\nWatch: https://kick.c
+ om/starladder
+SUMMARY:Upper Bracket Quarterfinal 1: NIP vs UNiTY
+URL;VALUE=URI:https://kick.com/starladder
+END:VEVENT
 END:VCALENDAR

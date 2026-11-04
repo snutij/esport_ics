@@ -69,6 +69,61 @@ CLASS:PUBLIC
 DESCRIPTION:THE POKAL - 2026 - Playoffs\nWatch: https://www.twitch.tv/valor
  antleague_dach
 SUMMARY:Lower bracket quarterfinal 1: GZE vs HK
-URL;VALUE=URI:https://www.twitch.tv/valorantleague_dach
+URL:https://www.twitch.tv/valorantleague_dach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T180000Z
+UID:pandascore-match-1792327@esport-ics
+DTSTART:20261104T180000Z
+DTEND:20261104T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:HK vs BERG
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T170000Z
+UID:pandascore-match-1792376@esport-ics
+DTSTART:20261108T170000Z
+DTEND:20261108T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:REH Gaming vs HK
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T170000Z
+UID:pandascore-match-1792381@esport-ics
+DTSTART:20261115T170000Z
+DTEND:20261115T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:FRG vs HK
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261122T170000Z
+UID:pandascore-match-1792384@esport-ics
+DTSTART:20261122T170000Z
+DTEND:20261122T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:HK vs Frankfurt Bahnhofsviertel
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T170000Z
+UID:pandascore-match-1792389@esport-ics
+DTSTART:20261129T170000Z
+DTEND:20261129T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group A\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:HK vs Team International
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
 END:VEVENT
 END:VCALENDAR

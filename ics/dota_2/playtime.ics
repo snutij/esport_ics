@@ -501,6 +501,83 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - South America Closed Qualifier season 30 2026 - P
  layoffs\nWatch: https://www.youtube.com/ESLDota2/live
 SUMMARY:Lower bracket final: PlayTime vs Skyreavers
-URL;VALUE=URI:https://www.youtube.com/ESLDota2/live
+URL:https://www.youtube.com/ESLDota2/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T100000Z
+UID:pandascore-match-1791664@esport-ics
+DTSTART:20261106T100000Z
+DTEND:20261106T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PlayTime vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T130000Z
+UID:pandascore-match-1791667@esport-ics
+DTSTART:20261106T130000Z
+DTEND:20261106T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PlayTime vs Zenith
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T130000Z
+UID:pandascore-match-1791672@esport-ics
+DTSTART:20261107T130000Z
+DTEND:20261107T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:XE vs PlayTime
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T100000Z
+UID:pandascore-match-1791675@esport-ics
+DTSTART:20261108T100000Z
+DTEND:20261108T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PR vs PlayTime
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T100000Z
+UID:pandascore-match-1791683@esport-ics
+DTSTART:20261109T100000Z
+DTEND:20261109T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PlayTime vs P-
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T130000Z
+UID:pandascore-match-1791684@esport-ics
+DTSTART:20261109T130000Z
+DTEND:20261109T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Froglings vs PlayTime
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T100000Z
+UID:pandascore-match-1791688@esport-ics
+DTSTART:20261110T100000Z
+DTEND:20261110T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PlayTime vs Nemiga
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 END:VCALENDAR

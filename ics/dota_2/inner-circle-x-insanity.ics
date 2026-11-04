@@ -452,7 +452,18 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:PckCp vs ICxI
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+URL:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T160000Z
+UID:pandascore-match-1791732@esport-ics
+DTSTART:20261106T160000Z
+DTEND:20261106T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:CH vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261107T100000Z
@@ -466,6 +477,17 @@ SUMMARY:ICxI vs TS.A
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261107T190000Z
+UID:pandascore-match-1791742@esport-ics
+DTSTART:20261107T190000Z
+DTEND:20261107T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:IAC vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261108T100000Z
 UID:pandascore-match-1785746@esport-ics
 DTSTART:20261108T100000Z
@@ -477,6 +499,28 @@ SUMMARY:ICxI vs Z10
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261108T160000Z
+UID:pandascore-match-1791745@esport-ics
+DTSTART:20261108T160000Z
+DTEND:20261108T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:PckCp vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T190000Z
+UID:pandascore-match-1791746@esport-ics
+DTSTART:20261108T190000Z
+DTEND:20261108T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Amaru Gaming vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261109T100000Z
 UID:pandascore-match-1785748@esport-ics
 DTSTART:20261109T100000Z
@@ -486,6 +530,39 @@ DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:Nemiga vs ICxI
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T160000Z
+UID:pandascore-match-1791749@esport-ics
+DTSTART:20261109T160000Z
+DTEND:20261109T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:HULIGANI vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T190000Z
+UID:pandascore-match-1791753@esport-ics
+DTSTART:20261109T190000Z
+DTEND:20261109T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:YB vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T130000Z
+UID:pandascore-match-1791757@esport-ics
+DTSTART:20261110T130000Z
+DTEND:20261110T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:Z10 vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261111T130000Z
