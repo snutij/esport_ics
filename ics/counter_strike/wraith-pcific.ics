@@ -782,4 +782,15 @@ DESCRIPTION:ESL Challenger League - Europe Cup #10 season 52 2026 - Group C
 SUMMARY:Decider Match: PCIFIC vs maybe
 URL;VALUE=URI:https://kick.com/ESLCS
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T113000Z
+UID:pandascore-match-1789486@esport-ics
+DTSTART:20261108T113000Z
+DTEND:20261108T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 10 2026 - Group A\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Winners match: PCIFIC vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

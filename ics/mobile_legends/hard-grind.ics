@@ -158,6 +158,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
  tch: https://www.youtube.com/watch?v=muQI7u59n6A
 SUMMARY:Round 2 Match 2: CH vs HARD GRIND
-URL;VALUE=URI:https://www.youtube.com/watch?v=muQI7u59n6A
+URL:https://www.youtube.com/watch?v=muQI7u59n6A
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T163000Z
+UID:pandascore-match-1791019@esport-ics
+DTSTART:20261105T163000Z
+DTEND:20261105T184500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group D\nWatch: http
+ s://www.twitch.tv/betboom_esports
+SUMMARY:HARD GRIND vs NVM
+URL;VALUE=URI:https://www.twitch.tv/betboom_esports
 END:VEVENT
 END:VCALENDAR

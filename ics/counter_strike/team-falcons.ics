@@ -600,6 +600,17 @@ CLASS:PUBLIC
 DESCRIPTION:IEM - Beijing 2026 - Group A\nWatch: https://www.twitch.tv/ESLC
  S
 SUMMARY:Lower Bracket Semifinal 2: HERO vs FAL
+URL:https://www.twitch.tv/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T093000Z
+UID:pandascore-match-1781468@esport-ics
+DTSTART:20261104T093000Z
+DTEND:20261104T114500Z
+CLASS:PUBLIC
+DESCRIPTION:IEM - Beijing 2026 - Group A\nWatch: https://www.twitch.tv/ESLC
+ S
+SUMMARY:Lower Bracket Final: NAVI vs FAL
 URL;VALUE=URI:https://www.twitch.tv/ESLCS
 END:VEVENT
 BEGIN:VEVENT

@@ -127,7 +127,7 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - Close Qualifiers\nWa
  tch: https://www.youtube.com/watch?v=kKf3BgqrZvk
 SUMMARY:Round 1 match 2: HARD GRIND vs Dark Phoenix
-URL;VALUE=URI:https://www.youtube.com/watch?v=kKf3BgqrZvk
+URL:https://www.youtube.com/watch?v=kKf3BgqrZvk
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260615T163000Z
@@ -137,5 +137,16 @@ DTEND:20260615T184500Z
 CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 10 2026 - 2nd Division
 SUMMARY:HARD GRIND vs Dark Phoenix
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T133000Z
+UID:pandascore-match-1791017@esport-ics
+DTSTART:20261105T133000Z
+DTEND:20261105T154500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group B\nWatch: http
+ s://www.twitch.tv/betboom_esports
+SUMMARY:Dark Phoenix vs OBV
+URL;VALUE=URI:https://www.twitch.tv/betboom_esports
 END:VEVENT
 END:VCALENDAR

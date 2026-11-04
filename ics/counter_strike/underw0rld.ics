@@ -134,6 +134,17 @@ SUMMARY:Elimination Match: gotei 5 vs underw0rld
 URL:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261104T183000Z
+UID:pandascore-match-1758411@esport-ics
+DTSTART:20261104T183000Z
+DTEND:20261104T204500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - October 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/gamersclubcs
+SUMMARY:Quarterfinal 1: RED.A vs underw0rld
+URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261104T220000Z
 UID:pandascore-match-1786701@esport-ics
 DTSTART:20261104T220000Z
