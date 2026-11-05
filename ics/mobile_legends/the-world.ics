@@ -150,6 +150,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group A\nWatch: http
  s://www.twitch.tv/betboom_esports
 SUMMARY:AF vs The World
+URL:https://www.twitch.tv/betboom_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T120000Z
+UID:pandascore-match-1794489@esport-ics
+DTSTART:20261106T120000Z
+DTEND:20261106T141500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group A\nWatch: http
+ s://www.twitch.tv/betboom_esports
+SUMMARY:YNDX vs The World
 URL;VALUE=URI:https://www.twitch.tv/betboom_esports
 END:VEVENT
 END:VCALENDAR

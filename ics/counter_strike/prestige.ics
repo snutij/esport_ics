@@ -709,7 +709,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #14 2026 - Group B\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:Elimination match: Noir Verse vs PRE
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261105T153000Z
@@ -720,7 +720,18 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/elisaviihdesport
 SUMMARY:PRE vs KSM
-URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+URL:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T120000Z
+UID:pandascore-match-1788081@esport-ics
+DTSTART:20261108T120000Z
+DTEND:20261108T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #14 2026 - Group B\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Decider match: PRE vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261110T153000Z

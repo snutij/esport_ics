@@ -23,6 +23,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Vietnam 2027 - Playoffs\nWatch: 
  https://www.youtube.com/watch?v=H8utyZiqwCE
 SUMMARY:Upper Bracket Semifinal 2: Original Gaming vs TBD
-URL;VALUE=URI:https://www.youtube.com/watch?v=H8utyZiqwCE
+URL:https://www.youtube.com/watch?v=H8utyZiqwCE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T060000Z
+UID:pandascore-match-1790330@esport-ics
+DTSTART:20261107T060000Z
+DTEND:20261107T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Vietnam 2027 - Playoffs
+SUMMARY:Lower Bracket Quarterfinal 1: Original Gaming vs TBD
 END:VEVENT
 END:VCALENDAR

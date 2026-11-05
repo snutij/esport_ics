@@ -47,6 +47,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Japan: Split 1 2026 - Phase 2\nWatch: https://www.twitch.
  tv/valorant_jpn
 SUMMARY:Lower bracket round 1 match 2: WEC C vs RDL
-URL;VALUE=URI:https://www.twitch.tv/valorant_jpn
+URL:https://www.twitch.tv/valorant_jpn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T053000Z
+UID:pandascore-match-1794443@esport-ics
+DTSTART:20261107T053000Z
+DTEND:20261107T074500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Japan 2027 - Playoffs
+SUMMARY:Round 1 match 3: ECS e-Sports vs WEC C
 END:VEVENT
 END:VCALENDAR

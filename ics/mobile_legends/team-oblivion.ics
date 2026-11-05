@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group B\nWatch: http
  s://www.twitch.tv/betboom_esports
 SUMMARY:Dark Phoenix vs OBV
+URL:https://www.twitch.tv/betboom_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T133000Z
+UID:pandascore-match-1794490@esport-ics
+DTSTART:20261106T133000Z
+DTEND:20261106T154500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group B\nWatch: http
+ s://www.twitch.tv/betboom_esports
+SUMMARY:FUT vs OBV
 URL;VALUE=URI:https://www.twitch.tv/betboom_esports
 END:VEVENT
 END:VCALENDAR
