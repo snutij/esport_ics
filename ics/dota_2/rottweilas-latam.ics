@@ -87,8 +87,10 @@ UID:pandascore-match-1793142@esport-ics
 DTSTART:20261107T150000Z
 DTEND:20261107T171500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Decider
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Decider\nWatch: https://
+ www.twitch.tv/epc_en
 SUMMARY:HKR vs RL
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261108T180000Z
@@ -96,8 +98,10 @@ UID:pandascore-match-1793145@esport-ics
 DTSTART:20261108T180000Z
 DTEND:20261108T201500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Decider
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Decider\nWatch: https://
+ www.twitch.tv/epc_en
 SUMMARY:XE vs RL
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T150000Z
@@ -105,8 +109,10 @@ UID:pandascore-match-1793146@esport-ics
 DTSTART:20261109T150000Z
 DTEND:20261109T171500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Decider
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Decider\nWatch: https://
+ www.twitch.tv/epc_en
 SUMMARY:RL vs  oveA
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261110T180000Z
@@ -114,8 +120,10 @@ UID:pandascore-match-1793150@esport-ics
 DTSTART:20261110T180000Z
 DTEND:20261110T201500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Decider
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Decider\nWatch: https://
+ www.twitch.tv/epc_en
 SUMMARY:RL vs Mena Warriors
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261111T150000Z
@@ -123,7 +131,9 @@ UID:pandascore-match-1793151@esport-ics
 DTSTART:20261111T150000Z
 DTEND:20261111T171500Z
 CLASS:PUBLIC
-DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Decider
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Decider\nWatch: https://
+ www.twitch.tv/epc_en
 SUMMARY:Level Up Academy vs RL
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

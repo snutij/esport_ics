@@ -14,4 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Vietnam 2027 - Playoffs
 SUMMARY:Upper Bracket Quarterfinal 1: God Chosen vs Ferix
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T123000Z
+UID:pandascore-match-1790325@esport-ics
+DTSTART:20261105T123000Z
+DTEND:20261105T131500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Vietnam 2027 - Playoffs\nWatch: 
+ https://www.youtube.com/watch?v=H8utyZiqwCE
+SUMMARY:Upper Bracket Semifinal 1: Ferix vs Saigon Phantom
+URL;VALUE=URI:https://www.youtube.com/watch?v=H8utyZiqwCE
+END:VEVENT
 END:VCALENDAR

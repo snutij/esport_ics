@@ -1065,7 +1065,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 58 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:NAVI.J vs STA
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261106T090000Z
@@ -1077,5 +1077,16 @@ DESCRIPTION:European Pro League - Season 10 2026 - Group C\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:FORZE.R vs NAVI.J
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T113000Z
+UID:pandascore-match-1788768@esport-ics
+DTSTART:20261109T113000Z
+DTEND:20261109T134500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 58 2026 - Group C\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Elimination match: NAVI.J vs TBD
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

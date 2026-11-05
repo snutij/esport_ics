@@ -1051,6 +1051,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 10 2026 - Group B\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:WAL vs HS
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T090000Z
+UID:pandascore-match-1789490@esport-ics
+DTSTART:20261109T090000Z
+DTEND:20261109T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 10 2026 - Group B\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Elimination match: WAL vs Noir Verse
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

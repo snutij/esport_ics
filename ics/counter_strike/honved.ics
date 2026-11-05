@@ -1085,13 +1085,13 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-In Group C\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:BAKS vs Honvéd
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261105T150000Z
+DTSTAMP:20261105T120000Z
 UID:pandascore-match-1789133@esport-ics
-DTSTART:20261105T150000Z
-DTEND:20261105T171500Z
+DTSTART:20261105T120000Z
+DTEND:20261105T141500Z
 CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 3 2026 - Playoffs\nWatch: https://www.kic
  k.com/fiesta_cs
@@ -1108,5 +1108,16 @@ DESCRIPTION:CCT Europe - Closed Qualifier: Series #14 2026 - Group A\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:Winners match: ILLYR vs Honvéd
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T120000Z
+UID:pandascore-match-1784395@esport-ics
+DTSTART:20261106T120000Z
+DTEND:20261106T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-In Group C\nWatch:
+  https://kick.com/nodwin_cs2
+SUMMARY:Elimination Match: Honvéd vs TBD
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

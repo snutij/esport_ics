@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Cambodia - Season 11 2026 - Regular Season\nWatch: https://
  www.youtube.com/watch?v=IXejGadJk70
 SUMMARY:PRO vs RVZ
-URL;VALUE=URI:https://www.youtube.com/watch?v=IXejGadJk70
+URL:https://www.youtube.com/watch?v=IXejGadJk70
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T093000Z
+UID:pandascore-match-1793307@esport-ics
+DTSTART:20261113T093000Z
+DTEND:20261113T131500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Cambodia - Season 11 2026 - Playoffs\nWatch: https://www.yo
+ utube.com/@MPLCambodia_Official
+SUMMARY:Upper Bracket Semifinal 2: RVZ vs TBD
+URL;VALUE=URI:https://www.youtube.com/@MPLCambodia_Official
 END:VEVENT
 END:VCALENDAR

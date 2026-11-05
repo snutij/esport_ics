@@ -171,12 +171,14 @@ SUMMARY:Grand final: FCY vs 555
 URL:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261105T110000Z
+DTSTAMP:20261105T115000Z
 UID:pandascore-match-1790324@esport-ics
-DTSTART:20261105T110000Z
-DTEND:20261105T114500Z
+DTSTART:20261105T115000Z
+DTEND:20261105T123500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific Predator League - Vietnam 2027 - Playoffs
+DESCRIPTION:Asia Pacific Predator League - Vietnam 2027 - Playoffs\nWatch: 
+ https://www.youtube.com/watch?v=H8utyZiqwCE
 SUMMARY:Upper Bracket Quarterfinal 4: An Angel Anbandonned vs FCY
+URL;VALUE=URI:https://www.youtube.com/watch?v=H8utyZiqwCE
 END:VEVENT
 END:VCALENDAR

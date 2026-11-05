@@ -17,17 +17,6 @@ SUMMARY:Lower bracket quarterfinal 1: STA vs FAZ.F
 URL:https://www.youtube.com/watch?v=Kwm8_aLiYQc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T160000Z
-UID:pandascore-match-1774454@esport-ics
-DTSTART:20261106T160000Z
-DTEND:20261106T194500Z
-CLASS:PUBLIC
-DESCRIPTION:Monster Launch Invitational - 2027 - Group A\nWatch: https://ww
- w.twitch.tv/callofduty_esports
-SUMMARY:TEX vs STA
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261106T173000Z
 UID:pandascore-match-1774465@esport-ics
 DTSTART:20261106T173000Z
@@ -36,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group A\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:MIN vs STA
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T180000Z
+UID:pandascore-match-1774454@esport-ics
+DTSTART:20261106T180000Z
+DTEND:20261106T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group A\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:TEX vs STA
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 BEGIN:VEVENT

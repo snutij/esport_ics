@@ -303,17 +303,6 @@ SUMMARY:Lower bracket round 1 match 2: PAR vs C9.NY
 URL:https://www.youtube.com/watch?v=jdQCTCx6eio
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T160000Z
-UID:pandascore-match-1774502@esport-ics
-DTSTART:20261106T160000Z
-DTEND:20261106T194500Z
-CLASS:PUBLIC
-DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
- w.twitch.tv/callofduty_esports
-SUMMARY:PAR vs C9.NY
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261106T173000Z
 UID:pandascore-match-1774503@esport-ics
 DTSTART:20261106T173000Z
@@ -322,6 +311,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:LAT vs C9.NY
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T180000Z
+UID:pandascore-match-1774502@esport-ics
+DTSTART:20261106T180000Z
+DTEND:20261106T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:PAR vs C9.NY
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 BEGIN:VEVENT
