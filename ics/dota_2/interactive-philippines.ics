@@ -804,17 +804,6 @@ SUMMARY:IAC vs ICxI
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261108T130000Z
-UID:pandascore-match-1785760@esport-ics
-DTSTART:20261108T130000Z
-DTEND:20261108T151500Z
-CLASS:PUBLIC
-DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
- ww.twitch.tv/asgard_championship2
-SUMMARY:IAC vs P-
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261108T190000Z
 UID:pandascore-match-1791747@esport-ics
 DTSTART:20261108T190000Z
@@ -889,6 +878,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:IAC vs TTS
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T130000Z
+UID:pandascore-match-1785760@esport-ics
+DTSTART:20261114T130000Z
+DTEND:20261114T151500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:IAC vs P-
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT

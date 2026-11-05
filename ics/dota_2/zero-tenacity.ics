@@ -1115,17 +1115,6 @@ SUMMARY:IAC vs Z10
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T160000Z
-UID:pandascore-match-1785742@esport-ics
-DTSTART:20261106T160000Z
-DTEND:20261106T181500Z
-CLASS:PUBLIC
-DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
- ww.twitch.tv/asgard_championship2
-SUMMARY:TS.A vs Z10
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261106T190000Z
 UID:pandascore-match-1791735@esport-ics
 DTSTART:20261106T190000Z
@@ -1179,6 +1168,17 @@ DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:YB vs Z10
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T100000Z
+UID:pandascore-match-1785742@esport-ics
+DTSTART:20261109T100000Z
+DTEND:20261109T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:TS.A vs Z10
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T190000Z

@@ -253,6 +253,15 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
  //www.twitch.tv/dachcs
 SUMMARY:BIG.A vs R4G
-URL;VALUE=URI:https://www.twitch.tv/dachcs
+URL:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T190000Z
+UID:pandascore-match-1792555@esport-ics
+DTSTART:20261105T190000Z
+DTEND:20261105T194500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
+SUMMARY:R4G vs PG
 END:VEVENT
 END:VCALENDAR

@@ -17,17 +17,6 @@ SUMMARY:ALL vs LYNX
 URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261105T190000Z
-UID:pandascore-match-1785757@esport-ics
-DTSTART:20261105T190000Z
-DTEND:20261105T211500Z
-CLASS:PUBLIC
-DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
- ww.twitch.tv/asgard_championship2
-SUMMARY:TS vs ALL
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261109T190000Z
 UID:pandascore-match-1785763@esport-ics
 DTSTART:20261109T190000Z
@@ -69,6 +58,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:ALL vs P-
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T190000Z
+UID:pandascore-match-1785757@esport-ics
+DTSTART:20261114T190000Z
+DTEND:20261114T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:TS vs ALL
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 END:VCALENDAR

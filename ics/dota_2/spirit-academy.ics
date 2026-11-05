@@ -878,17 +878,6 @@ SUMMARY:angry birds vs TS.A
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T160000Z
-UID:pandascore-match-1785742@esport-ics
-DTSTART:20261106T160000Z
-DTEND:20261106T181500Z
-CLASS:PUBLIC
-DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
- ww.twitch.tv/asgard_championship2
-SUMMARY:TS.A vs Z10
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261107T100000Z
 UID:pandascore-match-1785743@esport-ics
 DTSTART:20261107T100000Z
@@ -908,6 +897,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:Nemiga vs TS.A
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T100000Z
+UID:pandascore-match-1785742@esport-ics
+DTSTART:20261109T100000Z
+DTEND:20261109T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:TS.A vs Z10
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT

@@ -632,4 +632,15 @@ DESCRIPTION:Gamers Club Liga Série A - October 2026 - Playoffs\nWatch: htt
 SUMMARY:Quarterfinal 3: QUIN vs GRE
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T220000Z
+UID:pandascore-match-1786705@esport-ics
+DTSTART:20261105T220000Z
+DTEND:20261106T001500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 8 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 2: GRE vs underw0rld
+URL;VALUE=URI:https://kick.com/cct_cs3
+END:VEVENT
 END:VCALENDAR

@@ -455,6 +455,17 @@ SUMMARY:PckCp vs ICxI
 URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261105T190000Z
+UID:pandascore-match-1785748@esport-ics
+DTSTART:20261105T190000Z
+DTEND:20261105T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
+ ww.twitch.tv/asgard_championship2
+SUMMARY:Nemiga vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261106T160000Z
 UID:pandascore-match-1791732@esport-ics
 DTSTART:20261106T160000Z
@@ -519,17 +530,6 @@ DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:Amaru Gaming vs ICxI
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261109T100000Z
-UID:pandascore-match-1785748@esport-ics
-DTSTART:20261109T100000Z
-DTEND:20261109T121500Z
-CLASS:PUBLIC
-DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
- ww.twitch.tv/asgard_championship2
-SUMMARY:Nemiga vs ICxI
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T160000Z
