@@ -178,28 +178,6 @@ SUMMARY:Lower Bracket Semifinal: YG vs Zenith
 URL:https://kick.com/epldota_en1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T100000Z
-UID:pandascore-match-1791665@esport-ics
-DTSTART:20261106T100000Z
-DTEND:20261106T121500Z
-CLASS:PUBLIC
-DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
- //www.twitch.tv/esl_dota2
-SUMMARY:P- vs Zenith
-URL:https://www.twitch.tv/esl_dota2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261106T130000Z
-UID:pandascore-match-1791667@esport-ics
-DTSTART:20261106T130000Z
-DTEND:20261106T151500Z
-CLASS:PUBLIC
-DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
- //www.twitch.tv/esl_dota2
-SUMMARY:PlayTime vs Zenith
-URL:https://www.twitch.tv/esl_dota2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261107T100000Z
 UID:pandascore-match-1791670@esport-ics
 DTSTART:20261107T100000Z
@@ -253,5 +231,27 @@ DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:Zenith vs TS
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T130000Z
+UID:pandascore-match-1791667@esport-ics
+DTSTART:20261111T130000Z
+DTEND:20261111T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2ember
+SUMMARY:PlayTime vs Zenith
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2ember
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T160000Z
+UID:pandascore-match-1791665@esport-ics
+DTSTART:20261111T160000Z
+DTEND:20261111T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2storm
+SUMMARY:P- vs Zenith
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
 END:VEVENT
 END:VCALENDAR

@@ -990,10 +990,10 @@ SUMMARY:Lower Bracket Final: YeS vs GL
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261107T100000Z
+DTSTAMP:20261108T130000Z
 UID:pandascore-match-1792505@esport-ics
-DTSTART:20261107T100000Z
-DTEND:20261107T121500Z
+DTSTART:20261108T130000Z
+DTEND:20261108T151500Z
 CLASS:PUBLIC
 DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
  www.twitch.tv/1win_dota
@@ -1001,21 +1001,10 @@ SUMMARY:HULIGANI vs YeS
 URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261108T160000Z
-UID:pandascore-match-1792508@esport-ics
-DTSTART:20261108T160000Z
-DTEND:20261108T181500Z
-CLASS:PUBLIC
-DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
- www.twitch.tv/1win_dota
-SUMMARY:PlayTime vs YeS
-URL;VALUE=URI:https://www.twitch.tv/1win_dota
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261109T100000Z
+DTSTAMP:20261109T190000Z
 UID:pandascore-match-1792509@esport-ics
-DTSTART:20261109T100000Z
-DTEND:20261109T121500Z
+DTSTART:20261109T190000Z
+DTEND:20261109T211500Z
 CLASS:PUBLIC
 DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
  www.twitch.tv/1win_dota
@@ -1031,6 +1020,17 @@ CLASS:PUBLIC
 DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
  www.twitch.tv/1win_dota
 SUMMARY:YeS vs LEGION
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T190000Z
+UID:pandascore-match-1792508@esport-ics
+DTSTART:20261111T190000Z
+DTEND:20261111T211500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
+ www.twitch.tv/1win_dota
+SUMMARY:PlayTime vs YeS
 URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

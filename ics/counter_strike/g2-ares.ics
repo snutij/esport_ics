@@ -1565,4 +1565,15 @@ DESCRIPTION:European Pro League - Season 10 2026 - Group D\nWatch: https://
 SUMMARY:G2.A vs SSins
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T140000Z
+UID:pandascore-match-1795364@esport-ics
+DTSTART:20261107T140000Z
+DTEND:20261107T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #11 season 52 2026 - Group A
+ \nWatch: https://kick.com/ESLCS
+SUMMARY:OG vs G2.A
+URL;VALUE=URI:https://kick.com/ESLCS
+END:VEVENT
 END:VCALENDAR

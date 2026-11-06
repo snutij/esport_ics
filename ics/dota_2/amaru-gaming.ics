@@ -300,17 +300,6 @@ SUMMARY:Grand final: Amaru Gaming vs TBD
 URL:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T190000Z
-UID:pandascore-match-1791736@esport-ics
-DTSTART:20261106T190000Z
-DTEND:20261106T211500Z
-CLASS:PUBLIC
-DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
- //www.twitch.tv/esl_dota2
-SUMMARY:IAC vs Amaru Gaming
-URL:https://www.twitch.tv/esl_dota2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261107T160000Z
 UID:pandascore-match-1791737@esport-ics
 DTSTART:20261107T160000Z
@@ -375,5 +364,16 @@ DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:HULIGANI vs Amaru Gaming
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T130000Z
+UID:pandascore-match-1791736@esport-ics
+DTSTART:20261111T130000Z
+DTEND:20261111T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2storm
+SUMMARY:IAC vs Amaru Gaming
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
 END:VEVENT
 END:VCALENDAR

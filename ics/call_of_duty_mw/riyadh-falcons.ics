@@ -421,7 +421,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group C\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:RIYF vs VAN
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+URL:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261106T190000Z
@@ -432,7 +432,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group C\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:RIYF vs MH
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+URL:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261106T193000Z
@@ -443,6 +443,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group C\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:RIYF vs BUSH
+URL:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T223000Z
+UID:pandascore-match-1776466@esport-ics
+DTSTART:20261106T223000Z
+DTEND:20261107T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group C\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:Winners Match: MH vs RIYF
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

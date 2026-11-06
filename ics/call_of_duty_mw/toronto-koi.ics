@@ -463,7 +463,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group B\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:TOR vs Huntsmen
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+URL:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261106T180000Z
@@ -474,7 +474,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group B\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:TOR vs M80
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+URL:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261106T190000Z
@@ -485,6 +485,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group B\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:FAZE.V vs TOR
+URL:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T210000Z
+UID:pandascore-match-1776465@esport-ics
+DTSTART:20261106T210000Z
+DTEND:20261107T004500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group B\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:Winners Match: Huntsmen vs TOR
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

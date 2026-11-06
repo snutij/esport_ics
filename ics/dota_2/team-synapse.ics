@@ -457,17 +457,6 @@ SUMMARY:XE vs TS
 URL:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T100000Z
-UID:pandascore-match-1791664@esport-ics
-DTSTART:20261106T100000Z
-DTEND:20261106T121500Z
-CLASS:PUBLIC
-DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
- //www.twitch.tv/esl_dota2
-SUMMARY:PlayTime vs TS
-URL:https://www.twitch.tv/esl_dota2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261107T130000Z
 UID:pandascore-match-1791674@esport-ics
 DTSTART:20261107T130000Z
@@ -543,6 +532,17 @@ DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:Zenith vs TS
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T100000Z
+UID:pandascore-match-1791664@esport-ics
+DTSTART:20261111T100000Z
+DTEND:20261111T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2ember
+SUMMARY:PlayTime vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2ember
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261111T160000Z

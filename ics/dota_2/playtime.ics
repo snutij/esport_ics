@@ -504,28 +504,6 @@ SUMMARY:Lower bracket final: PlayTime vs Skyreavers
 URL:https://www.youtube.com/ESLDota2/live
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T100000Z
-UID:pandascore-match-1791664@esport-ics
-DTSTART:20261106T100000Z
-DTEND:20261106T121500Z
-CLASS:PUBLIC
-DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
- //www.twitch.tv/esl_dota2
-SUMMARY:PlayTime vs TS
-URL:https://www.twitch.tv/esl_dota2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261106T130000Z
-UID:pandascore-match-1791667@esport-ics
-DTSTART:20261106T130000Z
-DTEND:20261106T151500Z
-CLASS:PUBLIC
-DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
- //www.twitch.tv/esl_dota2
-SUMMARY:PlayTime vs Zenith
-URL:https://www.twitch.tv/esl_dota2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261107T130000Z
 UID:pandascore-match-1791672@esport-ics
 DTSTART:20261107T130000Z
@@ -538,13 +516,13 @@ URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261107T190000Z
-UID:pandascore-match-1792506@esport-ics
+UID:pandascore-match-1792514@esport-ics
 DTSTART:20261107T190000Z
 DTEND:20261107T211500Z
 CLASS:PUBLIC
 DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
  www.twitch.tv/1win_dota
-SUMMARY:PlayTime vs LEGION
+SUMMARY:PlayTime vs HULIGANI
 URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
@@ -560,13 +538,13 @@ URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261108T160000Z
-UID:pandascore-match-1792508@esport-ics
+UID:pandascore-match-1792506@esport-ics
 DTSTART:20261108T160000Z
 DTEND:20261108T181500Z
 CLASS:PUBLIC
 DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
  www.twitch.tv/1win_dota
-SUMMARY:PlayTime vs YeS
+SUMMARY:PlayTime vs LEGION
 URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
@@ -614,14 +592,36 @@ SUMMARY:XE vs PlayTime
 URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261111T100000Z
+UID:pandascore-match-1791664@esport-ics
+DTSTART:20261111T100000Z
+DTEND:20261111T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2ember
+SUMMARY:PlayTime vs TS
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2ember
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T130000Z
+UID:pandascore-match-1791667@esport-ics
+DTSTART:20261111T130000Z
+DTEND:20261111T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2ember
+SUMMARY:PlayTime vs Zenith
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2ember
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261111T190000Z
-UID:pandascore-match-1792514@esport-ics
+UID:pandascore-match-1792508@esport-ics
 DTSTART:20261111T190000Z
 DTEND:20261111T211500Z
 CLASS:PUBLIC
 DESCRIPTION:1win Essence - Play-in season 3 2026 - Group B\nWatch: https://
  www.twitch.tv/1win_dota
-SUMMARY:PlayTime vs HULIGANI
+SUMMARY:PlayTime vs YeS
 URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

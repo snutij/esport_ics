@@ -204,28 +204,6 @@ SUMMARY:Lower Bracket Quarterfinals match 2: CH vs HULIGANI
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T160000Z
-UID:pandascore-match-1791732@esport-ics
-DTSTART:20261106T160000Z
-DTEND:20261106T181500Z
-CLASS:PUBLIC
-DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
- //www.twitch.tv/esl_dota2
-SUMMARY:CH vs ICxI
-URL:https://www.twitch.tv/esl_dota2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261106T190000Z
-UID:pandascore-match-1791735@esport-ics
-DTSTART:20261106T190000Z
-DTEND:20261106T211500Z
-CLASS:PUBLIC
-DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
- //www.twitch.tv/esl_dota2
-SUMMARY:CH vs Z10
-URL:https://www.twitch.tv/esl_dota2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261107T130000Z
 UID:pandascore-match-1792493@esport-ics
 DTSTART:20261107T130000Z
@@ -255,7 +233,7 @@ DTEND:20261108T121500Z
 CLASS:PUBLIC
 DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
  www.twitch.tv/1win_dota
-SUMMARY:CH vs AI
+SUMMARY:CH vs angry birds
 URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
@@ -347,6 +325,17 @@ SUMMARY:CH vs PR
 URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261111T100000Z
+UID:pandascore-match-1791732@esport-ics
+DTSTART:20261111T100000Z
+DTEND:20261111T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2ember
+SUMMARY:CH vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2ember
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261111T130000Z
 UID:pandascore-match-1792501@esport-ics
 DTSTART:20261111T130000Z
@@ -356,6 +345,17 @@ DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
  www.twitch.tv/1win_dota
 SUMMARY:Froglings vs CH
 URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T130000Z
+UID:pandascore-match-1791735@esport-ics
+DTSTART:20261111T130000Z
+DTEND:20261111T151500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2ember
+SUMMARY:CH vs Z10
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2ember
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261111T190000Z

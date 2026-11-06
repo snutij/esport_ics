@@ -285,6 +285,28 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #14 2026 - Group D\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:DRAMA vs Ryvex
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T120000Z
+UID:pandascore-match-1788090@esport-ics
+DTSTART:20261107T120000Z
+DTEND:20261107T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #14 2026 - Group D\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Elimination match: Ryvex vs SSins
 URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T140000Z
+UID:pandascore-match-1795384@esport-ics
+DTSTART:20261107T140000Z
+DTEND:20261107T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #11 season 52 2026 - Group D
+ \nWatch: https://www.kick.com/ESLCS
+SUMMARY:ACE vs Ryvex
+URL;VALUE=URI:https://www.kick.com/ESLCS
 END:VEVENT
 END:VCALENDAR

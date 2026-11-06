@@ -485,7 +485,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:LAT vs C9.NY
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+URL:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261106T190000Z
@@ -496,7 +496,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:LAT vs PAR
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+URL:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261106T193000Z
@@ -507,6 +507,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:LAT vs OMiT Brooklyn
+URL:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T223000Z
+UID:pandascore-match-1776467@esport-ics
+DTSTART:20261106T223000Z
+DTEND:20261107T021500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:Winners Match: PAR vs LAT
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

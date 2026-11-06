@@ -841,6 +841,17 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 6: Closed Qualifier 2026 - Playoffs\nWat
  ch: https://kick.com/starladder
 SUMMARY:Round 2 match 4: BCA vs AIMC
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T140000Z
+UID:pandascore-match-1795385@esport-ics
+DTSTART:20261107T140000Z
+DTEND:20261107T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #11 season 52 2026 - Group D
+ \nWatch: https://www.kick.com/ESLCS
+SUMMARY:LPH vs AIMC
+URL;VALUE=URI:https://www.kick.com/ESLCS
 END:VEVENT
 END:VCALENDAR

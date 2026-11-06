@@ -893,17 +893,6 @@ SUMMARY:PR vs ICxI
 URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T130000Z
-UID:pandascore-match-1791668@esport-ics
-DTSTART:20261106T130000Z
-DTEND:20261106T151500Z
-CLASS:PUBLIC
-DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
- //www.twitch.tv/esl_dota2
-SUMMARY:P- vs PR
-URL:https://www.twitch.tv/esl_dota2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261107T100000Z
 UID:pandascore-match-1791669@esport-ics
 DTSTART:20261107T100000Z
@@ -1010,7 +999,18 @@ DTEND:20261111T181500Z
 CLASS:PUBLIC
 DESCRIPTION:1win Essence - Play-in season 3 2026 - Group A\nWatch: https://
  www.twitch.tv/1win_dota
-SUMMARY:PR vs AI
+SUMMARY:PR vs angry birds
 URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T190000Z
+UID:pandascore-match-1791668@esport-ics
+DTSTART:20261111T190000Z
+DTEND:20261111T211500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
+ //www.twitch.tv/esl_dota2storm
+SUMMARY:P- vs PR
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
 END:VEVENT
 END:VCALENDAR

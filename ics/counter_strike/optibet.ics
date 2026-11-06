@@ -80,6 +80,17 @@ CLASS:PUBLIC
 DESCRIPTION:Battle of Baltics - 2026 - Playoffs\nWatch: https://www.twitch.
  tv/goexanimo
 SUMMARY:Grand Final: Optibet vs TBD
-URL;VALUE=URI:https://www.twitch.tv/goexanimo
+URL:https://www.twitch.tv/goexanimo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T140000Z
+UID:pandascore-match-1795365@esport-ics
+DTSTART:20261107T140000Z
+DTEND:20261107T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #11 season 52 2026 - Group A
+ \nWatch: https://kick.com/ESLCS
+SUMMARY:PRIV vs Optibet
+URL;VALUE=URI:https://kick.com/ESLCS
 END:VEVENT
 END:VCALENDAR
