@@ -512,17 +512,6 @@ SUMMARY:PAR vs OMiT Brooklyn
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261106T180000Z
-UID:pandascore-match-1774502@esport-ics
-DTSTART:20261106T180000Z
-DTEND:20261106T214500Z
-CLASS:PUBLIC
-DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
- w.twitch.tv/callofduty_esports
-SUMMARY:PAR vs C9.NY
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261106T190000Z
 UID:pandascore-match-1774505@esport-ics
 DTSTART:20261106T190000Z
@@ -531,6 +520,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:LAT vs PAR
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T193000Z
+UID:pandascore-match-1774502@esport-ics
+DTSTART:20261106T193000Z
+DTEND:20261106T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group D\nWatch: https://ww
+ w.twitch.tv/callofduty_esports
+SUMMARY:PAR vs C9.NY
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

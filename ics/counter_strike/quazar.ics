@@ -852,6 +852,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 3 2026 - Playoffs\nWatch: https://www.kic
  k.com/fiesta_cs
 SUMMARY:Semifinal 1: QUA vs REV
+URL:https://www.kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T190000Z
+UID:pandascore-match-1789137@esport-ics
+DTSTART:20261106T190000Z
+DTEND:20261106T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 3 2026 - Playoffs\nWatch: https://www.kic
+ k.com/fiesta_cs
+SUMMARY:Grand Final: QUA vs TBD
 URL;VALUE=URI:https://www.kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

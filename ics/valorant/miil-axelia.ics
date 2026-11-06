@@ -11,7 +11,9 @@ UID:pandascore-match-1794448@esport-ics
 DTSTART:20261107T053000Z
 DTEND:20261107T074500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific Predator League - Japan 2027 - Playoffs
+DESCRIPTION:Asia Pacific Predator League - Japan 2027 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/predator_japan
 SUMMARY:Round 1 match 4: 雨のち晴れ vs MIIL AXELIA
+URL;VALUE=URI:https://www.twitch.tv/predator_japan
 END:VEVENT
 END:VCALENDAR
