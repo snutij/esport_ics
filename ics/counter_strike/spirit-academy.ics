@@ -902,6 +902,17 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-In Group A\nWatch:
   https://kick.com/nodwin_cs2
 SUMMARY:Decider Match: TS.A vs Leo
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T090000Z
+UID:pandascore-match-1784405@esport-ics
+DTSTART:20261108T090000Z
+DTEND:20261108T111500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-Ins\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:BMB vs TS.A
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

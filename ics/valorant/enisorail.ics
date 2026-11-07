@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Enisorail
 SLUG:enisorail
 BEGIN:VEVENT
-DTSTAMP:20261108T170000Z
-UID:pandascore-match-1792347@esport-ics
-DTSTART:20261108T170000Z
-DTEND:20261108T191500Z
-CLASS:PUBLIC
-DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group B\nWatch: h
- ttps://www.twitch.tv/spikeseriesdach
-SUMMARY:Enisorail vs GSH
-URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261114T170000Z
 UID:pandascore-match-1792349@esport-ics
 DTSTART:20261114T170000Z
@@ -36,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group B\nWatch: h
  ttps://www.twitch.tv/spikeseriesdach
 SUMMARY:Lootlake City vs Enisorail
+URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261126T170000Z
+UID:pandascore-match-1792347@esport-ics
+DTSTART:20261126T170000Z
+DTEND:20261126T191500Z
+CLASS:PUBLIC
+DESCRIPTION:Spike Series - Convergence EMEA - DACH 2026 - Group B\nWatch: h
+ ttps://www.twitch.tv/spikeseriesdach
+SUMMARY:Enisorail vs GSH
 URL;VALUE=URI:https://www.twitch.tv/spikeseriesdach
 END:VEVENT
 BEGIN:VEVENT

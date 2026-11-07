@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group C\nWatch: http
  s://www.twitch.tv/betboom_esports
 SUMMARY:BW vs TST
+URL:https://www.twitch.tv/betboom_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T150000Z
+UID:pandascore-match-1798724@esport-ics
+DTSTART:20261108T150000Z
+DTEND:20261108T171500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group C\nWatch: http
+ s://www.twitch.tv/betboom_esports
+SUMMARY:BW vs CH
 URL;VALUE=URI:https://www.twitch.tv/betboom_esports
 END:VEVENT
 END:VCALENDAR

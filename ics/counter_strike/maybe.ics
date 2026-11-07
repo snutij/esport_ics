@@ -688,4 +688,15 @@ DESCRIPTION:European Pro League - Season 10 2026 - Group D\nWatch: https://
 SUMMARY:Elimination match: SSins vs maybe
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T113000Z
+UID:pandascore-match-1789507@esport-ics
+DTSTART:20261112T113000Z
+DTEND:20261112T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 10 2026 - Group D\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Decider match: maybe vs TBD
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

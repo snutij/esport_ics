@@ -385,6 +385,17 @@ SUMMARY:Elimination match: 6yuBoJlbl vs Azuolas
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261108T180000Z
+UID:pandascore-match-1784408@esport-ics
+DTSTART:20261108T180000Z
+DTEND:20261108T201500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Play-Ins\nWatch: https:
+ //kick.com/nodwin_cs2
+SUMMARY:BAKS vs Azuolas
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261113T090000Z
 UID:pandascore-match-1789487@esport-ics
 DTSTART:20261113T090000Z
