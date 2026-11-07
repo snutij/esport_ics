@@ -206,6 +206,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 8 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 2: your end vs Low Cortisol
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T070000Z
+UID:pandascore-match-1786717@esport-ics
+DTSTART:20261109T070000Z
+DTEND:20261109T091500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 8 2026 - Group Stage\nWatch: https:/
+ /kick.com/cct_cs3
+SUMMARY:Round 3: Low Cortisol vs Rush
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

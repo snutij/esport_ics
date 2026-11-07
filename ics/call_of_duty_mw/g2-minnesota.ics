@@ -485,6 +485,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group A\nWatch: https://ww
  w.youtube.com/watch?v=0SbEZ85aaIE
 SUMMARY:Decider Match: MIN vs CRR
-URL;VALUE=URI:https://www.youtube.com/watch?v=0SbEZ85aaIE
+URL:https://www.youtube.com/watch?v=0SbEZ85aaIE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T193000Z
+UID:pandascore-match-1776492@esport-ics
+DTSTART:20261107T193000Z
+DTEND:20261107T231500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Playoffs\nWatch: https://w
+ ww.twitch.tv/callofduty_esports
+SUMMARY:Upper bracket quarterfinal 4: PAR vs MIN
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

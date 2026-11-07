@@ -553,6 +553,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group A\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:Winners Match: TEX vs MIN
+URL:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T180000Z
+UID:pandascore-match-1776489@esport-ics
+DTSTART:20261107T180000Z
+DTEND:20261107T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Playoffs\nWatch: https://w
+ ww.twitch.tv/callofduty_esports
+SUMMARY:Upper bracket quarterfinal 1: TEX vs C9.NY
 URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

@@ -6,14 +6,14 @@ METHOD:PUBLISH
 X-WR-CALNAME:ArtiXans
 SLUG:artixans
 BEGIN:VEVENT
-DTSTAMP:20261107T080000Z
+DTSTAMP:20261107T100000Z
 UID:pandascore-match-1790317@esport-ics
-DTSTART:20261107T080000Z
-DTEND:20261107T101500Z
+DTSTART:20261107T100000Z
+DTEND:20261107T121500Z
 CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Philippines 2027 - Playoffs\nWat
- ch: https://www.twitch.tv/predatorgaming_ph
+ ch: https://www.youtube.com/watch?v=5I8WV7mRR18
 SUMMARY:Semifinal 2: OAS vs ArtiXans
-URL;VALUE=URI:https://www.twitch.tv/predatorgaming_ph
+URL;VALUE=URI:https://www.youtube.com/watch?v=5I8WV7mRR18
 END:VEVENT
 END:VCALENDAR

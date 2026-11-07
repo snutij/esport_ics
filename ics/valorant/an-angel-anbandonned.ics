@@ -28,12 +28,14 @@ SUMMARY:Lower Bracket Round 1 match 2: LPD vs An Angel Anbandonned
 URL:https://www.youtube.com/watch?v=xbYXbDTnK58
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261107T080000Z
+DTSTAMP:20261107T090000Z
 UID:pandascore-match-1790331@esport-ics
-DTSTART:20261107T080000Z
-DTEND:20261107T101500Z
+DTSTART:20261107T090000Z
+DTEND:20261107T111500Z
 CLASS:PUBLIC
-DESCRIPTION:Asia Pacific Predator League - Vietnam 2027 - Playoffs
+DESCRIPTION:Asia Pacific Predator League - Vietnam 2027 - Playoffs\nWatch: 
+ https://www.youtube.com/watch?v=ggh3haQQwhI
 SUMMARY:Lower Bracket Quarterfinal 2: Ferix vs An Angel Anbandonned
+URL;VALUE=URI:https://www.youtube.com/watch?v=ggh3haQQwhI
 END:VEVENT
 END:VCALENDAR

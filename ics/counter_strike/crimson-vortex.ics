@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME: Crimson Vortex
+SLUG:crimson-vortex
+BEGIN:VEVENT
+DTSTAMP:20261107T203000Z
+UID:pandascore-match-1797356@esport-ics
+DTSTART:20261107T203000Z
+DTEND:20261107T224500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT North America - Challengers season 1 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Quarterfinals match 2: CV vs ELU
+URL;VALUE=URI:https://kick.com/cct_cs4
+END:VEVENT
+END:VCALENDAR

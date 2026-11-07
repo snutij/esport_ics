@@ -197,6 +197,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT North America - Cup #1 2026 - Playoffs\nWatch: https://kick
  .com/cct_cs7
 SUMMARY:Quarterfinal 1: VOCA vs VIL
-URL;VALUE=URI:https://kick.com/cct_cs7
+URL:https://kick.com/cct_cs7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T203000Z
+UID:pandascore-match-1797357@esport-ics
+DTSTART:20261107T203000Z
+DTEND:20261107T224500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT North America - Challengers season 1 2026 - Playoffs\nWatch
+ : https://kick.com/cct_cs4
+SUMMARY:Quarterfinals match 3: VIL vs Feistein
+URL;VALUE=URI:https://kick.com/cct_cs4
 END:VEVENT
 END:VCALENDAR

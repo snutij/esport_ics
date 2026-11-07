@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:Media Eleague - Season 5 2026 - Group Stage\nWatch: https://www
  .twitch.tv/fonbet_media_eleague
 SUMMARY:ILTW vs LenS
+URL:https://www.twitch.tv/fonbet_media_eleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T120000Z
+UID:pandascore-match-1786536@esport-ics
+DTSTART:20261110T120000Z
+DTEND:20261110T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Media Eleague - Season 5 2026 - Playoffs\nWatch: https://www.tw
+ itch.tv/fonbet_media_eleague
+SUMMARY:Upper Bracket Final: LenS vs COM
 URL;VALUE=URI:https://www.twitch.tv/fonbet_media_eleague
 END:VEVENT
 END:VCALENDAR
