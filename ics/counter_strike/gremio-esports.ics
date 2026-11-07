@@ -652,6 +652,17 @@ CLASS:PUBLIC
 DESCRIPTION:Gamers Club Liga Série A - October 2026 - Playoffs\nWatch: htt
  ps://www.twitch.tv/gamersclubcs
 SUMMARY:Semifinal 2: GRE vs BORRA
+URL:https://www.twitch.tv/gamersclubcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T190000Z
+UID:pandascore-match-1758417@esport-ics
+DTSTART:20261108T190000Z
+DTEND:20261108T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Gamers Club Liga Série A - October 2026 - Playoffs\nWatch: htt
+ ps://www.twitch.tv/gamersclubcs
+SUMMARY:Grand Final: RED.A vs GRE
 URL;VALUE=URI:https://www.twitch.tv/gamersclubcs
 END:VEVENT
 END:VCALENDAR

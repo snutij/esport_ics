@@ -375,6 +375,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Group A\nWatch: https://ww
  w.twitch.tv/callofduty_esports
 SUMMARY:Elimination Match: STA vs CRR
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+URL:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T014500Z
+UID:pandascore-match-1776480@esport-ics
+DTSTART:20261107T014500Z
+DTEND:20261107T053000Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Group A\nWatch: https://ww
+ w.youtube.com/watch?v=0SbEZ85aaIE
+SUMMARY:Decider Match: MIN vs CRR
+URL;VALUE=URI:https://www.youtube.com/watch?v=0SbEZ85aaIE
 END:VEVENT
 END:VCALENDAR
