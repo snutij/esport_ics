@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Japan 2027 - Playoffs\nWatch: ht
  tps://www.twitch.tv/predator_japan
 SUMMARY:Round 1 match 5: FA CLUB vs SCOP Gaming
+URL:https://www.twitch.tv/predator_japan
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T050000Z
+UID:pandascore-match-1797438@esport-ics
+DTSTART:20261114T050000Z
+DTEND:20261114T071500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Japan 2027 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/predator_japan
+SUMMARY:Semifinal 2: FAC vs ZZ
 URL;VALUE=URI:https://www.twitch.tv/predator_japan
 END:VEVENT
 END:VCALENDAR

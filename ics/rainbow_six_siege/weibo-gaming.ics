@@ -411,6 +411,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 1\nWatch: https://www.twitc
  h.tv/rainbow6
 SUMMARY:Lower Bracket Semifinal 2: WBG vs TBD
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T023000Z
+UID:pandascore-match-1797466@esport-ics
+DTSTART:20261108T023000Z
+DTEND:20261108T031500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2\nWatch: https://www.twitc
+ h.tv/rainbow6
+SUMMARY:Round 1: GE vs WBG
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

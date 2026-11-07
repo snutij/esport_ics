@@ -300,6 +300,17 @@ CLASS:PUBLIC
 DESCRIPTION:North America League - Stage 2 2026 - Playoffs\nWatch: https://
  www.twitch.tv/rainbow6
 SUMMARY:Grand final: 100T vs TBD
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T013000Z
+UID:pandascore-match-1797463@esport-ics
+DTSTART:20261108T013000Z
+DTEND:20261108T021500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2\nWatch: https://www.twitc
+ h.tv/rainbow6
+SUMMARY:Round 1: 100T vs C9
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

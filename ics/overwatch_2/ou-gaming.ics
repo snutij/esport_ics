@@ -113,6 +113,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - China Stage 3 2026 - Regional Playoffs\nWatch: https://li
  ve.bilibili.com/23612045
 SUMMARY:Upper Bracket Semifinal 1: OUG vs HUN
+URL:https://live.bilibili.com/23612045
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T090000Z
+UID:pandascore-match-1784666@esport-ics
+DTSTART:20261108T090000Z
+DTEND:20261108T111500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - China Stage 3 2026 - Regional Playoffs\nWatch: https://li
+ ve.bilibili.com/23612045
+SUMMARY:Lower Bracket Semifinal: OUG vs AG
 URL;VALUE=URI:https://live.bilibili.com/23612045
 END:VEVENT
 END:VCALENDAR

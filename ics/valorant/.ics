@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:αβ
+X-WR-CALNAME:雨のち晴れ
 SLUG:
 BEGIN:VEVENT
 DTSTAMP:20261107T053000Z
@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Japan 2027 - Playoffs\nWatch: ht
  tps://www.twitch.tv/predator_japan
 SUMMARY:Round 1 match 6: αβ vs eキャンズ
-URL;VALUE=URI:https://www.twitch.tv/predator_japan
+URL:https://www.twitch.tv/predator_japan
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261107T053000Z
@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Japan 2027 - Playoffs\nWatch: ht
  tps://www.twitch.tv/predator_japan
 SUMMARY:Round 1 match 4: 雨のち晴れ vs MIIL AXELIA
+URL:https://www.twitch.tv/predator_japan
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T050000Z
+UID:pandascore-match-1797437@esport-ics
+DTSTART:20261114T050000Z
+DTEND:20261114T071500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Japan 2027 - Playoffs\nWatch: ht
+ tps://www.twitch.tv/predator_japan
+SUMMARY:Semifinal 1: SIB vs AMHR
 URL;VALUE=URI:https://www.twitch.tv/predator_japan
 END:VEVENT
 END:VCALENDAR

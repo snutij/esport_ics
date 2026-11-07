@@ -190,6 +190,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Vietnam 2027 - Playoffs\nWatch: 
  https://www.youtube.com/watch?v=ggh3haQQwhI
 SUMMARY:Upper Bracket Final: Saigon Phantom vs FCY
-URL;VALUE=URI:https://www.youtube.com/watch?v=ggh3haQQwhI
+URL:https://www.youtube.com/watch?v=ggh3haQQwhI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T080000Z
+UID:pandascore-match-1790334@esport-ics
+DTSTART:20261115T080000Z
+DTEND:20261115T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Vietnam 2027 - Playoffs
+SUMMARY:Grand Final: FCY vs TBD
 END:VEVENT
 END:VCALENDAR

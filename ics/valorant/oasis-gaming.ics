@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Philippines 2027 - Playoffs\nWat
  ch: https://www.youtube.com/watch?v=5I8WV7mRR18
 SUMMARY:Semifinal 2: OAS vs ArtiXans
-URL;VALUE=URI:https://www.youtube.com/watch?v=5I8WV7mRR18
+URL:https://www.youtube.com/watch?v=5I8WV7mRR18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T060000Z
+UID:pandascore-match-1790318@esport-ics
+DTSTART:20261108T060000Z
+DTEND:20261108T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Philippines 2027 - Playoffs\nWat
+ ch: https://www.twitch.tv/predatorgaming_ph
+SUMMARY:Grand final: Maxxing vs OAS
+URL;VALUE=URI:https://www.twitch.tv/predatorgaming_ph
 END:VEVENT
 END:VCALENDAR

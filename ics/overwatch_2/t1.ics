@@ -564,6 +564,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Korea Stage 3 2026 - Regional Playoffs\nWatch: https://ww
  w.twitch.tv/ow_esports_jp
 SUMMARY:Semifinal 2: CR vs T1
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T080000Z
+UID:pandascore-match-1713137@esport-ics
+DTSTART:20261108T080000Z
+DTEND:20261108T110000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Korea Stage 3 2026 - Regional Playoffs\nWatch: https://ww
+ w.twitch.tv/ow_esports_jp
+SUMMARY:Grand Final: ZETA vs T1
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

@@ -520,6 +520,17 @@ CLASS:PUBLIC
 DESCRIPTION:MPL Indonesia - Season 18 2026 - Playoffs\nWatch: https://www.y
  outube.com/watch?v=UmqTyV0W5bk
 SUMMARY:Lower Bracket Final: TLID vs BTR
-URL;VALUE=URI:https://www.youtube.com/watch?v=UmqTyV0W5bk
+URL:https://www.youtube.com/watch?v=UmqTyV0W5bk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T103000Z
+UID:pandascore-match-1732453@esport-ics
+DTSTART:20261108T103000Z
+DTEND:20261108T154500Z
+CLASS:PUBLIC
+DESCRIPTION:MPL Indonesia - Season 18 2026 - Playoffs\nWatch: https://www.y
+ outube.com/@MobileLegends5v5MOBA/live
+SUMMARY:Grand Final: NAVI vs BTR
+URL;VALUE=URI:https://www.youtube.com/@MobileLegends5v5MOBA/live
 END:VEVENT
 END:VCALENDAR

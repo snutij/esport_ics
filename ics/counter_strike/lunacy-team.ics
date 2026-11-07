@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 10 2026 - Group D\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:LT vs maybe
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T113000Z
+UID:pandascore-match-1789501@esport-ics
+DTSTART:20261111T113000Z
+DTEND:20261111T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 10 2026 - Group D\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Winners match: G2.A vs LT
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

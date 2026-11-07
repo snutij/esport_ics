@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Philippines 2027 - Playoffs\nWat
  ch: https://www.twitch.tv/predatorgaming_ph
 SUMMARY:Semifinal 1: MC3D Esports vs Maxxing
+URL:https://www.twitch.tv/predatorgaming_ph
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T060000Z
+UID:pandascore-match-1790318@esport-ics
+DTSTART:20261108T060000Z
+DTEND:20261108T094500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Philippines 2027 - Playoffs\nWat
+ ch: https://www.twitch.tv/predatorgaming_ph
+SUMMARY:Grand final: Maxxing vs OAS
 URL;VALUE=URI:https://www.twitch.tv/predatorgaming_ph
 END:VEVENT
 END:VCALENDAR

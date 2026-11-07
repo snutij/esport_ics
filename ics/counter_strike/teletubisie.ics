@@ -476,6 +476,17 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 58 2026 - Group A\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Elimination match: TTBS vs XI
+URL:https://kick.com/united21_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T090000Z
+UID:pandascore-match-1788754@esport-ics
+DTSTART:20261111T090000Z
+DTEND:20261111T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 58 2026 - Group A\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Decider match: 9INE.A vs TTBS
 URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

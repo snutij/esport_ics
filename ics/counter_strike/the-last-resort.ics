@@ -1243,4 +1243,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #11 season 52 2026 - Group B
 SUMMARY:BAL vs TLR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T180000Z
+UID:pandascore-match-1795372@esport-ics
+DTSTART:20261107T180000Z
+DTEND:20261107T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #11 season 52 2026 - Group B
+ \nWatch: https://www.kick.com/ESLCS
+SUMMARY:Elimination match: TLR vs TBD
+URL;VALUE=URI:https://www.kick.com/ESLCS
+END:VEVENT
 END:VCALENDAR

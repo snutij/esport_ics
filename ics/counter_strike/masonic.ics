@@ -1124,6 +1124,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #14 2026 - Group C\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:Elimination match: 4M vs MSC
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T150000Z
+UID:pandascore-match-1788086@esport-ics
+DTSTART:20261108T150000Z
+DTEND:20261108T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #14 2026 - Group C\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Decider match: MSC vs TBD
 URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
