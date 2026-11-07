@@ -1172,6 +1172,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #11 season 52 2026 - Group D
  \nWatch: https://www.kick.com/ESLCS
 SUMMARY:Winners match: ACE vs TBD
-URL;VALUE=URI:https://www.kick.com/ESLCS
+URL:https://www.kick.com/ESLCS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T140000Z
+UID:pandascore-match-1795388@esport-ics
+DTSTART:20261108T140000Z
+DTEND:20261108T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #11 season 52 2026 - Group D
+SUMMARY:Decider match: ACE vs TBD
 END:VEVENT
 END:VCALENDAR

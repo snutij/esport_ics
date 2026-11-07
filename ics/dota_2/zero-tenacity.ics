@@ -1112,18 +1112,18 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
  //www.twitch.tv/esl_dota2ember
 SUMMARY:HULIGANI vs Z10
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2ember
+URL:https://www.twitch.tv/esl_dota2ember
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261107T190000Z
+DTSTAMP:20261107T200000Z
 UID:pandascore-match-1791741@esport-ics
-DTSTART:20261107T190000Z
-DTEND:20261107T211500Z
+DTSTART:20261107T200000Z
+DTEND:20261107T221500Z
 CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
- //www.twitch.tv/esl_dota2
+ //www.twitch.tv/esl_dota2ember
 SUMMARY:Amaru Gaming vs Z10
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2ember
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261108T100000Z
