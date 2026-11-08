@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group B\nWatch: http
  s://www.twitch.tv/betboom_esports
 SUMMARY:Dark Phoenix vs FUT
+URL:https://www.twitch.tv/betboom_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T133000Z
+UID:pandascore-match-1800029@esport-ics
+DTSTART:20261110T133000Z
+DTEND:20261110T154500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group B\nWatch: http
+ s://www.twitch.tv/betboom_esports
+SUMMARY:Aurevia Team vs FUT
 URL;VALUE=URI:https://www.twitch.tv/betboom_esports
 END:VEVENT
 END:VCALENDAR

@@ -582,6 +582,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 10 2026 - Group A\nWatch: https://
  kick.com/eplcs_en
 SUMMARY:Winners match: PCIFIC vs Morrow Esports
+URL:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T090000Z
+UID:pandascore-match-1789487@esport-ics
+DTSTART:20261113T090000Z
+DTEND:20261113T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 10 2026 - Group A\nWatch: https://
+ kick.com/eplcs_en
+SUMMARY:Decider match: Azuolas vs Morrow Esports
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

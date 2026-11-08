@@ -180,4 +180,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #11 season 52 2026 - Group A
 SUMMARY:Decider match: G2.A vs PRIV
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T180000Z
+UID:pandascore-match-1795393@esport-ics
+DTSTART:20261108T180000Z
+DTEND:20261108T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #11 season 52 2026 - Playoff
+ s\nWatch: https://www.kick.com/ESLCS
+SUMMARY:Quarterfinal 3: ALL vs PRIV
+URL;VALUE=URI:https://www.kick.com/ESLCS
+END:VEVENT
 END:VCALENDAR

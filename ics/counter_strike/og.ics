@@ -574,4 +574,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #11 season 52 2026 - Group A
 SUMMARY:OG vs G2.A
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T180000Z
+UID:pandascore-match-1795389@esport-ics
+DTSTART:20261108T180000Z
+DTEND:20261108T201500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #11 season 52 2026 - Playoff
+ s\nWatch: https://www.kick.com/ESLCS
+SUMMARY:Quarterfinal 1: OG vs 9INE
+URL;VALUE=URI:https://www.kick.com/ESLCS
+END:VEVENT
 END:VCALENDAR
