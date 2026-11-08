@@ -168,6 +168,39 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Japan Stage 3 2026 - Playoffs\nWatch: https://www.twitch.
  tv/ow_esports_jp
 SUMMARY:Grand Final: MG vs VAR
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T113000Z
+UID:pandascore-match-1800724@esport-ics
+DTSTART:20261111T113000Z
+DTEND:20261111T134500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Asia Stage 3 2026 - Group A\nWatch: https://www.twitch.tv
+ /ow_esports_jp
+SUMMARY:FAL vs MG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T113000Z
+UID:pandascore-match-1800726@esport-ics
+DTSTART:20261112T113000Z
+DTEND:20261112T134500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Asia Stage 3 2026 - Group A\nWatch: https://www.twitch.tv
+ /ow_esports_jp
+SUMMARY:T1 vs MG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T080000Z
+UID:pandascore-match-1800727@esport-ics
+DTSTART:20261113T080000Z
+DTEND:20261113T101500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Asia Stage 3 2026 - Group A\nWatch: https://www.twitch.tv
+ /ow_esports_jp
+SUMMARY:MG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

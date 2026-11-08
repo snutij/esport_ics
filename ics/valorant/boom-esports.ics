@@ -69,6 +69,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Southeast Asia: Split 2 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/valorant_pacific
 SUMMARY:Lower bracket round 1 match 2: OAS vs BOOM
-URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T120000Z
+UID:pandascore-match-1800758@esport-ics
+DTSTART:20261110T120000Z
+DTEND:20261110T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Indonesia 2027 - Playoffs\nWatch
+ : https://www.youtube.com/@PredatorGamingIndonesia/live
+SUMMARY:Upper Bracket Quarterfinal 1: BOOM vs TBD
+URL;VALUE=URI:https://www.youtube.com/@PredatorGamingIndonesia/live
 END:VEVENT
 END:VCALENDAR
