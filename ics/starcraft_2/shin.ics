@@ -575,6 +575,17 @@ SUMMARY:Semifinal 2 Match 1: SHIN vs MaxPax
 URL;VALUE=URI:https://www.sooplive.com/station/zodiactv
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261108T131500Z
+UID:pandascore-match-1764489@esport-ics
+DTSTART:20261108T131500Z
+DTEND:20261108T153000Z
+CLASS:PUBLIC
+DESCRIPTION:IntoTheTV x SOOP SC2 League - Premier 2026 - Playoffs\nWatch: h
+ ttps://www.sooplive.com/station/zodiactv
+SUMMARY:Semifinal 2 Match 2: SHIN vs MaxPax
+URL;VALUE=URI:https://www.sooplive.com/station/zodiactv
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261110T130000Z
 UID:pandascore-match-1788782@esport-ics
 DTSTART:20261110T130000Z
