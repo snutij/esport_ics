@@ -366,6 +366,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Playoffs\nWatch: https://w
  ww.twitch.tv/callofduty
 SUMMARY:Lower bracket quarterfinal 1: FAZE.V vs C9.NY
-URL;VALUE=URI:https://www.twitch.tv/callofduty
+URL:https://www.twitch.tv/callofduty
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T180000Z
+UID:pandascore-match-1776505@esport-ics
+DTSTART:20261108T180000Z
+DTEND:20261108T214500Z
+CLASS:PUBLIC
+DESCRIPTION:Monster Launch Invitational - 2027 - Playoffs\nWatch: https://w
+ ww.twitch.tv/callofduty_esports
+SUMMARY:Lower bracket semifinal: C9.NY vs TEX
+URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
 END:VEVENT
 END:VCALENDAR

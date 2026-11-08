@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Oceania 2027 - Playoffs\nWatch: 
  https://www.twitch.tv/ausesportsau
 SUMMARY:Upper Bracket Semifinal 2: MeatZn vs CECIL
+URL:https://www.twitch.tv/ausesportsau
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261108T080000Z
+UID:pandascore-match-1797551@esport-ics
+DTSTART:20261108T080000Z
+DTEND:20261108T101500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Oceania 2027 - Playoffs\nWatch: 
+ https://www.twitch.tv/ausesportsau
+SUMMARY:Grand Final: CECIL vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ausesportsau
 END:VEVENT
 END:VCALENDAR
