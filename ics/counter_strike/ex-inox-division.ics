@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #12 2026 - Playoffs\nWatch: https://kick.co
  m/cct_cs2
 SUMMARY:Round of 16 Match 2: INOX vs TS.A
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T150000Z
+UID:pandascore-match-1796479@esport-ics
+DTSTART:20261111T150000Z
+DTEND:20261111T171500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: INOX vs 33
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

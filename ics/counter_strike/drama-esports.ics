@@ -676,4 +676,15 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #14 2026 - Group D
 SUMMARY:Decider match: Ryvex vs DRAMA
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T120000Z
+UID:pandascore-match-1796478@esport-ics
+DTSTART:20261111T120000Z
+DTEND:20261111T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: PHA vs DRAMA
+URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
 END:VCALENDAR

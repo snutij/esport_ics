@@ -168,6 +168,39 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Pacific Stage 3 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/ow_esports_th
 SUMMARY:Semifinal 1: TGG vs Stronghold
-URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
+URL:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T080000Z
+UID:pandascore-match-1800723@esport-ics
+DTSTART:20261111T080000Z
+DTEND:20261111T101500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Asia Stage 3 2026 - Group A\nWatch: https://www.twitch.tv
+ /ow_esports_jp
+SUMMARY:T1 vs TGG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T080000Z
+UID:pandascore-match-1800725@esport-ics
+DTSTART:20261112T080000Z
+DTEND:20261112T101500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Asia Stage 3 2026 - Group A\nWatch: https://www.twitch.tv
+ /ow_esports_jp
+SUMMARY:FAL vs TGG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T080000Z
+UID:pandascore-match-1800727@esport-ics
+DTSTART:20261113T080000Z
+DTEND:20261113T101500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Asia Stage 3 2026 - Group A\nWatch: https://www.twitch.tv
+ /ow_esports_jp
+SUMMARY:MG vs TGG
+URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
 END:VEVENT
 END:VCALENDAR

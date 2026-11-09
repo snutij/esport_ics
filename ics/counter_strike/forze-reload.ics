@@ -792,7 +792,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #13 2026 - Group Stage\nWatch: https://kick
  .com/cct_cs
 SUMMARY:Round 3: FORZE.R vs maybe
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261110T113000Z
@@ -802,7 +802,18 @@ DTEND:20261110T134500Z
 CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 10 2026 - Group C\nWatch: https://
  kick.com/eplcs_en
-SUMMARY:Winners match: FORZE.R vs TBD
+SUMMARY:Winners match: FORZE.R vs MOUZ.N
 URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T150000Z
+UID:pandascore-match-1796475@esport-ics
+DTSTART:20261110T150000Z
+DTEND:20261110T171500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 1: FORZE.R vs ex-RUSTEC
+URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR

@@ -102,6 +102,15 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - France: Revolution Stage 2 2026 - Playoffs\nWatch: https:
  //www.twitch.tv/valorant_fr
 SUMMARY:Lower bracket semifinal: WIP vs F9
-URL;VALUE=URI:https://www.twitch.tv/valorant_fr
+URL:https://www.twitch.tv/valorant_fr
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T160000Z
+UID:pandascore-match-1802838@esport-ics
+DTSTART:20261110T160000Z
+DTEND:20261110T181500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Kickoff: Europe Qualifier 2027 - Playoffs
+SUMMARY:Semifinal 1: xXxMasterProMegaTeamxXx vs F9
 END:VEVENT
 END:VCALENDAR
