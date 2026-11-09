@@ -430,6 +430,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2\nWatch: https://www.youtu
  be.com/watch?v=B7zc57iP-5U
 SUMMARY:Round 3: FX7M vs EDG
-URL;VALUE=URI:https://www.youtube.com/watch?v=B7zc57iP-5U
+URL:https://www.youtube.com/watch?v=B7zc57iP-5U
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T063000Z
+UID:pandascore-match-1801576@esport-ics
+DTSTART:20261110T063000Z
+DTEND:20261110T084500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2 - Swiss Stage\nWatch: htt
+ ps://www.twitch.tv/rainbow6
+SUMMARY:Round 4: FX7M vs 100T
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

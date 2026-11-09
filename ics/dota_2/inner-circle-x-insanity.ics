@@ -521,17 +521,6 @@ SUMMARY:Amaru Gaming vs ICxI
 URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261109T160000Z
-UID:pandascore-match-1791749@esport-ics
-DTSTART:20261109T160000Z
-DTEND:20261109T181500Z
-CLASS:PUBLIC
-DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
- //www.twitch.tv/esl_dota2
-SUMMARY:HULIGANI vs ICxI
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20261109T190000Z
 UID:pandascore-match-1791753@esport-ics
 DTSTART:20261109T190000Z
@@ -551,6 +540,17 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:Z10 vs ICxI
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T160000Z
+UID:pandascore-match-1791749@esport-ics
+DTSTART:20261110T160000Z
+DTEND:20261110T181500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
+ //www.twitch.tv/esl_dota2
+SUMMARY:HULIGANI vs ICxI
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT

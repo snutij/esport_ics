@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:GAS Esports
+SLUG:gas-esports
+BEGIN:VEVENT
+DTSTAMP:20261110T143000Z
+UID:pandascore-match-1800760@esport-ics
+DTSTART:20261110T143000Z
+DTEND:20261110T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Indonesia 2027 - Playoffs\nWatch
+ : https://www.youtube.com/@PredatorGamingIndonesia/live
+SUMMARY:Upper Bracket Quarterfinal 3: Alter Ego x Kertanegara vs GAS
+URL;VALUE=URI:https://www.youtube.com/@PredatorGamingIndonesia/live
+END:VEVENT
+END:VCALENDAR

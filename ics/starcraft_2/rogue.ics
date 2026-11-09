@@ -610,4 +610,15 @@ DESCRIPTION:WardiTV - Championship Not-Summer 2026 - Playoffs\nWatch: https
 SUMMARY:Lower bracket round 1 match 3: Rogue vs uThermal
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T110000Z
+UID:pandascore-match-1801594@esport-ics
+DTSTART:20261117T110000Z
+DTEND:20261117T161500Z
+CLASS:PUBLIC
+DESCRIPTION:LiuLi Cup - Season 55 2026 - Playoffs\nWatch: https://live.bili
+ bili.com/4670738
+SUMMARY:Semifinal 1: Maru vs Rogue
+URL;VALUE=URI:https://live.bilibili.com/4670738
+END:VEVENT
 END:VCALENDAR

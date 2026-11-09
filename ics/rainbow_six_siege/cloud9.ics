@@ -322,6 +322,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2\nWatch: https://www.youtu
  be.com/watch?v=mBFGRLTd3Jg
 SUMMARY:Round 3: C9 vs VP
-URL;VALUE=URI:https://www.youtube.com/watch?v=mBFGRLTd3Jg
+URL:https://www.youtube.com/watch?v=mBFGRLTd3Jg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T003000Z
+UID:pandascore-match-1801575@esport-ics
+DTSTART:20261110T003000Z
+DTEND:20261110T024500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2 - Swiss Stage\nWatch: htt
+ ps://www.twitch.tv/rainbow6
+SUMMARY:Round 4: C9 vs WBG
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

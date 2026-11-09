@@ -157,6 +157,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Pacific Stage 3 2026 - Group Stage\nWatch: https://www.tw
  itch.tv/ow_esports_th
 SUMMARY:SJK vs TGG
+URL:https://www.twitch.tv/ow_esports_th
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T110000Z
+UID:pandascore-match-1783587@esport-ics
+DTSTART:20261109T110000Z
+DTEND:20261109T131500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - Pacific Stage 3 2026 - Playoffs\nWatch: https://www.twitc
+ h.tv/ow_esports_th
+SUMMARY:Semifinal 1: TGG vs Stronghold
 URL;VALUE=URI:https://www.twitch.tv/ow_esports_th
 END:VEVENT
 END:VCALENDAR
