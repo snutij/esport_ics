@@ -311,17 +311,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2\nWatch: https://www.twitc
  h.tv/rainbow6
 SUMMARY:Round 3: C9 vs DZ
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL:https://www.twitch.tv/rainbow6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261109T013000Z
+DTSTAMP:20261109T014500Z
 UID:pandascore-match-1799937@esport-ics
-DTSTART:20261109T013000Z
-DTEND:20261109T021500Z
+DTSTART:20261109T014500Z
+DTEND:20261109T023000Z
 CLASS:PUBLIC
-DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2\nWatch: https://www.twitc
- h.tv/rainbow6
+DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2\nWatch: https://www.youtu
+ be.com/watch?v=mBFGRLTd3Jg
 SUMMARY:Round 3: C9 vs VP
-URL;VALUE=URI:https://www.twitch.tv/rainbow6
+URL;VALUE=URI:https://www.youtube.com/watch?v=mBFGRLTd3Jg
 END:VEVENT
 END:VCALENDAR
