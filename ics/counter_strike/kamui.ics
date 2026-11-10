@@ -111,6 +111,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #3 2026 - Group C\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:Elimination Match: KAMUI vs XI
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T180000Z
+UID:pandascore-match-1804956@esport-ics
+DTSTART:20261113T180000Z
+DTEND:20261113T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #4 2026 - Group A\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:KAMUI vs AUR.YB
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

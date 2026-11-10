@@ -14,4 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Indonesia 2027 - Playoffs
 SUMMARY:Upper Bracket Quarterfinal 2: SLG vs SUR
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T120000Z
+UID:pandascore-match-1804302@esport-ics
+DTSTART:20261112T120000Z
+DTEND:20261112T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Indonesia 2027 - Playoffs\nWatch
+ : https://www.youtube.com/@PredatorGamingIndonesia/live
+SUMMARY:Upper Bracket Semifinal 1: BOOM vs SLG
+URL;VALUE=URI:https://www.youtube.com/@PredatorGamingIndonesia/live
+END:VEVENT
 END:VCALENDAR

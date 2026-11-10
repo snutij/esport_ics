@@ -14,4 +14,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Thailand 2027 - Playoffs
 SUMMARY:Upper Bracket Quarterfinal 1: Fourdaboy vs 1DAY24
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T120000Z
+UID:pandascore-match-1802914@esport-ics
+DTSTART:20261111T120000Z
+DTEND:20261111T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Thailand 2027 - Playoffs\nWatch:
+  https://www.youtube.com/@PredatorLeagueThailand/live
+SUMMARY:Lower Bracket Round 1 match 1: 1DAY24 vs GODX
+URL;VALUE=URI:https://www.youtube.com/@PredatorLeagueThailand/live
+END:VEVENT
 END:VCALENDAR

@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Contenders #10 2026 - Playoffs\nWatch: https://kic
  k.com/cct_cs5
 SUMMARY:Lower Bracket Final: prodigy vs Ducks
-URL;VALUE=URI:https://kick.com/cct_cs5
+URL:https://kick.com/cct_cs5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T120000Z
+UID:pandascore-match-1804961@esport-ics
+DTSTART:20261111T120000Z
+DTEND:20261111T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #4 2026 - Group D\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:ex-Sashi Academy vs Ducks
+URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR

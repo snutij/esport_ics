@@ -415,4 +415,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:IC.P vs REV
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T150000Z
+UID:pandascore-match-1804952@esport-ics
+DTSTART:20261113T150000Z
+DTEND:20261113T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #4 2026 - Group A\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:REV vs ESB
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
 END:VCALENDAR

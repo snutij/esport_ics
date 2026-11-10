@@ -278,6 +278,17 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Not-Summer 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/wardiii
 SUMMARY:Upper bracket round 1 match 4: Percival vs Shameless
+URL:https://www.twitch.tv/wardiii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T150000Z
+UID:pandascore-match-1788787@esport-ics
+DTSTART:20261112T150000Z
+DTEND:20261112T184500Z
+CLASS:PUBLIC
+DESCRIPTION:WardiTV - Championship Not-Summer 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/wardiii
+SUMMARY:Lower bracket round 1 match 4: youngYakov vs Percival
 URL;VALUE=URI:https://www.twitch.tv/wardiii
 END:VEVENT
 END:VCALENDAR
