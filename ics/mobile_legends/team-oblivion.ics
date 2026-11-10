@@ -47,6 +47,17 @@ CLASS:PUBLIC
 DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group B\nWatch: http
  s://www.twitch.tv/betboom_esports
 SUMMARY:OBV vs Aurevia Team
+URL:https://www.twitch.tv/betboom_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T133000Z
+UID:pandascore-match-1802901@esport-ics
+DTSTART:20261111T133000Z
+DTEND:20261111T154500Z
+CLASS:PUBLIC
+DESCRIPTION:BetBoom Rise of Legends - Season 11 2026 - Group B\nWatch: http
+ s://www.twitch.tv/betboom_esports
+SUMMARY:OBV vs Dark Phoenix
 URL;VALUE=URI:https://www.twitch.tv/betboom_esports
 END:VEVENT
 END:VCALENDAR

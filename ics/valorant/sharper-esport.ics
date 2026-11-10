@@ -179,7 +179,7 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Pacific Stage 2 2026 - Play-In\nWatch: https://www.twitch
  .tv/valorant_pacific
 SUMMARY:Lower bracket round 3 match 1: SPE vs OSG
-URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+URL:https://www.twitch.tv/valorant_pacific
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260823T110000Z
@@ -191,5 +191,16 @@ DESCRIPTION:VCT - Pacific Stage 2 2026 - Play-In\nWatch: https://www.twitch
  .tv/valorant_pacific
 SUMMARY:Lower bracket round 3 match 2: SPE vs TBD
 URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T120000Z
+UID:pandascore-match-1802908@esport-ics
+DTSTART:20261110T120000Z
+DTEND:20261110T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Thailand 2027 - Playoffs\nWatch:
+  https://www.youtube.com/@PredatorLeagueThailand/live
+SUMMARY:Upper Bracket Quarterfinal 2: SPE vs GODX
+URL;VALUE=URI:https://www.youtube.com/@PredatorLeagueThailand/live
 END:VEVENT
 END:VCALENDAR

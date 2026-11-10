@@ -192,4 +192,15 @@ DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Group Stage\nWatch: htt
 SUMMARY:Round 1: ACES vs BAKS
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T180000Z
+UID:pandascore-match-1786821@esport-ics
+DTSTART:20261111T180000Z
+DTEND:20261111T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #13 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs
+SUMMARY:Round 4: ACES vs FORZE.R
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
 END:VCALENDAR

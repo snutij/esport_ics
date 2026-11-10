@@ -1146,7 +1146,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Closed Qualifier: Series #14 2026 - Play-In\nWatch
  : https://kick.com/cct_cs2
 SUMMARY:maybe vs MSC
-URL;VALUE=URI:https://kick.com/cct_cs2
+URL:https://kick.com/cct_cs2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T190000Z
@@ -1157,7 +1157,7 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:MSC vs EACE
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T200000Z
@@ -1168,6 +1168,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:XI vs MSC
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T150000Z
+UID:pandascore-match-1789149@esport-ics
+DTSTART:20261111T150000Z
+DTEND:20261111T171500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #14 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 1: FORZE.R vs MSC
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

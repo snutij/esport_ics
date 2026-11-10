@@ -330,4 +330,15 @@ DESCRIPTION:European Pro League - Season 10 2026 - Group C\nWatch: https://
 SUMMARY:Elimination match: NAVI.J vs SKR
 URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T090000Z
+UID:pandascore-match-1789147@esport-ics
+DTSTART:20261111T090000Z
+DTEND:20261111T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #14 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 1: ex-RUSTEC vs SKR
+URL;VALUE=URI:https://kick.com/cct_cs2
+END:VEVENT
 END:VCALENDAR

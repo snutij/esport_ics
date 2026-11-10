@@ -1263,7 +1263,7 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #13 2026 - Group Stage\nWatch: https://kick
  .com/cct_cs
 SUMMARY:Round 3: Gothic vs TLR
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261108T140000Z
@@ -1273,5 +1273,27 @@ DTEND:20261108T161500Z
 CLASS:PUBLIC
 DESCRIPTION:ESL Challenger League - Europe Cup #11 season 52 2026 - Group B
 SUMMARY:Decider match: BAL vs TLR
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T180000Z
+UID:pandascore-match-1786818@esport-ics
+DTSTART:20261110T180000Z
+DTEND:20261110T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #13 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs
+SUMMARY:Round 4: TLR vs MEGO
+URL;VALUE=URI:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T180000Z
+UID:pandascore-match-1789150@esport-ics
+DTSTART:20261111T180000Z
+DTEND:20261111T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #14 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 1: WAL vs TLR
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR
