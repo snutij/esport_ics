@@ -333,6 +333,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2 - Swiss Stage\nWatch: htt
  ps://www.twitch.tv/rainbow6bravo
 SUMMARY:Round 4: FX7M vs 100T
-URL;VALUE=URI:https://www.twitch.tv/rainbow6bravo
+URL:https://www.twitch.tv/rainbow6bravo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T003000Z
+UID:pandascore-match-1803604@esport-ics
+DTSTART:20261111T003000Z
+DTEND:20261111T024500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2 - Swiss Stage\nWatch: htt
+ ps://www.twitch.tv/rainbow6
+SUMMARY:Round 5: 100T vs M80
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

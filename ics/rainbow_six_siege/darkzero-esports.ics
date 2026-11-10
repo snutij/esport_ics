@@ -538,6 +538,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2 - Swiss Stage\nWatch: htt
  ps://www.twitch.tv/rainbow6
 SUMMARY:Round 4: DZ vs Sharper
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T033000Z
+UID:pandascore-match-1803605@esport-ics
+DTSTART:20261111T033000Z
+DTEND:20261111T054500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2 - Swiss Stage\nWatch: htt
+ ps://www.twitch.tv/rainbow6
+SUMMARY:Round 5: WBG vs DZ
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

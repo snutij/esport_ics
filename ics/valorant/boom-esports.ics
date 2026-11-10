@@ -80,6 +80,15 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Indonesia 2027 - Playoffs\nWatch
  : https://www.youtube.com/@PredatorGamingIndonesia/live
 SUMMARY:Upper Bracket Quarterfinal 1: BOOM vs RJL
-URL;VALUE=URI:https://www.youtube.com/@PredatorGamingIndonesia/live
+URL:https://www.youtube.com/@PredatorGamingIndonesia/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T120000Z
+UID:pandascore-match-1803627@esport-ics
+DTSTART:20261110T120000Z
+DTEND:20261110T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Indonesia 2027 - Playoffs
+SUMMARY:Upper bracket quarterfinal 1: BOOM vs GAS
 END:VEVENT
 END:VCALENDAR
