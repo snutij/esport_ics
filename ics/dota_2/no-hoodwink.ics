@@ -135,6 +135,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Group A\nWatch: https://
  www.twitch.tv/epc_en
 SUMMARY: oveA vs NH
+URL:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T180000Z
+UID:pandascore-match-1805034@esport-ics
+DTSTART:20261112T180000Z
+DTEND:20261112T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/epc_en
+SUMMARY:Upper bracket quarterfinal 4: NH vs  oveA
 URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

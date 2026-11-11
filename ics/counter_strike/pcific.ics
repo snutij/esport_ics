@@ -67,6 +67,15 @@ CLASS:PUBLIC
 DESCRIPTION:LG UltraGear Tournament - 2026 - Playoffs\nWatch: https://www.t
  witch.tv/myskill_top
 SUMMARY:Grand final: CSH.P vs PCF
-URL;VALUE=URI:https://www.twitch.tv/myskill_top
+URL:https://www.twitch.tv/myskill_top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261111T150000Z
+UID:pandascore-match-1804938@esport-ics
+DTSTART:20261111T150000Z
+DTEND:20261111T171500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL - Cluj-Napoca: Open Qualifier 1 2027 - Playoffs
+SUMMARY:Semifinal 2: PCF vs MGC
 END:VEVENT
 END:VCALENDAR
