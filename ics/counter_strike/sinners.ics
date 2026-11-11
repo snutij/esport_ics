@@ -976,6 +976,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Playoffs\nWatch: https://kick.com/dr
  aculancs
 SUMMARY:Grand final: SIN vs EF
-URL;VALUE=URI:https://kick.com/draculancs
+URL:https://kick.com/draculancs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T100000Z
+UID:pandascore-match-1805727@esport-ics
+DTSTART:20261117T100000Z
+DTEND:20261117T121500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport RUSH - Brno 2026 - Group A\nWatch: https://www.twitch.
+ tv/playzoneup
+SUMMARY:SIN vs NXS
+URL;VALUE=URI:https://www.twitch.tv/playzoneup
 END:VEVENT
 END:VCALENDAR

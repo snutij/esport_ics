@@ -604,6 +604,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2 - Swiss Stage\nWatch: htt
  ps://www.twitch.tv/rainbow6
 SUMMARY:Round 4: FaZe vs LOS
+URL:https://www.twitch.tv/rainbow6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T093000Z
+UID:pandascore-match-1801585@esport-ics
+DTSTART:20261113T093000Z
+DTEND:20261113T114500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 3 - Playoffs\nWatch: https:
+ //www.twitch.tv/rainbow6
+SUMMARY:Quarterfinal 4: G2 vs FaZe
 URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR

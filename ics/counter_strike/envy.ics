@@ -87,6 +87,17 @@ DTEND:20261028T191500Z
 CLASS:PUBLIC
 DESCRIPTION:Tesla Cup - 2026 - Group B\nWatch: https://kick.com/rlgcs
 SUMMARY:Elimination Match: LG vs ENVY
-URL;VALUE=URI:https://kick.com/rlgcs
+URL:https://kick.com/rlgcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T190000Z
+UID:pandascore-match-1805732@esport-ics
+DTSTART:20261117T190000Z
+DTEND:20261117T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Tipsport RUSH - Brno 2026 - Group B\nWatch: https://www.twitch.
+ tv/playzoneup
+SUMMARY:ENVY vs MZP
+URL;VALUE=URI:https://www.twitch.tv/playzoneup
 END:VEVENT
 END:VCALENDAR

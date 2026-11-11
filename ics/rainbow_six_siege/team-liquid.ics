@@ -419,6 +419,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 2\nWatch: https://www.youtu
  be.com/watch?v=mBFGRLTd3Jg
 SUMMARY:Round 3: Liquid vs GE
-URL;VALUE=URI:https://www.youtube.com/watch?v=mBFGRLTd3Jg
+URL:https://www.youtube.com/watch?v=mBFGRLTd3Jg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T033000Z
+UID:pandascore-match-1801583@esport-ics
+DTSTART:20261113T033000Z
+DTEND:20261113T054500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST R6 Major - Osaka 2026 - Phase 3 - Playoffs\nWatch: https:
+ //www.twitch.tv/rainbow6
+SUMMARY:Quarterfinal 2: Liquid vs DZ
+URL;VALUE=URI:https://www.twitch.tv/rainbow6
 END:VEVENT
 END:VCALENDAR
