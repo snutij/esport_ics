@@ -1152,6 +1152,15 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Season 3 2026 - Playoffs\nWatch: https://www.kic
  k.com/fiesta_cs
 SUMMARY:Quarterfinal 3: INOX vs Honvéd
-URL;VALUE=URI:https://www.kick.com/fiesta_cs
+URL:https://www.kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T140000Z
+UID:pandascore-match-1806985@esport-ics
+DTSTART:20261112T140000Z
+DTEND:20261112T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #12 season 52 2026 - Group B
+SUMMARY:INOX vs mixLVLT
 END:VEVENT
 END:VCALENDAR

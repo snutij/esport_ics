@@ -1081,6 +1081,28 @@ CLASS:PUBLIC
 DESCRIPTION:PARI Universe - 2026 - Playoffs\nWatch: https://kick.com/fissur
  e_dota_en
 SUMMARY:Lower Bracket Quarterfinal 1: Liquid vs OG
-URL;VALUE=URI:https://kick.com/fissure_dota_en
+URL:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T160000Z
+UID:pandascore-match-1806970@esport-ics
+DTSTART:20261113T160000Z
+DTEND:20261113T181500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 3 2026 - Group C\nWatch: https://www.twit
+ ch.tv/1win_dota
+SUMMARY:Liquid vs LGD
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T140000Z
+UID:pandascore-match-1793324@esport-ics
+DTSTART:20261114T140000Z
+DTEND:20261114T161500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 3 2026 - Group C\nWatch: https://www.twit
+ ch.tv/1win_dota
+SUMMARY:Liquid vs LEGION
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

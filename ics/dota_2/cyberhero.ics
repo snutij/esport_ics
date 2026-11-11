@@ -355,7 +355,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:TTS vs CH
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261112T130000Z
@@ -369,6 +369,28 @@ SUMMARY:CH vs ALL
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261113T100000Z
+UID:pandascore-match-1793321@esport-ics
+DTSTART:20261113T100000Z
+DTEND:20261113T121500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 3 2026 - Group B\nWatch: https://www.twit
+ ch.tv/1win_dota
+SUMMARY:GL vs CH
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T180000Z
+UID:pandascore-match-1791799@esport-ics
+DTSTART:20261113T180000Z
+DTEND:20261113T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/esl_dota2
+SUMMARY:Upper Bracket Quarterfinal 3: CH vs XE
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261114T160000Z
 UID:pandascore-match-1785762@esport-ics
 DTSTART:20261114T160000Z
@@ -378,6 +400,17 @@ DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:TS vs CH
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T170000Z
+UID:pandascore-match-1793322@esport-ics
+DTSTART:20261114T170000Z
+DTEND:20261114T191500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 3 2026 - Group B\nWatch: https://www.twit
+ ch.tv/1win_dota
+SUMMARY:AUR vs CH
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261115T190000Z

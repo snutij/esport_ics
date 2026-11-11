@@ -506,6 +506,28 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 1: ex-UPGRADE vs BTF
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T120000Z
+UID:pandascore-match-1796482@esport-ics
+DTSTART:20261112T120000Z
+DTEND:20261112T141500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 2: FORZE.R vs BTF
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T090000Z
+UID:pandascore-match-1789155@esport-ics
+DTSTART:20261113T090000Z
+DTEND:20261113T111500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #14 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 2: BTF vs Leo
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

@@ -1235,4 +1235,15 @@ DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
 SUMMARY:PckCp vs Z10
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T180000Z
+UID:pandascore-match-1791805@esport-ics
+DTSTART:20261114T180000Z
+DTEND:20261114T201500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/esl_dota2
+SUMMARY:Lower Bracket Round 1 match 2: TBD vs Z10
+URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
 END:VCALENDAR

@@ -1136,6 +1136,28 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Slam - Season 8 2026 - Playoffs\nWatch: https://www.twitc
  h.tv/BLASTDota
 SUMMARY:Lower Bracket Semifinal: PARI vs AUR
-URL;VALUE=URI:https://www.twitch.tv/BLASTDota
+URL:https://www.twitch.tv/BLASTDota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T130000Z
+UID:pandascore-match-1793320@esport-ics
+DTSTART:20261112T130000Z
+DTEND:20261112T151500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 3 2026 - Group B\nWatch: https://www.twit
+ ch.tv/1win_dota
+SUMMARY:AUR vs GL
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T170000Z
+UID:pandascore-match-1793322@esport-ics
+DTSTART:20261114T170000Z
+DTEND:20261114T191500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 3 2026 - Group B\nWatch: https://www.twit
+ ch.tv/1win_dota
+SUMMARY:AUR vs CH
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

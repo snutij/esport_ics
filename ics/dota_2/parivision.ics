@@ -1037,6 +1037,28 @@ CLASS:PUBLIC
 DESCRIPTION:PARI Universe - 2026 - Playoffs\nWatch: https://kick.com/fissur
  e_dota_en
 SUMMARY:Lower Bracket Quarterfinal 2: TS vs PARI
-URL;VALUE=URI:https://kick.com/fissure_dota_en
+URL:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T160000Z
+UID:pandascore-match-1793317@esport-ics
+DTSTART:20261112T160000Z
+DTEND:20261112T181500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 3 2026 - Group A\nWatch: https://www.twit
+ ch.tv/1win_dota
+SUMMARY:PARI vs KONCA
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T130000Z
+UID:pandascore-match-1793318@esport-ics
+DTSTART:20261113T130000Z
+DTEND:20261113T151500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 3 2026 - Group A\nWatch: https://www.twit
+ ch.tv/1win_dota
+SUMMARY:PARI vs YeS
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

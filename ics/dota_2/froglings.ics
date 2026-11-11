@@ -124,7 +124,7 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:XE vs Froglings
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261111T190000Z
@@ -135,6 +135,39 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
  //www.twitch.tv/esl_dota2
 SUMMARY:Froglings vs Nemiga
+URL:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T143000Z
+UID:pandascore-match-1791798@esport-ics
+DTSTART:20261113T143000Z
+DTEND:20261113T164500Z
+CLASS:PUBLIC
+DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Playoffs\nWatch: https
+ ://www.twitch.tv/esl_dota2
+SUMMARY:Upper Bracket Quarterfinal 2: Froglings vs PckCp
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T190000Z
+UID:pandascore-match-1793327@esport-ics
+DTSTART:20261113T190000Z
+DTEND:20261113T211500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 3 2026 - Group D\nWatch: https://www.twit
+ ch.tv/1win_dota
+SUMMARY:TS vs Froglings
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T200000Z
+UID:pandascore-match-1793326@esport-ics
+DTSTART:20261114T200000Z
+DTEND:20261114T221500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 3 2026 - Group D\nWatch: https://www.twit
+ ch.tv/1win_dota
+SUMMARY:1W vs Froglings
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

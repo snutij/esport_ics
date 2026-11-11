@@ -1874,6 +1874,28 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 1: ex-ZT vs TS.A
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T150000Z
+UID:pandascore-match-1796483@esport-ics
+DTSTART:20261112T150000Z
+DTEND:20261112T171500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 2: ex-ZT vs Nice Try
 URL;VALUE=URI:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T120000Z
+UID:pandascore-match-1789156@esport-ics
+DTSTART:20261113T120000Z
+DTEND:20261113T141500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Series #14 2026 - Group Stage\nWatch: https://kick
+ .com/cct_cs2
+SUMMARY:Round 2: ex-ZT vs BAKS
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

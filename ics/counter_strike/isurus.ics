@@ -1082,6 +1082,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT South America - Series 8 2026 - Group Stage\nWatch: https:/
  /kick.com/cct_cs3
 SUMMARY:Round 4: ISG vs RED.A
+URL:https://kick.com/cct_cs3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T160000Z
+UID:pandascore-match-1786733@esport-ics
+DTSTART:20261112T160000Z
+DTEND:20261112T181500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT South America - Series 8 2026 - Playoffs\nWatch: https://ki
+ ck.com/cct_cs3
+SUMMARY:Round 16 match 6: ex-Yawara vs ISG
 URL;VALUE=URI:https://kick.com/cct_cs3
 END:VEVENT
 END:VCALENDAR

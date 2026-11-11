@@ -1070,6 +1070,28 @@ CLASS:PUBLIC
 DESCRIPTION:PARI Universe - 2026 - Playoffs\nWatch: https://kick.com/fissur
  e_dota_en
 SUMMARY:Grand Final: TY vs TS
-URL;VALUE=URI:https://kick.com/fissure_dota_en
+URL:https://kick.com/fissure_dota_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T190000Z
+UID:pandascore-match-1793328@esport-ics
+DTSTART:20261112T190000Z
+DTEND:20261112T211500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 3 2026 - Group D\nWatch: https://www.twit
+ ch.tv/1win_dota
+SUMMARY:TS vs 1W
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T190000Z
+UID:pandascore-match-1793327@esport-ics
+DTSTART:20261113T190000Z
+DTEND:20261113T211500Z
+CLASS:PUBLIC
+DESCRIPTION:1win Essence - Season 3 2026 - Group D\nWatch: https://www.twit
+ ch.tv/1win_dota
+SUMMARY:TS vs Froglings
+URL;VALUE=URI:https://www.twitch.tv/1win_dota
 END:VEVENT
 END:VCALENDAR

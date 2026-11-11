@@ -685,6 +685,26 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 1: PHA vs DRAMA
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T140000Z
+UID:pandascore-match-1806991@esport-ics
+DTSTART:20261112T140000Z
+DTEND:20261112T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ESL Challenger League - Europe Cup #12 season 52 2026 - Group C
+SUMMARY:6yuBoJlbl vs DRAMA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T150000Z
+UID:pandascore-match-1796486@esport-ics
+DTSTART:20261113T150000Z
+DTEND:20261113T171500Z
+CLASS:PUBLIC
+DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Group Stage\nWatch: htt
+ ps://kick.com/nodwin_cs2
+SUMMARY:Round 2: ex-UPGRADE vs DRAMA
 URL;VALUE=URI:https://kick.com/nodwin_cs2
 END:VEVENT
 END:VCALENDAR
