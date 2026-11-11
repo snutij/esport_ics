@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Young Gaming
+SLUG:young-gaming
+BEGIN:VEVENT
+DTSTAMP:20261113T060000Z
+UID:pandascore-match-1805911@esport-ics
+DTSTART:20261113T060000Z
+DTEND:20261113T081500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:LGD vs Young Gaming
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T083000Z
+UID:pandascore-match-1805915@esport-ics
+DTSTART:20261114T083000Z
+DTEND:20261114T104500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Young Gaming vs FPX
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T083000Z
+UID:pandascore-match-1805921@esport-ics
+DTSTART:20261116T083000Z
+DTEND:20261116T104500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Young Gaming vs UR
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T110000Z
+UID:pandascore-match-1805925@esport-ics
+DTSTART:20261117T110000Z
+DTEND:20261117T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Young Gaming vs AQ
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261118T083000Z
+UID:pandascore-match-1805927@esport-ics
+DTSTART:20261118T083000Z
+DTEND:20261118T104500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Young Gaming vs Havoc & Yonder
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261120T083000Z
+UID:pandascore-match-1805933@esport-ics
+DTSTART:20261120T083000Z
+DTEND:20261120T104500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Young Gaming vs Hyper Tide Gaming
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261121T060000Z
+UID:pandascore-match-1805935@esport-ics
+DTSTART:20261121T060000Z
+DTEND:20261121T081500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Young Gaming vs XJG
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+END:VCALENDAR

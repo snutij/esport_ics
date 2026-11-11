@@ -124,6 +124,83 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Threshold China 2026 - Week 2\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Grand Final: UR vs NOVA
-URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T060000Z
+UID:pandascore-match-1805914@esport-ics
+DTSTART:20261114T060000Z
+DTEND:20261114T081500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Havoc & Yonder vs UR
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T110000Z
+UID:pandascore-match-1805919@esport-ics
+DTSTART:20261115T110000Z
+DTEND:20261115T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Hyper Tide Gaming vs UR
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T083000Z
+UID:pandascore-match-1805921@esport-ics
+DTSTART:20261116T083000Z
+DTEND:20261116T104500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Young Gaming vs UR
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261118T110000Z
+UID:pandascore-match-1805928@esport-ics
+DTSTART:20261118T110000Z
+DTEND:20261118T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:XJG vs UR
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T110000Z
+UID:pandascore-match-1805931@esport-ics
+DTSTART:20261119T110000Z
+DTEND:20261119T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:AQ vs UR
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261120T060000Z
+UID:pandascore-match-1805932@esport-ics
+DTSTART:20261120T060000Z
+DTEND:20261120T081500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:LGD vs UR
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261122T083000Z
+UID:pandascore-match-1805938@esport-ics
+DTSTART:20261122T083000Z
+DTEND:20261122T104500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:FPX vs UR
+URL;VALUE=URI:https://weibo.com/7864854446
 END:VEVENT
 END:VCALENDAR

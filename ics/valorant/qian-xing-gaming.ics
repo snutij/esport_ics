@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Qian Xing Gaming
+SLUG:qian-xing-gaming
+BEGIN:VEVENT
+DTSTAMP:20261113T083000Z
+UID:pandascore-match-1805879@esport-ics
+DTSTART:20261113T083000Z
+DTEND:20261113T104500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:Qian Xing Gaming vs KBG
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T110000Z
+UID:pandascore-match-1805883@esport-ics
+DTSTART:20261114T110000Z
+DTEND:20261114T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:ALG vs Qian Xing Gaming
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T060000Z
+UID:pandascore-match-1805884@esport-ics
+DTSTART:20261115T060000Z
+DTEND:20261115T081500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:Qian Xing Gaming vs Victory No Limits
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T060000Z
+UID:pandascore-match-1805890@esport-ics
+DTSTART:20261117T060000Z
+DTEND:20261117T081500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:Qian Xing Gaming vs AT
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261118T110000Z
+UID:pandascore-match-1805895@esport-ics
+DTSTART:20261118T110000Z
+DTEND:20261118T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:Qian Xing Gaming vs LNG GC
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T060000Z
+UID:pandascore-match-1805896@esport-ics
+DTSTART:20261119T060000Z
+DTEND:20261119T081500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:Qian Xing Gaming vs SEC
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261121T060000Z
+UID:pandascore-match-1805902@esport-ics
+DTSTART:20261121T060000Z
+DTEND:20261121T081500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:TEC vs Qian Xing Gaming
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+END:VCALENDAR

@@ -100,6 +100,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Thailand 2027 - Playoffs\nWatch:
   https://www.youtube.com/@PredatorLeagueThailand/live
 SUMMARY:Upper Bracket Semifinal 2: XE vs Salamander
+URL:https://www.youtube.com/@PredatorLeagueThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T120000Z
+UID:pandascore-match-1802913@esport-ics
+DTSTART:20261113T120000Z
+DTEND:20261113T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Asia Pacific Predator League - Thailand 2027 - Playoffs\nWatch:
+  https://www.youtube.com/@PredatorLeagueThailand/live
+SUMMARY:Upper Bracket Final: XE vs Fourdaboy
 URL;VALUE=URI:https://www.youtube.com/@PredatorLeagueThailand/live
 END:VEVENT
 END:VCALENDAR

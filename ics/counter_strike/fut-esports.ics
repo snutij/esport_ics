@@ -586,6 +586,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Rivals - Fall 2026 - Group B\nWatch: https://www.twitch.t
  v/BLASTPremier
 SUMMARY:TS vs FUT
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T070000Z
+UID:pandascore-match-1762461@esport-ics
+DTSTART:20261112T070000Z
+DTEND:20261112T091500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Fall 2026 - Group B\nWatch: https://www.twitch.t
+ v/BLASTPremier
+SUMMARY:Elimination Match: FUT vs MOUZ
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

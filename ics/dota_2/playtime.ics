@@ -600,7 +600,7 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
  //www.twitch.tv/esl_dota2storm
 SUMMARY:PlayTime vs TS
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
+URL:https://www.twitch.tv/esl_dota2storm
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261111T130000Z
@@ -611,7 +611,7 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group A\nWatch: https:
  //www.twitch.tv/esl_dota2ember
 SUMMARY:PlayTime vs Zenith
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2ember
+URL:https://www.twitch.tv/esl_dota2ember
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261111T190000Z

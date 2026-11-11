@@ -14,6 +14,83 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Threshold China 2026 - Week 2\nWatch: https://www.twitch.
  tv/valorantesports_cn
 SUMMARY:Round 1 Match 1: UR vs Victory No Limits
-URL;VALUE=URI:https://www.twitch.tv/valorantesports_cn
+URL:https://www.twitch.tv/valorantesports_cn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T110000Z
+UID:pandascore-match-1805880@esport-ics
+DTSTART:20261113T110000Z
+DTEND:20261113T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:Victory No Limits vs AT
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T060000Z
+UID:pandascore-match-1805884@esport-ics
+DTSTART:20261115T060000Z
+DTEND:20261115T081500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:Qian Xing Gaming vs Victory No Limits
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T110000Z
+UID:pandascore-match-1805889@esport-ics
+DTSTART:20261116T110000Z
+DTEND:20261116T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:ALG vs Victory No Limits
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T110000Z
+UID:pandascore-match-1805892@esport-ics
+DTSTART:20261117T110000Z
+DTEND:20261117T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:TEC vs Victory No Limits
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T110000Z
+UID:pandascore-match-1805898@esport-ics
+DTSTART:20261119T110000Z
+DTEND:20261119T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:Victory No Limits vs LNG GC
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261120T110000Z
+UID:pandascore-match-1805901@esport-ics
+DTSTART:20261120T110000Z
+DTEND:20261120T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:Victory No Limits vs SEC
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261121T110000Z
+UID:pandascore-match-1805904@esport-ics
+DTSTART:20261121T110000Z
+DTEND:20261121T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup A\nWatch: https://weibo.com/7864854446
+SUMMARY:KBG vs Victory No Limits
+URL;VALUE=URI:https://weibo.com/7864854446
 END:VEVENT
 END:VCALENDAR

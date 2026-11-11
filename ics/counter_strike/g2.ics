@@ -878,6 +878,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Rivals - Fall 2026 - Group B\nWatch: https://www.twitch.t
  v/BLASTPremier
 SUMMARY:MOUZ vs G2
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T093000Z
+UID:pandascore-match-1762462@esport-ics
+DTSTART:20261112T093000Z
+DTEND:20261112T114500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Fall 2026 - Group B\nWatch: https://www.twitch.t
+ v/BLASTPremier
+SUMMARY:Winners Match: TS vs G2
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

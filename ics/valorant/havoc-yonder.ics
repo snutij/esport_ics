@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Havoc & Yonder
+SLUG:havoc-yonder
+BEGIN:VEVENT
+DTSTAMP:20261113T083000Z
+UID:pandascore-match-1805912@esport-ics
+DTSTART:20261113T083000Z
+DTEND:20261113T104500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:XJG vs Havoc & Yonder
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T060000Z
+UID:pandascore-match-1805914@esport-ics
+DTSTART:20261114T060000Z
+DTEND:20261114T081500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Havoc & Yonder vs UR
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T083000Z
+UID:pandascore-match-1805918@esport-ics
+DTSTART:20261115T083000Z
+DTEND:20261115T104500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Havoc & Yonder vs FPX
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T083000Z
+UID:pandascore-match-1805924@esport-ics
+DTSTART:20261117T083000Z
+DTEND:20261117T104500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:LGD vs Havoc & Yonder
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261118T083000Z
+UID:pandascore-match-1805927@esport-ics
+DTSTART:20261118T083000Z
+DTEND:20261118T104500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Young Gaming vs Havoc & Yonder
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T083000Z
+UID:pandascore-match-1805930@esport-ics
+DTSTART:20261119T083000Z
+DTEND:20261119T104500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Havoc & Yonder vs Hyper Tide Gaming
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261121T110000Z
+UID:pandascore-match-1805937@esport-ics
+DTSTART:20261121T110000Z
+DTEND:20261121T131500Z
+CLASS:PUBLIC
+DESCRIPTION:China National Tournament - Split Omega: Pro Division 2026 - Gr
+ oup B\nWatch: https://weibo.com/7864854446
+SUMMARY:Havoc & Yonder vs AQ
+URL;VALUE=URI:https://weibo.com/7864854446
+END:VEVENT
+END:VCALENDAR
