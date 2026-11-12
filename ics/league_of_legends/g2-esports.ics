@@ -532,6 +532,28 @@ CLASS:PUBLIC
 DESCRIPTION:Worlds - 2026 - Group Stage\nWatch: https://www.twitch.tv/riotg
  ames
 SUMMARY:Round 4: HLE vs G2
-URL;VALUE=URI:https://www.twitch.tv/riotgames
+URL:https://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261205T140000Z
+UID:pandascore-match-1808145@esport-ics
+DTSTART:20261205T140000Z
+DTEND:20261205T144500Z
+CLASS:PUBLIC
+DESCRIPTION:Red Bull League of Its Own - 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/redbull
+SUMMARY:G2 vs MKOI
+URL;VALUE=URI:https://www.twitch.tv/redbull
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261205T170000Z
+UID:pandascore-match-1808148@esport-ics
+DTSTART:20261205T170000Z
+DTEND:20261205T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Red Bull League of Its Own - 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/redbull
+SUMMARY:T1 vs G2
+URL;VALUE=URI:https://www.twitch.tv/redbull
 END:VEVENT
 END:VCALENDAR

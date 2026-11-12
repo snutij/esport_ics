@@ -105,14 +105,14 @@ SUMMARY:SYS vs VA
 URL:https://www.youtube.com/@MLBBeSports/live
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261113T060000Z
+DTSTAMP:20261113T050000Z
 UID:pandascore-match-1793306@esport-ics
-DTSTART:20261113T060000Z
-DTEND:20261113T094500Z
+DTSTART:20261113T050000Z
+DTEND:20261113T084500Z
 CLASS:PUBLIC
 DESCRIPTION:MPL Cambodia - Season 11 2026 - Playoffs\nWatch: https://www.yo
  utube.com/@MPLCambodia_Official
-SUMMARY:Upper Bracket Semifinal 1: VA vs TBD
+SUMMARY:Upper Bracket Semifinal 1: VA vs TNR
 URL;VALUE=URI:https://www.youtube.com/@MPLCambodia_Official
 END:VEVENT
 END:VCALENDAR

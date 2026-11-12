@@ -657,6 +657,39 @@ DTEND:20261109T014500Z
 CLASS:PUBLIC
 DESCRIPTION:Worlds - 2026 - Playoffs\nWatch: http://www.twitch.tv/riotgames
 SUMMARY:Semifinal 1: BLG vs T1
-URL;VALUE=URI:http://www.twitch.tv/riotgames
+URL:http://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261205T160000Z
+UID:pandascore-match-1808147@esport-ics
+DTSTART:20261205T160000Z
+DTEND:20261205T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Red Bull League of Its Own - 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/redbull
+SUMMARY:T1 vs KC
+URL;VALUE=URI:https://www.twitch.tv/redbull
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261205T170000Z
+UID:pandascore-match-1808148@esport-ics
+DTSTART:20261205T170000Z
+DTEND:20261205T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Red Bull League of Its Own - 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/redbull
+SUMMARY:T1 vs G2
+URL;VALUE=URI:https://www.twitch.tv/redbull
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261205T180000Z
+UID:pandascore-match-1808149@esport-ics
+DTSTART:20261205T180000Z
+DTEND:20261205T184500Z
+CLASS:PUBLIC
+DESCRIPTION:Red Bull League of Its Own - 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/redbull
+SUMMARY:T1 vs MKOI
+URL;VALUE=URI:https://www.twitch.tv/redbull
 END:VEVENT
 END:VCALENDAR

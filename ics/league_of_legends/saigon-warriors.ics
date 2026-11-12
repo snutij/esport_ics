@@ -377,6 +377,17 @@ CLASS:PUBLIC
 DESCRIPTION:LCP - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/l
  olpacificen
 SUMMARY:Semifinal: NH vs SGW
+URL:https://www.twitch.tv/lolpacificen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T060000Z
+UID:pandascore-match-1766742@esport-ics
+DTSTART:20261113T060000Z
+DTEND:20261113T094500Z
+CLASS:PUBLIC
+DESCRIPTION:LCP - Promotion 2027 - Playoffs\nWatch: https://www.twitch.tv/l
+ olpacificen
+SUMMARY:Grand final: DFM vs SGW
 URL;VALUE=URI:https://www.twitch.tv/lolpacificen
 END:VEVENT
 END:VCALENDAR

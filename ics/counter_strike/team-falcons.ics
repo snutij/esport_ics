@@ -633,6 +633,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Rivals - Fall 2026 - Group A\nWatch: https://www.twitch.t
  v/BLASTPremier
 SUMMARY:Elimination Match: LGC vs FAL
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T103000Z
+UID:pandascore-match-1762446@esport-ics
+DTSTART:20261113T103000Z
+DTEND:20261113T124500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Fall 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/BLASTPremier
+SUMMARY:Quarterfinal 2: G2 vs FAL
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

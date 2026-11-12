@@ -712,6 +712,17 @@ CLASS:PUBLIC
 DESCRIPTION:BLAST Rivals - Fall 2026 - Group A\nWatch: https://www.twitch.t
  v/BLASTPremier
 SUMMARY:Winners Match: FURIA vs VIT
+URL:https://www.twitch.tv/BLASTPremier
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T080000Z
+UID:pandascore-match-1762445@esport-ics
+DTSTART:20261113T080000Z
+DTEND:20261113T101500Z
+CLASS:PUBLIC
+DESCRIPTION:BLAST Rivals - Fall 2026 - Playoffs\nWatch: https://www.twitch.
+ tv/BLASTPremier
+SUMMARY:Quarterfinal 1: VIT vs MOUZ
 URL;VALUE=URI:https://www.twitch.tv/BLASTPremier
 END:VEVENT
 END:VCALENDAR

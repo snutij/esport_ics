@@ -611,6 +611,28 @@ DTEND:20261107T014500Z
 CLASS:PUBLIC
 DESCRIPTION:Worlds - 2026 - Playoffs\nWatch: http://www.twitch.tv/riotgames
 SUMMARY:Quarterfinal 2: KC vs T1
-URL;VALUE=URI:http://www.twitch.tv/riotgames
+URL:http://www.twitch.tv/riotgames
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261205T130000Z
+UID:pandascore-match-1808144@esport-ics
+DTSTART:20261205T130000Z
+DTEND:20261205T134500Z
+CLASS:PUBLIC
+DESCRIPTION:Red Bull League of Its Own - 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/redbull
+SUMMARY:MKOI vs KC
+URL;VALUE=URI:https://www.twitch.tv/redbull
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261205T160000Z
+UID:pandascore-match-1808147@esport-ics
+DTSTART:20261205T160000Z
+DTEND:20261205T164500Z
+CLASS:PUBLIC
+DESCRIPTION:Red Bull League of Its Own - 2026 - Group Stage\nWatch: https:/
+ /www.twitch.tv/redbull
+SUMMARY:T1 vs KC
+URL;VALUE=URI:https://www.twitch.tv/redbull
 END:VEVENT
 END:VCALENDAR

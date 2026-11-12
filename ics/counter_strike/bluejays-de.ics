@@ -102,6 +102,17 @@ CLASS:PUBLIC
 DESCRIPTION:DACH CS Masters - Season 6 2026 - Regular Season\nWatch: https:
  //www.twitch.tv/dachcs
 SUMMARY:BLUEJAYS.de vs REV
+URL:https://www.twitch.tv/dachcs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261211T100000Z
+UID:pandascore-match-1661661@esport-ics
+DTSTART:20261211T100000Z
+DTEND:20261211T121500Z
+CLASS:PUBLIC
+DESCRIPTION:DACH CS Masters - Season 6 2026 - Playoffs\nWatch: https://www.
+ twitch.tv/dachcs
+SUMMARY:Upper bracket semifinal 1: BIG.A vs BLUEJAYS.de
 URL;VALUE=URI:https://www.twitch.tv/dachcs
 END:VEVENT
 END:VCALENDAR

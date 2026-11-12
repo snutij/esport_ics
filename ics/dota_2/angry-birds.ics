@@ -157,7 +157,7 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/epc_en
 SUMMARY:Upper bracket quarterfinal 1: Z10 vs angry birds
-URL;VALUE=URI:https://www.twitch.tv/epc_en
+URL:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261113T100000Z
@@ -169,5 +169,60 @@ DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:XE vs angry birds
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T150000Z
+UID:pandascore-match-1805037@esport-ics
+DTSTART:20261113T150000Z
+DTEND:20261113T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/epc_en
+SUMMARY:Lower bracket round 1 match 1: angry birds vs old blood
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T130000Z
+UID:pandascore-match-1807957@esport-ics
+DTSTART:20261114T130000Z
+DTEND:20261114T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ICxI vs angry birds
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T130000Z
+UID:pandascore-match-1807960@esport-ics
+DTSTART:20261117T130000Z
+DTEND:20261117T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:4iki vs angry birds
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261118T100000Z
+UID:pandascore-match-1807962@esport-ics
+DTSTART:20261118T100000Z
+DTEND:20261118T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:angry birds vs TS.A
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T130000Z
+UID:pandascore-match-1807964@esport-ics
+DTSTART:20261119T130000Z
+DTEND:20261119T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:angry birds vs ALL
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

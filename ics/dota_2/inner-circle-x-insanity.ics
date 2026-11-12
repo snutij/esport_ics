@@ -576,6 +576,28 @@ SUMMARY:ICxI vs XE
 URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261112T160000Z
+UID:pandascore-match-1807953@esport-ics
+DTSTART:20261112T160000Z
+DTEND:20261112T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:TS.A vs ICxI
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T160000Z
+UID:pandascore-match-1807955@esport-ics
+DTSTART:20261113T160000Z
+DTEND:20261113T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ICxI vs ALL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261114T100000Z
 UID:pandascore-match-1791800@esport-ics
 DTSTART:20261114T100000Z
@@ -585,5 +607,38 @@ DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/esl_dota2
 SUMMARY:Upper Bracket Quarterfinal 4: ICxI vs TBD
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261114T130000Z
+UID:pandascore-match-1807957@esport-ics
+DTSTART:20261114T130000Z
+DTEND:20261114T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ICxI vs angry birds
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T100000Z
+UID:pandascore-match-1807958@esport-ics
+DTSTART:20261115T100000Z
+DTEND:20261115T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:4iki vs ICxI
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261118T190000Z
+UID:pandascore-match-1807963@esport-ics
+DTSTART:20261118T190000Z
+DTEND:20261118T211500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs ICxI
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

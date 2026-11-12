@@ -1065,6 +1065,17 @@ DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:NoTime vs EP
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261112T180000Z
+UID:pandascore-match-1808316@esport-ics
+DTSTART:20261112T180000Z
+DTEND:20261112T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #4 2026 - Group C\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Elimination Match: EP vs Ryvex
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261117T183000Z
 UID:pandascore-match-1792569@esport-ics
 DTSTART:20261117T183000Z

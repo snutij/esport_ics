@@ -1222,6 +1222,17 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/epc_en
 SUMMARY:Upper bracket quarterfinal 1: Z10 vs angry birds
+URL:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T090000Z
+UID:pandascore-match-1805035@esport-ics
+DTSTART:20261113T090000Z
+DTEND:20261113T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Playoffs\nWatch: https:/
+ /www.twitch.tv/epc_en
+SUMMARY:Upper bracket semifinal 1: Z10 vs XE
 URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
@@ -1236,6 +1247,17 @@ SUMMARY:PckCp vs Z10
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261114T100000Z
+UID:pandascore-match-1807956@esport-ics
+DTSTART:20261114T100000Z
+DTEND:20261114T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:TS.A vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261114T180000Z
 UID:pandascore-match-1791805@esport-ics
 DTSTART:20261114T180000Z
@@ -1245,5 +1267,38 @@ DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/esl_dota2
 SUMMARY:Lower Bracket Round 1 match 2: TBD vs Z10
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T130000Z
+UID:pandascore-match-1807959@esport-ics
+DTSTART:20261115T130000Z
+DTEND:20261115T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ALL vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261118T190000Z
+UID:pandascore-match-1807963@esport-ics
+DTSTART:20261118T190000Z
+DTEND:20261118T211500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Z10 vs ICxI
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T160000Z
+UID:pandascore-match-1807965@esport-ics
+DTSTART:20261119T160000Z
+DTEND:20261119T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:4iki vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

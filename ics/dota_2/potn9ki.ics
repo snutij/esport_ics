@@ -189,13 +189,13 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:P- vs TS
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261112T150000Z
+DTSTAMP:20261112T160000Z
 UID:pandascore-match-1805033@esport-ics
-DTSTART:20261112T150000Z
-DTEND:20261112T171500Z
+DTSTART:20261112T160000Z
+DTEND:20261112T181500Z
 CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/epc_en
@@ -225,6 +225,17 @@ SUMMARY:IAC vs P-
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261115T160000Z
+UID:pandascore-match-1807980@esport-ics
+DTSTART:20261115T160000Z
+DTEND:20261115T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:Red John vs P-
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261115T190000Z
 UID:pandascore-match-1785759@esport-ics
 DTSTART:20261115T190000Z
@@ -234,5 +245,49 @@ DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:P- vs CH
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T190000Z
+UID:pandascore-match-1807984@esport-ics
+DTSTART:20261117T190000Z
+DTEND:20261117T211500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:IAC vs P-
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T190000Z
+UID:pandascore-match-1807988@esport-ics
+DTSTART:20261119T190000Z
+DTEND:20261119T211500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:PckCp vs P-
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261120T130000Z
+UID:pandascore-match-1807989@esport-ics
+DTSTART:20261120T130000Z
+DTEND:20261120T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:P- vs TS
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261121T100000Z
+UID:pandascore-match-1807991@esport-ics
+DTSTART:20261121T100000Z
+DTEND:20261121T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:PR vs P-
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

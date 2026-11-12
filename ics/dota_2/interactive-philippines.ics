@@ -859,15 +859,26 @@ SUMMARY:IAC vs Amaru Gaming
 URL:https://www.twitch.tv/esl_dota2storm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261112T160000Z
+DTSTAMP:20261112T170000Z
 UID:pandascore-match-1785770@esport-ics
-DTSTART:20261112T160000Z
-DTEND:20261112T181500Z
+DTSTART:20261112T170000Z
+DTEND:20261112T191500Z
 CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:IAC vs LYNX
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T100000Z
+UID:pandascore-match-1807978@esport-ics
+DTSTART:20261113T100000Z
+DTEND:20261113T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:IAC vs Red John
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261114T100000Z
@@ -912,5 +923,49 @@ DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/esl_dota2
 SUMMARY:Lower Bracket Round 1 match 4: TBD vs IAC
 URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T130000Z
+UID:pandascore-match-1807981@esport-ics
+DTSTART:20261116T130000Z
+DTEND:20261116T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:IAC vs PR
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T190000Z
+UID:pandascore-match-1807984@esport-ics
+DTSTART:20261117T190000Z
+DTEND:20261117T211500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:IAC vs P-
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T100000Z
+UID:pandascore-match-1807987@esport-ics
+DTSTART:20261119T100000Z
+DTEND:20261119T121500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:TS vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261120T160000Z
+UID:pandascore-match-1807990@esport-ics
+DTSTART:20261120T160000Z
+DTEND:20261120T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:PckCp vs IAC
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR

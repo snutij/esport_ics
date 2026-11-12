@@ -47,7 +47,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:CH vs ALL
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261113T130000Z
@@ -61,6 +61,17 @@ SUMMARY:ALL vs P-
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20261113T160000Z
+UID:pandascore-match-1807955@esport-ics
+DTSTART:20261113T160000Z
+DTEND:20261113T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ICxI vs ALL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20261114T190000Z
 UID:pandascore-match-1785757@esport-ics
 DTSTART:20261114T190000Z
@@ -70,5 +81,49 @@ DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:TS vs ALL
 URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T130000Z
+UID:pandascore-match-1807959@esport-ics
+DTSTART:20261115T130000Z
+DTEND:20261115T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:ALL vs Z10
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T160000Z
+UID:pandascore-match-1807961@esport-ics
+DTSTART:20261117T160000Z
+DTEND:20261117T181500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:TS.A vs ALL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T130000Z
+UID:pandascore-match-1807964@esport-ics
+DTSTART:20261119T130000Z
+DTEND:20261119T151500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:angry birds vs ALL
+URL;VALUE=URI:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261120T190000Z
+UID:pandascore-match-1807966@esport-ics
+DTSTART:20261120T190000Z
+DTEND:20261120T211500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
+ kick.com/epldota_en2
+SUMMARY:4iki vs ALL
+URL;VALUE=URI:https://kick.com/epldota_en2
 END:VEVENT
 END:VCALENDAR
