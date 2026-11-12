@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #4 2026 - Group D\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:TLPR vs DNK
+URL:https://kick.com/fiesta_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T120000Z
+UID:pandascore-match-1807759@esport-ics
+DTSTART:20261112T120000Z
+DTEND:20261112T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #4 2026 - Group D\nWatc
+ h: https://kick.com/fiesta_cs
+SUMMARY:Winners match: ex-Sashi Academy vs TLPR
 URL;VALUE=URI:https://kick.com/fiesta_cs
 END:VEVENT
 END:VCALENDAR
