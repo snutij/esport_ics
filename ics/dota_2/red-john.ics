@@ -14,7 +14,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:IAC vs Red John
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261114T160000Z
@@ -25,7 +25,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:PR vs Red John
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261115T160000Z
@@ -36,7 +36,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:Red John vs P-
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261118T130000Z
@@ -47,6 +47,61 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:TS vs Red John
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T090000Z
+UID:pandascore-match-1834998@esport-ics
+DTSTART:20261129T090000Z
+DTEND:20261129T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Red John vs Ryvex Esports
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T150000Z
+UID:pandascore-match-1834999@esport-ics
+DTSTART:20261129T150000Z
+DTEND:20261129T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Legends Gaming vs Red John
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T180000Z
+UID:pandascore-match-1835003@esport-ics
+DTSTART:20261130T180000Z
+DTEND:20261130T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Red John vs old blood
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261201T090000Z
+UID:pandascore-match-1835004@esport-ics
+DTSTART:20261201T090000Z
+DTEND:20261201T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Red John vs Troll Division
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261201T180000Z
+UID:pandascore-match-1835007@esport-ics
+DTSTART:20261201T180000Z
+DTEND:20261201T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs Red John
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

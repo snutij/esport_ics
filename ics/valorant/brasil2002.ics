@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BRASIL2002
+SLUG:brasil2002
+BEGIN:VEVENT
+DTSTAMP:20261128T230000Z
+UID:pandascore-match-1830769@esport-ics
+DTSTART:20261128T230000Z
+DTEND:20261129T011500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Kickoff: Brazil Qualifier 2027 - Playoffs\nWatch
+ : https://www.twitch.tv/valorant_br
+SUMMARY:Lower Bracket Round 1 Match 2: BRASIL2002 vs Mafiosos
+URL;VALUE=URI:https://www.twitch.tv/valorant_br
+END:VEVENT
+END:VCALENDAR

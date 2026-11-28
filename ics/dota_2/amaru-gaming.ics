@@ -374,6 +374,28 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Group B\nWatch: https:
  //www.twitch.tv/esl_dota2storm
 SUMMARY:IAC vs Amaru Gaming
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2storm
+URL:https://www.twitch.tv/esl_dota2storm
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T090000Z
+UID:pandascore-match-1834988@esport-ics
+DTSTART:20261130T090000Z
+DTEND:20261130T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Z10 vs Amaru Gaming
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T150000Z
+UID:pandascore-match-1834987@esport-ics
+DTSTART:20261130T150000Z
+DTEND:20261130T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:4iki vs Amaru Gaming
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

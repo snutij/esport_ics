@@ -88,6 +88,50 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/epc_en
 SUMMARY:Lower bracket round 1 match 1: angry birds vs old blood
+URL:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T180000Z
+UID:pandascore-match-1835003@esport-ics
+DTSTART:20261130T180000Z
+DTEND:20261130T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Red John vs old blood
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261201T150000Z
+UID:pandascore-match-1835006@esport-ics
+DTSTART:20261201T150000Z
+DTEND:20261201T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Troll Division vs old blood
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261202T120000Z
+UID:pandascore-match-1835008@esport-ics
+DTSTART:20261202T120000Z
+DTEND:20261202T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:old blood vs Legends Gaming
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261202T150000Z
+UID:pandascore-match-1835009@esport-ics
+DTSTART:20261202T150000Z
+DTEND:20261202T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs old blood
 URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

@@ -186,6 +186,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 2 2026 - Play-In\nWatch: https://www.twitc
  h.tv/valorant_americas
 SUMMARY:Lower bracket round 3 match 1: NV vs G2
-URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261202T003000Z
+UID:pandascore-match-1830673@esport-ics
+DTSTART:20261202T003000Z
+DTEND:20261202T024500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Kickoff: North America Qualifier 2027 - Playoffs
+ \nWatch: https://www.twitch.tv/RedBull
+SUMMARY:Upper Bracket Quarterfinal 3: NV vs WLD
+URL;VALUE=URI:https://www.twitch.tv/RedBull
 END:VEVENT
 END:VCALENDAR

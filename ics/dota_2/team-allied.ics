@@ -58,7 +58,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:ALL vs P-
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261113T160000Z
@@ -69,7 +69,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:ICxI vs ALL
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261114T190000Z
@@ -80,7 +80,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:TS vs ALL
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261115T130000Z
@@ -91,7 +91,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:ALL vs Z10
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261117T160000Z
@@ -102,7 +102,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:TS.A vs ALL
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261119T130000Z
@@ -113,7 +113,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:angry birds vs ALL
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261120T190000Z
@@ -124,6 +124,17 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:4iki vs ALL
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261202T090000Z
+UID:pandascore-match-1834989@esport-ics
+DTSTART:20261202T090000Z
+DTEND:20261202T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:ALL vs 4iki
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

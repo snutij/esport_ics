@@ -74,7 +74,7 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group D\nWatch: https://www.twitch.
  tv/prestigeesportscs
 SUMMARY:PRE vs GLT
-URL;VALUE=URI:https://www.twitch.tv/prestigeesportscs
+URL:https://www.twitch.tv/prestigeesportscs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261002T160000Z
@@ -85,6 +85,17 @@ CLASS:PUBLIC
 DESCRIPTION:ROG Journey - Autumn 2026 - Group D\nWatch: https://www.twitch.
  tv/basementboys_cs
 SUMMARY:BMB vs GLT
-URL;VALUE=URI:https://www.twitch.tv/basementboys_cs
+URL:https://www.twitch.tv/basementboys_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T113000Z
+UID:pandascore-match-1829575@esport-ics
+DTSTART:20261129T113000Z
+DTEND:20261129T134500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 11 Closed Qualifier 2026 - Group C
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Winners match: GLT vs Ryvex
+URL;VALUE=URI:https://kick.com/eplcs_en
 END:VEVENT
 END:VCALENDAR

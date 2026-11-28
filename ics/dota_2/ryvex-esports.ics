@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ryvex Esports
+SLUG:ryvex-esports
+BEGIN:VEVENT
+DTSTAMP:20261129T090000Z
+UID:pandascore-match-1834998@esport-ics
+DTSTART:20261129T090000Z
+DTEND:20261129T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Red John vs Ryvex Esports
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T150000Z
+UID:pandascore-match-1835002@esport-ics
+DTSTART:20261130T150000Z
+DTEND:20261130T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs Ryvex Esports
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261201T120000Z
+UID:pandascore-match-1835005@esport-ics
+DTSTART:20261201T120000Z
+DTEND:20261201T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Ryvex Esports vs Legends Gaming
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+END:VCALENDAR

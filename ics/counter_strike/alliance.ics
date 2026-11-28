@@ -1020,6 +1020,17 @@ CLASS:PUBLIC
 DESCRIPTION:RUSH - Brno 2026 - Group A\nWatch: https://www.twitch.tv/playzo
  neup
 SUMMARY:ALL vs IS
-URL;VALUE=URI:https://www.twitch.tv/playzoneup
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T110000Z
+UID:pandascore-match-1818663@esport-ics
+DTSTART:20261130T110000Z
+DTEND:20261130T131500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Winter 2026 - Group A\nWatch: https://kick.com/ro
+ g_journey
+SUMMARY:APG vs ALL
+URL;VALUE=URI:https://kick.com/rog_journey
 END:VEVENT
 END:VCALENDAR

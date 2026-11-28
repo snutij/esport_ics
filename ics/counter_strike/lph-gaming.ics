@@ -1437,4 +1437,15 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:LPH vs PHTM.Ac
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261122T180000Z
+UID:pandascore-match-1819305@esport-ics
+DTSTART:20261122T180000Z
+DTEND:20261122T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Exort Fiesta - Season 4 2026 - Group Stage\nWatch: https://kick
+ .com/fiesta_cs
+SUMMARY:Round 3: LPH vs LK
+URL;VALUE=URI:https://kick.com/fiesta_cs
+END:VEVENT
 END:VCALENDAR

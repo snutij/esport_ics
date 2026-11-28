@@ -342,6 +342,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Americas: Last Chance Qualifier 2026 - Playoffs\nWatch: h
  ttps://www.twitch.tv/valorant_northamerica
 SUMMARY:Grand final: SRB vs 2GAME
-URL;VALUE=URI:https://www.twitch.tv/valorant_northamerica
+URL:https://www.twitch.tv/valorant_northamerica
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261202T003000Z
+UID:pandascore-match-1830674@esport-ics
+DTSTART:20261202T003000Z
+DTEND:20261202T024500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Kickoff: North America Qualifier 2027 - Playoffs
+ \nWatch: https://www.twitch.tv/RedBull
+SUMMARY:Upper Bracket Quarterfinal 4: SRB vs counterfeit
+URL;VALUE=URI:https://www.twitch.tv/RedBull
 END:VEVENT
 END:VCALENDAR

@@ -619,7 +619,7 @@ CLASS:PUBLIC
 DESCRIPTION:WardiTV - Championship Not-Summer 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/wardiii
 SUMMARY:Lower bracket round 3 match 2: Rogue vs TBD
-URL;VALUE=URI:https://www.twitch.tv/wardiii
+URL:https://www.twitch.tv/wardiii
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261117T110000Z
@@ -630,6 +630,17 @@ CLASS:PUBLIC
 DESCRIPTION:LiuLi Cup - Season 55 2026 - Playoffs\nWatch: https://live.bili
  bili.com/4670738
 SUMMARY:Semifinal 1: Maru vs Rogue
-URL;VALUE=URI:https://live.bilibili.com/4670738
+URL:https://live.bilibili.com/4670738
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T110000Z
+UID:pandascore-match-1820202@esport-ics
+DTSTART:20261129T110000Z
+DTEND:20261129T161500Z
+CLASS:PUBLIC
+DESCRIPTION:Kung Fu Cup - Grand Finals 2026 - Playoffs\nWatch: https://www.
+ douyu.com/3484
+SUMMARY:Lower Bracket Final: Solar vs Rogue
+URL;VALUE=URI:https://www.douyu.com/3484
 END:VEVENT
 END:VCALENDAR

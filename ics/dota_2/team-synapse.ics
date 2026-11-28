@@ -586,7 +586,7 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/epc_en
 SUMMARY:Upper bracket quarterfinal 3: P- vs TS
-URL;VALUE=URI:https://www.twitch.tv/epc_en
+URL:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261113T160000Z
@@ -597,7 +597,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:TS vs TTS
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261114T160000Z
@@ -608,7 +608,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:TS vs CH
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261114T190000Z
@@ -619,7 +619,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:TS vs ALL
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261115T100000Z
@@ -630,7 +630,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group B\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:TS vs IAC
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261116T160000Z
@@ -641,7 +641,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:TS vs PckCp
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261117T100000Z
@@ -652,7 +652,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:PR vs TS
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261118T130000Z
@@ -663,7 +663,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:TS vs Red John
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261119T100000Z
@@ -674,7 +674,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:TS vs IAC
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261120T130000Z
@@ -685,6 +685,39 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group B\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:P- vs TS
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261202T180000Z
+UID:pandascore-match-1834975@esport-ics
+DTSTART:20261202T180000Z
+DTEND:20261202T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Z10 vs TS
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261203T120000Z
+UID:pandascore-match-1834984@esport-ics
+DTSTART:20261203T120000Z
+DTEND:20261203T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:TS vs V
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261203T150000Z
+UID:pandascore-match-1834985@esport-ics
+DTSTART:20261203T150000Z
+DTEND:20261203T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:4iki vs TS
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

@@ -793,7 +793,7 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season\nWatch: 
  https://www.twitch.tv/sinquesports
 SUMMARY:YL vs SINQU
-URL;VALUE=URI:https://www.twitch.tv/sinquesports
+URL:https://www.twitch.tv/sinquesports
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261117T180000Z
@@ -804,7 +804,7 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/elisaviihdesport
 SUMMARY:SINQU vs BOYB
-URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+URL:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261119T153000Z
@@ -815,7 +815,7 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/elisaviihdesport
 SUMMARY:SINQU vs HAVU
-URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+URL:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261123T153000Z
@@ -826,6 +826,15 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/elisaviihdesport
 SUMMARY:SINQU vs RGG
-URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+URL:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T190000Z
+UID:pandascore-match-1838245@esport-ics
+DTSTART:20261130T190000Z
+DTEND:20261130T211500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 1: EP vs SINQU
 END:VEVENT
 END:VCALENDAR

@@ -779,6 +779,15 @@ CLASS:PUBLIC
 DESCRIPTION:Stake Ranked - Episode 6 2026 - Playoffs\nWatch: https://kick.c
  om/starladder
 SUMMARY:Upper Bracket Quarterfinal 4: BIG vs SNG
-URL;VALUE=URI:https://kick.com/starladder
+URL:https://kick.com/starladder
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261201T110000Z
+UID:pandascore-match-1818674@esport-ics
+DTSTART:20261201T110000Z
+DTEND:20261201T131500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Winter 2026 - Group B
+SUMMARY:SNG vs IS
 END:VEVENT
 END:VCALENDAR

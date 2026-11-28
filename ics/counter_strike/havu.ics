@@ -1095,7 +1095,7 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/elisaviihdesport
 SUMMARY:HAVU vs PRE
-URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+URL:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261119T153000Z
@@ -1106,7 +1106,7 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/elisaviihdesport
 SUMMARY:SINQU vs HAVU
-URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+URL:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261124T180000Z
@@ -1117,6 +1117,17 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/elisaviihdesport
 SUMMARY:HAVU vs KSM
+URL:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261128T180000Z
+UID:pandascore-match-1777610@esport-ics
+DTSTART:20261128T180000Z
+DTEND:20261128T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/elisaviihdesport
+SUMMARY:Upper Bracket Final: PRE vs HAVU
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 END:VCALENDAR

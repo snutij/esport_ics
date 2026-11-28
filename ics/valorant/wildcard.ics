@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wildcard
+SLUG:wildcard
+BEGIN:VEVENT
+DTSTAMP:20261202T003000Z
+UID:pandascore-match-1830673@esport-ics
+DTSTART:20261202T003000Z
+DTEND:20261202T024500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Kickoff: North America Qualifier 2027 - Playoffs
+ \nWatch: https://www.twitch.tv/RedBull
+SUMMARY:Upper Bracket Quarterfinal 3: NV vs WLD
+URL;VALUE=URI:https://www.twitch.tv/RedBull
+END:VEVENT
+END:VCALENDAR

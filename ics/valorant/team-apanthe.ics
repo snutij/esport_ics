@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Apanthe
+SLUG:team-apanthe
+BEGIN:VEVENT
+DTSTAMP:20261129T173000Z
+UID:pandascore-match-1834461@esport-ics
+DTSTART:20261129T173000Z
+DTEND:20261129T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Kickoff: Türkiye - Qualifier 2027 - Group B\nWatch:
+  https://www.twitch.tv/valorant_tur
+SUMMARY:Elimination match: APA vs BJK
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
+END:VEVENT
+END:VCALENDAR

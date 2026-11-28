@@ -862,6 +862,15 @@ CLASS:PUBLIC
 DESCRIPTION:RUSH - Brno 2026 - Group B\nWatch: https://www.twitch.tv/playzo
  neup
 SUMMARY:ENVY vs MZP
-URL;VALUE=URI:https://www.twitch.tv/playzoneup
+URL:https://www.twitch.tv/playzoneup
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261202T110000Z
+UID:pandascore-match-1818679@esport-ics
+DTSTART:20261202T110000Z
+DTEND:20261202T131500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Winter 2026 - Group C
+SUMMARY:ENVY vs MZP
 END:VEVENT
 END:VCALENDAR

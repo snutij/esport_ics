@@ -1398,7 +1398,7 @@ CLASS:PUBLIC
 DESCRIPTION:United21 - Season 58 2026 - Group C\nWatch: https://kick.com/un
  ited21_en
 SUMMARY:Winners match: STA vs TheChampionGG
-URL;VALUE=URI:https://kick.com/united21_en
+URL:https://kick.com/united21_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T170000Z
@@ -1409,7 +1409,7 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:STA vs MASQ
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T180000Z
@@ -1420,6 +1420,17 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:XI vs STA
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T090000Z
+UID:pandascore-match-1830407@esport-ics
+DTSTART:20261130T090000Z
+DTEND:20261130T111500Z
+CLASS:PUBLIC
+DESCRIPTION:United21 - Season 59 2026 - Group D\nWatch: https://kick.com/un
+ ited21_en
+SUMMARY:Winners' Match: PCIFIC vs STA
+URL;VALUE=URI:https://kick.com/united21_en
 END:VEVENT
 END:VCALENDAR

@@ -69,6 +69,16 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Southeast Asia: Split 2 2026 - Playoffs\nWatch: https://w
  ww.twitch.tv/valorant_pacific
 SUMMARY:Lower bracket final: JL vs 555
-URL;VALUE=URI:https://www.twitch.tv/valorant_pacific
+URL:https://www.twitch.tv/valorant_pacific
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T070000Z
+UID:pandascore-match-1842108@esport-ics
+DTSTART:20261129T070000Z
+DTEND:20261129T091500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Kickoff: Rest of SEA Closed Qualifier #1 2027 - P
+ layoffs
+SUMMARY:Upper Bracket Final: JL vs MC3D Esports
 END:VEVENT
 END:VCALENDAR

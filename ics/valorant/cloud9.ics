@@ -186,6 +186,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCT - Americas Stage 2 2026 - Play-In\nWatch: https://www.twitc
  h.tv/valorant_americas
 SUMMARY:Lower bracket round 1 match 1: C9 vs BST
-URL;VALUE=URI:https://www.twitch.tv/valorant_americas
+URL:https://www.twitch.tv/valorant_americas
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261201T220000Z
+UID:pandascore-match-1830671@esport-ics
+DTSTART:20261201T220000Z
+DTEND:20261202T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Kickoff: North America Qualifier 2027 - Playoffs
+ \nWatch: https://www.twitch.tv/RedBull
+SUMMARY:Upper Bracket Quarterfinal 1: C9 vs QoR
+URL;VALUE=URI:https://www.twitch.tv/RedBull
 END:VEVENT
 END:VCALENDAR

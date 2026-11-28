@@ -1146,6 +1146,17 @@ CLASS:PUBLIC
 DESCRIPTION:PGL Major - Singapore 2026 - Stage 1\nWatch: https://www.twitch
  .tv/PGL
 SUMMARY:Round 1: EF vs FLY
+URL:https://www.twitch.tv/PGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T080000Z
+UID:pandascore-match-1817119@esport-ics
+DTSTART:20261129T080000Z
+DTEND:20261129T101500Z
+CLASS:PUBLIC
+DESCRIPTION:PGL Major - Singapore 2026 - Stage 2\nWatch: https://www.twitch
+ .tv/PGL
+SUMMARY:Round 3: EF vs LVG
 URL;VALUE=URI:https://www.twitch.tv/PGL
 END:VEVENT
 END:VCALENDAR

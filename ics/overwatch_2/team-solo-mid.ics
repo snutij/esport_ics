@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Team Solo Mid
+SLUG:team-solo-mid
+BEGIN:VEVENT
+DTSTAMP:20261202T063000Z
+UID:pandascore-match-1834943@esport-ics
+DTSTART:20261202T063000Z
+DTEND:20261202T080000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - World Finals 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/ow_esports
+SUMMARY:Upper Bracket Round 1 match 1: TL vs TSM
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
+END:VEVENT
+END:VCALENDAR

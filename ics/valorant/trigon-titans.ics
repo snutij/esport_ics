@@ -25,6 +25,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Group B\nWatch: htt
  ps://www.twitch.tv/monsternotebook
 SUMMARY:Decider Match: NKVT vs TT
-URL;VALUE=URI:https://www.twitch.tv/monsternotebook
+URL:https://www.twitch.tv/monsternotebook
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T143000Z
+UID:pandascore-match-1834522@esport-ics
+DTSTART:20261130T143000Z
+DTEND:20261130T164500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Kickoff: Türkiye - Qualifier 2027 - Group A\nWatch:
+  https://www.twitch.tv/valorant_tur
+SUMMARY:Decider match: TT vs TBD
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
 END:VEVENT
 END:VCALENDAR

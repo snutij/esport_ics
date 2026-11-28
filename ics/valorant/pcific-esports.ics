@@ -208,6 +208,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monsters Reloaded - Closed Qualifier 2026 - Playoffs\nWatch: ht
  tps://www.twitch.tv/monsternotebook
 SUMMARY:Lower Bracket Semifinal: MISA vs PCFIC
-URL;VALUE=URI:https://www.twitch.tv/monsternotebook
+URL:https://www.twitch.tv/monsternotebook
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T173000Z
+UID:pandascore-match-1834462@esport-ics
+DTSTART:20261130T173000Z
+DTEND:20261130T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Kickoff: Türkiye - Qualifier 2027 - Group B\nWatch:
+  https://www.twitch.tv/valorant_tur
+SUMMARY:Decider match: PCFIC vs TBD
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
 END:VEVENT
 END:VCALENDAR

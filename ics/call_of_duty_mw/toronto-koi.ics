@@ -529,6 +529,17 @@ CLASS:PUBLIC
 DESCRIPTION:Monster Launch Invitational - 2027 - Playoffs\nWatch: https://w
  ww.twitch.tv/callofduty_esports
 SUMMARY:Grand final: TOR vs TBD
-URL;VALUE=URI:https://www.twitch.tv/callofduty_esports
+URL:https://www.twitch.tv/callofduty_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261204T203000Z
+UID:pandascore-match-1834877@esport-ics
+DTSTART:20261204T203000Z
+DTEND:20261205T001500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Kickoff Classic 2027 - Group B\nWatch: ht
+ tps://www.youtube.com/@CODLeague/live
+SUMMARY:TOR vs GMP
+URL;VALUE=URI:https://www.youtube.com/@CODLeague/live
 END:VEVENT
 END:VCALENDAR

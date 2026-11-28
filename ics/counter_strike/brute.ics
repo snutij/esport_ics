@@ -1124,6 +1124,28 @@ CLASS:PUBLIC
 DESCRIPTION:NODWIN Clutch Series - Season 14 2026 - Group Stage\nWatch: htt
  ps://kick.com/nodwin_cs2
 SUMMARY:Round 2: BRUTE vs 33
-URL;VALUE=URI:https://kick.com/nodwin_cs2
+URL:https://kick.com/nodwin_cs2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T110000Z
+UID:pandascore-match-1818662@esport-ics
+DTSTART:20261130T110000Z
+DTEND:20261130T131500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Winter 2026 - Group A\nWatch: https://kick.com/ro
+ g_journey
+SUMMARY:FNC vs BRUTE
+URL;VALUE=URI:https://kick.com/rog_journey
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T140000Z
+UID:pandascore-match-1818671@esport-ics
+DTSTART:20261130T140000Z
+DTEND:20261130T161500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Winter 2026 - Group A\nWatch: https://kick.com/ro
+ g_journey
+SUMMARY:Elimination Match: BRUTE vs TBD
+URL;VALUE=URI:https://kick.com/rog_journey
 END:VEVENT
 END:VCALENDAR

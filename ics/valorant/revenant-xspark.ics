@@ -212,6 +212,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - South Asia: Split 2 2026 - Playoffs\nWatch: https://www.y
  outube.com/watch?v=pfpNGU8tFzs
 SUMMARY:Lower bracket final: NSP vs RXS
-URL;VALUE=URI:https://www.youtube.com/watch?v=pfpNGU8tFzs
+URL:https://www.youtube.com/watch?v=pfpNGU8tFzs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T113000Z
+UID:pandascore-match-1833630@esport-ics
+DTSTART:20261129T113000Z
+DTEND:20261129T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Kickoff: South Asia - Qualifier 2027 - Playoffs\n
+ Watch: https://www.youtube.com/@VALORANTinsa/live
+SUMMARY:Grand Final: RXS vs KRY
+URL;VALUE=URI:https://www.youtube.com/@VALORANTinsa/live
 END:VEVENT
 END:VCALENDAR

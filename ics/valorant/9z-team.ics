@@ -201,6 +201,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Latin America South: Stage 2 2026 - Playoffs\nWatch: http
  s://www.twitch.tv/valorant_la
 SUMMARY:Lower bracket final: KRÜ Spark vs 9z
+URL:https://www.twitch.tv/valorant_la
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T220000Z
+UID:pandascore-match-1836234@esport-ics
+DTSTART:20261129T220000Z
+DTEND:20261130T001500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Kickoff: LATAM South - Qualifier 2027 - Playoffs
+ \nWatch: https://www.twitch.tv/valorant_la
+SUMMARY:Upper bracket semifinal 2: UW vs 9z
 URL;VALUE=URI:https://www.twitch.tv/valorant_la
 END:VEVENT
 END:VCALENDAR

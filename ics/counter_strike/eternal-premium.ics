@@ -1073,7 +1073,7 @@ CLASS:PUBLIC
 DESCRIPTION:Exort Fiesta - Closed Qualifier: Series #4 2026 - Group C\nWatc
  h: https://kick.com/fiesta_cs
 SUMMARY:Elimination Match: EP vs Ryvex
-URL;VALUE=URI:https://kick.com/fiesta_cs
+URL:https://kick.com/fiesta_cs
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261117T183000Z
@@ -1083,5 +1083,14 @@ DTEND:20261117T191500Z
 CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:EP vs FAL.F
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T190000Z
+UID:pandascore-match-1838245@esport-ics
+DTSTART:20261130T190000Z
+DTEND:20261130T211500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 1: EP vs SINQU
 END:VEVENT
 END:VCALENDAR

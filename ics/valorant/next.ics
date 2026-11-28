@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NEXT 
+SLUG:next
+BEGIN:VEVENT
+DTSTAMP:20261129T200000Z
+UID:pandascore-match-1830765@esport-ics
+DTSTART:20261129T200000Z
+DTEND:20261129T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Kickoff: Brazil Qualifier 2027 - Playoffs\nWatch
+ : https://www.twitch.tv/valorant_br
+SUMMARY:Upper Bracket Semifinal 1: NEXT vs ELE
+URL;VALUE=URI:https://www.twitch.tv/valorant_br
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kryon Esports
+SLUG:kryon-esports
+BEGIN:VEVENT
+DTSTAMP:20261129T113000Z
+UID:pandascore-match-1833630@esport-ics
+DTSTART:20261129T113000Z
+DTEND:20261129T151500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Kickoff: South Asia - Qualifier 2027 - Playoffs\n
+ Watch: https://www.youtube.com/@VALORANTinsa/live
+SUMMARY:Grand Final: RXS vs KRY
+URL;VALUE=URI:https://www.youtube.com/@VALORANTinsa/live
+END:VEVENT
+END:VCALENDAR

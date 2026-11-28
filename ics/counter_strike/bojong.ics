@@ -767,7 +767,7 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/elisaviihdesport
 SUMMARY:RGG vs BJNG
-URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+URL:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261118T180000Z
@@ -778,7 +778,7 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/elisaviihdesport
 SUMMARY:NV vs BJNG
-URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
+URL:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261120T150000Z
@@ -807,6 +807,17 @@ CLASS:PUBLIC
 DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Group Stage\nWatch: https:/
  /www.twitch.tv/elisaviihdesport
 SUMMARY:BOYB vs BJNG
+URL:https://www.twitch.tv/elisaviihdesport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T153000Z
+UID:pandascore-match-1777612@esport-ics
+DTSTART:20261129T153000Z
+DTEND:20261129T174500Z
+CLASS:PUBLIC
+DESCRIPTION:Elisa Open Suomi - Season 14 2026 - Playoffs\nWatch: https://ww
+ w.twitch.tv/elisaviihdesport
+SUMMARY:Lower Bracket Final: BJNG vs TBD
 URL;VALUE=URI:https://www.twitch.tv/elisaviihdesport
 END:VEVENT
 END:VCALENDAR

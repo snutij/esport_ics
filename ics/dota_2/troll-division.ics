@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Troll Division
+SLUG:troll-division
+BEGIN:VEVENT
+DTSTAMP:20261129T180000Z
+UID:pandascore-match-1835000@esport-ics
+DTSTART:20261129T180000Z
+DTEND:20261129T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs Troll Division
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T120000Z
+UID:pandascore-match-1835001@esport-ics
+DTSTART:20261130T120000Z
+DTEND:20261130T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Troll Division vs Legends Gaming
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261201T090000Z
+UID:pandascore-match-1835004@esport-ics
+DTSTART:20261201T090000Z
+DTEND:20261201T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Red John vs Troll Division
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261201T150000Z
+UID:pandascore-match-1835006@esport-ics
+DTSTART:20261201T150000Z
+DTEND:20261201T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Troll Division vs old blood
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+END:VCALENDAR

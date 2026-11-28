@@ -745,6 +745,17 @@ CLASS:PUBLIC
 DESCRIPTION:DraculaN - Season 7 2026 - Playoffs\nWatch: https://www.twitch.
  tv/roman
 SUMMARY:Lower bracket round 2 match 1: SAW vs TBD
-URL;VALUE=URI:https://www.twitch.tv/roman
+URL:https://www.twitch.tv/roman
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261203T110000Z
+UID:pandascore-match-1818684@esport-ics
+DTSTART:20261203T110000Z
+DTEND:20261203T131500Z
+CLASS:PUBLIC
+DESCRIPTION:ROG Journey - Winter 2026 - Group D\nWatch: https://kick.com/ro
+ g_journey
+SUMMARY:GL vs SAW
+URL;VALUE=URI:https://kick.com/rog_journey
 END:VEVENT
 END:VCALENDAR

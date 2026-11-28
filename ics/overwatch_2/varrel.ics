@@ -388,6 +388,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Asia Stage 3 2026 - Group B\nWatch: https://www.twitch.tv
  /ow_esports_jp
 SUMMARY:VAR vs EF.36
-URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261202T051500Z
+UID:pandascore-match-1834946@esport-ics
+DTSTART:20261202T051500Z
+DTEND:20261202T064500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - World Finals 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/ow_esports
+SUMMARY:Upper Bracket Round 1 match 4: CR vs VAR
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:No Org No Problem
+SLUG:no-org-no-problem
+BEGIN:VEVENT
+DTSTAMP:20261206T160000Z
+UID:pandascore-match-1825539@esport-ics
+DTSTART:20261206T160000Z
+DTEND:20261206T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Kickoff: Middle East & North Africa Qualifier 2027 -
+  Playoffs\nWatch: https://www.twitch.tv/valorant_emea
+SUMMARY:Grand Final: MMM vs NONP
+URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+END:VEVENT
+END:VCALENDAR

@@ -608,6 +608,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - Asia Stage 3 2026 - Group A\nWatch: https://www.twitch.tv
  /ow_esports_jp
 SUMMARY:T1 vs FAL
-URL;VALUE=URI:https://www.twitch.tv/ow_esports_jp
+URL:https://www.twitch.tv/ow_esports_jp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261203T074500Z
+UID:pandascore-match-1834947@esport-ics
+DTSTART:20261203T074500Z
+DTEND:20261203T100000Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - World Finals 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/ow_esports
+SUMMARY:Upper Bracket Quarterfinal 1: T1 vs TBD
+URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

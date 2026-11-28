@@ -286,6 +286,61 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Decider\nWatch: https://
  www.twitch.tv/epc_en
 SUMMARY:Level Up Academy vs HKR
+URL:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261128T190000Z
+UID:pandascore-match-1834997@esport-ics
+DTSTART:20261128T190000Z
+DTEND:20261128T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs Legends Gaming
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T180000Z
+UID:pandascore-match-1835000@esport-ics
+DTSTART:20261129T180000Z
+DTEND:20261129T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs Troll Division
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T150000Z
+UID:pandascore-match-1835002@esport-ics
+DTSTART:20261130T150000Z
+DTEND:20261130T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs Ryvex Esports
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261201T180000Z
+UID:pandascore-match-1835007@esport-ics
+DTSTART:20261201T180000Z
+DTEND:20261201T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs Red John
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261202T150000Z
+UID:pandascore-match-1835009@esport-ics
+DTSTART:20261202T150000Z
+DTEND:20261202T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs old blood
 URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

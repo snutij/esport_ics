@@ -14,6 +14,17 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Oceania 2027 - Playoffs\nWatch: 
  https://www.twitch.tv/ausesportsau
 SUMMARY:Upper Bracket Semifinal 1: BON vs  Troopers
-URL;VALUE=URI:https://www.twitch.tv/ausesportsau
+URL:https://www.twitch.tv/ausesportsau
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T060000Z
+UID:pandascore-match-1829596@esport-ics
+DTSTART:20261129T060000Z
+DTEND:20261129T094500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Kickoff: Oceania - Qualifier 2027 - Playoffs\nWat
+ ch: https://www.twitch.tv/FortressGlobal
+SUMMARY:Grand Final: BON vs MeatZn
+URL;VALUE=URI:https://www.twitch.tv/FortressGlobal
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Legends Gaming
+SLUG:legends-gaming
+BEGIN:VEVENT
+DTSTAMP:20261128T190000Z
+UID:pandascore-match-1834997@esport-ics
+DTSTART:20261128T190000Z
+DTEND:20261128T211500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:HKR vs Legends Gaming
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T150000Z
+UID:pandascore-match-1834999@esport-ics
+DTSTART:20261129T150000Z
+DTEND:20261129T171500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Legends Gaming vs Red John
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T120000Z
+UID:pandascore-match-1835001@esport-ics
+DTSTART:20261130T120000Z
+DTEND:20261130T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Troll Division vs Legends Gaming
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261201T120000Z
+UID:pandascore-match-1835005@esport-ics
+DTSTART:20261201T120000Z
+DTEND:20261201T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Ryvex Esports vs Legends Gaming
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261202T120000Z
+UID:pandascore-match-1835008@esport-ics
+DTSTART:20261202T120000Z
+DTEND:20261202T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group B\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:old blood vs Legends Gaming
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+END:VCALENDAR

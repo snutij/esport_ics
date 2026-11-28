@@ -311,6 +311,17 @@ CLASS:PUBLIC
 DESCRIPTION:Garena Challenger Series - Summer 2026 - Group Stage\nWatch: ht
  tps://www.youtube.com/watch?v=FFUHA9WY9sg
 SUMMARY: LIT Team vs BMG
-URL;VALUE=URI:https://www.youtube.com/watch?v=FFUHA9WY9sg
+URL:https://www.youtube.com/watch?v=FFUHA9WY9sg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261203T060000Z
+UID:pandascore-match-1836936@esport-ics
+DTSTART:20261203T060000Z
+DTEND:20261203T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor International Championship - 2026 - Group Stage\
+ nWatch: https://www.twitch.tv/arenaofvalor
+SUMMARY:Round 1: BOOM vs BMG
+URL;VALUE=URI:https://www.twitch.tv/arenaofvalor
 END:VEVENT
 END:VCALENDAR

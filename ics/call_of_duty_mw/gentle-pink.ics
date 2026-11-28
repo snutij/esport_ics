@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gentle Pink
+SLUG:gentle-pink
+BEGIN:VEVENT
+DTSTAMP:20261204T203000Z
+UID:pandascore-match-1834877@esport-ics
+DTSTART:20261204T203000Z
+DTEND:20261205T001500Z
+CLASS:PUBLIC
+DESCRIPTION:Call of Duty League - Kickoff Classic 2027 - Group B\nWatch: ht
+ tps://www.youtube.com/@CODLeague/live
+SUMMARY:TOR vs GMP
+URL;VALUE=URI:https://www.youtube.com/@CODLeague/live
+END:VEVENT
+END:VCALENDAR

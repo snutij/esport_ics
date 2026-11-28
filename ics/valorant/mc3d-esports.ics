@@ -14,6 +14,16 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Philippines 2027 - Playoffs\nWat
  ch: https://www.twitch.tv/predatorgaming_ph
 SUMMARY:Semifinal 1: MC3D Esports vs Maxxing
-URL;VALUE=URI:https://www.twitch.tv/predatorgaming_ph
+URL:https://www.twitch.tv/predatorgaming_ph
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T070000Z
+UID:pandascore-match-1842108@esport-ics
+DTSTART:20261129T070000Z
+DTEND:20261129T091500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Kickoff: Rest of SEA Closed Qualifier #1 2027 - P
+ layoffs
+SUMMARY:Upper Bracket Final: JL vs MC3D Esports
 END:VEVENT
 END:VCALENDAR

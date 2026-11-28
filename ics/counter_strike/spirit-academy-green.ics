@@ -341,4 +341,25 @@ CLASS:PUBLIC
 DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Regular Season
 SUMMARY:SINQU vs Spirit Academy Green
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T190000Z
+UID:pandascore-match-1838250@esport-ics
+DTSTART:20261130T190000Z
+DTEND:20261130T211500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 6: Spirit Academy Green vs Diamant Espo
+ rts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261202T090000Z
+UID:pandascore-match-1829566@esport-ics
+DTSTART:20261202T090000Z
+DTEND:20261202T111500Z
+CLASS:PUBLIC
+DESCRIPTION:European Pro League - Series 11 Closed Qualifier 2026 - Group A
+ \nWatch: https://kick.com/eplcs_en
+SUMMARY:Decider match: Spirit Academy Green vs REV
+URL;VALUE=URI:https://kick.com/eplcs_en
+END:VEVENT
 END:VCALENDAR

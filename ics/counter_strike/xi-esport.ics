@@ -1233,7 +1233,7 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:XI vs STA
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261109T200000Z
@@ -1244,6 +1244,15 @@ CLASS:PUBLIC
 DESCRIPTION:Dust2.dk Ligaen - Season 33 2026 - Regular Season\nWatch: https
  ://www.twitch.tv/dust2tv
 SUMMARY:XI vs MSC
-URL;VALUE=URI:https://www.twitch.tv/dust2tv
+URL:https://www.twitch.tv/dust2tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T190000Z
+UID:pandascore-match-1838246@esport-ics
+DTSTART:20261130T190000Z
+DTEND:20261130T211500Z
+CLASS:PUBLIC
+DESCRIPTION:ESEA - Advanced Europe season 59 2026 - Playoffs
+SUMMARY:Lower bracket round 2 match 2: Al Ahli vs XI
 END:VEVENT
 END:VCALENDAR

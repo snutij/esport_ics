@@ -256,6 +256,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - EMEA: Last Chance Qualifier 2026 - Group B\nWatch: https:
  //www.twitch.tv/valorant_emea
 SUMMARY:Elimination match: MIR vs BJK
-URL;VALUE=URI:https://www.twitch.tv/valorant_emea
+URL:https://www.twitch.tv/valorant_emea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T173000Z
+UID:pandascore-match-1834461@esport-ics
+DTSTART:20261129T173000Z
+DTEND:20261129T194500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - EMEA Kickoff: Türkiye - Qualifier 2027 - Group B\nWatch:
+  https://www.twitch.tv/valorant_tur
+SUMMARY:Elimination match: APA vs BJK
+URL;VALUE=URI:https://www.twitch.tv/valorant_tur
 END:VEVENT
 END:VCALENDAR

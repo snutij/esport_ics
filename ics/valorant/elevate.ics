@@ -173,6 +173,17 @@ CLASS:PUBLIC
 DESCRIPTION:VCL - Brazil: Stage 2 2026 - Play-In\nWatch: https://www.twitch
  .tv/gamersclubvalorant
 SUMMARY:Lower bracket quarterfinal 1: ELE vs INTZ
-URL;VALUE=URI:https://www.twitch.tv/gamersclubvalorant
+URL:https://www.twitch.tv/gamersclubvalorant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T200000Z
+UID:pandascore-match-1830765@esport-ics
+DTSTART:20261129T200000Z
+DTEND:20261129T221500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Americas Kickoff: Brazil Qualifier 2027 - Playoffs\nWatch
+ : https://www.twitch.tv/valorant_br
+SUMMARY:Upper Bracket Semifinal 1: NEXT vs ELE
+URL;VALUE=URI:https://www.twitch.tv/valorant_br
 END:VEVENT
 END:VCALENDAR

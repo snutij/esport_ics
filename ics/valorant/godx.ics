@@ -34,6 +34,16 @@ CLASS:PUBLIC
 DESCRIPTION:Asia Pacific Predator League - Thailand 2027 - Playoffs\nWatch:
   https://www.youtube.com/@PredatorLeagueThailand/live
 SUMMARY:Lower Bracket Quarterfinal 1: Salamander vs GODX
-URL;VALUE=URI:https://www.youtube.com/@PredatorLeagueThailand/live
+URL:https://www.youtube.com/@PredatorLeagueThailand/live
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T080000Z
+UID:pandascore-match-1841671@esport-ics
+DTSTART:20261129T080000Z
+DTEND:20261129T101500Z
+CLASS:PUBLIC
+DESCRIPTION:VCT - Pacific Kickoff: Thailand Closed Qualifier 1 2027 - Playo
+ ffs
+SUMMARY:Upper Bracket Final: GODX vs XE
 END:VEVENT
 END:VCALENDAR

@@ -1233,7 +1233,7 @@ CLASS:PUBLIC
 DESCRIPTION:Esports Pro Circuit  - Season 3 2026 - Playoffs\nWatch: https:/
  /www.twitch.tv/epc_en
 SUMMARY:Upper bracket semifinal 1: Z10 vs XE
-URL;VALUE=URI:https://www.twitch.tv/epc_en
+URL:https://www.twitch.tv/epc_en
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261113T190000Z
@@ -1244,7 +1244,7 @@ CLASS:PUBLIC
 DESCRIPTION:Asgard Championship - Season 2 2026 - Group A\nWatch: https://w
  ww.twitch.tv/asgard_championship2
 SUMMARY:PckCp vs Z10
-URL;VALUE=URI:https://www.twitch.tv/asgard_championship2
+URL:https://www.twitch.tv/asgard_championship2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261114T100000Z
@@ -1255,7 +1255,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:TS.A vs Z10
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261114T180000Z
@@ -1266,7 +1266,7 @@ CLASS:PUBLIC
 DESCRIPTION:DreamLeague - Division 2 season 5 2026 - Playoffs\nWatch: https
  ://www.twitch.tv/esl_dota2
 SUMMARY:Lower Bracket Round 1 match 2: TBD vs Z10
-URL;VALUE=URI:https://www.twitch.tv/esl_dota2
+URL:https://www.twitch.tv/esl_dota2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261115T130000Z
@@ -1277,7 +1277,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:ALL vs Z10
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261118T190000Z
@@ -1288,7 +1288,7 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:Z10 vs ICxI
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261119T160000Z
@@ -1299,6 +1299,28 @@ CLASS:PUBLIC
 DESCRIPTION:European Pro League - Season 41 2026 - Group A\nWatch: https://
  kick.com/epldota_en2
 SUMMARY:4iki vs Z10
-URL;VALUE=URI:https://kick.com/epldota_en2
+URL:https://kick.com/epldota_en2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261130T090000Z
+UID:pandascore-match-1834988@esport-ics
+DTSTART:20261130T090000Z
+DTEND:20261130T111500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Z10 vs Amaru Gaming
+URL;VALUE=URI:https://www.twitch.tv/epc_en
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261202T180000Z
+UID:pandascore-match-1834975@esport-ics
+DTSTART:20261202T180000Z
+DTEND:20261202T201500Z
+CLASS:PUBLIC
+DESCRIPTION:Esports Pro Circuit  - Season 4 2026 - Group A\nWatch: https://
+ www.twitch.tv/epc_en
+SUMMARY:Z10 vs TS
+URL;VALUE=URI:https://www.twitch.tv/epc_en
 END:VEVENT
 END:VCALENDAR

@@ -91,6 +91,17 @@ CLASS:PUBLIC
 DESCRIPTION:Arena of Glory - Winter 2026 - Playoffs\nWatch: https://www.you
  tube.com/@LienQuanMobileSportsGarena/streams
 SUMMARY:Lower Bracket Final: SP vs BOOM
-URL;VALUE=URI:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+URL:https://www.youtube.com/@LienQuanMobileSportsGarena/streams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261203T060000Z
+UID:pandascore-match-1836936@esport-ics
+DTSTART:20261203T060000Z
+DTEND:20261203T081500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor International Championship - 2026 - Group Stage\
+ nWatch: https://www.twitch.tv/arenaofvalor
+SUMMARY:Round 1: BOOM vs BMG
+URL;VALUE=URI:https://www.twitch.tv/arenaofvalor
 END:VEVENT
 END:VCALENDAR

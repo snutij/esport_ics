@@ -333,6 +333,17 @@ CLASS:PUBLIC
 DESCRIPTION:OCS - North America Stage 3 2026 - Playoffs\nWatch: https://www
  .twitch.tv/ow_esports
 SUMMARY:Grand Final: DAL vs TBD
+URL:https://www.twitch.tv/ow_esports
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261203T040000Z
+UID:pandascore-match-1834950@esport-ics
+DTSTART:20261203T040000Z
+DTEND:20261203T061500Z
+CLASS:PUBLIC
+DESCRIPTION:OCS - World Finals 2026 - Playoffs\nWatch: https://www.twitch.t
+ v/ow_esports
+SUMMARY:Upper Bracket Quarterfinal 4: DAL vs TBD
 URL;VALUE=URI:https://www.twitch.tv/ow_esports
 END:VEVENT
 END:VCALENDAR

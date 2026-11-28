@@ -1224,6 +1224,17 @@ CLASS:PUBLIC
 DESCRIPTION:CCT Europe - Series #13 2026 - Group Stage\nWatch: https://kick
  .com/cct_cs
 SUMMARY:Round 4: TLR vs MEGO
-URL;VALUE=URI:https://kick.com/cct_cs
+URL:https://kick.com/cct_cs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261129T180000Z
+UID:pandascore-match-1832112@esport-ics
+DTSTART:20261129T180000Z
+DTEND:20261129T201500Z
+CLASS:PUBLIC
+DESCRIPTION:CCT Europe - Closed Qualifier: Series #16 2026 - Group D\nWatch
+ : https://kick.com/cct_cs2
+SUMMARY:Decider Match: MEGO vs TBD
+URL;VALUE=URI:https://kick.com/cct_cs2
 END:VEVENT
 END:VCALENDAR

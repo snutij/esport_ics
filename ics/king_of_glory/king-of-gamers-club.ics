@@ -388,6 +388,17 @@ CLASS:PUBLIC
 DESCRIPTION:RoV Pro League - Winter 2026 - Group Stage\nWatch: https://www.
  youtube.com/watch?v=b6FqnsdgkO0
 SUMMARY:KOG vs eA
-URL;VALUE=URI:https://www.youtube.com/watch?v=b6FqnsdgkO0
+URL:https://www.youtube.com/watch?v=b6FqnsdgkO0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261204T120000Z
+UID:pandascore-match-1836943@esport-ics
+DTSTART:20261204T120000Z
+DTEND:20261204T141500Z
+CLASS:PUBLIC
+DESCRIPTION:Arena of Valor International Championship - 2026 - Group Stage\
+ nWatch: https://www.twitch.tv/arenaofvalor
+SUMMARY:Round 1: eA vs KOG
+URL;VALUE=URI:https://www.twitch.tv/arenaofvalor
 END:VEVENT
 END:VCALENDAR
